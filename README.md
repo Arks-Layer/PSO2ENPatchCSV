@@ -10,7 +10,7 @@ This repository is dedicated to translating PSO2 game texts from Japanese to Eng
 We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native languages in the future.
 
 ## Warnings
-* Do not move any files.
+* Do not move any files (if a file needs to be moved, open an issue)
 * Do not add any new files.
 * Maintain the triple quotation marks.
 
