@@ -1,0 +1,7 @@
+IncidentName#0,"""戦闘機防衛"""
+TrialBeginMsg#0,"""修理が完了するまで戦闘機を防衛せよ！"""
+EnemyAppearMsg#0,"""$(0)の方向から敵が現れた！"""
+TrialEvolutionBeginMsg_ReLanding#0,"""修理が完了するまで、再び戦闘機を防衛せよ！"""
+TrialEvolutionBeginMsg_Rescue#0,"""戦闘機防衛 発展：パイロット救助\u3000開始！"""
+TrialEvolutionBeginMsg_Combat#0,"""戦闘機防衛 発展：協力戦闘\u3000開始！"""
+TrialAbstract#0,"""戦闘機が修理されるまで防衛せよ！"""

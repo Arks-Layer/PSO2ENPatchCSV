@@ -1,0 +1,8 @@
+IncidentName#0,"""逃走$(0)討伐"""
+TrialBeginMsg#0,"""逃走する$(0)を$(1)体倒せ！<br>$(2)体以上、逃がすと失敗。"""
+TrialAbstract#0,"""逃走$(0)を討伐せよ！"""
+TrialBeginMsgForKeyII#0,"""逃走する$(0)を$(1)体倒せ！"""
+NpcComOnBegin#0,"""逃走する$(0)の<br>存在を確認。奇行の原因調査のため<br>逃走前の討伐回収を願います。"""
+NpcComOnBeginAtRareCase#0,"""$(0)の存在を<br>確認しました。早急な討伐要請が<br>下っています。よろしくお願いします！"""
+NpcComOnSuccess#0,"""/face2 $(0)のデータ<br>取得完了、協力感謝します。"""
+NpcComOnFailure#0,"""$(0)、ロスト。<br>データ取得は失敗しましたが<br>ここまでの協力、感謝します。"""
