@@ -1,2 +1,2 @@
-name#0,"""周囲のキャラクターについて"""
-text01#0,"""<yellow>【周囲のキャラクターとは】<c><br><br>\u3000自分の近くにいるキャラクターをリストアップして、<br>\u3000パーティー招待やフレンド登録申し込み、チームコマンド、<br>\u3000アイテムトレードの申し込み、アークスカードを見る、<br>\u3000ブラックリストへの登録などの機能をご利用頂けます。<br><br>\u3000「<pict partnercard>」はフレンド、「<pict guildgroup>」はチームメンバー、<br>\u3000「<pict guild_friend>」はフレンドでチームメンバーであることを示しています。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_menu_mmenu_list>"""
+name#0,"""Nearby Characters"""
+text01#0,"""<yellow>Nearby Characters<c><br><br>This command will list characters that are near you. You can invite them to your party, send them friend requests, use team commands, send trade requests, view their ARKS cards, add them to your blacklist, and perform other such operations.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_menu_mmenu_list>"""

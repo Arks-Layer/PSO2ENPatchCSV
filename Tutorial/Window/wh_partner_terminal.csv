@@ -1,2 +1,2 @@
-name01#0,"""パートナー呼び出し端末について"""
-text01#0,"""<yellow>【パートナー呼び出し端末について】<c><br><br>\u3000一緒に戦ってくれるパートナーを呼び出す端末です。<br>\u3000リストから呼び出すキャラクターを選択します。<br><br>\u3000タブを切替えることで、フレンドパートナー<br>\u3000サポートパートナー、フリーパートナーのリストも表示され、<br>\u3000こちらも同じように一緒に戦ってくれます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_party_partner>"""
+name01#0,"""The Partner Terminal"""
+text01#0,"""<yellow>The Partner Terminal<c><br><br>This is a terminal you can use to call partners who will fight alongside you. Select the character you want to call from the list. You can use the tabs to switch to a list of partner characters added by friends. These characters can fight alongside you as well.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_preparations_party_partner>"""

@@ -1,2 +1,2 @@
-name01#0,"""ACショップについて"""
-whelp_acshop01#0,"""<yellow>【ACショップについて】<c><br><br>\u3000有料ポイント「AC（アークスキャッシュ）」を消費して、<br>\u3000ACショップ専用アイテムを購入できます。<br><br>\u3000「ACチャージ」ボタンを押すと、<br>\u3000ACをチャージ（購入）できるページ、またはウィンドウが開きます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_ac>"""
+name01#0,"""About the AC Shop"""
+whelp_acshop01#0,"""<yellow>The AC Shop<c><br><br>You can buy items only available at the AC Shop with ARKS cash (AC). <br><br>Selecting the Buy AC button opens your browser and takes you to the site where you can purchase AC.<br><br>For those outside Japan, you can buy Arks-Cash at<br><url http://arks-layer.com> and various other sources.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_preparations_ac>"""

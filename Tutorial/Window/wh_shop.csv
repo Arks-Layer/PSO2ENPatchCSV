@@ -1,2 +1,2 @@
-name01#0,"""ショップについて"""
-whelp_shop01#0,"""<yellow>【ショップについて】<c><br><br>\u3000アイテムを購入したり、所持アイテムを売却できます。<br>\u3000間違って売却したアイテムを買い戻すこともできます。<br><br>\u3000商品／アイテムパックリストでは、上下でカーソル移動、<br>\u3000左右で個数変更し、「購入」などのボタンを選ぶことで、<br>\u3000売買できます。<br>\u3000<br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
+name01#0,"""Shops"""
+whelp_shop01#0,"""<yellow>Shops<c><br><br>At shops, you can buy the items you need and sell those that you don't. You can even buy back items that you sold by accident. On the Goods List, use up/down to move the cursor to the item you want, left/right to specify a quantity, then select the Buy button. The process for selling items from your Inventory works in a similar manner.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_preparations_arkslobby_shoparea>"""

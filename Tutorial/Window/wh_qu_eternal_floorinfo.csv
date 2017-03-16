@@ -1,2 +1,2 @@
-name01#0,"""ステージ情報について"""
-whelp_qu_eternal_floorinfo01#0,"""<yellow>【ステージ情報について】<c><br><br>\u3000各ステージの詳細情報を表示します。<br><br>\u3000「ステージオーダー」の条件を達成することで、<br>\u3000次のステージのアイテムドロップ数が増えたり、<br>\u3000「<pict stage_order1>」マークのついたエネミー能力変化が反転して有利になったり、<br>\u3000クエストクリア時に受け取ることができる<br>\u3000仮想アイテム数が増える場合があります。<br><br>\u3000※ステージごとに「<pict stage_order1>」マークは色が違います。"""
+name01#0,"""About Stage Info"""
+whelp_qu_eternal_floorinfo01#0,"""<yellow>About Stage Info <c><br><br>Displays details information about each stage.<br><br>Upon fulfilling the conditions of the 'Stage Order', the number of items in the next stage may increase, changes to the power of enemies marked with '<pict stage_order1>' may reverse to your advantage, and the number of virtual items may increase. You can accept these once the quest is cleared. <br><br>*The color of the <pict stage_order1> mark differs depending on the stage. """

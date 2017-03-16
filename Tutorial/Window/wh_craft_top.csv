@@ -1,2 +1,2 @@
-name01#0,"""クラフトメニューについて"""
-whelp_craft_top01#0,"""<yellow>【クラフトメニューについて】<c><br><br><yellow>■「自分でクラフトする」<c><br>\u3000・装備品や素材、費用などを自分で用意してクラフトします。<br><yellow>■「依頼からクラフトする」<c><br>\u3000・他のプレイヤーからの依頼をもとに、クラフトします。<br>\u3000\u3000装備品や素材、費用などは、発注者が用意します。<br><yellow>■「看板設定」<c><br>\u3000・他のプレイヤーから検索されるための設定を行います。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_equipment_craft>"""
+name01#0,"""About the Craft Menu"""
+whelp_craft_top01#0,"""<yellow>Craft Menu<c><br><br><yellow>■ My Crafts<c><br>・Craft using your own materials and meseta.<br><yellow>■ Crafting Requests<c><br>・Fill crafting requests other players have left you.<br><yellow>■ Signboard Settings<c><br>・Set what crafts other players can request from you.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_preparations_equipment_craft>"""

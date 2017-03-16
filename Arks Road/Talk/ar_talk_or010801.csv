@@ -1,4 +1,4 @@
-name01#0,"""アスタルテ"""
-text01#0,"""現在の貴方の目標は……"""
-11_voice_shop_414#0,"""<c bb0000>コフィーのクライアントオーダーにある<br>追加クラス許可申請試練のいずれかを<br>達成する<c>ことです。"""
-text03#0,"""討伐対象もそうですが、その各々に<br>指定されている武器種限定にも<br>注意して下さい。"""
+name01#0,"""Astarte"""
+text01#0,"""Your current goal is..."""
+11_voice_shop_414#0,"""To complete <c bb0000>one of the Extra Class License Request Tests from Koffie's Client Orders<c>."""
+text03#0,"""Please be careful to check not only what you should be defeating, but what weapon you must use."""

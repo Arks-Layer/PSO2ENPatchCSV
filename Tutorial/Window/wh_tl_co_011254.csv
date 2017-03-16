@@ -1,4 +1,4 @@
-name01#0,"""『エクストリームクエスト』について"""
-text01#0,"""「エクストリームクエスト」について説明します。<br><br>「エクストリームクエスト」は、過酷な状況下での<br>任務達成能力を高めるために用意された訓練プログラムです。<br><br>アークスシップの格納庫に固定されたキャンプシップの<br>テレプールからＶＲ空間にダイブすることが可能となっています。<br><br>ＶＲ空間では「ステージ」と呼ばれるエリアが幾重にも連なっており<br>定期的に拡張されていきます。"""
-text02#0,"""「エクストリームクエスト」を開始するには<br>「エクストリームパス」が必要となります。<br><br>「エクストリームパス」はログイン時に受け取るか<br>装備管理官プリンから受け取ることができます。<br><br><yellow>アカウントにつき、２２時間ごとに１回<c><br>受け取ることができます。"""
+name01#0,"""Extreme Quests"""
+text01#0,"""This will explain 'Extreme Quests'.<br><br>'Extreme Quests' are training programs prepared to give you the ability to achieve tasks under difficult circumstances.<br><br>You can use the campship in the hangar of the ARKS Ship to get there.<br>Simply use the gate there to dive into VR Space.<br><br>In VR Space, several areas known as 'Stages' are set up in a row.<br>The stages expand at fixed intervals."""
+text02#0,"""In order to start an Extreme Quest you need an Extreme Pass.<br><br>You can have Officer Pudding attach one Extreme Pass to your Account. <yellow>You can only get one pass every 22 hours.<c>"""
 text03#0,"""エクストリームクエストでは倒したエネミーが<br>「<yellow>原石<c>」や「<yellow>欠片<c>」と呼ばれるアイテムを<br>ドロップする場合があります。<br><br>原石・欠片には種類があり、入手できる種類は<br>エクストリームクエストごとに異なります。<br><br>また、エネミーのドロップ以外にも<br>クエストの最終エリアをクリアすることで<br>大量に入手することができます。<br><br>原石と欠片はアークス・ロビーの魔石交換ショップで<br>強力な武器や防具と交換することができます。"""

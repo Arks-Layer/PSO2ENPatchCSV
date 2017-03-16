@@ -1,2 +1,2 @@
-name01#0,"""サポートパートナーの装備カスタムについて"""
-text01#0,"""<yellow>【サポートパートナーの装備カスタムについて】<c><br><br>\u3000サポートパートナーには、プレイヤーのアイテムパックに<br>\u3000格納されているアイテムやエッグを装備させることができます。<br>\u3000\u3000※スキルリングは装備させることができません。<br>\u3000\u3000<yellow>※愛着度ゲージは装備させても増えません。<c><br><br>\u3000サポートパートナーは装備させた武器のカテゴリに応じて<br>\u3000プレイヤー自身が選択可能なクラスに変更されます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_party_supportpartner>"""
+name01#0,"""Custom Support Partner Equipment"""
+text01#0,"""<yellow>Custom Support Partner Equipment<c><br><br>You can equip your support partner with items stored in your inventory. Depending on the category of weapon given to your support partner, their class may change to a different class. For more information, please refer to the Online Manual below:<br><&URL pso2_players_manual_preparations_party_supportpartner>"""

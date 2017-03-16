@@ -1,2 +1,2 @@
-name01#0,"""クイックメニューについて"""
-text01#0,"""<yellow>【クイックメニューについて】<c><br><br>\u3000ショートカットワード発言やロビーアクション実行、<br>\u3000自分のマイルームに移動など、さまざまな便利機能を<br>\u3000実行できます。<br><br>\u3000<%MultiSelect>で、クイックメニューの内容を<br>\u3000いくつかのパターンから変更できます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_menu_qmenu>"""
+name01#0,"""Quick Menu"""
+text01#0,"""<yellow>The Quick Menu<c><br><br>Select and send shortcuts, execute lobby actions, set your online status, and access other communication features. You can also move to your room and switch maps during quests, among other things.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_menu_qmenu>"""

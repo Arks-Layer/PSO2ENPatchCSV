@@ -1,2 +1,2 @@
-name01#0,"""クラスカウンターについて"""
-whelp_class_counter01#0,"""<yellow>【クラスカウンターについて】<c><br><br>\u3000キャラクターのクラスを変更したり、スキルツリーで<br>\u3000クラススキルを習得したりすることができます。<br>\u3000「スキルツリー追加」からいずれかのクラスのスキルツリーを<br>\u3000増やすことができ、「スキルツリー振り替え」から<br>\u30001つのスキルツリーを削除し、新たにいずれかのクラスへ振り替えられます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_class>"""
+name01#0,"""About the Class Counter"""
+whelp_class_counter01#0,"""<yellow>The Class Counter<c><br><br>This is where you can change your character's class and learn new class skills using a skill tree. Add a skill tree for any class with Add Skill Tree or reset a skill tree using Reset Skill Tree, then create a new one.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_preparations_class>"""

@@ -1,2 +1,2 @@
-name01#0,"""エクストリーム端末について"""
-whelp_qu_eternal_terminal01#0,"""<yellow>【エクストリーム端末について】<c><br><br>\u3000ステージ情報の確認と、エクストリームクエスト内で<br>\u3000拾得した仮想アイテムの保管状況確認、および<br>\u3000受け取り（クエストクリア後のみ）ができます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_quest_extreme>"""
+name01#0,"""About the Extreme Terminal"""
+whelp_qu_eternal_terminal01#0,"""<yellow>About the Extreme Terminal<c><br><br>Once confirming the stage info in the extreme quest area, you can check the storage or receipt status of virtual items gained (only after clearing the quest). <br><br>For more information, please refer to the Online Manual below:<br><&URL pso2_players_manual_preparations_quest_extreme>"""

@@ -1,2 +1,2 @@
-name01#0,"""コミュニケーション履歴について"""
-whelp_communicationlist01#0,"""<yellow>【コミュニケーション履歴について】<c><br><br>\u3000他のプレイヤーとコミュニケーションした履歴です。<br>\u3000以下の３つが確認できます。<br><br>\u3000・他プレイヤーから受け取ったコメントつきグッジョブ<br>\u3000・パーティーを組んだことがあるプレイヤー<br>\u3000・自分をフレンドパートナーとして使用したプレイヤー<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_communication>"""
+name01#0,"""About the Communication Log"""
+whelp_communicationlist01#0,"""<yellow>The Communication Log<c><br><br>The Communication Log is a record of your communication with other players. You can view the following three kinds of log entries:<br><br>- Good Job with comments from other players<br>- Players you have formed a party with<br>- Players who have used your character as a friend partner<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_communication>"""

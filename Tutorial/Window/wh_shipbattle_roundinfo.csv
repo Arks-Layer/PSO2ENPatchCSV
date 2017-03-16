@@ -1,2 +1,2 @@
 name01#0,"""ラウンド情報について"""
-whelp_shipbattle_roundinfo01#0,"""<yellow>【ラウンド情報について】<c><br><br>\u3000各ラウンドにおける「ラウンド目標」や、<br>\u3000そのラウンドでいくつ「スター<pict sb_star_icon>」を獲得すると<br>\u3000報酬アイテムがもらえるかなどの情報を確認できます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_info_arksshipcompetition>"""
+whelp_shipbattle_roundinfo01#0,"""<yellow>【ラウンド情報について】<c><br><br>\u3000各ラウンドにおける「ラウンド目標」や、<br>\u3000そのラウンドでいくつ「スター<pict sb_star_icon>」を獲得すると<br>\u3000報酬アイテムがもらえるかなどの情報を確認できます。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_info_arksshipcompetition>"""

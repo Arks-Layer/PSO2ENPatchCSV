@@ -1,2 +1,2 @@
-name01#0,"""『パーティーエリア』について"""
-text01#0,"""クエストには、<br>一つのパーティーで戦闘する「<yellow>シングルパーティーエリア<c>」と<br>複数のパーティーが行き交う「<yellow>マルチパーティーエリア<c>」が存在します。<br><br>「マルチパーティーエリア」は、単体のパーティーだけでは、<br>侵攻困難と判断された特別指定区域であり、進入には危険が伴うが、<br>それだけに成果は期待できます。"""
+name01#0,"""Party Areas"""
+text01#0,"""With Multi-party quests, there is a multi-party area (MPA) where multiple parties can go back and forth, and a single party area where one party can battle on it's own. <br><br>The multi-party area is a special zone designated as difficult to breach by only a stand-alone party, so entering it means flirting with danger, but that only means you can expect good returns."""

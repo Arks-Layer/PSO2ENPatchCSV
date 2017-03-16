@@ -1,4 +1,4 @@
-ar_or010800#0,"""No.1<br>以下のいずれかのクライアントオーダーを達成<br>オーザの「ファイタークラスの推挙」<br>リサの「ガンナーに推薦しましょうかあ？」<br>マールーの「テクタークラスになりたいの？」<br><yellow>※Lv.25～受注可能<c>"""
-ar_or010801#0,"""No.2<br>コフィーのクライアントオーダー<br>「ファイタークラス許可申請試練」<br>「ガンナークラス許可申請試練」<br>「テクタークラス許可申請試練」<br>のいずれかを達成"""
-ar_or010800#1,"""追加クラス解放の推挙"""
-ar_or010801#1,"""追加クラス許可申請試練"""
+ar_or010800#0,"""No.1<br>Complete one of these client orders:<br>【Fighter Recommendation】 (Ohza)<br>【Shall I Endorse you for Gunner?】 (Lisa)<br>【Want to become a Techer?】 (Marlu)<br><yellow>※You must be Lv. 25+<c>"""
+ar_or010801#0,"""No.2<br>Complete one of these client orders:<br>【Fighter License Application】<br>【Gunner License Application】<br>【Techer License Application】<br>from Koffie"""
+ar_or010800#1,"""Additional class unlock"""
+ar_or010801#1,"""Additional class permit"""

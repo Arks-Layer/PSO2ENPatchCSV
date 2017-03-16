@@ -1,4 +1,4 @@
-name01#0,"""『ロックオン』について"""
-text01#0,"""<%LockOn_N>を押し続けることで正面にいる<br>攻撃対象に対して常に画面内に捉えて<br>攻撃しやすくなります。<br><%LockOn_N>を離すとロックオンを解除できます。<br><br><yellow>▼<#GamePad>操作のみ<c><br>ロックオン中に右スティックを任意の方向に<br>入力することで、ロックオン対象を<br>切り替えることが可能です。<br>※攻撃対象が複数存在する場合のみ"""
-text02#0,"""<%LockOn_N>を押し続けることで正面にいる<br>攻撃対象に対して常に画面内に捉えて<br>攻撃しやすくなります。<br><%LockOn_N>を離すとロックオンを解除できます。<br><br>ロックオン中に右スティックを任意の方向に<br>入力することで、ロックオン対象を<br>切り替えることが可能です。<br>※攻撃対象が複数存在する場合のみ"""
-text03#0,"""オプションの操作変更画面から<br>・ワンプッシュ操作<br>・ホールド操作<br>上記の設定から操作を選択することが<br>できます。<br><br>攻撃対象が存在しない場合に<br>ロックオン操作を行うと<br>カメラ視点をキャラクターが<br>向いている方角に合わせることが<br>できます。"""
+name01#0,"""Locking On"""
+text01#0,"""How to use the Lock On system:<br><br>[Keyboard and Mouse option]<br>By pressing <%LockOn>, the target in front of you will be captured within your screen, making it easier to attack. Pressing it again will disengage the lock."""
+text02#0,"""Gamepad Controls<br><br>By holding <%LockOn>, you can Lock-On to the the currently soft-targeted enemy. By releasing <%LockOn> the lock will be disengaged.<br><br><yellow>※Gamepad-Only Controls<c><br><br>If there is more than one target, you can change what target you are locked-on to by moving the right stick in the direction of the target."""
+text03#0,"""It is possible to change between pressing or holding the button to lock on in the control settings screen of the options."""

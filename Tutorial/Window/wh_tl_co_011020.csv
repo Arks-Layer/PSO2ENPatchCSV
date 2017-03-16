@@ -1,4 +1,4 @@
-name01#0,"""『戦闘不能』について"""
-text01#0,"""戦闘不能について説明します。<br><br>キャラクターのＨＰが０になると、<br>戦闘不能となり、行動ができなくなってしまいます。"""
-text02#0,"""戦闘不能になった場合は、<br>表示されているメニューから再開方法を選択したり、<br>特別な場合を除き、仲間の助けを待つことができます。<br><br>また、この状態でもチャットをすることは出来ますので、<br>パーティーメンバーと相談することも可能です。"""
-text03#0,"""生存しているパーティーメンバーが<br>ムーンアトマイザーといった復活アイテムなどを使用することで<br>戦闘不能となったキャラクターを復活させられます。<br><br>また、戦闘不能者がスケープドールやハーフドールを<br>所持していれば、その場で復活することができます。<br><br>パートナーキャラクターについては、戦闘不能となっても<br>一定時間経過後に自動で復活するため<br>復活アイテムなどを使用する必要は必ずしもありません。"""
+name01#0,"""Incapacitation"""
+text01#0,"""This will explain Incapacitation.<br><br>When an Individual's HP reaches 0, they become incapacitated and unable to move."""
+text02#0,"""When incapacitated, either choose from the return to campship option or (except for some special cases) wait for help from your allies.<br><br>You are able to chat even in this condition, so you may consult with other party members. """
+text03#0,"""Existing party members can also revive an individual who has become incapacitated by using a restorative item such as a Moon Atomizer.<br><br>Furthermore, if they have a Scape Doll or a Half Doll, they can revive themselves on the spot. <br><br>You do not necessarily need to use a restorative item to revive an incapacitated partner character, as they will automatically be revived after a set amount of time has passed."""

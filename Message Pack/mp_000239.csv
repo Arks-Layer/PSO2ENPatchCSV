@@ -1,3 +1,3 @@
-linewindow#0,"""<br>『パーティーエリア』について<br>"""
-text00#0,"""『パーティーエリア』について"""
-text01#0,"""クエストには、<br>一つのパーティーで戦闘する「<yellow>シングルパーティーエリア<c>」と<br>複数のパーティーが行き交う「<yellow>マルチパーティーエリア<c>」が存在します。<br><br>「マルチパーティーエリア」は、単体のパーティーだけでは、<br>侵攻困難と判断された特別指定区域であり、進入には危険が伴うが、<br>それだけに成果は期待できます。"""
+linewindow#0,"""Party Areas"""
+text00#0,"""Party Areas"""
+text01#0,"""Multi-party quests can take place in Single-Party Areas, or Multi-Party Areas where several parties join in.  Multi-Party Areas are considered difficult to take on with a single party. They are dangerous to enter, but also offer greater rewards."""

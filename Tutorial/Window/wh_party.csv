@@ -1,2 +1,2 @@
-name#0,"""パーティーコマンドについて"""
-text01#0,"""<yellow>【パーティーコマンドについて】<c><br><br>\u3000パーティー情報の確認や、パーティー招待への返答、<br>\u3000参加中のパーティーから脱退などができます。<br><br>\u3000自分がソロ（パーティー不参加時）かパーティーリーダーの時は、<br>\u3000「パーティー設定」などのパーティー全体を管理するための<br>\u3000コマンドが使用可能になります。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_menu_mmenu_list>"""
+name#0,"""Party Commands"""
+text01#0,"""<yellow>Party Commands<c><br><br>View party information, respond to party invitations, leave your current party, and perform other party-related operations. When you are not part of a party or when you are a party leader, you can also use commands that affect the entire party, such as Party Settings.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_menu_mmenu_list>"""

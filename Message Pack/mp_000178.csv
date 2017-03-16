@@ -1,4 +1,4 @@
-name01#0,"""メッセージパック"""
-text01#0,"""エネミーを撃破していくことで<br>大気中のフォトンが刺激されて<br>能力補正効果を持つことがありますー。"""
-text02#0,"""この効果をPSEと呼びますよー。<br>（Photon Sensitive Effect）"""
-text03#0,"""PSEには多種多様な効果がありますー。<br>レーダーマップの横に情報アイコンが<br>現れるので、詳細はそちらをご参照ー。"""
+name01#0,"""Message Pack"""
+text01#0,"""Defeating enemies stimulates the photons in the atmosphere, and this can sometimes trigger an effect that alters your abilities."""
+text02#0,"""This effect is called PSE, or the Photon Sensitive Effect."""
+text03#0,"""PSE can have a wide range of effects. An icon appears next to your radar map, and you can check the details there."""

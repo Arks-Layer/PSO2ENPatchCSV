@@ -1,2 +1,2 @@
-name01#0,"""キャラクタークリエイト"""
-whelp_charamake01#0,"""<yellow>【キャラクタークリエイトについて】<c><br><br>\u3000あなたが操作するキャラクターの外見を作成できます。<br>\u3000「かんたん」編集は候補から選ぶタイプのグループで、<br>\u3000「こだわり」編集は細部まで調整可能なグループです。<br><br>\u3000操作を間違えた場合や、変更点が気に入らなかった場合は、<br>\u3000キーボード操作時は[Ctrl]+[Z]キーで、元に戻せます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_setup_character>"""
+name01#0,"""About Character Creation"""
+whelp_charamake01#0,"""<yellow>Character Creation<c><br><br>Customize your character. 'Simple' lets you create a character from various presets, while 'Detailed' gives you greater control over your character customization.<br><br>Press Ctrl+Z to go back a step if you don’t like any changes you have made.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_setup_character>"""

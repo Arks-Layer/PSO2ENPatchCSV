@@ -1,2 +1,2 @@
-name01#0,"""購入履歴について"""
-whelp_history01#0,"""<yellow>【購入履歴について】<c><br><br>\u3000AC（アークスキャッシュ）で購入したアイテムの履歴を確認できます。<br>\u3000購入履歴の数が増えた場合は、ページを切り替えることで、<br>\u3000さらに過去の履歴までさかのぼって確認できます。<br><br>\u3000<yellow>※購入履歴に掲載されているアイテムが行方不明の場合、<br>\u3000\u3000別キャラクターで購入した可能性がありますので、ご確認ください。<c><br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_ac>"""
+name01#0,"""Purchase History"""
+whelp_history01#0,"""<yellow>Purchase History<c><br><br>View a record of the items you purchased with ARKS cash. If you have purchased a lot of items, you can view older purchases by switching pages.<br><br><yellow>*If you cannot find items listed in your purchase history, check to see if they were purchased by a different character.<c><br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_preparations_ac>"""

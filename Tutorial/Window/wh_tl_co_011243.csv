@@ -1,2 +1,2 @@
-name01#0,"""『ログイン証』について"""
-text01#0,"""全アークスに対し、ログインしている<br>プラットフォームを示す証が支給されます。<br><br>クエストを受託する際に、<br>\""PC\""，\""PlayStation®Vita\"",“PlayStation 4”<br>いずれかのログイン証が必要になる場合が<br>あります。<br><br>現在所持しているログイン証を確認するには、<br>メインメニューのマイデータの<br>キャラクター情報のイベントアイテムを<br>選ぶことで確認することが可能です。"""
+name01#0,"""The Login Pass"""
+text01#0,"""All ARKS members are given a Login Pass to show which gaming platform they are currently logged into.<br><br>Certain Quests will also require a particular Login Pass, like 'PC' or 'PS Vita'.<br><br>You can check out which Login Pass you currently have by going to the Main Menu, selecting your Inventory, and then choosing Event Items."""

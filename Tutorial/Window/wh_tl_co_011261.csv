@@ -1,4 +1,4 @@
-name01#0,"""『アークスビンゴカード』について"""
-text01#0,"""アークスビンゴカードについて説明します。<br><br>アークスビンゴカードでは、<br>各目標を達成していくことで<br>ビンゴ数に応じた報酬が貰えます。<br><br>「アークスビンゴカード」を選択し<br>「詳細を確認する」から目標を確認出来ます。<br><br>※期間限定のため、<br>\u3000対象にならない時期もあります"""
-text02#0,"""アークスビンゴカードは、設定しておかないと<br>目標達成の判定がされません。<br><br>内容を確認したら「このビンゴカードを進める」を<br>押し忘れないようにしましょう。"""
-text03#0,"""設定した後は自動的に<br>目標達成の判定が行われます。<br>コンプリート目指して頑張りましょう。"""
+name01#0,"""The ARKS Bingo Card"""
+text01#0,"""This will explain the 'ARKS Bingo Card'.<br><br>If you complete the objectives on the ARKS Bingo Card, you will get rewards corresponding to the number of Bingos you achieved.<br><br>You can check out the objectives by selecting 'ARKS Bingo Card' and choosing 'Check Details'."""
+text02#0,"""If you do not set up your ARKS Bingo Card in advance, you will not be rewarded for completing its objectives.<br><br>Do not forget to choose 'Use this Bingo Card' after you check its contents."""
+text03#0,"""After you set it up, you will automatically be rewarded for completing objectives. Do your best to complete them."""

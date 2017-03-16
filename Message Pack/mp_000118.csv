@@ -1,3 +1,3 @@
-name01#0,"""メッセージパック"""
-text01#0,"""マルチパーティークエストには、<br>一つのパーティーで戦闘する「シングルパーティーエリア」と<br>複数のパーティーが行き交う「マルチパーティーエリア」が存在する。"""
-text02#0,"""「マルチパーティーエリア」は、単体のパーティーだけでは、<br>侵攻困難と判断された特別指定区域であり、進入には危険が伴うが、<br>それだけに成果は期待できる。"""
+name01#0,"""Message Pack"""
+text01#0,"""Multi-party quests can take place in Single-Party Areas, or Multi-Party Areas where several parties join in."""
+text02#0,"""Multi-Party Areas are considered difficult to take on with a single party. They are dangerous to enter, but also offer greater rewards."""

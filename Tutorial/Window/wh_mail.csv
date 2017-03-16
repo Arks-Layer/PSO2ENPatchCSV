@@ -1,2 +1,2 @@
-name#0,"""メールについて"""
-text01#0,"""<yellow>【メール機能について】<c><br><br>\u3000・メールの送信<br>\u3000\u3000フレンドまたはチームメンバーに対して<br>\u3000\u3000メールを送ることができます。<br><br>\u3000・メールを見る／返信する／削除する<br>\u3000\u3000受信したメールに対して操作できます。<br><br>\u3000\u3000<yellow>※本文を選択して、カーソル操作することで<br>\u3000\u3000\u3000\u3000文章がスクロールします。<c><br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_communication_mail>"""
+name#0,"""Mail"""
+text01#0,"""<yellow>Mail<c><br><br>- Sending mail<br>You can send mail to friends and team members.<br><br>- Viewing, replying to, and deleting mail. These operations are available for mail you have received.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_communication_mail>"""
