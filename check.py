@@ -18,4 +18,4 @@ for i in sys.argv:
             for n, col in enumerate(row):
                 if n == 0:
                      if col not in WClist:
-                         print("File {} have extra line: {})".format(i, col))
+                         print("File {} have extra line: {}".format(i, col))
