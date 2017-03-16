@@ -21,8 +21,8 @@ for i in sys.argv[1:]:
         try:
             WCCSV = list(csv.reader(WC,strict=True))
         except:
-             print("Error reading WC vresion of {0}".format(i))
-             sys.exit(os.EX_NOINPUT)
+             print("Error reading WC version of {0}".format(i))
+             sys.exit(os.EX_UNAVAILABLE)
              break;
         WClist = []
         for row in WCCSV:
