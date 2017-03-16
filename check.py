@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 import csv
+import os
 import sys
+
+
+err = os.EX_OK
+
+if len(sys.argv) == 1:
+    sys.exit(os.EX_NOINPUT)
 
 for i in sys.argv[1:]:
     with open(i) as JP:
@@ -8,12 +15,14 @@ for i in sys.argv[1:]:
             JPCSV = list(csv.reader(JP,strict=True))
         except:
             print("Error reading {0}".format(i))
+            sys.exit(os.EX_DATAERR)
             break;
         WC = open(i.replace("/JP/","/WC/"))
         try:
             WCCSV = list(csv.reader(WC,strict=True))
         except:
              print("Error reading WC vresion of {0}".format(i))
+             sys.exit(os.EX_NOINPUT)
              break;
         WClist = []
         for row in WCCSV:
@@ -27,3 +36,6 @@ for i in sys.argv[1:]:
                 if n == 0:
                      if col not in WClist:
                          print("File {} have extra line: {}".format(i, col))
+                         err =  os.EX_NOTFOUND
+
+sys.exit(err)
