@@ -1,0 +1,5 @@
+# Unix EOL
+*.sh text eol=lf
+*.py text eol=lf
+#native EOL
+*.csv text
