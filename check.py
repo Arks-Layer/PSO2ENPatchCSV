@@ -10,6 +10,7 @@ if len(sys.argv) == 1:
     sys.exit(os.EX_NOINPUT)
 
 for i in sys.argv[1:]:
+    w = i.replace("/JP/","/WC/")
     with open(i) as JP:
 
         try:
@@ -20,13 +21,14 @@ for i in sys.argv[1:]:
             break;
 
         try:
-            WC = open(i.replace("/JP/","/WC/"))
+            WC = open(w)
         except:
-            print("Error reading WC version of {0}".format(i))
+            print("Error reading of {0}".format(w))
             sys.exit(os.EX_UNAVAILABLE)
             break;
         WCCSV = list(csv.reader(WC,strict=True))
         WClist = []
+        JPlist = []
         for row in WCCSV:
             for n, col in enumerate(row):
                 if n == 0:
@@ -37,5 +39,16 @@ for i in sys.argv[1:]:
                      if col not in WClist:
                          print("File {} have extra line: {}".format(i, col))
                          err =  1
+        for row in JPCSV:
+            for n, col in enumerate(row):
+                if n == 0:
+                     JPlist.append(col)
+        for row in WCCSV:
+            for n, col in enumerate(row):
+                if n == 0:
+                     if col not in JPlist:
+                         print("File {} have extra line: {}".format(w, col))
+                         err =  1
+
 
 sys.exit(err)
