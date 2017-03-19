@@ -26,9 +26,9 @@ If you don't understand Japanese, but still want to help out, you can look over 
  1. Click the "Fork" button in the upper right of this GitHub page to make a copy of the translations for you to work with.
  2. Click the file you want to edit.
  3. Click the pencil icon.
- 4. Edit the file to your heart's content! (<b>ONLY EDIT THE TEXT INSIDE THE QUOTES</b>)
- 5. Write a brief summary of the changes at the bottom of the page
- 6. Hit "Commit changes" (<b>DO NOT CREATE A NEW BRANCH, COMMIT DIRECTLY TO MASTER.</b>)
+ 4. Edit the file to your heart's content! (<b>ONLY EDIT THE TEXT INSIDE THE TRIPLE QUOTES</b>)
+ 5. Write a brief summary of the changes at the bottom of the page.
+ 6. Hit "Commit changes".
  7. Repeat steps 2 to 6 on as many files as you would like to edit. Once finished, proceed to step 8.
  8. Click the "New pull request" button at the upper left of the GitHub page.
  9. Make sure the "Base fork" is "Arks-Layer/PSO2ENPatchCSV" and that the "Head fork" is your own.
