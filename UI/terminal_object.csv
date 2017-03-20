@@ -22,4 +22,4 @@ TerminalDisableGuildMember#0,"""Team Storage is only available to <br>Common Mem
 TerminalDisableGuildMember2#0,"""<pict Arcscash><c ff4f3f>AC Content<c><br>You do not have access to the selected<br>function, as the use period has expired.<br><br>By purchasing a <yellow>Premium Set<c>,<br>this feature can be enabled immediately.<br>Go to the purchase confirmation screen now?<br><br> <red>※ If you would like to purchase a ticket<br> to unlock only a specific feature, please<br> visit the ""AC Shop"" from the main menu.<c>"""
 TerminalDisableCancelTower#0,"""Cannot be used until all party members return to the campship."""
 RetryFaild#0,"""Quest availability duration has expired.<br>Cannot retry."""
-ClearLimit#0,"""You cannot attempt the quest again because <br>you have exceeded the quest clear limit."
+ClearLimit#0,"""You cannot attempt the quest again because <br>you have exceeded the quest clear limit."""
