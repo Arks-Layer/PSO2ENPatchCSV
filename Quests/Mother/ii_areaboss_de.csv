@@ -1,6 +1,6 @@
 IncidentName#0,"""Defeat $(0)"""
 TrialBeginMsg#0,"""Stop the $(0)!"""
-TrialAbstract#0,"""Defeat the $(0)"""
+TrialAbstract#0,"""$(0) Suppression"""
 NpcComOnBegin#0,"""We're transfering you near the target!<br>Do not get too far from it, pursue it!<br>Please be careful of any obstacles."""
 NpcComOnHpDecreased0#0,"""Ah, the attack worked!"""
 NpcComOnHpDecreased1#0,"""Its strength is declining,<br>please continue the assault!"""
