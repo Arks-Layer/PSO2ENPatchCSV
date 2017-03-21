@@ -1,0 +1,7 @@
+IncidentName#0,"""Defeat the $(0)"""
+TrialBeginMsg#0,"""Defeat the $(0)!"""
+TrialAbstract#0,"""Defeat the $(0)!"""
+NpcComOnBegin#0,"""ここからは、皆さんの力が頼りです！<br>よろしくお願いします！"""
+NpcComOnSuccess#0,"""目標の消滅を確認しました！<br>お疲れさまでした！"""
+HP_Under_50#0,"""目標、消耗しています！<br>もう少しですよ！"""
+HP_Under_10#0,"""あともう一息です！頑張って！"""

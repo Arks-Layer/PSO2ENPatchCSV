@@ -1,0 +1,8 @@
+NpcComMsg1#0,"""Transfer to the front will occur momentarily. Your initial goal is to destroy the Falz Arms, to deplete the main body."""
+NpcComMsg2#0,"""/face6 This looks to be the <br>most dangerous battle yet.<br>Please... return safely."""
+Title#0,"""Inbound Dark Arms"""
+Explanation#0,"""Arks, this is an emergency! A planet-sized<br>Dark Falz has appeared, and is attacking<br>a nearby ship with thousands of its own<br>appendages. Each one appears to have a<br>will of its own.<br><br>Counter attack with full force, and<br>weaken Dark Falz to engage it directly.<br>――――――――――――――――――――<br>Failure: Be defeated, time runs out"""
+SimpleExplanation#0,"""Destroy the Falz Arms!"""
+a1#0,"""Complete a certain Client Order."""
+a2#0,"""Complete a certain Client Order."""
+a3#0,"""Possess a Super Hard License."""

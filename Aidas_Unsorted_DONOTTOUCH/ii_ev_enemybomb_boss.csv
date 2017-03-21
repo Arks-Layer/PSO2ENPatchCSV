@@ -1,0 +1,5 @@
+IncidentName#0,"""Defeat the $(0)"""
+TrialBeginMsg#0,"""Defeat the $(0)!"""
+TrialAbstract#0,"""Defeat the $(0)!"""
+NpcComOnBegin#0,"""We've confirmed a powerful presence from within the Baize.<br>All Arks are to exterminate it ASAP."""
+NpcComOnSuccess#0,"""Disappearance of enemy readings <br>has been confirmed. Nicely done."""
