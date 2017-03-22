@@ -142,6 +142,8 @@ D_Event008_MES#0,"""Emergency broadcast! Lillipa's tertiary mining base is under
 D_Event009_MES#0,"""Hey, ARKS! I'm Necky! I'm going to issue special challenges just to test your skills! Give them a try!"""
 D_Event010_MES#0,"""I've sent my challenge to the quest counter! Go! Give it a try!"""
 D_Event011_MES#0,"""Hey, ARKS! Thanks for accepting my challenge! I hope we can do this again!"""
+D_Event012_MES#0,"""緊急連絡。全アークス一斉参加の特殊作戦が、まもなく発令されます。アークス各員は、作戦の発令に備えてください。"""
+D_Event013_MES#0,"""緊急任務発生。全アークス一斉参加の特殊作戦が、発令されました。アークス各員はクエストカウンターより、任務への参加を。"""
 LS_Event001_MES#0,"""We're holding a concert in the Shop Area soon! We hope to see everyone there!"""
 LS_Event002_MES#0,"""A concert is underway in the Shop Area! Don't miss out!"""
 LS_Event003_MES#0,"""Thank you all for listening! Until we meet again, this is Quna signing off!"""
