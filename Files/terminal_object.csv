@@ -23,3 +23,4 @@ TerminalDisableGuildMember2#0,"""<pict Arcscash><c ff4f3f>AC消費コンテン�
 TerminalDisableCancelTower#0,"""パーティーメンバー全員がキャンプシップに戻るまで、<br>使用することができません。"""
 RetryFaild#0,"""クエストの受注期間が過ぎているため、<br>もう一度挑戦することができませんでした。"""
 ClearLimit#0,"""クエストのクリア回数制限を超えているため<br>もう一度挑戦することができませんでした。"""
+QuestDropPenalty#0,"""クエストの受注を制限されているため<br>このクエストは受注できません。"""
