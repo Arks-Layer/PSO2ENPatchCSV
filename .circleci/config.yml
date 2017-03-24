@@ -4,6 +4,12 @@ jobs:
     working_directory: /root/PSO2
     docker:
       - image: python:3-slim
+    branches:
+      ignore:
+        - develop
+        - /feature-.*/
+        - JP
+        - /*_Old/
     steps:
       - run:
           name: Update APT listing
