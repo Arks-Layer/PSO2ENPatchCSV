@@ -1,5 +1,5 @@
 Title#0,"""Base Defense Training: VR"""
-Explanation#0,"""本任務は、ＶＲ空間にて行う<br>採掘基地防衛戦の実戦訓練である。<br><br>状況対応能力の向上を目的とするため<br>ダーカー以外の種族も出現し、さらには<br>A.I.Sの使用を禁止した訓練となる。<br>アークス各員の奮戦を期待する。<br>――――――――――――――――――――<br>全6ウェーブ<br>失敗条件/全拠点の陥落"""
+Explanation#0,"""本任務は、ＶＲ空間にて行う<br>採掘基地防衛戦の実戦訓練である。<br><br>状況対応能力の向上を目的とするため<br>ダーカー以外の種族も出現し、さらには<br>A.I.Sの使用を禁止した訓練となる。<br>アークス各員の奮戦を期待する。<br>――――――――――――――――――――<br>All 6 Waves<br>Failure Conditions / All towers are destroyed."""
 SimpleExplanation#0,"""Defend the Mining Base!"""
 Wave1_Talk#0,"""The enemy is here! Please check the map for their positions and defend the bases!"""
 Wave2_Talk#0,"""You can't use defense sockets that have been eroded by Sorza Brahda. Give destroying these darkers priority!"""
