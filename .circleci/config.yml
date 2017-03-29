@@ -4,6 +4,12 @@ jobs:
     working_directory: /root/PSO2
     docker:
       - image: python:3-slim
+    branches:
+      ignore:
+        - develop
+        - /feature-.*/
+        - JP
+        - /*_Old/
     steps:
       - run:
           name: Update APT listing
@@ -12,6 +18,9 @@ jobs:
           name: Install GIT
           command: apt-get -y install git
       - checkout
+      - run:
+          name: checking CSV for quote
+          command: bash ./quote.sh
       - run:
           name: verifing CSVs
           command: bash ./check.sh

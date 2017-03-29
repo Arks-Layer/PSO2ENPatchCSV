@@ -22,11 +22,11 @@ for i in sys.argv[1:]:
 
         try:
             WC = open(w)
+            WCCSV = list(csv.reader(WC,strict=True))
         except:
             print("Error reading of {0}".format(w))
             sys.exit(os.EX_UNAVAILABLE)
             break;
-        WCCSV = list(csv.reader(WC,strict=True))
         WClist = []
         JPlist = []
         for row in WCCSV:
