@@ -143,7 +143,7 @@ D_Event009_MES#0,"""Hey, ARKS! I'm Necky! I'm going to issue special challenges 
 D_Event010_MES#0,"""I've sent my challenge to the quest counter! Go! Give it a try!"""
 D_Event011_MES#0,"""Hey, ARKS! Thanks for accepting my challenge! I hope we can do this again!"""
 D_Event012_MES#0,"""Urgent broadcast. An announcement will be made shortly for the participation of all ARKS in a special operation. Please stay tuned."""
-D_Event013_MES#0,"""Urgent mission. A request for the participation of all ARKS in a sepcial operation has been made. Report to the quest counter to accept the mission."""
+D_Event013_MES#0,"""Urgent mission. A request for the participation of all ARKS in a special operation has been made. Report to the quest counter to accept the mission."""
 LS_Event001_MES#0,"""We're holding a concert in the Shop Area soon! We hope to see everyone there!"""
 LS_Event002_MES#0,"""A concert is underway in the Shop Area! Don't miss out!"""
 LS_Event003_MES#0,"""Thank you all for listening! Until we meet again, this is Quna signing off!"""
