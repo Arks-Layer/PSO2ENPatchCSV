@@ -1,5 +1,5 @@
 CampshipEnter#0,"""Entering Campship"""
-NotAccessQuest#0,"""クエスト受注前なのでアクセスできません。"""
+NotAccessQuest#0,"""Cannot enter campship as no<br>quest was started."""
 WarehouseTitle#0,"""Storage Terminal"""
 PartnerObject_ErrorTitle#0,"""パートナー呼び出し端末"""
 PartnerObject_Error1#0,"""現在、パートナー呼び出し端末を使用することはできません。"""
