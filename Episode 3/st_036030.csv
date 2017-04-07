@@ -18,5 +18,5 @@ st_036030_0140#0,"""You're right, good thing we waited. Those are the most inter
 st_036030_0150#0,"""Then, let's do it."""
 st_036030_0160#0,"""Yep yep."""
 st_036030_0170#0,"""No hard feelings, whoever wins! A fight between monsters! Let's begin!"""
-double#0,"""【双子】"""
-line01#0,"""ここまでのクエストの進行を記録しました。"""
+double#0,"""[Double]"""
+line01#0,"""Quest progress has been saved."""
