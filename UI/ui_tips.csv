@@ -218,7 +218,7 @@
 10_Dungeon_014#0,"""Party makers cannot be put down if 3 other party members have already placed theirs."""
 10_Dungeon_015#0,"""Party makers can be installed/removed from the quick menu, using one of the 'Mulitplayer' layouts."""
 10_Dungeon_016#0,"""When your mag reaches level 200, it learns a powerful 'SP Action'."""
-10_Dungeon_017#0,"""Once a day, if you clear a Featured Quest displaying a present icon <br>with an A-rank<br>or above, you'll get a special reward."""
+10_Dungeon_017#0,"""Once a day (per quest), if you clear a Featured Quest displaying a present icon with an A-rank<br>or above, you'll get a special reward."""
 10_Dungeon_018#0,"""Your Fishing and Gathering stamina will<br>replenish back to 100 over time."""
 10_Dungeon_019#0,"""Fishing and Gathering levels increase by completing gathering achivements."""
 10_Dungeon_020#0,"""Rideroids can move at max speed by boosting while the Just Attack ring is showing."""
