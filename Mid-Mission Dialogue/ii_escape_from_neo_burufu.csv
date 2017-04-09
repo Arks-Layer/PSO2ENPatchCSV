@@ -3,7 +3,7 @@ TrialBeginMsg#0,"""Escape the Gel Wulffs!!<br>Fail if struck more than $(0) time
 TrialAbstract#0,"""Survive the Gel Wulff attack<br>and escape!"""
 TrialOutbreak#0,"""$(0) has been struck by a Gel Wulff!"""
 NpcComOnBegin#0,"""This is an emergency message! <br>Confirmed the appearance of Gel <br>Wulffs! Fend them off as best you can!"""
-NpcComOnBeginAtRareCase#0,"""Try to stay calm. We've confirmed <br>the appearance of Gel Wulffs. Fend <br>them all of as best you can!"""
+NpcComOnBeginAtRareCase#0,"""Try to stay calm. We've confirmed <br>the appearance of Gel Wulffs. Fend <br>them all off as best you can!"""
 NpcComOnSuccess#0,"""/face2 You fended off the Gel Wulffs! <br>Wonderful! ... Err, I mean... Commendable."""
 NpcComOnFailure#0,"""/face4 Damage from the Gel Wulffs has <br>reached critical levels! This is more <br> than we can sustain... Unfortunate."""
 NpcComOnTarget#0,"""$(0)! Evasive maneuvers! <br>You're being targeted!"""
