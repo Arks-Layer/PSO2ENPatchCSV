@@ -740,7 +740,7 @@ ToastRecordEnd#0,"""Because party count was changed, the clear time will not be 
 ItemGetMessage#0,"""You obtained $(0)."""
 QuestLevelLimit#0,"""You do not meet the quest requirements."""
 TeamPointMsg#0,"""Quest cleared with team members! Received $(0) TP!"""
-ArealockOpenedQuestInfo#0,"""You can advance into the depths!<yellow>Use the Telepipe<c> to head for and defeat the boss!"""
+ArealockOpenedQuestInfo#0,"""You can advance into the depths!<br><yellow>Use the Telepipe<c> to head for and defeat the boss!"""
 WindowTitle#0,"""Activate A.I.S"""
 WindowMessage#0,"""A.I.Sを起動します。<br>よろしいですか？<br><br>※パーティーで<yellow>$(0)回だけ<c>起動することができます。<br>"""
 LimitMessage#0,"""起動回数制限に達しているため、<br>A.I.Sを起動することができません。"""
