@@ -356,7 +356,7 @@ ClosableQuestDifficult4#1,"""Current stage / None<br><br><c ffff00>Will reset wh
 ClosableQuestDifficultClearNum#0,"""This quest is limited to how often it can be cleared.<br><br>Can Be Cleared $(0) Times / $(1) Play(s) Left<br><br><c ffff00>Limit resets Wednesday at 13:00 JST.<c>"""
 ClosableQuestDifficultClearNum2#0,"""This quest is limited to how often it can be cleared.<br><br>Can Be Cleared $(0)Times\u3000/ 0 Plays Left<br><red>Cannot accept. You have reached the limit.<c><br><br><c ffff00>Limit resets Wednesday at 13:00 JST.<c>"""
 TitleApcCompanion#1,"""Making a New Room"""
-MessageApcCompanion#1,"""特定パートナーキャラクターを<br>同行させるクライアントオーダー<br>または、その他イベントを進行中です。<br>それらをプレイする場合は<br>新規ルームの作成をおすすめします。<br><br>新規ルームの作成を行いますか？<br><br>※「いいえ」を選択すると、新規ルームの<br>作成を行わずにクエストを受注します。"""
+MessageApcCompanion#1,"""Client Orders or events that<br>require specifc NPC partners<br>are currently in progress.<br><br>If you decide to play with them,<br>we recommend starting a new room.<br><br>Would you like to create a new room?"""
 MessageApcCompanion2#1,"""特定パートナーキャラクターを<br>同行させるクライアントオーダー<br>または、その他イベントを進行中です。<br>それらをプレイする場合は<br>新規ルームの作成をおすすめします。<br><br>新規ルームの作成を行いますか？<br><br>※「いいえ」を選択すると、新規ルームの<br>作成を行わずにクエストを受注します。<br><br><c ff0000>※参加歓迎が選択されています。<br>参加者が現れた場合、<br>パートナーキャラクターが帰還する可能性があります。<br>帰還させたくない場合は参加歓迎を選択せずに<br>クエストを再受注してください。"""
 TitleQuestTriggerConsumption#0,"""クエストトリガー消費確認"""
 MessageQuestTriggerConsumption#0,"""このトリガークエストを受注すると、<br>以下のアイテムが消費されます。<br><br>対象アイテム： <pict qt_icon>$(0)<br><br>※受注後の予期せぬトラブル対策として<br>\u30003分以内に3回までなら再受注可能です。<br><br><yellow>あなたが再受注可能時間内にこのクエストから<br>離脱すると、クエストに参加している全員が<br>クエスト破棄となりますのでご注意ください。<c><br><br>また、クエスト破棄や回線切断など、<br>いかなる理由でも消費されたクエストトリガーは<br>戻りませんので、ご了承ください。<br><br>クエストを受注してよろしいですか？"""
