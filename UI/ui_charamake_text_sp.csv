@@ -42,7 +42,7 @@ HunterExplanation#0,"""[Hunter]<br>\u3000Close-range fighters.<br>\u3000High HP,
 RangerExplanation#0,"""[Ranger]<br>\u3000Utilizes ranged weapons to fight at mid-range.<br>\u3000High proficiency at all shooting abilities, <br>\u3000including precision attacks."""
 ForceExplanation#0,"""[Force]<br>\u3000Long-ranged combat class focused on casting Techniques.<br>\u3000Powerful and versatile at the use of Techniques, <br>\u3000but can be strengthened by equipping a Teching weapon."""
 BraverExplanation#0,"""[Braver]<br>\u3000A class that uses weapons suited towards a<br> fighting style focused on timing and distance, a balance between<br> short and long range."""
-BouncerExplanation#0,"""[Bouncer]<br>\u3000近距離での戦闘だけでなく、テクニック使用も可能なクラス。<br>\u3000単独でも十分な近接戦闘能力を持つが、支援能力も高いため<br>\u3000多人数での戦いにおいてその真価を発揮する。"""
+BouncerExplanation#0,"""[Bouncer]<br>\u3000A class capable not only of melee combat, but<br>\u3000Technique use as well. Their true worth lies in<br>\u3000supporting many people in combat."""
 SummonerExplanation#0,"""[Summoner]<br> A class that can summon a pet and battle at mid-range by issuing it commands.<br> Through the skillful use of a pet raised with various traits,<br> Summoners demonstrate diverse powers allowing them to respond to many situations."""
 MenuName#1,"""Select class"""
 HumanMaleHunter0#0,"""Human (M) Hunter 01"""
