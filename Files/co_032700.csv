@@ -1,2 +1,2 @@
 name01#0,"""Matoi"""
-line01#0,"""このクエストにはセーブ機能があります。<br>「クエストの進行を記録しました」というメッセージが表示されると<br>以後、その場所からクエストを遊ぶことが可能になります。<br>"""
+line01#0,"""This quest has an autosave function.<br>When the message \"Quest progress has been saved\" appears,<br>you will be able to play from that point.<br>"""
