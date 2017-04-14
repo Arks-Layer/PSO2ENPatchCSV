@@ -1,4 +1,4 @@
-IncidentName#0,"""$(0)を撃退せよ！"""
-TrialBeginMsg#0,"""$(0)を撃退せよ！"""
-TrialAbstract#0,"""すべての$(0)を撃退せよ"""
-ToastOwnerPartyLeave#0,"""「Rare Enemy Trigger」が誰でも起動可能になりました。"""
+IncidentName#0,"""Defeat the $(0)!"""
+TrialBeginMsg#0,"""Defeat the $(0)!"""
+TrialAbstract#0,"""Repel the $(0)"""
+ToastOwnerPartyLeave#0,"""Anyone can start the [Rare Enemy Trigger]."""
