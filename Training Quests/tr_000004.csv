@@ -5,4 +5,4 @@ text03#0,"""<red>アイテムパックのアイテム<c>から<br>ディスク�
 text101#0,"""Task 1: <yellow>Learn and set [Foie]<c>"""
 train_title#0,"""Task 1: <yellow>Learn and set [Foie]<c>"""
 tut_title#0,"""Learning Techniques"""
-text100#0,"""・メインメニューを開く<br>・アイテムパックの[アイテム]を開く<br>・[ディスク]から習得したいディスクを選択"""
+text100#0,"""・Open the main menu<br>・Open the items menu<br>・Select and use the disk from the [Disk] tab"""
