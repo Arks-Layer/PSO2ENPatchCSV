@@ -445,7 +445,7 @@ Log_Toast_Disable_TeamChat_ChallengeShip#0,"""Team chat is unavailable while on 
 Log_Toast_Disable_TeamChat_Poka#0,"""Team chat is currently unavailable."""
 Log_Toast_Nouse_Poka_Whisper#0,"""Whisper chat is unavailable during battle."""
 Log_Welcome#0,"""Welcome to <lt>$(0)<rt>!"""
-Log_KeyHelp#0,"""Welcome to PSO2!<br>Note: The most recent version of this patch is available through the PSO2 Tweaker at<br>http://arks-layer.com.<br>Imported strings from the<br>http://psumods.co.uk/viewtopic.php?f=4&t=206<br>english patch dated 3/22/2017."""
+Log_KeyHelp#0,"""Welcome to Phantasy Star Online 2!<br>Note: The most recent version of this patch is available through the PSO2 Tweaker at <url http://arks-layer.com>.<br>Imported strings from the<br>http://psumods.co.uk/viewtopic.php?f=4&t=206<br>english patch dated 3/22/2017."""
 Log_ItemGet#0,"""$(0) received."""
 Log_CapsuleGet#0,"""Received virtual item $(0). View at the Extreme Terminal."""
 LogSymbolArt#0,"""Symbol art displayed."""
