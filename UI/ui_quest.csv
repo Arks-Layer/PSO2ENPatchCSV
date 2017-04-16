@@ -1,6 +1,6 @@
 Title#0,"""ARKS Training Center"""
-MenuType_Next#0,"""次の「$(0)」を行う"""
-MenuType_Next_None#0,"""次の訓練はありません"""
+MenuType_Next#0,"""Proceed To $(0)"""
+MenuType_Next_None#0,"""No Further Training"""
 MenuType_Retry#0,"""Retry Training"""
 MenuType_Back#0,"""Return to the Gate Area"""
 TerminalMenuType_Reset#0,"""Do $(0) From the Beginning"""
