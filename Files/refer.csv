@@ -325,6 +325,8 @@ pso2_players_manual_preparations_info_arksleague#0,"""<url http://pso2.jp/player
 pso2_players_manual_preparations_arkslobby_block#0,"""http://pso2.jp/players/manual/preparations/arkslobby/block"""
 pso2_players_support_rule_tokutei#0,"""http://pso2.jp/players/support/rule/tokutei/"""
 pso2_players_support_rule_tokutei_vita#0,"""http://pso2.jp/vita/players/support/rule/tokutei/"""
+pso2_players_PVP#0,"""<url http://pso2.jp/players/>"""
+pso2_players_manual_coordinate#0,"""<url http://pso2.jp/players/manual/preparations/equipment/coordinate/>"""
 NormalAttackText#0,"""通常攻撃ボタン"""
 WeaponActionText#0,"""武器アクションボタン"""
 PhotonArtsText#0,"""フォトンアーツボタン"""
