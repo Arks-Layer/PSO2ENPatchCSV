@@ -3,7 +3,7 @@ Explanation#0,"""惑星ナベリウスの森林エリアにおいて<br>風雨�
 NpcComMsg1#0,"""まもなく転送を開始します。<br>現在、転送先の地域一帯で<br>局地的な暴風雨が確認されています。"""
 NpcComMsg2#0,"""その影響によるものかは不明ですが<br>原生生物が凶暴化、幻創種まで<br>確認されたとの報告が入っています。"""
 NpcComMsg3#0,"""想像以上に危険な状況になっています。<br>決して無理せず慎重にいきましょう。<br>よろしくお願いします。"""
-SimpleExplanation#0,"""エネミーを撃退し<br>クエストポイントをためろ！"""
+SimpleExplanation#0,"""Defeat enemies<br>and collect Quest Points!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""
