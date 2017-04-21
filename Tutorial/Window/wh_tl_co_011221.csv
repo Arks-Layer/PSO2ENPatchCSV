@@ -1,4 +1,4 @@
 name01#0,"""Excubes"""
-text01#0,"""This will explain the Excube System.<br><br>This system allows you to trade for specialty items with an item called an 'Excube', which you can get once you're maxed and gain 1 level's worth of EXP.<br><br>You can also trade certain weapons for Excubes."""
-text02#0,"""You are able to gain orange EXP through defeating enemies or getting client order rewards, and can get Excubes the moment you have saved up about one level's worth of XP."""
-text03#0,"""Once you have saved up a certain number of Excubes, you can trade them for specialty items at the Excube Recycle Shop.<br><br>The Excube Recycle Shop is on the 2nd level of the shop area."""
+text01#0,"""「エクスキューブ」システムについて説明します。<br><br>これは、クラスレベル上限に達した後も経験値を獲得でき、<br>１レベル相当の経験値を溜めると「クラスエクスキューブ」<br>というアイテムが手に入るシステムです。<br><br>入手できるエクスキューブはクラスごとに異なり、<br>ハンターなら「Huエクスキューブ」、<br>ファイターなら「Fiエクスキューブ」のようになります。"""
+text02#0,"""クラスレベル上限に達すると、<br>以後の獲得経験値がオレンジ色で表示されます。<br><br>この状態で経験値を１レベル相当溜めると、<br>「クラスエクスキューブ」を入手できます。<br><br>獲得した「エクスキューブ」が<br>アイテムパックに持ちきれない場合は、<br>倉庫または一時倉庫に預けられます。"""
+text03#0,"""「クラスエクスキューブ」は、<br>クラスごとの追加スキルポイントを入手できる<br>クライアントオーダーで必要となります。<br><br>余ったクラスエクスキューブは、<br>ショップエリア１Ｆにある「リサイクルショップ」で<br>特別なアイテムや、普通のエクスキューブに交換できます。<br><br>また、普通のエクスキューブは、<br>ショップエリア２Ｆにある「エクスキューブ交換ショップ」で<br>色々なアイテムと交換できます。"""
