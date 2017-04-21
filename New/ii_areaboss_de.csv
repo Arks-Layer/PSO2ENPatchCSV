@@ -1,7 +1,7 @@
 IncidentName#0,"""Repel $(0)"""
 TrialBeginMsg#0,"""Fight off $(0)!"""
 TrialAbstract#0,"""Repelling $(0)"""
-NpcComOnBegin#0,"""The target's form has changed!<br>It's a powerful reaction we have never seen before!<br>This is starting to look like a real show!"""
+NpcComOnBegin#0,"""The target's form has changed!<br>It's a powerful reaction we've never seen before!<br>This is starting to look like a real showdown!"""
 NpcComOnHpDecreased0#0,"""Ah, the attack worked!"""
 NpcComOnHpDecreased1#0,"""The target is heavily damaged<br>Keep going!!"""
 NpcComOnBossSkill#0,"""There are multiple confirmed<br>high energy reactions around the Phantom God of Creation.<br>Please hurry and destroy it!"""
