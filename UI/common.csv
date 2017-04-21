@@ -944,7 +944,7 @@ BlockForm_Move_Exp_TriggerQuest#0,"""<yellow>トリガークエストを受注�
 BlockForm_ToMyShip_Exp#0,"""Matching will be cancelled<br>if you transfer to your ship.<br><br><br>Transfer to your ship?"""
 BlockForm_ToChallengeLobby_Exp#0,"""Matching will be cancelled<br>if you move to a challenge lobby.<br><br><br>Transfer to a challenge lobby?"""
 BlockForm_ToBattleLobby_Exp#0,"""You will be automatically withdrawn from your<br>party and any active quests will be cancelled<br>if you transfer to a battle lobby.<br><br>Also, any special effects earned<br>from accepted quests will disappear.<br><br>Transfer to the battle lobby?"""
-BlockForm_BattleLobbyToBattleLobby_Exp#0,"""バトルブロックの移動をすると、<br>マッチングがキャンセルされます。<br><br>ブロック移動を行いますか？"""
+BlockForm_BattleLobbyToBattleLobby_Exp#0,"""Matching will be canceled<br>if you move to a battle block.<br><br>Change blocks?"""
 BlockForm_BattleLobbyToBattleLobby_Exp_NoMatching#0,"""別のバトルブロックに移動します。<br>よろしいですか？<br><br><c c0c0c0>※バトルアリーナのマッチングは<br>\u3000すべてのブロックを対象に行われるため、<br>\u3000人の多いブロックに移動する必要はありません。<c>"""
 BlockForm_MyRoom_Exp#0,"""Are you sure you want to go to your room?"""
 BlockForm_GuildRoom_Exp#0,"""Do you want to go to your Team Room?"""
