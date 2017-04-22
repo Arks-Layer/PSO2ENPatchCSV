@@ -3875,7 +3875,7 @@ ResurrectAutoDoll#0,"""Because all class levels were below 15, revived using an 
 RunOutAutoDoll#0,"""Revived using an Auto Doll. You will not be automatically revived any more times today."""
 PetPALearn#0,"""Your $(1) has learned $(0)."""
 PetPALevelUp#0,"""The level of your $(2)'s $(1) has increased to $(0)."""
-PetUnequipped#0,"""No pet equipped to this tact."""
+PetUnequipped#0,"""No pet equipped to this takt."""
 ObjectName#0,"""$(2)\u3000$(0) + <pict Beginners>$(1)"""
 ObjectNameCustom#0,"""$(2)\u3000<yellow>$(0)<c> + <pict Beginners>$(1)"""
 ObjectExGuide#0,"""$(0) + (<pict Beginners>$(1))"""
