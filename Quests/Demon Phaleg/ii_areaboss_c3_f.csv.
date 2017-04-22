@@ -1,3 +1,3 @@
 IncidentName#0,"""Defeat the $(0)!"""
 TrialBeginMsg#0,"""Defeat the $(0)!"""
-TrialAbstract#0,"""Defeat $(0)<br>within the time limit!"""
+TrialAbstract#0,"""Defeat the $(0)<br>within the time limit!"""
