@@ -27,7 +27,7 @@ NpcComOnIncorrect#1,"""Blast, something went wrong...<br>Looks like you'll have 
 NpcComOnRemain30#1,"""Hurry! There's only 30 more seconds until<br>the bombs go up in smoke."""
 NpcComOnJoin#1,"""Ah, you've arrived at the perfect time.<br>We're currently dealing with some Darker<br>time bombs. Think you can lend a hand?"""
 NpcComOnBegin#2,"""Warning! We're getting some dangerous readings!<br>Looks like we've got some Darker time bombs<br>on our hands... and a lot of 'em!"""
-NpcComOnBegin2#2,"""B-but don't panic yet! You can stop these things<br>before they go off. Inspect them closely and look<br>for a way to deactivate them!"""
+NpcComOnBegin2#2,"""B-but don't panic yet! You can<br>stop these things before they go off.<br>Inspect them closely and look for<br>a way to deactivate them!"""
 NpcComOnSuccess#2,"""/face2 Alright! Every time bomb is down for<br>the count. Great job!"""
 NpcComOnFailure#2,"""That explosion was off the charts!<br>Are you alright?"""
 NpcComOnLastHalf#2,"""Only half the bombs to go!<br>Keep it up, you're doing great!"""
