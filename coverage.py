@@ -31,7 +31,6 @@ for i in sys.argv[1:]:
                     elif col == JPlist[line]:
                         countt -= 2
                     elif not isascii(col):
-                        print ("maybe")
                         countt -= 1
                     line += 1
 
