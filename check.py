@@ -10,7 +10,7 @@ if len(sys.argv) == 1:
     sys.exit(os.EX_NOINPUT)
 
 for i in sys.argv[1:]:
-    w = i.replace("/JP/","/WC/")
+    w = i.replace("JP/","WC/")
     with open(i) as JP:
 
         try:
