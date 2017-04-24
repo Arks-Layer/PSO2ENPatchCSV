@@ -29,4 +29,7 @@ jobs:
           command: bash ./check.sh
       - run:
           name: coverage CSVs
-          command: bash ./coverage.sh
+          command: bash ./coverage.sh > /tmp/coverage.txt
+      - store_artifacts:
+          path: /tmp/coverage.txt
+          destination: coverage.txt
