@@ -10,7 +10,7 @@ isascii = lambda s: len(s) == len(s.encode())
 
 bufout = "000.0%\t0FILE"
 for i in sys.argv[1:]:
-    w = i.replace("/JP/","/WC/")
+    w = i.replace("JP/","WC/")
     with open(i) as JP:
         JPCSV = list(csv.reader(JP,strict=True))
         WCCSV = list(csv.reader(open(w),strict=True))
