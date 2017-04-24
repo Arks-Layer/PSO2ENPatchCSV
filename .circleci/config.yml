@@ -27,3 +27,6 @@ jobs:
       - run:
           name: verifing CSVs
           command: bash ./check.sh
+      - run:
+          name: coverage CSVs
+          command: bash ./coverage.sh
