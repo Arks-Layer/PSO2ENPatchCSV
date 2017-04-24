@@ -20,17 +20,20 @@ for i in sys.argv[1:]:
         for row in JPCSV:
             for n, col in enumerate(row):
                 if n == 1:
-                    countt += 1
                     JPlist[countt] = col
+                    countt += 1
+        countt *= 2
         line = 0
         for row in WCCSV:
             for n, col in enumerate(row):
                 if n == 1:
-                    line += 1
-                    if col == JPlist[line]:
+                    if len(JPlist) == line-1:
+                        countt += 0
+                    elif col == JPlist[line]:
                         countt -= 2
-                    if col[0] == JPlist[line][0]:
-                        countt += 1
+                    elif col[0] == JPlist[line][0]:
+                        countt -= 1
+                    line += 1
 
         if len(JPlist) != 0:
             countper = "{:06.1%}".format(countt/(len(JPlist)*2))
