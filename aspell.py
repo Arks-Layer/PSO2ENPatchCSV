@@ -51,10 +51,6 @@ ranges = [
 def is_cjk(char):
 	return any([range["from"] <= ord(char) <= range["to"] for range in ranges])
 
-def PSO2check(w):
-	#return True
-	return w[0] != "/" and w[0] != "<" and w[0] != "$" and "." not in w and "BB" != w[:2] and "SFC" != w[:3] and "GG" != w[:2] and "DK" != w[:2] and "?" not in w and "+" != w[:1] and ">" not in w and "$" not in w and "2" != w[0]
-
 def checkwords(input):
 	output = []
 	words = replacespell(input)
@@ -63,7 +59,7 @@ def checkwords(input):
 		for char in word:
 			if is_cjk(char):
 				anycjk = True
-		if not anycjk and word and PSO2check(word):
+		if not anycjk and word:
 			output.append(word)
 	return "\n".join(output)
 
