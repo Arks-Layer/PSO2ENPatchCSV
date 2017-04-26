@@ -1,6 +1,6 @@
 GREET_RANGE#0,"""Hello sir!"""
 GREET_SHOP_OPEN#0,"""Welcome!~"""
-GREET_SHOP_DISABLE#0,"""'m sorry, the rest<br>are reserved."""
+GREET_SHOP_DISABLE#0,"""I'm sorry, the rest<br>are reserved."""
 GREET_SHOP_CLOSE#0,"""Thank you!~"""
 00_01#0,"""Option 1"""
 00_02#0,"""Option 2"""
