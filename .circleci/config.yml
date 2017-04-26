@@ -15,8 +15,8 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install GIT
-          command: apt-get -y install git
+          name: Install GIT, aspell and binutils(for strings)
+          command: apt-get -y install git aspell-en binutils
       - checkout
       - run:
           name: Checking DUP folders
@@ -29,7 +29,16 @@ jobs:
           command: bash ./check.sh
       - run:
           name: coverage CSVs
-          command: bash ./coverage.sh > /tmp/coverage.txt
+          command: bash ./coverage.sh>/tmp/coverage.txt
+      - run:
+          name: spell check CSVs
+          command: bash ./aspell.sh|tail -n +2|cut -f 2 -d " "|sort|uniq -c|sed 's/^[[:space:]]*//g'|sort -h -r|cut -f 2 -d " "|sed 's/[[:space:]]//g'|tee /tmp/dict.txt
       - store_artifacts:
           path: /tmp/coverage.txt
           destination: coverage.txt
+      - store_artifacts:
+          path: /tmp/spellcheck.txt
+          destination: spellcheck.txt
+      - store_artifacts:
+          path: /tmp/dict.txt
+          destination: dict.txt
