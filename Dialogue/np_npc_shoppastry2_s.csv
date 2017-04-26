@@ -5,7 +5,7 @@ GREET_SHOP_CLOSE#0,"""Thank you very much!~"""
 HINT_EAST#0,"""My older sisters are saying that<br>it's coming from the East."""
 HINT_WEST#0,"""My older sisters are saying that<br>it's coming from the West."""
 HINT_SOUTH#0,"""My older sisters are saying that<br>it's coming from the South"""
-HINT_NORTH#0,"""My older sisters are saying that<br>it's coming from the North
+HINT_NORTH#0,"""My older sisters are saying that<br>it's coming from the North"""
 00_01#0,"""Option 1"""
 00_02#0,"""Option 2
 TALK_ST#0,"""Talk"""
