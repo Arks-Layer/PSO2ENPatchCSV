@@ -24,6 +24,7 @@ aspellt = [
 	(']', ' '),
 	('~', ' '),
 	('"', ''),
+	('$ 0 ', ''),
 ]
 
 def replacespell(input):
@@ -61,7 +62,7 @@ def checkwords(input):
 				anycjk = True
 		if not anycjk and word:
 			output.append(word)
-	return "\n".join(output)
+	return " ".join(output)
 
 bufout = ""
 for i in sys.argv[1:]:
@@ -72,7 +73,7 @@ for i in sys.argv[1:]:
 				if n == 1:
 					if len(col) > 4:
 							check = checkwords(col)
-							if check != "":
+							if check != '""':
 								bufout += "\n{0}".format(check)
 
 
