@@ -32,7 +32,7 @@ jobs:
           command: bash ./coverage.sh>/tmp/coverage.txt
       - run:
           name: spell check CSVs
-          command: bash ./aspell.sh|tee /tmp/spellcheck.txt|cut -f 2 -d " "|uniq -c|sort -h -r|sed 's/^[[:space:]]*//g'|head|cut -f 2 -d " "|tee /tmp/dict.txt
+          command: bash ./aspell.sh|tee /tmp/spellcheck.txt|cut -f 2 -d " "|uniq -c|sort -h -r -b|uniq|tee /tmp/dict.txt
       - store_artifacts:
           path: /tmp/coverage.txt
           destination: coverage.txt
