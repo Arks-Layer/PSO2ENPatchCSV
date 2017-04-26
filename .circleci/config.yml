@@ -15,8 +15,8 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install GIT and aspell
-          command: apt-get -y install git aspell-en
+          name: Install GIT, aspell and binutils(for strings)
+          command: apt-get -y install git aspell-en binutils
       - checkout
       - run:
           name: Checking DUP folders
