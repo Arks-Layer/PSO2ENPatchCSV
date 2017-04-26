@@ -29,10 +29,10 @@ jobs:
           command: bash ./check.sh
       - run:
           name: coverage CSVs
-          command: bash ./coverage.sh > /tmp/coverage.txt
+          command: bash ./coverage.sh>/tmp/coverage.txt
       - run:
           name: spell check CSVs
-          command: bash ./aspell.sh > /tmp/spellcheck.txt
+          command: bash ./aspell.sh|tee /tmp/spellcheck.txt
       - store_artifacts:
           path: /tmp/coverage.txt
           destination: coverage.txt
