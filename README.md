@@ -11,7 +11,7 @@ We hope our disclosing of game texts and opening this repository will pave a qui
 
 ## Contributions
 ### To-Do
-If you would like to help with the untranslated scenes then please see [this spreadsheet](https://docs.google.com/spreadsheets/d/10baB8072UEwQEjdtV-AE_tVUXEDmdENJcfG5Mn8av18/edit#gid=0) for a list of files which need to be translated.
+Any CSV files located in <a href="https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN/Files">/Files/</a> are still to be translated, while the CSV files in other folders are at least partly translated.
 
 ### Don't know Japanese but still want to contribute?
 If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct. (US English, please!)
