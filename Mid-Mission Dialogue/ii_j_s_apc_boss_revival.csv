@@ -1,7 +1,7 @@
 IncidentName#0,"""Defeat the $(0)"""
 TrialBeginMsg#0,"""Defeat the $(0)!"""
 TrialAbstract#0,"""Defeat the $(0)!"""
-NpcComOnBegin#0,"""Attention, all active Arks members!<br>Quickly join forces and work<br>to eliminate enemy forces in the area!"""
+NpcComOnBegin#0,"""Attention, all active ARKS members!<br>Quickly join forces and work<br>to eliminate enemy forces in the area!"""
 NpcComOnSuccess#0,"""/face2 Great work! <br>You worked well together!"""
 NpcComOnBeginP1#0,"""The support partner belonging to<br>$(0) is being attacked<br>by hostiles! Please assist!"""
 NpcComOnBeginP2#0,"""Eliminate the hostiles in the area and ensure the support partner's safety."""

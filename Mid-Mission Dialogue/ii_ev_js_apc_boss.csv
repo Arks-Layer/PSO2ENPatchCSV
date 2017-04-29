@@ -1,6 +1,6 @@
 IncidentName#0,"""Defeat the $(0)"""
-TrialBeginMsg#0,"""Join forces with the other Arks<br>and defeat the $(0)!"""
-TrialAbstract#0,"""Join forces with the other Arks<br>and defeat the $(0)!"""
+TrialBeginMsg#0,"""Join forces with the other ARKS<br>and defeat the $(0)!"""
+TrialAbstract#0,"""Join forces with the other ARKS<br>and defeat the $(0)!"""
 NpcComOnBegin#0,"""Confirming enemy activity.<br>Please continue your united effort<br>to repel the enemy forces."""
 NpcComOnSuccess#0,"""/face2 Defeat of enemy forces confirmed.<br>An instant coalition...<br>Great work!"""
 NpcComOnFailure#0,"""Further engagement is dangerous!<br>Unfortunately, you must withdraw<br>at once."""

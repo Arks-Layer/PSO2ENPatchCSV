@@ -1,7 +1,7 @@
 NpcComMsg1#0,"""All set? You're getting<br>transported right in front of<br>Dark Falz Elder. Hang tight."""
 NpcComMsg2#0,"""/face6 ...Guess we really cut that thing down to size.<br>Be strong. Remember all your <br>training. Come back to us safely. I believe in you."""
 Title#0,"""Profound Darkness' Kin: Elder"""
-Explanation#0,"""Dark Falz Elder has appeared! The malice<br>it exudes is overwhelming... However, <br>this is no time for fear! The combined<br>efforts of our forces are undefeatable!<br>Show no fear and don't hold back! <br><br>Think only of victory! All Arks, engage!<br><br>――――――――――――――――――――<br>Failure: Be defeated, time runs out"""
+Explanation#0,"""Dark Falz Elder has appeared! The malice<br>it exudes is overwhelming... However, <br>this is no time for fear! The combined<br>efforts of our forces are undefeatable!<br>Show no fear and don't hold back! <br><br>Think only of victory! All ARKS, engage!<br><br>――――――――――――――――――――<br>Failure: Be defeated, time runs out"""
 SimpleExplanation#0,"""Defeat Dark Falz Elder"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""

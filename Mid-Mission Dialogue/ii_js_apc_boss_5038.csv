@@ -56,7 +56,7 @@ IncidentJsApcSuccess#11,"""/ci2 1 Well, looks like victory, thanks to you guys! 
 IncidentJsApcFailure#11,"""Ugh, this is how it is... Sorry, retreat."""
 IncidentJsApcBeginEvo#9,"""/ci3 1 This atmosphere... Maybe a newcomer appeared... Please pay attention and prepare yourself."""
 IncidentJsApcSuccessEvo#11,"""/ci2 1 Well, looks like victory, thanks to you guys! We appear to be safe."""
-IncidentJsApcBegin#12,"""/toge /ci1 1 We can do this! We're Arks! I might be old, but I can't be stopped!"""
+IncidentJsApcBegin#12,"""/toge /ci1 1 We can do this! We're ARKS! I might be old, but I can't be stopped!"""
 IncidentJsApcSuccess#12,"""/toge /ci2 1 Well, well. We succeeded and I live to fight another day."""
 IncidentJsApcFailure#12,"""Ugh..not again. Maybe it's time for me to retire."""
 IncidentJsApcBeginEvo#10,"""/toge /ci3 1 Hey, rookie! Take it easy on these old bones!"""
