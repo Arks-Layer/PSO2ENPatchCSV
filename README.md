@@ -18,7 +18,7 @@ If you don't understand Japanese, but still want to help out, you can look over 
 
 ### Notice
 * If you want to translate a file that's in the "/Files/" directory then you <b>MUST</b> [move the file into another directory](https://github.com/blog/1436-moving-and-renaming-files-on-github) before you translate it. The /Files/ directory <b>MUST</b> only contain untranslated files.
-* You can find stuff to translate by using the GLaDOS bot in the #translations-public room on the [PSO2 Discord] (http://discord.gg/PSO2). Usage will be in the pinned messages.
+* You can find stuff to translate by using the GLaDOS bot in the #translations-public room on the <a href="http://discord.gg/PSO2"><strong>PSO2 Discord Server</strong></a>. Usage will be in the pinned messages.
 
 * Maintain the triple quotes and only edit the text inside the quotes.
 * Be sure to take a look at the <a href="https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki"><strong>Wiki</strong></a> page for guides and reminders before sending us your translations.
