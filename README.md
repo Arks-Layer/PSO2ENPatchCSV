@@ -37,6 +37,6 @@ If you don't understand Japanese, but still want to help out, you can look over 
  11. Click "Create pull request" again and your changes will be posted.
  12. Once someone looks through your changes they will merge them into the translation patch.
  
- [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN/Files
+ [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/DE/Files
  [PSO2 Discord Server]: https://discord.gg/PSO2
  [Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
