@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="http://i.imgur.com/dM2s0Jo.png" alt="PSO2 Logo"/>
+  <img src="http://i.imgur.com/cRliEGG.jpg" alt="PSO2 Logo"/>
 </p>
 
-# PSO2 Spanish Patch 
-Welcome to the PSO2 Spanish Patch CSV Repository.
+# PSO2 German Patch 
+Welcome to the PSO2 German Patch CSV Repository.
 
-This repository is dedicated to translating PSO2 game texts from Japanese/English to Spanish.
+This repository is dedicated to translating PSO2 game texts from Japanese/English to German.
 
 We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native language.
 
 ## Contributions
 ### To-Do
-Any CSV files located in <a href="https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/ES/Files">/Files/</a> are still to be translated, while the CSV files in other folders are at least partly translated.
+Any CSV files located in <a href="https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/DE/Files">/Files/</a> are still to be translated, while the CSV files in other folders are at least partly translated.
 
 ### Don't know Japanese but still want to contribute?
 If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct.
