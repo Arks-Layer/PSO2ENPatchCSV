@@ -7,6 +7,6 @@ NpcComOnFirstPoint#0,"""I wonder if it knows where its<br>friends are? You shoul
 NpcComOnPinch#0,"""Enemy approaching the Lillipans!<br>Please help them!"""
 NpcComOnWalk1#0,"""/face2 It's so cute...<br>Ah, n-no, it's nothing!"""
 NpcComOnWalk2#0,"""Yeah... their bodies aren't quite<br>suited for this planet. I wonder how<br>they manage to live here."""
-NpcComOnWalk3#0,"""/face2 It's so fluffy, isn't it?<br>Er, n-no, nevermind what I said!"""
+NpcComOnWalk3#0,"""/face2 It's so fluffy, isn't it?<br>Er, n-no, never mind what I said!"""
 NpcComOnSuccess#0,"""/face2 It seems to have joined up<br>with the others! Great work!"""
 NpcComOnFailure#0,"""/face4 Oh... it ran away.<br>That's that, unfortunately."""
