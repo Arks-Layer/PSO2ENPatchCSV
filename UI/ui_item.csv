@@ -7646,7 +7646,7 @@ ring_WpnTMachineGun01#1,"""Front Stylish Roll<br>Allows Twin Machineguns to perf
 ring_WpnKatana01#1,"""Katana Gear Guard Release<br>While using Katanas, hold Guard to force a Gear release.<br>During this release, Gear empties faster than usual."""
 ring_WpnDBlade01#1,"""Dual Blade Snatch<br>Inflicts striking damage to enemies<br>while moving using the Dual Blade weapon action."""
 ring_TechChargeGuard#1,"""Tech Charge Parry<br>While using a teching weapon,<br>you can Just Guard by starting to charge a Technique."""
-ring_RecastRateRebirtherField#1,"""Recast Reverser Field<br>Reduces recast rate of Reverser Field."""
+ring_RecastRateRebirtherField#1,"""Recast Reverser Field<br>Reduces recast time of Reverser Field."""
 ring_GearBoostPlus#1,"""Hunter Gear Save<br>While Hunter Gear Boost is in effect,<br>decreases the rate that Gear empties and is consumed."""
 ring_HighTimePlus#1,"""High Time Keep<br>Grants a chance to maintain High Time<br>when you take an enemy attack once during Showtime."""
 ring_KatanaCombatMinus#1,"""Short Combat<br>When using Katana Combat,<br>basic attacks no longer track enemies."""
