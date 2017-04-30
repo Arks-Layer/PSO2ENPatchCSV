@@ -5,6 +5,8 @@
 # PSO2 Russian Patch 
 Welcome to the PSO2 Russian Patch CSV Repository.
 
+[![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/RU.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/RU)
+
 This repository is dedicated to translating PSO2 game texts from Japanese/English to Russian.
 
 We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native language.
