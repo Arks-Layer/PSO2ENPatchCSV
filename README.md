@@ -5,6 +5,8 @@
 # PSO2 French Patch 
 Welcome to the PSO2 French Patch CSV Repository.
 
+[![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/FR.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/FR)
+
 This repository is dedicated to translating PSO2 game texts from Japanese/English to French.
 
 We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native language.
