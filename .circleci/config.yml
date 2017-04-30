@@ -35,7 +35,7 @@ jobs:
           command: bash ./_scripts/check.sh
       - run:
           name: coverage CSVs
-          command: bash ./coverage.sh>/tmp/coverage.txt
+          command: bash ./_scripts/coverage.sh>/tmp/coverage.txt
       - run:
           name: spell check CSVs
           command: bash ./aspell.sh|tee /tmp/spellcheck.txt|tail -n +2|cut -f 2 -d " "|./sortuniq.sh|tee /tmp/dict.txt
