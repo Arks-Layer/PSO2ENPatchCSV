@@ -26,7 +26,7 @@ jobs:
           command: apt-get -qq -y install binutils
       - run:
           name: Checking DUP folders
-          command: bash ./dupfolders.sh
+          command: bash ./_scripts/dupfolders.sh
       - run:
           name: checking CSV for quote
           command: bash ./quote.sh
