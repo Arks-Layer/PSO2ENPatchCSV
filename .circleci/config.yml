@@ -26,19 +26,19 @@ jobs:
           command: apt-get -qq -y install binutils
       - run:
           name: Checking DUP folders
-          command: bash ./_scripts/dupfolders.sh
+          command: bash ./_sh/dupfolders.sh
       - run:
           name: checking CSV for quote
-          command: bash ./_scripts/quote.sh
+          command: bash ./_sh/quote.sh
       - run:
           name: verifing CSVs
-          command: bash ./_scripts/check.sh
+          command: bash ./_sh/check.sh
       - run:
           name: coverage CSVs
-          command: bash ./_scripts/coverage.sh>/tmp/coverage.txt
+          command: bash ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
           name: spell check CSVs
-          command: bash ./_scripts/aspell.sh|tee /tmp/spellcheck.txt|tail -n +2|cut -f 2 -d " "|./_scripts/sortuniq.sh|tee /tmp/dict.txt
+          command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|tail -n +2|cut -f 2 -d " "|./_sh/sortuniq.sh|tee /tmp/dict.txt
       - store_artifacts:
           path: /tmp/coverage.txt
           destination: coverage.txt
