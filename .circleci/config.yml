@@ -32,7 +32,7 @@ jobs:
           command: bash ./_scripts/quote.sh
       - run:
           name: verifing CSVs
-          command: bash ./check.sh
+          command: bash ./_scripts/check.sh
       - run:
           name: coverage CSVs
           command: bash ./coverage.sh>/tmp/coverage.txt
