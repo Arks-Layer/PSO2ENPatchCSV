@@ -7652,6 +7652,7 @@ ring_HighTimePlus#1,"""High Time Keep<br>Grants a chance to maintain High Time<b
 ring_KatanaCombatMinus#1,"""Short Combat<br>When using Katana Combat,<br>basic attacks no longer track enemies."""
 ring_VehicleHeal#1,"""Wide Area Heal<br>Increases the range of<br>the A.I.S. skill \""Area Heal\""."""
 ring_VehiclePhotonBlaster#1,"""Quick Blaster<br>The A.I.S. skill \""Photon Blaster\""<br>activates faster, but its turning speed is reduced."""
+ring_VehicleRespawn#1,"""Early Rise<br>Reduces the time that an A.I.S.<br>must wait to be resurrected."""
 ring_VehicleStep#1,"""Light Armour<br>Reduces the PP cost of the A.I.S. Boost,<br>but increases damage taken."""
 ring_ResistBurn#1,"""Burn Guard<br>Gives resistance to the<br>\""Burn\"" status effect."""
 ring_ResistFreeze#1,"""Freeze Guard<br>Gives resistance to the<br>\""Freeze\"" status effect."""
