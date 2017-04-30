@@ -187,7 +187,7 @@ ExtendResetConfirmMessage2#0,"""Are you sure you want to<br>reset the selected i
 ExtendResetMessage#0,"""Weapon Extension has been reset."""
 ExtendResetTitle#0,"""Weapon Extension Reset"""
 CraftAchievementTitle#0,"""Achievement unlocked"""
-CraftAchievementMessage#0,"""$(0) Achievements<br>$(1)unlocked.<br><br>You can check the number of achievements<br>required for your next crafting level<br>at your My Room terminal or any Visiphone<br>by selecting \""Craft\"" > \""Crafting Achievements\""."""
+CraftAchievementMessage#0,"""$(0) Achievements<br>$(1) unlocked.<br><br>You can check the number of achievements<br>required for your next crafting level<br>at your My Room terminal or any Visiphone<br>by selecting \""Craft\"" > \""Crafting Achievements\""."""
 CraftLevelUpMessage#0,"""<yellow>$(0)<c> leveled up! It is now <yellow>$(1)<c>."""
 GetCraftRecipeMessage#0,"""The following recipes have been learned:"""
 Rarity#0,"""Rarity"""
