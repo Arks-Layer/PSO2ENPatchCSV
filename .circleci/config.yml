@@ -38,7 +38,7 @@ jobs:
           command: bash ./_scripts/coverage.sh>/tmp/coverage.txt
       - run:
           name: spell check CSVs
-          command: bash ./aspell.sh|tee /tmp/spellcheck.txt|tail -n +2|cut -f 2 -d " "|./sortuniq.sh|tee /tmp/dict.txt
+          command: bash ./aspell.sh|tee /tmp/spellcheck.txt|tail -n +2|cut -f 2 -d " "|./_scripts/sortuniq.sh|tee /tmp/dict.txt
       - store_artifacts:
           path: /tmp/coverage.txt
           destination: coverage.txt
