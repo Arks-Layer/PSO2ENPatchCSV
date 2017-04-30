@@ -1,0 +1,4 @@
+IncidentName#0,"""$(0)討伐"""
+TrialBeginMsg#0,"""Besiege die $(1) $(0), um die Barriere zu öffnen!"""
+DestroyDoorMsg#0,"""Die $(0) Barriere hat sich geöffnet!"""
+TrialAbstract#0,"""Besiege eine bestimmte Anzahl an $(0), um die Barriere zu öffnen!"""

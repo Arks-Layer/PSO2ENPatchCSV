@@ -1,0 +1,8 @@
+NpcComMsg1#0,"""最前線への転送が間もなく行われます。<br>第一次作戦は、ファルス・アームを駆逐し、<br>本体を消耗させることが目標です。"""
+NpcComMsg2#0,"""/face6 ……これまでの戦闘とは別次元の<br>過酷な戦いになることが予想されます。<br>……どうか、ご無事で。"""
+Title#0,"""迫る漆黒の腕"""
+Explanation#0,"""アークス各員に緊急連絡。<br>惑星をも凌駕するレベルの<br>巨大なダークファルスが接近している。<br>その身が放つ飛沫の一つ一つが意志を持ち<br>すさまじい力をもって襲いかかってくる。<br>各員はこれを迎撃し、ダークファルスの<br>戦力を低下させ、来るべき決戦に備えよ。<br>これは何よりも優先の、絶対命令である。<br>――――――――――――――――――――<br>失敗条件/最深部での敗北、制限時間の経過"""
+SimpleExplanation#0,"""ファルス・アームを撃破せよ！"""
+a1#0,"""Beende einen bestimmten Klientauftrag."""
+a2#0,"""Beende einen bestimmten Klientauftrag."""
+a3#0,"""Besitze eine Lizenz fuer Super Schwer."""
