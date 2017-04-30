@@ -4,5 +4,6 @@
 /.circleci/config.yml eol=lf
 #native EOL
 *.csv text
-/PSO2.dict.BASE text
-/*.dict text
+/_aspell/PSO2.dict.BASE text
+/_aspell/*.dict text
+/release.sed text
