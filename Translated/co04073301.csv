@@ -1,0 +1,5 @@
+Title#0,"""Ride Order 1"""
+Explanation#0,"""Recolectar puntos in the ride quest."""
+reward#0,"""Star Gem x10<br>※1 per account per week."""
+reward_wait#0,"""Star Gem x10<br>※$(0) until available again."""
+reward_recover#0,"""Star Gem x10<br>※Available to receive again."""

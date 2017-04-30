@@ -1,0 +1,4 @@
+IncidentName#0,"""Derrotar a $(0)"""
+TrialBeginMsg#0,"""Defeat $(1) $(0) to open the barrier!"""
+DestroyDoorMsg#0,"""The $(0) barrier has opened!"""
+TrialAbstract#0,"""Defeat a certain number of $(0) to open the barrier!"""

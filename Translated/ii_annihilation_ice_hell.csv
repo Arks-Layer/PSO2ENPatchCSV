@@ -1,0 +1,7 @@
+IncidentName#0,"""Derrotar a $(0)!"""
+TrialBeginMsg#0,"""Derrotar a $(0)!"""
+TrialAbstract#0,"""Usa los carambanos para desactivar<br>la barrera y suprimir los $(0)!"""
+NpcComOnBegin#0,"""U-urgentes! Potentes lecturas<br>enemigas confirmadas!<br>Por favor, derrotelos rapidamente!"""
+NpcComOnSuccess#0,"""Han desaparecido las reacciones de los enemigos<br>Gracias por su esfuerzo!"""
+NpcComOnFailure#0,"""だいぶ足止めを食らっちゃいました！<br>このままでは敵さんの思うつぼです。<br>仕方ないので先を急ぎましょう！"""
+NpcComOnHint#0,"""バリアで敵さんに攻撃が届きません！<br>あのバリアを上から飛び越えられる<br>登れるようなものがあれば……！"""

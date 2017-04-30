@@ -1,0 +1,8 @@
+GREET_RANGE#0,"""¡Hola!"""
+GREET_SHOP_OPEN#0,"""Bienvenido!"""
+GREET_SHOP_DISABLE#0,"""Disculpa. <br>hoy en dia es un estatuto mas."""
+GREET_SHOP_CLOSE#0,"""Gracias!"""
+00_01#0,"""Opcion 1"""
+00_02#0,"""Opcion 2"""
+TALK_ST#0,"""Hablar"""
+C_ORDER_ST#0,"""Escuchar los detalles"""

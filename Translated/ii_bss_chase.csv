@@ -1,0 +1,8 @@
+IncidentName#0,"""Destruye todos los coches fugitivos!"""
+TrialBeginMsg#0,"""Destruye todos los coches fugitivos dentro del limite de tiempo!"""
+TrialAbstract#0,"""Destruye todos los coches fugitivos dentro del limite de tiempo!"""
+NpcComOnBegin#0,"""Algunos coches se han formado a partir del eter y estan fuera de control! utiliza los Dash Panel para alcanzarlos y deshacerse de ellos!"""
+NpcComOnSuccess#0,"""Parece que la formacion de esos coches fantasmas de eter se ha dispersado!, Gracias!"""
+NpcComOnFailure#0,"""No sabemos a donde pudieron haber ido esos coches fantasma... Bueno, de todos modos, puedes volver a tu mision actual."""
+NpcComOnHalf#0,"""Ciertamente hay menos de esos coches fantasma! ¡Lo estas haciendo genial!"""
+NpcComOnLastOne#0,"""Ya casi no quedan coches fantasmas! No dejes que se escapen!"""

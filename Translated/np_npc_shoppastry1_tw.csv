@@ -1,0 +1,8 @@
+GREET_RANGE#0,"""...... Que?."""
+GREET_SHOP_OPEN#0,"""……Hay pastel?"""
+GREET_SHOP_DISABLE#0,"""……Aparte de la benefactora no gracias."""
+GREET_SHOP_CLOSE#0,"""……Pues bien, tambien."""
+00_01#0,"""Opcion 1"""
+00_02#0,"""Opcion 2"""
+TALK_ST#0,"""Hablar"""
+C_ORDER_ST#0,"""Escuchar los detalles"""

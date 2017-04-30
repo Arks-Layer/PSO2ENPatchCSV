@@ -1,0 +1,6 @@
+IncidentName#0,"""Completa the stage order!"""
+TrialBeginMsg#0,"""Completa the stage order!"""
+TrialAbstract#0,"""Completa the stage order!"""
+NpcComOnBegin#0,"""/face2 Ta-dah!<br>Los detalles de esta etapa ya estan listos!"""
+NpcComOnSuccess#0,"""/face2 Muy Muy Muy bien!.<br>Has recolectado datos excelentes!"""
+NpcComOnFailure#0,"""/face6 Oh... es un poco complicado para ti?, no te preocupes!"""

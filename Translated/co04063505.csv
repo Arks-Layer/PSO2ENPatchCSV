@@ -1,0 +1,5 @@
+Title#0,"""Understanding Enemy Movement"""
+Explanation#0,"""こっちに出てくる敵の動きとかって<br>いまだに慣れないんだよな……<br>近寄ってくるヤツとかは、じっくり動きを<br>見られれば、傾向が掴めると思うんだ。<br>そこでひとつお願いがあるんだが<br><%me>の戦いを<br>参考に見せてもらえないか？<br><yellow>※Target Nv.61+ enemies.<br>※報酬アイテムは１アカウント毎に<br>入手条件を満たした状態で報告した際に付与<c>"""
+Reward#0,"""Huge Cutter<br>※Reward can be obtained again after a certain time."""
+Reward_wait#0,"""Huge Cutter<br>※$(0) until available again."""
+Reward_recover#0,"""Huge Cutter<br>※Reward can be obtained again after a certain time."""

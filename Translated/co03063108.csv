@@ -1,0 +1,5 @@
+Title#0,"""A Quick and Hectic Search!"""
+Explanation#0,"""今回ご紹介するのは『ＰＳＯ２ｅｓ』の<br>「クイック探索」です。<br>『ＰＳＯ２』の特定のクエストを<br>すぐにクリアできるスペシャルな機能です！<br><br><yellow>※Recompensa disponible solo para el primer personaje<br>por cada cuenta que completa esta orden.<c>"""
+Errand#0,"""Habla con Seraphy despues de aceptar la orden."""
+text#0,"""EXP 15,000 Ticket x1<br>※Uno por cuenta, al finalizar la Orden"""
+text_received#0,"""Experience +15000 Ticket x1<br>※Reward item already obtained."""

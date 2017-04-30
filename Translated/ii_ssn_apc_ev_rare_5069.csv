@@ -1,0 +1,7 @@
+PreBegin#0,"""どんなやつが来ようと<br>オレっちに不可能はないみャ！"""
+Begin#0,"""/toge /ci1 1 ふっ、一撃で決めるみャ！<br>オレっちの射撃は世界いちぃぃぃ！"""
+Success#0,"""/toge /mn17 /ci2 4 Lo hicimos, nya! a tiempo para reclamar mi premio, nya! ... Candy ... nyaa"""
+Failure#0,"""/mn30 /ci4 1 Parece que... los dulces de la vida son agridulces... ... nya"""
+Dead#0,"""Caramelo... su hijo regresaran con usted... nya ..."""
+BuddyDead#0,"""Tienes una terrible mala suerte, nya!"""
+TargetDead#0,"""またメセタサークルみャ～～！<br>レアアイテムを出してほしいみャ！"""

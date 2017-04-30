@@ -1,0 +1,5 @@
+IncidentName#0,"""Derrotar a $(0)"""
+TrialBeginMsg#0,"""Derrotar a $(0)!"""
+TrialAbstract#0,"""Derrotar a $(0)!"""
+NpcComOnBegin#0,"""Hemos confirmado una poderosa presencia desde dentro el Baize.<br>Todos los ARKS deben exterminarlo lo antes posible."""
+NpcComOnSuccess#0,"""Se ha confirmado que las lecturas<br>enemigas han desaparecido. Bien hecho."""

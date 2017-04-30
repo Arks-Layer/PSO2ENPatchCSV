@@ -1,0 +1,5 @@
+IncidentName#0,"""Defeat all the Rare Enemies!"""
+TrialBeginMsg#0,"""For a certain time, Derrotar a rare enemies!"""
+TrialAbstract#0,"""For a certain time, Derrotar a rare enemies!"""
+NpcComOnBegin#0,"""$(0)の地点に多数の反応確認！<br>かなりの数がいるみたいです！<br>皆さん、注意してくださいね！"""
+NpcComOnSuccess#0,"""敵性反応、消失確認しました！<br>お見事です！<br>皆さん、お疲れさまでした！"""

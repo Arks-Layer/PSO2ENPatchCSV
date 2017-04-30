@@ -1,0 +1,8 @@
+NpcComMsg1#0,"""¿Todo listo? Seras transportado justo<br>al frente de Dark Falz Elder.<br>Ten cuidado."""
+NpcComMsg2#0,"""/face6 ...Supongo que realmente le distes<br>una buena leccion en la 1era fase.<br>Se fuerte, recuerda a toda costa<br>que deves volver a nosotros con<br>seguridad, Creo en ti..."""
+Title#0,"""Profound Darkness' Kin: Elder"""
+Explanation#0,"""Dark Falz Elder ha aparecido! The malice<br>it exudes is overwhelming... However,<br>this is no time for fear! The combined<br>efforts of our forces are undefeatable!<br>Show no fear and don't hold back!<br><br>Think only of victory! All Arks, engage!<br><br>――――――――――――――――――――<br>Fracaso: Be defeated, time runs out"""
+SimpleExplanation#0,"""Derrotar a Dark Falz Elder"""
+a1#0,"""Completar cierta orden del cliente."""
+a2#0,"""Completar cierta orden del cliente."""
+a3#0,"""Poseer la licencia para Super Dificil."""

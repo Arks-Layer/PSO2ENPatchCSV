@@ -1,0 +1,7 @@
+PreBegin#0,"""むっ……！<br>この感じ…何かが近くに居るみャ！"""
+Begin#0,"""/toge /ci1 1 とうとうオレっちのコスプレをする<br>エネミーが出てきたのかみャ！？<br>くぅ～！\u3000人気者はつらいみャ！"""
+Success#0,"""/toge /mn17 /ci2 4 Lo hicimos, nya! a tiempo para reclamar mi premio, nya! ... Candy ... nyaa"""
+Failure#0,"""/mn30 /ci4 1 Parece que... los dulces de la vida son agridulces... ... nya"""
+Dead#0,"""Caramelo... su hijo regresaran con usted... nya ..."""
+BuddyDead#0,"""Tienes una increible mala suerte, nya!"""
+TargetDead#0,"""ふんっ！<br>所詮フェイクはフェイク！<br>オレっちにはかなわないようだみャ！"""

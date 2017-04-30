@@ -1,0 +1,5 @@
+Title#0,"""Wondermeow Present?"""
+Explanation#0,"""<%me>さんに<br>渡したいものがあったのニャン！<br>でも、まだ準備ができてなくて……<br>ちょっと待っててほしいのニャン！<br>ただ待ってるだけだと、他の人に<br>連れて行かれちゃいそうだから<br>その間、エネミー倒してきて欲しいニャン！<br><yellow>※Target Nv.61+ enemies.<br>※One reward item per account<br>per completion while requirements are met.<c>"""
+Reward#0,"""Meteor Cudgel-NT<br>※Reward can be obtained again after a certain time."""
+Reward_wait#0,"""Meteor Cudgel-NT<br>※$(0) until available again."""
+Reward_recover#0,"""Meteor Cudgel-NT<br>※Reward can be obtained again after a certain time."""

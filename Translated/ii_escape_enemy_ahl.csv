@@ -1,0 +1,8 @@
+IncidentName#0,"""Runaway $(0) Capture"""
+TrialBeginMsg#0,"""Defeat $(1) of the escaping $(0)!<br>Fail if more than $(2) escape."""
+TrialAbstract#0,"""Subdue the runaway $(0)!"""
+TrialBeginMsgForKeyII#0,"""Defeat $(1) of the escaping $(0)!"""
+NpcComOnBegin#0,"""Confirmed runaway $(0)<br>presence. Porfavor defeat them before <br>they escape so we can study their <br>strange behaviour."""
+NpcComOnBeginAtRareCase#0,"""Confirmed $(0) presence.<br>Relaying an urgent defeat request.<br>Your assistance is appreciated!"""
+NpcComOnSuccess#0,"""/face2 Confirmed $(0)<br>data acquisition.<br>Thanks for your cooperation."""
+NpcComOnFailure#0,"""We lost them.<br>Though the data gathering failed,<br>we thank you for your cooperation."""

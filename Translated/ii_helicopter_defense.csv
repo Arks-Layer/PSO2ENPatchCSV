@@ -1,0 +1,7 @@
+IncidentName#0,"""Aircraft Defense"""
+TrialBeginMsg#0,"""Defend the aircraft until repairs are complete!"""
+EnemyAppearMsg#0,"""Incoming enemies from the $(0)!"""
+TrialEvolutionBeginMsg_ReLanding#0,"""Protect the gunship again until repairs are complete!"""
+TrialEvolutionBeginMsg_Rescue#0,"""Gunship Defense Evolution: Pilot Rescue start!"""
+TrialEvolutionBeginMsg_Combat#0,"""Gunship Defense Evolution: Co-op Combat start!"""
+TrialAbstract#0,"""Protect the aircraft until repairs are complete!"""
