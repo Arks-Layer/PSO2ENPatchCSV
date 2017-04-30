@@ -26,7 +26,7 @@ If you don't understand Japanese, but still want to help out, you can look over 
  1. Click the "Fork" button in the upper right of this GitHub page to make a copy of the translations for you to work with.
  2. Click the file you want to edit.
  3. Click the pencil icon.
- 4. Edit the file to your heart's content! (<**ONLY EDIT THE TEXT INSIDE THE TRIPLE QUOTES**)
+ 4. Edit the file to your heart's content! (**ONLY EDIT THE TEXT INSIDE THE TRIPLE QUOTES**)
  5. Write a brief summary of the changes at the bottom of the page.
  6. Hit "Commit changes".
  7. Repeat steps 2 to 6 on as many files as you would like to edit. Once finished, proceed to step 8.
