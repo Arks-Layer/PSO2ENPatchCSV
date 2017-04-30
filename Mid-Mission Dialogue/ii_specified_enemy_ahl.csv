@@ -1,7 +1,7 @@
 IncidentName#0,"""Defeat the $(0)"""
 TrialBeginMsg#0,"""Defeat $(1) $(0)!"""
 TrialAbstract#0,"""Defeat a certain number of $(0)!"""
-NpcComOnBegin#0,"""Confirmed a nearby outbreak <br>of $(0)! All Arks, <br>please be on your guard!"""
+NpcComOnBegin#0,"""Confirmed a nearby outbreak <br>of $(0)! All ARKS, <br>please be on your guard!"""
 NpcComOnSuccess#0,"""/face2 Confirmed that the target's <br>readings have vanished!<br>Martial law is being lifted."""
 NpcComOnBegin#1,"""Outbreak of $(0) <br>has been confirmed in the vicinity. <br>Don't let your guard down, everyone."""
 NpcComOnSuccess#1,"""Target neutralization has <br>been confirmed. Nicely <br>done, lifting martial law."""

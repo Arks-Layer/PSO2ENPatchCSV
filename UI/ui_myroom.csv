@@ -109,7 +109,7 @@ RoomCustmize_CheckMessage#0,"""Upon remodeling, all decorations will be removed.
 RoomCustmize_RoomSize_Middle#0,"""Small"""
 RoomCustmize_RoomSize_Large#0,"""Large"""
 PortalUnit_Title#0,"""Portal Unit"""
-PortalUnit_Move_Lobby#0,"""Go to Arks Lobby"""
+PortalUnit_Move_Lobby#0,"""Go to ARKS Lobby"""
 BGMMenu_Title#0,"""Music Disc registration menu"""
 BGMMenu_Entry#0,"""Register Music Disc"""
 BGMMenu_Play#0,"""View registered Discs"""
