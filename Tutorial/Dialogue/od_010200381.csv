@@ -1,0 +1,8 @@
+11_voice_NPC_5021_102#0,"""Lately, there's been too many ARKS<br>who don't use Autowords！<br>It's a waste！"""
+text02#0,"""状況に応じたメッセージを出す<br>オートワードは、自身の状況を<br>知らせるのに重要、だというのに……！"""
+text03#0,"""ええい、話している内にも<br>不安が鎌首をもたげてきた！<br>君、今すぐやってくるといい！"""
+text04#0,"""何を、って、決まっているだろう。<br>オートワードの設定だ！<br>クエストクリア時の設定だ！"""
+text05#0,"""Come on, come ooonnn!<br>This shouldn't be difficult！<br>Wipe away my fears!"""
+text00#0,"""Autowords"""
+text01#0,"""Autowords are a chat function which allows<br>your character to speak in specific situations<br>without you having to do anything.<br><br>You can set Autowords with<br>\""System\""→\""Chat Settings\""→\""Autowords\"".<br><br>Register Autowords by entering text<br>in the input fields for each situation.<br><br>If you want more than one Autoword for a situation,<br>press \""+\"" to add an input field."""
+text02#0,"""Greet your allies at the start of a quest,<br>call for help when you're unable to battle;<br>There's all kinds of ways you can use them.<br><br>Have fun with the game<br>using Autowords."""
