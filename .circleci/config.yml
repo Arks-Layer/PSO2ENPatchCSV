@@ -20,7 +20,7 @@ jobs:
       - checkout
       - run:
           name: Install GNU Aspell spell-checker
-          command: apt-get -qq -y install aspell-en
+          command: apt-get -qq -y install aspell-es
       - run:
           name: Install GNU assembler, linker and binary utilities
           command: apt-get -qq -y install binutils
