@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 rm -rf /tmp/PSO2ENPatchCSV.check
 git archive --format=tar --prefix=PSO2ENPatchCSV.check/JP/ origin/JP | tar xf - -C /tmp
 rsync -a . /tmp/PSO2ENPatchCSV.check/WC --exclude ".git" --del
