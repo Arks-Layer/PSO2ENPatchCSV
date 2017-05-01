@@ -1,4 +1,4 @@
-text100#0,"""Über Klientenaufträge"""
+text100#0,"""Über "Client Orders""""
 text101#0,"""Revelle hat einen neuen Auftrag.<br><br>Revelle ist am östlichen Questschalter im Gatebereich."""
 tutorial01#0,"""Marlu hat einen neuen Auftrag.<br><br>Marlu ist in der Zentralhalle im Gatebereich."""
 tutorial02#0,"""Ohza hat einen neuen Auftrag.<br><br>Ohza ist in der Zentralhalle im Gatebereich."""
@@ -9,5 +9,5 @@ tutorial06#0,"""Katori hat einen neuen Auftrag.<br><br>Katori ist am Haupttelepo
 tutorial07#0,"""Jean hat einen neuen Auftrag.<br><br>Jean ist in der Südpassage der Einkaufsmeile"""
 tutorial08#0,"""Lola hat einen neuen Auftrag.<br><br>Lola ist im Ärztezentrum im Gatebereich."""
 tutorial09#0,"""Pietro hat einen neuen Auftrag.<br><br>Pietro ist am Klassenschalter im Gatebereich."""
-tutorial10#0,"""In der ARKS Lobby<br>gibt es ARKS für jede Klasse.<br><br>Ohza ：Hunter, Fighter<br>Marlu ：Force, Techer<br>Lisa ：Ranger, Gunner<br>Azanami ：Braver<br>Saga, Katori ：Bouncer<br>Pietro ：Summoner<br><br>Finde sie im Gatebereich und spreche mit ihnen."""
-tutorial11#0,"""Ausserdem fragen diverse Charaktere<br>nach Klientenaufträgen.<br><br>Lola : Gatebereich, Ärztezentrum<br>Revelle : Östlich vom Questcounter.<br>Jean :Einkaufsmeile, äußere Südpassage<br><br>Sprich mit ihnen."""
+tutorial10#0,"""In der ARKS Lobby<br>gibt es ARKS für jede Klasse.<br><br>Ohza ：Jäger, Kämpfer<br>Marlu ：Force, Techer<br>Lisa ：Ranger, Gunner<br>Azanami ：Braver<br>Saga, Katori ：Bouncer<br>Pietro ：Summoner<br><br>Finde sie im Gatebereich und spreche mit ihnen."""
+tutorial11#0,"""Außerdem fragen diverse Charaktere<br>nach Klientenaufträgen.<br><br>Lola : Gatebereich, Ärztezentrum<br>Revelle : Östlich vom Questcounter.<br>Jean :Einkaufsmeile, äußere Südpassage<br><br>Sprich mit ihnen."""
