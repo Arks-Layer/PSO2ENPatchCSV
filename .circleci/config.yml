@@ -25,16 +25,22 @@ jobs:
           name: Install GNU assembler, linker and binary utilities
           command: apt-get -qq -y install binutils
       - run:
+          name: Verify CSVs as UTF-8
+          command: ./_sh/UTF8.sh
+      - run:
+          name: Verify CSVs without BOM
+          command: ./_sh/BOM.sh
+      - run:
           name: Verify folder layout
           command: ./_sh/check.sh
       - run:
           name: Checking DUP folders
           command: bash ./_sh/dupfolders.sh
       - run:
-          name: checking CSV for quote
+          name: checking CSVs for quote issues
           command: bash ./_sh/quote.sh
       - run:
-          name: verifing CSVs
+          name: verifing CSVs for PSO2 format
           command: bash ./_sh/check.sh
       - run:
           name: coverage CSVs
