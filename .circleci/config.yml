@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: /root/PSO2
     docker:
-      - image: python:3-slim
+      - image: python:3
     branches:
       ignore:
         - develop
@@ -15,8 +15,8 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install Git, the fast, scalable, distributed revision control system
-          command: apt-get -qq -y install git
+          name: Install rsync, fast, versatile, remote (and local) file-copying tool
+          command: apt-get -qq -y install rsync
       - checkout
       - run:
           name: Install GNU Aspell spell-checker
@@ -24,6 +24,9 @@ jobs:
       - run:
           name: Install GNU assembler, linker and binary utilities
           command: apt-get -qq -y install binutils
+      - run:
+          name: Verify folder layout
+          command: ./_sh/check.sh
       - run:
           name: Checking DUP folders
           command: bash ./_sh/dupfolders.sh
@@ -48,3 +51,4 @@ jobs:
       - store_artifacts:
           path: /tmp/dict.txt
           destination: dict.txt
+

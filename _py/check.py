@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
+# -*- coding:utf-8 -*-
 import csv
+import codecs
 import os
 import sys
 
@@ -11,7 +13,7 @@ if len(sys.argv) == 1:
 
 for i in sys.argv[1:]:
     w = i.replace("JP/","WC/")
-    with open(i) as JP:
+    with codecs.open(i, encoding="utf-8") as JP:
 
         try:
             JPCSV = list(csv.reader(JP,strict=True))
@@ -21,7 +23,7 @@ for i in sys.argv[1:]:
             break;
 
         try:
-            WC = open(w)
+            WC = codecs.open(w, encoding="utf-8")
             WCCSV = list(csv.reader(WC,strict=True))
         except:
             print("Error reading of {0}".format(w))
