@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
+# -*- coding:utf-8 -*-
 import csv
+import codecs
 import os
 import sys
 
@@ -11,9 +13,9 @@ isascii = lambda s: len(s) == len(s.encode())
 bufout = "000.0%\t0FILE"
 for i in sys.argv[1:]:
     w = i.replace("JP/","WC/")
-    with open(i) as JP:
+    with codecs.open(i, encoding="utf-8") as JP:
         JPCSV = list(csv.reader(JP,strict=True))
-        WCCSV = list(csv.reader(open(w),strict=True))
+        WCCSV = list(csv.reader(codecs.open(w, encoding="utf-8"),strict=True))
         JPlist = dict()
         countt = 0
         for row in JPCSV:

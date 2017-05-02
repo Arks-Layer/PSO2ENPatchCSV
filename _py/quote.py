@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
+# -*- coding:utf-8 -*-
 import csv
+import codecs
 import os
 import sys
 
@@ -10,7 +12,7 @@ if len(sys.argv) == 1:
     sys.exit(os.EX_NOINPUT)
 
 for i in sys.argv[1:]:
-    with open(i) as QC:
+    with codecs.open(i, encoding="utf-8") as QC:
 
         try:
             QCCSV = list(csv.reader(QC,strict=True))
