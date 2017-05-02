@@ -11,6 +11,6 @@ NpcComOnFailure#0,"""/face4 Los daゃos causados por los<br>Gel Wulffs ha alcanz
 NpcComOnTarget#0,"""$(0)! Cuidado! Estas en la mira!"""
 NpcComOnTime1#0,"""Los Gel Wulffs no van a durar mucho tiempo! Aguanta hasta entonces!"""
 NpcComOnTime2#0,"""Asi se hace ! Los gel Wulffs se quedaran sin energia pronto! Evitarlos  un poco mas!"""
-NpcComOnHit#0,"""Confirmo que el Caゃon de fotones es eficiente. Justo como lo planeamos, podemos usar esto para derrotarlos """
-NpcComDeadEmplacement#0,"""Transfiriendo otro Caゃon de fotones."""
+NpcComOnHit#0,"""Confirmo que el Caゃon de photones es eficiente. Justo como lo planeamos, podemos usar esto para derrotarlos """
+NpcComDeadEmplacement#0,"""Transfiriendo otro Caゃon de photones."""
 NpcComOnRepop#0,"""Confirmo la reaparicion de los<br>Gel Wulffs! todo el mundo, mantengan los<br>ojos abiertos."""

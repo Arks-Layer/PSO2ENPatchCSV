@@ -230,7 +230,7 @@ P_Event001_MES#0,"""まもなくバトルランキングの集計期間が終了
 P_Event002_MES#0,"""現在、バトルランキングの集計中です。集計の終了までしばしお待ちください。"""
 P_Event003_MES#0,"""新しいバトルランキングの集計期間が始まりました。メインメニューのコンテンツ情報から、バトルランキング情報をご確認ください。"""
 TimeBomb_Title#0,"""Desactiva las Bomba de Tiempo"""
-TimeBomb_Message#0,"""Por favor selecciona un punto de coneccion<br>para deshabilitar el detonador."""
+TimeBomb_Message#0,"""Por favor selecciona un punto de conexion<br>para deshabilitar el detonador."""
 TimeBomb_1#0,"""Arriba"""
 TimeBomb_2#0,"""En medio"""
 TimeBomb_3#0,"""Abajo"""
