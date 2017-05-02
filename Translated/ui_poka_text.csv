@@ -1,4 +1,4 @@
-﻿Notice_Kill#0,"""<c 00fcc2>$(0)<c> derroto un oponente!: <c 00fcc2>$(1) Puntos<c>"""
+Notice_Kill#0,"""<c 00fcc2>$(0)<c> derroto un oponente!: <c 00fcc2>$(1) Puntos<c>"""
 Notice_Death#0,"""<c ff81f8>$(0)<c> a caido: <c ff81f8>$(1) Puntos<c>"""
 Notice_AccidentalDeath#0,"""<c 00fcc2>Un oponente<c> a caido!: <c 00fcc2>Tu equipo recibe $(0) Puntos<c>"""
 Notice_MatchingEntry#0,"""Comenzando proceso de emparejamiento"""

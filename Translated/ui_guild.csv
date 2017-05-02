@@ -1,4 +1,4 @@
-﻿ErrorMember#0,"""$(0) is not a member of this team."""
+ErrorMember#0,"""$(0) is not a member of this team."""
 ErrorNotExist#0,"""Specified Team does not exist."""
 Role#0,"""Rango"""
 RankName#0,"""Rango"""
