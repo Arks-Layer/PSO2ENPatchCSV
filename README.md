@@ -20,6 +20,7 @@ Wir übersetzen auch englische Texte auf Deutsch, nicht nur japanische. Außerde
 * Wenn du eine Datei übersetzen möchtest, die sich unter "/Files/" befindet, dann **MUSST** du [die Datei in einen anderen Ordner verschieben](https://github.com/blog/1436-moving-and-renaming-files-on-github) bevor du sie übersetzen kannst. Der Ordner "Files" darf **NUR** komplett japanische Dateien beinhalten.
 * Du kannst nach Zeug zum Übersetzen suchen, indem du den GLaDOS-Bot im #translation-public Kanal auf unserem **[PSO2 Discord Server]** benutzt. Wie du ihn verwendest, findest du dort unter den angepinnten Nachrichten.
 * Behalte die dreifachen Anführungsstriche bei und bearbeite nur den Text innerhalb von ihnen.
+* * Wenn du Anführungsstriche innerhalb einer Übersetzung verwenden willst, musst du folgendermaßen schreiben: `Die \""ARKS\"" sind von essentieller bedeutung für das Spiel \""PSO2\"".` Die dreifachen Anführungsstriche müssen dennoch erhalten bleiben.
 * Bitte sieh dir im **[Wiki]** dieser GitHub-Repo die Anleitungen und Hinweise an, bevor du uns deine Übersetzungen zukommen lässt.
 * Du kannst neue Fehler (Issues) erstellen, um die Übersetzung mit anderen Übersetzern zu besprechen. Bitte beachte, dass Fehler ohne Bezug auf die Übersetzung ohne vorherige Ankündigung gelöscht werden können.
 
