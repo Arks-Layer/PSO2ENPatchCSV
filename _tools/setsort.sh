@@ -1,6 +1,7 @@
 #!/bin/bash
 while IFS=' ' read -r file dir
 do
-	echo mkdir -p $dir
-	echo git mv -n $file $dir
+	mkdir -p $dir
+	newfile="$(find  . -name "*.csv" -not -path "../Files/*" -not -path "*/.git/*" -name "$file")"
+	git mv $newfile $dir
 done
