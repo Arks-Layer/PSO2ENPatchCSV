@@ -49,7 +49,7 @@ EquipNoteResultOther#0,"""<yellow>※他にも進行度が上昇したアイテ�
 EquipNoteResultPercent#0,"""$(1).$(0)%"""
 PointValue#0,"""$(0)pt"""
 Score#0,"""Punkte"""
-Perfect#0,"""? PERFEKT"""
+Perfect#0,"""★ PERFEKT"""
 TotalResult#0,"""Gesamtergebnis"""
 ErrandResultTitle#0,"""お手伝いしたオーダーの結果"""
 ErrandOrderTitle#0,"""手伝ったオーダー"""

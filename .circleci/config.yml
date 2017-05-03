@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: /root/PSO2
     docker:
-      - image: python:3-slim
+      - image: python:3
     branches:
       ignore:
         - develop
@@ -15,30 +15,36 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install Git, the fast, scalable, distributed revision control system
-          command: apt-get -qq -y install git
+          name: Install rsync, fast, versatile, remote (and local) file-copying tool
+          command: apt-get -qq -y install rsync
       - checkout
       - run:
-          name: Install GNU Aspell spell-checker
-          command: apt-get -qq -y install aspell-de
+          name: Verify CSVs as UTF-8
+          command: ./_sh/UTF8.sh
       - run:
-          name: Install GNU assembler, linker and binary utilities
-          command: apt-get -qq -y install binutils
+          name: Verify CSVs without BOM
+          command: ./_sh/BOM.sh
+      - run:
+          name: Verify folder layout
+          command: ./_sh/checkFiles.sh
       - run:
           name: Checking DUP folders
           command: bash ./_sh/dupfolders.sh
       - run:
-          name: checking CSV for quote
+          name: checking CSVs for quote issues
           command: bash ./_sh/quote.sh
       - run:
-          name: verifing CSVs
+          name: verifing CSVs for PSO2 format
           command: bash ./_sh/check.sh
       - run:
           name: coverage CSVs
           command: bash ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
+          name: Install GNU Aspell spell-checker
+          command: apt-get -qq -y install aspell-de
+      - run:
           name: spell check CSVs
-          command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|tail -n +2|cut -f 2 -d " "|./_sh/sortuniq.sh|tee /tmp/dict.txt
+          command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|./_tools/sortaspell.sh|tee /tmp/dict.txt
       - store_artifacts:
           path: /tmp/coverage.txt
           destination: coverage.txt
@@ -48,3 +54,4 @@ jobs:
       - store_artifacts:
           path: /tmp/dict.txt
           destination: dict.txt
+
