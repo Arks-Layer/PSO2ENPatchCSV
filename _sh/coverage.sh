@@ -5,4 +5,4 @@ rsync -a . /tmp/PSO2ENPatchCSV.coverage/WC --exclude ".git" --del
 cd /tmp/PSO2ENPatchCSV.coverage/WC/Files
 find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;
 cd /tmp/PSO2ENPatchCSV.coverage/
-sh -c "find JP -name "*.csv" -print0|xargs -P 0 -n 1024 -0 python3 WC/_py/coverage.py" |fgrep --invert-match -e "0FILE" | sed -e 's/\.csv//'| sort --numeric-sort --reverse | awk '{print $2"\t" $1}' | sed -e 's/\t/: /'
+sh -c "find JP -name "*.csv" -print0|_tools/mp.sh -0  WC/_py/coverage.py" |fgrep --invert-match -e "0FILE" | sed -e 's/\.csv//'| sort --numeric-sort --reverse | awk '{print $2"\t" $1}' | sed -e 's/\t/: /'
