@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -name "*.csv" -print0|xargs -0 python3 _py/quote.py&>/dev/null||find . -name "*.csv" -print0|xargs -0 -n 1 python3 _py/quote.py
+#!/bin/sh
+find . -name "*.csv" -not -path "*/.git/*" -print0|_tools/mp.sh -0 _py/quote.py&>/dev/null||find . -name "*.csv" -not -path "*/.git/*" -print0|_tools/mp.sh -0 -n 1 _py/quote.py
