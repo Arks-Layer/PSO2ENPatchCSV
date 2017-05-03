@@ -19,12 +19,6 @@ jobs:
           command: apt-get -qq -y install rsync
       - checkout
       - run:
-          name: Install GNU Aspell spell-checker
-          command: apt-get -qq -y install aspell-de
-      - run:
-          name: Install GNU assembler, linker and binary utilities
-          command: apt-get -qq -y install binutils
-      - run:
           name: Verify CSVs as UTF-8
           command: ./_sh/UTF8.sh
       - run:
@@ -45,6 +39,9 @@ jobs:
       - run:
           name: coverage CSVs
           command: bash ./_sh/coverage.sh>/tmp/coverage.txt
+      - run:
+          name: Install GNU Aspell spell-checker
+          command: apt-get -qq -y install aspell-de
       - run:
           name: spell check CSVs
           command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|./_tools/sortaspell.sh|tee /tmp/dict.txt
