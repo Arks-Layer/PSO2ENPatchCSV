@@ -32,7 +32,7 @@ jobs:
           command: ./_sh/BOM.sh
       - run:
           name: Verify folder layout
-          command: ./_sh/check.sh
+          command: ./_sh/checkFiles.sh
       - run:
           name: Checking DUP folders
           command: bash ./_sh/dupfolders.sh
