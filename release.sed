@@ -5,5 +5,5 @@ s/Ö/Oe/g
 s/ü/ue/g
 s/Ü/Ue/g
 s/ß/ss/g
-s/é/ss/g
-s/ê/ss/g
+s/é/e/g
+s/ê/e/g
