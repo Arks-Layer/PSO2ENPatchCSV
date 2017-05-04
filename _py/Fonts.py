@@ -19,6 +19,7 @@ cmap.append(0xb2)  	#²
 cmap.append(0xb7)  	#·
 cmap.append(0xa2)  	# ¢
 cmap.append(0x301c)	# 〜
+cmap.append(0xbf)  	# ¿
 
 def checkcmap(input):
 	#print(u"{}".format([ord(b) for b in input]))
