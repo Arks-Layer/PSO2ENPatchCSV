@@ -31,6 +31,9 @@ jobs:
           name: Verify CSVs without BOM
           command: ./_sh/BOM.sh
       - run:
+          name: Verify Font rendering
+          command: ./_sh/Fonts.sh
+      - run:
           name: Verify folder layout
           command: ./_sh/checkFiles.sh
       - run:
