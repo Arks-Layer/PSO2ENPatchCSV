@@ -1,0 +1,4 @@
+window_message_0010#0,"""continuar desde el ultimo punto de guardado"""
+window_message_0020#0,"""jugar desde el inicio"""
+window_message_0000#0,"""Previous autosave has been detected.<br>Do you want to continue from there?<br><br>Selecting [Play from the beginning] will erase your autosave."""
+line01#0,"""Esta mision tiene la funcion de auto guardado.<br>cuando el mensaje \""Progreso de mision guardado\"" aparezca,<br>podras continuar desde ese punto.<br>"""

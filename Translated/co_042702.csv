@@ -1,0 +1,5 @@
+name01#0,"""Kohri"""
+window_message_0010#0,"""continuar desde el ultimo punto de guardado"""
+window_message_0020#0,"""jugar desde el inicio"""
+window_message_0000#0,"""se ha detectado un punto de guardado.<br>te gustaria continuar desde el?<br><br>Seleccionar [jugar desde el inicio] sobreescribira tu punto de guardado."""
+line01#0,"""Esta mision tiene la funcion de auto guardado.<br>cuando el mensaje \""Progreso de mision guardado\"" aparezca,<br>podras continuar luego desde ese punto.<br>"""

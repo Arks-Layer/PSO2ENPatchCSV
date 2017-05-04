@@ -1,0 +1,3 @@
+window_message_0000#0,"""se ha detectado un punto de guardado.<br>te gustaria continuar desde el?<br><br>Seleccionar [jugar desde el inicio] sobreescribira tu punto de guardado."""
+window_message_0010#0,"""continuar desde el ultimo punto de guardado"""
+window_message_0020#0,"""jugar desde el inicio"""

@@ -448,7 +448,7 @@ Log_Toast_Disable_TeamChat_ChallengeShip#0,"""Team chat is unavailable while on 
 Log_Toast_Disable_TeamChat_Poka#0,"""Team chat is currently unavailable."""
 Log_Toast_Nouse_Poka_Whisper#0,"""Whisper chat is unavailable during battle."""
 Log_Welcome#0,"""Bienvenido a <lt>$(0)<rt>!"""
-Log_KeyHelp#0,"""Bienvenido a PSO2!<br>Nota: Pueden notificar errores y enviar sugerencias en<br>https://www.facebook.com/PSO2spanish/<br>Fecha del parche 05 de Diciembre del 2016."""
+Log_KeyHelp#0,"""Bienvenido a PSO2!<br>Nota: Pueden notificar errores y enviar sugerencias en<br>https://www.facebook.com/PSO2spanish/<br>Fecha del parche 03 de Mayo del 2017."""
 Log_ItemGet#0,"""Recibido $(0)."""
 Log_CapsuleGet#0,"""Recibido objeto virtual $(0). ver en el Terminal extreme."""
 LogSymbolArt#0,"""Symbol art mostrado."""
