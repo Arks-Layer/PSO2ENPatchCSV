@@ -1,4 +1,5 @@
 *_BACKUP_*.csv
 *_BASE_*.csv
 *_REMOTE_*.csv
-/__pycache__
+__pycache__
+*.pyc
