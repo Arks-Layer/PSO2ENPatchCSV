@@ -1,5 +1,5 @@
-s/¡//g
-s/á//g
-s/ñ//g
-s/ō//g
-s/ú//g
+s/¡/!/g
+s/á/aa/g
+s/ñ/an/g
+s/ō/oa/g
+s/ú/ou/g
