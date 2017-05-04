@@ -17,9 +17,10 @@ for i in fonts.SouGei.Charset().glyphs():
 	glyphs+=unichr(i)
 
 def checkglyphs(input):
-	for c in input:
-		if c not in glyphs:
-			return False
+	for l in input:
+		for c in l:
+			if c not in glyphs:
+				return False
 	return True
 
 #print(glyphs)
@@ -27,6 +28,7 @@ for i in sys.argv[1:]:
 	with codecs.open(i, encoding="utf-8") as QC:
 		if not checkglyphs(QC):
 			if err != 0:
+				print("File:{}".format(i))
 				err = os.EX_DATAERR
 
 sys.exit(err)
