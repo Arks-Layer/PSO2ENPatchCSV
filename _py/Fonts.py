@@ -14,9 +14,11 @@ cmap = [0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe,0xf,0x10,0x11,0x
 
 
 
-cmap.append(0xae) #®
-cmap.append(0xb2) #²
-cmap.append(0xb7) #·
+cmap.append(0xae)  	#®
+cmap.append(0xb2)  	#²
+cmap.append(0xb7)  	#·
+cmap.append(0xa2)  	# ¢
+cmap.append(0x301c)	# 〜
 
 def checkcmap(input):
 	#print(u"{}".format([ord(b) for b in input]))
@@ -34,7 +36,7 @@ for i in sys.argv[1:]:
 			for y, char in enumerate(line):
 				#print(char)
 				if not checkcmap(char):
-						#print(line)
+						#print(line[y])
 						print("{}\t{}\t{}\t{}".format(i, x+1, y+1, hex(ord(char))))
 				if err != 0:
 					err = os.EX_DATAERR
