@@ -205,7 +205,7 @@ RD_Event030_MES#0,"""Emergency announcement. An operation to destroy the [Profou
 RD_Event031_MES#0,"""The [Profound Darkness] has been repelled.  All ARKS operatives, thank you for you cooperation."""
 RD_Event040_MES#0,"""Emergency broadcast. We're picking up readings of Dark Falz Apprentice on Lillipa. All ARKS operatives should prepare to engage."""
 RD_Event041_MES#0,"""Emergency announcement. Begin the operation to re-seal Dark Falz Apprentice. All ARKS operatives, please sortie to Lillipa's Mining Base from the quest counter."""
-RD_Event042_MES#0,"""Dark Falz Apprentice has been successfully re-sealed. All ARKS operatives, thank you for you cooperation."""
+RD_Event042_MES#0,"""Dark Falz Apprentice has been successfully re-sealed. All ARKS operatives, thank you for your cooperation."""
 RD_Event043_MES#0,"""Emergency broadcast. We are preparing for a large-scale operation in response to a massive outbreak of Phantom readings on Earth."""
 RD_Event044_MES#0,"""Emergency announcement. We are conducting operations to suppress the massive Phantom outbreak on Earth. All ARKS operatives, report for duty at your nearest quest counter."""
 LS_Event004_MES#0,"""アークスの皆さま、地球親善大使の小林幸子でございます。これより、ショップエリアにてステージライブを行います。皆さま、どうぞお集まりくださいませ。"""

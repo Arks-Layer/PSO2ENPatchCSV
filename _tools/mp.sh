@@ -1,2 +1,2 @@
 #!/bin/sh
-xargs -P 0 -n 200 -s 4096 $@
+xargs -P 4 -r $@
