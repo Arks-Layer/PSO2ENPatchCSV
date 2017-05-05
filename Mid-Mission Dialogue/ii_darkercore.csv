@@ -13,5 +13,5 @@ UrgesArrivalCore1st#0,"""La hubicacion de la torre control ha sido confirmada en
 UrgesArrivalCore#0,"""La hubicacion de la torre de control se confirmo en $(0). Destruyela de inmediato."""
 FindCore#0,"""Esa debe ser la torre de control, destruyela de inmediato.!"""
 DamagedCore#0,"""Muy bien, vamos a seguir atacando y acabar con esto."""
-TimeupWarning#0,"""El tiempo de la transferencia se esta acabando. Si lo dejamos escapar, el daゃo se extendera. Hay que darse prisa!"""
+TimeupWarning#0,"""El tiempo de la transferencia se esta acabando. Si lo dejamos escapar, el daño se extendera. Hay que darse prisa!"""
 TimeupEmergency#0,"""No nos queda mucho tiempo. Necesitamos apurarnos y destruir el controlador ya."""

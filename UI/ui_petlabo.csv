@@ -4,7 +4,7 @@ CompressMessage#0,"""圧縮を開始します。<br>¿Seguro que quieres?<br><br
 CompressMessage_v#0,"""圧縮を開始します。¿Seguro que quieres?<br>※補助アイテムを使用することで、<br>  成功確率を上げることができます。"""
 CompressResultMessage1#0,"""Compression <green>successful<c>."""
 CompressResultMessage2#0,"""Compression <red>failed<c>."""
-CompressSize#0,"""Tamaゃo"""
+CompressSize#0,"""Tamaño"""
 CompressSizeNumber#0,"""$(0) x $(1)"""
 CompressItemCandy#0,"""Comprimir del inventario"""
 CompressCandyBoxCandy#0,"""Comprimir de la caja de dulces"""

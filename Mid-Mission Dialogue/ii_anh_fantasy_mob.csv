@@ -1,7 +1,7 @@
 IncidentName#0,"""Suppress the massive outbreak of enemies!"""
 TrialBeginMsg#0,"""Derrota a todos los enemigos dentro del limite de tiempo!"""
 TrialAbstract#0,"""Suppress the massive outbreak of enemies!"""
-NpcComOnBegin#0,"""Percibo un gran numero de reaccion del enemigo!<br>Apoye en el area de cuarentena<br>para reducir los daゃos"""
+NpcComOnBegin#0,"""Percibo un gran numero de reaccion del enemigo!<br>Apoye en el area de cuarentena<br>para reducir los daños"""
 NpcComOnAfterBegin#0,"""Transferencia de la energia para el mantener<br>el area de cuarentena. Por favor,<br>derrota al enemigo para recuperar el area."""
 NpcComOnSuccess#0,"""Confirmo la desaparicion del enemigo!<br>Volver al area de cuarentena<br>Saludos por tu buen trabajo!"""
 NpcComOnFailure#0,"""El mantenimiento de la zona de cuarentena<br>aumento su limite. Para la estabilidad,<br>se devolvera a la salida normal."""

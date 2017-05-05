@@ -11,7 +11,7 @@ NpcComOnSuccess#1,"""I see you have the knack! You're <br>a real credit to one a
 NpcComOnFailure#1,"""Ugh, here we go again. <br>We do worry about you, <br>so please, retreat."""
 NpcComOnDownA#1,"""You're not coordinating properly. <br>Don't forget to work together."""
 NpcComOnDownB#1,"""That Arks' burden is really weighing <br>'em down. I suggest you retreat if <br>there's another screw-up, alright?"""
-NpcComOnBegin#2,"""Todos, este ARKS es tu compaゃero!<br>intenta tu mejor trabajo en equipo!"""
+NpcComOnBegin#2,"""Todos, este ARKS es tu compañero!<br>intenta tu mejor trabajo en equipo!"""
 NpcComOnSuccess#2,"""/face2 Good job! You make <br>such a great team!"""
 NpcComOnFailure#2,"""Well, these things happen! <br>We'll pick them up, so don't <br>you worry about it one bit!"""
 NpcComOnDownA#2,"""Ummm... Your coordination <br>isn't so good... Porfavor try <br>to work together a bit more."""
