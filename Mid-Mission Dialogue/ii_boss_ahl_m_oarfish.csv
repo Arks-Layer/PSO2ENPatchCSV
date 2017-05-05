@@ -1,4 +1,4 @@
-IncidentName#0,"""$(0)を撃退せよ！"""
+IncidentName#0,"""Defeat the $(0)!"""
 TrialBeginMsg#0,"""Defeat the $(0)!"""
 TrialAbstract#0,"""Repel $(0)"""
 NpcComOnBegin#0,"""This is an emergency broadcast.<br>A $(0) has appeared, <br>hampering our investigation. Intercept it."""
