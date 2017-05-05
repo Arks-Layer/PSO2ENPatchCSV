@@ -5,7 +5,7 @@
 # PSO2 English Patch 
 Welcome to the PSO2 English Patch CSV Repository.
 
-[![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN)
+Current status of tests and checks: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN)
 
 This repository is dedicated to translating PSO2 game texts from Japanese to English. Our goal is to complete the English translations first, so that it can be used to translate the game to other non-English languages.
 
