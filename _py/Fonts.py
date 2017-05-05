@@ -37,9 +37,9 @@ for i in sys.argv[1:]:
 			for y, char in enumerate(line):
 				#print(char)
 				if not checkcmap(char):
-						#print(line[y])
-						print("{}\t{}\t{}\t{}".format(i, x+1, y+1, hex(ord(char))))
-				if err != 0:
-					err = os.EX_DATAERR
+					#print(line[y])
+					print("{}\t{}\t{}\t{}".format(i, x+1, y+1, hex(ord(char))))
+					if err == os.EX_OK:
+						err = os.EX_DATAERR
 
 sys.exit(err)
