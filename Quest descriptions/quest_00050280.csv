@@ -1,5 +1,5 @@
 NpcComMsg1#0,"""Entonces... Luther finalmente se ha mostrado. Comenzare a transportarlos hasta la ubicacion de este oscuro Falz."""
-NpcComMsg2#0,"""Una ves la batalla comienze, No habra nada mas que pueda hacer por ti... Estare aqui, esperando que regreses a salvo... Dale a conocer el infierno."""
+NpcComMsg2#0,"""Una vez la batalla comienze, No habra nada mas que pueda hacer por ti... Estare aqui, esperando que regreses a salvo... Dale a conocer el infierno."""
 Title#0,"""Paragon of Deceit: [Luther]"""
 Explanation#0,"""Se han detectado fuertes lecturas <br>de la mothership. <br>Luther esta esperando por nosotros. <br>Estamos vulnerables en su dominio, <br>por lo que no podemos saber que sucedera. <br>retirarce no es una opcion. Aun asi, <br>hay que tener fuezas. No se rinda, <br>y confie en su fuerza.<br>――――――――――――――――――――<br>Fracaso: Ser derrotado en el area final, Finaliza el tiempo limite."""
 SimpleExplanation#0,"""Derrota Dark Falz Luther"""
