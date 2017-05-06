@@ -401,7 +401,7 @@ Dead_TransformMechaA_002#0,"""Transmizer's missiles try to home in on you. If yo
 Dead_TransformMechaA_003#0,"""After Transmizer fires its missiles, its core is revealed.<br>You can attack this weak point to deal additional damage."""
 Dead_TransformMechaA_004#0,"""トランマイザーのマシンガン攻撃は、ジャンプしながら<br>左右に回りこんで回避しよう。"""
 Dead_BossMechaA_001#0,"""You should destroy the Big Vardha's guns on the sides before climbing to the deck."""
-Dead_BossMechaA_002#0,"""The flamethrowers behind Bug Vardha are dangerous when attacking from the front.<br>Try attacking them from the side."""
+Dead_BossMechaA_002#0,"""The flamethrowers behind Big Vardha are dangerous when attacking from the front.<br>Try attacking them from the side."""
 Dead_BossMechaA_003#0,"""The Big Vardha has missile arrays that are used to shoot you when<br>you are on the deck. You should destory them to stop the missiles."""
 Dead_BossMechaA_004#0,"""ビッグヴァーダー本体が放つ赤い電撃はジャンプでかわそう。"""
 Dead_MachineLittleBoss_001#0,"""Vardha Soma has a main booster and three sub-boosters. If you destroy the sub-boosters,<br>you can stop the Vardha Soma attacking from the air."""
