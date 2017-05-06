@@ -1319,7 +1319,7 @@ Light02#1,"""Intermediate light technique.<br>Creates a blade of light to drive 
 Light03#1,"""Intermediate light technique.<br>Crystallize photons to form a single lance of light that is fired forward."""
 Light04#1,"""Health restoration technique.<br>Heals wounds and restores lost health<br>with photon energy."""
 Light05#1,"""Status ailment cure technique.<br>Through the purifying effects of photons,<br>remove contaminants from the body."""
-Light06#1,"""Advanced light technique.<br>Create an extremely dense sphere of light which<br>automatically reacts to enemies."""
+Light06#1,"""Advanced light technique.<br>Create an extremely dense sphere of light<br>which automatically reacts to enemies."""
 Light07#1,"""Advanced light technique.<br>Crystallizes photons into droplets of light<br>which persue targets and explode."""
 Dark01#1,"""Basic dark technique.<br>Photons are condensed and track the target, exploding on contact."""
 Dark02#1,"""Intermediate dark technique.<br>Condensed photons seek your target and rain destruction down on them."""
