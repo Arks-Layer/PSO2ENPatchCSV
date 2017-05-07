@@ -172,7 +172,7 @@
 03_MyRoom_012#0,"""In the visiphone, you can use [My Shop] to search for items and various tickets by sub-category."""
 03_MyRoom_013#0,"""If you purchase a weapon of 12 stars or higher, it will be registered to you upon purchase."""
 03_MyRoom_014#0,"""You can save your updated Timed Ability Data Drives using the [Save to Backup Data Drive] option."""
-04_GuildRoom_001#0,"""When a Team Master has not logged in for 30 days,<br>a manager can assume control of the team."""
+04_GuildRoom_001#0,"""When a Team Master has not logged<br>in for 30 days, a manager can assume control of the team."""
 04_GuildRoom_002#0,"""You can lock/unlock the room from the [Team Expansion] menu."""
 04_GuildRoom_003#0,"""If your position in the team is Manager or higher, you can remove members of lower rank from the team menu."""
 04_GuildRoom_004#0,"""Non-team members cannot see the contents of the team bulletin board, team counter, team warehouse, etc."""
