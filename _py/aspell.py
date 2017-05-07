@@ -6,7 +6,7 @@ import os
 import sys
 
 if len(sys.argv) == 1:
-    sys.exit(os.EX_NOINPUT)
+	sys.exit(os.EX_NOINPUT)
 
 aspellt = [
 	("\\u3000", ' '),
