@@ -25,6 +25,9 @@ jobs:
           name: Verify CSVs without BOM
           command: ./_sh/BOM.sh
       - run:
+          name: Verify CSVs
+          command: bash ./_sh/CSV.sh
+      - run:
           name: Verify Font rendering
           command: ./_sh/Fonts.sh
       - run:
