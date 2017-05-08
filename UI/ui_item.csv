@@ -7675,7 +7675,7 @@ ring_SlowDiveRoll#1,"""Slow Dive Roll<br>Increases the duration of Dive Roll<br>
 ring_LauncherNotWeakUp#1,"""Launcher Non-Weak Bonus<br>While using Launchers, Weak Hit Advance<br>applies even if not hitting a weak point."""
 ring_DushJump#1,"""Step Jump<br>You can begin dashing by jumping<br>after a Step."""
 ring_JustReversalJACombo#1,"""Just Reversal JA Combo<br>You can perform a Just Attack following<br>a Just Reversal."""
-ring_AirReversal#1,""Air Reversal<br>Enables the use of Just Reversal<br>while still in the air."""
+ring_AirReversal#1,"""Air Reversal<br>Enables the use of Just Reversal<br>while still in the air."""
 ring_WideSupport#1,"""Wide Support/Ring<br>Increases the effect range of<br>Resta, Anti, Shifta and Deband."""
 ring_JustReversalPpGain#1,"""J Reversal PP Gain/Ring<br>Restores PP upon activating<br>Just Reversal."""
 ring_HealingGuard#1,"""Healing Guard/Ring<br>Upon a successful Just Guard, restore HP<br>for yourself and all nearby characters."""
