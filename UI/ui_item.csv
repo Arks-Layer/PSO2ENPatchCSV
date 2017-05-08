@@ -7643,7 +7643,7 @@ ring_WpnDSaber01#1,"""Double Saber Kamaitachi<br>Specific PA's activate whirlwin
 ring_WpnTDagger01#1,"""Twin Dagger Air Chase<br>Normal attacks and certain PAs<br>in the air will chase a locked on target."""
 ring_WpnKnuckle01#1,"""Knuckle Chase<br>Normal attacks and certain PA's on the<br>ground will chase locked-on enemies."""
 ring_WpnTMachineGun01#1,"""Front Stylish Roll<br>Allows Twin Machineguns to perform<br>a Stylish Roll forwards."""
-ring_WpnKatana01#1,"""Katana Gear Guard Release<br>Katanas only. Hold Guard to force a Gear release.<br>During this release, Gear empties faster."""
+ring_WpnKatana01#1,"""Katana Gear Guard Release<br>Hold Guard to force a Gear release.<br>During this release, Gear empties faster."""
 ring_WpnDBlade01#1,"""Dual Blade Snatch<br>Inflicts striking damage to enemies while<br>moving using the Dual Blade weapon action."""
 ring_TechChargeGuard#1,"""Tech Charge Parry<br>While using a teching weapon, you can<br>Just Guard by starting to charge a Technique."""
 ring_RecastRateRebirtherField#1,"""Recast Reverser Field<br>Reduces recast time of Reverser Field."""
