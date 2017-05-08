@@ -38,7 +38,7 @@ for i in sys.argv[1:]:
 
 		if len(JPlist) != 0:
 			countper = "{:06.1%}".format(countt/(len(JPlist)*2))
-			bufout += '\n{0}\t{1}'.format(countper,i.rsplit('/')[-1])
+			bufout += '\n{0}\t{1}\t{2}\t{3}'.format(countper,i.rsplit('/')[-1],countt/2,len(JPlist))
 
 
 print(bufout)
