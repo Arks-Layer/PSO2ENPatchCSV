@@ -6,4 +6,4 @@ cd /tmp/PSO2ENPatchCSV.coverage/WC/Files
 find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;
 cd /tmp/PSO2ENPatchCSV.coverage/
 find JP -name "*.csv" -print0|WC/_tools/mp.sh -0 WC/_py/coverage.py|fgrep --invert-match -e "0FILE" | sed -e 's/\.csv//'| sort --numeric-sort --reverse | tee /tmp/PSO2ENPatchCSV.coverage/WC.out | awk '{print $2"\t" $1}' | sed -e 's/\t/: /'
-awk '{t+=$3; a+=$4} END {printf "%d of %d lines (%3.1f%)\n",t,a,(t*100)/a}' /tmp/PSO2ENPatchCSV.coverage/WC.out
+cut -f 3,4 /tmp/PSO2ENPatchCSV.coverage/WC.out|awk '{t+=$1; a+=$2} END {printf "%d of %d lines (%03.1f percent)\n",t,a,(t*100)/a}'
