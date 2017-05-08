@@ -19,11 +19,17 @@ jobs:
           command: apt-get -qq -y install rsync
       - checkout
       - run:
+          name: Checking DUP files
+          command: ./_sh/checkFiles.sh
+      - run:
           name: Verify CSVs as UTF-8
           command: ./_sh/UTF8.sh
       - run:
           name: Verify CSVs without BOM
           command: ./_sh/BOM.sh
+      - run:
+          name: Verify CSVs
+          command: bash ./_sh/CSV.sh
       - run:
           name: Verify Font rendering
           command: ./_sh/Fonts.sh
