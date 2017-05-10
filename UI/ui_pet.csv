@@ -175,7 +175,7 @@ ErrorPetCanNotLimitBreak#0,"""限界突破の条件を満たしていないた�
 ErrorPetRarityUnknown#0,"""ペットのレアリティが取得できませんでした。"""
 ErrorPetLock#0,"""ロックされているペットは<br>選択できません。"""
 ErrorEggTypeInvalid#0,"""エッグの種類が正しくありません。"""
-ErrorEggNotFound#0,"""エッグが見つかりませんでした。"""
+ErrorEggNotFound#0,"""Egg was not found."""
 ErrorEggOwnership#0,"""オーナー登録されているエッグです。"""
 ErrorEggCanNotHatch#0,"""このエッグは使用することができません。<br>「エッグ合成」でのみ使用することができます。"""
 ErrorEggRarityUnknown#0,"""エッグのレアリティが取得できませんでした。"""
