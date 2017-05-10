@@ -151,7 +151,7 @@ DesideYesNo_MsgAdd_Rare#0,"""<yellow><br>レアリティ$(0)以上のアイテ�
 DesideYesNo_MsgAdd_MaxLv#0,"""<yellow><br>$(0)'s level is maxed,<br>so it will not gain experience.<c>"""
 DesideYesNo_MsgAdd_MaxParam#0,"""<yellow><br>$(0)のプラス値が上限のため、<br>上がらないプラス値があります。<c>"""
 DesideYesNo_MsgAdd_ReturnedEgg#0,"""<br>※これは、<c ff4f3f>「ペットをエッグに戻す」で作られたエッグ<c><br>\u3000です。本当に素材とするか、<yellow>再度ご確認ください。<c>"""
-DesideYesNo_MsgAdd_Footer#0,"""<yellow><c><br>Are you sure you want to perform egg synthesis?"""
+DesideYesNo_MsgAdd_Footer#0,"""<yellow><c><br>Are you sure you want to perform Egg Synthesis?"""
 Composition_Error_NoItem1#0,"""There are no items that can be used for synthesis."""
 Composition_After_Title#0,"""Egg Synthesis"""
 Composition_After_ReleaseCandy_Msg#0,"""Lv.50を超えたため、<br>ペットのキャンディーボックスから<br>ゼリーキューブが解放されました。"""
