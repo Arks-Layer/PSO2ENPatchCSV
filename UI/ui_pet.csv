@@ -206,7 +206,7 @@ ErrorCandyRemoveBackpackFull#0,"""アイテムパックの空き容量不足、<
 ErrorCandyRemoveItemLack#0,"""キャンディーリムーバーが足りないため、<br>アイテムに戻すことができませんでした。"""
 ErrorCandyDeleteInvalid#0,"""キャンディーを削除することができませんでした。"""
 ErrorCandyDeleteitemLack#0,"""キャンディーイレイサーが足りないため、<br>削除することができませんでした。"""
-ErrorCandyCompressInvalid#0,"""キャンディー圧縮を行うことができませんでした。"""
+ErrorCandyCompressInvalid#0,"""Candy Compression could not be performed."""
 ErrorCandyCompressItemInvalid#0,"""必要なアイテムが不正です。"""
 ErrorCandyCompressItemNotFound#0,"""Required items are missing."""
 ErrorCandyCompressItemLack#0,"""Required items are missing."""
