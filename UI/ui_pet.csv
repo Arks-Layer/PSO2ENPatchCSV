@@ -111,7 +111,7 @@ DesideYesNo_MsgLock#0,"""Synthesising $(1)<br>into pet \""$(0)\"".<br>Are you su
 RareYesNo_Title#0,"""Egg Synthesis"""
 RareYesNo_Msg#0,"""このエッグはレアリティ$(0)以上です。<br>本当に合成しますか？"""
 Toast_Success#0,"""エッグ合成をしました。"""
-Toast_SuccessName#0,"""$(0)に<br>$(1)を合成しました。"""
+Toast_SuccessName#0,"""$(1) synthesised<br>into $(0)."""
 SubstitutePetName#0,"""Pet"""
 SubstituteEggName#0,"""Egg"""
 Warning_MaxLv_Title#0,"""Egg Synthesis"""
