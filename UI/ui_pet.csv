@@ -43,7 +43,7 @@ IceCrushMessage#0,"""Removing chosen caramel cube.<br>Are you sure?<br><br><yell
 IceCrushResultMessage#0,"""Caramel cube removed."""
 SaveMessage#0,"""Adding the following to the candy box.<br>Are you sure?"""
 SaveMessage2#0,"""Deleting the following candies.<br>Are you sure?<br><br><c ff4f3f>※Deleted candies cannot be restored.<c><br><yellow>Requires Candy Erasers: $(0)<br>(Owned: $(1))<c>"""
-CancelSaveMessage#0,"""変更を破棄して戻ります。<br>Are you sure?<br>（編集後は「決定」ボタンで保存）"""
+CancelSaveMessage#0,"""Discarding changes and returning.<br>Are you sure?<br>(After editing, save changes with the \""Confirm\"" button)"""
 SaveResultMessage#0,"""キャンディーボックスの内容を<br>保存しました。"""
 Move#0,"""Move"""
 Detach#0,"""Temporarily Remove"""
