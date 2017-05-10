@@ -156,7 +156,7 @@ Composition_Error_NoItem1#0,"""エッグ合成できるアイテムがありま�
 Composition_After_Title#0,"""Egg Synthesis"""
 Composition_After_ReleaseCandy_Msg#0,"""Lv.50を超えたため、<br>ペットのキャンディーボックスから<br>ゼリーキューブが解放されました。"""
 Composition_After_LimitBreak_Msg#0,"""Lv.100に到達しました。<br><br>ゲートエリアにいるピエトロに話しかけて、<br>$(0)を<yellow>限界突破<c>しましょう。"""
-Composition_After_MaxLv_Msg#0,"""レベル上限に到達しました。"""
+Composition_After_MaxLv_Msg#0,"""Maximum level reached."""
 Title#4,"""Release Pet"""
 Message#0,"""$(0) will be released.<br>Continue?<br><br><c ff4f3f>※Released pets will be removed from the [Pet List].<br>This cannot be reversed.<c>"""
 Success#0,"""Your pet has been released."""
