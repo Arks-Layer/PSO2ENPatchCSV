@@ -181,7 +181,7 @@ ErrorEggCanNotHatch#0,"""このエッグは使用することができません�
 ErrorEggRarityUnknown#0,"""エッグのレアリティが取得できませんでした。"""
 ErrorEggLock#0,"""Locked eggs<br>cannot be selected."""
 ErrorCandyTypeInvalid#0,"""キャンディーの種類が正しくありません。"""
-ErrorCandyNotFound#0,"""キャンディーが見つかりませんでした。"""
+ErrorCandyNotFound#0,"""Candy was not found."""
 ErrorCandyDuplicate#0,"""Could not add candy."""
 ErrorCandyOutOfBox#0,"""Could not add candy."""
 ErrorCandyNotArrangement#0,"""Could not add candy."""
