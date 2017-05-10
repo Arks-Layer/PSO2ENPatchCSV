@@ -40,7 +40,7 @@ AllEraserMessage#0,"""This will <yellow>erase all candies<c><br>inside of your c
 RemoverResultMessage#0,"""Candy was returned back<br>to your inventory."""
 AllEraserResultMessage#0,"""All candies were erased<br>from your candy box."""
 IceCrushMessage#0,"""Removing chosen caramel cube.<br>Are you sure?<br><br><yellow>Requires Caramel Crushers: 1<br>(Owned: $(0))<c>"""
-IceCrushResultMessage#0,"""キャラメルキューブを削除しました。"""
+IceCrushResultMessage#0,"""Caramel cube removed."""
 SaveMessage#0,"""以下をキャンディーボックスに追加します。<br>Are you sure?"""
 SaveMessage2#0,"""以下のキャンディーを削除します。<br>Are you sure?<br><br><c ff4f3f>※削除したキャンディーは元に戻せません。<c><br><yellow>必要キャンディーイレイサー数：$(0)<br>(所持数：$(1))<c>"""
 CancelSaveMessage#0,"""変更を破棄して戻ります。<br>Are you sure?<br>（編集後は「決定」ボタンで保存）"""
