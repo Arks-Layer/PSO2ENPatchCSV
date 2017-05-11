@@ -4461,7 +4461,7 @@ ServerError06#0,"""選択されたメインクラスのスキルツリーに<br>
 ServerError07#0,"""選択されたサブクラスのスキルツリーに<br>問題があるため実行できませんでした。"""
 ServerError08#0,"""クエスト受注中のため、<br>クラス変更を実行できませんでした。"""
 EquipError#0,"""For the following reasons, some<br>items could not be equipped:"""
-EquipError01#0,"""・An unexpected error has occured."""
+EquipError01#0,"""・An unexpected error has occurred."""
 EquipError02#0,"""・You cannot carry any more items."""
 EquipError03#0,"""・You do not meet the equipping conditions."""
 EquipError04#0,"""・Item does not exist or is in storage."""
