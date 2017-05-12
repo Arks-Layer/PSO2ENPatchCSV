@@ -7,7 +7,7 @@ SelectPlaceMessage#0,"""フィールドにテレパイプが置かれていま�
 TransportPlace#0,"""Destination"""
 Telepipe#0,"""Telepipe"""
 StartPoint#0,"""Start Point"""
-ReturnCampship#0,"""Would you like to return to the campship?"""
+ReturnCampship#0,"""Would you like to return to the Campship?"""
 ReturnCampshipWarning#0,"""You have not chosen all of your rewards. Are you sure you wish to return to the Campship?<br><br>To receive more rewards, select \""No\"" and visit the Extreme Terminal.<br><br><red>※Returning to the Campship will forfeit unclaimed rewards.<c>"""
 QuestClear#0,"""クエスト終了後は<br>フィールドに降りることは<br>できません。"""
 CampshipToField#0,"""出口"""

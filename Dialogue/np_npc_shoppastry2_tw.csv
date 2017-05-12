@@ -1,5 +1,5 @@
 GREET_RANGE#0,"""Hello~"""
-GREET_SHOP_OPEN#0,"""Sorry for seeling cakes in<br>a place like this."""
+GREET_SHOP_OPEN#0,"""Sorry for selling cakes in<br>a place like this."""
 GREET_SHOP_DISABLE#0,"""I'm sorry, the rest<br>are reserved."""
 GREET_SHOP_CLOSE#0,"""Thank you very much!~"""
 00_01#0,"""Option 1"""
