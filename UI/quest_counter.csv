@@ -32,7 +32,7 @@ CantStartQuestNotFoundRoom#0,"""対象ルームが見つからなかったため
 CantStartQuestCapacityOverRoom#0,"""Could not join room, room limit already met."""
 CantStartQuestCapacityOverRoom2#0,"""\u3000ルームの人数オーバーのため参加できません。<br>\u3000人数にはルームに参加予定のプレイヤーも含んでおり、<br>\u3000参加人数に反映されていない場合があります。<br>\u3000<br>\u3000<yellow>※参加予定の有効期限は1分ですので、<br>\u3000\u3000時間を置いて再度お試しいただくことで、<br>\u3000\u3000参加可能となる場合もあります。<c>"""
 CantStartQuestNewRaidQuest#0,"""パーティーメンバーが<br>参加条件であるエネミーを倒していないため、<br>クエストを受注できません。"""
-CantStartQuestNewNetCafeQuest#0,"""Could not start quest.<br>One or more party members do not have <br>NetCafe Premium."""
+CantStartQuestNewNetCafeQuest#0,"""Could not start quest.<br>One or more party members do not have <br>NetCafé Premium."""
 CantStartQuestNotNotFoundParty#0,"""対象パーティーが見つからなかったため、<br>クエストを開始できません。"""
 CantStartQuestCapacityOverParty#0,"""Party count limit exceeded, could not join."""
 CantStartQuestDifferencePasswordParty#0,"""Incorrect password, could not join."""
