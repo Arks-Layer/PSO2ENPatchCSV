@@ -1,2 +1,2 @@
 #!/bin/sh
-xargs -P 4 -r $@
+xargs -P 8 -r $@
