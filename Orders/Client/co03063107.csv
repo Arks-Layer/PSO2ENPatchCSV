@@ -1,0 +1,5 @@
+Title#0,"""Login Bonus, What a Bargain!"""
+Explanation#0,"""こんにちは！<br>『ＰＳＯ２ｅｓ』で管理官を<br>担当している、セラフィと申します。<br>このたび、こちらでみなさまに<br>『ＰＳＯ２ｅｓ』の便利な機能を<br>ご紹介させていただくことになりました。<br>今回は、ログインボーナスのご紹介です！<br><br><yellow>※Reward available only to first character<br>per account that completes order.<c>"""
+Errand#0,"""Speak with Seraphy after accepting order."""
+text#0,"""Experience +15000 Ticket x1<br>※1 per account, given upon completion."""
+text_received#0,"""Experience +15000 Ticket x1<br>※Reward item already obtained."""

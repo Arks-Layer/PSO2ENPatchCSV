@@ -1,0 +1,8 @@
+name01#0,"""？？？"""
+name02#0,"""？？？"""
+window_message_0010#0,"""【仮面】の待つ場所へ向かう"""
+window_message_0020#0,"""マトイの待つ場所へ向かう"""
+window_message_0000#0,"""どちらへ向かいますか？"""
+window_message_0110#0,"""Play from the last autosave"""
+window_message_0120#0,"""Play from the beginning"""
+window_message_0100#0,"""Previous autosave has been detected.<br>Do you want to continue from there?<br><br>Selecting [Play from the beginning] will erase your autosave."""

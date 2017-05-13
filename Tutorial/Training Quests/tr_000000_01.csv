@@ -1,0 +1,6 @@
+name01#0,"""Xiera"""
+text01#0,"""You've learned the Photon Art!<br>Next, let's set the Photon Art you learned to your <red>weapon palette<c>."""
+tut_title#0,"""Setting Photon Arts"""
+text100#0,"""・Select [Weapons] from the main menu<br>・Select a slot<br>・Select the Photon Art you want to set"""
+tut_win_title#0,"""Learning and Setting Photon Arts"""
+tut_win_text100#0,"""フォトンアーツは「PAディスク」から<br>習得することができます。<br><br>習得したフォトンアーツは<br>武器にセットすることで<br>使用できるようになります。<br><br>「PAディスク」はエネミーを倒した際や<br>コンテナを破壊した際にランダムで<br>落ちることがあります。"""

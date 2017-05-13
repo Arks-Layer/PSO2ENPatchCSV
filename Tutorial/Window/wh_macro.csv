@@ -1,0 +1,3 @@
+name#0,"""Chat Settings"""
+text01#0,"""<yellow>Shortcuts<c><br><br>Quickly send frequently used chat phrases by adding them ahead of time in this window, then invoking them with keyboard shortcuts such as Ctrl+F1. You can add up to ten shortcuts.<br>"""
+text02#0,"""<yellow>Autowords<c><br><br>Add chat phrases to be automatically sent out whenever you have done something specific, such as starting a quest or leveling up. You can add up to three phrases for each item by pressing the plus (+) buttons next to them. When you set more than one phrase for the same item, they will be randomly sent out each time.<br><br>See the Online Manual below for more information:<br><&URL pso2_players_manual_communication_shortcut>"""

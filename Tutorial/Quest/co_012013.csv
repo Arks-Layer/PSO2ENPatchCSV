@@ -1,0 +1,6 @@
+name01#0,"""Hilda"""
+11_voice_navi02_110#0,"""Alright, perfect.<br>Let's move on."""
+linewindow#0,"""<br>About Retrieving Items<br>"""
+text00#0,"""About Picking Up Items"""
+text01#0,"""Tutorial<br>We'll explain interraction.<br><br>Message Packs, Recovery Items, etc. will let you <yellow>interract<c> with them.<br><br>You can do this by pressing <%Access>."""
+text02#0,"""Tutorial<br>We'll explain how to <yellow>pick up<c> Items.<br><br>When you destroy a container, an item will be dropped.<br><c 00ffff>Items that are dropped can be picked up with <%Access>.<c><br>You can continuously pick up items by <c 00ffff>holding down <%Access>.<c><br><br>Items that are dropped are different for each player.<br>You can pick up all the drops around you."""

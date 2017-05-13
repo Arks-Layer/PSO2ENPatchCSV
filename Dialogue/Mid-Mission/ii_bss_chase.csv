@@ -1,0 +1,8 @@
+IncidentName#0,"""Destroy all of the runaway cars!"""
+TrialBeginMsg#0,"""Destroy all of the runaway cars within the time limit!"""
+TrialAbstract#0,"""Destroy all of the runaway cars within the time limit!"""
+NpcComOnBegin#0,"""Some cars have formed from the ether and they're running amok! Use the dash panels to catch up to them and get rid of them sharpish!"""
+NpcComOnSuccess#0,"""Looks like the ether forming those phantom cars has dispersed! Thanks!"""
+NpcComOnFailure#0,"""Those phantom cars could have gone anywhere. Hopefully nothing will come of it... Well, anyway, you can return to your mission."""
+NpcComOnHalf#0,"""There's certainly less of those phantom cars around now! You're doing great!"""
+NpcComOnLastOne#0,"""There's hardly any phantoms cars left! Don't let up on the gas now!"""

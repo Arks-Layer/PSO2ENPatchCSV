@@ -1,0 +1,4 @@
+Title#0,"""Itsuki Investigation"""
+Explanation#0,"""やあ、イツキ達が世話になったようだな。<br>仲間の一人として、私からも礼を言う。<br>……それで、私も彼等を手伝いたいのだが<br>なんだか入っていきにくい雰囲気なのだ。<br>彼等が何をやっているのか<br>少し……そう、少しだけ気になっていてな。<br>ホワイトデーの準備がどうなってるか<br>探りを入れてきてもらえないか？<br><yellow>※\""Talk\"" to Itsuki <br>in the Shop Area.<c>"""
+Target#0,"""Listen to the specified character."""
+Reward#0,"""SORO's Partner Card<br>※Only if not yet obtained<br>※No friendship rewards."""

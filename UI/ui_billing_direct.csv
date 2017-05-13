@@ -1,0 +1,8 @@
+Esthetic_ToastMessage#0,"""Tickets are required to change paid salon options. Please purchase them in advanced."""
+DisableMessage#0,"""現在この機能は停止をしております。<br>詳しくは各運営会社HPにてご確認ください。"""
+DisableMessage_SUPPORT_PARTNER_GET#0,"""現在、サポートパートナーを新規に作成することはできません。<br>詳しくは運営会社のＨＰをご確認ください。"""
+DisableMessage_SUPPORT_PARTNER_RESET#0,"""現在、サポートパートナーをリセットすることはできません。<br>詳しくは運営会社のＨＰをご確認ください。"""
+DisableMessage_CHARA_ADD_SLOT#0,"""現在、キャラクターを新規に作成することはできません。<br>詳しくは運営会社のＨＰをご確認ください。"""
+DisableMessage_CHARA_SHIPMOVE#0,"""現在、キャラクターのシップ移動はできません。<br>詳しくは運営会社のＨＰをご確認ください。"""
+DisableMessage_CHARA_RENAME#0,"""現在、キャラクターの名前変更はできません。<br>詳しくは運営会社のＨＰをご確認ください。"""
+DisableMessage_ESTHETIC#0,"""エステの有償部分の変更は、チケットが必要となっています。<br>事前に購入をお願いします。<br>詳しくは運営会社のＨＰをご確認ください。"""

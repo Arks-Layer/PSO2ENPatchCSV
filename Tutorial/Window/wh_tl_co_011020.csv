@@ -1,0 +1,4 @@
+name01#0,"""Incapacitation"""
+text01#0,"""This will explain Incapacitation.<br><br>When an Individual's HP reaches 0, they become incapacitated and unable to move."""
+text02#0,"""When incapacitated, either choose from the return to Campship option or (except for some special cases) wait for help from your allies.<br><br>You are able to chat even in this condition, so you may consult with other party members. """
+text03#0,"""Existing party members can also revive an individual who has become incapacitated by using a restorative item such as a Moon Atomizer.<br><br>Furthermore, if they have a Scape Doll or a Half Doll, they can revive themselves on the spot. <br><br>You do not necessarily need to use a restorative item to revive an incapacitated partner character, as they will automatically be revived after a set amount of time has passed."""
