@@ -1,7 +1,7 @@
 #!/bin/sh
 rm -rf /tmp/PSO2ENPatchCSV.sort
 if [ "$#" -ne 1 ]; then
-	git archive --format=tar --prefix=PSO2ENPatchCSV.sort/ origin/EN | tar xf - -C /tmp
+	git archive --format=tar --prefix=PSO2ENPatchCSV.sort/ upstream/EN | tar xf - -C /tmp
 else
 	git archive --format=tar --prefix=PSO2ENPatchCSV.sort/ $1 | tar xf - -C /tmp
 fi
