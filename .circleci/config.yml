@@ -53,7 +53,7 @@ jobs:
           command: bash ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
           name: Install GNU Aspell spell-checker
-          command: apt-get -qq -y install aspell-en
+          command: apt-get -qq -y install aspell-ru
       - run:
           name: spell check CSVs
           command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|./_tools/sortaspell.sh|tee /tmp/dict.txt
