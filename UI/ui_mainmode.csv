@@ -2120,7 +2120,7 @@ Rare10Force#1,"""When equipped with a ☆10 or higher weapon, T-ATK is increased
 PhotonFlareAfterBurst#1,"""After Photon Flare expires, increase T-ATK for 30 seconds."""
 PhotonFlareTactics#1,"""Boosts status effect rates when Photon Flare is active."""
 FreezeKeep#1,"""Boosts freeze's solidity, making it more difficult to break with attacks."""
-TalisTecBonus#1,"""Grants a power bonus to techniques cast from a thrown talis."""
+TalisTecBonus#1,"""Grants a power bonus to techniques cast from a thrown talises."""
 FreezeIgnitionUP#1,"""Boosts Freeze Ignition's range and power."""
 ForceAtpTechnicUp3#1,"""Boosts T-ATK. Effects are greater than T-ATK Up."""
 ErementConversion#1,"""Converts weapon attribute into a technique damage bonus, higher bonus if attributes match. <yellow>Main class only."""
