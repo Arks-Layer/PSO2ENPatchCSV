@@ -6,6 +6,7 @@ jobs:
       - image: python:3
         environment:
           PARALLEL_SHELL: /bin/sh
+          SHELL: /bin/sh
     branches:
       ignore:
         - develop
