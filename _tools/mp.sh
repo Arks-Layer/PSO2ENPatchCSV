@@ -1,2 +1,2 @@
 #!/bin/sh
-xargs -P 8 -r $@
+parallel -j -1 -r --progress $@
