@@ -4,8 +4,6 @@ import codecs
 import os
 import sys
 
-err = os.EX_OK
-
 if len(sys.argv) == 1:
 	sys.exit(os.EX_NOINPUT)
 
@@ -15,4 +13,4 @@ for i in sys.argv[1:]:
 		for line in f:
 			pass
 	except UnicodeDecodeError:
-		print("Invalid UTF-8 file: {}".format(i), file=sys.stderr)
+		print("Invalid UTF-8 file: {}".format(i))
