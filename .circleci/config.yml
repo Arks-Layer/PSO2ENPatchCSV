@@ -4,8 +4,8 @@ jobs:
     working_directory: /root/PSO2
     docker:
       - image: python:3
-         environment:
-           SHELL: /bin/bash -eo pipefail
+        environment:
+          SHELL: /bin/bash -eo pipefail
     branches:
       ignore:
         - develop
