@@ -20,6 +20,7 @@ for i in sys.argv[1:]:
 			except:
 				#print(row)
 				print("Issue in File {}:{}".format(i, x+1))
+				err = 1
 			#print(QCrow)
 
 sys.exit(err)
