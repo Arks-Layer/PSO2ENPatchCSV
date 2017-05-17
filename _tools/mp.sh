@@ -1,2 +1,2 @@
 #!/bin/sh
-parallel -j -1 -r --progress -X $@
+parallel -j 1 -r --progress --xargs -X -k $@
