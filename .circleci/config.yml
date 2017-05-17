@@ -4,6 +4,8 @@ jobs:
     working_directory: /root/PSO2
     docker:
       - image: python:3
+         environment:
+           SHELL: /bin/bash -eo pipefail
     branches:
       ignore:
         - develop
@@ -72,4 +74,3 @@ jobs:
       - store_artifacts:
           path: /tmp/dict.txt
           destination: dict.txt
-
