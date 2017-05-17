@@ -57,6 +57,12 @@ jobs:
       - run:
           name: spell check CSVs
           command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|./_tools/sortaspell.sh|tee /tmp/dict.txt
+        run:
+          name: output in GetText PO
+          command: bash ./_sh/outputPO.sh|bzip2 -c -k -9>/tmp/PSO2.po.bz2
+      - store_artifacts:
+          path: /tmp/PSO2.po.bz2
+          destination: PSO2.po.bz2
       - store_artifacts:
           path: /tmp/coverage.txt
           destination: coverage.txt
