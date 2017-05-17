@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: python:3
         environment:
-          SHELL: /bin/bash -eo pipefail
+          PARALLEL_SHELL: /bin/sh
     branches:
       ignore:
         - develop
