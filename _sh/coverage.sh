@@ -1,6 +1,6 @@
 #!/bin/sh
 rm -rf /tmp/PSO2ENPatchCSV.coverage
-git archive --format=tar --prefix=PSO2ENPatchCSV.coverage/JP/ origin/JP | tar xf - -C /tmp
+git archive --format=tar --prefix=PSO2ENPatchCSV.coverage/JP/ upstream/JP | tar xf - -C /tmp
 rsync -a . /tmp/PSO2ENPatchCSV.coverage/WC/ --exclude ".git" --del
 cd /tmp/PSO2ENPatchCSV.coverage/WC/Files
 find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;

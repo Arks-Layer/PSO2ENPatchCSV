@@ -1,2 +1,3 @@
 #!/bin/sh
-xargs -P 8 -r $@
+#xargs --max-procs 8 --no-run-if-empty $0
+parallel --no-run-if-empty --keep-order --progress --xargs -m $@
