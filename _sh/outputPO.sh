@@ -9,4 +9,5 @@ find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;
 cd /tmp/PSO2ENPatchCSV.outputPO/EN/Files
 find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;
 cd /tmp/PSO2ENPatchCSV.outputPO/
+echo "Content-Type: text/plain; charset=UTF-8"
 find JP -name "*.csv" -print0|sort -z|WC/_tools/mp.sh -0 WC/_py/outputPO.py $build

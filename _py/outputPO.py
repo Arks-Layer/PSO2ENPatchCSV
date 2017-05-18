@@ -10,8 +10,20 @@ if len(sys.argv) == 2:
 
 version = sys.argv[1]
 
+POnice = [
+	("\\\\u3000", '　'),
+	("\\u3000", '　'),
+	("\\\\\"", "\\\""),
+	#("\\\\\"", "\\\""),
+]
+
 def POformat(input):
-	return input.replace("\\u3000", '　')
+	inputl = input
+	for i, o in POnice:
+		outtext = inputl.replace(i, o)
+		inputl = outtext
+	return outtext
+
 
 for i in sys.argv[2:]:
 	w = i.replace("JP/","WC/")
@@ -28,15 +40,15 @@ for i in sys.argv[2:]:
 			##. extracted-comments
 			print("#. git commitid {}".format(version))
 			##: reference…
-			print("#: {}:{}".format(basename, row[0]))
+			print("#: {}:{}".format(basename, POformat(row[0])))
 			##, flag…
 			print("#, no-c-format")
 			##| msgctxt previous-context
-			print("#| msgctxt {}:{}".format(basename, row[0]))
+			print("#| msgctxt \"{}:{}\"".format(basename, POformat(row[0])))
 			##| msgid previous-untranslated-string
 			print("#| msgid {}".format(POformat(JPCSV[x][1])))
 			#msgctxt context
-			print("msgctxt {}:{}".format(basename, row[0]))
+			print("msgctxt \"{}:{}\"".format(basename, row[0]))
 			#msgid untranslated-string
 			print("msgid {}".format(POformat(ENCSV[x][1])))
 			#msgstr translated-string
