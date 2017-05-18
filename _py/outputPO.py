@@ -5,10 +5,8 @@ import codecs
 import os
 import sys
 
-if len(sys.argv) == 2:
+if len(sys.argv) == 1:
 	sys.exit(os.EX_NOINPUT)
-
-version = sys.argv[1]
 
 POnice = [
 	("\\\\u3000", '　'),
@@ -27,7 +25,7 @@ def POformat(input):
 	return outtext
 
 
-for i in sys.argv[2:]:
+for i in sys.argv[1:]:
 	w = i.replace("JP/","WC/")
 	e = i.replace("JP/","EN/")
 	with codecs.open(i, encoding="utf-8") as JP:
@@ -40,7 +38,6 @@ for i in sys.argv[2:]:
 			print("")
 			##  translator-comments
 			##. extracted-comments
-			print("#. git commitid {}".format(version))
 			##: reference…
 			print("#: {}:{}".format(basename, POformat(row[0])))
 			##, flag…
