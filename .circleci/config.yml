@@ -62,7 +62,7 @@ jobs:
           command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|./_tools/sortaspell.sh|tee /tmp/dict.txt
       - run:
           name: output in GetText PO
-          command: bash ./_sh/outputPO.sh>/tmp/PSO2.po.gz
+          command: bash ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
