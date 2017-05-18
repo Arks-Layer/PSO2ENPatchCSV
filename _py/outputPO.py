@@ -29,11 +29,21 @@ for i in sys.argv[1:]:
 	w = i.replace("JP/","WC/")
 	e = i.replace("JP/","EN/")
 	with codecs.open(i, encoding="utf-8") as JP:
+		ENcheck = False
+		JPcheck = False
 		JPCSV = list(csv.reader(JP,strict=True))
 		ENCSV = list(csv.reader(codecs.open(e, encoding="utf-8"),strict=True))
 		WCCSV = list(csv.reader(codecs.open(w, encoding="utf-8"),strict=True))
+		basename = os.path.splitext(os.path.basename(i))[0]
+		if ENCSV == WCCSV:
+			ENcheck = True
+		if ENCSV == JPCSV:
+			JPcheck = True
+		if ENcheck and JPcheck:
+			continue
 		for x, row in enumerate(JPCSV):
-			basename = os.path.splitext(os.path.basename(i))[0]
+			if not ENcheck and ENCSV[x][1] == WCCSV[x][1]:
+				continue
 			#white-space
 			print("")
 			##  translator-comments
@@ -48,7 +58,18 @@ for i in sys.argv[1:]:
 			print("#| msgid \"{}\"".format(POformat(JPCSV[x][1][1:-1])))
 			#msgctxt context
 			print("msgctxt \"{}:{}\"".format(basename, row[0]))
-			#msgid untranslated-string
-			print("msgid \"{}\"".format(POformat(ENCSV[x][1][1:-1])))
-			#msgstr translated-string
-			print("msgstr \"{}\"".format(POformat(WCCSV[x][1][1:-1])))
+			if ENcheck:
+				#msgid untranslated-string
+				print("msgid \"{}\"".format(POformat(JPCSV[x][1][1:-1])))
+				#msgstr translated-string
+				print("msgstr \"{}\"".format(POformat(ENCSV[x][1][1:-1])))
+			elif JPcheck:
+				#msgid untranslated-string
+				print("msgid \"{}\"".format(POformat(ENCSV[x][1][1:-1])))
+				#msgstr translated-string
+				print("msgstr \"{}\"".format(POformat(WCCSV[x][1][1:-1])))
+			else:
+				#msgid untranslated-string
+				print("msgid \"{}\"".format(POformat(ENCSV[x][1][1:-1])))
+				#msgstr translated-string
+				print("msgstr \"{}\"".format(POformat(ENCSV[x][1][1:-1])))
