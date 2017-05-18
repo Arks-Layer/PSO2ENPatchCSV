@@ -10,8 +10,8 @@ if len(sys.argv) == 2:
 
 version = sys.argv[1]
 
-def POformat(input)
-	return input.decode('unicode-escape')
+def POformat(input):
+	return codecs.decode(input, encoding='unicode_escape')
 
 for i in sys.argv[2:]:
 	w = i.replace("JP/","WC/")
@@ -40,4 +40,4 @@ for i in sys.argv[2:]:
 			#msgid untranslated-string
 			print("msgid {}".format(POformat(ENCSV[x][1])))
 			#msgstr translated-string
-			print("msgstr {}".format(POforamt(WCCSV[x][1])))
+			print("msgstr {}".format(POformat(WCCSV[x][1])))
