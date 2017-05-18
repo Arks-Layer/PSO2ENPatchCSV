@@ -11,7 +11,7 @@ if len(sys.argv) == 2:
 version = sys.argv[1]
 
 def POformat(input):
-	return codecs.decode(input, encoding='unicode_escape')
+	return input.replace("\\u3000", '　')
 
 for i in sys.argv[2:]:
 	w = i.replace("JP/","WC/")
