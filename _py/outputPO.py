@@ -10,26 +10,46 @@ if len(sys.argv) == 2:
 
 version = sys.argv[1]
 
+POnice = [
+	("\\\\u3000", '　'),
+	("\\u3000", '　'),
+	("\\\\\"", "\\\""),
+	#("\\\\\"", "\\\""),
+]
+
+def POformat(input):
+	inputl = input
+	for i, o in POnice:
+		outtext = inputl.replace(i, o)
+		inputl = outtext
+	return outtext
+
+
 for i in sys.argv[2:]:
 	w = i.replace("JP/","WC/")
 	e = i.replace("JP/","EN/")
 	with codecs.open(i, encoding="utf-8") as JP:
 		JPCSV = list(csv.reader(JP,strict=True))
-		ENCSV = list(csv.reader(codecs.open(w, encoding="utf-8"),strict=True))
-		WCCSV = list(csv.reader(codecs.open(e, encoding="utf-8"),strict=True))
+		ENCSV = list(csv.reader(codecs.open(e, encoding="utf-8"),strict=True))
+		WCCSV = list(csv.reader(codecs.open(w, encoding="utf-8"),strict=True))
 		for x, row in enumerate(JPCSV):
 			basename = os.path.splitext(os.path.basename(i))[0]
 			#white-space
 			print("")
 			##  translator-comments
 			##. extracted-comments
-			print("#. {}".format(version))
-			#: refernences...
-			print("#: {}:{}".format(basename, row[0]))
-			#, flags
+			print("#. git commitid {}".format(version))
+			##: reference…
+			print("#: {}:{}".format(basename, POformat(row[0])))
+			##, flag…
 			print("#, no-c-format")
-			print("#| msgid {}".format(JPCSV[x][1]))
-			#msgid
-			print("msgid {}".format(ENCSV[x][1]))
-			#msgstr
-			print("msgstr {}".format(WCCSV[x][1]))
+			##| msgctxt previous-context
+			print("#| msgctxt \"{}:{}\"".format(basename, POformat(row[0])))
+			##| msgid previous-untranslated-string
+			print("#| msgid {}".format(POformat(JPCSV[x][1])))
+			#msgctxt context
+			print("msgctxt \"{}:{}\"".format(basename, row[0]))
+			#msgid untranslated-string
+			print("msgid {}".format(POformat(ENCSV[x][1])))
+			#msgstr translated-string
+			print("msgstr {}".format(POformat(WCCSV[x][1])))
