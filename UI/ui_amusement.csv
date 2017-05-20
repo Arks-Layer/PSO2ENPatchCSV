@@ -47,7 +47,7 @@ PrizeExchangeHead_1#0,"""<c f0df60>You can exchange prizes for coins an unlimite
 PrizeExchangeHead_2#0,"""<c f0df60>You can exchange prizes for coins a limited number of times.<c>"""
 PrizeExchangeHeadExit#0,"""<c f0df60>Leave the prize exchange counter.<c>"""
 PrizeExchangeHeadSelect_1#0,"""<c f0df60>By trading coins, you can exchange them for prizes. Please select a prize.<c>"""
-PrizeExchangeHeadSelect_2#0,"""<c f0df60>Select a prize. (Exchange quantites are limited per week, but reset each Wednesday at 13:00 JST.)<c>"""
+PrizeExchangeHeadSelect_2#0,"""<c f0df60>Select a prize. (Exchange quantities are limited per week, but reset each Wednesday at 13:00 JST.)<c>"""
 PrizeExchangeContents#0,"""Prize Exchange Counter Menu"""
 PrizeExchangeMenu_1#0,"""Normal Prizes"""
 PrizeExchangeMenu_2#0,"""Limited Prizes"""
