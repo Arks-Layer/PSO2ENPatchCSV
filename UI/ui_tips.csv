@@ -621,7 +621,7 @@ Dead_PhantomLaplace_001#0,"""ラプラスの悪魔がワープを始めたら急
 Dead_PhantomLaplace_002#0,"""ラプラスの悪魔の連続弾攻撃は、最初に口から吐く光弾に当たると<br>「バインド」が付与される。初弾は確実に回避しよう。"""
 Dead_PhantomLaplace_003#0,"""ラプラスの悪魔が展開するバリアは<br>マクスウェルの悪魔を倒した時の爆発を当てると解除ができる。"""
 Dead_PhantomLaplace_004#0,"""ラプラスの悪魔が赤い目玉を具現化したらカウンター攻撃の合図だ。<br>前方に展開されるバリアには攻撃せず、回り込んで攻撃をしよう。"""
-Dead_DPP2_001#0,"""Each arm has its own independant attack.<br>By defeating an arm, you can neutralize its attack."""
+Dead_DPP2_001#0,"""Each arm has its own independent attack.<br>By defeating an arm, you can neutralize its attack."""
 Dead_DPP2_002#0,"""By destroying each arm, you can stun<br>ESC-A Falz Mother for a period of time and attack its weak points."""
 Dead_DPP2_003#0,"""You cannot attack ESC-A Falz Mother until her arms disappear."""
 Dead_DPP2_004#0,"""Take extra care when ESC-A Falz Mother rises to the sky. As she absorbs energy,<br>you can destroy the cubes before they converge onto the center."""

@@ -6568,7 +6568,7 @@ pet_PiyoriChangeDamageUpPlus#1,"""Boosts item drop rate and<br>power the next ti
 pet_PiyoriChangePPSave#1,"""Reduces PP consumption the<br>next time a fainted pet is used."""
 pet_PiyoriChangePPSavePlus#1,"""Boosts item drop rate and<br>reduces PP consumption the<br>next time a fainted pet is used."""
 pet_KillCountBonus#1,"""Boosts damage inflicted each<br>time you defeat an enemy."""
-pet_KillCountBonusPlus#1,"""Boosts damage inclicted as well<br>as item drop rate each time<br>you defeat an enemy."""
+pet_KillCountBonusPlus#1,"""Boosts damage inflicted as well<br>as item drop rate each time<br>you defeat an enemy."""
 pet_AroundEnemyBonus#1,"""Boosts damage inflicted based on<br>the number of enemies<br>within a set range."""
 pet_AroundEnemyBonusPlus#1,"""Boosts damage inflicted as well<br>as item drop rate based on<br>the number of enemies within a set range."""
 item_NoAssign#1,"""【説明】未設定潜在能力"""
