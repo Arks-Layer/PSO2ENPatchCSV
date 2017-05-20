@@ -105,7 +105,7 @@ NoticeHintTrade#0,"""Enable or disable the window <br>when a trade request is re
 NoticeHintLogItem#0,"""Set whether to log a notification <br>upon receiving an item."""
 NoticeHintPopUpMessage#0,"""通知メッセージの表示数について、<br>単一に限定するか複数表示するか設定します。"""
 NoticeHintRecommended#0,"""おすすめクエストを受注したとき、<br>おすすめオーダーのウインドウを表示するかを設定します。"""
-NoticeHintRareItem#0,"""Configure whether or not a notificaiton is displayed<br>when a party member collects a rare item."""
+NoticeHintRareItem#0,"""Configure whether or not a notification is displayed<br>when a party member collects a rare item."""
 NoticeHintPremium#0,"""プレミアムセットの有効期限が7日を切っていたら<br>ログイン時に通知するかを設定します。"""
 CameraTextSpeedX#0,"""Horizontal Rotation Speed"""
 CameraTextSpeedY#0,"""Vertical Rotation Speed"""
