@@ -28,7 +28,6 @@ aspellt = [
 	(',', ''),
 	('$ 0 ', ''),
 	('※', '. '),
-	("in'", "ing"),
 ]
 
 def replacemark(input):
