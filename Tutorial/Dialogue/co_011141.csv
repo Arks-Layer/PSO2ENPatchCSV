@@ -1,0 +1,4 @@
+linewindow#0,"""<br>About \""Window Help\""<br>"""
+text00#0,"""About \""Window Help\"""""
+text01#0,"""Each window has a help button that displays<br>a description of its functions and so on.<br><br>・Click \""?\"" on the window<br>\u3000to display the description."""
+text02#0,"""Each window has a help button that displays<br>a description of its functions and so on.<br><br>・Move the cursor to \""?\"" with <%NextWidget><br>\u3000and display the description with <%Decide>."""
