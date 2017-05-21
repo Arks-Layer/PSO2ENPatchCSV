@@ -620,7 +620,7 @@ ExplainEnchantMenu#0,"""<c f0df60>You can create Data Drives and Timed Ability D
 ExplainRecipeSelect#0,"""<c f0df60>Please select a recipe to update your Data Drive.<c>"""
 ExplainEnchantStampConfirm#0,"""<c f0df60>This is the final Data Drive update confirmation window. You can affix various effects with support items.<c>"""
 ExplainStampSelect#0,"""<c f0df60>Please select a Data Drive to create Timed Ability Data.<c>"""
-ExplainEnchantStampItemConfirm#0,"""<c f0df60>This is the final Timed Ability Data creation window.  You can extend effect duration with support items.<c>"""
+ExplainEnchantStampItemConfirm#0,"""<c f0df60>This is the final Timed Ability Data creation window. You can extend effect durations with support items.<c>"""
 TabItemAll#0,"""All Units"""
 TabItemRear#0,"""Rear"""
 TabItemArm#0,"""Arm"""
