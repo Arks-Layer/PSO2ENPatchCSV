@@ -4,6 +4,9 @@ jobs:
     working_directory: /root/PSO2
     docker:
       - image: python:3
+        environment:
+          PARALLEL_SHELL: /bin/sh
+          SHELL: /bin/sh
     branches:
       ignore:
         - develop
@@ -15,8 +18,8 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install rsync, fast, versatile, remote (and local) file-copying tool
-          command: apt-get -qq -y install rsync
+          name: Install rsync and parallel
+          command: apt-get -qq -y install rsync parallel
       - checkout
       - run:
           name: Add upstream repos
@@ -66,4 +69,3 @@ jobs:
       - store_artifacts:
           path: /tmp/dict.txt
           destination: dict.txt
-
