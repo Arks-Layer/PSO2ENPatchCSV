@@ -1,0 +1,3 @@
+AttackGuide#0,"""<%NormalAttack> - открыть огонь,\u3000<%Jump> - выйти"""
+ChargeGuide#0,"""<%NormalAttack> - заряжать/открыть огонь, <%Jump> - выйти"""
+ControlBad#0,"""Недоступно при панике"""
