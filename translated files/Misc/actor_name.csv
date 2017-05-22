@@ -3879,4 +3879,3 @@ PetUnequipped#0,"""Нет питомца для использования та�
 ObjectName#0,"""$(2)\u3000$(0) + <pict Beginners>$(1)"""
 ObjectNameCustom#0,"""$(2)\u3000<yellow>$(0)<c> + <pict Beginners>$(1)"""
 ObjectExGuide#0,"""$(0) + (<pict Beginners>$(1))"""
-
