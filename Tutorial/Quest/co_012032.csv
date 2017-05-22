@@ -1,5 +1,5 @@
 text00#0,"""About Katanas"""
-text01#0,"""In addition to Bullet Bows, Bravers can perform a continuous combo,<br>by equipping a Katana.<br><br>You can perform a normal attack with <%NormalAttack> and attac<br> three consecutive times by pressing it continuously."""
+text01#0,"""In addition to Bullet Bows, Bravers can perform a continuous combo,<br>by equipping a Katana.<br><br>You can perform a normal attack with <%NormalAttack> and attack<br> three consecutive times by pressing it continuously."""
 text02#0,"""Katana's Weapon action.<br>While holding <%WeaponAction>, you can perform a <c 00ffff>Guard<c>,<br>You can guard against frontal attacks.<br><br>The damage is reduced, however you're vulnerable to attacks<br>other than the front."""
 text02_3b#0,"""Katana's Weapon action.<br>While holding <%MainPaletteC>, you can perform a <c 00ffff>Guard<c>,<br>You can guard against frontal attacks.<br><br>The damage is reduced, however you're vulnerable to attacks<br>other than the front."""
 text00#1,"""『カタナ』について"""
