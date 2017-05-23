@@ -989,7 +989,7 @@ NewCheckFriendList#0,"""$(0) has sent you a friend request.<br>Open the Friend L
 NewCheckParty#0,"""$(0) has invited you to join their party.<br>Open the Join Party window to reply?<br><br>※If you select No you can reply later<br>by going to Party Commands."""
 NewCheckTrade#0,"""$(0) has requested to trade with you. Open the Trade window?"""
 NewCheckTeam#0,"""$(0) has scouted you for their Team.<br>Open the Recruitment window to reply?<br><br>※If you select No you can reply later<br>by going to Team Commands."""
-PremiumEnd#0,"""Your premium set will be ending soon."""
+PremiumEnd#0,"""Your premium set will be ending<br>soon."""
 AccessConfirm_Vita#0,"""Webページへ移動します。<br>ログアウトしてゲームを終了しますが<br>よろしいですか？"""
 AccessConfirmTitle_Vita#0,"""ブラウザー起動確認"""
 Broken_Vita#0,"""ロードに失敗しました。<br>$(0)データが破損していた為<br>新しいセーブデータを上書きしました。"""
