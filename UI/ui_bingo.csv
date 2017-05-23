@@ -1,6 +1,6 @@
 CardSelect_Title#0,"""Bingo Card Selection"""
 CardSelect_Cancel#0,"""Return"""
-CardSelect_None#0,"""Do not use a Bingo Card"""
+CardSelect_None#0,"""No active Bingo Card"""
 CardSelect_Set#0,"""Use this Bingo Card"""
 CardSelect_Detail#0,"""Card Details"""
 CardSelect_Decide#0,"""Changed to [$(0)]."""
