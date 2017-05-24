@@ -22,7 +22,7 @@ def PIformat(input):
 		outtext = inputl.replace(i, o)
 		inputl = outtext
 	if outtext is "\\":
-		return "\\\\"
+		return "\\"
 	return outtext
 
 def outputPO(input):
@@ -44,6 +44,8 @@ for inline in codecs.open(sys.argv[1], encoding="utf-8"):
 			POFile = inline.split("\"", 1)[1].split(":", 1)[0]
 			POID = inline.split("\"", 1)[1].split(":", 1)[1][:-2]
 		if inline.startswith("#| msgid \""):
+			POText = inline.split("\"", 1)[1][:-2]
+		if inline.startswith("msgstr \"") and inline != "msgstr \"\"\n":
 			POText = inline.split("\"", 1)[1][:-2]
 	if inline == "\n":
 		PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
