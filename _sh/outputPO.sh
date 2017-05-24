@@ -9,11 +9,12 @@ find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;
 cd /tmp/PSO2ENPatchCSV.outputPO/EN/Files
 find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;
 cd /tmp/PSO2ENPatchCSV.outputPO/
-echo #, fuzzy
+echo \#, fuzzy
 echo msgid \"\"
 echo msgstr \"\"
-echo \"Project-Id-Version: PSO2 CSV $build\"
-echo \"MIME-Version: 1.0\"
-echo \"Content-Type: text/plain\; charset=UTF-8\"
-echo \"Content-Transfer-Encoding: 8bit\"
+echo \"Project-Id-Version: PSO2 CSV $build\\\\n\"
+echo \"Report-Msgid-Bugs-To: https://github.com/Arks-Layer/PSO2ENPatchCSV/issues\\\\n\"
+echo \"MIME-Version: 1.0\\\\n\"
+echo \"Content-Type: text/plain\; charset=UTF-8\\\\n\"
+echo \"Content-Transfer-Encoding: 8bit\\\\n\"
 find JP -name "*.csv" -print0|sort -z|WC/_tools/mp.sh -0 WC/_py/outputPO.py
