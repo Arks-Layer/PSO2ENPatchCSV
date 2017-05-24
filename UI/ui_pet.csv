@@ -1,6 +1,6 @@
 RenameTitle#0,"""Pet-Namen ändern"""
 Rename#0,"""$(2)s<br>Name wird geändert.<br>Bitte gib einen neuen Namen ein.<br><br><yellow>Benötigtes Meseta: $(0) {Aktuell: $(1))<c>"""
-RenameConfirm#0,"""Der Name deines Pets wird geändert.<br>Fortfahren?<br><br>　Vor der Änderung: $(1)<br>　<yellow>Nach der Änderung: $(0)<c>"""
+RenameConfirm#0,"""Der Name deines Pets wird geändert.<br>Fortfahren?<br><br>\u3000Vor der Änderung: $(1)<br>\u3000<yellow>Nach der Änderung: $(0)<c>"""
 RenameSuccess#0,"""Name des Pets geändert."""
 NamingTitle#0,"""Pet-Namen eingeben"""
 Naming#0,"""ペットに好きな名前をつけることができます。<br>ペットネームを入力してください。<br><br><yellow>※あとからペットラボで変更できます。<c>"""
