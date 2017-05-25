@@ -50,6 +50,7 @@ for i in sys.argv[1:]:
 			POEN = POformat(EN)
 			WC = WCCSV[x][1][1:-1]
 			POWC = POformat(WC)
+			POWCF = POWC.replace(" ", "　")
 			#white-space
 			print("")
 			##  translator-comments
@@ -74,7 +75,7 @@ for i in sys.argv[1:]:
 				print("msgid \"{}\"".format(POJP))
 				#msgstr translated-string
 				print("msgstr \"{}\"".format(POEN))
-			elif EN == WC or JP == WC:
+			elif EN == WC or JP == WC or EN == POWCF or JP == POWCF:
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
