@@ -32,9 +32,7 @@ def outputPO(input):
 			CSV = csv.writer(f)
 			basename = os.path.splitext(os.path.basename(i))[0]
 			for e in PO:
-				#print(e[0])
 				if basename == e[0]:
-					#print(e[1])
 					CSV.writerow(e[1])
 
 PO = []
@@ -45,10 +43,14 @@ for inline in codecs.open(sys.argv[1], encoding="utf-8"):
 			POID = inline.split("\"", 1)[1].split(":", 1)[1][:-2]
 		if inline.startswith("#| msgid \""):
 			POText = inline.split("\"", 1)[1][:-2]
-		if inline.startswith("msgstr \"") and inline != "msgstr \"\"\n":
+			POTextJP = POText
+		if inline.startswith("msgstr \""):
 			POText = inline.split("\"", 1)[1][:-2]
+		if inline.startswith("\""):
+			POText += inline[1:-2]
 	if inline == "\n":
+		if POText == "":
+			POText = POTextJP
 		PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
-PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
 outputPO(PO)
 
