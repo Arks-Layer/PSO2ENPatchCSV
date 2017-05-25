@@ -52,4 +52,5 @@ for inline in codecs.open(sys.argv[1], encoding="utf-8"):
 		if POText == "":
 			POText = POTextJP
 		PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
+PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
 outputPO(PO)
