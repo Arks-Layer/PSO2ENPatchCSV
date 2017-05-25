@@ -53,4 +53,3 @@ for inline in codecs.open(sys.argv[1], encoding="utf-8"):
 			POText = POTextJP
 		PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
 outputPO(PO)
-
