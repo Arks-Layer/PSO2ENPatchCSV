@@ -5,9 +5,9 @@ git archive --format=tar --prefix=PSO2ENPatchCSV.outputPO/EN/ upstream/EN | tar 
 rsync -a . /tmp/PSO2ENPatchCSV.outputPO/WC/ --exclude ".git" --del
 build="$(git describe --always)"
 cd /tmp/PSO2ENPatchCSV.outputPO/WC/Files
-find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;
+find .. -name "*.csv" -not -path "../Files/*" -print0|../../WC/_tools/mp.sh -0 ln -s {} . \;
 cd /tmp/PSO2ENPatchCSV.outputPO/EN/Files
-find .. -name "*.csv" -not -path "../Files/*" -exec ln -s {} . \;
+find .. -name "*.csv" -not -path "../Files/*" -print0|../../WC/_tools/mp.sh -0 ln -s {} . \;
 cd /tmp/PSO2ENPatchCSV.outputPO/
 echo \#, fuzzy
 echo msgid \"\"
