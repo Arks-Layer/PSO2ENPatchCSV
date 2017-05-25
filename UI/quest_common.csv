@@ -775,7 +775,7 @@ ToastRecordEnd#0,"""パーティーメンバー数が変更されたため、ク
 ItemGetMessage#0,"""Obtuvistes $(0)."""
 QuestLevelLimit#0,"""Usted no cumple con los requisitos de la mision."""
 TeamPointMsg#0,"""Mision completada! Los miembros del Team reciben $(0) TP!"""
-ArealockOpenedQuestInfo#0,"""Puedes avanzar a la sigueintesiguiente area! <yellow>Utilisando el Teleport<c> para dirigirse asta el jefe y derrotarlo!"""
+ArealockOpenedQuestInfo#0,"""Puedes avanzar a la sigueinte area! <yellow>Utilizando el Teleport<c> para dirigirse hasta el jefe y derrotarlo!"""
 WindowTitle#0,"""Activar A.I.S"""
 WindowMessage#0,"""Activar A.I.S.<br>¿Seguro que quieres?<br><br>※パーティーで<yellow>$(0)回だけ<c>起動することができます。<br>"""
 LimitMessage#0,"""起動回数制限に達しているため、<br>A.I.Sを起動することができません。"""

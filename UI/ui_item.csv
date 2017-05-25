@@ -88,7 +88,7 @@ ErrorQuestFinished#0,"""La mision actual ha sido completada.<br>No se puede usar
 ErrorNotPremium#0,"""No puedes beber esto por que no eres Premium."""
 ErrorOther#0,"""El efecto de la bebida no ocurrio.<br><br>Error code [2101]"""
 DrinkEffectMessage#0,"""Adquiristes el siguiente efecto<br>(Por un tiempo limitado, o hasta<br>completar la mision)"""
-DrinkEffectMessage_Premium#0,"""Se han concedido el siguiente <yellow>Premium effect.<c><br>(Por un tiempo limitado,<br>o asta completar la mision)"""
+DrinkEffectMessage_Premium#0,"""Se han concedido el siguiente <yellow>Premium effect.<c><br>(Por un tiempo limitado,<br>o hasta completar la mision)"""
 CheckTitle#0,"""Confirmacion de compra de Bebida"""
 SubEffect#0,"""Puede ocurrir un efecto adicional."""
 SubEffectPremium#0,"""Puede ocurrir aumento de Rare drop."""
