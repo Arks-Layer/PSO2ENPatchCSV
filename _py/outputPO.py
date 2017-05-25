@@ -74,12 +74,7 @@ for i in sys.argv[1:]:
 				print("msgid \"{}\"".format(POJP))
 				#msgstr translated-string
 				print("msgstr \"{}\"".format(POEN))
-			elif EN == WC:
-#				#msgid untranslated-string
-#				print("msgid \"{}\"".format(POJP))
-#				#msgstr translated-string
-#				print("msgstr \"{}\"".format(POEN))
-#			elif JP == WC:
+			elif EN == WC or JP == WC:
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
@@ -89,4 +84,3 @@ for i in sys.argv[1:]:
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
 				print("msgstr \"{}\"".format(POWC))
-
