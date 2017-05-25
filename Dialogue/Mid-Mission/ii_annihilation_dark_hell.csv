@@ -1,6 +1,6 @@
 IncidentName#0,"""Derrotar a $(0)!"""
 TrialBeginMsg#0,"""Derrotar a $(0)!"""
-TrialAbstract#0,"""Dispel the magic and<br>suppress the $(0)!"""
+TrialAbstract#0,"""式神を排除して<br>$(0)を討伐せよ！"""
 NpcComOnBegin#0,"""Se detecto la poderosa reaccion del enemigo.<br>La cantidad de luz se contrajo en esos lugares.<br>Tu vision se reduce."""
 NpcComOnSuccess#0,"""La presencia del enemigo, a desaparecido.<br>Gracias a todos por su esfuerzo."""
 NpcComOnHint#0,"""La luz es absorbida en alguna parte<br>de esta zona. Encuentra,<br>el objetivo rapidamente y eliminalo."""

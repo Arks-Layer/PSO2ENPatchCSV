@@ -1,4 +1,4 @@
-Title#0,"""Defensive Data Collection Request"""
+Title#0,"""専用訓練獲得防具データ収集依頼"""
 Explanation#0,"""チャレンジクエストという訓練プログラムを<br>お主も知っておるだろう？<br>実は、その訓練プログラムにおいての<br>習熟度の確認を頼まれてな。<br>確認方法は単純での。<br>こちらが指定した防具を<br>提示するというものじゃ。<br>もちろん見合う報酬は預かっておる。<br>どうじゃ、お主もやってみんか？"""
 text#0,"""10,000 CM Ticket x12<br>※Uno por cuenta, al finalizar la Orden."""
-text_received#0,"""CM +10000 Ticket x12<br>※Reward item already obtained."""
+text_received#0,"""CM10000獲得チケット×12<br>※報酬アイテムは既に入手済みです"""

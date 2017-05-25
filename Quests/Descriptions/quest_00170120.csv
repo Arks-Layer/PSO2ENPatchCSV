@@ -1,6 +1,6 @@
 Title#0,"""T:Desafio de Necky！"""
 Explanation#0,"""¿Por que no aceptas mi desafio?<br>Realizado en un espacio VR<br>simulando el Area de las bases mineras<br>Es una mision especial para protegerte!<br>con enemigo de los otros planetas<br>los A.I.S estan prohibidos<br>Una mision dificil, ¿puedes superarla?<br>――――――――――――――――――――<br>6 olas<br>fallas: si caen todas las bases"""
-SimpleExplanation#0,"""Defend the Mining Base!"""
+SimpleExplanation#0,"""採掘基地を防衛せよ！"""
 Wave1_Talk#0,"""Aparece el enemigo! Revisa el radar en tu mapa para localizar al enemigo ¡Proteja su base!"""
 Wave2_Talk#0,"""Las socket de defensa que sean erosionadas por Solza Brada no se podran utilizar!<br>Me pregunto si puedes vencerlos antes de que eso suceda."""
 Wave3_Talk#0,"""Ahora A.I.S y torretas infectadas<br>¿Me pregunto como te defenderas?"""

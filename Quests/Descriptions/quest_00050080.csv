@@ -1,6 +1,6 @@
 NpcComMsg1#0,"""La transferencia ocurrira en un momento. tu objetivo inicial es destruir los Falz Arms, para alcanzar el cuerpo principal."""
 NpcComMsg2#0,"""/face6 Esto parece para ser la <br>batalla mas peligrosa.. <br>Por favor.... regresar a salvo."""
-Title#0,"""Inbound Dark Arms"""
+Title#0,"""迫る漆黒の腕"""
 Explanation#0,"""Arks, esta es una emergencia! Un Dark Falz del tamaño de un<br>planeta ha aparecido, y esta atacando<br>una nave cercana con thousands of its own<br>appendages. Each one appears to have a<br>will of its own.<br><br>Contrataca con mucha fuerza, y<br>weaken Dark Falz to engage it directly.<br>――――――――――――――――――――<br>Fracaso: Be defeated, time runs out"""
 SimpleExplanation#0,"""Destruir los Falz Arms!"""
 a1#0,"""Completar cierta orden del cliente."""

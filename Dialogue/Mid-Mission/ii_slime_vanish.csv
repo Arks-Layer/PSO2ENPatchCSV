@@ -1,4 +1,4 @@
-IncidentName#0,"""Wipe out the Mad Jellies!"""
+IncidentName#0,"""消滅！\u3000マッドゼリー"""
 TrialBeginMsg#0,"""Destruye el Mad Jellies<br>dentro del limite de tiempo!"""
 TrialAbstract#0,"""Destruye el Mad Jellies<br>dentro del limite de tiempo!"""
 NpcComOnBegin#0,"""マッドゼリーの反応を確認！<br>時間経過で４段階に肥大化<br>限界を超えると爆発します！"""

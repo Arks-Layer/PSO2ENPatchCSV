@@ -1,6 +1,6 @@
 IncidentName#0,"""Derrotar a $(0)"""
 TrialBeginMsg#0,"""Derrotar a $(0)!"""
-TrialAbstract#0,"""$(0) Suppression"""
+TrialAbstract#0,"""$(0)の討伐"""
 NpcComOnBegin#0,"""目標付近への転送、追撃開始！<br>目標から離れすぎないように<br>気を付けてください！"""
 NpcComOnHpDecreased0#0,"""攻撃、効いていますよ！"""
 NpcComOnHpDecreased1#0,"""目標の体力、低下しています！<br>そのまま攻撃を続けてください！"""

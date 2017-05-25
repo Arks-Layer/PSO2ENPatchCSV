@@ -1,4 +1,4 @@
 IncidentName#0,"""Derrotar a $(0)"""
-TrialBeginMsg#0,"""Defeat $(1) $(0) to open the barrier!"""
-DestroyDoorMsg#0,"""The $(0) barrier has opened!"""
-TrialAbstract#0,"""Defeat a certain number of $(0) to open the barrier!"""
+TrialBeginMsg#0,"""障壁開放のため$(0)を$(1)体倒せ！"""
+DestroyDoorMsg#0,"""$(0)の方向の障壁が壊された！"""
+TrialAbstract#0,"""$(0)を一定数討伐し障壁を解除せよ！"""

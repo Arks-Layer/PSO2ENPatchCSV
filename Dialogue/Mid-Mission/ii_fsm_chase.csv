@@ -1,6 +1,6 @@
 IncidentName#0,"""Derrotar a Unidentified Phantoms!"""
-TrialBeginMsg#0,"""Defeat all the unidentified organisms within the time limit!"""
-TrialAbstract#0,"""Defeat unidentified organisms within the time limit!"""
+TrialBeginMsg#0,"""制限時間内に全ての未確認生物を撃退せよ！"""
+TrialAbstract#0,"""制限時間内に未確認生物を撃退せよ！"""
 NpcComOnBegin#0,"""NPC通信（開始時）<br>の<br>テキストです"""
 NpcComOnSuccess#0,"""NPCセリフ（成功時）<br>の<br>テキストです"""
 NpcComOnFailure#0,"""NPC通信（失敗時）<br>の<br>テキストです"""

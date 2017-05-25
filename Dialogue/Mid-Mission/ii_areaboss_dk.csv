@@ -12,7 +12,7 @@ NpcComOnSuccess#1,"""Se ha confirmado que las lecturas<br>enemigas han desaparec
 NpcComOnFailure#1,"""Tch, they've taken a beating.<br>Teleporting them to Campship."""
 HP_Under_50#1,"""El $(0) se esta cansando!"""
 HP_Under_10#1,"""$(0) esta muy debil!"""
-NpcComLastEnemy#1,"""One left! Don't lose focus!"""
+NpcComLastEnemy#1,"""残り一体だ！\u3000気を抜くな！"""
 NpcComOnBegin#2,"""U-urgentes! Potentes lecturas<br>enemigas confirmadas!<br>Por favor, derrotelos rapidamente!"""
 NpcComOnSuccess#2,"""/face2 Las lecturas enemigas<br>han desaparecido! Muchas<br>gracias a todos!"""
 NpcComOnFailure#2,"""/face6 ¡No! Los ARKS han sufrido<br>graves daños...<br>Teletransportelos al Campship..."""

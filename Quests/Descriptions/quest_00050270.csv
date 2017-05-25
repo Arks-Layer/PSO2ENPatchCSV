@@ -1,6 +1,6 @@
 NpcComMsg1#0,"""Seras transferido al frente pronto! These apostles of Dark Falz Luther Son tu primer objetivo. Take them out!"""
 NpcComMsg2#0,"""Creo que esta pelea sera un verdadero desafio. Esto es un poco mas de lo que puedo hacer por ti... Estare aqui, esperando por que regreses a salvo!"""
-Title#0,"""Ebon-Winged Vanguard"""
+Title#0,"""狡猾なる黒翼の尖兵"""
 Explanation#0,"""This is an emergency missive to all ARKS<br>operatives. An infested mothership is<br>approaching, believed to be carrying<br>Dark Falz Luther and its apostles. As soon<br>as you are ready, sortie and take out the<br>hostiles while searching for Dark Falz.<br>This is an executive order and it<br>takes priority over anything else.<br>――――――――――――――――――――<br>Fracaso: Ser derrotado en el area final, Finaliza el tiempo limite."""
 SimpleExplanation#0,"""Derrota Apos Dorios!"""
 a1#0,"""Completar cierta orden del cliente."""

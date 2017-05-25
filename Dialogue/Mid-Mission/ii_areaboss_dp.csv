@@ -12,4 +12,4 @@ NpcComOnSuccess#1,"""Se a confirmado que las lecturas<br>enemigas han desapareci
 NpcComOnFailure#1,"""Tch, they've taken a beating.<br>Teleporting them to Campship."""
 HP_Under_50#1,"""$(0) se esta cansando!"""
 HP_Under_10#1,"""$(0) esta muy debil!"""
-NpcComLastEnemy#1,"""One left! Don't lose focus!"""
+NpcComLastEnemy#1,"""残り一体だ！\u3000気を抜くな！"""
