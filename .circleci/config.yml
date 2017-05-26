@@ -23,7 +23,7 @@ jobs:
       - checkout
       - run:
           name: Add upstream repos
-          command: git remote add -f upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
+          command: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
       - run:
           name: Checking DUP files
           command: ./_sh/dupfiles.sh
