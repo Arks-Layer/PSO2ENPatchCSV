@@ -1,4 +1,4 @@
-window_message_0010#0,"""continuar desde el ultimo punto de guardado"""
-window_message_0020#0,"""jugar desde el inicio"""
-window_message_0000#0,"""前回までの進行が記録されています。<br>続きからプレイしますか？<br><br>「最初からプレイする」を選択しても記録されたデータは消えません。"""
+window_message_0010#0,"""Continuar desde el ultimo punto de guardado"""
+window_message_0020#0,"""Jugar desde el inicio"""
+window_message_0000#0,"""Se ha detectado un punto de guardado.<br>te gustaria continuar desde el?<br><br>Seleccionar [Jugar desde el inicio] sobreescribira tu punto de guardado."""
 line01#0,"""Esta mision tiene la funcion de auto guardado.<br>cuando el mensaje \""Progreso de mision guardado\"" aparezca,<br>podras continuar desde ese punto.<br>"""
