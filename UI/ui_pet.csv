@@ -159,7 +159,7 @@ Composition_After_LimitBreak_Msg#0,"""Tu mascota supero el Nv.100<br><br>Habla c
 Composition_After_MaxLv_Msg#0,"""Tu mascota alcanzo el nivel maximo."""
 Title#4,"""Liberar mascota"""
 Message#0,"""$(0) sera liberada.<br>Desea continuar?<br><br><c ff4f3f>※Las mascotas liberadas seran removidas de [Pet List].<br>Esta accion no puede ser reversada.<c>"""
-Success#0,"""Haz liberado tu mascota."""
+Success#0,"""has liberado tu mascota."""
 Message2#0,"""Esta mascota es de <yellow>rareza 7+<c>.<br>Realmente la quieres liberar?"""
 Title#5,"""限界突破"""
 Message#1,"""Esta a punto de hacer el limit break de las siguientes mascotas.<br>¿Estas seguro?<br><br>※Una vez se haga el limit break, estas podran subir a <yellow>Nv.101 o mas<c>.<br>※Igualmente la experiencia que reciba la mascota<br><yellow>se vera ampliamente reducida<c>."""
