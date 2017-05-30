@@ -5,7 +5,7 @@ import codecs
 import os
 import sys
 
-if len(sys.argv) == 1:
+if len(sys.argv) == 2:
 	sys.exit(os.EX_NOINPUT)
 
 POnice = [
@@ -25,11 +25,14 @@ def POformat(input):
 	return outtext
 
 
-for i in sys.argv[1:]:
+ENcheckForce = False
+if sys.argv[1] == "en":
+	ENcheckForce = True
+for i in sys.argv[2:]:
 	w = i.replace("JP/","WC/")
 	e = i.replace("JP/","EN/")
 	with codecs.open(i, encoding="utf-8") as JP:
-		ENcheck = False
+		ENcheck = ENcheckForce
 		JPcheck = False
 		JPCSV = list(csv.reader(JP,strict=True))
 		ENCSV = list(csv.reader(codecs.open(e, encoding="utf-8"),strict=True))
@@ -50,7 +53,7 @@ for i in sys.argv[1:]:
 			POEN = POformat(EN)
 			WC = WCCSV[x][1][1:-1]
 			POWC = POformat(WC)
-			POWCF = POWC.replace(" ", "　")
+			POWCF = POWC.replace("　", " ")
 			#white-space
 			print("")
 			##  translator-comments
@@ -70,12 +73,12 @@ for i in sys.argv[1:]:
 				print("msgid \"{}\"".format(POJP))
 				#msgstr translated-string
 				print("msgstr \"\"")
-			elif ENcheck:
+			elif ENcheck and JP != WC:
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POJP))
 				#msgstr translated-string
-				print("msgstr \"{}\"".format(POEN))
-			elif EN == WC or JP == WC or EN == POWCF or JP == POWCF:
+				print("msgstr \"{}\"".format(POWC))
+			elif EN == WC or JP == WC or EN == POWCF or JP == POWCF or POEN == POWC:
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
