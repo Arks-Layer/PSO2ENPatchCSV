@@ -1,7 +1,7 @@
 #!/bin/bash
 rm -rf /tmp/PSO2ENPatchCSV.coverage
 mkdir -p /tmp/PSO2ENPatchCSV.coverage
-rsync -a . /tmp/PSO2ENPatchCSV.coverage/WC/ --exclude ".git" --del && cd /tmp/PSO2ENPatchCSV.coverage/WC/Files && find .. -name "*.csv" -not -path "../Files/*" -print0|../../WC/_tools/mp.sh -0 ln -s {} . \; &
+rsync --recursive --executability --whole-file . /tmp/PSO2ENPatchCSV.coverage/WC/ --exclude ".git" --del && cd /tmp/PSO2ENPatchCSV.coverage/WC/Files && find .. -name "*.csv" -not -path "../Files/*" -print0|../../WC/_tools/mp.sh -0 ln -s {} . \; &
 git archive --format=tar --prefix=PSO2ENPatchCSV.coverage/JP/ upstream/JP | tar xf - -C /tmp
 cd /tmp/PSO2ENPatchCSV.coverage/
 wait

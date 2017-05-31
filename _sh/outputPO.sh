@@ -4,7 +4,7 @@ rm -rf /tmp/PSO2ENPatchCSV.outputPO
 mkdir -p /tmp/PSO2ENPatchCSV.outputPO
 JP="upstream/JP"
 EN="upstream/EN"
-rsync -a . /tmp/PSO2ENPatchCSV.outputPO/WC/ --exclude ".git" --del && cd /tmp/PSO2ENPatchCSV.outputPO/WC/Files && find .. -name "*.csv" -not -path "../Files/*" -print0|$PWDC/_tools/mp.sh -0 ln -s {} . \; &
+rsync --recursive --executability --whole-file . /tmp/PSO2ENPatchCSV.outputPO/WC/ --exclude ".git" --del && cd /tmp/PSO2ENPatchCSV.outputPO/WC/Files && find .. -name "*.csv" -not -path "../Files/*" -print0|$PWDC/_tools/mp.sh -0 ln -s {} . \; &
 git archive --format=tar --prefix=PSO2ENPatchCSV.outputPO/EN/ $EN | tar xf - -C /tmp && cd /tmp/PSO2ENPatchCSV.outputPO/EN/Files && find .. -name "*.csv" -not -path "../Files/*" -print0|$PWDC/_tools/mp.sh -0 ln -s {} . \; &
 git archive --format=tar --prefix=PSO2ENPatchCSV.outputPO/JP/ $JP | tar xf - -C /tmp &
 buildJP="$(git describe --always --tags $JP)"
