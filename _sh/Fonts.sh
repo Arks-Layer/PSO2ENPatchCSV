@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 rm -rf /tmp/PSO2ENPatchCSV.Fonts
 rsync -a . /tmp/PSO2ENPatchCSV.Fonts --exclude ".git" --del
 cd /tmp/PSO2ENPatchCSV.Fonts
