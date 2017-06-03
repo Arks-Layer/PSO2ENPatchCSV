@@ -6,7 +6,7 @@ NpcComOnSuccess#0,"""/face2 Defeat of enemy forces confirmed.<br>An instant coal
 NpcComOnFailure#0,"""Further engagement is dangerous!<br>Unfortunately, you must withdraw<br>at once."""
 NpcComOnBegin#1,"""敵性反応の発生が継続。<br>協力体制を続行し、出現した<br>敵性存在を撃退してください。"""
 NpcComOnSuccess#1,"""敵性反応、完全消失。<br>臨時の協力体制ながら<br>見事な立ち回りでした。"""
-NpcComOnFailure#1,"""これ+ 交戦は危険と判断。<br>今は撤退を。"""
+NpcComOnFailure#1,"""これ以上の交戦は危険と判断。<br>今は撤退を。"""
 NpcComOnBegin#2,"""新たな敵性反応を確認！<br>引き続き協力して<br>目標を撃退してください！"""
 NpcComOnSuccess#2,"""お疲れさまです！<br>文句なしの成果ですね！<br>見事な連携だったと思います！"""
 NpcComOnFailure#2,"""これ以上は危険ですね……<br>何事も引き際が肝心です！<br>ここは撤退しましょう！"""
