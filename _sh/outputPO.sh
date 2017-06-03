@@ -29,4 +29,4 @@ echo \"Language: $TagBranch\\\\n\"
 echo \"MIME-Version: 1.0\\\\n\"
 echo \"Content-Type: text/plain\; charset=UTF-8\\\\n\"
 echo \"Content-Transfer-Encoding: 8bit\\\\n\"
-find JP -name "*.csv" -print0|sort -z|WC/_tools/mp.sh -0 WC/_py/outputPO.py
+find JP -name "*.csv" -print0|sort -z|WC/_tools/mp.sh -0 WC/_py/outputPO.py $TagBranch
