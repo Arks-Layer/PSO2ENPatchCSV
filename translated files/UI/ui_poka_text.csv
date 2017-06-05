@@ -107,7 +107,7 @@ MsgWnd_StartMatchingText#0,"""Вы действительно хотите<br>н
 MsgWnd_CancelMatchingText#0,"""$(0)「$(1)」の<br>Вы хотите отменить сражение?"""
 RuleInfo_RuleName#0,"""Настройки сражения"""
 RuleInfo_WinTerms#0,"""Условие победы"""
-RuleInfo_BattleForm#0,"""Тип сражения"
+RuleInfo_BattleForm#0,"""Тип сражения"""
 RuleInfo_BattleNum#0,"""Колличство игроков"""
 RuleInfo_BattleTime#0,"""Время"""
 RuleInfo_BattleStage#0,"""Локация"""
