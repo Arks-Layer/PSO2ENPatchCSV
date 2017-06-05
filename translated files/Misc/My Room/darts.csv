@@ -1,0 +1,8 @@
+Name#0,"""Дартс"""
+DartsPoint#0,"""Счёт"""
+DartsMiss#0,"""ПРОМАХ"""
+DartsSingle#0,"""SINGLE"""
+DartsDouble#0,"""DOUBLE"""
+DartsTriple#0,"""TRIPLE"""
+DartsBull#0,"""BULL"""
+DartsMessage#0,"""[$(1)]\u3000$(0)\u3000\u3000\u3000$(2)$(3)"""
