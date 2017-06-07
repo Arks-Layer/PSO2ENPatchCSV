@@ -3,7 +3,7 @@ Explanation#0,"""本任務は、VR空間にて行う<br>制限時間内にエリ
 SimpleExplanation#0,"""Defeat all the enemies that appear!"""
 NpcComMsg1#0,"""Well then, let's begin the special training right away."""
 NpcComMsg2#0,"""This training will be complete when you defeat the final enemy or run out of time."""
-NpcComMsg3#0,"""Aim for the final area, and do your best. Good luck!"""
+NpcComMsg3#0,"""Aim for the shortest time, and do your best. Good luck!"""
 Area0S#0,"""Forest Area 1"""
 Area0L#0,"""Planet Naberius Forest Area 1"""
 Area1S#0,"""City Area 2"""
