@@ -1,6 +1,6 @@
 Title#0,"""Special Training: Episode 1"""
 Explanation#0,"""本任務は、VR空間にて行う<br>制限時間内にエリアの最奥を目指す<br>走破型の訓練である。<br>アークスが経験した様々な事象から<br>ダークファルス【巨躯】の復活時軸を中心に<br>象徴的な障害を選んで再構築した。<br>各員の能力を最大限引き出し、突破せよ。<br>――――――――――――――――――――<br>制限時間/１５分<br>最大与ダメージ制限/９９９９９９"""
-SimpleExplanation#0,"""Defeat the enemies that appear in each area!"""
+SimpleExplanation#0,"""Defeat all the enemies that appear!"""
 NpcComMsg1#0,"""Well then, let's begin the special training right away."""
 NpcComMsg2#0,"""This training will be complete when you defeat the final enemy or run out of time."""
 NpcComMsg3#0,"""Aim for the final area, and do your best. Good luck!"""
