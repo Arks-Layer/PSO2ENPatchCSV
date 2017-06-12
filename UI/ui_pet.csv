@@ -4,7 +4,7 @@ RenameConfirm#0,"""Your pet's name will be changed.<br>Continue?<br><br>\u3000Be
 RenameSuccess#0,"""Pet's name changed."""
 NamingTitle#0,"""Input Pet Name"""
 Naming#0,"""You can give a pet a name of your choosing.<br>Please enter your pet name.<br><br><yellow>※You can change it later at the Pet Lab.<c>"""
-NamingConfirm#0,"""Register as\""$(0)\""?<br><br>※If the egg is the same type as a registered pet<br>\u3000but is of higher rarity<br>\u3000<yellow>Rarity Evolution<c> at the Pet Lab is recommended."""
+NamingConfirm#0,"""Register as \""$(0)\""?<br><br>※If the egg is the same type as a registered<br>pet but is of higher rarity <yellow>Rarity Evolution<c> at<br>the Pet Lab is recommended."""
 NamingSuccess#0,"""Pet registered. You can set it to any Takt."""
 HatchedTitle#0,"""Pet"""
 POTENTIAL_000000#0,"""Potential 0 explanation"""

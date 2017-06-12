@@ -15,7 +15,7 @@ NpcComOnFailedCapture#0,"""/face4 Oh no! The capture is a failure!<br>Please be 
 NpcComOnAttackTarget#0,"""/face4 No, please stop!<br>You're only supposed to capture it!<br>Please avoid attacking the target!"""
 NpcComOnDeadTarget#0,"""/face6 Target's vital signs lost...<br>...Well, no way to capture it now.<br>Next time, for sure."""
 NpcComOnLastCapture#0,"""The transfer device is low on power...<br>Only one chance left!<br>Please be careful!"""
-NpcComOnBegin#1,"""$(0)の<br>出現を確認しました。<br>目標の捕獲をお願いします。"""
+NpcComOnBegin#1,"""Confirmed $(0) in the area.<br>Please capture the target."""
 NpcComOnAfterBegin#1,"""捕獲装置を$(0)に転送。<br>対象を誘導の後、捕獲。<br>指令は以上です。"""
 NpcComOnSuccess#1,"""対象の捕獲を確認。<br>迅速な対処、感謝します。"""
 NpcComOnFailure#1,"""捕獲任務は失敗と判断。<br>通常任務にお戻りください。"""
