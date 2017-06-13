@@ -4703,7 +4703,7 @@ item_DropEnchantUp1_2#1,"""Boosts the probability<br>of items dropping with<br>a
 item_DropEnchantUp1_3#1,"""Boosts the probability<br>of items dropping with<br>affixes."""
 item_DropEnchantUp1_4#1,"""Boosts the probability<br>of items dropping with<br>affixes."""
 item_DropEnchantUp1_5#1,"""Boosts the probability<br>of items dropping with<br>affixes."""
-item_DropUnidentifiedUp_1#1,"""Boosts the probability<br>of rare weapons<br>dropping unidentified.""
+item_DropUnidentifiedUp_1#1,"""Boosts the probability<br>of rare weapons<br>dropping unidentified."""
 item_DropUnidentifiedUp_2#1,"""Boosts the probability<br>of rare weapons<br>dropping unidentified."""
 item_DropUnidentifiedUp_3#1,"""Boosts the probability<br>of rare weapons<br>dropping unidentified."""
 item_DropUnidentifiedUp_4#1,"""Boosts the probability<br>of rare weapons<br>dropping unidentified."""
