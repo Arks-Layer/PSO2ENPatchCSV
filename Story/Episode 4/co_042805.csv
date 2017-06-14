@@ -1,3 +1,3 @@
-window_message_0000#0,"""Se ha detectado un punto de guardado.<br>te gustaria continuar desde el?<br><br>Seleccionar [jugar desde el inicio] sobreescribira tu punto de guardado."""
-window_message_0010#0,"""Continuar desde el ultimo punto de guardado"""
+﻿window_message_0000#0,"""El previo punto de autoguaradado ha sido detectado.<br>Quieres continuar desde ahi?<br><br>Seleccionando [Jugar desde el inicio] se borraran tus puntos de autoguardado."""
+window_message_0010#0,"""Jugar desde el ultimo punto de autoguardado"""
 window_message_0020#0,"""Jugar desde el inicio"""

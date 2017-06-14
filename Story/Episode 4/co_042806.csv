@@ -1,4 +1,4 @@
-window_message_0010#0,"""Continuar desde el ultimo punto de guardado"""
+﻿window_message_0010#0,"""Jugar desde el ultimo punto de autoguardado"""
 window_message_0020#0,"""Jugar desde el inicio"""
-window_message_0000#0,"""Se ha detectado un punto de guardado.<br>te gustaria continuar desde el?<br><br>Seleccionar [Jugar desde el inicio] sobreescribira tu punto de guardado."""
-line01#0,"""Esta mision tiene la funcion de auto guardado.<br>cuando el mensaje \""Progreso de mision guardado\"" aparezca,<br>podras continuar desde ese punto.<br>"""
+window_message_0000#0,"""El previo punto de autoguardado ha sido detectado.<br>Quieres continuar desde ahi?<br><br>Seleccionando [Jugar desde el inicio] se borraran tus punto de autoguardado."""
+line01#0,"""Esta mision tiene una funcion de autoguardado.<br>Cuando el mensaje \""El progreso de la mision ha sido guardado\"" aparesca,<br>vas a poder jugar desde ese punto.<br>"""
