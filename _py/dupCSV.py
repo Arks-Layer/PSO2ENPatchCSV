@@ -5,7 +5,6 @@ import codecs
 import os
 import sys
 
-
 err = os.EX_OK
 
 if len(sys.argv) == 1:
@@ -13,11 +12,13 @@ if len(sys.argv) == 1:
 
 for i in sys.argv[1:]:
 	with codecs.open(i, encoding="utf-8") as QC:
-		duplist = []
-		for x, row in enumerate(QC):
-				header = list(csv.reader(row,strict=True))[0]
-				if header in duplist:
-					print("dup ID in %s:%s".format(i, header))
-					err = 1
+		dupid = []
+		for x, row in enumerate(csv.reader(QC, strict=True)):
+			header = row[0]
+			#print("{}:{}:{}".format(i, x, header))
+			if header in dupid:
+				print("{}:{} {}".format(i, x, header))
+				err = 1
+			dupid.append(header)
 
 sys.exit(err)

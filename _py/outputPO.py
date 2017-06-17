@@ -15,6 +15,7 @@ POnice = [
 	#("\"\\\"", "\"\\\\\""),
 ]
 
+
 def POformat(input):
 	inputl = input
 	for i, o in POnice:
@@ -29,14 +30,14 @@ ENcheckForce = False
 if sys.argv[1] == "en":
 	ENcheckForce = True
 for i in sys.argv[2:]:
-	w = i.replace("JP/","WC/")
-	e = i.replace("JP/","EN/")
+	w = i.replace("JP/", "WC/")
+	e = i.replace("JP/", "EN/")
 	with codecs.open(i, encoding="utf-8") as JP:
 		ENcheck = ENcheckForce
 		JPcheck = False
-		JPCSV = list(csv.reader(JP,strict=True))
-		ENCSV = list(csv.reader(codecs.open(e, encoding="utf-8"),strict=True))
-		WCCSV = list(csv.reader(codecs.open(w, encoding="utf-8"),strict=True))
+		JPCSV = list(csv.reader(JP, strict=True))
+		ENCSV = list(csv.reader(codecs.open(e, encoding="utf-8"), strict=True))
+		WCCSV = list(csv.reader(codecs.open(w, encoding="utf-8"), strict=True))
 		basename = os.path.splitext(os.path.basename(i))[0]
 		if JPCSV == WCCSV:
 			JPcheck = True
