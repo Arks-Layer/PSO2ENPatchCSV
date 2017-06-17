@@ -481,7 +481,7 @@ ConsumeErrorMessage10#0,"""La fecha de vencimiento<br>es igual o superior a 180 
 ConsumeErrorMessage11#0,"""La fecha de vencimiento<br>es igual o superior a 90 dias,<br>no puedes comprar  mas."""
 ResultItemFull#0,"""Debido a la falta de espacio en la mochila y tu Almacen, no puedes recoger el premio."""
 ResultMesetaFull#0,"""Usted es incapaz de recoger el premio, como usted ha alcanzado la cantidad maxima de Meseta que se puede tener."""
-ItemSetWareHouse#0,"""La recompenza sera enviada a tu almacen, por que tu inventario esta lleno."""
+ItemSetWareHouse#0,"""La recompensa sera enviada a tu almacen, por que tu inventario esta lleno."""
 ItemSetPost#0,"""Como su Almacen ha alcanzado el limite de capacidad, la recompensa fue Enviada al Almacen temporal."""
 CheckPostNoticeMessage1#0,"""<yellow>Su Almacen temporal se esta lleno. Se le aconseja que organize sus objetos.<c>"""
 CheckPostNoticeMessage2#0,"""<c ff4f3f>一時倉庫の空き容量が無くなりました。以後は古い順に削除されますので、整理してください。<c>"""
