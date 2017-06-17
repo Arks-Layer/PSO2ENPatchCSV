@@ -27,6 +27,7 @@ def POformat(input):
 
 
 ENcheckForce = False
+err = 0
 if sys.argv[1] == "en":
 	ENcheckForce = True
 for i in sys.argv[2:]:
@@ -41,8 +42,8 @@ for i in sys.argv[2:]:
 		basename = os.path.splitext(os.path.basename(i))[0]
 		if JPCSV == WCCSV:
 			JPcheck = True
-		if ENCSV == WCCSV:
-			ENcheck = True
+		#if ENCSV == WCCSV:
+		#	ENcheck = True
 		#if ENcheck and JPcheck:
 		#	continue
 		for x, row in enumerate(JPCSV):
@@ -79,13 +80,22 @@ for i in sys.argv[2:]:
 				print("msgid \"{}\"".format(POJP))
 				#msgstr translated-string
 				print("msgstr \"{}\"".format(POWC))
-			elif EN == WC or JP == WC or EN == POWCF or JP == POWCF or POEN == POWC:
+			elif JP == WC or JP == POWCF:
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
 				print("msgstr \"\"")
+			elif EN == WC or EN == POWCF or POEN == POWC:
+				#msgid untranslated-string
+				print("msgid \"{}\"".format(POEN))
+				#msgstr translated-string
+				print("msgstr \"\"")
+				print("{}:{} {} \"{}\" =~ \"{}\"".format(basename, x + 1, ID, WC, JP), file=sys.stderr)
+				err = 1
 			else:
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
 				print("msgstr \"{}\"".format(POWC))
+
+sys.exit(err)
