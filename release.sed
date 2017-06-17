@@ -13,3 +13,17 @@ s/ù/u/g
 s/ú/u/g
 s/ü/u/g
 s/ñ/й/g
+s/Á/A/g
+s/À/A/g
+s/È/E/g
+s/É/E/g
+s/Ì/I/g
+s/Í/I/g
+s/Ò/O/g
+s/Ó/O/g
+s/Ö/O/g
+s/Ō/O/g
+s/Ù/U/g
+s/Ú/U/g
+s/Ü/U/g
+s/Ñ/Й/g
