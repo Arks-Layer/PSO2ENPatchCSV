@@ -30,17 +30,19 @@ aspellt = [
 	('※', '. '),
 ]
 
+
 def replacemark(input):
 	output = []
 	markmode = False
 	for char in input:
-		if char ==  '<':
+		if char == '<':
 			markmode = True
 		elif char == '>':
 			markmode = False
-		if markmode == False:
+		if markmode is False:
 			output.append(char)
 	return "".join(output)
+
 
 def replacespell(input):
 	inputl = input
@@ -49,13 +51,16 @@ def replacespell(input):
 		inputl = outtext
 	return outtext
 
+
 def checkwords(input):
 	return replacespell(replacemark(input))
 
+
 bufout = ""
+
 for i in sys.argv[1:]:
 	with codecs.open(i, encoding="utf-8") as aspelldict:
-		WCCSV = list(csv.reader(aspelldict,strict=True))
+		WCCSV = list(csv.reader(aspelldict, strict=True))
 		for row in WCCSV:
 			for n, col in enumerate(row):
 				if n == 1:
