@@ -16,6 +16,7 @@ PInice = [
 	('　', "\\u3000"),
 ]
 
+
 def PIformat(input):
 	inputl = input
 	for i, o in PInice:
@@ -24,6 +25,7 @@ def PIformat(input):
 	if outtext is "\\":
 		return "\\"
 	return outtext
+
 
 def outputPO(input):
 	for i in sys.argv[2:]:
@@ -34,6 +36,7 @@ def outputPO(input):
 			for e in PO:
 				if basename == e[0]:
 					CSV.writerow(e[1])
+
 
 PO = []
 for inline in codecs.open(sys.argv[1], encoding="utf-8"):
@@ -51,6 +54,6 @@ for inline in codecs.open(sys.argv[1], encoding="utf-8"):
 	if inline == "\n":
 		if POText == "":
 			POText = POTextJP
-		PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
+		PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]])
 #PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
 outputPO(PO)
