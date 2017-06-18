@@ -1334,7 +1334,7 @@ Dark01#1,"""Basic dark technique.<br>Photons are condensed and track the target,
 Dark02#1,"""Intermediate dark technique.<br>Summons dark spears to stab a target from all sides. Narrow range but very powerful."""
 Dark03#1,"""Intermediate dark technique.<br>A mass of condensed photons pour from the sky and rain down around the caster."""
 Dark04#1,"""Intermediate dark technique.<br>Fires several dark splinters to track your target. Most useful at long range."""
-Dark05#1,"""Basic dark technique.<br>Generates a field of darkness around the caster. Friendly attacks will restore hitpoints."""
+Dark05#1,"""Basic dark technique.<br>Generates a field of darkness around the caster. Friendly attacks will restore HP."""
 Dark06#1,"""Advanced dark technique.<br>Casts a long incantation upon a single target. Deals massive damage."""
 Dark07#1,"""Advanced dark technique.<br>Creates a sinister hand that relentlessly chases enemies after hitting its target."""
 MultiWT01#1,"""風と雷の複合属性テクニック。<br>風と雷の翼をまとい、数多の雷撃を<br>残しながら、目標へ向けて突撃する。"""
