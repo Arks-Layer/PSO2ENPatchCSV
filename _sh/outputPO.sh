@@ -31,4 +31,6 @@ echo \"Content-Transfer-Encoding: 8bit\\n\"
 wait
 cd /tmp/PSO2ENPatchCSV.outputPO/
 find JP -name "*.csv" -print0|sort -z|WC/_tools/mp.sh -0 WC/_py/outputPO.py $TagBranch
+PO=$?
 echo
+exit $PO
