@@ -1,4 +1,4 @@
-Title#0,"""Exploracion Libre: Bosque"""
-Explanation#0,"""これは、惑星ナベリウスの<br>『森林』における自由探索の許可を<br>申請するための試験である。<br>定められた任務を達成することで<br>実力を認められ、指定範囲内での<br>自由遊撃行動が認められる。<br><br><yellow>※Completa [Dagan Extermination: Bosque]<br>dentro de 30 minutos.<br>※Data drop from Natives.<c>"""
-Errand#0,"""Licencia de Exp. Libre: Bosque"""
+Title#0,"""Exploracion: Bosque"""
+Explanation#0,"""Esta es una prueba para poder explorar<br>libremente el area Bosque.<br>El primer area del planeta Naberius.<br>Completando la orden recibiras permiso<br>para acceder a este area.<br><br>Si tienes el suficiente valor, acepta<br>esta orden sin miedo.<br><br><yellow>※Completa [Exterminacion Dagan: Bosque]<br>dentro de 30 minutos.<br>※Los Objetos caen de Natives.<c>"""
+Errand#0,"""Licencia de Exploracion: Bosque"""
 Target#0,"""Completa cualquier mision de entrenamiento"""
