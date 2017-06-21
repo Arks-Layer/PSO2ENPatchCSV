@@ -49,6 +49,9 @@ jobs:
           name: checking CSVs for quote issues
           command: bash ./_sh/quote.sh
       - run:
+          name: Check for dup lines
+          command: bash ./_sh/dupCSV.sh
+      - run:
           name: verifing CSVs for PSO2 format
           command: bash ./_sh/check.sh
       - run:
@@ -60,6 +63,12 @@ jobs:
       - run:
           name: spell check CSVs
           command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|./_tools/sortaspell.sh|tee /tmp/dict.txt
+      - run:
+          name: output in GetText PO
+          command: bash ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
+      - store_artifacts:
+          path: /tmp/PSO2.po.gz
+          destination: PSO2.po.gz
       - store_artifacts:
           path: /tmp/coverage.txt
           destination: coverage.txt
