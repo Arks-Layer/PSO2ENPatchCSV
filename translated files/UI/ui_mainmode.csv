@@ -1966,7 +1966,7 @@ FuryComboUp#1,"""При активной Fury Stance увеличивает ур
 PrettyGood#1,"""Снижает время действия негативных эффектов."""
 Sacrifice#1,"""Восстанавливает НР если во время Guard Stance рядом погибает противник."""
 HunterAtpStrikeUp3#1,"""Усиливает S-ATK."""
-JustGuardAdvance#1,"""Just Guard Advance"""
+JustGuardAdvance#1,"""Продвижение Just Guard"""
 FuryGearBoost#1,"""Увеличивает скорость заполнеия гира во время Fury Stance или Guard Stance. <yellow>только основной класс."""
 NeverGiveup#1,"""При использовании Iron Will, увеличивается S-ATK на 60 а также увеличивается время неуязвимости. С каждым уровнем бонус увеличивается."""
 MassiveHunter#1,"""Поглощение урона а также дает эффект который предотвращает  от атак."""
