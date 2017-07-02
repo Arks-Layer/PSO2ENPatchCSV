@@ -14,11 +14,16 @@ for i in sys.argv[1:]:
 	with codecs.open(i, encoding="utf-8") as QC:
 		dupid = []
 		for x, row in enumerate(csv.reader(QC, strict=True)):
-			header = row[0]
-			#print("{}:{}:{}".format(i, x, header))
-			if header in dupid:
-				print("{}:{} {}".format(i, x, header))
+			#print("Issue on {}:{}".format(i, x, header))
+			if row:
+				header = row[0]
+				#print("{}:{}:{}".format(i, x, header))
+				if header in dupid:
+					print("{}:{} {}".format(i, x, header))
+					err = 1
+				dupid.append(header)
+			else:
+				print("Issue on {}:{}".format(i, x, header))
 				err = 1
-			dupid.append(header)
 
 sys.exit(err)
