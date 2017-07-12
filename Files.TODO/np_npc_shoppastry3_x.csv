@@ -1,0 +1,8 @@
+GREET_RANGE#0,"""Hallo meneer!"""
+GREET_SHOP_OPEN#0,"""いらっしゃいませっ！"""
+GREET_SHOP_DISABLE#0,"""ごめんなさいっ！<br>今日はね、貸し切りなんだ！"""
+GREET_SHOP_CLOSE#0,"""ありがねっ！"""
+00_01#0,"""Optie 1"""
+00_02#0,"""Optie 2"""
+TALK_ST#0,"""Praat"""
+C_ORDER_ST#0,"""Luister naar details"""
