@@ -1,6 +1,6 @@
 Active#0,"""[PSE] $(0) Lv$(1)"""
-Fever#0,"""[PSE]$(0) Lv8"""
-CrossFever#0,"""[PSE]$(0) Lv8"""
+Fever#0,"""[PSE] $(0) Lv8"""
+CrossFever#0,"""[PSE] $(0) Lv8"""
 AreaChangeTitle#0,"""<pict $(0)>$(1)[Omen]"""
 atp_strike#0,"""S-ATK Boost"""
 atp_firearm#0,"""R-ATK Boost"""
