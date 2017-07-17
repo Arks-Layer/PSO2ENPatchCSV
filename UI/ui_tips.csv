@@ -65,7 +65,7 @@
 01_MainLobby_065#0,"""When you type <lt>pos<gt>, you will speak your current coordinates on the map."""
 01_MainLobby_066#0,"""When you type <lt>target<gt> or <lt>t<gt>,<br>you'll speak the last item/enemy you locked on to."""
 01_MainLobby_067#0,"""You can display the name of the current E-Trial by typing <lt>et1<gt> in the chat."""
-01_MainLobby_068#0,"""In Controller mode, the current locked target can be changed by moving your camera joystick's axises."""
+01_MainLobby_068#0,"""In Controller mode, the current locked target can be changed by moving the camera joystick around."""
 01_MainLobby_069#0,"""While using Premium, you can save up to 40 symbol arts."""
 01_MainLobby_070#0,"""While using Premium, if there is free space in the premium area, you can move to a full block."""
 01_MainLobby_071#0,"""While using Premium, once you use a makeover ticket, you can use the Beauty Salon freely for 60 minutes."""
