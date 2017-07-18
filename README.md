@@ -29,7 +29,7 @@ Si vous ne comprenez pas le japonais, mais avez tout de même envie de nous donn
  1. Cliquez sur le bouton "Fork" dans le coin supérieur droit de cette page GitHub afin de faire une copie du dépôt sur laquelle vous pourrez travailler.
  2. Sélectionnez le fichier que vous voulez éditer.
  3. Cliquez sur l'icôn du crayon.
- 4. Éditez le fichier à votre guise ! (**ÉDITER UNIQUEMENT LE TEXTE ENTRE LES TRIPLES GUILLEMETS**)
+ 4. Éditez le fichier à votre guise ! (**ÉDITEZ UNIQUEMENT LE TEXTE ENTRE LES TRIPLES GUILLEMETS**)
  5. Rédigez un court résumé de vos modifications en bas de page.
  6. Appuyer sur "Commit changes".
  7. Répétez les étapes 2 à 6 autant de fois que souhaité. Une fois que vous avez terminé, passez à l'étape 8.
