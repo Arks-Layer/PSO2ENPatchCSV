@@ -801,7 +801,7 @@ LimitMessage#0,"""Cannot deploy an A.I.S as<br>the deploy limit has been reached
 Failure_RideConcurrentLimit#0,"""同時起動数上限のため起動に失敗しました"""
 Failure_RideCountLimit#0,"""起動回数上限のため起動に失敗しました"""
 Failure_Other#0,"""Activation failed."""
-LineMessage00#0,"""/start13 Confirmed reaction of Phantoms! Defeat the enemies!"""
+LineMessage00#0,"""/start13 Confirmed the reaction of Phantoms! Defeat the enemies!"""
 LineMessage01#0,"""/start120 /rt_eff0 /rt_time60 <c c47222>Bronze Emblems<c> have appeared! If you collect them, score will increase."""
 LineMessage02#0,"""/start180 Neutralize <c c47222>Bronze Emblem<c>! Defeat the enemies!"""
 LineMessage03#0,"""/start300 /rt_eff1 /rt_time60 <c c0c0c0>Silver Emblems<c> have appeared! If you collect them, score will increase."""
