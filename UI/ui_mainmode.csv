@@ -1306,7 +1306,7 @@ IndicateTextMain#0,"""<yellow>Weapons<c>, <c 00ffff>PAs<c> and <green>Techniques
 IndicateTextSub#0,"""<yellow>Consumables<c>, <c 00ffff>Class Skills<c> and <green>Techniques<c> can be set to the Subpalette <c ff007f>from the tab<c>."""
 IndicateTextEquip#0,"""<yellow>Units<c>, <c 00ffff>Costume (Parts)<c>, and <green>Rings<c>, can be set to the Armor Palette <c ff007f>from the tab<c>."""
 IndicateTextAvatar#0,"""Allows you to change the appearance of your weapon by setting <yellow>*Weapon Camouflage<c>."""
-IndicateTextWeaponPos#0,"""Weapon Position allows you to change the position of each weapon on you pallets."""
+IndicateTextWeaponPos#0,"""Weapon Position allows you to change the position of each weapon on your palettes."""
 TabHintPA#0,"""Photon Arts"""
 TabHintTechnic#0,"""Techniques"""
 TabHintOverload#0,"""Compound Techs"""
