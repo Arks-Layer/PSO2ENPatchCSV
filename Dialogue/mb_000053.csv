@@ -1,6 +1,3 @@
 name01#0,"""Xiera"""
 text01#0,"""<%me><br>The Story Board has been updated!"""
 text02#0,"""I'll be waiting in the bridge area.<br>Please stop by and pick it up!"""
-window_message_0010#0,"""Move to the bridge"""
-window_message_0020#0,"""Don't move"""
-window_message_0000#0,"""Would you like to move to the bridge?"""

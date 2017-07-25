@@ -162,7 +162,6 @@ SubScoreGuideAnnihilation#0,"""エクストラミッション：<yellow>全て�
 SubScoreGuideEnemyFever#0,"""エクストラミッション：<yellow>エネミーを倒した数に応じてスコアアップ！"""
 SubScoreGuideIndi#0,"""エクストラミッション：<yellow>幻創浮遊要塞を素早く撃破すればスコアアップ！"""
 SubScoreGuideFsmChase#0,"""エクストラミッション：<yellow>全ての未確認生物を素早く撃破すればスコアアップ！"""
-ProgNumEnemyDefeat#0,"""Number of $(0) Defeated"""
 QuestSuccess#0,"""/face2 Please return without delay."""
 QuestFailure#0,"""/face4 It can't be helped, come back."""
 QuestSuccess#1,"""Permission to return has been <br>granted. You may come back."""

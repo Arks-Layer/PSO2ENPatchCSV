@@ -1,7 +1,0 @@
-IncidentName#0,"""Defeat $(0)!"""
-TrialBeginMsg#0,"""Defeat $(0)!"""
-TrialAbstract#0,"""Defeat $(0)!"""
-NpcComOnBegin#0,"""From here, we'll need to rely on your power!<br>Thank you and good luck!"""
-NpcComOnSuccess#0,"""Confirmed subjugation of the target!<br>Congratulations! """
-HP_Under_50#0,"""It looks exhausted!<br>Just a little more!"""
-HP_Under_10#0,"""It's on its last breath! Good luck!"""
