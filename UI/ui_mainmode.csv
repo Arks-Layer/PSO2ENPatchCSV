@@ -2788,7 +2788,7 @@ MySetExplain2button#0,"""<c f0df60>マイセットを保存したり、適用す
 MySetExplain3button#0,"""<c f0df60>マイセットを保存したり、適用することができます。<c><red>※現在の操作タイプは3ボタンタイプです。<c>"""
 ManualSkillTreeGet#0,"""自分で振り分ける"""
 AutoSkillTreeGet#0,"""オススメ設定"""
-AutoSkillTreeAsk#0,"""自動的にスキルポイントを振り直します。<br>よろしいですか？<br><yellow>※習得済みスキルも含め<br>\u3000スキルツリーが上書きされます。<c>"""
+AutoSkillTreeAsk#0,"""This redistributes skill points automatically.<br>Do you wish to continue?<br><yellow>※Your Skill Tree will be overwritten, including the points you've assigned.<c>"""
 AutoSkillTreeList#0,"""オススメ設定された以下のスキルを上書きします。<br>よろしいですか？<br><br><red>※任意で振り直したい場合は<br>全スキルツリー初期化パスが必要になります。<c>"""
 AutoSkillTreeListVita#0,"""オススメ設定された以下のスキルを上書きします。<br>よろしいですか？<br><red>※任意で振り直したい場合は<br>全スキルツリー初期化パスが必要になります。<c>"""
 AutoSkillTreeSuccess#0,"""オススメスキルを上書きしました。"""
