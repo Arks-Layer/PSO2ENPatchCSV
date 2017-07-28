@@ -638,7 +638,7 @@ RideroidShoulderCtrlHintMovementY_v#0,"""ライドロイド操作の上下移動
 RideroidOperationSettings#0,"""Control Settings"""
 RideroidOperationSettingsType#0,"""Select your Rideroid settings."""
 RideroidOperationSettingsText#0,"""Select your Rideroid settings. <br> <br>Manual Type: Fully manual drive.<br>Auto Type: Fully automatic drive.<br><br>※You can adjust the Rideroid camera settings <br>to either [Normal View] or [Over the Shoulder View]. <br>※Rideroids default to [<yellow>Over the Shoulder View<c>]."""
-CtrlFuncNameOpenBasnetContentInfo#0,"""バスタークエスト情報"""
+CtrlFuncNameOpenBasnetContentInfo#0,"""Buster Quest Information"""
 title#0,"""Choose Primary Input Method"""
 button1#0,"""Keyboard & Mouse"""
 button2#0,"""Gamepad"""
