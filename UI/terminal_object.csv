@@ -26,3 +26,6 @@ ClearLimit#0,"""You cannot attempt the quest again because <br>you have exceeded
 QuestDropPenalty#0,"""クエストの受注を制限されているため<br>このクエストは受注できません。"""
 QuestInExtra#0,"""このクエストは、<br>キャンペーン対象期間となったため<br>もう一度挑戦することができませんでした。<br>クエストを再度、受注しなおしてください。"""
 QuestOutExtra#0,"""このクエストは、<br>キャンペーン対象期間が終了したため<br>もう一度挑戦することができませんでした。<br>クエストを再度、受注しなおしてください。"""
+CantStartProhibitQuestDropTitleCnt#0,"""クエストカウンター端末"""
+CantStartProhibitQuestDropTitleTlp#0,"""テレポーター"""
+CantStartProhibitQuestDropForStart#0,"""現在使用することができません。"""
