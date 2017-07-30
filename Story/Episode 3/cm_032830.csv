@@ -1,0 +1,6 @@
+name01#0,""" Yucreta """
+name02#0,""" Afin """
+skit01#0,"""/ci1 2 Hay algo en el camino... Si pudiéramos pasar por aquí, nos conduciría directamente allí."""
+skit02#0,"""/ci1 1 Tendremos que encontrar otro camino. Vamos compañero."""
+skit01#1,"""Hay algo en el camino... Si pudiéramos pasar por aquí, nos conduciría directamente allí."""
+skit02#1,"""Tendremos que encontrar otro camino. Vamos compañero."""

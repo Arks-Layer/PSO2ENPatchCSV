@@ -1,0 +1,5 @@
+name01#0,"""????"""
+name02#0,"""????"""
+window_message_0010#0,"""Jugar desde el último punto guardado"""
+window_message_0020#0,"""Jugar desde el principio"""
+window_message_0000#0,"""Se ha detectado un guardado anterior<br>¿Quieres continuar desde ese punto?<br><br>Al seleccionar [Jugar desde el principio]<br>se borrará la grabación anterior."""
