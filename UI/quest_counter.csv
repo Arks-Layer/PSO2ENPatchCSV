@@ -631,7 +631,7 @@ Quest_Explain_Text_2#0,"""・以下のクラスレベルで受注可能<br>\u300
 Quest_Explain_Text_3#0,"""Complete $(0)"""
 Quest_Story_Explain#0,"""イベントを閲覧します。"""
 Quest_Explain_Continue#0,"""All available quests have been completed.<br><br>Please wait for the next update."""
-Quest_Name_Continue#0,"""\u3000\u3000\u3000次回配信に続く…"""
+Quest_Name_Continue#0,"""\u3000\u3000\u3000To be continued..."""
 Quest_Name_TopContinue#0,"""\u3000\u3000\u3000EPISODE$(0)全クリア済み"""
 Quest_Explain_TopContinue_1#0,"""オムニバスクエスト【EP1】の<br>ストーリーは、すべてクリア済みです。<br><br>続きは、次のEPISODEの配信をお待ちください。"""
 Quest_Explain_TopContinue_2#0,"""オムニバスクエスト【EP2】の<br>ストーリーは、すべてクリア済みです。<br><br>続きは、次のEPISODEの配信をお待ちください。"""
