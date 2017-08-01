@@ -1,4 +1,4 @@
-﻿MsgFriendAdd#0,"""Added $(0) as a partner."""
+MsgFriendAdd#0,"""Added $(0) as a partner."""
 MsgJoinEnable#0,"""$(0) can now be called."""
 MsgJoinDisable#0,"""$(0) is no longer available."""
 MsgErrorExsit#0,"""Another player in the quest has already called $(0)."""
