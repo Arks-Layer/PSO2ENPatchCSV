@@ -881,7 +881,7 @@ OnMatLvUpAfterRamMax#0,"""一定量のマナを回収しました！<br>兵器�
 OnBaseHpDecrease0#0,"""The $(0) Buster towers has been<br>damaged! Please help it!"""
 OnBaseHpDecrease1#0,"""The $(0) Buster towers doesn't look<br>very good! Please help save it!"""
 OnBrokenBase1#0,"""A Buster Tower has been destroyed!<br>We only have 3 remaining! We still<br>have leeway! Let's hurry and proceed!"""
-OnBrokenBase2#0,"""Another Buster tower has been<br>destroyed! We cannot predict our<br>current status! Please be careful!""""
+OnBrokenBase2#0,"""Another Buster tower has been<br>destroyed! We cannot predict our<br>current status! Please be careful!"""
 OnBrokenBase3#0,"""Another tower has been busted!<br>Defend our last towers!"""
 OnHpGaugeDecrease0#0,"""自軍の損傷拡大中！<br>これ以上被害が大きくなれば<br>撤退することになります！"""
 OnHpGaugeDecrease1#0,"""自軍の損傷甚大！\u3000これ以上は<br>耐えられません！\u3000破界塔を守り<br>被害を最小限に抑えて下さい！"""
