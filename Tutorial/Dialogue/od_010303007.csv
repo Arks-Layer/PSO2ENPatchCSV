@@ -3,7 +3,7 @@ text02#0,"""今んところ、おれらの修了任務時ほどの<br>ダーカ�
 text03#0,"""……まあ、不意に大発生して<br>大変なことにってのが前回だから<br>これだけじゃ何とも言えねえか。"""
 text04#0,"""ありがとな、相棒！\u3000なんかちょっと<br>気が楽になった感じがするよ。<br>それじゃ、報酬は、っと……"""
 11_voice_NPC_5003_101#0,"""……そうだ、おれのパートナーカード<br>受け取ってくれよ！\u3000お礼にしては<br>ちゃちいけど、いつでも呼んでくれよ！"""
-linewindow001#0,"""<br>Afin can now be called as a partner.<br>"""
+linewindow001#0,"""<br>You can now call Afin as a partner.<br>"""
 text06#0,"""About Partner Characters"""
 text07#0,"""Once you have met certain conditions,<br>you can adventure with partner characters.<br><br>Partner characters can be called<br>from the terminal in the Campship.<br><br><yellow>However, you can't call partner characters<br>who have already been called in the same room.<c>"""
 linewindow002#0,"""<br>アークスの仲間たちにクライアントオーダーが発生しました。<br>"""
