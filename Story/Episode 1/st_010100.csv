@@ -20,4 +20,4 @@ st_010100_0170#0,"""This is the quest counter from where you can accept quests f
 st_010100_0180#0,"""That, and..."""
 st_010100_0190#0,"""Over there leads to the shop area where you can buy items to prepare for missions."""
 st_010100_0200#0,"""Anyways, I look forward to working with you."""
-skit01#0,"""タイトル画面に戻ります。<br><br><yellow>これ以降はダウンロード完了後に<br>プレイ可能になります。<c>"""
+skit01#0,"""You will now return to the title screen.<br><br><yellow>You will be able to play from this point<br>once the download has completed.<c>"""
