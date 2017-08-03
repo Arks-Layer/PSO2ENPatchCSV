@@ -7947,7 +7947,7 @@ ring_MagFight#1,"""Mag Excite<br>Boosts the frequency and power of your<br>Mag's
 ring_StepJACombo#1,"""Step Just Attack Combo<br>Creates a JA timing window when executing<br>Step."""
 ring_QuickMate#1,"""Quick Mate/Ring<br>Speeds up usage of Mate-type items."""
 ring_CriticalField#1,"""Critical Field/Ring<br>Generates a field around yourself<br>that increases critical hit rate."""
-ring_PointWeakBullet#1,"""Point Weak Bullet<br>Weak Bullet will always hit a locked-on target<br>regardless of any obstructions."""
+ring_PointWeakBullet#1,"""Point Weak Bullet<br>Weak Bullet will always hit a locked-on<br>target regardless of any obstructions."""
 ring_CombatDoubleCount#1,"""Katana Combat Count Up<br>Increases Katana Combat's hit count."""
 ring_AtomizerLovers#1,"""Atomizer Lovers<br>Allows quick usage of Atomizer-type items<br>as well as increases their recovery effect."""
 ring_FireTechnicShortCharge#1,"""Flame Tech S-Charge/Ring<br>Reduces the charge time of fire techniques."""
