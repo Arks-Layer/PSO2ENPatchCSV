@@ -629,7 +629,7 @@ Quest_Explain_Bottom#0,"""<yellow>※This quest can only be done solo (1 person)
 Quest_Explain_Text_1#0,"""・バスタークエストを累計$(0)回勝利する<br>\u3000条件達成まであと <yellow>$(1)<c>回"""
 Quest_Explain_Text_2#0,"""・以下のクラスレベルで受注可能<br>\u3000<pict mainclass_icon>Lv.$(0)～"""
 Quest_Explain_Text_3#0,"""Complete $(0)"""
-Quest_Story_Explain#0,"""イベントを閲覧します。"""
+Quest_Story_Explain#0,"""Browse the event."""
 Quest_Explain_Continue#0,"""All available quests have been completed.<br><br>Please wait for the next update."""
 Quest_Name_Continue#0,"""\u3000\u3000\u3000Until next update..."""
 Quest_Name_TopContinue#0,"""\u3000\u3000\u3000Cleared all of EPISODE $(0)"""
