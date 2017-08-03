@@ -984,7 +984,7 @@ PartyConfigError01#0,"""The party name <br>contains characters that can't be use
 PartyConfigError02#0,"""The party comment <br>contains characters that can't be used."""
 PartyConfigPass01#0,"""Only restrict party requests."""
 PartyConfigPass02#0,"""Also restrict other parties in multi-party areas"""
-PartyConfigPass03#0,"""マルチプレイの制限"""
+PartyConfigPass03#0,"""Multiplayer Limit"""
 PartyCoinNone#0,"""No usable item"""
 PartyCoinUnuse#0,"""Don't use anything"""
 PartyCoinBlank#0,"""-"""
