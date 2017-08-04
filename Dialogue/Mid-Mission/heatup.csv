@@ -316,7 +316,7 @@ SessionasaiAlly1#2,"""おやおやっ、近くにアークスの反応が<br>二
 SessionnewafinAlly1#2,"""おやおやっ、近くにアークスの反応が<br>二つあるみたいですよー！<br>でも、ちょっとヘンな反応ですねぇ。"""
 annihilation_rappyemp#2,"""あれ？\u3000大きな反応がありますよ？<br>確か大きな影の目撃情報もありますし<br>ちょーっと、気になりますよー。"""
 DestroyEnemy1#3,"""動体熱源、多数感知。<br>警戒を。"""
-DestroyEnemy2#3,"""多数の反応を感知。<br>注意を。"""
+DestroyEnemy2#3,"""Attention, detecting multiple<br>energy signatures."""
 DestroyEnemy3#3,"""周囲状況に警戒。<br>多数の反応が感知されました。"""
 DestroyBoss1#3,"""強力な反応を感知。<br>周囲を警戒してください。"""
 DestroyBoss2#3,"""異常な反応を感知。<br>注意が必要です。"""
