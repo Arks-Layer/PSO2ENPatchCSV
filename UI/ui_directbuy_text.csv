@@ -35,7 +35,7 @@ DirectBuy_EquipNote_2#0,"""<pict Arcscash><c ff4f3f>AC消費コンテンツ<c><b
 DirectUse_MyFashion_1#0,"""Confirm item usage"""
 DirectUse_MyFashion_2#0,"""<pict Arcscash><c 5fdf00>購入済みアイテムの使用<c><br>「マイファッション拡張」の利用に必要な<br>「プレミアムセット」の利用権をお持ちでないか、<br>利用期限が切れています。<br><br>アイテムパック内にお持ちの<br><yellow>「プレミアムセット」<c>を使用して<br>マイファッション拡張を利用可能にしますか？<br><br><red>※複数種類所持している場合、<br>\u3000追加期限が長いものを優先して使用します。<c><br><br><red>※使用するアイテムを確認したい場合は、<br>\u3000アイテムパックから選んでください。<c>"""
 YesNoTitle#0,"""Item Purchase Confirmation"""
-YesNoMsgStaminaNotice#0,"""You are low on $(0) Stamina.<br><br>$(1)<br>[$(4)] can be used<br>instantly recover your $(0) Stamina.<br>$(2)<br><yellow>Proceed to the purchase screen?<c><br><br>$(3)"""
+YesNoMsgStaminaNotice#0,"""You are low on $(0) Stamina.<br><br>$(1)<br>[$(4)] can be used<br>instantly to recover your $(0) Stamina.<br>$(2)<br><yellow>Proceed to the purchase screen?<c><br><br>$(3)"""
 YesNoMsgStaminaBuy#0,"""以下のアイテムを$(3)$(2)で購入します。<br>よろしいですか？<br><br>$(0)<br><br>$(1)"""
 AddMsg_GatType_C#0,"""Collect"""
 AddMsg_GatType_F#0,"""Fishing"""
