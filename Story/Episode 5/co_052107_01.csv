@@ -1,6 +1,6 @@
 name01#0,"""Xiera"""
-linewindow#0,"""Destroy the Devil Castle!"""
-11_voice_navi09_war_059#0,"""Defeated the Devil Castle!<br>We may have managed this time, but who knows what our outcome will be later!"""
+linewindow#0,"""Destroyed the Devil Castle!"""
+11_voice_navi09_war_059#0,"""You've defeated the Devil Castle!<br>We may have managed this time, but who knows what our outcome will be later!"""
 text00#0,"""魔神城について"""
 text01#0,"""Devil Castles that appear in Buster Quests<br>will not be defeated even if you destroy<br>their cores.<br><br>You must destroy their heads to defeat them.<br><br>Powerful Demons will spawn and attack, as<br>well as powerful attacks from the Devil Castle.<br><br>Defeat the Devil Castle and seize your victory!"""
 11_voice_navi09_war_058#0,"""Great job!<br>Let's return!"""
