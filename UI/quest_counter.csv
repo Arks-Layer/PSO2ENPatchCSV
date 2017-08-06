@@ -724,7 +724,7 @@ MltPtMatching_hint_Message2#0,"""Players having the following 3 titles<br>will b
 MltPtMatching_hint_Message3#0,"""この設定をしていると<br>パーティーメンバーがブラックリストに<br>追加しているプレイヤーがいるルームに<br>入らないようになります。"""
 MltPtMatching_ExpertSetting_Disable#0,"""Expert setting not permitted.<br><br>This setting can only be set if<br>a certain title has been acquired."""
 MltPtMatching_Search#0,"""Search cross-blocks and accept orders"""
-MltPtMatching_Password_Title#0,"""Confirm password"""
+MltPtMatching_Password_Title#0,"""Confirm Password"""
 MltPtMatching_Password_Message#0,"""他パーティーとのマルチプレイが制限されているため<br>マルチパーティーが検索できません。<br><br>「すぐに出発する」からクエストを受注してください。<br><br><yellow>※他パーティーとのマルチプレイを制限して<br>\u3000作成したルームは「パーティーを検索して出発」の<br>\u3000検索対象になりません<c>"""
 MltPtMatching_Leader_Confirmation_Title#0,"""Quest Orders"""
 MltPtMatching_Leader_Confirmation_Message#0,"""Awaiting confirmation from other party members.<br>Please wait until everyone is ready.<br><br><yellow>※You will be moved into<br>the Campship once everyone is ready.<c>"""
