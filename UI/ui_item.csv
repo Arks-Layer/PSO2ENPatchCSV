@@ -7917,7 +7917,7 @@ ring_Adrenalin#1,"""Adrenaline/Ring<br>Increases duration of received<br>Shifta 
 ring_JBTechSCharge#1,"""JB Tech Arts Short Charge<br>Technique charge time is shortened<br>when following a Jet Boots PA."""
 ring_SlowDiveRoll#1,"""Slow Dive Roll<br>Increases the duration of Dive Roll<br>by reducing its speed."""
 ring_LauncherNotWeakUp#1,"""Launcher Non-Weak Bonus<br>While using Launchers, Weak Hit Advance<br>applies even if not hitting a weak point."""
-ring_DushJump#1,"""Step Jump<br>You can begin dashing by jumping<br>after a Step."""
+ring_DushJump#1,"""Step Jump<br>Start running again by jumping<br>after a Step Action."""
 ring_JustReversalJACombo#1,"""Just Reversal JA Combo<br>You can perform a Just Attack following<br>a Just Reversal."""
 ring_AirReversal#1,"""Air Reversal<br>Enables the use of Just Reversal<br>while still in the air."""
 ring_WideSupport#1,"""Wide Support/Ring<br>Increases the effect range of<br>Resta, Anti, Shifta and Deband."""
