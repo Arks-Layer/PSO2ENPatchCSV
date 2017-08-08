@@ -25,7 +25,7 @@ DirectBuy_PremiumTicket_3#0,"""<pict Arcscash><c ff4f3f>AC消費コンテンツ<
 DirectBuy_RentalContainer_1#0,"""Item Purchase Confirmation"""
 DirectBuy_RentalContainer_2#0,"""<pict Arcscash><c ff4f3f>ARKS Cash content<c><br>You either lack the right to use rental storage,<br>or the usage period has expired.<br><br>You could buy a rental storage ticket to enable it.<br>Would you like to advance to the purchase screen?"""
 DirectBuy_DishContainer_1#0,"""Item Purchase Confirmation"""
-DirectBuy_DishContainer_2#0,"""<pict Arcscash><c ff4f3f>AC消費コンテンツ<c><br>「素材倉庫」の利用権をお持ちでないか、<br>利用期限が切れています。<br><br><yellow>「素材倉庫利用」<c>を購入し、<br>そのまますぐに機能を有効にできますが、<br>購入確認画面に進みますか？"""
+DirectBuy_DishContainer_2#0,"""<pict Arcscash><c ff4f3f>ARKS Cash content<c><br>You lack the right to use the<br>[Material Storage], or the usage period<br>has expired.<br><br>You could buy a <yellow>[Material Storage Ticket]<c><br>and use it immediately.<br>Proceed to the purchase screen?"""
 DirectBuy_TermWindow_1#0,"""Item Purchase Confirmation"""
 DirectBuy_TermWindow_2#0,"""Here you can purchase and use function expansion items.<br>Would you like to make such a purchase?"""
 DirectBuy_ClientOrder_1#0,"""Item Purchase Confirmation"""
