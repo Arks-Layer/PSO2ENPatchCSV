@@ -57,7 +57,7 @@ MainFormElement1Info#0,"""Attack the enemies surrounding the<br>base. Base will 
 BaseName1#0,"""Green"""
 Condition_Base#0,"""$(0) $(1) $(2) $(3)"""
 Condition_None#0,"""None"""
-Condition_Info#0,"""<br><br>参加メンバーの平均GPによりエネミーが強化"""
+Condition_Info#0,"""<br><br>参加メンバーの平均BPによりエネミーが強化"""
 EnemyCondition_Base#0,"""<br><br><light_red>Enemy Strength<c><br>$(0)"""
 EnemyCondition_HP#0,"""HP +$(0)%"""
 EnemyCondition_Atk#0,"""Offensive Power +$(0)%"""
