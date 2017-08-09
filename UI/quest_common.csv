@@ -862,7 +862,7 @@ OnAttackPhase1Start2#0,"""Summoned the Buster Pile!<br>Let's break these barrier
 OnAttackPhase2Start0_0#0,"""Barriers have been destroyed! Now<br>let's take down the Devil Castle,<br>starting with the core on its stomach!"""
 OnAttackPhase2Start0_1#0,"""The Devil Castle is firing lasers<br>towards the Buster Towers over time!<br>Destroy the core as soon as possible!"""
 OnAttackPhase3Start0_0#0,"""Move towards the center of the<br>Devil Castle to begin attacking it!"""
-OnAttackPhase3Start0_1#0,"""The Devil Castle fires its<br>laser towards our towers!<br>Hurry and destroy it!"""
+OnAttackPhase3Start0_1#0,"""The Devil Castle is firing its<br>lasers towards our towers!<br>Hurry and destroy it!"""
 OnAttackPhase3Start1#0,"""Scale its defense mechanism and<br>attack the Weak Point of the<br>Devil Castle!"""
 OnDefencePhase1End0#0,"""The enemy assault has been suppressed!<br>We're summoning a Buster Pile.<br>Please prepare for the advancement!"""
 OnDefencePhase1End1#0,"""We'll start the summon and attack<br>the barriers! Collect Mana and<br>let's increase the number of Piles!"""
