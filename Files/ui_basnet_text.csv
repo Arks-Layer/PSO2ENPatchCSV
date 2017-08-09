@@ -57,7 +57,7 @@ MainFormElement1Info#0,"""拠点周辺のエネミーを攻撃し<br>一時的�
 BaseName1#0,"""緑"""
 Condition_Base#0,"""$(0)$(1)$(2)$(3)"""
 Condition_None#0,"""なし"""
-Condition_Info#0,"""<br><br>参加メンバーの平均GPによりエネミーが強化"""
+Condition_Info#0,"""<br><br>参加メンバーの平均BPによりエネミーが強化"""
 EnemyCondition_Base#0,"""<br><br><light_red>エネミー強化<c><br>$(0)"""
 EnemyCondition_HP#0,"""HP +$(0)%"""
 EnemyCondition_Atk#0,"""攻撃力 +$(0)%"""
