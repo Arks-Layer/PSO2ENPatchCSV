@@ -1,0 +1,7 @@
+name01#0,"""Xiera"""
+linewindow#0,"""Derrota a las fuerzas enemigas!"""
+11_voice_navi09_war_046#0,"""Las fuerzas enemigas fueron derrotadas! Ahora es tiempo de invocar el Buster Pile y destruir las Devil Barriers!"""
+text00#0,"""Acerca de la Fase Buster"""
+text01#0,"""Cuando la Fase de Defensa termina,<br>esta trasiende hacia la <c 00ffff>Fase Buster.<c><br><br>Durante la Fase Buster, el objetivo es<br>destruir todas las Devil Barriers que protegen el<br>Devil Castle."""
+text02#0,"""los <c 00ffff>Buster Piles<c> pueden destruir las devil barriers<br>creadas desde el Devil Castle.<br><br>Estos se invocan automaticamente durante<br>la Fase Buster mientras se aproxima al Devil Castle.<br><br><c ff4f3f>Cuando todos los buster piles invocadas<br>golpean y destruyen las Devil Barriers, o si estos son destruidos,<br>la Fase Buster terminara.<c>"""
+11_voice_navi09_war_048#0,"""Se ha detectado enemigos rodeandonos! Proteje el Buster Pile de romperse!"""
