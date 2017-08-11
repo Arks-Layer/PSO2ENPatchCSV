@@ -192,7 +192,7 @@ HelpMes38#0,"""PHANTASY STAR ONLINE2 の世界の<br>謎に迫る物語のエピ
 HelpMes39#0,"""PHANTASY STAR ONLINE2 の世界の<br>謎に迫る過去の物語のエピソードを<br>総集編で体験するクエストです。"""
 HelpMes40#0,"""制限時間内に戦力ゲージを減らし、敵勢力を<br>撃破することを目的としたクエストです。<br><br>キャラクターごとに保存される<br>バスターポイントによって自動的に<br>マッチングが行われ、受注回数に制限のある<br>「メインマッチ」、「メインマッチ：上級」では<br>勝敗によってバスターポイントが変動します。<br><br>また「フリーマッチ」にて勝利することで<br>「メインマッチ」、「メインマッチ：上級」の<br>受注回数を回復することができます。"""
 HelpMes41#0,"""クラス「ヒーロー」の戦闘操作や技術を<br>実戦形式で練習できます。<br><br>「ヒーロー」は、<br>打撃・射撃・法撃の３種の武器を扱い<br>あらゆる状況に対応できる上級クラスです。<br><br>※練習クエストでは、あなたのキャラクターの<br>\u3000<yellow>強さや装備が専用の設定になります。<c><br>\u3000また、倉庫も利用できません。<br><br>※終了後、別のブロックに戻ることがあります。"""
-HelpMes42#0,"""A quest that can be picked up<br>for a specific campaign, or<br>ARKS Boost Rally, etc.<br><br>You can complete a target quest<br>that has a qualitfying campaign<br>attached by doing a quest listed<br>from this option.<br><br><yellow>※During ARKS Boost Rally, only<br>ABR campaign quests will be listed here.<c>"""
+HelpMes42#0,"""A quest that can be picked up<br>for a specific campaign, or<br>ARKS Boost Rally, etc.<br><br>You can complete a target quest<br>that has a qualifying campaign<br>attached by doing a quest listed<br>from this option.<br><br><yellow>※During ARKS Boost Rally, only<br>ABR campaign quests will be listed here.<c>"""
 Title#3,"""Episode Select"""
 ItemName#0,"""Episode $(0)"""
 Title#4,"""Quest Selection"""
