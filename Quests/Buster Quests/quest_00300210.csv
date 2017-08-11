@@ -48,6 +48,6 @@ OnTimeDecrease1#0,"""Our combat time has almost depleted!<br>Just a little more,
 OnSuccessTimeover#0,"""The enemy forces are retreating!<br>The damage we've received is minimum!<br>And we have seized victory!"""
 OnSuccessBreakGauge#0,"""The Devil Castle has been destroyed!<br>We have grasped victory!"""
 OnSuccessReturn#0,"""Thank you for your hard work!<br>Please return."""
-OnFailureTimeover#0,"""Buster towerss have been damaged.<br>Fighting is hard.<br>Let's retreat at once."""
-OnFailureAnnihilationBase#0,"""All of the towerss have been<br>destroyed... Since we cannot<br>fight anymore, let's retreat."""
+OnFailureTimeover#0,"""Buster towers have been damaged.<br>Fighting is hard.<br>Let's retreat at once."""
+OnFailureAnnihilationBase#0,"""All of the towers have been<br>destroyed... Since we cannot<br>fight anymore, let's retreat."""
 OnFailureReturn#0,"""I see, it cannot be helped...<br>Please return."""
