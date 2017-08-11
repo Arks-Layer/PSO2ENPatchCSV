@@ -99,7 +99,7 @@ ChangeFigureConfirm#0,"""マグ形態変更パスを使用し、<br>「$(0)」�
 SortItemFavorite#0,"""By Favorites"""
 SameFigureError#0,"""現在と同じ形態であるため、<br>選択することができません。"""
 LevelError#0,"""Mag appearance cannot be changed before Lv100."""
-ChangeFigurePassError#0,"""You need a Mag Apprearance Pass<br>to change your mag."""
+ChangeFigurePassError#0,"""You need a Mag Appearance Pass<br>to change your mag."""
 FavoriteMaxError#0,"""お気に入り登録数が上限の20件に<br>達しているため、登録することができません。"""
 ChangeFigureResult#0,"""Your Mag has been changed to [$0]."""
 RegisterFavoriteResult#0,"""お気に入りに登録しました。"""
