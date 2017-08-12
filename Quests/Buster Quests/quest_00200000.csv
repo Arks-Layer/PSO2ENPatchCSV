@@ -1,5 +1,5 @@
 Title#0,"""Battle the Devil Castle"""
-Explanation#0,"""The Devil Castle in Omega has activated.<br>There is a battle currently underway and<br>we need to help destroy the Devil Castle.<br>We'll use our new weapons, the Buster<br>Piles, to break through the Devil Barriers.<br>They'll be the key to winning this fight.<br>Let's get to it, Guardians!<br>――――――――――――――――――――<br>Quest ends when time limit expires.<br>When the enemy gauge hits 0, you win."""
+Explanation#0,"""The Devil Castle in Omega has activated.<br>There is a battle currently underway and<br>we need to help destroy the Devil Castle.<br>We'll use our new weapons, the Buster<br>Piles, to break through the Devil Barriers.<br>They'll be the key to winning this fight.<br>Let's get to it, Guardians!<br>――――――――――――――――――――<br>Quest ends when time limit expires<br>or the Devil Castle is defeated."""
 SimpleExplanation#0,"""Defeat the Devil Castle!"""
 OnQuestBegin_0#0,"""The enemy forces are preparing to<br>attack! Collect enough Mana for any of the weapons set in place!"""
 OnQuestBegin_1#0,"""When you amass enough Mana, ARKS<br>weapons are strengthened and the<br>number of summoned spawns are increased!"""
