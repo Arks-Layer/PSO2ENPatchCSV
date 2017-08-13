@@ -4,4 +4,4 @@ text03#0,"""まずは、カフェの店員さんに<br>お願いしてみてく�
 text04#0,"""フランカさん発案の調理システムで<br>瞬時に料理ができあがりー！<br>試してみてくださいねー。"""
 text100#0,"""About Gathering Cuisine"""
 text101#0,"""By using cooked food items, you<br>can gain special effects for a while,<br>such as the following:<br><br>Example<br><green>Forest Tomato Salad<c><br>・Vegetable acquisition and additional harvest<br> rates slightly increased while harvesting<br><br><green>Tokyo Style Burger<c><br>・Immediately recover HP<br><br><yellow>※Cooked items can be set to the subpalette<c>"""
-text102#0,"""As you achieve <yellow>Gathering Achievements<c>,<br>you will get recipes for new dishes, and the<br><green>Cooking Shop's<c> menu will expand.<br><br>While a food effect is active, if you<br>use another dish, it will overwrite<br>the previous effect."""
+text102#0,"""As you achieve <yellow>Gathering Achievements<c>,<br>you will get recipes for new dishes, and the<br><green>Culinary Shop's<c> menu will expand.<br><br>While a food effect is active, if you<br>use another dish, it will overwrite<br>the previous effect."""
