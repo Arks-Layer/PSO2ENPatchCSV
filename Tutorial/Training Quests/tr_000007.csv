@@ -1,6 +1,6 @@
 name01#0,"""Xiera"""
-text01#0,"""[<red>Foie<c>] shoots a fireball in front of you. This is a basic fire technique, and becomes stronger when charged."""
+text01#0,"""[<red>Foie<c>] shoots a fireball in front of<br>you. This is a basic fire technique, and becomes stronger when charged."""
 text02#0,"""All enemies have <red>elemental weaknesses<c>, so make sure to check them and choose the correct technique for each situation!"""
 11_voice_train_04003#0,"""This concludes the [Technique Basics] lesson."""
-11_voice_train_04004#0,"""Please continue your training!"""
+11_voice_train_04004#0,"""Please try our other training!"""
 text101#0,"""Task Completed!"""
