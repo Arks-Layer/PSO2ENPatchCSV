@@ -2351,7 +2351,7 @@ PetElementPPRestraint#1,"""Recupera PP con los ataques basicos de la mascota si 
 LongDistanceLove#1,"""La peticion de Shifta/Resta de tu pet se pede cumplir incluso cuando no está cerca.<yellow> Sólo clase principal."""
 TakeOver#1,"""Al cambiar de mascotas, el efecto de Simpatía, Shifta, Deband se transporta a la siguiente mascota. <yellow>Sólo clase principal."""
 Intensive#1,"""El poder aumenta gradualmente con el tiempo. Se restablece al recibir un cierto porcentaje de daño en un corto tiempo."""
-WpnmanWeaponBonus1#1,"""Equipar una Sword, Twin Machinegun o Talis aumenta el poder.""
+WpnmanWeaponBonus1#1,"""Equipar una Sword, Twin Machinegun o Talis aumenta el poder."""
 WpnmanWeaponBonus2#1,"""Equipar una Sword, Twin Machinegun o Talis aumenta el poder."""
 WeakAttackCritical#1,"""Aumenta el porcentaje de críticos en los puntos débiles y las técnicas que coinciden con debilidad elemental."""
 WpnmanCounter#1,"""Obtienes un bono de poder tras esquivar un ataque."""
