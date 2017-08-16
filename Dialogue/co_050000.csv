@@ -1,0 +1,4 @@
+linewindow001#0,"""[EPISODE 5] was released.<br><br>You're currently on [EPISODE 4].<br>Do you want to start [EPISODE 5] now?<br><yellow>※You can return to [EPISODE 4] later.<c>"""
+linewindow001#1,"""[EPISODE 5] was released.<br><br>You're currently on [EPISODE 4].<br>Would you like to switch to [EPISODE 5]?<br><yellow>※By talking to Xiera, you can switch between modes.<c>"""
+window_message_0010#0,"""Start [EPISODE 5]"""
+window_message_0020#0,"""Start [EPISODE 4]"""

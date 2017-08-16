@@ -1,7 +1,7 @@
 #!/bin/sh
-dups=$(find . -maxdepth 1 -type d -not -name "Files" -not -path "*/.git" -not -path "*/_*" -not -path "." -print0|./_tools/mp.sh -I{} -0 find {} -type f -print0 |./_tools/mp.sh -0 basename -a | ./_tools/mp.sh -I{} find Files -name "{}"|./_tools/mp.sh basename -a| ./_tools/mp.sh -n 1 -I{} echo "{}\n")
-if [ -n "$dups" ]; then
-	printf "duplicate files founds in File folder\n "
-	echo $dups
+find . -type f -name "*.csv" -print0|_tools/mp.sh -0 basename -a -z|sort -z|uniq -d -z|xargs -0 -n1 echo|strings -n1>/tmp/dups.stdout
+if [ -s /tmp/dups.stdout ]; then
+	echo Found duplicate files
+	cat /tmp/dups.stdout
 	exit 1
 fi

@@ -1,4 +1,4 @@
-name01#0,"""How to Switch Your Weapons"""
+name01#0,"""Switching Weapons"""
 text01#0,"""This will instruct you on how to change your weapon."""
 text02#0,"""You can register multiple weapons, which can be switched between in battle on the Weapon Palette. Select one of the weapons from the Weapon Palette to equip it."""
 text03#0,"""You can cycle through weapons on the Weapon Palette using the following buttons. <br>Move Up:<%PaletteReverse><br>Move Down: <%PaletteForce><br><br>Finally, press <%Access> to confirm and equip your weapon."""

@@ -7,7 +7,7 @@ NpcComOnBegin#1,"""Outbreak of $(0) <br>has been confirmed in the vicinity. <br>
 NpcComOnSuccess#1,"""Target neutralization has <br>been confirmed. Nicely <br>done, lifting martial law."""
 NpcComOnBegin#2,"""Ah! Aaah! $(0) <br>appeared nearby! Be careful!"""
 NpcComOnSuccess#2,"""/face2 Target readings have disappeared! <br>Good work, thank you!"""
-NpcComOnBegin#3,"""Confirmed enemy reactions of<br>$(0) in the area!"""
+NpcComOnBegin#3,"""Confirmed the reaction of $(0)<br>enemies in the area!"""
 NpcComOnSuccess#3,"""Target reaction eliminated.<br>Return to your normal mission."""
 NpcComOnBegin#4,"""We have confirmed readings<br>of $(0) in the area!<br>Be on your guard!"""
 NpcComOnSuccess#4,"""Target readings disappeared.<br>Stay safe out there!"""

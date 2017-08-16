@@ -16,10 +16,10 @@ for i in sys.argv[1:]:
 		for x, row in enumerate(QC):
 			#print(row)
 			try:
-				QCrow = list(csv.reader(row,strict=True))
+				QCrow = list(csv.reader(row, strict=True))
 			except:
 				#print(row)
-				print("Issue in File {}:{}".format(i, x+1))
+				print("Issue in File {}:{}".format(i, x + 1))
 				err = 1
 			#print(QCrow)
 
