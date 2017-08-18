@@ -1,0 +1,8 @@
+name01#0,""" Xiera """
+name02#0,""" Xiera """
+name03#0,""" Xiera """
+11_voice_navi09_war_038#0,"""Explosión a través del Devil Castle！"""
+text00#0,"""Cómo derrotar al Devil Castle"""
+text01#0,"""Esta misión tiene como objetivo destruir el Devil Castle<br>Mientras protege las <c 00ffff>Buster Towers<c>.<br><br>Protege las torres durante la <c 00ffff>fase de defensa<c><br>Y durante la <c 00ffff>Buster Phase<c>, asaltarás el castillo.<br>Esto progresará alternando las fases repetidamente.<br><br>Entre las dos fases, habrá un <c 00ffff>tiempo de descanso<c><br>Para prepararse para cada transición de fase."""
+text02#0,"""Puede comprobar el estado de sus fuerzas<br>Y las enemigas a través del <c 00ffff>Strength Gauge<c>. <br>Ganaremos si el <yellow>Devil Castle es destruido<c> o<br>si el tiempo se agota, y el indicador de, <yellow>Strength Gauge<c><br>es más alto que el enemigo.<br>El indicador de fuerza disminuirá si:<br><c 00ffff>◇Tus fuerzas<c><br>・La torre recibe daños<br><br><c 00ffff>◇Fuerzas Enemigas<c><br>・Devil Castle es destruido<br>・Castillo recibe daños"""
+text03#0,"""Cuando un jugador no puede pelear,<br>Ellos son resucitados automáticamente<br>Desde un punto de retorno, después de <br>un período de tiempo.<br>Además, también es posible<br>Utilizar un Moon Atomizer."""
