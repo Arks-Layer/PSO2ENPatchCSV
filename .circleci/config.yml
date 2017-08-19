@@ -20,7 +20,7 @@ jobs:
           command: apt-get -qq update
       - run:
           name: Install rsync and parallel
-          command: apt-get -qq -y install rsync parallel
+          command: apt-get -qq -y install rsync parallel strace
       - checkout
       - run:
           name: Add upstream repos
@@ -63,7 +63,7 @@ jobs:
           command: apt-get -qq -y install aspell-en
       - run:
           name: spell check CSVs
-          command: bash -x ./_sh/aspell.sh|tee /tmp/spellcheck.txt|bash -x ./_tools/sortaspell.sh|tee /tmp/dict.txt
+          command: strace -o /tmp/strace.log  -e trace=process -f -- bash -c "bash -x ./_sh/aspell.sh|tee /tmp/spellcheck.txt|bash -x ./_tools/sortaspell.sh|tee /tmp/dict.txt"
       - run:
           name: output in GetText PO
           command: bash ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
