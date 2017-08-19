@@ -11648,7 +11648,7 @@ MemberDead#179,"""……仲間も守れない自分自身の<br>不甲斐なさ�
 AbilityExe#178,"""よーし、調子出てきましたよ！"""
 AbilitySpecial#176,"""今なら、何だってできます！"""
 Resurrect#178,"""目標があるんです！<br>だから、休んでられません！"""
-PartyJoin#178,"""/ci2 2 戦闘部所属、ストラトス！<br>参上です！"""
+PartyJoin#178,"""/ci2 2 Combat Division Representative<br>Stratos! I have arrived!"""
 Marvelous#178,"""動きを目に焼き付けています！"""
 IncidentJsApcBegin#164,"""/ci2 3 <%me>さん！<br>お手数をおかけしますが<br>手伝っていただけませんか！"""
 IncidentJsApcFailure#164,"""うう……なんて不甲斐ない姿……<br>すみません、先に退きます……！"""
