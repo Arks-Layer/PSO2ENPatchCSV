@@ -1,6 +1,6 @@
 name01#0,"""Xiera"""
 text01#0,"""You've learned the Technique!<br>Next, let's set the Technique you learned to your <red>weapon palette<c>."""
-train_title#0,"""Task 1：<yellow>Learn and equip [Foie]"""
+train_title#0,"""Task 1: <yellow>Learn and equip [Foie]"""
 tut_title#0,"""Setting Techniques"""
 text100#0,"""・Select [Equip Weapons] from the main menu<br>・Select a slot<br>・Select the Technique you want to set"""
 tut_win_title#0,"""Learning and Setting Techniques"""
