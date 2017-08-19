@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: /root/PSO2
     docker:
-      - image: python:3
+      - image: python:3-stretch
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
