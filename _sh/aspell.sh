@@ -8,3 +8,11 @@ if [ -e aspell.disabled ]; then
 	exit 0
 fi
 find . -name "*.csv" -not -name "smut_filter.csv" -not -name "*_BACKUP_*.csv" -not -name "*_BASE_*.csv" -not -name "*_REMOTE_*.csv" -not -path "./.git/*" -not -path "./Files/*" -not -name "oa_tanabata.csv" -print0|_tools/mp.sh -0 _py/aspell.py|strings -n 2|tee /tmp/strings.txt|_tools/mp.sh --round-robin --pipe aspell pipe --personal=/tmp/PSO2.dict --mode=none --encoding utf-8 --lang=$LANGDICT|strings -n 2|fgrep -v -e "*" -e "spell "
+rc=$?
+if [ -e aspell.warning ]; then
+	if [ rc -ne 0 ]; then
+		exit 0
+	exit 1
+	fi
+fi
+exit 0
