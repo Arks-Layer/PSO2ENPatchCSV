@@ -5,8 +5,8 @@ jobs:
     docker:
       - image: python:3-stretch
         environment:
-          PARALLEL_SHELL: /bin/bash -x
-          SHELL: /bin/bash -x
+          PARALLEL_SHELL: /bin/sh
+          SHELL: /bin/sh
           PARALLEL: --joblog /tmp/mp.log
     branches:
       ignore:
