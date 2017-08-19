@@ -15,6 +15,7 @@ aspellt = [
 	('*', ' '),
 	('(', ' '),
 	(')', ' '),
+	('<br>', ' '),
 	('\\', ' '),
 	('/', ' '),
 	('-', ' '),
@@ -37,10 +38,10 @@ def replacemark(input):
 	for char in input:
 		if char == '<':
 			markmode = True
-		elif char == '>':
-			markmode = False
-		if markmode is False:
+		elif markmode is False:
 			output.append(char)
+		if char == '>':
+			markmode = False
 	return "".join(output)
 
 
@@ -53,7 +54,7 @@ def replacespell(input):
 
 
 def checkwords(input):
-	return replacespell(replacemark(input))
+	return replacemark(replacespell(input))
 
 
 bufout = ""
