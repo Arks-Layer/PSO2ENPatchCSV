@@ -7,6 +7,7 @@ jobs:
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
+          PARALLEL: --joblog /tmp/mp.log
     branches:
       ignore:
         - develop
@@ -78,3 +79,6 @@ jobs:
       - store_artifacts:
           path: /tmp/dict.txt
           destination: dict.txt
+      - store_artifacts:
+          path: /tmp/mp.log
+          destination: mplog.txt
