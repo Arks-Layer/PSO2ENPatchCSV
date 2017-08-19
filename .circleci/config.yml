@@ -82,3 +82,6 @@ jobs:
       - store_artifacts:
           path: /tmp/mp.log
           destination: mplog.txt
+      - store_artifacts:
+          path: /tmp/strace.log
+          destination: stracelog.txt
