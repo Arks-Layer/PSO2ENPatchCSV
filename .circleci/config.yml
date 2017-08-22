@@ -3,10 +3,11 @@ jobs:
   build:
     working_directory: /root/PSO2
     docker:
-      - image: python:3
+      - image: python:3-stretch
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
+          PARALLEL: --block 43K
     branches:
       ignore:
         - develop
@@ -78,3 +79,6 @@ jobs:
       - store_artifacts:
           path: /tmp/dict.txt
           destination: dict.txt
+      - store_artifacts:
+          path: /tmp/mp.log
+          destination: mplog.txt
