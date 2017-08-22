@@ -7,7 +7,7 @@ jobs:
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
-          PARALLEL: --joblog /tmp/mp.log
+          PARALLEL: --block 43K
     branches:
       ignore:
         - develop
