@@ -39,6 +39,7 @@ aspellt = [
 	('７', '7'),
 	('８', '8'),
 	('９', '9'),
+	('†', ""),
 ]
 
 
@@ -67,9 +68,8 @@ def checkwords(input):
 	return replacemark(replacespell(input))
 
 
-bufout = ""
-
 for i in sys.argv[1:]:
+	bufout = ""
 	with codecs.open(i, encoding="utf-8") as aspelldict:
 		WCCSV = list(csv.reader(aspelldict, strict=True))
 		for row in WCCSV:
@@ -78,6 +78,6 @@ for i in sys.argv[1:]:
 					check = checkwords(col)
 					if check != '""':
 						bufout += "\n{0}".format(check)
+	print(bufout)
 
 
-print(bufout)
