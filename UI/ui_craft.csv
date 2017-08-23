@@ -363,7 +363,7 @@ ChargeMessage#0,"""Because you do not posses any Lilliparium,<br>the cooling tim
 AddLineDisableMessage#0,"""このクラフトラインは使用できません。<br>$(0)を追加することで購入可能になります。"""
 LineChargeTimeRemain#0,"""残り： $(0)"""
 LineChargeTimeSecond#0,"""1分未満"""
-ChargeItemUseConfirmMessage#0,"""<pict Arcscash> <c 5fdf00>Usando Objetos comprados<c><br>si usas un <yellow>Lilliparium<c>,<br>podras reducir el enfriamiento de los slots<br>de crafteo.<br>Puedes obtener Lilliparium atraves de las misiones o comprandolos en la tienda de AC. Lilliparium mas grandes tendran una mayor reduccion en el enfriamiento.<br><br>Usaras un Lilliparium y reduciras el enfriamiento de crafteo?"""
+ChargeItemUseConfirmMessage#0,"""<pict Arcscash> <c 5fdf00>Usando Objetos comprados<c><br>si usas un <yellow>Lilliparium<c>,<br>podras reducir el enfriamiento de los slots<br>de crafteo.<br>Puedes obtener Lilliparium atraves de las misiónes o comprandolos en la tienda de AC. Lilliparium mas grandes tendran una mayor reduccion en el enfriamiento.<br><br>Usaras un Lilliparium y reduciras el enfriamiento de crafteo?"""
 ChargeItemSelectTitle#0,"""Cooloff reduction item selection"""
 ChargeItemSelectMessage#0,"""Por favor selecciona el Lilliparium que queires usar."""
 SelectChargeItemUseConfirmMessage#0,"""This will reduce the cooloff time by using the $(0).<br>¿Continuar?"""
