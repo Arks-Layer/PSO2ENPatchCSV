@@ -904,7 +904,7 @@ OnDefencePhaseEnemyDecrease0#1,"""<c 8cf0ff>Only half of the enemy forces remain
 OnDefencePhaseEnemyDecrease1#1,"""<c 8cf0ff>Just a bit of them left!<c>"""
 OnRamCountIncrease#1,"""<c 8cf0ff>Mana Lv.UP! Number of Buster Piles increased! Buster Tower healed & our weapons strengthened!<c>"""
 OnMatLvUpAfterRamMax#1,"""<c 8cf0ff>Mana Lv.UP! Buster Tower healed & our weapons strengthened!<c>"""
-OnBoostStart#0,"""メインマッチブーストの回数を消費し、 Boost Effect applied."""
+OnBoostStart#0,"""Consumed a Main Match Boost, Boost Effect applied."""
 OnBrokenBase#0,"""$(0) has been destroyed! ($(1) left)"""
 OnTimeDecreaseRate#1,"""戦闘終了まで、残り半分！"""
 OnTimeDecreaseSecond#1,"""One minute remaining!"""
