@@ -27,7 +27,7 @@ DirectBuy_RentalContainer_2#0,"""<pict Arcscash><c ff4f3f>Arks Cash content<c><b
 DirectBuy_DishContainer_1#0,"""アイテム購入確認"""
 DirectBuy_DishContainer_2#0,"""<pict Arcscash><c ff4f3f>AC消費コンテンツ<c><br>「素材倉庫」の利用権をお持ちでないか、<br>利用期限が切れています。<br><br><yellow>「素材倉庫利用」<c>を購入し、<br>そのまますぐに機能を有効にできますが、<br>購入確認画面に進みますか？"""
 DirectBuy_TermWindow_1#0,"""Compra confirmada"""
-DirectBuy_TermWindow_2#0,"""Aqui se puede comprar y usar objetos de expansion de funciónes<br>¿Le gustaria realizar la compra?"""
+DirectBuy_TermWindow_2#0,"""Aqui se puede comprar y usar objetos de expansion de funciónes<br>¿Le gustaría realizar la compra?"""
 DirectBuy_ClientOrder_1#0,"""Compra confirmada"""
 DirectBuy_ClientOrder_2#0,"""<pict Arcscash> <c ff4f3f>Contenidos de Consumo AC<c><br>No tienes permiso para utilizar \""Aumento de ordenes\""<br>El uso ha expirado.<br><br>Compra <yellow>「Extencion de ordenes」<c> para<br>permitir el uso de esta función<br>puedes ir a la pantalla de compra de AC"""
 DirectBuy_EquipNote_1#0,"""Item Confirmacion de compra"""
