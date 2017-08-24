@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 import codecs
 import os
+import unicodedata
 import sys
 
 
@@ -1113,7 +1114,7 @@ for i in sys.argv[1:]:
 				#print(char)
 				if not checkcmap(char):
 					#print(line[y])
-					print("{}\t{}\t{}\t{}".format(i, x + 1, y + 1, hex(ord(char))))
+					print("{}\t{}\t{}\t{}\t{}".format(i, x + 1, y + 1, hex(ord(char)), unicodedata.name(char,"UNKNOWN")))
 					if err == os.EX_OK:
 						err = os.EX_DATAERR
 
