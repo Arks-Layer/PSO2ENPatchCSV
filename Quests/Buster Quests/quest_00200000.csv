@@ -1,5 +1,5 @@
 Title#0,"""Batalla contra el Devil Castle"""
-Explanation#0,"""El Devil Castle en Omega se ha activado.<br>Hay una batalla actualmente en curso y<br>Necesitamos ayudar para destruirlo.<br>Utilizaremos nuestras nuevas armas, <br>Los Buster Piles, para romper las Barreras.<br>Serán la clave para ganar esta pelea.<br>¡Vamos, Guardianes!<br>――――――――――――――――――――<br><br>La mision termina cuando expira el tiempo <br>límite o el Devil Castle es destruido."""
+Explanation#0,"""El Devil Castle en Omega se ha activado.<br>Hay una batalla actualmente en curso y<br>Necesitamos ayudar para destruirlo.<br>Utilizaremos nuestras nuevas armas, <br>Los Buster Piles, para romper las Barreras.<br>Serán la clave para ganar esta pelea.<br>¡Vamos, Guardianes!<br>――――――――――――――――――――<br><br>La misión termina cuando expira el tiempo <br>límite o el Devil Castle es destruido."""
 SimpleExplanation#0,"""¡Derrota al Devil Castle!"""
 OnQuestBegin_0#0,"""¡Las fuerzas enemigas se preparan para atacar!<br>¡Recoge Mana para utilizarlas con las armas<br>establecidas!"""
 OnQuestBegin_1#0,"""Cuando acumulan suficiente Mana,<br>las armas ARKS se fortalecen<br>y puedes combocar mayor cantidad!"""

@@ -11,7 +11,7 @@ NpcComOnMge2Dead#0,"""El objetivo ha sido derrotado.<br>Pero todavia quedan mas.
 NpcComOnMge3Attack#0,"""Detecto altas ondas de energia en el<br>interior del objetivo, todos los A.I.S.,<br>evadan el ataque!"""
 NpcComOnMge3Hp50#0,"""Estan disminuyendo sus lecturas<br>vitales sigan con el ataque!"""
 NpcComOnMge3Hp10#0,"""目標の体力はあとわずか。<br>これで最後、一気に仕留めて<br>終わりにしましょう！"""
-NpcComOnSuccess#0,"""Ha sido confirmada la desaparicion de<br>\""MagaTsu Sai\"". La mision se ha completado.<br>Felicitaciones por su buen trabajo."""
+NpcComOnSuccess#0,"""Ha sido confirmada la desaparicion de<br>\""MagaTsu Sai\"". La misión se ha completado.<br>Felicitaciones por su buen trabajo."""
 NpcComOnBegin#1,"""＊"""
 NpcComOnMge1Hp50#1,"""＊"""
 NpcComOnMge1Hp10#1,"""＊"""

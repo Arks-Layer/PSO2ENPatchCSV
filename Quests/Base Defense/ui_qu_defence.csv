@@ -47,7 +47,7 @@ Terminal_ErrorMessage_5#0,"""Este socket de defensa no esta disponible,<br>no se
 Terminal_BreakTitle#0,"""Mensaje"""
 Terminal_BreakMessage#0,"""No se puede acceder a esta base porque<br>fue destruida."""
 Terminal_FinishTitle#0,"""Mensaje"""
-Terminal_FinishMessage#0,"""No se puede acceder a esta base porque<br>la mision se ha completado."""
+Terminal_FinishMessage#0,"""No se puede acceder a esta base porque<br>la misión se ha completado."""
 Terminal_VehicleTitle#0,"""Mensaje"""
 Terminal_VehicleMessage#0,"""No se puede acceder a esta base porque<br>estas utilizando un vehiculo."""
 Terminal_Action_1#0,"""Activar barrera"""

@@ -38,7 +38,7 @@ EditForm_Alpha_Exp#0,"""Por favor Selecciona un transparency level for the part.
 MoneyForm_Title#0,"""-"""
 MoneyForm_Button_Up#0,"""-"""
 MoneyForm_Exp#0,"""-"""
-EditForm_Title#0,"""Edicion de symbol art"""
+EditForm_Title#0,"""Edición de symbol art"""
 EditForm_Button_Save#0,"""Guardar"""
 EditForm_Button_AsSave#0,"""Guardar en otro slot"""
 EditForm_Button_NameEdit#0,"""Editar nombre"""

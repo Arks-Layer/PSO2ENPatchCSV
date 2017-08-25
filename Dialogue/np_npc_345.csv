@@ -1,5 +1,5 @@
-00_01#0,"""Opcion 1"""
-00_02#0,"""Opcion 2"""
+00_01#0,"""Opción 1"""
+00_02#0,"""Opción 2"""
 TALK_ST#0,"""Hablar"""
 C_ORDER_ST#0,"""Escuchar los detalles"""
 Q0#0,"""Te explicare como jugar"""
