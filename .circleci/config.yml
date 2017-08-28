@@ -67,6 +67,9 @@ jobs:
       - run:
           name: output in GetText PO
           command: bash ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
+      - run:
+          name: Are there spell mistakes
+          command: find . -maxdepth 1 -name "aspell.nofail"|egrep '.*' > /dev/null||exit `stat --format "%s" /tmp/dict.txt`
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
