@@ -12,7 +12,7 @@ ErrorCodeText#0,"""Codigo de error"""
 OkButtonText#0,"""OK"""
 WebButtonText#0,"""Visita el sitio oficial"""
 ShopButtonText#0,"""Visita el sitio de compras"""
-WebURL#0,"""<&URL pso2_players>"""f
+WebURL#0,"""<&URL pso2_players>"""
 ShopURL#0,"""<&URL AC_CHARGE_PAGE>"""
 TokuteiURL#0,"""<&URL pso2_players_support_rule_tokutei>"""
 TokuteiURL_v#0,"""<&URL pso2_players_support_rule_tokutei_vita>"""
