@@ -235,7 +235,7 @@
 15_ChallengeCommon_008#0,"""During a Challenge Quest, you can get items, units and<br>weapons from Recycle Shops in interval areas."""
 15_ChallengeCommon_009#0,"""チャレンジクエスト中に誰か一人でもインターバルエリアに到達すると、<br>ミッション中の他プレイヤーは全員インターバルエリアへ強制転送される。"""
 15_ChallengeCommon_010#0,"""If you are transported to an interval area during a Challenge Quest <br>while incapacitated, VR energy will not be recovered."""
-15_ChallengeCommon_011#0,"""You will be awarded Challenge Miles based on your Challenge Quest results.<br>but you can also earn them by picking up Mile Crystals."""
+15_ChallengeCommon_011#0,"""You will be awarded Challenge Miles based on your Challenge Quest results,<br>but you can also earn them by picking up Mile Crystals."""
 15_ChallengeCommon_012#0,"""チャレンジクエストのリザルトで獲得できるチャレンジマイルは、<br>パーティー人数や、戦闘不能帰還数でもボーナスを得ることができる。"""
 15_ChallengeCommon_013#0,"""チャレンジクエスト内では各クラスのスキルがディスク化されており、<br>プレイヤーの好みや、メンバー内の相談などで自由に習得することができる。"""
 15_ChallengeCommon_014#0,"""チャレンジマイルは所属シップのチャレンジマイル交換ショップで<br>各種アイテムや、チャレンジ専用の報酬と交換することができる。"""
