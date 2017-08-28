@@ -6,7 +6,5 @@ train_title#0,"""課題２：<yellow>ソードでジャストガードを３回�
 tut_title#0,"""ジャストガードについて"""
 text100#0,"""・エネミーの攻撃が当たる直前に<br>\u3000<%WeaponAction>でガードする"""
 text100_3b#0,"""・エネミーの攻撃が当たる直前に<br>\u3000<%MainPaletteC>でガードする"""
-tut_win_title#0,"""ジャストガードについて"""
-tut_win_text100#0,"""<c 00ffff>敵からの攻撃を受ける直前に、<br>タイミングよく『ガード』を行うことで<br>『ジャストガード』が発生し、ダメージを０に<br>することができます。<br>ジャストガードは、ＰＰの消費もなく使えます。<c><br><br>さらに、敵にガードアーツによる反撃ダメージを<br>与えることができる近接戦闘において、<br>優秀なスキルです。"""
 tut_win_title#0,"""Just Guard"""
 tut_win_text100#0,"""<c 00ffff>A Just Guard occurs when you time a Guard right before taking an enemy attack, and reduces damage to 0.<br>Just Guarding does not cost PP.<c><br><br>In addition, some Guarded damage will be reflected back to the enemy, making it an excellent skill for close-range combat."""
