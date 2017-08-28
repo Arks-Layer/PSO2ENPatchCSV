@@ -36,7 +36,7 @@ jobs:
           command: ./_sh/BOM.sh
       - run:
           name: Verify CSVs
-          command: bash ./_sh/CSV.sh
+          command: ./_sh/CSV.sh
       - run:
           name: Verify Font rendering
           command: ./_sh/Fonts.sh
@@ -45,31 +45,34 @@ jobs:
           command: ./_sh/checkFiles.sh
       - run:
           name: Checking DUP folders
-          command: bash ./_sh/dupfolders.sh
+          command: ./_sh/dupfolders.sh
       - run:
           name: checking CSVs for quote issues
-          command: bash ./_sh/quote.sh
+          command: ./_sh/quote.sh
       - run:
           name: Check for dup lines
-          command: bash ./_sh/dupCSV.sh
+          command: ./_sh/dupCSV.sh
       - run:
           name: verifing CSVs for PSO2 format
-          command: bash ./_sh/check.sh
+          command: ./_sh/check.sh
       - run:
           name: coverage CSVs
-          command: bash ./_sh/coverage.sh>/tmp/coverage.txt
+          command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
           name: Install GNU Aspell spell-checker
           command: apt-get -qq -y install aspell-fr
       - run:
           name: spell check CSVs
-          command: bash ./_sh/aspell.sh|tee /tmp/spellcheck.txt|./_tools/sortaspell.sh|tee /tmp/dict.txt
+          command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt
+      - run:
+          name: sort out spelling mistakes
+          command: cat /tmp/spellcheck.txt|./_tools/sortaspell.sh > /tmp/dict.txt
       - run:
           name: output in GetText PO
-          command: bash ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
+          command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - run:
           name: Are there spell mistakes
-          command: find . -maxdepth 1 -name "aspell.nofail"|egrep '.*' > /dev/null||exit `stat --format "%s" /tmp/dict.txt`
+          command: cat /tmp/dict.txt;find . -maxdepth 1 -name "aspell.nofail"|egrep '.*' > /dev/null||exit `stat --format "%s" /tmp/dict.txt`
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
