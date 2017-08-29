@@ -72,7 +72,7 @@ jobs:
           command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - run:
           name: Are there spell mistakes
-          command: cat /tmp/dict.txt;find . -maxdepth 1 -name "aspell.nofail"|egrep '.*' > /dev/null||exit `stat --format "%s" /tmp/dict.txt`
+          command: cat /tmp/dict.txt;find . -maxdepth 1 -name "aspell.nofail"|egrep '.*' > /dev/null||exit `wc -l /tmp/dict.txt|cut -f1 --d " "`
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
