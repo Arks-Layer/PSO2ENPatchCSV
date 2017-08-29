@@ -1,5 +1,5 @@
-Gat_TitleStatus#0,"""Estado de Recoleccion"""
-Gat_TitleAbleList#0,"""Logros de Recoleccion"""
+Gat_TitleStatus#0,"""Estado de Recolección"""
+Gat_TitleAbleList#0,"""Logros de Recolección"""
 ResultNum#0,"""$(0)/$(1)"""
 ResultNum_2#0,"""$(0)/"""
 ResultNumTitle#0,"""<yellow>Logros: $(0)/$(1)<c>"""

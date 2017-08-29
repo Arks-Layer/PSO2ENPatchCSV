@@ -28,7 +28,7 @@ NpcComOnSuccess#2,"""/face2 要救助者全員の救助を<br>確認しました
 NpcComOnFailure#2,"""/face4 もう、皆さん限界ですー！<br>危険を承知、リスクも踏まえて<br>要救助者を強制転送しますー！"""
 NotifyPos#2,"""逃げ遅れた皆さんの<br>位置を確認しました！<br>マーカーを目指してくださいー！"""
 NotifyMethod#2,"""To ensure the transfer of the victims, we need their exact coordinates. Porfavor check on them yourself after the fire is gone!"""
-FirstTrans#2,"""/face2 The coordinates are confirmed. The transfer is complete! Porfavor continue with your mission!"""
+FirstTrans#2,"""/face2 The coordinates are confirmed. The transfer is complete! Porfavor continue with your missión!"""
 RescueeFound#2,"""炎に包まれたままだと<br>転送にもリスクが伴いますー！<br>炎を消して助けてあげてください！"""
 GeneratorAdd#2,"""わわっ！<br>新たな要救助者の反応ですよ！<br>全部助けてあげてください！"""
 TimeLimitNear#2,"""Hurry! Porfavor hurry!"""

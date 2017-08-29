@@ -1,6 +1,6 @@
 Title#0,"""Comprar loteria"""
 Caption1#0,"""Nombre"""
-Caption2#0,"""Fecha de Expiracion"""
+Caption2#0,"""Fecha de Expiración"""
 Caption3#0,"""Precio"""
 PopupItem1#0,"""Jugar Loteria - $(1) $(0)"""
 PopupItem1_2#0,"""Jugar Loteria $(1) veces - $(2)$(0)"""

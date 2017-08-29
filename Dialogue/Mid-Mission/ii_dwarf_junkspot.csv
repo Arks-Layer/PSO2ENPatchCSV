@@ -33,7 +33,7 @@ NpcComOnArrivalFirst#2,"""The Lillipan has begun to dig! The enemies will probab
 NpcComOnArrivalNext#2,"""再びリリーパ族が発掘開始です！<br>さっきと同様、敵さんに警戒ですよー！"""
 NpcComOnArrivalFinal#2,"""This looks like the last place! Porfavor keep protecting it!"""
 NpcComOnSearchFailure#2,"""この地点はハズレ、みたいです。<br>次の場所に向かうようですよー。"""
-NpcComOnJoin#2,"""We're in the middle of escorting a Lillipan right now. If you can, Porfavor meet up with the other ARKS and join the mission!"""
+NpcComOnJoin#2,"""We're in the middle of escorting a Lillipan right now. If you can, Porfavor meet up with the other ARKS and join the missión!"""
 OnFun#0,"""り！り！"""
 OnFind#0,"""/mn38  りり！"""
 OnDrop#0,"""りり！？"""

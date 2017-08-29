@@ -1,7 +1,7 @@
 IncidentName#0,"""Destruye la Torre de control"""
 TrialBeginMsg#0,"""Buscar y destruye las torres de control<br>infectadas por Darkers."""
 TrialAbstract#0,"""Buscar y destruye las torres de control<br>infectadas por Darkers."""
-NpcComOnBegin#0,"""¿Esta es la presencia de un Darker? Deben de haber tomado posesion de un ARKS"""
+NpcComOnBegin#0,"""¿Esta es la presencia de un Darker? Deben de haber tomado posesión de un ARKS"""
 NpcComOnBeginAtRareCase#0,"""Se ha detectado una reacción Darker anormal. Parece que esta tratando de pasar a otra area, no lo dejes ir!"""
 NpcComOnSuccess#0,"""Se confirmo la destrucción de la torre de control. La infección en el luchador ha desaparecido tambien. Parece que la situación esta bajo control."""
 NpcComOnFailure#0,"""/face6 Propagación de infección en una nave ARKS confirmada. Eliminela, ya no es posible recuperarla. y retoma tu misión."""
