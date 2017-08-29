@@ -48,4 +48,4 @@ NpcComOnLevelDown#3,"""灯籠の浄化を確認。<br>黒天状態も徐々に�
 NpcComOnLevelDown21#3,"""全ての灯籠の浄化を確認しました。<br>パジャドゥリンの反応も弱体化。<br>今のうちに、撃退を。"""
 NpcComOnRelease#3,"""見事な対応です。<br>他に瘴気の影響を受けた灯籠があれば<br>同様の対応をお願いします。"""
 NpcComOnBlack#3,"""パジャドゥリンの瘴気によって<br>灯籠が影響を受けたようです。<br>急ぎ、灯籠を攻撃し、浄化を。"""
-NpcComRollerPos#3,"""Tenemos la ubicacion de un determinado Pajhadu-lin en $ (0). Date prisa y derrotarlo"""
+NpcComRollerPos#3,"""Tenemos la ubicación de un determinado Pajhadu-lin en $ (0). Date prisa y derrotarlo"""
