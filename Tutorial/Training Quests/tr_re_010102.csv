@@ -1,0 +1,4 @@
+train_title#0,"""Task 2: <yellow>Perform 3 Just Guards with a Sword"""
+tut_title#0,"""Just Guard"""
+text100#0,"""・Just before an attack hits you,<br> Guard with <%WeaponAction>"""
+text100_3b#0,"""・Just before an attack hits you,<br> Guard with <%MainPaletteC>"""
