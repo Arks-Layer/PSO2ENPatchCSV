@@ -19,7 +19,7 @@ NpcCom02#0,"""Este juego es una completa derrota para mi!<br>¡Eres increiblemen
 NpcCom03#0,"""Este juego fue una derrota para mi!<br>Nos vengaremos en el siguiente desafio!"""
 NpcCom04#0,"""Me pregunto si en esta batalla sere derrotado.<br>Pero definitivamente voy a ganar la proxima vez!"""
 NpcCom05#0,"""...Habia ganado por un poco mas<br>La proxima vez, voy a ganar!"""
-NpcCom06#0,"""Ahora, detecto la aparicion de un poderoso enemigo!<br>¿Puedes mantener la base a salvo?"""
+NpcCom06#0,"""Ahora, detecto la aparición de un poderoso enemigo!<br>¿Puedes mantener la base a salvo?"""
 NpcCom07#0,"""La resistencia de la base $(0) ha disminuido!<br>¿Supongo que mejor tienes mas cuidado no?"""
 NpcCom08#0,"""La base $(0) se va a romper!<br>Por favor, protegela con firmeza!"""
 NpcCom09#0,"""El rendimiento del enemigo<br>ha sido mejorado!<br>¿Podras proteger la base?"""

@@ -56,7 +56,7 @@ IncidentJsApcSuccessEvo#10,"""/ci1 5 ……私一人じゃ危なかったと思�
 IncidentJsApcBegin#11,"""/ci2 1 おお、いいところに来てくれた！<br>少しばかり敵の数が多くてな<br>手伝ってくれないか。"""
 IncidentJsApcSuccess#11,"""/ci2 1 よし、片付いたようだな！<br>感謝するぞ、お前のおかげで<br>なんとかなった。"""
 IncidentJsApcFailure#11,"""……ぐっ、こんなことになるとは。<br>すまん、先に撤退する。"""
-IncidentJsApcBeginEvo#11,"""/ci3 1 Esta atmosfera... Maybe a newcomer appeared... Porfavor presta atencion y preparate."""
+IncidentJsApcBeginEvo#11,"""/ci3 1 Esta atmosfera... Maybe a newcomer appeared... Porfavor presta atención y preparate."""
 IncidentJsApcSuccessEvo#11,"""/ci2 1 よし、片付いたようだな！<br>感謝するぞ、お前のおかげで<br>なんとかなった。"""
 IncidentJsApcBegin#12,"""/toge /ci1 1 We can do this! We're Arks! I might be old, but I can't be stopped!"""
 IncidentJsApcSuccess#12,"""/toge /ci2 1 うむ、これで終わりのはずだ。<br>よくやってくれた、助かったぞ。"""

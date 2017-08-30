@@ -6,6 +6,6 @@ NpcComOnCannonBreak#0,"""今、そちらにカタパルトを転送した。<br>
 NpcComOnSuccess#0,"""水上艦の沈黙を確認。<br>これで砲撃も止まるだろう。<br>よくやったな。"""
 NpcComOnFailure#0,"""Parece que finalmente se quedo sin jugo ... Bueno, lo que sea. Debe volver a su misión."""
 NpcComOnBegin#1,"""Un barco ha salido a la superficie. Lo que le permite continuar con su bombardeo eso es peligroso. Solicito su apoyo para tratar con esto urgentemente."""
-NpcComOnCannonBreak#1,"""Una catapulta ha sido transferida para poder saltar a la nave, a continuacion, destruya su fuente de alimentacion."""
-NpcComOnSuccess#1,"""Hemos confirmado la desaparicion de energia emitida del barco. Su rendimiento ha sido admirable."""
+NpcComOnCannonBreak#1,"""Una catapulta ha sido transferida para poder saltar a la nave, a continuación, destruya su fuente de alimentación."""
+NpcComOnSuccess#1,"""Hemos confirmado la desaparición de energia emitida del barco. Su rendimiento ha sido admirable."""
 NpcComOnFailure#1,"""With the target's energy down to zero, we've confirmed it has come to an automatic stop. All operatives are requested to return to their regular misión."""
