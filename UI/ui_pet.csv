@@ -101,7 +101,7 @@ MoveHelp#0,"""外すを選択するとセット済みのキャンディーが外
 ParfaitErrorMessage#0,"""You cannot add Parfait that share an effect."""
 Title#3,"""Egg Synthesis"""
 List_Title#0,"""Egg Selection"""
-List_CheckLockMessage#0,"""Hide locked items"""
+List_CheckLockMessage#0,"""Hide Locked Items"""
 List_DirectBuy#0,"""Synthesis Charges<pict StarGem>"""
 List_PopupGuide#0,"""Please select an egg for synthesis."""
 Param_Title#0,"""Pet Plus"""
