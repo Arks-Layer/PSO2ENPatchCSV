@@ -543,7 +543,7 @@ UnlockMultiErrorMessage#0,"""Some items couldn't be unlocked. Maximum $(0) items
 PetAbility#0,"""$(0)<br>[Effect]<br>$(1)"""
 RingSkill#0,"""$(1) Lv.$(0)<br>[Effect]<br>$(2)"""
 RingSkill_2#0,"""$(1)<br>[Effect]<br>$(2)<br><br>$(0)"""
-ItemAutoPickUpRarityOn#0,"""Acquired <yellow>$(0)★ $(1)<c>."""
+ItemAutoPickUpRarityOn#0,"""Acquired <yellow>$(0) $(1)★<c>."""
 ItemAutoPickUpRarityOff#0,"""Acquired <yellow>$(0)<c>."""
 ConsumeTicketErrorAllRegisted#0,"""That ticket cannot be used<br>because it's already registered<br>on all your characters."""
 UseTicketMessage1#0,"""[$(0)] will be used.<br>Is that okay?<br><br><yellow>※After using the ticket, you can use the same<br>ticket on another character to make it<br>available on all your characters.<c>"""
