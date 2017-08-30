@@ -10,7 +10,7 @@ OnDefencePhase2Start0#0,"""This is terrible! The enemy assault<br>force has star
 OnDefencePhase2Start1#0,"""The enemy army has prepared another<br>assault! Although we broke through the<br>barrier, but if our towers destroyed,<br>then we cannot grasp victory! Watch out!"""
 OnDefencePhase3Start0#0,"""A strong signal has been detected<br>from the Devil Castle! It seems to be<br>planning an attack on our Buster towers!<br>Please stop it!"""
 OnDefencePhase3Start1#0,"""Another strong signal detected from<br>the Devil Castle...! Please defend our<br>towers from the Devil Castle's assault!"""
-OnAttackPhase1Start0#0,"""Summoned the Buster Pile!<br>Escort the payload from the enemy<br>army and break down their barriers!"""
+OnAttackPhase1Start0#0,"""Summoned the Buster Pile!<br>Escort the payload through the enemy<br>army and break down their barriers!"""
 OnAttackPhase1Start1#0,"""Summoned the Buster Pile!<br>Protect the Buster Pile from enemy<br>attacks and destroy the remaining barriers!"""
 OnAttackPhase1Start2#0,"""We summoned the Buster Pile!<br>Let's break through the barriers!"""
 OnAttackPhase2Start0#0,"""We successfully destroyed all the<br>barriers! All there's left is to defeat<br>the Devil Castle! Let's attack the<br>core located on the abdomen!"""
