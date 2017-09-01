@@ -1,5 +1,5 @@
 text00#0,"""About Saving / Loading mission progress"""
 text01#0,"""When quest progress is saved,<br>if the quest is abandoned,<br>it can be resumed from the saved point。"""
-text02#0,"""About saving quest progress<br><br>When quest progress is saved<br>The message, "Quest progress has been saved", will be displayed。<br>After that, you will be able to resume the quest from that point。"""
-text03#0,"""About loading the quest<br><br>After saving the quest, entering the Campship's Telepipe<br>will open a window allowing you to resume from the save point。"""
+text02#0,"""About Saving Quest Progress<br><br>When quest progress is saved<br>The message, "Quest progress has been saved", will be displayed。<br>After that, you will be able to resume the quest from that point。"""
+text03#0,"""About Loading the Quest<br><br>After saving the quest, entering the Campship's Telepipe<br>will open a window allowing you to resume from the save point。"""
 text04#0,"""If you select the option to continue,<br>you will resume the quest from the save point onward。<br>※The outcome of the mission will not be affected。"""
