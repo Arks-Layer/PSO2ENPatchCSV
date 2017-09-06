@@ -941,7 +941,7 @@ Explanation4#0,"""<c f0df60>Withdraw items from storage or temporary storage. Yo
 Explanation4_v#0,"""<c f0df61>Withdraw items from storage or temporary storage."""
 Explanation5#0,"""<c f0df60>Withdraw Meseta.<c>"""
 Explanation6#0,"""<c f0df60>Deposit Meseta.<c>"""
-Explanation_NoData_Favorite#0,"""<c f0df60>Press <c>$(0)<c f0df60> to access $(1). This storage has been set as your \""Favorite Storage\"".<c>""
+Explanation_NoData_Favorite#0,"""<c f0df60>Press <c>$(0)<c f0df60> to access $(1). This storage has been set as your \""Favorite Storage\"".<c>"""
 Explanation_NoData_Favorite_v#0,"""<c f0df60>Press <c>$(0)<c f0df60> to access $(1). This storage has been set as your \""Favorite Storage\"".<c>"""
 Explanation_NoData_FavoriteSettable#0,"""<c f0df60>Press <c>$(0)<c f0df60> to access $(2). Press <c>$(1)<c f0df60> to set it as your \""Favorite Storage\"".<c>"""
 Explanation_NoData_FavoriteSettable_v#0,"""<c f0df60>Press <c>$(0)<c f0df60> to access $(2). Press <c>$(1)<c f0df60> to set it as your \""Favorite Storage\"".<c>"""
