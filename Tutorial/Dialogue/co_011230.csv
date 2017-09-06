@@ -16,7 +16,7 @@ text11#0,"""You can move your character as follows:<br><br>Forward: <%MoveForwar
 text12#0,"""You can control the camera by moving the mouse."""
 text13#0,"""You can jump with <%Jump>."""
 text14#0,"""You can use a normal attack with <%NormalAttack>."""
-text06#0,"""You can use Photon Arts and Techniques with <%PhotonArts>. If you time a normal attack, Photon Art or Technique just right, you can unleash a powerful \""Just Attack\""."""
+text15#0,"""You can use Photon Arts and Techniques with <%PhotonArts>. If you time a normal attack, Photon Art or Technique just right, you can unleash a powerful \""Just Attack\""."""
 text16#0,"""You can evade incoming attacks with <%Avoid>."""
 text17#0,"""You can pick up items with <%Access>. If you hold <%Access> and walk across items, you can pick up many items at once."""
 text18#0,"""To use the items and skills that you've set to your Subpalette, simply move your cursor to what you want to use, and hit <%SubPalette>.<br><br>Move Cursor Left: <%SubPaletteLeft><br>Move Cursor Right: <%SubPaletteRight><br>Use: <%SubPalette>"""
