@@ -18,18 +18,18 @@
 
 ### Как с нами держать связь?
 С нами можно связаться через международный сервер дискорда - [PSO2 Discord Server]
-Или же чере русскоязычный сервер дискорда - [PSO2[RUvoice]]
+Или же чере русскоязычный сервер дискорда - [RUvoice]
 
 ### Не знаете японского/английского, но всё же хотите помочь?
 Тогда вы можете провести редактуру текста на примету ошибок в орфографии и пунктуации.
 
 ### Имена и названия.
-Бывает вызывают затруднения имена и названия, но не беда, ведь есть {БАЗА ЗНАНИЙ], которая пополняется и с каждым разом становится всё объемнее и объемнее.
+Бывает вызывают затруднения имена и названия, но не беда, ведь есть [БАЗА ЗНАНИЙ], которая пополняется и с каждым разом становится всё объемнее и объемнее.
 
 
 [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/RU/Files
 [PSO2 Discord Server]: https://discord.gg/PSO2
 [Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
-{БАЗА ЗНАНИЙ]: https://docs.google.com/spreadsheets/d/18a7UesL8bGFKYBVYlvWGMdnbYmaD9Q_dabaPLvG0AaQ/edit?usp=sharing
+[БАЗА ЗНАНИЙ]: https://docs.google.com/spreadsheets/d/18a7UesL8bGFKYBVYlvWGMdnbYmaD9Q_dabaPLvG0AaQ/edit?usp=sharing
 [ГАЙД]: https://docs.google.com/document/d/1KyA9brwCXzvBZ-oTRkZBU7weMZs7FnPjsn2Uf9q0hYA/edit?usp=sharing
-[PSO2[RUvoice]]: https://discord.gg/mKjBYdR
+[RUvoice]: https://discord.gg/mKjBYdR
