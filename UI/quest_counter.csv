@@ -38,7 +38,7 @@ CantStartQuestNewNetCafeQuest#0,"""No se pudo iniciar la misión.<br>Uno o más 
 CantStartQuestNotNotFoundParty#0,"""対象パーティーが見つからなかったため、<br>クエストを開始できません。"""
 CantStartQuestCapacityOverParty#0,"""パーティーの人数オーバーのため参加できません。"""
 CantStartQuestDifferencePasswordParty#0,"""パスワードが間違っているため参加できません。"""
-CantStartQuestAlreadyFinished#0,"""No se pudo entrar al grupo<br>, la misión ya fue terminado."""""
+CantStartQuestAlreadyFinished#0,"""No se pudo entrar al grupo<br>, la misión ya fue terminado."""
 CantStartQuestClearCountLimit#0,"""Uno o mas miembros en el grupo<br>superó el límite para esta<br>misión. No se pudo iniciar la misión."""
 CantStartQuestJustAfterRareEnemyTrigger#0,"""レアエネミートリガーを使用した直後は、<br>新たにクエストを受注することができません。<br>少々時間をおいてから、再度お試しください。<br><br>※新たにクエストを受注しますと、<br>\u3000トリガーアイテムを使用して受注したクエストが<br>\u3000破棄されますのでご注意ください。"""
 CantStartQuestJustAfterQuestTrigger#0,"""クエストトリガーを使用した直後は、<br>新たにクエストを受注することができません。<br>少々時間をおいてから、再度お試しください。<br><br>※新たにクエストを受注しますと、<br>\u3000トリガーアイテムを使用して受注したクエストが<br>\u3000破棄されますのでご注意ください。"""
