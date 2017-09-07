@@ -1,6 +1,6 @@
 Title#0,"""A World Engulfed In Shadows"""
 Explanation#0,"""惑星ナベリウスをはじめとした<br>複数の惑星に出現した壊世区域。<br>かの場所に敵性反応が続々と出現している。<br>本任務では、各所の敵性反応を集中的に<br>撃退することが目的となる。<br>少数精鋭の部隊を編成し、各惑星を転戦<br>現象の調査と敵勢力の撃退を行え。<br>――――――――――――――――――――<br>Clear by repelling enemies on each planet."""
-SimpleExplanation#0,"""Defeat the enemies appearing on each planet!"""
+SimpleExplanation#0,"""Defeat all the enemies that appear!"""
 NpcComMsg1#0,"""これより、惑星ナベリウス<br>壊世区域への転送を開始します！"""
 NpcComMsg2#0,"""今までにない異常な反応で<br>時空系のパラメータが無茶苦茶です……<br>慎重に調査を進めていきましょう。"""
 Area0S#0,"""Corrupted Area: Forest 1"""
