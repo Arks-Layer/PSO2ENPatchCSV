@@ -4,6 +4,7 @@
 import csv
 import codecs
 import fnmatch
+import json
 import multiprocessing as mp
 import os
 import sys
@@ -34,6 +35,6 @@ p.map(check, files)
 p.close()
 p.join()
 
-print({k: v for k, v in gD.items() if len(v) > 1})
+print(json.dumps({k: v for k, v in gD.items() if len(v) > 1}))
 		
 sys.exit(err)
