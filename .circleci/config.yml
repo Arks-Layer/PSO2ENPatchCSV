@@ -56,6 +56,9 @@ jobs:
           name: verifing CSVs for PSO2 format
           command: ./_sh/check.sh
       - run:
+          name: Check for dup IDs
+          command: ./_sh/DupLines.sh >/tmp/duplines.txt
+      - run:
           name: coverage CSVs
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
@@ -85,6 +88,9 @@ jobs:
       - store_artifacts:
           path: /tmp/dict.txt
           destination: dict.txt
+      - store_artifacts:
+          path: /tmp/duplines.txt
+          destination: duplines.txt
       - store_artifacts:
           path: /tmp/mp.log
           destination: mplog.txt
