@@ -1,4 +1,4 @@
-title00#0,"""Challenge Quests"""
+name01#0,"""Challenge Quests"""
 text01#0,"""This will explain Challenge Quests.<br><br>The aim of a Challenge Quest is to <red>complete a specific mission before VR Energy expires<c>.<br><br>The quest ends under either of the following conditions:<br><yellow>・The specified mission is completed<br>・VR Energy expires<c><br><br>VR Energy is shared among all participants. The amount remaining is displayed as a green bar."""
 text02#0,"""In Challenge Quests, your class is set to Challenger.<br><br>Challenger has the following features:<br><yellow>・Can equip all weapons and armor<br>・Can learn and equip all PAs, Techniques and Skills from disks<c><br><br>Up to 2 Stances can be used at once.<br>※Some Stances cannot be used together"""
 text03#0,"""VR Energy is essentially a time limit on the quest.<br><br>VR Energy is consumed under the following conditions:<br><yellow>・Time passes during the quest<br>・A player is unable to fight<c><br><br>VR Energy can be recovered by picking up energy capsules.<br>Energy picked up is shared among all participants.<br><red>※There are some capsules that aren't displayed on the minimap.<c>"""
