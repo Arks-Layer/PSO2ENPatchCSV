@@ -1,0 +1,6 @@
+linewindow#0,"""<br>About Emergency Codes during ""Extreme Quests"".<br>"""
+text00#0,"""About Emergency Codes during ""Extreme Quests""."""
+text12#0,"""I will explain the special Emergency Codes.<br><br>During ""Extreme Quests"" we will create difficult mock Emergency Codes. <yellow>*During these orders, a special debuff will materialize, making all recovery effects towards players decrease by a certain percent.<br>However, the recovery effects when reviving someone do not lower.<c>"""
+linewindow#1,"""<br>『エクストリームクエスト』Ｅトライアルについて<br>"""
+text00#1,"""『エクストリームクエスト』Ｅトライアルについて"""
+text12#1,"""特別なエマージェンシートライアルについて説明します。<br><br>「エクストリームクエスト」では、難度の高いエマージェンシートライアルを<br>疑似的に発生させています。<br><br><yellow>※中には、コスモアトマイザーをはじめ、プレイヤーに対する<br>全ての回復効果が一律の割合で低下するものもあります。<br>ただし、復活時の回復効果は低下することはありません。<c>"""
