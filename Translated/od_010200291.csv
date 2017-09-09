@@ -5,4 +5,4 @@ text04#0,"""You know how they say you are what you eat?<br>Well, that's no lie w
 text05#0,"""Go ahead, try feeding your Mag something.<br>I guarantee you'll make it a happy Mag!"""
 text00#0,"""How to Give Mags Items"""
 text01#0,"""This is an explanation on<br>how to give Mags items.<br><br>You can raise the Support Level<br>of stats by giving your Mags items.<br>This will make them grow.<br><br>Open the Mags list from the menu<br>to show the information on your Mags.<br>Then select the \""Give Item\""<br>command."""
-text02#0,"""Choosing \""Give Item\"" allows<br>you to give your Mags<br>items to make them grow.<br><br>Which Support Levels will<br>increase or decrease depends on the items you give them.<br><br>However, please note that once a Mag's energy<br>goes above a certain level, you cannot give it items."""
+text02#1,"""Choosing \""Give Item\"" allows<br>you to give your Mags<br>items to make them grow.<br><br>Which Support Levels will<br>increase or decrease depends on the items you give them.<br><br>However, please note that once a Mag's energy<br>goes above a certain level, you cannot give it items."""
