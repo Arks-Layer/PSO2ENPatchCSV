@@ -1,6 +1,6 @@
 linewindow#0,"""[Private Lobbies] and [Shared Lobbies]"""
 text00#0,"""[Private Lobbies] and <br>[Shared Lobbies]"""
-text01#0,"""[Private Lobbies] and [Shared Lobbies]<br><br>A Private Lobby is a block that can only be logged in only through a single <br>platform.<br><br>For Private Lobbies, there are ""PC"" Private Lobbies and ""PS Vita"" Private Lobbies,<br>and can only be logged in by users through the specified platform used. <br><br>For Shared Lobbies, both ""PC"" and ""PS Vita"" users can enter it."""
+text01#0,"""[Private Lobbies] and [Shared Lobbies]<br><br>A Private Lobby is a block that can only be logged in only through a single <br>platform.<br><br>For Private Lobbies, there are \""PC\"" Private Lobbies and \""PS Vita\"" Private Lobbies,<br>and can only be logged in by users through the specified platform used. <br><br>For Shared Lobbies, both \""PC\"" and \""PS Vita\"" users can enter it."""
 linewindow#1,"""『専用ブロック』と『共用ブロック』について"""
 text00#1,"""『専用ブロック』と『共用ブロック』について"""
 text01#1,"""専用ブロックと共用ブロックについて<br><br>専用ブロックとは、特定のプラットフォームで<br>のみログインできるブロックになります。<br><br>専用ブロックには“PC”専用ブロックと<br>“PS Vita”専用ブロックがあり、指定されている<br>プラットフォームを使用しているユーザーのみ<br>ログインすることができます。<br><br>共用ブロックとは、“PC”ユーザーと<br>“PS Vita”ユーザーのどちらもがログインできる<br>ブロックになります。"""

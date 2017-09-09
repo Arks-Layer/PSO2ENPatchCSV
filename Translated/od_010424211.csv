@@ -3,7 +3,7 @@ text02#0,"""Face your enemies without fear. Devote yourself<br>to your training.
 11_voice_NPC_5057_100#0,"""Well, good luck!"""
 text100#0,"""Chain Attacks"""
 text101#0,"""This is an explanation about chain attacks.<br><br>Chain attacks are a part of an attack system<br>that inflicts great damage on hostiles by landing photon arts<br>or charged techniques after piling on standard attacks."""
-text102#0,"""A chain starts when an attack scores a hit while the Gunner skill ""Chain<br>Trigger"" is in effect. Once a chain starts, it will continue to grow if you<br>and your party keep scoring hits within a specific period of time."""
+text102#0,"""A chain starts when an attack scores a hit while the Gunner skill \""Chain<br>Trigger\"" is in effect. Once a chain starts, it will continue to grow if you<br>and your party keep scoring hits within a specific period of time."""
 text103#0,"""The chain ends when the player who started the chain scores a hit<br>with a photon art or charged techniques, dealing major damage<br>to the target hostile. Work with other party members to use this<br>skill in defeating powerful hostiles."""
 text01#1,"""新しいクラスの新しい武装。<br>誰だって最初は初心者なの。"""
 text02#1,"""恐れずに立ち向かい、研鑽しなさい。<br>そうすれば自ずと動きが身につくわ。"""

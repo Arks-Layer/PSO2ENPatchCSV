@@ -4,7 +4,7 @@ text03#0,"""To do what? Oh, it's a client order. Just a<br>little test of your c
 text04#0,"""But don't worry, I'll be right there with you!"""
 text05#0,"""Hey, why'd you just make that face when I<br>said I'd be with you? Tsk, how rude!<br>Anyway. Hurry up, we're leaving now!"""
 text100#0,"""Accompanying Partner Characters"""
-text101#0,"""<yellow>*This client order on which you will have Echo<br>accompany you will be easier to complete if you set<br>a password in the ""Party Info"" menu and select<br>the ""Restrict other parties in Multi-Party Areas""<br>option when accepting it.<c>"""
+text101#0,"""<yellow>*This client order on which you will have Echo<br>accompany you will be easier to complete if you set<br>a password in the \""Party Info\"" menu and select<br>the \""Restrict other parties in Multi-Party Areas\""<br>option when accepting it.<c>"""
 text01#1,"""きみのうわさ、いろいろ聞いてるよ。<br>最近頑張ってるって、みんな言ってる。<br>ゼノもなんだか嬉しそうだった。"""
 11_voice_NPC_5002_104#1,"""でもね、そういうときが一番危ないの。<br>だからちょっとあたしに付き合って。"""
 text03#1,"""何するの、って？<br>クライアントオーダーよ。<br>力試し、って言えばいいのかな？"""

@@ -9,7 +9,7 @@ text03#1,"""……っていうか、おれまだスキル<br>なんにも覚え�
 text04#1,"""相棒、お前は大丈夫か？<br>スキルポイントって、気付かないうちに<br>溜まっちゃってたりするぜ？"""
 text05#1,"""ちょうどいいから、確認がてら<br>スキル習得の段取りをおれに<br>見せてくれないか？　なっ、頼むよ。"""
 text00#0,"""Skill Points"""
-text01#0,"""This is an explanation of skill points.<br><br>Skill points are used to learn ""class skills,""<br>the unique skills for each class.<br><br>Skill points are gained by leveling up<br>and through client orders."""
+text01#0,"""This is an explanation of skill points.<br><br>Skill points are used to learn \""class skills,\""<br>the unique skills for each class.<br><br>Skill points are gained by leveling up<br>and through client orders."""
 text02#0,"""You'll need to go to the<br>Class Counter to learn class skills.<br><br>The Class Counter<br>is in the gate area central hall."""
 text03#0,"""Use the skill tree at the Class Counter<br>to learn class skills.<br><br>The skill tree is composed of<br>class skill branches.<br><br>It's designed so that when a class skill<br>exceeds a certain level, the next<br>class skill below it can be chosen."""
 text04#0,"""Choose a class skill,<br>then increase its level by<br>consuming skill points.<br><br>Not all class skills can<br>be learned, so plan how to use your<br>skill points."""

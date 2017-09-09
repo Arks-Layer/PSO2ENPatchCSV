@@ -8,7 +8,7 @@ text03#1,"""あとは、さっき言った育成方針とか<br>そういうの�
 11_voice_NPC_5002_100#1,"""それじゃ、これからもその子を<br>大切にしてあげてね。"""
 text00#0,"""Mag Devices"""
 text01#0,"""This is an explanation of Mag devices.<br><br>Using Mag devices allows you to overwrite<br>existing abilities and give new ones to Mags.<br>They can also change the appearance of the Mags themselves."""
-text02#0,"""After choosing a Mag, select<br>""Use a Device"" from the menu to assign a Mag device."""
+text02#0,"""After choosing a Mag, select<br>\""Use a Device\"" from the menu to assign a Mag device."""
 text03#0,"""There are a variety of devices, including those that change the color<br>and the shape of a Mag, change its photon blast ability, and advance its growth.<br><br>Use devices to customize your favorite Mags."""
 text00#1,"""『マグデバイス』について"""
 text01#1,"""「マグデバイス」について、説明します。<br><br>マグデバイスを利用することで、マグに新たな能力を付与したり<br>すでにある機能を書き換えることができます。<br>中にはマグ自体の見た目を変更するものもあります。"""
