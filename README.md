@@ -1,35 +1,20 @@
 <p align="center">
-  <img src="http://i.imgur.com/OD8QlFQ.png" alt="PSO2 Logo"/>
+  <img src="http://i.imgur.com/Np5fA5K.png" alt="PSO2 SEA Logo"/>
 </p>
 
-# PSO2 English Patch 
-Welcome to the PSO2 English Patch CSV Repository.
+# PSO2 SEA Archive
+Welcome to the PSO2 SEA Archive Repository.
 
-Current status of tests and checks: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN)
+This repository contains the extracted text files from the (now offline) South East Asia version of PSO2.
 
-This repository is dedicated to translating PSO2 game texts from Japanese to English. Our goal is to complete the English translations first, so that it can be used to translate the game to other non-English languages.
+### But I thought the PSO2 SEA translation was bad?
+It was! However, it only gets really bad after Dark Falz Elder appears. The current theory is that SEGA of America did the translation up until that point and planned to use it for PSO2NA/EU. However, something happened, and the game never came to NA/EU. The work they had done was then sent over to Asiasoft to help kickstart their "English" server. Once they ran out of high-quality SEGA of America translations, however, that is when they began to translate it themselves. (And when the quality tanked and it became really bad).
 
-We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native languages in the future.
+### Usage in PSO2JP English Patch
+We have taken most of the PSO2SEA translations up to Dark Falz Elder (read above, the GOOD translations) and begun importing them into the PSO2JP English Patch. They've been (very painfully) looked over, edited, fixed, and re-translated to fit our translation. This way, the hard work that SEGA of America translators did (who very clearly wanted the game to come to NA/EU) is still put to good use. \o/
 
-## Contributions
-### Getting Started/Helping Out
-A full guide on how to get started is [available here].
+### Why do I see JP lines in these text files?
+Apparently, the SEA data files saved the original Japanese translation inside of them, along with the English translation. The purpose is not clearly defined, although we can assume it was to make translation/checking easier. Or perhaps they intended to make the game available in English and Japanese in NA/EU? We'll likely never know, sadly.
 
-### To-Do
+### Please note that this is an ARCHIVE. You cannot edit files in here and any PRs proposed to this branch will be closed.
 Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
-
-### Don't know Japanese but still want to contribute?
-If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct. (US English, please!)
-
-### Notice
-* If you want to translate a file that's in the "/Files/" directory then you **MUST** [move the file into another directory](https://github.com/blog/1436-moving-and-renaming-files-on-github) before you translate it. The /Files/ directory **MUST** only contain untranslated files.
-* You can find stuff to translate by using the GLaDOS bot in the #translations-public room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
-
-* Maintain the triple quotes and only edit the text inside the quotes.
-* Be sure to take a look at the **[Wiki]** page for guides and reminders before sending us your translations.
-* You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
-
-[Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN/Files
-[PSO2 Discord Server]: https://discord.gg/PSO2
-[Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
-[available here]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki/How-to-contribute
