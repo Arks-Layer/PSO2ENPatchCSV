@@ -1,2 +1,4 @@
-name01#0,"""メッセージパック"""
-text01#0,"""座標は不明、辺りはラッピーだらけ。<br>私、一体どこに<br>飛ばされちゃったっていうの？"""
+name01#0,"""Intel Pod"""
+name01#1,"""メッセージパック"""
+text01#0,"""Coordinates unknown. There are a ton of Rappies nearby.<br>Just where am I supposed to run?"""
+text01#1,"""座標は不明、辺りはラッピーだらけ。<br>私、一体どこに<br>飛ばされちゃったっていうの？"""
