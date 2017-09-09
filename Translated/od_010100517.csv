@@ -5,5 +5,5 @@ text04#0,"""I will send you an armor unit and some<br>simple advice with prayers
 text05#0,"""You've worked hard to get this far. I really hope<br>you don't throw it all away by doing something<br>foolish."""
 text100#0,"""Hostile Attacks"""
 text101#0,"""This an explanation of hostile attacks.<br>Hostiles have \""melee,\"" \""ranged,\"" and<br>\""tech\"" attacks just like players.<br><br>In the desert you will face ahead,<br>there are a number of hostiles<br>that attack using \""ranged.\"""""
-text102#0,"""It's possible to reduce damage from hostiles by<br>increasing the corresponding defense, such as <br>\""melee defense\"" for \""melee,\"" <br>\""ranged defense\"" for \""ranged,\""<br>and \""tech defense\"" for \""tech.\"""""
+text102#0,"""It's possible to reduce damage from hostiles by<br>increasing the corresponding defense, such as \""melee defense\"" for \""melee,\"" \""ranged defense\"" for \""ranged,\""<br>and \""tech defense\"" for \""tech.\"""""
 text103#0,"""It's also possible to reduce damage by equipping an armor unit that has \""shot resist.\""<br><br>Create an advantage by equipping the \""Sub/Shot Resist a\""<br>given to you by Koffie."""

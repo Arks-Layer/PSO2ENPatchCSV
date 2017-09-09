@@ -1,6 +1,6 @@
 text100#0,"""Daily Orders"""
 text101#0,"""Daily requests change every day.<br><br>Unlike client orders, you can report in before completing<br>the objective, and receive a reward based on how far you got."""
-text102#0,"""For example if the objective is to collect items, you can select <br>how many to hand over when you make your report.<br>Your reward is based on how many you hand over.<br><br>Note that once you report in, however, you won't be able<br>to report in again until the next time you take on that request."""
+text102#0,"""For example if the objective is to collect items, you can select how many to hand over when you make your report.<br>Your reward is based on how many you hand over.<br><br>Note that once you report in, however, you won't be able<br>to report in again until the next time you take on that request."""
 Npc49_01_010#0,"""Different daily requests come up every day."""
 Npc49_01_020#0,"""Stop by and check them out every day, if you can.<br>I'd really appreciate it!"""
 Npc49_01_030#0,"""But first, you'd better go out and get some<br>more experience!"""
