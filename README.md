@@ -17,4 +17,3 @@ We have taken most of the PSO2SEA translations up to Dark Falz Elder (read above
 Apparently, the SEA data files saved the original Japanese translation inside of them, along with the English translation. The purpose is not clearly defined, although we can assume it was to make translation/checking easier. Or perhaps they intended to make the game available in English and Japanese in NA/EU? We'll likely never know, sadly.
 
 ### Please note that this is an ARCHIVE. You cannot edit files in here and any PRs proposed to this branch will be closed.
-Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
