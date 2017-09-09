@@ -5,7 +5,6 @@ text03#0,"""But first, let me tell you about another skill you<br>should be usin
 text100#0,"""Set Trap"""
 text101#0,"""Set Trap<br><br>Set Trap is a Ranger skill.<br>It sets a timed trap on the battlefield to catch enemies in the blast."""
 text102#0,"""Once you set a trap, a timer appears above.<br>The countdown begins from the moment a trap is set."""
-the trap detonates.<br><br>The range and effect of the explosion depend on the type of trap you set."""
 text104#0,"""To use a trap, you must learn the corresponding Ranger trap skill.<br>The traps themselves can be bought from shops.<br><br>Use traps to turn the tables when you're in a jam."""
 text01#1,"""ご苦労だった。<br>大いに成長を感じる内容だった。"""
 text02#1,"""この調子なら、そのまま次の特訓に<br>進むのも悪くないだろう。"""
