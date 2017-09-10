@@ -6,4 +6,7 @@ text05#0,"""Well, what are you waiting for? It's not rocket science. Now go put 
 text100#0,"""Element Upgrading"""
 text101#0,"""You can upgrade weapon elements at the Item Lab. Upgrading allows you to boost a weapon's elemental attributes. """
 text102#0,"""You need the following to upgrade elements: - Meseta - A Synthesizer - A component weapon  You can upgrade the effect of weapon elements such as fire or ice. Using a component weapon with the same attribute as the one you are upgrading raises its attribute value."""
-linewindow#0,"""You got an Elemental Synthesizer."""
+text103#0,"""同名の武器を素材にすると、<br><yellow>属性値が大きく上昇<c>します。<br><br>※同名＆同属性だと、さらに上昇します。<br><br>属性値は最大50までですが、<br>レアリティ★13の武器は<br>最大60までアップします。"""
+text104#0,"""属性値が高いほど<br>エネミーへのダメージが増加します。<br><br>さらに「属性」が<br>エネミーの「弱点属性」と同じ場合は、<br>より大ダメージを与えられます。<br><br>「属性」は武器の入手時に決まりますが、<br>「補助アイテム」で変更可能です。"""
+linewindow01#0,"""『ガンスラッシュゼロ-NT』を入手しました。"""
+linewindow02#0,"""You got an Elemental Synthesizer."""
