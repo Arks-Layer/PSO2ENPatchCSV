@@ -6,6 +6,6 @@ text01004#0,"""There's something I'd like you to help me with. Will you hear me 
 text03001#0,"""Well done you! Thanks so much for helping me talk things out! """
 11_voice_NPC_5081_101#0,"""Everyone's all smiley because they've received heartfelt gifts, I'm very very glad!"""
 text03003#0,"""And it's all because of you! Thank you SO much!"""
-11_voice_NPC_5081_100#0,"""It's always tricky thinking of White Day gifts, isn't it!"""
-11_voice_NPC_5081_100#0,"""All for a heartfelt gift! That's what White Day is all about, so everyone's really in gear!"""
+11_voice_NPC_5081_100#1,"""It's always tricky thinking of White Day gifts, isn't it!"""
+11_voice_NPC_5081_100#2,"""All for a heartfelt gift! That's what White Day is all about, so everyone's really in gear!"""
 text02022#0,"""So, please! I need your help!"""
