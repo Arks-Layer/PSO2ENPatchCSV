@@ -1,4 +1,4 @@
 Title#0,"""Rendezvous Aboard the ARKS Ship"""
 TargetName_Errand#0,"""[B-3]<br>View an event<br>Event name: A New Guide"""
 TargetName_Errand2#0,"""[B-3]<br>View an event<br>Event name: A New Guide"""
-Explanation#0,"""<c 6fa8f8>[002-C] \""A New Guide\""<c><br>Having completed her summary of the past, Xiera, delighted to be meeting <%me>, goes on to explain current events.<br>She also shows them their new guidance tool.<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
+Explanation#0,"""<c 6fa8f8>[002-C] \""A New Guide\""<c><br>Having completed her summary of the<br>past, Xiera, delighted to be meeting<br><%me>,<br>goes on to explain current events.<br>She also shows them their new<br>guidance tool.<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
