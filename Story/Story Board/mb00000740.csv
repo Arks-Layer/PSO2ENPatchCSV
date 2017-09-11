@@ -1,4 +1,4 @@
 Title#0,"""Rendezvous Aboard the ARKS Ship"""
-TargetName_Errand#0,"""[E-3]<br>View an event<br>Event name: 総司令からのお願い"""
-TargetName_Errand2#0,"""[E-3]<br>View an event<br>Event name: 総司令からのお願い"""
-Explanation#0,"""<c 6fa8f8>[005-C] \""総司令からのお願い\""<c><br>新たな導きのかたち――ストーリーボードに触れた<br><%me>を労うシエラ。<br>笑顔を絶やさない彼女は<br>続けて一つのメッセージを提示してくる。<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
+TargetName_Errand#0,"""[E-3]<br>View an event<br>Event name: Request from the Commander"""
+TargetName_Errand2#0,"""[E-3]<br>View an event<br>Event name: Request from the Commander"""
+Explanation#0,"""<c 6fa8f8>[005-C] \""Request from the Commander\""<c><br>A new guidance tool -- Xiera thanks<br><%me> for trying the Story Board.<br>With a smile still on her face, she<br>gives them a message.<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
