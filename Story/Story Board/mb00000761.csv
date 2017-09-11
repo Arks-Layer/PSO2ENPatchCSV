@@ -1,4 +1,4 @@
 Title#0,"""Rendezvous Aboard the ARKS Ship"""
-TargetName_Errand#0,"""[O-4]<br>View an event<br>Event name: マイ、ベスト、フレンド！"""
-TargetName_Errand2#0,"""[O-4]<br>View an event<br>Event name: マイ、ベスト、フレンド！"""
-Explanation#0,"""<c 6fa8f8>[015-D] \""マイ、ベスト、フレンド！\""<c><br>サモナー創設者ピエトロ。<br>一度の出会いで刻まれた彼の印象は盲目的。<br>徹底的に自らのペットにのろけるその姿は<br>二度目の邂逅であっても、変わらないのだろうか。<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
+TargetName_Errand#0,"""[O-4]<br>View an event<br>Event name: My Best Friends!"""
+TargetName_Errand2#0,"""[O-4]<br>View an event<br>Event name: My Best Friends!"""
+Explanation#0,"""<c 6fa8f8>[015-D] \""My Best Friends!\""<c><br>The first impression Pietro, the Summoner<br>gave was of a man blindly devoted. He<br>spoke fondly of his pets. But would a second<br>encounter change anything?<br><br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
