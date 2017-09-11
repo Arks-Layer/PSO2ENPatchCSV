@@ -1,4 +1,4 @@
 Title#0,"""Rendezvous Aboard the ARKS Ship"""
-TargetName_Errand#0,"""[S-3]<br>View an event<br>Event name: 食事中の一幕"""
-TargetName_Errand2#0,"""[S-3]<br>View an event<br>Event name: 食事中の一幕"""
-Explanation#0,"""<c 6fa8f8>[019-C] \""食事中の一幕\""<c><br>引き続き、ショッピングを続けるヒツギたち。<br>休憩のために立ち寄ったカフェで<br>目にする光景は何なのか……<br><br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
+TargetName_Errand#0,"""[S-3]<br>View an event<br>Event name: During the Meal"""
+TargetName_Errand2#0,"""[S-3]<br>View an event<br>Event name: During the Meal"""
+Explanation#0,"""<c 6fa8f8>[019-C] \""During the Meal\""<c><br>Hitsugi continued shopping. But what did the<br>three see when they stopped at a cafe for<br>lunch...<br><br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
