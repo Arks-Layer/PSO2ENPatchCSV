@@ -3,7 +3,7 @@ Explanation#0,"""惑星アムドゥスキア、火山洞窟エリアの<br>バ�
 NpcComMsg1#0,"""現在、イベント会場周辺で異常が発生。<br>通常ではあり得ないエリアが具現化し<br>現地は大変な混乱に見舞われています！"""
 NpcComMsg2#0,"""その影響で、多数のエネミーが出現！<br>エリア外に出てしまわないよう<br>急いで撃退してください！"""
 NpcComMsg3#0,"""この現象に巻き込まれた<br>アークスもいるみたいです！<br>見かけたら助けてあげてください！"""
-SimpleExplanation#0,"""Head for the final area!"""
+SimpleExplanation#0,"""Head to the final area!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""
