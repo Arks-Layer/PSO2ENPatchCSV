@@ -1,4 +1,4 @@
 Title#0,"""Rendezvous Aboard the ARKS Ship"""
-TargetName_Errand#0,"""[U-3]<br>View an event<br>Event name: お風呂で一騒動"""
-TargetName_Errand2#0,"""[U-3]<br>View an event<br>Event name: お風呂を一騒動"""
-Explanation#0,"""<c 6fa8f8>[021-C] \""お風呂で一騒動\""<c><br>汗をかいたらお風呂でさっぱりする。<br>それは当たり前の考え。当然の流れ。<br>今ここにいるのが女二人だけならば<br>特に何も問題なく、物事は進んでいたはずである。<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
+TargetName_Errand#0,"""[U-3]<br>View an event<br>Event name: A Disturbance in the Bath"""
+TargetName_Errand2#0,"""[U-3]<br>View an event<br>Event name: A Disturbance in the Bath"""
+Explanation#0,"""<c 6fa8f8>[021-C] \""A Disturbance in the Bath\""<c><br>Since they were sweaty, a bath would be just<br>the thing to freshen up. It was a perfectly<br>natural idea. And if the two girls were the only<br>ones there, nothing would have been wrong.<br><br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
