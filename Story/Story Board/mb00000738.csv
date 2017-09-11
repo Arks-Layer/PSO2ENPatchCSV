@@ -1,4 +1,3 @@
 Title#0,"""Rendezvous Aboard the ARKS Ship"""
-TargetName_Errand#0,"""[B-3]<br>View an event<br>Event name: 新たな指針"""
-TargetName_Errand2#0,"""[B-3]<br>View an event<br>Event name: 新たな指針"""
-Explanation#0,"""<c 6fa8f8>[002-C] \""新たな指針\""<c><br>これまでの経緯を振り返り、説明を終えたシエラは<br><%me>との出会いを<br>喜びながら現在の状況について、説明を始める。<br>そして、新たな導きのかたちを、示してみせる。<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
+TargetName_Errand#0,"""[B-3]<br>View an event<br>Event name: A New Guide"""
+TargetName_Errand2#0,"""[B-3]<br>View an event<br>Event name: A New Guide"""
