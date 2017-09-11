@@ -1,4 +1,4 @@
 Title#0,"""Rendezvous Aboard the ARKS Ship"""
-TargetName_Errand#0,"""[D-4]<br>View an event<br>Event name: 伝説のバウンサー乙女"""
-TargetName_Errand2#0,"""[D-4]<br>View an event<br>Event name: 伝説のバウンサー乙女"""
-Explanation#0,"""<c 6fa8f8>[004-D] \""伝説のバウンサー乙女\""<c><br><%me>が休んでいた<br>二年の間に、伝説となっていたらしいカトリ。<br>そしてそのパートナーのサガとの再会。<br>どのような伝説が樹立されたのだろうか。<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
+TargetName_Errand#0,"""[D-4]<br>View an event<br>Event name: Bouncer Maiden of Legend"""
+TargetName_Errand2#0,"""[D-4]<br>View an event<br>Event name: Bouncer Maiden of Legend"""
+Explanation#0,"""<c 6fa8f8>[004-D] \""Bouncer Maiden of Legend\""<c><br>It seems that Katori has become a<br>legend during the two years that <%me><br>has been away. And now, here comes<br>Saga. Just what kind of legend has she<br>made for herself?<br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
