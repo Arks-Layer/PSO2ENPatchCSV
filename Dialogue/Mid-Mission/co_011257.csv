@@ -8,7 +8,7 @@ text10#0,"""Existen ciertas órdenes de escena que requieren que el jugador no u
 text11#0,"""Esto explicará [Cambios de Habilidad Hostil].<br><br>En Extreme Quests, hemos fortalecido artificialmente a los enemigos para crear un ambiente duro para la Quest. Este fortalecimiento se llama [Cambios de Habilidad Hostil].<br><br>Sin embargo, un Cambio de Habilidad Hostil que fortalecería las resistencias de un enemigo puede ser invertido completando una [Orden de Escenario] en el Escenario anterior, convirtiéndola en una ventaja para el jugador."""
 skit01#0,"""Porque sentí que era demasiado fácil, he añadido desafíos adicionales<br>De Esenario en Esenario!"""
 skit02#0,"""Definitivamente hace el escenario más difícil, pero<br>Si completa el desafío, puede debilitar al<br>Enemigo siguiente, o producir nuevos datos!"""
-skit03#0,"""No sólo eso, sino completar los retos<br>También aumentará el número de objetos<br>que podra llevar al final de la simulación!"""
+skit03#0,"""No sólo eso, si completar los retos<br>También aumentará el número de objetos<br>que podra llevar al final de la simulación!"""
 skit04#0,"""¡Hola! Gracias por venir. Me llamo Karin!"""
 skit05#0,"""Te han dado la oportunidad de participar en esta Extreme quest.<br>¡Nos veremos mucho el uno al otro!"""
 skit06#0,"""Ohohoho!<br>Por favor, vaya al teletransportador.<br>¡Aquí es donde comienza la diversión!"""
