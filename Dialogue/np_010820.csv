@@ -54,7 +54,7 @@ st01_030#0,"""任務は大切ではありますが<br>心身を癒やすこと�
 11_voice_NPC_5082_100#14,"""<%me>さん。<br>ようこそいらっしゃいました。"""
 soubi_020#0,"""コレクトファイルの詳細について<br>改めて説明いたしますので<br>少々お時間よろしいでしょうか。"""
 Title#0,"""Acerca de la [coleccion de archivo]"""
-text01#0,"""Recibira una cantidad de plantillas<br>de parte de pudín, y si consigues<br>todos los objetos de la lista, usted<br>puede conseguir el objeto de la<br>recompensa."""
+text01#0,"""Recibira una cantidad de plantillas<br>de parte de Pudding, y si consigues<br>todos los objetos de la lista, usted<br>puede conseguir el objeto de la<br>recompensa."""
 text02#0,"""Seleccione el comando [Archivo de Recoleccion]<br>y seleccione la plantilla del objeto que desea obtener.<br>Usted puede poseer hasta 3 plantillas a la vez."""
 text03#0,"""Los objetos requeridos se obtienen eliminando<br>al enemigo objetivo.<br><br>Si el objeto no cae durante la mision incluso si<br>destruye al enemigo, el calibre de los objetos<br>requeridos se acumulará según el número de<br>derrotas en el momento del éxito de la misión.<br>Si abandona la mision perdera el progreso.<br>Si el calibre llega a 100%, el objeto<br>efinitivamente caera en la siguiente mision.<br><br>※Los enemigos de Story Quest no cuentan."""
 text04#0,"""Cuando obtines todos los objetos requeridos<br>el objeto de la recompensa lo otendra de inmediato. <br>si su inventario esta lleno este quedara en tu Almace<br><br>SI deseas obtener el mismo objeto denuevo, tendra que<br>esperaris para poder seleccionar la planilla.<br><br>Puedes acortar el tiempo de espera usando 60 SG."""
