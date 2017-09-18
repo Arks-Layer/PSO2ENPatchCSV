@@ -9,7 +9,7 @@ NpcComMsg1#0,"""¡Hemos detectado un gran phantom <br>en la superficie lunar que
 NpcComMsg2#0,"""Debido a que el objetivo se está moviendo muy rápido, vamos a necesitar los Rideroid para rastrear el objetivo y tratar de derrotarlo!"""
 Area0S#0,"""Superficie Lunar"""
 Area0L#0,"""Satelite: Luna - Superficie Lunar"""
-Area1S#0,"""Phantom Pillar"""
+Area1S#0,"""幻創の柱"""
 Area1L#0,"""Satelite: Luna - Phantom Pillar"""
 Area1S#1,"""Superficie Lunar"""
 Area1L#1,"""Satelite: Luna - Superficie Lunar"""
