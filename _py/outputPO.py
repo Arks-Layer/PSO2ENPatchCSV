@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import csv
 import codecs
+import csv
 import os
 import sys
 
@@ -58,17 +58,17 @@ for i in sys.argv[2:]:
 			POWCF = POWC.replace("　", " ")
 			#white-space
 			print("")
-			##  translator-comments
-			##. extracted-comments
-			##: reference…
+			# #  translator-comments
+			# #. extracted-comments
+			# #: reference…
 			print("#: {}:{}".format(basename, POID))
-			##, flag…
+			# #, flag…
 			print("#, no-c-format")
-			##| msgctxt previous-context
+			# #| msgctxt previous-context
 			print("#| msgctxt \"{}:{}\"".format(basename, POID))
-			##| msgid previous-untranslated-string
+			# #| msgid previous-untranslated-string
 			print("#| msgid \"{}\"".format(POJP))
-			#msgctxt context
+			# msgctxt context
 			print("msgctxt \"{}:{}\"".format(basename, ID))
 			if JPcheck:
 				#msgid untranslated-string

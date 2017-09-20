@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-import csv
 import codecs
+import csv
 import os
 import sys
 
@@ -17,9 +17,9 @@ for i in sys.argv[1:]:
 			#print(row)
 			try:
 				QCrow = list(csv.reader(row, strict=True))
-			except:
+			except Exception as e:
 				#print(row)
-				print("Issue in File {}:{}".format(i, x + 1))
+				print("Issue in File {} Line{}: {}".format(i, x + 1, e))
 				err = 1
 			#print(QCrow)
 

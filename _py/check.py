@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-import csv
 import codecs
+import csv
 import os
 import sys
 
@@ -18,8 +18,8 @@ for i in sys.argv[1:]:
 
 			try:
 				JPCSV = list(csv.reader(JP, strict=True))
-			except:
-				print("Error reading {0}".format(i))
+			except Exception as e:
+				print("Error reading {}: {}".format(i, e))
 				if err == 0:
 					err = os.EX_DATAERR
 				break
@@ -27,8 +27,8 @@ for i in sys.argv[1:]:
 			try:
 				WC = codecs.open(w, encoding="utf-8")
 				WCCSV = list(csv.reader(WC, strict=True))
-			except:
-				print("Error reading of {0}".format(w))
+			except Exception as e:
+				print("Error reading of {}: {}".format(w, e))
 				if err == 0:
 					err = os.EX_UNAVAILABLE
 				break
@@ -54,9 +54,9 @@ for i in sys.argv[1:]:
 						if col not in JPlist:
 							print("File {} have extra line: {}".format(w, col))
 							err = 1
-	except:
+	except Exception as e:
 		err = 1
-		print("File {} is badly formatted".format(w))
+		print("File {} is badly formatted: {}".format(w, e))
 
 
 sys.exit(err)
