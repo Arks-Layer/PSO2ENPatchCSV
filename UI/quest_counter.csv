@@ -635,7 +635,7 @@ Quest_Explain_Text_2#0,"""・Class level required:<br>\u3000<pict mainclass_icon
 Quest_Explain_Text_3#0,"""Complete $(0)"""
 Quest_Story_Explain#0,"""Browse the event."""
 Quest_Explain_Continue#0,"""All available quests have been completed.<br><br>Please wait for the next update."""
-Quest_Explain_Continue_1#0,"""オムニバスクエスト【EP1】の<br>ストーリーは、すべてクリア済みです。<br><br>続きは、次のEPISODEの配信をお待ちください。"""
+Quest_Explain_Continue_1#0,"""オムニバスクエスト【EP1】の<br>ストーリーは、すべてクリア済みです。<br><br>続きは、EPISODE 2でプレイ可能です。<br><br><yellow>※<c><%Decide><yellow>でEPISODE 2へ<c>"""
 Quest_Explain_Continue_2#0,"""オムニバスクエスト【EP2】の<br>ストーリーは、すべてクリア済みです。<br><br>続きは、次のEPISODEの配信をお待ちください。"""
 Quest_Explain_Continue_3#0,"""オムニバスクエスト【EP3】の<br>ストーリーは、すべてクリア済みです。<br><br>ありがとうございました。"""
 Quest_Name_Continue#0,"""\u3000\u3000\u3000Until next update..."""
