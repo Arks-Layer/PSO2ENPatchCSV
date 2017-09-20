@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-import unicodedata
 from sys import stdin
+import unicodedata
+
 
 def removeCJK(input):
 	output = []
