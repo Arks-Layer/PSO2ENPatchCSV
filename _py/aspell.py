@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-import csv
 import codecs
+import csv
 import os
 import sys
 
@@ -79,5 +79,3 @@ for i in sys.argv[1:]:
 					if check != '""':
 						bufout += "\n{0}".format(check)
 	print(bufout)
-
-
