@@ -72,7 +72,7 @@ jobs:
           command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - run:
           name: Are there spell mistakes
-          command: ./_sh/listaspell.sh > /tmp/listaspell.txt
+          command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
