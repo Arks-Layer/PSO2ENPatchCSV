@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import csv
 import codecs
+import csv
 import os
 import sys
 
