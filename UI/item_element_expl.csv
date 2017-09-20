@@ -277,7 +277,7 @@
 276#0,"""S-ATK +20 HP +20<br>PP +3"""
 277#0,"""R-ATK +20 HP +20<br>PP +3"""
 278#0,"""T-ATK +20 HP +20<br>PP +3"""
-279#0,"""打撃+25 射撃+25<br>法撃+25"""
+279#0,"""S-ATK +25 R-ATK +25<br>T-ATK +25"""
 0#1,"""Grants Burn Lv.1"""
 1#1,"""Grants Burn Lv.2"""
 2#1,"""Grants Burn Lv.3"""

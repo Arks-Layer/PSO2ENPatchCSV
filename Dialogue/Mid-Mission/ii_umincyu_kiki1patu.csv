@@ -1,5 +1,5 @@
-IncidentName#0,"""Close Call on Vopar!"""
-TrialBeginMsg#0,"""Rescue the civilians of Vopar!"""
+IncidentName#0,"""Close Call on Wopal!"""
+TrialBeginMsg#0,"""Rescue the civilians of Wopal!"""
 TrialAbstract#0,"""Destroy the Gum Anemones!"""
 NpcComOnBegin#0,"""/face1 捕獲されている原生住民を発見。<br>このままでは危険です。<br>至急、救助をお願いします。"""
 NpcComOnSuccess#0,"""/face2 救出、成功です。<br>原生住民も感謝しているようですね。"""
