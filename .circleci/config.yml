@@ -72,7 +72,7 @@ jobs:
           command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - run:
           name: Are there spell mistakes
-          command: cat /tmp/dict.txt;find . -maxdepth 1 -name "aspell.nofail"|egrep '.*' > /dev/null||exit `wc -l /tmp/dict.txt|cut -f1 --d " "`
+          command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
@@ -88,3 +88,6 @@ jobs:
       - store_artifacts:
           path: /tmp/mp.log
           destination: mplog.txt
+      - store_artifacts:
+          path: /tmp/listaspell.txt
+          destination: listaspell.txt
