@@ -34,12 +34,13 @@ files = [
 	for dirpath, dirnames, files in os.walk(dir)
 	for f in fnmatch.filter(files, '*.csv')
 ]
+files.sort()
 
 p = mp.Pool(mp.cpu_count())
 p.map(check, files)
 p.close()
 p.join()
 
-print(json.dumps({k: v for k, v in gD.items() if len(v) > 1}))
+print(json.dumps({k: v for k, v in gD.items() if len(v) > 1}, sort_keys=True))
 
 sys.exit(err)
