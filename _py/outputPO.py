@@ -16,7 +16,7 @@ POnice = [
 ]
 
 
-def POformat(input):
+def poformat(input):
 	inputl = input
 	for i, o in POnice:
 		outtext = inputl.replace(i, o)
@@ -48,13 +48,13 @@ for i in sys.argv[2:]:
 		#	continue
 		for x, row in enumerate(JPCSV):
 			ID = row[0]
-			POID = POformat(ID)
+			POID = poformat(ID)
 			JP = JPCSV[x][1][1:-1]
-			POJP = POformat(JP)
+			POJP = poformat(JP)
 			EN = ENCSV[x][1][1:-1]
-			POEN = POformat(EN)
+			POEN = poformat(EN)
 			WC = WCCSV[x][1][1:-1]
-			POWC = POformat(WC)
+			POWC = poformat(WC)
 			POWCF = POWC.replace("　", " ")
 			#white-space
 			print("")
