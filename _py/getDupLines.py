@@ -12,6 +12,7 @@ import sys
 m = mp.Manager()
 gD = m.dict()
 
+
 def check(file):
 	with codecs.open(file, encoding="utf-8") as f:
 		c = list(csv.reader(f, strict=True))
@@ -40,7 +41,7 @@ files.sort()
 #p.close()
 #p.join()
 
-for i,file in enumerate(files):
+for i, file in enumerate(files):
 	print("{0}/{1}".format(i, len(files)), file=sys.stderr)
 	check(file)
 

@@ -13,7 +13,7 @@ m = mp.Manager()
 gD = m.dict()
 cD = m.dict()
 associations = m.dict()
-rev_associations = m.dict() #For more useful error logs
+rev_associations = m.dict()  # For more useful error logs
 
 
 def check(file):
