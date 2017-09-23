@@ -13,7 +13,6 @@ m = mp.Manager()
 gD = m.dict()
 cD = m.dict()
 associations = m.dict()
-rev_associations = m.dict()  # For more useful error logs
 
 
 def check(file):
@@ -24,7 +23,7 @@ def check(file):
 			if key not in associations:
 				continue
 			if associations[key] in gD and gD[associations[key]] != line[1]:
-				print("Error: Key {0}, expected {1} got {2} (association group {3})".format(key, gD[associations[key]], line[1], rev_associations[associations[key]]))
+				print("Error: Key {0}, expected {1} got {2}".format(key, gD[associations[key]], line[1]))
 			elif associations[key] not in gD:
 				gD[associations[key]] = line[1]
 
@@ -43,10 +42,6 @@ for n, (k, v) in enumerate(cD.items()):
 	for i in v:
 		fs.add(i.split("::")[0])
 		associations[i] = n
-		if n in rev_associations:
-			rev_associations += [i]
-		else:
-			rev_associations = [i]
 
 files = [
 	os.path.join(dirpath, f)
