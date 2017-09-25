@@ -23,7 +23,7 @@ Si no sabes Japones, pero aun quieres contribuir, puedes ver los archivos que se
 * Puedes buscar lineas pendientes de traducir usando el GLaDOS bot en la sala #translations-public en el **[PSO2 Discord Server]**. Como usarlo esta ente los mensajes anidados.
 * Mantén las 3 tildes y solo edita dentro de esas tildes.
 * Dala un vistazo a la **[Wiki]** para mas y guías y recordatorios antes de mandar tus traducciones.
-* Puedes crear una **[Discusión]** para discutir las traducciones con otros traductores. Por favor ten en cuenta que las discusiones que no estén relacionadas con la traducción, serán eliminadas sin ninguna advertencia.
+* Puedes crear una **[Issue]** para abrir una discusión sobre las traducciones con otros traductores. Por favor ten en cuenta que las discusiones que no estén relacionadas con la traducción, serán eliminadas sin ninguna advertencia.
 
 ### Procedimiento
 #### Desde la Web
@@ -44,5 +44,5 @@ Si no sabes Japones, pero aun quieres contribuir, puedes ver los archivos que se
 [PSO2 Discord Server]: https://discord.gg/PSO2
 [Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
 [Rama en Ingles]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN  
-[Discusión]: https://github.com/Arks-Layer/PSO2ENPatchCSV/issues  
+[Issue]: https://github.com/Arks-Layer/PSO2ENPatchCSV/issues  
 [GitHub Desktop]: https://desktop.github.com
