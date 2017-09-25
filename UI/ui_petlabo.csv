@@ -4,7 +4,7 @@ CompressMessage#0,"""圧縮を開始します。<br>よろしいですか？<br>
 CompressMessage_v#0,"""圧縮を開始します。よろしいですか？<br>※補助アイテムを使用することで、<br>  成功確率を上げることができます。"""
 CompressResultMessage1#0,"""圧縮に<green>成功<c>しました。"""
 CompressResultMessage2#0,"""圧縮に<red>失敗<c>しました。"""
-CompressSize#0,"""サイズ"""
+CompressSize#0,"""Größe"""
 CompressSizeNumber#0,"""$(0)x$(1)"""
 CompressItemCandy#0,"""アイテムパックから圧縮"""
 CompressCandyBoxCandy#0,"""キャンディーボックスから圧縮"""
