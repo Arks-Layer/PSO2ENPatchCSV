@@ -2,42 +2,47 @@
   <img src="http://i.imgur.com/dM2s0Jo.png" alt="PSO2 Logo"/>
 </p>
 
-# PSO2 Spanish Patch 
-Welcome to the PSO2 Spanish Patch CSV Repository.
-
+# PSO2 Parche en Español 
+Bienvenido al Repositorio CSV del Parche en Español de PSO2.  
 [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES)
 
-This repository is dedicated to translating PSO2 game texts from Japanese/English to Spanish.
+---
+Este repositorio esta dedicado a traducir los textos del juego PSO2 desde el Japones/Ingles al Español.
 
-We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native language.
-## Contributions
-### To-Do
-Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
+Esperamos que al desvelar los textos del juego y abrir este repositorio, se pueda pavimentar un camino mas rápido para que los ARKS que no hablan Japones puedan disfrutar el juego en su idioma natal.
 
-### Don't know Japanese but still want to contribute?
-If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct.
+## Contribuciones
+### Para Hacer
+Cualquier archivo CSV que se encuentre en [Files] esta pendiente por ser traducido, mientras los archivos CSV que se encuentren en las otras carpetas están parcial o totalmente traducidos.
 
-### Notice
-* If you want to translate a file that's in the "/Files/" directory then you **MUST** [move the file into another directory](https://github.com/blog/1436-moving-and-renaming-files-on-github) before you translate it. The /Files/ directory **MUST** only contain untranslated files.
-* You can find stuff to translate by using the GLaDOS bot in the #translations-public room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
-* Maintain the triple quotes and only edit the text inside the quotes.
-* Be sure to take a look at the **[Wiki]** page for guides and reminders before sending us your translations.
-* You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
+### No sabes Japones, pero quieres contribuir de todos modos?
+Si no sabes Japones, pero aun quieres contribuir, puedes ver los archivos que se encuentren ya traducidos y revisar si toda su gramática, deletreo y adaptación estén correctos, igualmente puedes tomar como referencia los archivos en la [Rama en Ingles] como base para traducir algún contenido extra.
 
-### Process
- 1. Click the "Fork" button in the upper right of this GitHub page to make a copy of the translations for you to work with.
- 2. Click the file you want to edit.
- 3. Click the pencil icon.
- 4. Edit the file to your heart's content! (**ONLY EDIT THE TEXT INSIDE THE TRIPLE QUOTES**)
- 5. Write a brief summary of the changes at the bottom of the page.
- 6. Hit "Commit changes".
- 7. Repeat steps 2 to 6 on as many files as you would like to edit. Once finished, proceed to step 8.
- 8. Click the "New pull request" button at the upper left of the GitHub page.
- 9. Make sure the "Base fork" is "Arks-Layer/PSO2ENPatchCSV" and that the "Head fork" is your own.
- 10. Click the "Create pull request" button and enter a title with a small summary.
- 11. Click "Create pull request" again and your changes will be posted.
- 12. Once someone looks through your changes they will merge them into the translation patch.
+### Advertencias
+* Si vas a traducir algún archivo que se encuentre en la carpeta "/Files/" tu **DEBES** [mover el archivo a otra carpeta](https://github.com/blog/1436-moving-and-renaming-files-on-github) antes de traducirlo. La carpeta /Files/  solo **DEBE** contener archivos sin traducción.
+* Puedes buscar lineas pendientes de traducir usando el GLaDOS bot en la sala #translations-public en el **[PSO2 Discord Server]**. Como usarlo esta ente los mensajes anidados.
+* Mantén las 3 tildes y solo edita dentro de esas tildes.
+* Dala un vistazo a la **[Wiki]** para mas y guías y recordatorios antes de mandar tus traducciones.
+* Puedes crear una **[Discusión]** para discutir las traducciones con otros traductores. Por favor ten en cuenta que las discusiones que no estén relacionadas con la traducción, serán eliminadas sin ninguna advertencia.
+
+### Procedimiento
+#### Desde la Web
+ 1. Presiona el botón "Fork" que se encuentra en la esquina superior derecha de esta pagina de GitHub para hacer una copia de las traducciones para que puedas trabajar con esta.
+ 2. Haz clic en el archivo que desees editar.
+ 3. Haz clic en el icono del pincel.
+ 4. Edita el archivo con cuidado y cariño! (**SOLO EDITA EL TEXTO QUE SE ENCUENTRA DENTRO DE LAS TRES COMILLAS**)
+ 5. Escribe un pequeño sumario de los cambios realizados.
+ 6. Presiona "Commit changes".
+ 7. Repite los 2 al 6 con todos los archivos que quieras editar. Una vez finalizado procedemos al paso 8.
+ 8. Haz clic en el botón "New pull request" en la esquina superior izquierda en la pagina de GitHub.
+ 9. Asegúrate que "Base fork" sea "Arks-Layer/PSO2ENPatchCSV" y en el "Head fork" se encuentre el tuyo.
+ 10. Haz clic en el botón de "Create pull request" y escribe un titulo y un pequeño sumario.
+ 11. Haz clic en el botón de "Create pull request" de nuevo y tus cambios serán enviados.
+ 12. Hasta que alguien del equipo observe los cambios que has realizado estos serán a combinados con el parche de traducción.  
 
 [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/ES/Files
 [PSO2 Discord Server]: https://discord.gg/PSO2
 [Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
+[Rama en Ingles]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN  
+[Discusión]: https://github.com/Arks-Layer/PSO2ENPatchCSV/issues  
+[GitHub Desktop]: https://desktop.github.com
