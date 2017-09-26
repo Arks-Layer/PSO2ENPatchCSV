@@ -74,7 +74,7 @@ jobs:
           name: Check for dup IDs
           command: ./_sh/DupLines.sh >/tmp/duplines.txt
       - run:
-          name: Are there spell mistakes
+          name: Are there any spelling mistakes
           command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.po.gz
