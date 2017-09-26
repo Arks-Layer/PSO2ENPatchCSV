@@ -71,7 +71,10 @@ jobs:
           name: output in GetText PO
           command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - run:
-          name: Are there spell mistakes
+          name: Check for dup IDs
+          command: ./_sh/DupLines.sh >/tmp/duplines.txt
+      - run:
+          name: Are there any spelling mistakes
           command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.po.gz
@@ -85,6 +88,9 @@ jobs:
       - store_artifacts:
           path: /tmp/dict.txt
           destination: dict.txt
+      - store_artifacts:
+          path: /tmp/duplines.txt
+          destination: duplines.txt
       - store_artifacts:
           path: /tmp/mp.log
           destination: mplog.txt
