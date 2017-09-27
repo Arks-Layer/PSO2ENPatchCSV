@@ -124,7 +124,7 @@ Warning_MaxAll_MsgPreLimitBreak#0,"""$(0)に<br>これ以上のエッグ合成�
 Warning_LockEgg_Title#0,"""Alimentar mascota"""
 Warning_LockEgg_Msg#0,"""ロックされているアイテムは<br>エッグ合成に使用できません。"""
 DirectBuy_EggSynthesisNum_MaxCount_Title#0,"""Compra confirmada"""
-DirectBuy_EggSynthesisNum_MaxCount_Msg#0,"""「合成可能数回復」$(0)no puedes<br> comprar mas."""
+DirectBuy_EggSynthesisNum_MaxCount_Msg#0,"""「合成可能数回復」$(0)no puedes<br>comprar mas."""
 DirectBuy_EggSynthesisNum_FromButton_Title#0,"""Compra confirmada"""
 DirectBuy_EggSynthesisNum_FromButton_Msg#0,"""<pict StarGem><c 1dedd7>Consumo de SG<c><br><br>$(0)の合成可能数を<br>SGでチャージすることができます。<br><br>「合成可能数回復」の購入確認画面に<br>進みますか？"""
 DirectBuy_EggSynthesisNum_FromEmpty_Title#0,"""Compra confirmada"""

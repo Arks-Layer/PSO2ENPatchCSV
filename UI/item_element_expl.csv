@@ -767,7 +767,7 @@
 219#1,"""Cuando el pet tiene poco HP,<br>rara vez recupera HP<br>cuando tu recibes daño."""
 220#1,"""Rara vez se restaura HP<br>cuando derrotas a un enemigo<br>con un ataque de tu pet."""
 221#1,"""Restaura HP cuando <br>tu mascota no recibe daños<br>durante un periodo determinado."""
-222#1,"""Restaura un porcentaje fijo de HP<br>a los jugadores que rodea  cuando<br>se restablece el pet con HP."""
+222#1,"""Restaura un porcentaje fijo de HP<br>a los jugadores que rodea cuando<br>se restablece el pet con HP."""
 223#1,"""Reduce el daño recibido<br>cuando el HP del pet<br>es inferior al 50%."""
 224#1,"""Disminuye el daño recibido por<br>enemigos fuertes hacia el pet."""
 225#1,"""El pet se vuelve invencible durante<br>un periodo determinado de tiempo<br>cuando esta lleno de calibre PB."""

@@ -11,5 +11,5 @@ NpcComOnBegin#1,"""U-urgentes! Potentes lecturas<br>enemigas confirmadas!<br>Por
 NpcComOnSuccess#1,"""/face2 Las presencias enemigas<br>han desaparecido! Muchas<br>gracias a todos!"""
 NpcComOnFailure#1,"""/face6 ¡No! Los ARKS han sufrido<br>graves daños...<br>Teletransportelos al Campship..."""
 HP_Under_50#1,"""$(0) se esta debilitando!"""
-HP_Under_10#1,"""$(0) le queda muy poca  fuerza!"""
+HP_Under_10#1,"""$(0) le queda muy poca fuerza!"""
 NpcComLastEnemy#1,"""/face2 ¡Uno mas! ¡Uno mas!"""

@@ -10,7 +10,7 @@ NpcComOnSuccessDestroy#0,"""Usted ha tenido exito en la destrucción de los Gel 
 NpcComOnFailure#0,"""/face4 Los daños causados por los<br>Gel Wulffs ha alcanzado niveles criticos!<br>Esto es mas de lo que podemos sostener"""
 NpcComOnTarget#0,"""$(0)! Cuidado! Estas en la mira!"""
 NpcComOnTime1#0,"""Los Gel Wulffs no van a durar mucho tiempo! Aguanta hasta entonces!"""
-NpcComOnTime2#0,"""Asi se hace ! Los gel Wulffs se quedaran sin energia pronto! Evitarlos  un poco mas!"""
+NpcComOnTime2#0,"""Asi se hace ! Los gel Wulffs se quedaran sin energia pronto! Evitarlos un poco mas!"""
 NpcComOnHit#0,"""Confirmo que el Cañon de photones es eficiente. Justo como lo planeamos, podemos usar esto para derrotarlos """
 NpcComDeadEmplacement#0,"""Transfiriendo otro Cañon de photones."""
 NpcComOnRepop#0,"""Confirmo la reaparición de los<br>Gel Wulffs! todo el mundo, mantengan los<br>ojos abiertos."""

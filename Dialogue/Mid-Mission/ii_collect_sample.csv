@@ -18,4 +18,4 @@ NpcComOnAccess#1,"""Para poder trabajar con la maquina Minera, debe presionar <%
 NpcComOnHit#1,"""Al excavar puedes encontrar algunos objetos, aparte de datos valiosos.."""
 NpcComOnMiss#1,"""No permanezca en un solo lugar, hay otras maquinas que se pueden utilizar."""
 NpcComOnPreSuccess#1,"""Nuestra cuota se ha cumplido. Como todavia sobra tiempo, es posible continuar con su excavación."""
-NpcComOnPreFinish#1,"""Las maquinas dejaran de  funciónar en poco tiempo. Si todavia esta excavando, por favor date prisa."""
+NpcComOnPreFinish#1,"""Las maquinas dejaran de funciónar en poco tiempo. Si todavia esta excavando, por favor date prisa."""

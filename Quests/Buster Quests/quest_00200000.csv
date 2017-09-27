@@ -12,7 +12,7 @@ OnDefencePhase3Start0#0,"""¡Una fuerte señal ha sido detectada desde el Devil 
 OnDefencePhase3Start1#0,"""Otra señal fuerte detectada desde el Devil Castle...!<br>¡Por favor, defiende nuestras torres del ataque del Devil Castle!"""
 OnAttackPhase1Start0#0,"""¡Convocando Buster Pile!<br>¡ escolte la carga y derribe las barreras enemigas!"""
 OnAttackPhase1Start1#0,"""¡Convocando Buster Pile!<br>Protege el Buster Pile! de los ataques enemigos y destruye las barreras restantes!"""
-OnAttackPhase1Start2#0,"""¡Convocamos el  Buster Pile!<br>¡Vamos a romper las barreras!"""
+OnAttackPhase1Start2#0,"""¡Convocamos el Buster Pile!<br>¡Vamos a romper las barreras!"""
 OnAttackPhase2Start0#0,"""¡Destruimos con éxito todas las barreras!<br>¡Todo lo que queda es derrotar al Devil Castle!<br>Vamos a atacar el núcleo ubicado en el abdomen!"""
 OnAttackPhase2Start1#0,"""¡El Devil Castle desata su asalto hacia las Buster towers a intervalos regulares!<br>¡Por favor destruye el núcleo tan pronto como sea posible!"""
 OnAttackPhase3Start0_0#0,"""¡Muévase a las escaleras izquierdas o derechas que conducen hacia el centro para atacar el Devil Castle!"""
