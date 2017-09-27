@@ -1,0 +1,4 @@
+Title#0,"""Rendezvous Aboard the ARKS Ship"""
+TargetName_Errand#0,"""[A-3]<br>View an event<br>Event name: Meeting Xiera"""
+TargetName_Errand2#0,"""[A-3]<br>View an event<br>Event name: Meeting Xiera"""
+Explanation#0,"""<c 6fa8f8>[001-C] \""Meeting Xiera\""<c><br>When <%me> awoke,<br>they were greeted by a woman called<br>Xiera. With a bright, cheerful and familiar<br>smile, she brought them up to speed on events.<br><br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
