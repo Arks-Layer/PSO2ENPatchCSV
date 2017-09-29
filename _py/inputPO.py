@@ -17,7 +17,7 @@ PInice = [
 ]
 
 
-def PIformat(input):
+def piformat(input):
 	inputl = input
 	for i, o in PInice:
 		outtext = inputl.replace(i, o)
@@ -27,15 +27,15 @@ def PIformat(input):
 	return outtext
 
 
-def outputPO(input):
+def outputpo(input):
 	for i in sys.argv[2:]:
 		#print(i)
 		with codecs.open(i, mode="w+", encoding="utf-8") as f:
-			CSV = csv.writer(f)
+			outcsv = csv.writer(f)
 			basename = os.path.splitext(os.path.basename(i))[0]
 			for e in PO:
 				if basename == e[0]:
-					CSV.writerow(e[1])
+					outcsv.writerow(e[1])
 
 
 PO = []
@@ -54,6 +54,6 @@ for inline in codecs.open(sys.argv[1], encoding="utf-8"):
 	if inline == "\n":
 		if POText == "":
 			POText = POTextJP
-		PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]])
-#PO.append([POFile, [POID, "\"{}\"".format(PIformat(POText))]]);
-outputPO(PO)
+		PO.append([POFile, [POID, "\"{}\"".format(piformat(POText))]])
+#PO.append([POFile, [POID, "\"{}\"".format(piformat(POText))]]);
+outputpo(PO)
