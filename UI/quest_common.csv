@@ -936,7 +936,7 @@ OnRamCountIncrease#1,"""<c 8cf0ff>Mana Lv.UP! Number of Buster Piles increased! 
 OnMatLvUpAfterRamMax#1,"""<c 8cf0ff>Mana Lv.UP! Buster Tower healed & our weapons strengthened!<c>"""
 OnBoostStart#0,"""Consumed a Main Match Boost, Boost Effect applied."""
 OnBrokenBase#0,"""$(0) has been destroyed! ($(1) left)"""
-OnTimeDecreaseRate#1,"""戦闘終了まで、残り半分！"""
+OnTimeDecreaseRate#1,"""We're half way done, keep going!"""
 OnTimeDecreaseSecond#1,"""One minute remaining!"""
 OnAttackPhase1Start#0,"""<yellow>[Objective Updated]<br><br>Escort the Buster Pile & attack the enemy barriers!<c>"""
 OnAttackPhase2Start#0,"""<yellow>[Objective Updated]<br><br>Destroy the core on the Devil Castle's stomach!<c>"""
