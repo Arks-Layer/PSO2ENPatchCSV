@@ -71,8 +71,11 @@ jobs:
           name: output in GetText PO
           command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - run:
-          name: Are there spell mistakes
-          command: cat /tmp/dict.txt;find . -maxdepth 1 -name "aspell.nofail"|egrep '.*' > /dev/null||exit `wc -l /tmp/dict.txt|cut -f1 --d " "`
+          name: Check for dup IDs
+          command: ./_sh/DupLines.sh >/tmp/duplines.txt
+      - run:
+          name: Are there any spelling mistakes
+          command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
@@ -86,5 +89,11 @@ jobs:
           path: /tmp/dict.txt
           destination: dict.txt
       - store_artifacts:
+          path: /tmp/duplines.txt
+          destination: duplines.txt
+      - store_artifacts:
           path: /tmp/mp.log
           destination: mplog.txt
+      - store_artifacts:
+          path: /tmp/listaspell.txt
+          destination: listaspell.txt
