@@ -1284,7 +1284,7 @@ GunslashPA11#1,"""『銃剣』用のフォトンアーツ。<br>銃形態、剣�
 RiflePA01#1,"""Rifle photon art.<br>Loads and fires a piercing shot. Slow firing rate, but high power."""
 RiflePA02#1,"""Rifle photon art.<br>Loads and fires an explosive shot. The explosion can hit multiple targets."""
 RiflePA03#1,"""Rifle photon art.<br>Concentrates fire at a single point. Simple, but very powerful."""
-RiflePA04#1,"""Rifle photon art.<br>Loads and fires a diffuse bullet, capable of hitting multiple targets."""
+RiflePA04#1,"""Rifle photon art.<br>Loads and fires a diffuse shot, capable of hitting multiple targets."""
 RiflePA05#1,"""Rifle photon art.<br>Charge to choose targets, then release to fire homing shots at them."""
 RiflePA06#1,"""Rifle photon art.<br>Perform a slide while shooting. A combination of offense and mobility."""
 RiflePA07#1,"""Rifle photon art.<br>Hold to sneak forward. Release at any time to fire a shot."""
