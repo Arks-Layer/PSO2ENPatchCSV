@@ -8,7 +8,7 @@ NpcComOnBegin#0,"""Insect fossils we'd like to study <br>have been discovered in
 NpcComOnBeginAtRareCase#0,"""Discovered insect fossils we'd like to <br>study! Our time is short. Everyone, <br>please bring the items in question <br>to the pods quickly!"""
 NpcComOnSuccess#0,"""/face2 Confirmed the securing of a <br>considerable number of objects. <br>This will suffice. Thank you."""
 NpcComOnFailure#0,"""/face4 We couldn't secure our quota. <br>It can't be helped. Please, <br>return to your mission."""
-GoodsPosition#0,"""There seems to be <br>a target a $(0)!"""
+GoodsPosition#0,"""There seems to be <br>a target at $(0)!"""
 RepopGoods#0,"""New targets to retrieve have <br>been confirmed! Everyone, <br>please retrieve them."""
 OnAccessPodByEmptyHand#0,"""Please access the pod <br>after collecting targets."""
 Collect1st#0,"""Confirmed target storage. <br>Please, keep it up!"""
