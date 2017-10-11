@@ -224,7 +224,7 @@
 10_Dungeon_019#0,"""ギャザリング実績を達成することで釣りや採取レベルがあがる。"""
 10_Dungeon_020#0,"""ライドロイドは「ジャストアタックリング」に合わせて「ブースト」すると<br>最大速度で移動できる。"""
 10_Dungeon_021#0,"""ライドロイドのPPは「エネルギーリング」をくぐると回復できる。"""
-10_Dungeon_022#0,"""キャンプシップ内であれば、メインメニューの「リサイクルショップ」が使用できる。"""
+10_Dungeon_022#0,"""キャンプシップ内であればメインメニューやクイックメニューの<br>「リサイクルショップ」が使用できる。"""
 15_ChallengeCommon_001#0,"""En un Misión de Desafio, cada area es llamada una 'Misión'.<br>La meta del Quest es completar la misión especificada."""
 15_ChallengeCommon_002#0,"""En un Misiónes de Desafio (Challenge) la energia VR sirve como un limite de tiempo.<br>Puedes extender este limite de tiempo levantando capsulas de energia."""
 15_ChallengeCommon_003#0,"""No puedes extender el limite de tiempo mas alla del limite designado<br>por cada Misión de Desafio, inclusive si levantas capsulas de energia."""
