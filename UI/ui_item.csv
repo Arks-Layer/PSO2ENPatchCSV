@@ -7376,7 +7376,7 @@ RiflePA05_01#0,"""Rather than locking on to multiple targets,<br>fire all shots 
 RiflePA06_01#0,"""アサルトライフルPA6・カスタム1説明文"""
 RiflePA07_01#0,"""アサルトライフルPA7・カスタム1説明文"""
 RiflePA08_01#0,"""アサルトライフルPA8・カスタム1説明文"""
-RiflePA09_01#0,"""対象を捕捉したまま、移動射撃を行う。<br>ボタンの長押しにより、射撃しながら<br>任意の方向へ移動可能。"""
+RiflePA09_01#0,"""Remaining aware of the target, shoot while<br>moving. Hold the button to shoot while moving<br>in any direction."""
 RiflePA10_01#0,"""アサルトライフルPA10・カスタム1説明文"""
 RiflePA11_01#0,"""アサルトライフルPA11・カスタム1説明文"""
 LauncherPA01_01#0,"""Load and fire an indescribably<br>powerful grenade. Charge for<br>a more destructive blast."""
