@@ -1,4 +1,4 @@
 Title#0,"""Rendezvous Aboard the ARKS Ship"""
 TargetName_Errand#0,"""[L-3]<br>View an event<br>Event name: That World's Name"""
 TargetName_Errand2#0,"""[L-3]<br>View an event<br>Event name: That World's Name"""
-Explanation#0,"""<c 6fa8f8>[012-C] \""That World's Name\""<c><br>Xiera sorted through information from the<br>other day. It was an unexpected situation, but<br>she was able to gather information about that<br>world. But how she gathered that information...<br><br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
+Explanation#0,"""<c 6fa8f8>[012-C] \""That World's Name\""<c><br><br>Xiera sorted through information from the<br>other day. It was an unexpected situation, but<br>she was able to gather information about that<br>world. But how she gathered that information...<br><br><c f0df60>※Press <%Decide><c f0df60> to watch the event.<c>"""
