@@ -1378,7 +1378,7 @@ Ice04#1,"""Intermediate ice technique.<br>Rains a series of icicles on the targe
 Ice05#1,"""Basic ice technique.<br>Generates an aura around the caster, giving a bonus to defense. Each tick adds 15 seconds."""
 Ice06#1,"""Advanced ice technique.<br>Release a constant stream of chilling air while the button is held. Cannot be charged."""
 Ice07#1,"""Advanced ice technique.<br>Inscribes an icy crest on the target. Each cast becomes stronger until it expires."""
-Thunder01#1,"""Basic lightning technique.<br>Charges photons to rain a bolt of lightning on the target. The center does more damage."""
+Thunder01#1,"""Basic lightning technique.<br>Charge photons to strike the target location with lightning."""
 Thunder02#1,"""Intermediate lightning technique.<br>Fires an electric shock that leaps between enemies. Has a limited range."""
 Thunder03#1,"""Intermediate lightning technique.<br>Calls lightning down in a cone around the caster. Range increases with height."""
 Thunder04#1,"""Intermediate lightning technique.<br>Plants a sphere of static charge upon the target. A Zonde tech will detonate it."""
