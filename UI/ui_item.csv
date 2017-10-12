@@ -1212,7 +1212,7 @@ GrindMessage_v#0,"""強化を開始します。よろしいですか？<br>※�
 SelectRiseParam#0,"""Select a Ring parameter to boost."""
 DefRiseParam#0,"""Select a parameter to boost."""
 NoMatchRiseParam#0,"""Cannot select."""
-GrindMessage_Gadget#0,"""Initiating upgrade process.<br>Continue?<br><br>※Only the Left Ring will be upgraded.<br>You can select the parameters to boost."""
+GrindMessage_Gadget#0,"""Initiating upgrade process.<br>Continue?<br><br>※You can only select parameters to<br> boost when upgrading a Left Ring.."""
 GrindMessage_Gadget_v#0,"""強化を開始します。よろしいですか？<br>※Lリングを強化する場合のみ<br>\u3000上昇パラメータが選択できます。"""
 GrindMessage_Gamma#0,"""This will start the strengthening process.<br>Is that OK?<br><br>※By using additional items, you can<br>raise the chance of getting a <c ff007f>Great Success<c>.<br><br>※If the item <yellow>EXP value<c> goes over the<br><c d35507>grind limit<c>, it will be rounded down."""
 GrindMessage_Gamma_v#0,"""This will start the strengthening process.<br>Is that OK?<br><br>※By using additional items, you can<br>raise the chance of getting a <c ff007f>Great Success<c>.<br><br>※If the item <yellow>EXP value<c> goes over the<br><c d35507>grind limit<c>, it will be rounded down."""
