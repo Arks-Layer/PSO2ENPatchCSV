@@ -87,7 +87,7 @@ PartnerChangeSubclassError#0,"""Failed to change subclass for<br>Support Partner
 PartnerChangeSameSubclass#0,"""Your subclass is already $(0)."""
 StartCheckButton1#0,"""Depart"""
 StartCheckButton2#0,"""Save and depart"""
-Leave#0,"""\u3000（after $(0)）"""
+Leave#0,"""（after $(0)）"""
 SubClassSelectTitle#0,"""Select Subclass"""
 SubClassChangeMessage#0,"""This will change your Support Partner's subclass <br>to $(0).<br><br>Would you like to continue?"""
 ClassList#0,"""Class list"""
