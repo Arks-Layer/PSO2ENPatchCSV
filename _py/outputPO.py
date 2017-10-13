@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import csv
 import codecs
+import csv
 import os
 import sys
 
@@ -16,7 +16,7 @@ POnice = [
 ]
 
 
-def POformat(input):
+def poformat(input):
 	inputl = input
 	for i, o in POnice:
 		outtext = inputl.replace(i, o)
@@ -48,27 +48,27 @@ for i in sys.argv[2:]:
 		#	continue
 		for x, row in enumerate(JPCSV):
 			ID = row[0]
-			POID = POformat(ID)
+			POID = poformat(ID)
 			JP = JPCSV[x][1][1:-1]
-			POJP = POformat(JP)
+			POJP = poformat(JP)
 			EN = ENCSV[x][1][1:-1]
-			POEN = POformat(EN)
+			POEN = poformat(EN)
 			WC = WCCSV[x][1][1:-1]
-			POWC = POformat(WC)
+			POWC = poformat(WC)
 			POWCF = POWC.replace("　", " ")
 			#white-space
 			print("")
-			##  translator-comments
-			##. extracted-comments
-			##: reference…
+			# #  translator-comments
+			# #. extracted-comments
+			# #: reference…
 			print("#: {}:{}".format(basename, POID))
-			##, flag…
+			# #, flag…
 			print("#, no-c-format")
-			##| msgctxt previous-context
+			# #| msgctxt previous-context
 			print("#| msgctxt \"{}:{}\"".format(basename, POID))
-			##| msgid previous-untranslated-string
+			# #| msgid previous-untranslated-string
 			print("#| msgid \"{}\"".format(POJP))
-			#msgctxt context
+			# msgctxt context
 			print("msgctxt \"{}:{}\"".format(basename, ID))
 			if JPcheck:
 				#msgid untranslated-string

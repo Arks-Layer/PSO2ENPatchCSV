@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-import unicodedata
 from sys import stdin
+import unicodedata
 
-def removeCJK(input):
+
+def removecjk(input):
 	output = []
 	for i in input:
 		uc = unicodedata.name(i, "NOPE")
@@ -15,9 +16,10 @@ def removeCJK(input):
 			output.append(i)
 	return "".join(output)
 
+
 for line in stdin:
 	output = ""
-	#removeCJK(line)
-	output = removeCJK(line)
+	#removecjk(line)
+	output = removecjk(line)
 	#if (output != ""):
 	print(output, end="")
