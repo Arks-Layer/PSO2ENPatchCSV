@@ -19,8 +19,8 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install rsync and parallel
-          command: apt-get -qq -y install rsync parallel
+          name: Install rsync, parallel and jq
+          command: apt-get -qq -y install rsync parallel jq
       - checkout
       - run:
           name: Add upstream repos
@@ -72,7 +72,7 @@ jobs:
           command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - run:
           name: Check for dup IDs
-          command: ./_sh/DupLines.sh >/tmp/duplines.txt
+          command: ./_sh/DupLines.sh | tee /tmp/duplines.json
       - run:
           name: Are there any spelling mistakes
           command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
@@ -89,8 +89,8 @@ jobs:
           path: /tmp/dict.txt
           destination: dict.txt
       - store_artifacts:
-          path: /tmp/duplines.txt
-          destination: duplines.txt
+          path: /tmp/duplines.json
+          destination: duplines.json
       - store_artifacts:
           path: /tmp/mp.log
           destination: mplog.txt
