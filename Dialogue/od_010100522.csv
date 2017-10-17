@@ -1,6 +1,6 @@
-name01#0,"""コフィー"""
+name01#0,"""Koffie"""
 11_voice_NPC_5050_100#0,"""Are you ready?<br>Alright, authorization for trial application - <br>Commence!"""
 text02#0,"""Please show all of the powers and skills you have.<br>I'm expecting the best from you."""
-text100#0,"""『防具』について"""
+text100#0,"""Armor"""
 text101#0,"""『防具』について説明します。<br><br>クエストを進行していくと攻撃力の高いエネミーが出現します。<br><br>強力な攻撃に耐えるには、いくつかの対策が行えます。<br>・ボディ、リアクト、マインド、レジストなどの<br>\u3000特殊能力が付いている防具を装備する。<br>・防具自体を強化して、防御力を上昇させる。<br>・マグを成長させて、防御力を上昇させる。"""
 text102#0,"""防具の強化は、ショップエリアのアイテムラボで行えます。<br>苦戦している場合には、強化してみましょう。"""
