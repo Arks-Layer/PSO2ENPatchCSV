@@ -12,9 +12,9 @@ import json
 m = mp.Manager()
 gD = m.dict()
 cD = m.dict()
+oD = m.dict()
 associations = m.dict()
-bD = m.list()
-kL = m.list()
+oL = m.list()
 
 
 def check(file):
@@ -24,12 +24,7 @@ def check(file):
 			key = "{0}::{1}".format(os.path.basename(file), line[0])
 			if key not in associations:
 				continue
-			if associations[key] in gD and gD[associations[key]] != line[1]:
-				if kL[associations[key]] not in bD:
-					bD.append(kL[associations[key]])
-			elif associations[key] not in gD:
-				gD[associations[key]] = line[1]
-
+			oD[oL[associations[key]]] += [line[1]]
 
 err = os.EX_OK
 
@@ -42,7 +37,8 @@ with open(sys.argv[2]) as f:
 
 fs = set()
 for n, (k, v) in enumerate(cD.items()):
-	kL.append(k)
+	oD[k] = [k]
+	oL += [k]
 	for i in v:
 		fs.add(i.split("::")[0])
 		associations[i] = n
@@ -59,6 +55,13 @@ p.map(check, files)
 p.close()
 p.join()
 
-print(json.dumps({k: v for k, v in cD.items() if k in bD}, sort_keys=True))
+for n, (k, v) in enumerate(oD.items()):
+	temp = list(set(oD[k]))
+	temp.remove(k)
+	oD[k] = temp
+
+oJ = {k: v for k, v in oD.items()}
+
+print(json.dumps(oJ, sort_keys=True))
 
 sys.exit(err)
