@@ -10,42 +10,46 @@ import sys
 import json
 
 m = mp.Manager()
-gD = m.dict()
-cD = m.dict()
+rD = m.dict()
+cD = dict()
 associations = m.dict()
-bD = m.list()
-kL = m.list()
 
 
 def check(file):
 	with codecs.open(file, encoding="utf-8") as f:
 		c = list(csv.reader(f, strict=True))
-		for line in c:
-			key = "{0}::{1}".format(os.path.basename(file), line[0])
-			if key not in associations:
-				continue
-			if associations[key] in gD and gD[associations[key]] != line[1]:
-				if kL[associations[key]] not in bD:
-					bD.append(kL[associations[key]])
-			elif associations[key] not in gD:
-				gD[associations[key]] = line[1]
+		change = False
+		for l in c:
+			if l[1] in rD:
+				change = True
+		if change:
+			with codecs.open(file, mode="w+", encoding="utf-8") as o:
+				w = csv.writer(o, strict=True)
+				for l in c:
+					if l[1] in rD:
+						l[1] = rD[l[1]][0]
+					w.writerow(l)
+			#w = csv.writer(f)
+			#w.writerows(c)
 
 
 err = os.EX_OK
 
-if len(sys.argv) < 3:
+if len(sys.argv) < 4:
 	sys.exit(os.EX_NOINPUT)
 
 dir = sys.argv[1]
 with open(sys.argv[2]) as f:
+	sR = json.load(f)
+	rD = {k: v for k, v in sR.items() if len(v) == 1}
+
+with open(sys.argv[3]) as f:
 	cD = json.load(f)
 
 fs = set()
 for n, (k, v) in enumerate(cD.items()):
-	kL.append(k)
 	for i in v:
 		fs.add(i.split("::")[0])
-		associations[i] = n
 
 files = [
 	os.path.join(dirpath, f)
@@ -58,7 +62,4 @@ p = mp.Pool(mp.cpu_count())
 p.map(check, files)
 p.close()
 p.join()
-
-print(json.dumps({k: v for k, v in cD.items() if k in bD}, sort_keys=True))
-
 sys.exit(err)
