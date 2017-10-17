@@ -9,5 +9,5 @@ NpcComMsg2#1,"""……ここは、どこでしょう？<br>座標自体は惑星
 NpcComMsg3#1,"""今まで起きていた異変も、この先に潜む<br>エネミーによる影響でしょうか？<br>嫌な予感がします、どうか気を付けて。"""
 a1#0,"""Beende einen bestimmten Klientauftrag."""
 a2#0,"""Beende einen bestimmten Klientauftrag."""
-a3#0,"""スーパーハード受注許可証の所持"""
-a4#0,"""スーパーハード受注許可証の所持"""
+a3#0,"""Besitze eine Lizenz fuer Super Schwer."""
+a4#0,"""Besitze eine Lizenz fuer Super Schwer."""
