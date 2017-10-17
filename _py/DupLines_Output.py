@@ -13,8 +13,6 @@ m = mp.Manager()
 gD = m.dict()
 cD = m.dict()
 associations = m.dict()
-bD = m.list()
-kL = m.list()
 
 
 def check(file):
@@ -25,8 +23,7 @@ def check(file):
 			if key not in associations:
 				continue
 			if associations[key] in gD and gD[associations[key]] != line[1]:
-				if kL[associations[key]] not in bD:
-					bD.append(kL[associations[key]])
+				print("Error: Key {0}, expected {1} got {2}".format(key, gD[associations[key]], line[1]))
 			elif associations[key] not in gD:
 				gD[associations[key]] = line[1]
 
@@ -42,7 +39,6 @@ with open(sys.argv[2]) as f:
 
 fs = set()
 for n, (k, v) in enumerate(cD.items()):
-	kL.append(k)
 	for i in v:
 		fs.add(i.split("::")[0])
 		associations[i] = n
@@ -58,7 +54,4 @@ p = mp.Pool(mp.cpu_count())
 p.map(check, files)
 p.close()
 p.join()
-
-print(json.dumps({k: v for k, v in cD.items() if k in bD}, sort_keys=True))
-
 sys.exit(err)
