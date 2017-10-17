@@ -6,6 +6,6 @@ text02#0,"""どうだ、ちょっとは参考になったか？<br>これがク�
 text03#0,"""これからは、一人でこういう依頼を<br>受けてはこなしてって<br>繰り返していくんだぜ。"""
 text04#0,"""ま、キツイと思ったら後回しとか<br>上手い具合に立ち回っていけよ。<br>無理や無茶は命取りだからな。"""
 text05#0,"""丁度良いから、俺のパートナーカードも<br>渡しとくよ。どうしようもない時とか<br>頼ってくれて、構わないぜ？"""
-linewindow001#0,"""<br>アークスの仲間たちにクライアントオーダーが発生しました。<br>"""
+linewindow001#0,"""New Client Order(s) from friends of ARKS have been added.<br>"""
 linewindow002#0,"""<br>You can now call Zeno as a partner.<br>"""
 linewindow003#0,"""<br>Please select the matter to investigate next.<br>"""
