@@ -1,0 +1,6 @@
+linewindow#0,"""<br>『状態異常』について<br>"""
+text00#0,"""Status Effects"""
+text01#0,"""This will explain Status Ailments.<br><br>A change in your status, called a status ailment, can occur when either an individual or hostile is hit during an attack. """
+text02#0,"""For example: If a character is under the effect of 'Burn'; that player will be on fire and will take damage over time for a set period. On top of that, Burn can spread to other players if they are touching.<br><br>Other Status Effects include 'Freeze', 'Shock', 'Mirage', 'Panic', and 'Poison'."""
+text03#0,"""Generally, status ailments are automatically removed after a certain amount of time has passed. The item, 'Sol Atomizer' can quickly restore you and your allies to health. """
+text04#0,"""それぞれの状態異常に対応する表示は次のようになります。<br><br>\u3000<pict ac_burn> ：バーン（燃焼）<br>\u3000<pict ac_frieze> ：フリーズ（凍結）<br>\u3000<pict ac_shock> ：ショック（麻痺）<br>\u3000<pict ac_mirage> ：ミラージュ（幻視）<br>\u3000<pict ac_panic> ：パニック（混乱）<br>\u3000<pict ac_poison> ：ポイズン（毒）<br>"""
