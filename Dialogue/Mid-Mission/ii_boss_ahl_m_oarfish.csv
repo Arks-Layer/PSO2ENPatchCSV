@@ -1,6 +1,6 @@
 IncidentName#0,"""Ya has luchado contra $(0)!"""
 TrialBeginMsg#0,"""Derrotar a $(0)!"""
-TrialAbstract#0,"""$(0)撃退"""
+TrialAbstract#0,"""Repeler a $(0)"""
 NpcComOnBegin#0,"""This is an emergency broadcast.<br>A $(0) has appeared,<br>hampering our investigation. Intercept it."""
 NpcComOnBegin2#0,"""付近にある「ｘｘｘ」を有効利用しろ<br>あの巨体といえど口を狙えば<br>有効なはずだ"""
 NpcComOnSuccess#0,"""$(0)の撤退を確認<br>なんとか撃退できたな。<br>引き続き調査を行え"""
