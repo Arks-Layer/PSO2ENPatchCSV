@@ -85,4 +85,4 @@ result14#3,"""{red}〇クラフト [No.１４-D]<br>{def}材料の残数に注�
 result15#3,"""{red}〇技芸 [No.１５-D]<br>{def}ＰＡやテクニックの間合いに注意。<br>あわてれば失敗する兆しあり。"""
 FullSize_Help#0,"""<c f0df60>運をためす事ができる不思議な祠です。<c>"""
 Child_Menu1#0,"""運をためす"""
-Child_Menu2#0,"""Retour"""
+Child_Menu2#0,"""戻る"""
