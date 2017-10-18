@@ -59,8 +59,6 @@ p.map(check, files)
 p.close()
 p.join()
 
-
-
 print(json.dumps({k: v for k, v in cD.items() if k in bD}, sort_keys=True))
 
 sys.exit(err)
