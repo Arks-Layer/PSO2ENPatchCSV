@@ -1,3 +1,0 @@
-Title#0,"""About Weapon Action"""
-text01#0,"""We'll explain Weapon Actions.<br><br>By pressing <%WeaponAction>, you can use the Weapon Action,<br>that is set in different weapons."""
-text02#0,"""タクトの武器アクションは、<br><%WeaponAction><c 00ffff>を押している間、<br>武器パレットが裏パレットに切り替わる<c><br>というものです。<br><br>裏パレットに切り替えた状態で<%NormalAttack>を押すと<br>「<yellow>＊＊＊＊＊＊＊<c>」を発動できます。<br><yellow><br>※<c><%WeaponAction><yellow>によるパレット切り替え操作に関しては<br>\u3000オプションの基本設定から変更できます。<c>"""
