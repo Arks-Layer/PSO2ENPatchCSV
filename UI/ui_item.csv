@@ -519,7 +519,7 @@ RequestActionOutOfRange#0,"""No se puede utilizar este objeto, ya que no existen
 RequestActionNoExpire#0,"""Expirado; no se puede utilizar."""
 UseTicketTitle#0,"""Confirmar uso de objeto"""
 UseTicketMessage#0,"""[$(0)] sera usado.<br>¿Continuar?"""
-UseTicketForSPMessage#0,"""種族制限、または性別制限のため、<br>このアイテムはプレイヤーキャラクターに<br>No es posible aplicar.<br><br>Socio de Apoyo<br>Para registrar 『$(0)』.<br>¿Seguro que quieres?"""
+UseTicketForSPMessage#0,"""Debido a la restriccion de raza <br>o restriccion de género<br>No se recomienda su uso.<br><br><br><br>¿Seguro que quieres<br>registrar 『$(0)』.?"""
 UsePetEggTitle#0,"""Confirmar uso de objeto"""
 UsePetEggMessage1#0,"""[$(0)] se utilizara.<br>¿Continuar?"""
 UsePetEggMessage2#0,"""『$(0)』を使用します。<br>¿Seguro que quieres?<br><br><yellow>ロック状態のアイテムが選択されています。<c>"""
