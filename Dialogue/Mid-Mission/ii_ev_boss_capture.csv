@@ -1,4 +1,4 @@
-IncidentName#0,"""$(0)を捕獲せよ！"""
+IncidentName#0,"""Captura el $(0)!"""
 TrialBeginMsg#0,"""$(0)を捕獲装置で捕獲せよ！"""
 TrialAbstract#0,"""$(0)を捕獲装置で捕獲せよ！"""
 ToastOnRestTryCaptureNum#0,"""捕獲装置起動可能回数\u3000残り$(0)回。"""

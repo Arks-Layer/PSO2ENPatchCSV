@@ -1,6 +1,6 @@
 IncidentName#0,"""白の民を助太刀せよ！"""
 TrialBeginMsg#0,"""Derrotar a $(0)!"""
-TrialAbstract#0,"""$(0)を$(1)体倒せ！"""
+TrialAbstract#0,"""Derrota $(1) $(0)!"""
 NpcComOnBegin#0,"""Enemies have invaded the streets of Shironia.<br>The Shironian defense forces have engaged them.<br>Everyone, Porfavor assist the Shironians."""
 NpcComOnSuccess#0,"""敵性反応の消失を確認しました。<br>お疲れさまでした。"""
 NpcComOnFailureDead#0,"""All the Shironian warriors have withdrawn. It looks like they're taking refuge for now. This missión is a failure, Porfavor regresa a la misión principal."""

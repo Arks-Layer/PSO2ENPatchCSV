@@ -34,7 +34,7 @@ NpcComOnArrivalNext#2,"""再びリリーパ族が発掘開始です！<br>さっ
 NpcComOnArrivalFinal#2,"""This looks like the last place! Porfavor keep protecting it!"""
 NpcComOnSearchFailure#2,"""この地点はハズレ、みたいです。<br>次の場所に向かうようですよー。"""
 NpcComOnJoin#2,"""We're in the middle of escorting a Lillipan right now. If you can, Porfavor meet up with the other ARKS and join the missión!"""
-OnFun#0,"""り！り！"""
+OnFun#0,"""LiLi!!"""
 OnFind#0,"""/mn38  りり！"""
 OnDrop#0,"""りり！？"""
 OnDamage#0,"""/mn2 りり……"""
