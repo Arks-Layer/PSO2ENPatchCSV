@@ -1,3 +1,0 @@
-Title#0,"""『武器切り替えＰＡ』について"""
-text0001#0,"""Each weapon Hero uses has a weapon switching PA<br>that allows it to swap to a different weapon type.<br><br>When held for a longer duration, you will swap to<br>a different weapon type. However, lightly pressing<br>the PA will use it like normal without swapping."""
-text0002#0,"""武器切り替えＰＡで武器を切り替える際<br>武器パレットに切り替え先の武器種が<br>複数セットされている場合は<br><c ffff00>昇順で最もパレット番号が近い武器種<c>が<br>切り替え対象となります。<br><br>（図ではヒーロータリスの<br>\u3000ヒーローＴマシンガンへの<br>\u3000武器切り替えＰＡを使用して<br>\u3000<c ffff00>昇順で最もパレット番号が近い<c><br>\u3000ヒーローＴマシンガンに<br>\u3000武器種を切り替えています）<br>"""
