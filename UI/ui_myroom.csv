@@ -436,7 +436,7 @@ Menu_Craft#0,"""<c f0df60>You can check your Request List and create an advertis
 Menu_EventChronicle#0,"""<c f0df60>View Old Events<c>"""
 Menu_Tanzaku#0,"""<c f0df60>Edit A Tanzaku Wish<c>"""
 Menu_PosterBoard#0,"""<c f0df60>Posters can be installed. Please select a poster.<c>"""
-Menu_PosterBoard_v#0,"""<c f0df60>ポスター類のルームグッズを設置することができます。ルームグッズを選択してください。<c>"""
+Menu_PosterBoard_v#0,"""<c f0df60>Posters can be installed. Please select a poster.<c>"""
 Title#3,"""Set Timer"""
 Menu_Select01#0,"""1 minute"""
 Menu_Select02#0,"""3 minutes"""
