@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 PWDC="$(pwd -P)"
 _py/DupLines_Filter.py .  _misc/jp_dup.json > /tmp/filter.json
 _py/DupLines_Vaules.py .  /tmp/filter.json  > /tmp/values.json
