@@ -249,7 +249,7 @@ RD_Event050_MES#0,"""Deus ESC-A has reappeared on Earth. We have begun a new ope
 RD_Event051_MES#0,"""Deus ESC-A has been successfully subdued. Thank you for your cooperation."""
 RD_Event052_MES#0,"""Emergency broadcast. We have detected signs of a massive Phantom outbreak on Earth. All Lv.80 or above ARKS operatives, please join the operation at your nearest quest counter to begin our strategic operation."""
 RD_Event053_MES#0,"""We have succeeded in repelling the massive Phantom outbreak on Earth. We thank each ARKS for their cooperation."""
-Q_Event001_56_MES#0,"""Contacting everyone about the Different World - Omega, it had a strange incident. So everyone, please prepare for the huge battle."""
+Q_Event001_56_MES#0,"""Contacting everyone. We have detected an abnormal change in Omega, the world beyond. There may be a huge battle in the near future. Please be prepared."""
 Q_Event001_57_MES#0,"""Emergency broadcast. An accident occurred in the Different World - Omega. It seems a huge battle occurred. We want you to hurry down there and sortie as soon as possible."""
 Q_Event001_58_MES#0,"""The battle in Omega has subsided. Thank you for your cooperation with the operation."""
 R_Event001_MES#0,"""We will be holding Interrupt Rankings starting at <%TSE_OpenLimetTime>. Be sure to participate!"""
