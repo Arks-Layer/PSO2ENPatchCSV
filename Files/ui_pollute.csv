@@ -1,6 +1,6 @@
 FormSelectOperation_KeyBoard#0,"""  変身：<%NormalAttack>/<%Decide>  キャンセル：[Esc]キー  """
 FormSelectOperation_Pad#0,"""    変身：<%Decide>  キャンセル：<%Cancel>    """
-message1#0,"""-"""
+message1#0,"""テストデータ"""
 NameAK#0,"""AK"""
 NameTE#0,"""TE"""
 NameDE#0,"""DE"""
