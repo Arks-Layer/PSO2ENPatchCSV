@@ -351,7 +351,7 @@ CancelRegularWait#0,"""Cancelling Scheduled Maintenance Ship Transfer...<br><br>
 CancelRegularFinishTitle#0,"""During-Maintenance Ship Transfer Confirmation"""
 CancelRegularFinishMessage#0,"""Scheduled Maintenance Ship Transfer<br>has been cancelled.<br>Return to the title screen."""
 Enquete_Title#0,"""Brief Survey"""
-Enquete_mes01#0,"""This question is for players who have not logged in for a while.<br>\u3000Why did you decide to play PSO2 again?"""
+Enquete_mes01#0,"""This question is for players who have not logged in for a while.<br>\u3000What made you decide to play PSO2 again?"""
 Enquete_Answer00#0,"""■ Please choose the most appropriate answer below."""
 Enquete_Answer01#0,"""1. Official PSO2 Twitter"""
 Enquete_Answer02#0,"""2. PSO2 STATION!, etc. official web program"""
