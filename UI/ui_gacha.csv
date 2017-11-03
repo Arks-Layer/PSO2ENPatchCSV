@@ -56,7 +56,7 @@ RetryPassMessage_LotTimes#0,"""<pict Arcscash><c 5fdf00>購入済アイテムの
 Message_SG#0,"""<pict StarGem><c 1dedd7>SG Content<c><br>You are about to spend $(2)$(0) on<br>on $(1)<br>Are you sure?"""
 RetryMessage_SG#0,"""<pict StarGem><c 1dedd7>SG Content<c><br>Do you want to spend<br>$(2) more $(0) on<br>$(1)?"""
 NextBonusMessageFixed#0,"""$(0)<br><br>$(1)"""
-NextBonusMessage#0,"""あと<yellow>$(0)回<c>で以下の回数ボーナスをプレゼント！<br><pict $(1)>$(2) $(3)"""
+NextBonusMessage#0,"""Scratch <yellow>X more<c> times to gain a bonus gift!<br><pict $(1)>$(2) $(3)"""
 NextBonusOtherNum#0,"""他$(0)種"""
 ExchangeUseTitle#0,"""Scratch Prize Exchange"""
 ExchangeUseMessage#0,"""対応するACスクラッチの景品リストから<br>どれでも好きな景品を一つ選んで交換できる<br>『$(0)』を獲得しました。<br><br>今すぐ景品リストから交換しますか？<br><br><yellow>※景品と引き換えに交換券は消費されます。<br>※ACスクラッチゴールドの景品と交換はできません。<br>※対応するスクラッチの配信期間が過ぎると<br>\u3000景品と交換できなくなるのでご注意ください。<c>"""
