@@ -45,7 +45,7 @@ LevelUp_Lack_v#0,"""EXPが不足しているため、習得できません。<br
 LevelUp_LackLv#0,"""Your level is insufficient to learn this."""
 LevelUp_Max#0,"""It won't have any effect."""
 LevelUp_Wait#0,"""Please Wait"""
-LevelUp_InQuest#0,"""You cannot learn or upgrade skills during a quest."""
+LevelUp_InQuest#0,"""You cannot learn or upgrade skills<br>during a quest."""
 LevelUp_LackPre#0,"""You cannot learn this skill as the requirements have not been met.<br><br>You can check the status of each skill by pressing <%NextTabDetails>."""
 LevelUp_LackPre_v#0,"""スキルの習得条件を満たしていないため、<br>習得することができません。<br><br>各スキルレベルでのステータスを<br><pict Sign_SELECT>で確認できます。"""
 Failed#0,"""An error has occurred.<br>実行していた処理を中断します。"""
