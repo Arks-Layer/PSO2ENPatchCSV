@@ -1,7 +1,7 @@
 name01#0,"""Xiera"""
 text01#0,"""<red>Even after using<c> some Talis PAs, the<br><red>effects can still linger after some<br>time<c>, take the PA \""Jet Wheel\"" for instance!"""
 text02#0,"""Some PAs, like the Twin Machinegun PA<br>\""Dive Bullet\"", have the ability to<br>switch weapons after being used!"""
-text03#0,"""After using the Talis's PA \""Jet Wheel\""<br><red>Long press the PA \""Dive Bullet\""<c> to<br>switch to a Twin Machinegun, after the PA was used."""
+text03#0,"""After using the Talis PA \""Jet Wheel\""<br><red>Long press the PA \""Dive Bullet\""<c> to<br>switch to a Twin Machinegun, after the PA was used."""
 text101#0,"""Task 6: <yellow>Combine two PAs in a combo."""
 train_title#0,"""Task 6: <yellow>Combine two PAs in a combo."""
 tut_title#0,"""タリスの派生アクションについて"""
