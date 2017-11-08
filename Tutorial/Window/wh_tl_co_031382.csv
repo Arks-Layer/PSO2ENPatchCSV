@@ -1,4 +1,4 @@
 name01#0,"""Team Merger"""
-text01#0,"""'Team Merger' is a feature that allows one Team to take in the members of another team without requiring the second team to disband first. <br><br>Team Mergers also carry over the unspent Team Points of the second team.<br><br><yellow>To clarify, the second team will be absorbed into the first (the team that sent the request).<c>"""
-text02#0,"""合併をするには、主体となるチームの<br>チームマスターが、吸収される<br>相手のチームマスターへ申し込みを<br>行い、相手が承諾することでチームの<br>合併を行うことができます。<br><br>※合併後に人数が100人を超える場合や<br>チーム倉庫にアイテムが存在する場合は<br>合併することはできません。"""
-text03#0,"""合併を申し込まれたチームマスターは<br>承諾すると、相手のチームへ吸収されますが<br>所持しているチームポイントは<br>相手のチームポイントに変換されます。<br><br>※吸収されたチームのメンバーは<br>全員ビジターメンバーとなります。"""
+text01#0,"""\""Team Merger\"" is a feature that allows two Teams to become one.<br><br>The combined Team inherits the members and Team Points from both teams, without either having to be disbanded."""
+text02#0,"""To perform a merge, the Team Master of the main Team must send a request to the Team Master of the Team to be absorbed, and the merge will be completed when the other Team's Team Master accepts.<br><br>※If the combined number of members exceeds 100, or there are items in Team Storage, the Teams cannot be merged."""
+text03#0,"""When the Team Master has agreed to the merger, their Team Points are added to the main Team's Team Point total.<br><br>※All members of the absorbed Team will become Visitors in the main Team."""
