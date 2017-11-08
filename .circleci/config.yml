@@ -94,3 +94,6 @@ jobs:
       - store_artifacts:
           path: /tmp/listaspell.txt
           destination: listaspell.txt
+      - store_artifacts:
+          path: /tmp/PSO2.CSV.gz
+          destination: PSO2.CSV.gz

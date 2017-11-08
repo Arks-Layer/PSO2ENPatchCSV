@@ -343,6 +343,7 @@ pso2_players_support_rule_tokutei#0,"""http://pso2.jp/players/support/rule/tokut
 pso2_players_support_rule_tokutei_vita#0,"""http://pso2.jp/vita/players/support/rule/tokutei/"""
 pso2_players_PVP#0,"""<url http://pso2.jp/players/>"""
 pso2_players_manual_coordinate#0,"""<url http://pso2.jp/players/manual/preparations/equipment/coordinate/>"""
+pso2_players_poritan#0,"""<url http://pso2.jp/players/update/20171108/02/>"""
 NormalAttackText#0,"""Normal Attack Button"""
 WeaponActionText#0,"""Weapon Action Button"""
 PhotonArtsText#0,"""Photon Arts Button"""
