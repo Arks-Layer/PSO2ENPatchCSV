@@ -4919,7 +4919,7 @@ EventChronicle_Message#0,"""マイルームに移動して<br>イベントクロ
 ToastTriggerQuestReorderFinish#0,"""The grace period for this trigger quest has ended."""
 ToastTriggerQuestReorderNum#0,"""This quest can be re-made $(0) times."""
 ToastTriggerQuestReorderNumZero#0,"""You cannot remake this quest again."""
-ToastTriggerQuestCreateUserOnly#0,"""Only the Trigger user can start the quest"""
+ToastTriggerQuestCreateUserOnly#0,"""トリガー使用者だけが起動できます"""
 Rideroid0M#0,"""Use <#NormalAttack_S> or evasion action to start/stop. Use <#PhotonArts_S> to dismount."""
 Rideroid0A#0,"""Use <#NormalAttack_S> or evasion action to stop. Use <#PhotonArts_S> to dismount."""
 Rideroid1M#0,"""Activate/deactivate with <#NormalAttack_S> or evasion action."""
