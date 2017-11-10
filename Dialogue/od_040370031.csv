@@ -3,6 +3,6 @@ text01#0,"""待ってたよ！\u3000マイフレンド！<br>まだ「キャン�
 text03#0,"""ああ、大丈夫！<br>何も聞かずに、手元のボックスに<br>キャンディーをセットしてみるといい！"""
 text04#0,"""それだけで君の子供達に<br>新たな個性が生まれてくるはずだ！<br>レッツ！\u3000サモナーライフ！"""
 text100#0,"""What is a Candy Box?"""
-text101#0,"""A \""Candy Box\"" is the place where you can<br>store \""Candies\"" having various effects to<br><yellow>strenghten your pet<c>.<br><br>Each pet has its own Candy Box.<br><br>Defeat enemies to collect Candies and customize<br>your pet."""
+text101#0,"""A \""Candy Box\"" is the place where you can<br>store \""Candies\"" having various effects to<br><yellow>strengthen your pet<c>.<br><br>Each pet has its own Candy Box.<br><br>Defeat enemies to collect Candies and customize<br>your pet."""
 text102#0,"""\""Candy\"" is the generic name that refers to items that<br>strengthen your pet abilities. The candy types all<br>have a maximum usage limit.<br>■Max. of 1<br>・Ramune        ・Crepe<br><br>■Max. of 2<br>・Parfait ・Roll  ・Pancake<br><br>■Max. of 3    ■Max. of 4<br>・Cookie         ・Stick<br><br>■Max. of 5    ■Max. of 20<br>・Sandwich      ・Gummy"""
 text103#0,"""Once you set a Candy, you can't move it back<br>to your inventory.<br><br>You need a \""Candy Remover\"" to remove a candy<br>or a \""Candy Eraser\"" to erase one.<br><br>Removed candies will return to your inventory<br>but <yellow>erased candies will be destroyed<c>.<br>Please, be careful."""
