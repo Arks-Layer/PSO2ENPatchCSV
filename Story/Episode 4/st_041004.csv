@@ -6,6 +6,6 @@ st_041004_0040#0,"""Do you feel strange anywhere? Signs of Darker reactions... N
 st_041004_0050#0,"""Hmm? That head tilt. Could it be that your memories are mixed up?"""
 st_041004_0060#0,"""This has happened a lot. We've already received contact from the medical unit."""
 st_041004_0070#0,"""I know you just woke up, but I, your personal operator, Xiera... Will fill you in on the current situation!"""
-st_041004_0080#0,"""At 『A.P.238/2/20』, You were enlisted, as ARKS, to complete a mission on planet Naberius."""
+st_041004_0080#0,"""At \""A.P.238/2/20\"", You were enlisted, as ARKS, to complete a mission on planet Naberius."""
 Title#0,"""Tutorial skip confirmation."""
 Message#0,"""Would you like to skip this tutorial?"""
