@@ -1,0 +1,4 @@
+name01#0,"""『コレクトファイル』について"""
+text01#0,"""「コレクトファイル」とは、<br>リストから欲しい武器などの報酬を選んで、<br>そのための<yellow>必要アイテムを集める仕組みです。<c><br><br>クエストカウンターの装備管理官「プリン」の<br>「コレクトファイル」から、報酬を選びます。<br><br>報酬のコレクトシートを複数入手しておくと、<br>すべて同時に進めることができます。<br><br>シートの最大所持数は基本３枚で、<br>プレミアムセット有効期間中は＋２枚、<br>SGで最大＋２枚まで拡張できます。"""
+text02#0,"""The gauge of the required items will increase after killing the target enemy and clearing the quest. At 100%, <yellow>the next kill will guarantee the item drop<c> and display \""COMPLETE!\"". Clear all the requirements to get your reward item!<br>※<yellow>If you happen to find one of the required items, it will instantly be marked as \""COMPLETE!\"".<c>"""
+text03#0,"""After receiving the reward, the same sheet can be reselected after the cooldown period.<br><br>You can use your Star Gems to reset the cooldown period and immediately reselect the sheet.<br><br>※Once completed, you can discard the sheet to select another one."""
