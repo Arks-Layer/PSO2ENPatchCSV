@@ -163,7 +163,7 @@ SubScoreGuideEnemyFever#0,"""Extra Mission: <yellow>Score Up based on the number
 SubScoreGuideIndi#0,"""Extra Mission: <yellow>Score Up if you beat the large Phantom U.F.O."""
 SubScoreGuideFsmChase#0,"""Extra Mission: <yellow>Score Up if you defeat the unidentified creatures!"""
 ProgNumEnemyDefeat#0,"""Number of $(0) Defeated"""
-SubScoreMagniSuccessMsg#0,"""Trial Order Success： Score Upped by $(0)%!"""
+SubScoreMagniSuccessMsg#0,"""Trial Order Success: Score Rate increased by $(0)%!"""
 ProgSubScoreOrderTitle#0,"""Clear the Trial Order!"""
 SubScoreOrderTimeMsg#0,"""Within seconds"""
 SubScoreOrderGuideKillEnemy#0,"""Trial Order: <yellow>Defeat $(2) enemies$(0)$(1) to earn a $(3)% Score Rate Up!"""
