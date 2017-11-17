@@ -1,6 +1,0 @@
-text01#0,"""You can't master a weapon overnight. The more you practice, the better you'll become."""
-text02#0,"""There might be things you struggle with at first, but if you stick with your training, they will become easier and easier."""
-11_voice_NPC_5057_100#0,"""It's the same way with all of my students. Just follow my lead, and don't worry too much."""
-text100#0,"""Twin Dagger Gear"""
-text101#0,"""ツインダガーのギアシステムについて、<br>説明します。<br><br>スキル「ツインダガーギア」を<br>習得している場合には<br>武器パレットの上部に<br>ギアゲージが追加されます。<br><br>ツインダガーのギアゲージは、ジャンプや<br>スピンをすることにより蓄積されます。"""
-text102#0,"""ギアゲージが高まるとフォトンアーツの<br>威力が上昇し敵のやられ<br>リアクションも大きくなります。<br><br>ツインダガーギアのゲージは<br>空中に滞空していれば、<br>時間経過で減少することはありませんが、<br>地上に着地すると消失します。"""
