@@ -8147,7 +8147,7 @@ ring_FireTechnicShortCharge#1,"""Flame Tech S-Charge/Ring<br>Reduces the charge 
 ring_HPRestraint#1,"""HP Restorate/Ring<br>Gradually restores HP once your<br>HP falls below a particular threshold."""
 ring_TMachineGunStanceUp#1,"""Twin Machinegun Stance Up<br>Adds increased S-ATK and R-ATK to stance<br>skill effects when a twin machinegun is equipped."""
 ring_Sprint#1,"""Sprint"""
-ring_PartyToughness#1,"""Party of Toughness<br>Reduces the damage received by enemies if<br>in a party of 2 players or more."""
+ring_PartyToughness#1,"""Party of Toughness<br>Reduces the damage received from enemies<br>if in a party of 2 players or more."""
 ring_WeakPPRestraint#1,"""Weak Hit PP Gain<br>Increase PP recovery amount when<br>attacking normal weak spots."""
 GatBoostNeed0000#0,"""検証用アイテムの為レシピなし"""
 GatBoostNeed0001#0,"""検証用アイテムの為レシピなし"""
