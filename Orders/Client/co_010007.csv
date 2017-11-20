@@ -1,4 +1,4 @@
-text100#0,"""Acerca de 『Ordenes de clientes』"""
-text101#0,"""フランカにクライアントオーダーが発生しました。<br><br>フランカはショップエリア・東ショップ広場にいます。"""
-text102#0,"""ジラードにクライアントオーダーが発生しました。<br><br>ジラードはショップエリア・西ショップ広場にいます。"""
-text103#0,"""クレシダにクライアントオーダーが発生しました。<br><br>クレシダはショップエリア・東外周通路にいます。"""
+text100#0,"""Acerca de las Ordenes de clientes"""
+text101#0,"""Una nueva orden de cliente está disponible para Franka.<br><br>Franka está en el área comercial."""
+text102#0,"""Una nueva orden de cliente está disponible para Gerard.<br><br>Gerard está en el área comercial."""
+text103#0,"""Una nueva orden de cliente está disponible para Cressida.<br><br> Cressida se puede encontrar cerca del pasillo exterior este en el área comercial."""

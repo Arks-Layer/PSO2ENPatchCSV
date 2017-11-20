@@ -1,0 +1,3 @@
+GetBullet#0,"""Munición recolectada para torreta"""
+GetBulletMiss#0,"""Torreta llena de munición"""
+ChargeBullet#0,"""Munición suministrada para torreta"""
