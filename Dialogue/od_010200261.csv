@@ -3,7 +3,7 @@ text02#0,"""自ら集めた武器と武器の融合……<br>そうして得ら�
 text03#0,"""ええい、話している内にも<br>不安が鎌首をもたげてきた！<br>君、今すぐやってくるといい！"""
 text04#0,"""何を、って、決まっているだろう。<br>ラボで愛用品の強化だ！"""
 text05#0,"""Come on, come on! This shouldn't be difficult! Wipe away my fears!"""
-text100#0,"""『新世武器の属性強化』について"""
+text100#0,"""About Grinding Attributes in NT Weapons"""
 text101#0,"""For New Type Weapons, there's \""Attribute\"" and \""Attribute Value.\""<br><br>\""Attribute\"" refers to your weapon's elemental type.<br>\""Attribute\"" refers to the elemental value percentage of your<br>weapon."""
 text102#0,"""To increase the Attribute Value, you will need to use a material weapon via grinding the weapon itself.<br><br>For this reason, the weapon <yellow>needs to be of the same rarity and<br>type<c>."""
 text103#0,"""When using the same type weapon, with the same matching rarity and matching name as the target weapon, the <yellow>attribute value will increase significantly<c>.<br><br>※The value will increase even if the attributes are different in both the value and the actual elemental attributes are different.<br><br>Normal attribute values are capped at 50. However, Weapons and Eggs of ★13 in rarity have a maximum attribute value of 60."""
