@@ -1,0 +1,7 @@
+name01#0,"""シエラ"""
+text01#0,"""¡Estás aprendiendo rápido! Ahora, <red>establece la Técnica que acabas de aprender en una paleta de armas<c>."""
+train_title#0,"""Tarea 1: <yellow> Aprender y establecer [Foie]"""
+tut_title#0,"""Configuración Técnicas"""
+text100#0,"""・Seleccione [Armas] en el menú principal<br>・Seleccione una ranura<br>・Seleccione la técnica que desea configurar"""
+tut_win_title#0,"""Configuración Técnicas"""
+tut_win_text100#0,"""Puedes utilizar las técnicas que has aprendido al configurarlas en la paleta de un arma.<br><br>\""Discos TEC\"" pueden caer aleatoriamente al derrotar enemigos o romper contenedores."""

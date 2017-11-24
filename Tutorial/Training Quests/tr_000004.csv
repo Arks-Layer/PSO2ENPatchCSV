@@ -1,0 +1,8 @@
+name01#0,"""シエラ"""
+11_voice_train_04001#0,"""¡Hola! ¡Este es el curso de capacitación [Technique Basics]!"""
+text02#0,"""Para comenzar, vamos a <red>aprender<c> una Técnica!"""
+text03#0,"""Hay un objeto de disco <red>en tu inventario<c>, ¡Por favor úsalo!"""
+text101#0,"""Tarea 1: <yellow> Aprender y establecer [Foie]<c>"""
+train_title#0,"""Tarea 1: <yellow> Aprender y establecer [Foie]<c>"""
+tut_title#0,"""Técnicas de aprendizaje"""
+text100#0,"""・Abra el menú principal<br>・Abra el menú de objetos<br>・Seleccione y use el disco desde la pestaña [Discos]"""
