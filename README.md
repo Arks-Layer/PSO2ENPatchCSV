@@ -1,7 +1,7 @@
 # PSO2 Indonesian Patch
 Selamat datang di repositori CSV PSO2 Indonesian Patch
 
-[![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID)
+Status tes dan cek saat ini: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID)
 
 Translation Status: Sedang dikerjakan (On-going)
 
@@ -32,12 +32,13 @@ Jika dirimu tidak mengerti bahasa Jepang, namun ingin membantu, kamu dapat melih
  4. Edit file sesuai yang dimau. (**HANYA EDIT TEKS YANG BERADA DIDALAM TRIPLE QUOTES**)
  5. Ketik ringkasan singkat perubahan dibagian bawah halaman.
  6. Klik "Commit changes".
- 7. Ulangi dari langkah ke 2 hingga ke 6 sebanyak file yang dapat kamu edit. Ketika selesai, lanjut ke langkah ke 8.
+ 7. **Ulangi dari langkah ke 2 hingga ke 6** sebanyak file yang dapat kamu edit. Ketika selesai, lanjut ke langkah ke 8.
  8. Klik "New pull request" pada kiri atas halaman GitHub.
  9. Pastikan "Base fork" adalah "Arks-Layer/PSO2ENPatchCSV" dan "Head fork" adalah milikmu sendiri.
- 10. Klik "Create pull request" dan masukkan judul dengan ringkas.
- 11. Klik "Create pull request" lagi dan perubahanmu akan diposkan.
- 12. Ketika seseorang melihat diantara perubahanmu, mereka akan menggabungkan ke patch terjemahan.
+ 10. Pastikan "Base branch" dan "Head branch" adalah "ID".
+ 11. Klik "Create pull request" dan masukkan judul dengan ringkas.
+ 12. Klik "Create pull request" lagi dan perubahanmu akan diposkan.
+ 13. Ketika seseorang melihat diantara perubahanmu, mereka akan menggabungkan ke patch terjemahan.
 
 [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN/Files
 [PSO2 Discord Server]: https://discord.gg/PSO2
