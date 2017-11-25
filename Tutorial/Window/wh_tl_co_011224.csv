@@ -1,0 +1,5 @@
+name01#0,"""Advance Quests"""
+text01#0,"""Advance Quests are where you take part of the ARKS Advance Team to conduct searches in areas where much stronger enemies lurk. In order to go on an Advance Quest, you need an item known as an 'Advance Capsule'. Your Advance Capsule payment takes place when you touch the gate in the Campship."""
+text02#0,"""When you complete an Advance Quest, that quest's 'Risk' is increased by 1.<br><br>'Risk' is when you play the same quest over, but with some particular additions, such as increased enemy levels and difficulty.<br><br>Risk resets after a particular amount of time has passed. You can check when the next time Risk will reset at the Quest Counter."""
+text03#0,"""輝石交換で入手できる武器は基礎パラメータが高かったり<br>有利な特殊能力が最初から付与されているものがあります。<br><br>交換した武器をそのまま使うのも良し、武器強化の<br>素材として使うのも良し、どんどん武器を交換して<br>キャラクターを強化していきましょう。"""
+text04#0,"""アドバンスクエストをクリアすると<br>そのクエストのアドバンスリスクが加算されます。<br><br>アドバンスリスクが一定までたまった状態で<br>同じクエストをプレイすると、<br>エネミーレベルの上昇等難易度の変化がありますが<br>その分、経験値や入手アイテムの見返りも大きくなります。<br><br>アドバンスリスクは一定期間経過するとリセットされます。<br>次にいつアドバンスリスクがリセットされるかは<br>クエストカウンターで確認できます。"""
