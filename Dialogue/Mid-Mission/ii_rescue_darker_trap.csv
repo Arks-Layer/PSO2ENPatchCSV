@@ -1,0 +1,5 @@
+IncidentName#0,"""Destroy the Funji!"""
+TrialBeginMsg#0,"""Destroy the Funji and save your kidnapped teammate!<br>Fail if kidnapped player is incapacitated."""
+TrialAbstract#0,"""Rescue the kidnapped player!"""
+NpcComOnSuccess#0,"""/face2 The Funji has been completely <br> destroyed! Thanks, everyone, <br>for your cooperation!"""
+NpcComOnFailure#0,"""/face4 $(0)'s rescue was a failure... If only my calculations had been more precise..."""

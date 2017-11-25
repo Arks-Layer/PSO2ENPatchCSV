@@ -1,0 +1,6 @@
+IncidentName#0,"""Clear the stage order!"""
+TrialBeginMsg#0,"""Clear the stage order!"""
+TrialAbstract#0,"""Clear the stage order!"""
+NpcComOnBegin#0,"""/face2 Ta-dah!<br>Stage order details are ready!"""
+NpcComOnSuccess#0,"""/face2 Very, very, very good!<br>You gathered some excellent data!"""
+NpcComOnFailure#0,"""/face6 Oh, is this too complicated for you? Hahaha, it's okay!"""

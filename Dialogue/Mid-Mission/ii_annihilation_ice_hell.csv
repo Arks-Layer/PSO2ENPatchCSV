@@ -1,0 +1,7 @@
+IncidentName#0,"""Defeat the $(0)!"""
+TrialBeginMsg#0,"""Defeat the $(0)!"""
+TrialAbstract#0,"""Use the icicles to clear the barrier and<br>suppress the $(0)!"""
+NpcComOnBegin#0,"""U-urgent orders! Powerful <br>enemy readings confirmed! <br>Please, defeat it quickly!"""
+NpcComOnSuccess#0,"""敵さんの反応消失ーっと！<br>みなさん、お疲れ様でしたー！"""
+NpcComOnFailure#0,"""だいぶ足止めを食らっちゃいました！<br>このままでは敵さんの思うつぼです。<br>仕方ないので先を急ぎましょう！"""
+NpcComOnHint#0,"""バリアで敵さんに攻撃が届きません！<br>あのバリアを上から飛び越えられる<br>登れるようなものがあれば……！"""

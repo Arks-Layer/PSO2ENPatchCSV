@@ -1,0 +1,8 @@
+name01#0,"""Xiera"""
+name02#0,"""Hitsugi"""
+skit01#0,"""Confirmed the target's destruction. There are no other Phantom readings in the area. Please return at once."""
+skit02#0,"""/ci1 1 It seems we managed to protect this area, but... We couldn't stop Bethor. I think he's in another place."""
+skit03#0,"""/ci1 1 Oh, sorry. Like Xiera said, we should head back."""
+skit01#1,"""Confirmed the target's destruction. There are no other Phantom readings in the area. Please return at once."""
+skit02#1,"""It seems we managed to protect this area, but... We couldn't stop Bethor. I think he's in another place."""
+skit03#1,"""Oh, sorry. Like Xiera said, we should head back."""

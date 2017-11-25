@@ -1,0 +1,4 @@
+IncidentName#0,"""Defeat the $(0)!"""
+TrialBeginMsg#0,"""Defeat the $(0)!"""
+TrialAbstract#0,"""Repel the $(0)"""
+ToastOwnerPartyLeave#0,"""Anyone can start the [Rare Enemy Trigger]."""

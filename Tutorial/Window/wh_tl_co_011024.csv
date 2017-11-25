@@ -1,0 +1,4 @@
+name01#0,"""Locking On"""
+text01#0,"""How to use the Lock On system:<br><br>[Keyboard and Mouse option]<br>By pressing <%LockOn>, the target in front of you will be captured within your screen, making it easier to attack. Pressing it again will disengage the lock."""
+text02#0,"""Gamepad Controls<br><br>By holding <%LockOn>, you can Lock-On to the the currently soft-targeted enemy. By releasing <%LockOn> the lock will be disengaged.<br><br><yellow>※Gamepad-Only Controls<c><br><br>If there is more than one target, you can change what target you are locked-on to by moving the right stick in the direction of the target."""
+text03#0,"""It is possible to change between pressing or holding the button to lock on in the control settings screen of the options."""

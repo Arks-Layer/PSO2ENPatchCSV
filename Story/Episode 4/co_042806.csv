@@ -1,0 +1,4 @@
+window_message_0010#0,"""Play from the last autosave"""
+window_message_0020#0,"""Play from the beginning"""
+window_message_0000#0,"""Previous autosave has been detected.<br>Do you want to continue from there?<br><br>Selecting [Play from the beginning] will erase your autosave."""
+line01#0,"""This quest has an autosave function.<br>When the message \""Quest progress has been saved\"" appears,<br>you will be able to play from that point.<br>"""
