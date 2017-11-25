@@ -1,5 +1,0 @@
-IncidentName#0,"""$(0)を討伐せよ！"""
-TrialBeginMsg#0,"""$(0)を討伐せよ！"""
-TrialAbstract#0,"""$(0)を討伐せよ！"""
-NpcComOnBegin#0,"""敵の交戦領域に侵入した模様。<br>早急に敵を撃破し、領域からの<br>脱出を図ってください。"""
-NpcComOnSuccess#0,"""敵性反応の消失を確認。<br>各員の努力に感謝します。"""

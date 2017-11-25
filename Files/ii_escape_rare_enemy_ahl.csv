@@ -1,8 +1,0 @@
-IncidentName#0,"""逃走$(0)討伐"""
-TrialBeginMsg#0,"""逃走$(0)を$(1)体倒せ！<br>$(2)体以上、逃がすと失敗。"""
-TrialAbstract#0,"""逃走$(0)を討伐せよ！"""
-TrialBeginMsgForKeyII#0,"""逃走$(0)を$(1)体倒せ！"""
-NpcComOnBegin#0,"""$(0)の大規模な<br>発生が確認されました。稀少個体につき<br>逃走前のデータ収集を願います。"""
-NpcComOnBeginAtRareCase#0,"""$(0)です！<br>制限時間つきのデータ収集要請あり！<br>お願いします！"""
-NpcComOnSuccess#0,"""/face2 $(0)の<br>データ取得を完了。尽力に感謝します。"""
-NpcComOnFailure#0,"""$(0)、ロスト。<br>遭遇だけでも貴重なデータです。<br>協力、有り難うございました。"""
