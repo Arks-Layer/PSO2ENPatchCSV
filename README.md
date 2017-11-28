@@ -3,6 +3,8 @@ Selamat datang di repositori CSV PSO2 Indonesian Patch
 
 Status tes dan cek saat ini: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID)
 
+Status tes dan cek saat ini (DOTzX): [![CircleCI](https://circleci.com/gh/DOTzX/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/DOTzX/PSO2ENPatchCSV/tree/ID)
+
 Translation Status: Sedang dikerjakan (On-going)
 
 Repositori ini bertujuan untuk menerjemahkan teks pada game PSO2 dari Jepang ke Indonesia.
