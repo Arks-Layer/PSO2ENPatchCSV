@@ -1,11 +1,11 @@
 # PSO2 Indonesian Patch
 Selamat datang di repositori CSV PSO2 Indonesian Patch
 
-Status tes dan cek saat ini: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID)
+**Status tes dan cek saat ini** (Arks-Layer): [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID)
 
-Status tes dan cek saat ini (DOTzX): [![CircleCI](https://circleci.com/gh/DOTzX/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/DOTzX/PSO2ENPatchCSV/tree/ID)
+**Status tes dan cek saat ini** (DOTzX): [![CircleCI](https://circleci.com/gh/DOTzX/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/DOTzX/PSO2ENPatchCSV/tree/ID)
 
-Translation Status: Sedang dikerjakan (On-going)
+**Translation Status:** Sedang dikerjakan (On-going)
 
 Repositori ini bertujuan untuk menerjemahkan teks pada game PSO2 dari Jepang ke Indonesia.
 
@@ -41,6 +41,18 @@ Jika dirimu tidak mengerti bahasa Jepang, namun ingin membantu, kamu dapat melih
  11. Klik "Create pull request" dan masukkan judul dengan ringkas.
  12. Klik "Create pull request" lagi dan perubahanmu akan diposkan.
  13. Ketika seseorang melihat diantara perubahanmu, mereka akan menggabungkan ke patch terjemahan.
+
+## Terminologi
+### Repository (Repo)
+Tempat dimana patch semua ini
+### Fork
+Salinan dari repo yang disimpan atas nama github-mu
+### Pull Requests (PRs)
+Permintaan untuk pemilik repo untuk melihat translasimu. Menunjukkan perbedaan antara fork-mu dan repo utama.
+### Merging
+Hal ini adalah ketika PR mu diterima. Perubahan yang kamu kirimkan diterima oleh repo utama.
+### More
+[Arks-Layer / Wiki / How to Contribute](https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki/How-to-contribute)
 
 [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN/Files
 [PSO2 Discord Server]: https://discord.gg/PSO2
