@@ -13,6 +13,6 @@ NOT_GUILD_DATA#0,"""Terjadi error ketika memproses. Harap coba lagi dilain waktu
 TEAMPOINT#0,"""Terjadi error ketika memproses. Harap coba lagi dilain waktu.<br><br>[No. 1109]"""
 RecordsInfo#0,"""$(0)年$(1)月期<br>$(2)<br>$(3) $(4)ポイント獲得"""
 Grade_1st#0,"""Kemenangan"""
-Grade_Etc#0,"""Rank $(0)"""
+Grade_Etc#0,"""Urutan $(0)"""
 RankType_GuildPoint#0,"""Rank Team Point"""
 RankType_RareItem#0,"""Rank Rare Item"""
