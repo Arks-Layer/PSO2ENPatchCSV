@@ -3,6 +3,7 @@
 import codecs
 import csv
 import os
+import unicodedata
 import sys
 
 if len(sys.argv) == 2:
@@ -25,6 +26,21 @@ def poformat(input):
 		return "\\\\"
 	return outtext
 
+
+def badcheck(EN, WC, POWCF, POEN, POWC):
+	if EN == WC:
+		return True
+	if unicodedata.normalize('NFKC', EN) == unicodedata.normalize('NFKC',  WC):
+		return True
+	if EN == POWCF:
+		return True
+	if unicodedata.normalize('NFKC',  EN) == unicodedata.normalize('NFKC',  POWCF):
+		return True
+	if POEN == POWC:
+		return True
+	if unicodedata.normalize('NFKC',  POEN) == unicodedata.normalize('NFKC',  POWC):
+		return True
+	return False
 
 ENcheckForce = False
 err = 0
@@ -85,7 +101,7 @@ for i in sys.argv[2:]:
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
 				print("msgstr \"\"")
-			elif EN == WC or EN == POWCF or POEN == POWC:
+			elif badcheck(EN, WC, POWCF, POEN, POWC):
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
