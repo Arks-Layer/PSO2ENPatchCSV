@@ -130,7 +130,7 @@ ErrorDone#0,"""プレイヤーIDネームの変更が停止されているため
 ErrorUnchanged#0,"""プレイヤーIDネームに変更がなかったため<br>キャンセルしました。"""
 ErrorOther#0,"""システムエラーが発生したため<br>名前を変更できませんでした。"""
 Title#1,"""ログイン"""
-TitleAndShip#0,"""Login ($(0))"""
+TitleAndShip#0,"""ログイン\u3000（接続先：$(0)）"""
 TitleFacebook#0,"""フェイスブックログイン"""
 Button_Ok#0,"""ログイン"""
 Button_Cancel#0,"""Abbrechen"""
