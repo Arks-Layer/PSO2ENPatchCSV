@@ -1116,7 +1116,7 @@ BuyResultMessage5#0,"""アイテムを購入しました。<br><yellow>オーナ
 BuyResultMessage6#0,"""Objeto(s) comprado(s).<br>You have <yellow>registered ownership<c>.<br>Enviar un agradecimiento al vendedor?"""
 TicketWeapon#0,"""★$(0)武器購入パス"""
 TicketUnit#0,"""★$(0)ユニット購入パス"""
-TicketNumber#0,"""$(0) ( Left： $(1) )"""
+TicketNumber#0,"""$(0) ( 所持：$(1) )"""
 TicketTitle#0,"""購入しようとしているアイテムの一部に<br>★ １０以上のアイテムが含まれています。<br><br>購入するには以下のアイテムが必要となります。<br>消費して購入します。<br><br>¿Seguro que quieres?"""
 TicketError#0,"""購入しようとしているアイテムの一部に<br>★１０以上のアイテムが含まれていますが、<br>以下のアイテムが不足しているため<br>購入することができません。"""
 OwnershipMessage#0,"""Items to be purchased include one or more<br>12 <yellow>★<c> or higher items.<br><br>You will <yellow>register ownership<c> of these items on purchase.<br>Would you like to continue?"""
