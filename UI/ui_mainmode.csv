@@ -4017,7 +4017,7 @@ Remake_ErrorNoPartner#0,"""指定したサポートパートナーが見つか�
 Remake_ErrorNoSpace#0,"""サポートパートナーの装備品が、<br>プレイヤーの所持品枠を超えるため、<br>サポートパートナーを素体に<br>戻すことができません。"""
 Remake_ErrorDB#0,"""データベースエラーにより、<br>サポートパートナーを素体に<br>戻すことができません。"""
 Remake_Error#0,"""サポートパートナーを素体に<br>戻すことができません。"""
-LoginCall#0,"""$(0)がログインしました。"""
+LoginCall#0,"""$(0) telah login."""
 Title#13,"""称号カウンター"""
 License#0,"""称号報酬受取"""
 LicenseDetail#0,"""称号詳細"""
