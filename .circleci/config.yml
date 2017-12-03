@@ -23,8 +23,8 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install git, binutils, rsync, parallel and jq
-          command: apt-get --no-install-recommends -qq -y install git binutils rsync parallel jq
+          name: Install git, binutils, ssh, rsync, parallel and jq
+          command: apt-get --no-install-recommends -qq -y install git binutils ssh rsync parallel jq
       - run:
           name: Install git from Debian Backport
           command: apt-get --no-install-recommends -qq -y -t jessie-backports install git
