@@ -19,8 +19,8 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install git rsync, parallel and jq
-          command: apt-get -qq -y install git rsync parallel jq
+          name: Install git, binutils, rsync, parallel and jq
+          command: apt-get -qq -y install git binutils rsync parallel jq
       - checkout
       - run:
           name: Add upstream repos
