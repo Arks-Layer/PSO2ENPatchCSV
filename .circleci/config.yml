@@ -8,6 +8,7 @@ jobs:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
           PARALLEL: --block 43K
+          PARALLEL_: --no-notice
     branches:
       ignore:
         - develop
