@@ -15,7 +15,6 @@ def check(i):
 		except Exception as e:
 			print("Error reading {}: {}".format(i, e))
 			return os.EX_UNAVAILABLE
-			break
 
 		for x, row in enumerate(QCCSV):
 			for n, col in enumerate(row):
