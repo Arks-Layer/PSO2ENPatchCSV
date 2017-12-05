@@ -5,4 +5,4 @@ rsync --recursive --executability --whole-file . /tmp/PSO2ENPatchCSV.check/WC --
 git archive --format=tar --prefix=PSO2ENPatchCSV.check/JP/ upstream/JP | tar xf - -C /tmp
 cd /tmp/PSO2ENPatchCSV.check
 wait
-find JP -name "*.csv" -print0|_tools/mp.sh -0 WC/_py/check.py
+find JP -name "*.csv" -print0|xargs -0 WC/_py/check.py
