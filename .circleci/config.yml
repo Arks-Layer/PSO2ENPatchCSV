@@ -3,12 +3,11 @@ jobs:
   build:
     working_directory: /root/PSO2
     docker:
-      - image: revolutionsystems/python:3.6.3-wee-optimized-lto
+      - image: python:3-stretch
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
           PARALLEL: --block 43K
-          PARALLEL_: --no-notice
     branches:
       ignore:
         - develop
@@ -17,17 +16,11 @@ jobs:
         - /*_Old/
     steps:
       - run:
-          name: Add backports
-          command: echo deb http://deb.debian.org/debian jessie-backports main>> /etc/apt/sources.list
-      - run:
           name: Update APT listing
           command: apt-get -qq update
       - run:
           name: Install git, binutils, ssh, rsync, parallel and jq
           command: apt-get --no-install-recommends -qq -y install git binutils ssh rsync parallel jq
-      - run:
-          name: Install git from Debian Backport
-          command: apt-get --no-install-recommends -qq -y -t jessie-backports install git
       - checkout
       - run:
           name: Add upstream repos
