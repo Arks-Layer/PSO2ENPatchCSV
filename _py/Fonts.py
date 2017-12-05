@@ -4,12 +4,7 @@ import codecs
 import os
 import sys
 import unicodedata
-
-
-err = os.EX_OK
-
-if len(sys.argv) == 1:
-	sys.exit(os.EX_NOINPUT)
+import multiprocessing as mp
 
 cmap = set()
 # Basic Latin | http://unicode.org/charts/PDF/U0000.pdf
@@ -1103,10 +1098,9 @@ def checkcmap(input):
 			return False
 	return True
 
-#print(cmap)
 
-
-for i in sys.argv[1:]:
+def check(i):
+	err = os.EX_OK
 	with codecs.open(i, encoding="utf-8") as text:
 		for x, line in enumerate(text):
 			#print(line)
@@ -1115,7 +1109,20 @@ for i in sys.argv[1:]:
 				if not checkcmap(char):
 					#print(line[y])
 					print("{}\t{}\t{}\t{}\t{}".format(i, x + 1, y + 1, hex(ord(char)), unicodedata.name(char, "UNKNOWN")))
-					if err == os.EX_OK:
-						err = os.EX_DATAERR
+					err = os.EX_DATAERR
+	return err
 
-sys.exit(err)
+if __name__ == '__main__':
+	err = os.EX_OK
+
+	if len(sys.argv) == 1:
+		ys.exit(os.EX_NOINPUT)
+
+	p = mp.Pool(mp.cpu_count())
+	erra = p.map(check, sys.argv[1:])
+	p.close()
+	p.join()
+
+	err = max(erra)
+	sys.exit(err)
+
