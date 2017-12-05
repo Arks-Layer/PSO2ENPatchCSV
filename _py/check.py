@@ -4,14 +4,14 @@ import codecs
 import csv
 import os
 import sys
-
+import multiprocessing as mp
 
 err = os.EX_OK
 
 if len(sys.argv) == 1:
 	sys.exit(os.EX_NOINPUT)
 
-for i in sys.argv[1:]:
+def check(i):
 	try:
 		w = i.replace("JP/", "WC/")
 		with codecs.open(i, encoding="utf-8") as JP:
@@ -22,7 +22,7 @@ for i in sys.argv[1:]:
 				print("Error reading {}: {}".format(i, e))
 				if err == 0:
 					err = os.EX_DATAERR
-				break
+				return
 
 			try:
 				WC = codecs.open(w, encoding="utf-8")
@@ -31,7 +31,8 @@ for i in sys.argv[1:]:
 				print("Error reading of {}: {}".format(w, e))
 				if err == 0:
 					err = os.EX_UNAVAILABLE
-				break
+				return
+
 			WClist = []
 			JPlist = []
 			for row in WCCSV:
@@ -57,6 +58,11 @@ for i in sys.argv[1:]:
 	except Exception as e:
 		err = 1
 		print("File {} is badly formatted: {}".format(w, e))
+
+p = mp.Pool(mp.cpu_count())
+p.map(check, sys.argv[1:])
+p.close()
+p.join()
 
 
 sys.exit(err)
