@@ -23,6 +23,9 @@ jobs:
           command: apt-get --no-install-recommends -qq -y install git binutils ssh rsync parallel jq
       - checkout
       - run:
+          name: Checking DUP folders
+          command: ./_sh/dupfolders.sh
+      - run:
           name: Add upstream repos
           command: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
       - run:
@@ -43,9 +46,6 @@ jobs:
       - run:
           name: Verify folder layout
           command: ./_sh/checkFiles.sh
-      - run:
-          name: Checking DUP folders
-          command: ./_sh/dupfolders.sh
       - run:
           name: checking CSVs for quote issues
           command: ./_sh/quote.sh
