@@ -656,7 +656,7 @@ AchieveEnchantTypeStampCreate#0,"""作成種別： データドライブを更�
 AchieveEnchantTypeItemCreate#0,"""作成種別： 時限能力データ作成"""
 AchieveEnchantEffectLevel#0,"""メイン効果レベル： $(0)以上"""
 AchieveEnchantEffectRange#0,"""効果発揮条件： $(0)"""
-AchieveEnchantEffectQuestTypeStory#0,"""ストーリークエスト"""
+AchieveEnchantEffectQuestTypeStory#0,"""オムニバスクエスト"""
 StampSwapNo#0,"""$(0).$(1)"""
 StampSwapNew#0,"""新規保存"""
 StampSwapConfirmTitle#0,"""バックアップデータドライブに保存"""
