@@ -484,7 +484,7 @@ TextSummary#0,"""Marque [Permitir deseos de entrada]<br>Se buscará a los solici
 TextNotes1#0,"""<yellow>※El contenido se restablecerá después de unirse al Team.<c>"""
 TextNotes2#0,"""<yellow>※Múltiples controles en los artículos aplicables。<c>"""
 TextNotes3#0,"""<yellow>※Puede marcar más de uno para buscar.<c>"""
-TextHit#0,"""Número de golpes"""
+TextHit#0,"""Cantidad encontrados"""
 ButtonRenewal#0,"""Actualizar"""
 ButtonSearch#0,"""Buscar"""
 SearchPlayer#0,"""$(0) quiere unirse"""
