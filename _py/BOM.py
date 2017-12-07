@@ -17,6 +17,7 @@ def check(i):
 		print("UTF-8 file with BOM: {}".format(i))
 		return 1
 
+
 if __name__ == '__main__':
 	err = os.EX_OK
 
