@@ -107,7 +107,7 @@ BuyErrorMessage2#0,"""Dir mangelt es an freiem Platz im Inventar<br>oder du hast
 BCInsufficient#0,"""所持BCが不足しています。"""
 BuyResultMessage2#0,"""Kauf konnte nicht abgeschlossen werden."""
 BuyResultTitle#0,"""Itemkauf"""
-CancelTitle#0,"""購入キャンセル確認"""
+CancelTitle#0,"""Kauf abbrechen bestätigen"""
 CancelMessage#0,"""Der Kauf wird abgebrochen. Fortfahren?"""
 SelectItemInputVita#0,"""個数を入力してください"""
 MenuErrorTitle#0,"""Nachricht"""
