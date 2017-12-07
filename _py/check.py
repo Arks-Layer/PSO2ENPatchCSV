@@ -6,6 +6,7 @@ import os
 import sys
 import multiprocessing as mp
 
+
 def check(i):
 	err = 0
 	try:
@@ -43,7 +44,7 @@ def check(i):
 				except StopIteration:
 					JP_ = None
 
-				if JP_ == None and WC_ == None:
+				if JP_ is None and WC_ is None:
 					break
 				elif JP_ == WC_:
 					next
@@ -60,8 +61,8 @@ def check(i):
 				elif jid:
 					bid = jid
 
-				if JP_ == None or WC_ == None:
-					print("File {}:{} have extra line: {}".format(bp, col, wid))
+				if JP_ is None or WC_ is None:
+					print("File {}:{} have extra line: {}".format(bp, col, bid))
 					err = 1
 				elif (WC_[0] != JP_[0]):
 					print("File {} have mismatch line: {}/{} ".format(bp, jid, wid))
@@ -72,6 +73,7 @@ def check(i):
 		print("File {} is badly formatted: {}".format(w, e))
 
 	return err
+
 
 if __name__ == '__main__':
 	err = os.EX_OK

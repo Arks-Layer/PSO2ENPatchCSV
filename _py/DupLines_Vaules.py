@@ -26,6 +26,7 @@ def check(file):
 				continue
 			oD[oL[associations[key]]] += [line[1]]
 
+
 err = os.EX_OK
 
 if len(sys.argv) < 3:
