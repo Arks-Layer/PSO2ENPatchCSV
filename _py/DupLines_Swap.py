@@ -14,7 +14,7 @@ with open(sys.argv[1]) as f:
     oD = json.load(f)
 
 oJ = {}
-for k ,vl in oD.items():
+for k, vl in oD.items():
     for v in vl:
         if v not in oJ:
             oJ[v] = [k]
