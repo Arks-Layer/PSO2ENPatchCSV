@@ -8,7 +8,7 @@ NpcComOnBegin#0,"""/face3 アークスの戦闘機がダーカーの<br>侵食�
 NpcComOnBegin2#0,"""侵食が不完全な今のうちに<br>該当の機体を破壊しろ！"""
 NpcComOnHp50#0,"""気を付けろ。<br>侵食が進行しているぞ。"""
 NpcComOnHp10#0,"""侵食戦闘機の破壊まで<br>あと少しだ。"""
-NpcComOnLanding#0,"""未使用"""
+NpcComOnLanding#0,""" Tidak digunakan"""
 NpcComOnTimeNotice#0,"""……侵食レベルがかなり深刻だ。<br>破壊を急げ、奪われてしまうぞ！"""
 NpcComOnSuccess#0,"""侵食戦闘機の破壊を確認。<br>よくやってくれた。"""
 NpcComOnFailure#0,"""……戦闘機の反応、消失。<br>ダーカーめ、アレを奪って<br>何をする気だ……？"""

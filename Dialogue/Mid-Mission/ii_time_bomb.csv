@@ -1,4 +1,4 @@
-IncidentName#0,"""時限爆弾解除"""
+IncidentName#0,"""Nonaktifkan Bomb Waktu"""
 TrialBeginMsg#0,"""全ての時限爆弾を解除せよ！"""
 TrialAbstract#0,"""全ての時限爆弾を解除せよ！"""
 ToastOnHalfFinish#0,"""時限爆弾残存数、あと半分。"""

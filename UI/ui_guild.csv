@@ -93,7 +93,7 @@ Msg1#0,"""Keluar team menyebabkan kehilangan posisi.<br>Jika kamu mengikuti kemb
 Msg2#0,"""Telah keluar dari Team."""
 Error1#0,"""Bukan bagian dari Team."""
 Error2#0,"""Ketua Team tidak dapat keluar."""
-Error3#0,"""このチームは現在、一時的に<br>一部機能のご利用を停止させて頂いております。<br><br>しばらく時間をおいて、再度お試しください。"""
+Error3#0,"""Fungsi team ini sementara ditangguhkan.<br><br>Harap coba beberapa saat lagi."""
 ErrorOther#0,"""Tidak dapat keluar dari Team."""
 Title#1,"""$(0)用コマンド"""
 Setting#0,"""Pengaturan Team"""
