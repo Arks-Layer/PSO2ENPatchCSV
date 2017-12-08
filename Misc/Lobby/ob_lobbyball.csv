@@ -1,0 +1,7 @@
+Name_blue#0,"""Gawang Biru"""
+Name_red#0,"""Gawang Merah"""
+ScoreCall#0,"""GOOOOLLL!!<br>$(0) mencetak gol!<br>$(2) point ditambahkan!  $(1) / $(3)"""
+GameSet#0,"""/toge $(0) telah mencetak $(1) point!<br>Match Set! $(2) / $(2)"""
+ShowScore#0,"""Score saat ini: $(0) / $(1)"""
+ResetScore#0,"""Score telah direset.<br>Mainkan match selanjutnya."""
+Async#0,"""現在個人モード中です"""
