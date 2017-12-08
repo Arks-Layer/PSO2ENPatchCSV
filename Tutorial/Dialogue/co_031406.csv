@@ -1,4 +1,4 @@
 text00#0,"""Acerca de 『Bloques desafio』"""
 text01#0,"""『チャレンジブロック』について説明します。<br><br>チャレンジブロックはチャレンジクエストを<br>受注する為のブロックとなります。<br><br>チャレンジブロックでは統一された環境下での<br>訓練を行うため、<red>プレイヤーのレベル、<br>所持品が一時的に制限<c>されています。<br><br>クライアントオーダーやマターボード等<br>一部機能の使用も制限されていますが、<br>チャレンジブロック外へ行けば<br>元に戻りますのでご安心下さい。"""
-text02#0,"""チャレンジブロックも他のブロック同様<br>クエストカウンターから<br>クエストの受注が可能です。<br><br>また、テレポーターから<br>他のチャレンジブロックや<br>元のブロックに移動することも出来ます。"""
-text03#0,"""『チャレンジモニュメント』について<br>説明します。<br><br>チャレンジブロック内の<br>チャレンジモニュメントにアクセスすることで<br>チャレンジクエストのランキングを<br>閲覧することが出来ます。<br><br>ナンバー1を目指して<br>チャレンジクエストに挑みましょう。<br><br>※ランキングは一定期間でリセットされます"""
+text02#0,"""En Bloques Desafío, al igual que los bloques normales, las misiones se pueden obtener desde el asesor de misiones.<br><br>Puedes usar el Teletransportador para ir hacia otro Bloque Desafío, o regresar a tu bloque original."""
+text03#0,"""Al acceder al Monumento Desafio en un Bloque Desafio, puedes ver tu clasificación de Misiones Desafío.<br><br>Acepte Misiones Desafío y trate de ser el numero 1.<br><br>※Las clasificaciones se reinician regularmente"""
