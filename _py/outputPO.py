@@ -28,19 +28,21 @@ def poformat(input):
 
 
 def badcheck(EN, WC, POWCF, POEN, POWC):
+
 	if EN == WC:
 		return True
-	if unicodedata.normalize('NFKC', EN) == unicodedata.normalize('NFKC',  WC):
+	if unicodedata.normalize('NFKC', EN) == unicodedata.normalize('NFKC', WC):
 		return True
 	if EN == POWCF:
 		return True
-	if unicodedata.normalize('NFKC',  EN) == unicodedata.normalize('NFKC',  POWCF):
+	if unicodedata.normalize('NFKC', EN) == unicodedata.normalize('NFKC', POWCF):
 		return True
 	if POEN == POWC:
 		return True
-	if unicodedata.normalize('NFKC',  POEN) == unicodedata.normalize('NFKC',  POWC):
+	if unicodedata.normalize('NFKC', POEN) == unicodedata.normalize('NFKC', POWC):
 		return True
 	return False
+
 
 ENcheckForce = False
 err = 0

@@ -6,6 +6,7 @@ import os
 import sys
 import multiprocessing as mp
 
+
 def check(i):
 	err = os.EX_OK
 	with codecs.open(i, encoding="utf-8") as QC:
@@ -23,6 +24,7 @@ def check(i):
 				print("Issue on {}:{}".format(i, x, header))
 				err = 1
 	return err
+
 
 if __name__ == '__main__':
 	err = os.EX_OK
