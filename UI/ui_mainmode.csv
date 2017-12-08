@@ -865,7 +865,7 @@ PartyInfoText52#0,"""El tiempo de uso de elementos de refuerzo sera utilizada de
 PartyInfoText53#0,"""Esta misión se puede completar $(0) vez mas."""
 PartyInfoText54#0,"""$(0) obtuvo un <c 00ffff>SPECIAL EGG?<c>."""
 PartyInfoText_55_QuestTrigger#0,"""Dado a que el dueño del Trigger de Misión ha abandonado, la misión a sido cancelada."""
-PartyInfoText56#0,"""このクエストはあと$(0)回プレイできます。"""
+PartyInfoText56#0,"""Esta misión se puede completar $(0) vez mas."""
 PartyInfoText_Invite#0,"""Enviada invitación de grupo a $(0)."""
 PartyInfoText_InviteTitle#0,"""Invitación de Grupo"""
 PartyInfoText_InviteConfirm#0,"""Invitaras a $(0)<br>a unirte a tu grupo.<br>¿Estas seguro?"""
