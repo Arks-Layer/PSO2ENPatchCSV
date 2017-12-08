@@ -1,2 +1,2 @@
-OperateGuide#0,"""<%NormalAttack> utk tembak <%Jump> utk batal"""
-ControlBad#0,"""Tidak dapat menggunakan ketika panik"""
+OperateGuide#0,"""<%NormalAttack>で発射\u3000<%Jump>で降りる"""
+ControlBad#0,"""Tidak dapat digunakan ketika panik"""
