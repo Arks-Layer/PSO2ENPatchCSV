@@ -1,7 +1,7 @@
 ErrorTitle#0,"""Error Katalog Pakaian"""
 ErrorDBAccess#0,"""Gagal mengakses database.<br><br>Harap tunggu sebentar dan coba lagi."""
 ErrorUnknown#0,"""Terjadi masalah tidak terduga.<br><br>Harap tunggu sebentar dan coba lagi."""
-ErrorInfoNotFound#0,"""Tidak terdaftar di Patalog Pakaian"""
+ErrorInfoNotFound#0,"""Tidak terdaftar di Katalog Pakaian"""
 ErrorEtc#0,"""Terjadi masalah tidak terduga.<br><br>Masalah lainnya ($(0))"""
 Error_DataNone#0,"""Tidak ditemukan."""
 Nice#0,"""<pict like_icon>いいね！"""
