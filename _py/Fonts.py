@@ -6,6 +6,7 @@ import sys
 import unicodedata
 import multiprocessing as mp
 
+
 def setupfont():
 	cmap = set()
 	# Basic Latin | http://unicode.org/charts/PDF/U0000.pdf
@@ -1092,7 +1093,9 @@ def setupfont():
 	# More cmap.add()
 	return cmap
 
+
 cmap = setupfont()
+
 
 def checkcmap(input):
 	#print(u"{}".format([ord(b) for b in input]))
@@ -1116,11 +1119,12 @@ def check(i):
 					err = os.EX_DATAERR
 	return err
 
+
 if __name__ == '__main__':
 	err = os.EX_OK
 
 	if len(sys.argv) == 1:
-		ys.exit(os.EX_NOINPUT)
+		sys.exit(os.EX_NOINPUT)
 
 	p = mp.Pool(mp.cpu_count())
 	erra = p.map(check, sys.argv[1:])
@@ -1129,4 +1133,3 @@ if __name__ == '__main__':
 
 	err = max(erra)
 	sys.exit(err)
-
