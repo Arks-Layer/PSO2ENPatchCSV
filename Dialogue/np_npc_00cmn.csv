@@ -1,6 +1,6 @@
 WINDOW_TITLE#0,"""Apa yang ingin kamu lakukan?"""
 CLOSE_MENU#0,"""Kembali"""
-START_CLIENT_ORDER#0,"""Buka Client Orders"""
+START_CLIENT_ORDER#0,"""Pilih Order"""
 START_TALK#0,"""Bicara"""
 MB_ACCEPT#0,"""受ける"""
 MB_REPORT#0,"""報告する"""
