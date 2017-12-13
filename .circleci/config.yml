@@ -30,7 +30,7 @@ jobs:
           command: ./_sh/dupfiles.sh
       - run:
           name: Add upstream repos
-          command: git remote add -f --tags upstream https://github.com/Cavistus/PSO2ENPatchCSV.git
+          command: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
       - run:
           name: Verify CSVs as UTF-8
           command: ./_sh/UTF8.sh
