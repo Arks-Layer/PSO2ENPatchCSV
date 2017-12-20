@@ -6,6 +6,7 @@ import os
 import sys
 import multiprocessing as mp
 
+
 def check(i):
 	err = os.EX_OK
 	with codecs.open(i, encoding="utf-8") as QC:
@@ -32,6 +33,7 @@ def check(i):
 							print(check[1:-1])
 							err = os.EX_DATAERR
 	return err
+
 
 if __name__ == '__main__':
 	err = os.EX_OK
