@@ -35,6 +35,9 @@ jobs:
           name: Verify CSVs as UTF-8
           command: ./_sh/UTF8.sh
       - run:
+          name: Verify CSVs with an EOL
+          command: ./_sh/EOL.sh
+      - run:
           name: Verify CSVs without BOM
           command: ./_sh/BOM.sh
       - run:
