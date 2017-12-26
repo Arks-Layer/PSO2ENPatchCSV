@@ -2199,7 +2199,7 @@ FreezeKeep#1,"""Aumenta la solidez de congelación, lo que hace mas dificil de r
 TalisTecBonus#1,"""Otorga un bono de poder de las tecnicas emitidas, desde una talis."""
 FreezeIgnitionUP#1,"""Aumenta el alcance y poder de Freeze Ignition."""
 ForceAtpTechnicUp3#1,"""Aumenta T-ATK. Los efectos son mayores que T-ATK Up."""
-ErementConversion#1,"""Obtienes un bono de daño por el elemento de tu arma cuando atacas con tecnicas, se da un bono mas fuerte si ambos elementos son iguales. <yellow>Solo Clase Principal<c>."""
+ErementConversion#1,"""Bono de daño por el elemento de tu arma cuando atacas con tech, se da un bono mas fuerte si ambos elementos son iguales. <yellow>Solo Clase Principal<c>."""
 ChargeEscape#1,"""Mantiene las tecnicas cargadas durante Mirage Escape. <yellow>Solo Clase Principal<c>."""
 ForceDexUp1#1,"""Aumenta la DEX."""
 ForceHPUp1#1,"""Aumenta el maximo de HP."""
