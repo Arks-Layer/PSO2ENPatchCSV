@@ -455,7 +455,7 @@ Log_Toast_Nouse_Poka_Whisper#0,"""対戦中のためウィスパーチャット�
 Log_Welcome#0,"""Bienvenido a <lt>$(0)<rt>!"""
 Log_KeyHelp#0,"""Bienvenido a PSO2!<br>Nota: Pueden notificar errores y enviar sugerencias en<br>https://www.facebook.com/PSO2spanish/<br>https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/ES"""
 Log_ItemGet#0,"""Recibido $(0)."""
-Log_CapsuleGet#0,"""Recibido Objeto VR: $(0). Puedes retirarlo desde la Terminal de Extreme al terminar."""
+Log_CapsuleGet#0,"""Objeto VR recibido: $(0). Puedes retirarlo desde la Terminal de Extreme al terminar."""
 LogSymbolArt#0,"""Symbol art mostrado."""
 LogWhisperEmpty#0,"""Privado sin destino"""
 LogWhisperButtonText#0,"""…"""
