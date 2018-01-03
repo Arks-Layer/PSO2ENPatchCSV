@@ -1,0 +1,4 @@
+train_title#0,"""Tarea 2: <yellow> Realizar 3 Just Guards con una espada"""
+tut_title#0,"""[Just Guard]"""
+text100#0,"""・Justo antes de que un ataque te golpee,<br>Protegete con <%WeaponAction>"""
+text100_3b#0,"""・Justo antes de que un ataque te golpee,<br>Protegete con <%MainPaletteC>"""
