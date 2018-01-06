@@ -4,6 +4,6 @@ text03#0,"""In the Desert, powerful Mechs and the harsh environment will stop yo
 text04#0,"""To help you, I will send you a Unit, along with some brief advice."""
 text05#0,"""You have made a great effort so far. I would hate to see it go to waste."""
 text100#0,"""About Enemy Attack Power"""
-text101#0,"""This explains enemy attack power.<br>Just like players, enemies have S-ATK, R-ATK and T-ATK.<br><br>As you proceed through the Desert, you will encounter a lot of enemies that use their R-ATK to attack."""
+text101#0,"""Just like players, enemies have S-ATK, R-ATK and T-ATK.<br><br>As you proceed through the Desert, you will encounter a lot of enemies that use their R-ATK to attack."""
 text102#0,"""You can reduce damage from enemies by raising your corresponding DEF stat.<br><br>S-DEF for S-ATK<br>R-DEF for R-ATK<br>T-DEF for T-ATK"""
 text103#0,"""You can also reduce shooting damage by equipping a Unit with \""Shot Resist\"". <br><br>Koffie has given you a Sub/Shot Resist a. Equipping it will help tip the scales in your favor when fighting in the Desert."""
