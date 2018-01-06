@@ -3410,7 +3410,7 @@ MyRoom_Error_UserFull#0,"""No pude entrar en la habitación,<br>ya que está lle
 "MyRoom_Error_BlackList,#0","""選択したマイルームの持ち主が<br>ブラックリストに入っているため、<br>入室できませんでした。"""
 "MyRoom_Error_Denied,#0","""選択したマイルームには<br>入室できませんでした。<br><br>[No.1043］"""
 "MyRoom_Error_Unknown,#0","""選択したマイルームへの入室時に<br>問題が発生したため、<br>入室できませんでした。<br><br>[No.1044］"""
-MyRoom_Error_Exception#0,"""No pudes entrar en la habitación,<br>ya que un problema ocurrió al entrar.<br><br>[No.1045]"""
+MyRoom_Error_Exception#0,"""No puedes entrar en la habitación,<br>ya que un problema ocurrió al entrar.<br><br>[No.1045]"""
 Area#1,"""Salon del Team $(0)"""
 GuildRoom_Error_UserFull#0,"""No puedes entrar a la habitacion seleccionada debido a que esta llena"""
 "GuildRoom_Error_NotFound,#0","""選択したチームルームが<br>見つかりませんでした。<br><br>[No.1052］"""
