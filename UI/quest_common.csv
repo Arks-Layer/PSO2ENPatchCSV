@@ -644,7 +644,7 @@ urgency_begin_50350#0,"""Derrotar a los enemigos<br>y recoge $(0) puntos de misi
 urgency_begin_50340#0,"""Derrotar a los enemigos<br>y recoge $(0) puntos de misión!"""
 urgency_begin_50370#0,"""Colecciona $(0) Puntos navideños!"""
 urgency_begin_50390#0,"""Derrota Magatsu!"""
-ultimate_begin_130000#0,"""Recoge al menos $(0) puntos de misión!"""
+ultimate_begin_130000#0,"""Recoge puntos de misión!"""
 event_begin_80120#0,"""Derrotar a los enemigos<br>y recoge $(0) puntos de misión!"""
 urgency_begin_50380#0,"""Colecciona $(0) Puntos de valentin!"""
 urgency_begin_50400#0,"""Colecciona $(0) White Day Pts!"""
