@@ -67,7 +67,7 @@ QuestNoticeHard_F#0,"""Pedir una misión de historia, ¿verdad?<br>\u3000<yellow
 QuestSettledNoticeHard_F#0,"""Pedir una misión de historia, ¿verdad?<br>\u3000<yellow>※Esta misión no te llevara campship<br>\u3000\u3000\u3000Serás enviado directamente al campo<c><br>\u3000<yellow>※No hay modo fácil en esta Mision<c><br><br>\u3000<c ffa800>※Esta misión ha sido completada<c><br>───────────────────────<br>Fallo: Tiempo limite superado"""
 BridgeMessage#0,"""Misión de historia sólo puede ser tomada desde<br>el Puente. <br>\u3000<yellow>※Puedes ir al Puente desde el menu rapido<br>\u3000\u3000o en la puerta del área 2F.<c>"""
 PartyMessage#0,"""No puede hacer misiones de historia,<br>mientras estes en un grupo."""
-EventMessage#0,"""El evento seleccionado se reproducira.<br>¿Continuar?"""
+EventMessage#0,"""El evento seleccionado se reproducira.<br>¿Quieres continuar?"""
 EventSettledMessage#0,"""Se reproducirá el evento seleccionado.<br>¿Seguro que quieres?<br><br>\u3000<c ffa800>※Este evento ya ha sido visto<c>"""
 EventNotice#0,"""Los eventos sólo se pueden ver desde el puente.<br>\u3000<yellow>※Puedes ir al Puente desde el menu rapido<br>\u3000\u3000o en la puerta del área 2F.<c>"""
 MatterLock#0,"""Pieza no disponible todavía"""

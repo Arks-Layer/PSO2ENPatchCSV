@@ -519,7 +519,7 @@ CtrlPadBehaviorTriggerMessageL#0,"""Esto determinara si es un boton [Rear left b
 CtrlPadBehaviorTriggerMessageR#0,"""Esto determinara si es un boton [Rear right button].<br>(Esto solo funcióna para los controles analogicos)<br>Por favor, pulse el boton que esta brillando en la siguiente figura.<br><yellow>Si no pasa nada, si se presiona, el controlador no es analogico.<br>por favor, pulse <c>$(0)<yellow> para realizar la configuración de los botones en la pantalla siguiente.<c>"""
 CtrlPadBehaviorConfirmInitTitle#0,"""Resetear todo"""
 CtrlPadBehaviorConfirmApplyTitle#0,"""Confirmar Aplicación"""
-CtrlPadBehaviorConfirmInitMessage#0,"""Esto restablecera los controles a los valores predeterminados.<br>¿Continuar?"""
+CtrlPadBehaviorConfirmInitMessage#0,"""Esto restablecera los controles a los valores predeterminados.<br>¿Quieres continuar?"""
 CtrlPadBehaviorConfirmApplyMessage#0,"""Aplicar los ajustes."""
 CtrlPadBehaviorHelpSetting#0,"""Para iniciar la configuración."""
 CtrlPadBehaviorHelpInitialize#0,"""Configuración automatica"""
