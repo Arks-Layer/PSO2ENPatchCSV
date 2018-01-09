@@ -2204,7 +2204,7 @@ ChargeEscape#1,"""Mantiene las tecnicas cargadas durante Mirage Escape. <yellow>
 ForceDexUp1#1,"""Aumenta la DEX."""
 ForceHPUp1#1,"""Aumenta el maximo de HP."""
 RodKeepBornus#1,"""Cuando se utiliza el Rod, permite la activación de tecnicas almacenadas sin gastar PP."""
-RodChargeGuard#1,"""Cuando se utiliza el Rod, permite Just Guard en el mometno de empezazr a cargar una tecnica."""
+RodChargeGuard#1,"""Cuando se utiliza el Rod, permite Just Guard en el momento de empezazr a cargar una tecnica."""
 TalisTecFastThrow#1,"""Incrementa la velocidad de lanzamiento de Talis. <yellow>Solo clase principal<c>."""
 RodShoot#1,"""Agrega una bala magica al ataque normal del Rod. <yellow>Clase principal<c>."""
 ForceChargeTechJA#1,"""チャージテクニックがジャストアタックになる効果を得る。発動後にリキャストが発生する"""
