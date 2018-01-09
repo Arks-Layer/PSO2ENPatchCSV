@@ -4,7 +4,7 @@ ChallengeSet_ability#0,"""クラスセット説明（決定でクラススキル
 ChallengeSet_ability_list#0,"""クラススキル・PA・テクニック一覧"""
 ChallengeSet_select#0,"""クラスセット選択"""
 ChallengeSet_confirm#0,"""クラスセット確認"""
-ChallengeSet_message#0,"""As a [$(0)],<br>your equipment, class skills, etc., will change.<br><br>¿Continuar?"""
+ChallengeSet_message#0,"""As a [$(0)],<br>your equipment, class skills, etc., will change.<br><br>¿Quieres continuar?"""
 ChallengeSet_nouse#0,"""クエストが開始されたため、<br>クラスセットは変更できません。"""
 ChallengeSet_Help#0,"""<c f0df60>Selecciona un Class Set<c>"""
 ChallengeSet_Toast#0,"""クラスセット「$(0)」を適用しました"""
