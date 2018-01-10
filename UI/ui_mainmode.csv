@@ -4740,7 +4740,7 @@ PartyMakerNotLeader#0,"""No se puede instalar por que no eres el lider del grupo
 PartyMakerNotRemoval#0,"""No se puede quitar el Party Maker."""
 PartyMakerBeforeQuestEnd#0,"""クエスト終了後のためパーティーに参加できません。"""
 PartyMakerBeforeJoin#0,"""既に設置者のパーティーに参加しています。"""
-PartyMakerBubbleText#0,"""{red}$(0){def}さんが<br>目的{red}【$(1)】{def}で<br>パーティーメンバーを募集中！！"""
+PartyMakerBubbleText#0,"""{red}$(0){def} esta<br>buscando miembros para su grupo<br>para {red}[$(1)]{def}!!"""
 PartyMakerBubbleName#0,"""Grupo de $(0)"""
 MultiPartyStoryError#0,"""現在、ストーリークエスト受注中のため、パーティーメイカーを使用できません。"""
 MyFashionTitle01#0,"""Mi moda"""
