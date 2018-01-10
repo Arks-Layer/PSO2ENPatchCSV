@@ -33,7 +33,7 @@ IncidentJsApcSuccess#6,"""/ci2 1 Phew... S-somehow, I'm okay... It's all over th
 IncidentJsApcFailure#6,"""Ugh... I was just looking for someone. Why did it have to turn out like this... I'm gonna retreat..."""
 IncidentJsApcBeginEvo#6,"""/ci4 1 T-there's... more of them!? Ugh, I want to get out of here... Let's run away..."""
 IncidentJsApcSuccessEvo#6,"""/ci2 1 Phew... S-somehow, I'm okay... It's all over thanks to you. I'm grateful."""
-IncidentJsApcBegin#7,"""/ci2 1  I saw something I'd rather not get caught up in. Still, seems like I need to lend a hand."""
+IncidentJsApcBegin#7,"""/ci2 1 I saw something I'd rather not get caught up in. Still, seems like I need to lend a hand."""
 IncidentJsApcSuccess#7,"""/ci2 3 Nice fight! I'm glad I was here to enjoy it! Later!"""
 IncidentJsApcFailure#7,"""Looks like this body isn't quite what it used to be..."""
 IncidentJsApcBeginEvo#7,"""/ci1 2 Ah good. I was hoping that was just the warm-up!"""
