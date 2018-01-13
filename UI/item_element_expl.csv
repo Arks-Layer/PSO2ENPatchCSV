@@ -722,7 +722,7 @@
 157#1,"""Boosts damage by 3%<br>while PP is at 40%<br>or above."""
 158#1,"""-"""
 159#1,"""-"""
-160#1,"""Deal 4% more damage<br>but take 8% more damage."""
+160#1,"""Deal 4% more damage<br>but take 8% more<br>damage."""
 161#1,"""-"""
 162#1,"""-"""
 163#1,"""PP regeneration<br>increases by 20%."""
