@@ -909,7 +909,7 @@ LineMessage06#0,"""/start540 <c ffd700>ゴールドエンブレム<c>消滅！\u
 LineMessage07#0,"""/start600 制限時間まであと1分！"""
 LineMessage08#0,"""/start630 制限時間まであと30秒！"""
 Crystal#0,"""エンブレム争奪戦"""
-ArealockQuestStart#0,"""Enviando coordenadas para buscar la existencia de poderosos enemigo. Para la recolección de datos."""
+ArealockQuestStart#0,"""Buscando leecturas para comprobar la existencia de poderosos enemigos. Para su recolección de datos."""
 ArealockOpened#0,"""強力な敵性存在の座標を特定。<br>転送用テレパイプ、準備完了です。<br>敵性存在の討伐に向かってください。"""
 RidingTimelimitHalf#0,"""領域の展開時間、あと半分ほどです！<br>まだ余裕はあるので、時間いっぱいまで<br>エネミーを討伐しましょう！"""
 RidingTimelimitLittle#0,"""領域の展開時間、残りわずかです！<br>あと少し、頑張ってください！"""
