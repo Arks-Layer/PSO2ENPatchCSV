@@ -272,7 +272,7 @@ SystemMesNetWorkShut#0,"""Conexion perdida. Por favor, compruebe su conexion y c
 SystemMesBusy#0,"""Comunicando..."""
 SystemGmAlertFormMessage#0,"""Aceptar este mensaje."""
 SystemGmAlertFormMessageTitle#0,"""Advertencia del Administrador"""
-SystemGmMessageFormMessageTitle#0,"""Mensaje del Administrador"""
+SystemGmMessageFormMessageTitle#0,"""Mensaje del administrador"""
 Yes#0,"""Si"""
 No#0,"""いいえ"""
 Decide#0,"""Confirmar"""
