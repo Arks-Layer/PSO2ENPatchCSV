@@ -646,7 +646,7 @@ EnchantStampItemSuccessMessage#0,"""La creación de la habilidad temporal fue un
 EnchantStampItemSpecialSuccessMessage#0,"""時限能力データ作成に <c ff007f>大成功<c> しました。<br>以下の効果が発生しました。"""
 StampGreatSuccessSubParamMax#0,"""Efecto secundario maximizado"""
 StampGreatSuccessAddEffect#0,"""Efecto añadido"""
-ItemGreatSuccessAddTime#0,"""Incrementado el tiempo del ffecto"""
+ItemGreatSuccessAddTime#0,"""Incrementado el tiempo del efecto"""
 CreateStampItemDisable#0,"""Espacio insuficiente del inventario.<br>No puedes crear una habilidad temporal."""
 RecipeSelectItemErrorMessage#1,"""必要素材が不足しています。<br><br>素材アイテムは、レアリティ★７以上のユニットを<br>「アイテム分解」したり、エネミーからのドロップ、<br>リサイクルショップの「クラフト関連ショップ」で<br>交換することなどで入手できます。"""
 StampSelectItemErrorMessage#0,"""必要素材が不足しています。<br><br>素材アイテムは、レアリティ★７以上のユニットを<br>「アイテム分解」したり、エネミーからのドロップ、<br>リサイクルショップの「クラフト関連ショップ」で<br>交換することなどで入手できます。"""
