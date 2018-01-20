@@ -2155,7 +2155,7 @@ SRollCombo#1,"""Grants a power bonus to a Just Attack that follows Stylish Roll.
 SRollArts#1,"""Perform a powerful attack that consumes PP by attacking with the PA button during Stylish Roll."""
 ToughnessTime#1,"""During Showtime, reduces the amount your Gear decreases based on damage. Works only after learning Twin Machinegun Gear."""
 ShowTimeStar#1,"""During Showtime, boosts your maximum PP when twin machineguns are equipped."""
-HighTime#1,"""Grants a power bonus during Showtime that increases over time. Resets upon taking a percentage of damage in a short time. <yellow>Main class only.<c>"""
+HighTime#1,"""Grants a power bonus during Showtime, over time. Resets upon taking a damage in a short time. <yellow>Main class only.<c>"""
 GunnerZeroRangeCritical#1,"""Boosts critical rates for shots fired at close range."""
 TwiceChain#1,"""Double chain accumulation for Twin Machinegun attacks."""
 ChainFinishBonus#1,"""Reduce Chain Trigger cooldown based on chain count upon activating Chain Finish."""
