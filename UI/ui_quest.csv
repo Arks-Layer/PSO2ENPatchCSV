@@ -252,7 +252,7 @@ RD_Event050_MES#0,"""Deus ESC-A ha reaparecido en la Tierra. Hemos comenzado una
 RD_Event051_MES#0,"""Deus ESC-A ha sido sometido con éxito. Gracias por su cooperación."""
 RD_Event052_MES#0,"""Emisión de emergencia. Hemos detectado señales de un brote masivo de Phantom en la Tierra. Todos los operarios ARKS de Lv.80, por favor únase a la operación desde el asesor de misiones más cercano para comenzar nuestra operación estratégica."""
 RD_Event053_MES#0,"""Hemos logrado repeler el brote masivo de Phantom en la Tierra. Damos las gracias a cada ARKS por su cooperación."""
-Q_Event001_56_MES#0,"""Contactando a todo el mundo. Hemos detectado un anormal cambio en Omega, the world beyond. Prontamente puede ocurrir una gran batalla. Por favor esten preparados."""
+Q_Event001_56_MES#0,"""Contactando a todo el mundo. Hemos detectado un anormal cambio en Omega, el mundo diferente. Prontamente puede ocurrir una gran batalla. Por favor esten preparados."""
 Q_Event001_57_MES#0,"""緊急連絡だよ。向こうの世界――オメガで、異変が発生した。大きな戦闘が起きているようだ。急ぎ出撃し、鎮圧にあたってほしい。"""
 Q_Event001_58_MES#0,"""La batalla en Omega ha cesado. Gracias a todos por su cooperación con la operación."""
 RD_Event054_MES#0,"""連絡だよ。オメガにて紅き邪竜の出現予兆が確認されたみたいだ。出撃を要請するから準備をしてほしい。"""
