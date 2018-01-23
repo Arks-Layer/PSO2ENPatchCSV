@@ -3,8 +3,8 @@
 import codecs
 import csv
 import os
-import unicodedata
 import sys
+import unicodedata
 
 if len(sys.argv) == 2:
 	sys.exit(os.EX_NOINPUT)
@@ -27,19 +27,18 @@ def poformat(input):
 	return outtext
 
 
-def badcheck(EN, WC, POWCF, POEN, POWC):
-
-	if EN == WC:
+def badcheck(en, wc, powcf, poen, powc):
+	if en == wc:
 		return True
-	if unicodedata.normalize('NFKC', EN) == unicodedata.normalize('NFKC', WC):
+	if unicodedata.normalize('NFKC', en) == unicodedata.normalize('NFKC', wc):
 		return True
-	if EN == POWCF:
+	if en == powcf:
 		return True
-	if unicodedata.normalize('NFKC', EN) == unicodedata.normalize('NFKC', POWCF):
+	if unicodedata.normalize('NFKC', en) == unicodedata.normalize('NFKC', powcf):
 		return True
-	if POEN == POWC:
+	if poen == powc:
 		return True
-	if unicodedata.normalize('NFKC', POEN) == unicodedata.normalize('NFKC', POWC):
+	if unicodedata.normalize('NFKC', poen) == unicodedata.normalize('NFKC', powc):
 		return True
 	return False
 

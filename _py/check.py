@@ -2,20 +2,20 @@
 # -*- coding:utf-8 -*-
 import codecs
 import csv
+import multiprocessing as mp
 import os
 import sys
-import multiprocessing as mp
 
 
 def check(i):
 	err = 0
 	try:
-		w = i.replace("JP/", "WC/")
+		w = i.replace("JP/", "wc/")
 		with codecs.open(i, encoding="utf-8") as JP:
 			bp = os.path.basename(i)
 
 			try:
-				JPCSV = csv.reader(JP, strict=True)
+				jpcsv = csv.reader(JP, strict=True)
 			except Exception as e:
 				print("Error reading {}: {}".format(i, e))
 				if err == 0:
@@ -23,8 +23,8 @@ def check(i):
 				return
 
 			try:
-				WC = codecs.open(w, encoding="utf-8")
-				WCCSV = csv.reader(WC, strict=True)
+				wc = codecs.open(w, encoding="utf-8")
+				wccsv = csv.reader(wc, strict=True)
 			except Exception as e:
 				print("Error reading of {}: {}".format(w, e))
 				if err == 0:
@@ -35,36 +35,36 @@ def check(i):
 				jid = None
 				wid = None
 				try:
-					WC_ = next(WCCSV)
+					wc_ = next(wccsv)
 				except StopIteration:
-					WC_ = None
+					wc_ = None
 
 				try:
-					JP_ = next(JPCSV)
+					jp_ = next(jpcsv)
 				except StopIteration:
-					JP_ = None
+					jp_ = None
 
-				if JP_ is None and WC_ is None:
+				if jp_ is None and wc_ is None:
 					break
-				elif JP_ == WC_:
+				elif jp_ == wc_:
 					next
 
-				if WC_:
-					wid = WC_[0]
-					col = WCCSV.line_num
-				if JP_:
-					jid = JP_[0]
-					col = JPCSV.line_num
+				if wc_:
+					wid = wc_[0]
+					col = wccsv.line_num
+				if jp_:
+					jid = jp_[0]
+					col = jpcsv.line_num
 
 				if wid:
 					bid = wid
 				elif jid:
 					bid = jid
 
-				if JP_ is None or WC_ is None:
+				if jp_ is None or wc_ is None:
 					print("File {}:{} have extra line: {}".format(bp, col, bid))
 					err = 1
-				elif (WC_[0] != JP_[0]):
+				elif (wc_[0] != jp_[0]):
 					print("File {} have mismatch line: {}/{} ".format(bp, jid, wid))
 					err = 1
 
