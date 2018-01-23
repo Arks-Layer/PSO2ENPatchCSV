@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 import codecs
+import multiprocessing as mp
 import os
 import sys
-import multiprocessing as mp
 
 
 def check(i):
