@@ -10,7 +10,7 @@ import sys
 def check(i):
 	err = 0
 	try:
-		w = i.replace("JP/", "wc/")
+		w = i.replace("JP/", "WC/")
 		with codecs.open(i, encoding="utf-8") as JP:
 			bp = os.path.basename(i)
 
