@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
+import json
 import os
 import sys
-import json
 
 err = os.EX_OK
 
