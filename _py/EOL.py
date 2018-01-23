@@ -8,7 +8,7 @@ if len(sys.argv) == 1:
 
 for i in sys.argv[1:]:
 	f = open(i, mode="rb+")
-	f.seek(-1,2)
+	f.seek(-1, 2)
 	char = f.read()
 	if ord(char) != 0xa:
 		print("Missing EOL in {}'s last line".format(i))
