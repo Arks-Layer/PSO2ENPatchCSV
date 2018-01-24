@@ -3188,7 +3188,7 @@ MyFashion_Toast_Error_IllegalZone_List#0,"""問題が発生したため実行で
 MyFashion_Toast_Error_IllegalZone_Regist#0,"""問題が発生したため実行できませんでした。"""
 MyFashion_Toast_Error_IllegalZone_Remove#0,"""問題が発生したため実行できませんでした。"""
 MyFashion_Toast_Error_IllegalZone_Rename#0,"""問題が発生したため実行できませんでした。"""
-MyFashion_Toast_Error_IllegalZone_Change#0,"""マイファッションの変更に失敗しました。"""
+MyFashion_Toast_Error_IllegalZone_Change#0,"""Failed to change My Fashion."""
 MyFashion_Toast_Error_IllegalZone_Convert#0,"""問題が発生したため実行できませんでした。"""
 MyFashion_ErrorTitle#0,"""My Fashion Error"""
 MyFashion_RenameError01#0,"""You cannot use this name."""

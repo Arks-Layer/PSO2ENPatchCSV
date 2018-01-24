@@ -6,6 +6,6 @@ tutorial01#0,"""Marlu has issued a client order.  Marlu is in the gate area cent
 tutorial02#0,"""Ohza has issued a client order.  Ohza is in the gate area central hall."""
 tutorial03#0,"""Lisa has issued a client order.  Lisa is in the gate area central hall."""
 tutorial04#0,"""Azanami has issued a client order.  Azanami is in the gate area central hall."""
-tutorial05#0,"""サガにクライアントオーダーが発生しました。<br><br>サガはゲートエリア・中央テレポーター横にいます。"""
-tutorial06#0,"""カトリにクライアントオーダーが発生しました。<br><br>カトリはゲートエリア・中央テレポーター横にいます。"""
+tutorial05#0,"""A new client order is available for Saga.<br><br>Saga can be found in the gate area, by the central teleporter."""
+tutorial06#0,"""A new client order is available for Katori.<br><br>Katori can be found in the gate area, by the central teleporter."""
 tutorial07#0,"""ピエトロにクライアントオーダーが発生しました。<br><br>ピエトロはゲートエリア・アークスカウンターにいます。"""
