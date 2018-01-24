@@ -1,0 +1,6 @@
+text01#0,"""No puedes dominar un arma de la noche a la mañana. Mientras más practiques, mejor seras."""
+text02#0,"""Puede que haya cosas con las que luchas al principio, pero si sigues con tu entrenamiento, serán cada vez más fácil."""
+11_voice_NPC_5057_100#0,"""Es lo mismo con todos mis alumnos. Solo sigue mi ejemplo, y no te preocupes demasiado."""
+text100#0,"""『ツインマシンガンギア』について"""
+text101#0,"""ツインマシンガンのギアシステムについて、説明します。<br><br>スキル「ツインマシンガンギア」を習得している場合には<br>武器パレットの上部にギアゲージが追加されます。<br><br>ツインマシンガンの攻撃をヒットさせると<br>ギアゲージが蓄積されていきます。"""
+text102#0,"""ギアゲージが高まると攻撃力が上昇します。<br><br>ツインマシンガンギアのゲージは時間経過で減少するので<br>攻撃しつづけるのが良いでしょう。<br>また、ダメージを受けるとゲージが減少し、<br>ダウンするとゲージが無くなるので、注意しましょう。"""

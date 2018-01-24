@@ -1,0 +1,6 @@
+text01#0,"""No puedes dominar un arma de la noche a la mañana. Mientras más practiques, mejor seras."""
+text02#0,"""Puede que haya cosas con las que luchas al principio, pero si sigues con tu entrenamiento, serán cada vez más fácil."""
+11_voice_NPC_5057_100#0,"""Es lo mismo con todos mis alumnos. Solo sigue mi ejemplo, y no te preocupes demasiado."""
+text100#0,"""『ツインダガーギア』について"""
+text101#0,"""ツインダガーのギアシステムについて、<br>説明します。<br><br>スキル「ツインダガーギア」を<br>習得している場合には<br>武器パレットの上部に<br>ギアゲージが追加されます。<br><br>ツインダガーのギアゲージは、ジャンプや<br>スピンをすることにより蓄積されます。"""
+text102#0,"""ギアゲージが高まるとフォトンアーツの<br>威力が上昇し敵のやられ<br>リアクションも大きくなります。<br><br>ツインダガーギアのゲージは<br>空中に滞空していれば、<br>時間経過で減少することはありませんが、<br>地上に着地すると消失します。"""
