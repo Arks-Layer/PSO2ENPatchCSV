@@ -814,5 +814,5 @@ MltPtMatching_holdMessage#0,"""クエスト受注準備中です。メインメ�
 MltPtMatching_holdMessage_v#0,"""クエスト受注準備中です。画面上部のボタンをタップし通知を開いてください"""
 MltPtMatching_AllDeparture_Title#0,"""出発確認"""
 MltPtMatching_AllDeparture_Message#0,"""「準備完了」になっていないメンバーも含めて、<br>全員で出発します。<br>よろしいですか？<br><br><yellow>※「準備中」のパーティーメンバーも<br>\u3000強制的にクエストに出発します。<c>"""
-MltPtMatching_AllDepartureError_Title#0,"""エラー"""
+MltPtMatching_AllDepartureError_Title#0,"""Ошибка"""
 MltPtMatching_AllDepartureError_Message#0,"""パーティーメンバーがキャンプシップ、フィールド<br>以外の場所にいるため、クエストを開始することが<br>できませんでした。"""
