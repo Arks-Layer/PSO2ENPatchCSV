@@ -2,9 +2,9 @@
 # -*- coding:utf-8 -*-
 import codecs
 import csv
+import multiprocessing as mp
 import os
 import sys
-import multiprocessing as mp
 
 
 def check(i):
@@ -12,12 +12,12 @@ def check(i):
 	with codecs.open(i, encoding="utf-8") as QC:
 
 		try:
-			QCCSV = list(csv.reader(QC, strict=True))
+			qccsv = list(csv.reader(QC, strict=True))
 		except Exception as e:
 			print("Error reading {}: {}".format(i, e))
 			return os.EX_UNAVAILABLE
 
-		for x, row in enumerate(QCCSV):
+		for x, row in enumerate(qccsv):
 			for n, col in enumerate(row):
 				if n == 0 and "#" not in col:
 					print("entry name not valid in file {}, row {}".format(i, x))
