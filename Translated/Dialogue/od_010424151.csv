@@ -1,0 +1,6 @@
+text01#0,"""No puedes dominar un arma de la noche a la mañana. Mientras más practiques, mejor seras."""
+text02#0,"""Puede que haya cosas con las que luchas al principio, pero si sigues con tu entrenamiento, serán cada vez más fácil."""
+11_voice_NPC_5057_100#0,"""Es lo mismo con todos mis alumnos. Solo sigue mi ejemplo, y no te preocupes demasiado."""
+text100#0,"""『ダブルセイバーギア』について"""
+text101#0,"""ダブルセイバーのギアシステムについて、説明します。<br><br>スキル「ダブルセイバーギア」を習得している場合には、<br>武器パレットの上部にギアゲージが追加されます。<br><br>ダブルセイバーの攻撃をヒットさせると<br>ギアゲージが蓄積されていきます。"""
+text102#0,"""ギアゲージはゲージ単位で最大３つまで蓄積され、<br><%WeaponActionText>を押すとギアゲージを消費して<br>周囲にかまいたちを発生させ、まわりを攻撃します。<br><br>かまいたちが敵にヒットするとギアゲージが蓄積されるため<br>うまくヒットさせれば攻撃し続けることも可能です。"""

@@ -2,7 +2,7 @@
   <img src="http://i.imgur.com/dM2s0Jo.png" alt="PSO2 Logo"/>
 </p>
 
-# PSO2 Parche en Español 
+# PSO2 Parche en Español
 Bienvenido al Repositorio CSV del Parche en Español de PSO2.  
 [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES)
 

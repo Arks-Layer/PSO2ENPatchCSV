@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
-import csv
 import codecs
+import csv
 import fnmatch
 import json
 import multiprocessing as mp
