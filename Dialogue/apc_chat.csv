@@ -13760,7 +13760,7 @@ EnemyLargeRareW#3,"""マスターに頂いた<br><weapon>なら<br>勝てます�
 EnemyBossRareW#3,"""マスターに頂いた<br><weapon>で<br>決着をつけます！"""
 EnemyRareRareW#3,"""珍種を発見しました。<br>私の武器とどちらが珍しいでしょうか？"""
 EnemyBoostRareW#3,"""雰囲気が異なるようですが……<br><weapon>なら<br>やれます！"""
-PartyJoin#216,"""/ci2 2 Combat Division Member, Stratos!<br>I am here!"""
+PartyJoin#216,"""/ci2 2 では、よろしく頼む"""
 IncidentJsApcBegin#200,"""/ci2 3 <%me>さん！<br>お手数をおかけしますが<br>手伝っていただけませんか！"""
 IncidentJsApcFailure#200,"""うう……なんて不甲斐ない姿……<br>すみません、先に退きます……！"""
 IncidentJsApcSuccess#200,"""/ci8 1 ありがとうございました！<br>ご協力いただいて、なんていうかその<br>本当に恐縮です！"""
