@@ -4667,7 +4667,7 @@ MySetMessage04#0,"""El Set $(0) $(1) Sera eliminado.<br>¿Quieres continuar?"""
 MySetMessage05#0,"""El Set $(0) $(1) Sera sobrescrito<br>Por tu equipo actual.<br>¿Quieres continuar?"""
 MySetMessage06#0,"""Esto sobrescribira su clase y equipo actual en<br>[My Set $(0) $(1)].<br><yellow>※El nombre de My Set no se cambiara.<c><br>¿Quieres continuar?"""
 MySetMessage07#0,"""El set $(0) se guardara con<br>tu equipo actual.<br>¿Quieres continuar?"""
-Error#0,"""Error de mis conjuntos
+Error#0,"""Error de mis conjuntos"""
 RenameError01#0,"""No puedes utilizar este nombre."""
 ServerError01#0,"""サーバーに問題が発生したため、<br>処理を実行できませんでした。<br><br>しばらく時間をおいてから、<br>再度お試しください。"""
 ServerError02#0,"""データベースに問題が発生したため、<br>処理を実行できませんでした。<br><br>しばらく時間をおいてから、<br>再度お試しください。"""
