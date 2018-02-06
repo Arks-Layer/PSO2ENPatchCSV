@@ -2,9 +2,9 @@
 # -*- coding:utf-8 -*-
 import codecs
 import csv
+import multiprocessing as mp
 import os
 import sys
-import multiprocessing as mp
 
 
 def check(i):
