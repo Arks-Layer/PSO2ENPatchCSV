@@ -768,7 +768,7 @@ MltPtMatching_hint_Message1#0,"""この設定をしているルームでは<br>�
 MltPtMatching_hint_Message2#0,"""以下の3つの称号を持っているプレイヤーと<br>マルチパーティーが組めるようになります。<br><br>※パーティーでクエスト受注する場合は、<br>\u3000パーティーリーダーの設定が優先されます。<br><br>────────────────────<br>必要な称号/①「独極の孤軍奮闘」<br>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000②「類い稀なる新世の創造主」か<br>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000「サモナーペット育成の開拓者」<br>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000③「盤石なる防具の創造主」"""
 MltPtMatching_hint_Message3#0,"""この設定をしていると<br>パーティーメンバーがブラックリストに<br>追加しているプレイヤーがいるルームに<br>入らないようになります。"""
 MltPtMatching_ExpertSetting_Disable#0,"""エキスパート設定ができません。<br><br>この設定は、特定の称号を<br>取得していないと設定できません。"""
-MltPtMatching_Search#0,"""Iniciar en cualquier bloque"""
+MltPtMatching_Search#0,"""Coincidencia en bloques múltiples"""
 MltPtMatching_Password_Title#0,"""Confirmar contraseña"""
 MltPtMatching_Password_Message#0,"""他パーティーとのマルチプレイが制限されているため<br>マルチパーティーが検索できません。<br><br>「すぐに出発する」からクエストを受注してください。<br><br><yellow>※他パーティーとのマルチプレイを制限して<br>\u3000作成したルームは「パーティーを検索して出発」の<br>\u3000検索対象になりません<c>"""
 MltPtMatching_Leader_Confirmation_Title#0,"""Ordenes de la mision"""
