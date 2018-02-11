@@ -114,7 +114,7 @@ Help3#0,"""<c f0df60>チームへの入団希望の登録とチームを自分�
 MasterAuthority#0,"""Adquirir liderato del Team"""
 MasterAuthorityTitle#0,"""Mensaje"""
 MasterAuthorityCheckTitle#0,"""Confirmación"""
-MasterAuthorityCheck#0,"""Esto te convertira en el lider del Team.<br>Quieres continuar?<br><br>※El lider del Team actual sera degradado a Moderador."""
+MasterAuthorityCheck#0,"""Esto te convertira en el lider del Team.<br>¿Quieres continuar?<br><br>※El lider del Team actual sera degradado a Moderador."""
 MasterAuthoritySuccess#0,"""Ahora eres el lider del Team."""
 MasterAuthorityError#0,"""チームマスター権限を取得できませんでした。"""
 Comment#0,"""Comentario del lider"""

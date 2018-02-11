@@ -452,7 +452,7 @@ Log_Toast_Whisper_Name_Fail#0,"""相手が周囲にいないため、ウィス�
 Log_Toast_Unknown_Whisper#0,"""ウィスパーチャットの相手を「…」ボタンから選択してください。"""
 Log_Toast_Disable_Whisper_SymbolArt#0,"""ウィスパーチャットでシンボルアート発言はできません。"""
 Log_Toast_Disable_TeamChat#0,"""No puedes enviar un mensaje al Team por que no eres miembro de ninguno. Verifica el chat."""
-Log_Toast_Disable_TeamChat_ChallengeShip#0,"""El Team chat no se encuentra disponible mientras estes en la Nave Compartida."""
+Log_Toast_Disable_TeamChat_ChallengeShip#0,"""El Team chat no se encuentra disponible mientras estes en la nave compartida."""
 Log_Toast_Disable_TeamChat_Poka#0,"""現在、チームチャットはご利用いただけません。"""
 Log_Toast_Nouse_Poka_Whisper#0,"""対戦中のためウィスパーチャットはご利用いただけません。"""
 Log_Welcome#0,"""Bienvenido a <lt>$(0)<rt>!"""

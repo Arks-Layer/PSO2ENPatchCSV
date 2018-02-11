@@ -11,7 +11,7 @@ SGShopGuide#0,"""<c f0df60>ACを消費し、スタージェム（SG）を購入�
 ListWindowTitle#0,"""商品リスト"""
 ListWindowACButton#0,"""Cargar Ac"""
 ListWindowHistory#0,"""購入履歴"""
-ListWindowBack#0,"""戻る"""
+ListWindowBack#0,"""Regresar"""
 NameOfItem#0,"""<yellow>$(0)<c>"""
 DescriptionOfItem#0,"""$(0)"""
 MySGWindowTitle#0,"""所持SG"""

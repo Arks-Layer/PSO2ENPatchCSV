@@ -1,4 +1,4 @@
-Title#0,"""Acerca de 『Entrega de objetos』"""
+Title#0,"""Acerca de: 『Entrega de objetos』"""
 text01#0,"""Esto explica sobre la Entrega de Objetos.<br><brEn Misiones Desafío, los objetos que has obtenido se pueden tirar al suelo. Los objetos tirados pueden ser recogidos por otros jugadores."""
 text02#0,"""Puedes tirar objetos seleccionando \""Soltar\"" en un objeto de tu inventario.<br><br>Cuando tiras un objeto, el objeto dejado desaparece de tu inventario y aparece en el suelo.<br><br>Puedes recoger tus propios objetos tirados, de modo que si dejas un objeto por error, puedes volver a recogerlo."""
 text03#0,"""Objetos tirados por jugadores lucen diferente a los objetos dejados por los enemigos.<br><br>Ademas, el numero total de objetos que puedes dejar en el suelo es de 160 para todos los jugadores. Cuando la cantidad de objetos tirados excede los 160, el exceso de objetos desaparece temporalmente."""
