@@ -1,7 +1,7 @@
 PB#0,"""フォトンブラスト"""
 AA#0,"""Acciones automaticas"""
 TA#0,"""トリガーアクション"""
-Nivel#0,"""Nv."""
+Level#0,"""Nv."""
 LevelFormat#0,"""Nv. $(0)"""
 Confirm#0,"""Confirmación"""
 NotifyAcquirePB#0,"""$(0) ha aprendido un Photon Blast"""

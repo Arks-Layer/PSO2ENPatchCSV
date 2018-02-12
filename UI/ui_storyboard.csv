@@ -49,7 +49,7 @@ Accept2#0,"""Esto va a cambiar las<br>materia que usted esta investigando,<bd>¿
 Accept3#0,"""Visualización de la guia para esta materia<br>en el Mostrador de Misiones?"""
 Accept4#0,"""Visualización de la guia para esta materia<br>personaje objetivo?"""
 Target#1,"""Objetivo: """
-Área#0,"""Área principal:"""
+Area#0,"""Área principal:"""
 Guide#0,"""(Se orienta este asunto como una Materia,<br>para Story board)"""
 AutoGuide#0,"""Materia recomendada [$(0) - $(1) $(2)] establecer para guiar."""
 AcceptPopup1#0,"""Historia de misiones"""
