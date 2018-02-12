@@ -1,6 +1,6 @@
 SharedServers#0,"""Nave compartida"""
-MoveSharedServers#0,"""Moverse a la Nave compartida."""
-NormalServers#0,"""Nave Normal"""
+MoveSharedServers#0,"""Moverse a la nave compartida."""
+NormalServers#0,"""Nave normal"""
 ReturnNormalServers#0,"""Volver a tu nave."""
 SelectPlace#0,"""Seleccione un destino"""
 SelectPlaceMessage#0,"""Un Telepipe ha sido activado. ¿A dónde te gustaría ir?"""

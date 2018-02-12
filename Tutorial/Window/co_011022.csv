@@ -1,5 +1,5 @@
 linewindow#0,"""<br>『武器パレット』について<br>"""
-text00#0,"""Acerca de 『Paleta de armas』"""
+text00#0,"""Acerca de: 『Paleta de armas』"""
 text01#0,"""武器パレットについて、説明します。"""
 text02#0,"""武器パレットは、武器と<br>フォトンアーツ／テクニックの設定を<br>組み合わせて登録し、簡単に装備を<br>切り替えられます。<br><br>パレット上へ：<%PaletteReverse><br>パレット下へ：<%PaletteForce>"""
 text03#0,"""決定：<%Decide>\u3000で装備を選ぶことで<br>武器パレット切り替えが完了です。"""
