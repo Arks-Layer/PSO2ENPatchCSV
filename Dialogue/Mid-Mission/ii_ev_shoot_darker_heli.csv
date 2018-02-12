@@ -6,7 +6,7 @@ TrialEvolutionBeginMsg_ShootDarkerHeli#0,"""ダーカーに侵食された戦闘
 TrialAbstract#0,"""制限時間内に<br>ダーカーに侵食された戦闘機を破壊せよ"""
 NpcComOnBegin#0,"""/face3 アークスの戦闘機がダーカーの<br>侵食を受けた、だと……！<br>ちっ、面倒なことになったな。"""
 NpcComOnBegin2#0,"""侵食が不完全な今のうちに<br>該当の機体を破壊しろ！"""
-NpcComOnHp50#0,"""Ten cuidado.<br>The darker corruption is progressing rapidly."""
+NpcComOnHp50#0,"""Ten cuidado.<br>La corrupción Darker esta progresando rapidamente."""
 NpcComOnHp10#0,"""侵食戦闘機の破壊まで<br>あと少しだ。"""
 NpcComOnLanding#0,""" Sin usar"""
 NpcComOnTimeNotice#0,"""……侵食レベルがかなり深刻だ。<br>破壊を急げ、奪われてしまうぞ！"""
