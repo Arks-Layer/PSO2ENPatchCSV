@@ -13,6 +13,6 @@ NpcComBossInfo#1,"""$(0)か。<br>そいつが元凶のようだな。<br>ただ
 NpcComOnSuccess#1,"""Las lecturas hostiles han desaparecido atraves del Ignix readings. bien, puedes regresar a tus regular duties."""
 NpcComOnBegin#2,"""ええっ？\u3000爆発！？<br>これはもしかして、イグニクス！"""
 NpcComOnBegin1#2,"""その辺に爆発を発生させる<br>ダーカーの兵器ですよー！<br>危険、危険です！\u3000急いで逃げてー！"""
-NpcComOnBegin2#2,"""There's a bad, bad hostile causing this somewhere around here! Porfavor find and defeat it!"""
-NpcComBossInfo#2,"""Oh, $(0)! That's the source! It's all because of that! Porfavor take it out completely as soon as possible!"""
+NpcComOnBegin2#2,"""There's a bad, bad hostile causing this somewhere around here! Por favor find and defeat it!"""
+NpcComBossInfo#2,"""Oh, $(0)! That's the source! It's all because of that! Por favor take it out completely as soon as possible!"""
 NpcComOnSuccess#2,"""敵性反応の消失にあわせて<br>イグニクスの沈静化を確認しましたー！<br>ふぅー、よかったです！"""

@@ -1,5 +1,5 @@
 IncidentName#0,"""Derrotar a $(0)"""
-TrialBeginMsg#0,"""Derrotar a $(0) en el area final!"""
+TrialBeginMsg#0,"""Derrotar a $(0) en el área final!"""
 TrialAbstract#0,"""Derrotar a $(0)!"""
 NpcComOnBegin#0,"""Directiva urgente.<br>Confirmada poderosas presencias enemigas.<br>Por favor derrotar inmediatamente."""
 NpcComOnSuccess#0,"""Las lecturas de los enemigos<br>han desaparecido, gracias por el<br>esfuerzo de todos."""

@@ -27,5 +27,5 @@ OnStart4#0,"""/mn16 /toge /ci2 2 お姉ちゃん連れてきてくれたら<br>�
 OnSuccess2#0,"""/mn12 /toge /ci3 1 もー、心配させないでよね！<br>お姉ちゃん、昔っから方向音痴で<br>無愛想でどーしよーもないんだから！"""
 OnSuccess5#0,"""/mn15 /toge /ci2 1 さーて、お姉ちゃんも<br>帰ってきたことだし<br>精一杯サービスしちゃうよー！"""
 OnFailure2#0,"""/mn12 /ci3 2 まったくもー、お姉ちゃんは<br>心配させないでよね！"""
-OnThirdBefore1#0,"""Porfavor take care of our big sister!"""
+OnThirdBefore1#0,"""Por favor take care of our big sister!"""
 OnThirdBefore2#0,"""お姉ちゃんはあっちに<br>いそうな気がする！<br>絶対！\u3000たぶん！\u3000おそらくっ！"""

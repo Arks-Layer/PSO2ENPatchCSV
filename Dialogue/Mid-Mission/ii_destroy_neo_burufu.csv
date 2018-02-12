@@ -1,5 +1,5 @@
 IncidentName#0,"""Destruye el Gel Wulff!"""
-TrialBeginMsg#0,"""Derrota o evadir los Gel Wulff.<br>Fallas si finaliza el tiempo limite despues de ser golpeado $(0) o mas veces sin destruirlos."""
+TrialBeginMsg#0,"""Derrota o evadir los Gel Wulff.<br>Fallas si finaliza el tiempo limite después de ser golpeado $(0) o mas veces sin destruirlos."""
 TrialAbstract#0,"""Derrotar a Gel Wulff<br>o evade durante el tiempo asignado."""
 TrialOutbreak#0,"""$(0) ha sido golpeado por un Gel Wulff!"""
 NpcComOnBegin#0,"""Alerta. Hemos confirmado la aparición de los Gel Wulffs."""

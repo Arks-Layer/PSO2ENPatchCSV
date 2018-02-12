@@ -8,7 +8,7 @@ OnQuestBegin_0#0,"""¡Las fuerzas enemigas se preparan para atacar!<br>¡Recoge 
 OnQuestBegin_1#0,"""Cuando acumulan suficiente Mana,<br>las armas ARKS se fortalecen<br>y puedes combocar mayor cantidad!"""
 OnDefencePhase1Start0#0,"""Fuerzas enemigas han sido detectadas!<br>¡Reune tanto Mana como sea posible<br>mientras protege las torres!"""
 OnDefencePhase1Start1#0,"""¡El ejército enemigo está preparando otro asalto!<br>A medida que se recoge Mana, nuestras torres se iran recuperando automáticamente."""
-OnDefencePhase1Start2#0,"""¡El enemigo ha comenzado su asalto!<br>Reune Mana mientras defiendes nuestras torres para que puedan comenzar su recuperación."""
+OnDefencePhase1Start2#0,"""¡El enemigo ha comenzado su asalto!<br>Reúne Mana mientras defiendes nuestras torres para que puedan comenzar su recuperación."""
 OnDefencePhase2Start0#0,"""Esto es terrible!<br>¡Las fuerzas enemiga han comenzado a avanzar hacia nuestras Buster Towers!<br>¡Por favor, pause lo que está haciendo y ayúde a defender!"""
 OnDefencePhase2Start1#0,"""¡El ejército enemigo ha preparado otro asalto!<br>Aunque rompimos la barrera, pero si nuestras torres son destruidas, entonces no podemos asegurar la victoria!<br>¡Cuidado!"""
 OnDefencePhase3Start0#0,"""¡Una fuerte señal ha sido detectada desde el Devil Castle!<br>Parece estar planeando un ataque a nuestras Buster towers!<br>¡Por favor detengalo!"""
