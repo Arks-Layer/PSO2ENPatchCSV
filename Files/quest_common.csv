@@ -908,7 +908,7 @@ LineMessage05#0,"""/start480 /rt_eff2 /rt_time60 <c ffd700>ゴールドエンブ
 LineMessage06#0,"""/start540 <c ffd700>ゴールドエンブレム<c>消滅！\u3000エネミーを撃破せよ！"""
 LineMessage07#0,"""/start600 制限時間まであと1分！"""
 LineMessage08#0,"""/start630 制限時間まであと30秒！"""
-Crystal#0,"""Competition Emblem"""
+Crystal#0,"""エンブレム争奪戦"""
 ArealockQuestStart#0,"""現在、強力な敵性存在の座標捜索中。<br>情報収集のため、該当領域の周辺探索を<br>お願いします。"""
 ArealockOpened#0,"""強力な敵性存在の座標を特定。<br>転送用テレパイプ、準備完了です。<br>敵性存在の討伐に向かってください。"""
 RidingTimelimitHalf#0,"""領域の展開時間、あと半分ほどです！<br>まだ余裕はあるので、時間いっぱいまで<br>エネミーを討伐しましょう！"""
