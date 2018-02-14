@@ -30,7 +30,7 @@ OnDefencePhaseEnemyDecrease1#0,"""¡Sólo quedan unos cuantos!<br>¡Sólo un poc
 OnWaveHapping#0,"""魔神城に不穏な動き有り！<br>妨害を仕掛けてきそうです！<br>各員は状況に応じ行動して下さい！"""
 OnRamCountIncrease#0,"""一定量のマナを回収しました！<br>より多くの破界鎚が召喚できます！<br>引き続きマナを回収しましょう！"""
 OnBaseHpDecrease0#0,"""¡La Buster tower $(0) ha sido dañada!<br>¡Por favor, protegela!"""
-OnBaseHpDecrease1#0,"""La Buster tower $(0) no se ve muy bien!<br>¡Por favor, defiendala!"""
+OnBaseHpDecrease1#0,"""La Buster tower $(0) no se ve muy bien!<br>¡Por favor, defiendela!"""
 OnBrokenBase0#0,"""破界塔の機能停止を確認！<br>残るは３つです！\u3000まだ余裕は<br>あります！\u3000焦らずに行きましょう！"""
 OnBrokenBase1#0,"""¡Otra Buster tower ha sido destruida!<br>¡No podemos predecir nuestro estado actual!<br>Tenga cuidado!"""
 OnBrokenBase2#0,"""¡Otra torre ha sido destruida!<br>¡Defiende nuestra última torre!"""
