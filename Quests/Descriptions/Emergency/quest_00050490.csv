@@ -3,7 +3,7 @@ Explanation#0,"""はーい、この依頼はアークス本部ではなく<br>�
 NpcComMsg1#0,"""ハロウィンパーティの準備に向けて<br>頑張ってる会場周辺に、敵さんが<br>たくさん現れちゃったみたいです！"""
 NpcComMsg2#0,"""みなさんで力を合わせて<br>撃退しちゃいましょう！"""
 NpcComMsg3#0,"""Oh, you'll be transported soon! Ten cuidado, won't you? These hostiles are wicked strong!"""
-SimpleExplanation#0,"""Derrota enemigos<br>y Colecciona puntos de misión!"""
+SimpleExplanation#0,"""Derrotar enemigos para<br>coleccionar puntos de misión"""
 a1#0,"""Completar cierta orden del cliente."""
 a2#0,"""Completar cierta orden del cliente."""
 a3#0,"""Poseer la licencia para Super Dificil."""
