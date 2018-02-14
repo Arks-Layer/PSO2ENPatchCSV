@@ -1,7 +1,7 @@
 IncidentName#0,"""Attack the impostor Arks?"""
 TrialBeginMsg#0,"""Derrota a todos los enemigos!"""
 TrialAbstract#0,"""Derrota a todos los enemigos!"""
-NpcComOnBegin#0,"""Sensing very strong enemy response!<br>Esta reacción es... porfavor<br>derrotalos a todos de alguna manera!"""
+NpcComOnBegin#0,"""Sensing very strong enemy response!<br>Esta reacción es... por favor<br>derrotalos a todos de alguna manera!"""
 NpcComOnSuccess#0,"""敵性反応消失に伴い<br>皆さんの座標も捕捉できました<br>状況クリア。帰還してください"""
 NpcComOnFailure#0,"""Fallo"""
 NpcComOnBegin#1,"""極めて強力な敵性反応！<br>……やっかいなのが来るぞ<br>帰還のために、すべて排除しろ！"""

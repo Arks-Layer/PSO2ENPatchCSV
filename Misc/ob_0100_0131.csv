@@ -23,6 +23,6 @@ result2#2,"""{red}〇友情\u3000［凶運Ｎｏ．２‐Ｄ］<br>{def}良い�
 result3#2,"""{red}〇冒険\u3000［凶運Ｎｏ．３‐Ｄ］<br>{def}最後まで気を抜かずに<br>慎重な行動を心がけましょう！"""
 result4#2,"""{red}〇娯楽\u3000［凶運Ｎｏ．４‐Ｄ］<br>{def}大損の兆しがあります。<br>欲は捨てた方が良いでしょう！"""
 result5#2,"""{red}〇研究\u3000［凶運Ｎｏ．５‐Ｄ］<br>{def}努力が実りにくいですが<br>あせらずに辛抱づよく続けましょう！"""
-FullSize_Help#0,"""<c f0df60>運をためす事ができる不思議な祠です。<c>"""
-Child_Menu1#0,"""運をためす"""
+FullSize_Help#0,"""<c f0df60>Un misterioso altar, en el que un deseo puede brindar suerte<c>"""
+Child_Menu1#0,"""Probar suerte"""
 Child_Menu2#0,"""Regresar"""

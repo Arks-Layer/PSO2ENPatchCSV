@@ -7,6 +7,6 @@ MikiriBreakaway#0,"""/moya オ手ツキダヨ。<br>『今ダ押セ！』ガ出�
 MikiriRecord#0,"""現在の最高タイム：$(2).$(0)秒<br>現在の記録保持者：<br>$(1)"""
 MikiriRecordNone#0,"""ハイスコアハ現在記録サレテイマセン。"""
 MikiriEasy#0,"""Modo normal"""
-MikiriNormal#0,"""Modo dificil"""
-MikiriHard#0,"""Modo muy dificil"""
+MikiriNormal#0,"""Modo difícil"""
+MikiriHard#0,"""Modo muy difícil"""
 MikiriHiScore#0,"""Modo de alto puntaje"""
