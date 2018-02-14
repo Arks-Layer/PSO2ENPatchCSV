@@ -33,7 +33,7 @@ OnDefencePhaseEnemyDecrease1#0,"""¡Sólo quedan unos cuantos!<br>¡Sólo un poc
 OnWaveHapping#0,"""¡Hay lecturas inquietantes del Devil Castle!<br>¡Parece que va a atacar!<br>¡Por favor, observen ustedes mismos!"""
 OnRamCountIncrease#0,"""Hemos recogido buena cantidad de Mana.<br>Ahora es capaz de convocar más Busters!<br>Por favor continúe recolectando más Mana!"""
 OnBaseHpDecrease0#0,"""¡La Buster tower $(0) ha sido dañada!<br>¡Por favor, protegela!"""
-OnBaseHpDecrease1#0,"""La Buster tower $(0) no se ve muy bien!<br>¡Por favor, defiendala!"""
+OnBaseHpDecrease1#0,"""La Buster tower $(0) no se ve muy bien!<br>¡Por favor, defiendela!"""
 OnBrokenBase0#0,"""¡Una Buster Tower ha sido destruida!<br>¡Sólo tenemos 3 restantes!<br>Todavía tenemos margen de maniobra!<br>¡Sigamos adelante!"""
 OnBrokenBase1#0,"""¡Otra Buster tower ha sido destruida!<br>¡No podemos predecir nuestro estado actual!<br>Tenga cuidado!"""
 OnBrokenBase2#0,"""¡Otra torre ha sido destruida!<br>¡Defiende nuestra última torre!"""
