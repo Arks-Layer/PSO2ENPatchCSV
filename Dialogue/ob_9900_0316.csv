@@ -59,7 +59,7 @@ EnemyLeft#2,"""Señales enemigas desde la izquierda.<br>Trata con ellos, por fav
 Broken#2,"""Ella no puede soportar más. Solicitud de respaldo urgente."""
 Destroy#2,"""Esto es... ¡Evacúe, llamaré para hacer una copia de seguridad!"""
 SuccessDefence#2,"""Es improvisado, pero puedo volar. Gracias por salvarme."""
-EvFallMessage#2,"""¡El motor se detuvo, está cayendo...! ¡Maldita sea, otro aterrizaje!"""
+EvFallMessage#2,"""¡El motor se detuvo, está cayendo!... ¡Maldita sea, otro aterrizaje!"""
 EvRequestDefense#2,"""Mis reparaciones no fueron suficientes. Cúbreme una vez más!"""
 EvBroken#2,"""Cualquier daño adicional sería malo..."""
 EvDestroy#2,"""Eso es todo... está nave no tiene reparación."""
