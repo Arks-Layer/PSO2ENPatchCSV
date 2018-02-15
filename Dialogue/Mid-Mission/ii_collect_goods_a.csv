@@ -20,5 +20,5 @@ PickupEnough#0,"""必要十分な量の対象物が<br>回収されたようで�
 Destroy1st#0,"""Target has <br>been destroyed... <br>Por favor, ten cuidado."""
 DestroyWarning#0,"""対象物の破損数が多いです。<br>このままでは、必要十分な量を<br>満たせなくなります……！"""
 DestroyEmergency#0,"""対象物の破壊数が限界です……<br>これ以上の損失は許されません。<br>急いで下さい！"""
-TimeupWarning#0,"""Nuestro tiempo se esta acabando!"""
+TimeupWarning#0,"""Nuestro tiempo se está acábando!"""
 TimeupEmergency#0,"""作戦許諾時間、あとわずかです！<br>急いで下さい！"""

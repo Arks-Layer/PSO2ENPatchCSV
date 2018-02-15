@@ -1,7 +1,7 @@
 IncidentName#0,"""Derrota a todos los enemigos!"""
 TrialBeginMsg#0,"""Utilice la torreta para derrotar a todos los enemigos!"""
 TrialAbstract#0,"""Utilice la torreta para derrotar a todos los enemigos!"""
-NpcComOnPreBegin#0,"""Hemos confirmado que un nuevo enemigo se esta acercando. Todo el mundo, Preparense para el ataque."""
+NpcComOnPreBegin#0,"""Hemos confirmado que un nuevo enemigo se está acercando. Todo el mundo, Preparense para el ataque."""
 NpcComOnBegin#0,"""Transferencia de torretas completada, ya puedes usarlas."""
 NpcComOnSuccess#0,"""Confirmo que los hostiles han sido exterminados, buen trabajo."""
 NpcComOnFailure#0,"""/face2 /mn5 ..."""

@@ -17,5 +17,5 @@ CollectMostly#0,"""Se ha confirmado la recuperación de varios minerales. Solo q
 Pickup1st#0,"""Aha, un mineral raro! Estas cosas<br>son dificiles de encontrar"""
 PickupHalf#0,"""Bueno, usted tiene la mitad.<br>No se olvide de llevarlos a la vaina."""
 PickupEnough#0,"""Usted ha completado la cuota<br>ahora llevarlos a la estación ASAP."""
-TimeupWarning#0,"""Nuestro tiempo se esta agotando.<br>Todo el mundo, acelere la busqueda."""
+TimeupWarning#0,"""Nuestro tiempo se está agotando.<br>Todo el mundo, acelere la busqueda."""
 TimeupEmergency#0,"""Ya no queda mucho tiempo.<br>Todo el mundo, acelere la recolección."""
