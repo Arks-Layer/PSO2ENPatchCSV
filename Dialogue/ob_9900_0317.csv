@@ -38,7 +38,7 @@ Broken#1,"""Estamos jodidos si se pone mucho peor que esto... ¡Depende de ti qu
 Destroy#1,"""Arrghh... Ahora tengo que presentar una explicación para esto... Lo siento, tengo que abandonarte."""
 SuccessDefence#1,"""Bien, esquivé una bala allí... Err, quiero decir, ¡recuperé el control! ¡Gracias!"""
 EvFallMessage#1,"""¿Puedo mantenerla en marcha...? ¡No! ¡Denuevo! ¡Aterrizaje de emergencia!"""
-EvRequestDefense#1,"""Creo que sé dónde arruiné la última reparación ... ¡Manténganlos alejados de mí mientras la arreglo nuevamente!"""
+EvRequestDefense#1,"""Creo que sé dónde arruiné la última reparación... ¡Manténganlos alejados de mí mientras la arreglo nuevamente!"""
 EvBroken#1,"""¿Que demonios? ¡Ahora los bastardos están atacando en grupo!"""
 EvDestroy#1,"""¡Ya pasó el punto de no retorno! Lo siento chicos, tengo que volar!"""
 EvSuccessDefence#1,"""¡Uf, justo a tiempo! ¡Gracias por su ayuda chicos!"""
