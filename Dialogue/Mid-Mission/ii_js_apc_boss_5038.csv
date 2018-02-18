@@ -27,7 +27,7 @@ IncidentJsApcSuccess#5,"""/ci2 1 Muy bien, se acábo. Recogi excelentes datos, a
 IncidentJsApcFailure#5,"""Me siento mal por esto, pero debo retirarme! No tiene sentido continuar si es imposible, ¿Verdad?"""
 IncidentJsApcBeginEvo#4,"""/ci4 5 Hmm ... ¿Una nueva reaccion? Bueno, ¿Por que no se procedemos con precaucion?"""
 IncidentJsApcSuccessEvo#5,"""/ci2 1 Muy bien, se acábo. Recogi excelentes datos, así que gracias."""
-IncidentJsApcBegin#6,"""/ci2 1 A-aaah! You came at the perfect time! Help, Por favor ayudame!"""
+IncidentJsApcBegin#6,"""/ci2 1 A-aaah! ¡Has llegado en el momento justo! Help, Por favor ayudame!"""
 IncidentJsApcSuccess#6,"""/ci2 1 De-de alguna manera, estoy bien... Todo ha terminado gracias a usted. Estoy agradecido."""
 IncidentJsApcFailure#6,"""Ugh ... Estaba buscando a alguien. ¿Porque tuvo que ser así ... me voy a retirar..."""
 IncidentJsApcBeginEvo#5,"""/ci4 1 Hay... más de ellos? Uf, quiero salir de aquí... Huyamos..."""

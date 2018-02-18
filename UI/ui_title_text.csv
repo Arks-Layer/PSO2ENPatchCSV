@@ -338,7 +338,7 @@ Error_CraftOrder#0,"""Debe retirar su publicidad de crafting Opiniones y complet
 ConfirmTitle#0,"""Confirmando transefencia inmediata de nave"""
 ConfirmMessage#0,"""購入済みの「即時シップ移動権」を消費して<br>別のシップに移動します。<br>¿Seguro que quieres?<br><br>※シップの再移動には、$(0)時間必要です。"""
 ComfirmBuyMessage#0,"""<pict Arcscash> <c ff4f3f>Contenidos de Consumo AC<c><br>キャラクターを別のシップに移動するには、<br>「即時シップ移動権」が必要です。<br><br>・移動先には、このキャラクターの所持品などを<br>\u3000持って行けます。シップ自体に保存されている<br>\u3000倉庫内アイテム、フレンドリスト、メールなどは<br>\u3000移動前のシップに残されたままになります。<br>・「定期メンテナンス時シップ移動申請」を行っ<br>  ている場合、即時シップ移動の実行とともにキ<br>  ャンセルされます。<br>\u3000<yellow>詳しくは、プレイヤーズサイトをご確認ください。<c><br><br>即時シップ移動の再利用には、$(2)時間必要です。<br><br>$(0)ACで「即時シップ移動権」を購入しますか？<br><br><yellow>所持AC：$(1)<c>"""
-Wait#0,"""Transportando a la nave ... <br> Por favor, sea paciente."""
+Wait#0,"""Transportando a la nave ...<br> Por favor, sea paciente."""
 FinishTitle#0,"""Transferencia de nave completada."""
 FinishMessage#0,"""La transferencia de nave se ha completado. Por ahora seras desconectado."""
 RegularConfirmTitle#0,"""Durante la confirmación de mantenimiento de transferencia de la nave"""

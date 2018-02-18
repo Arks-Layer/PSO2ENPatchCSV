@@ -1,5 +1,5 @@
 IncidentName#0,"""Derrotar a $(0)"""
-TrialBeginMsg#0,"""¡Emergencia emergencia! <br>Derrotar a $(0)!"""
+TrialBeginMsg#0,"""¡Emergencia emergencia!<br>Derrotar a $(0)!"""
 TrialAbstract#0,"""Derrotar a $(0) that burst into the área!"""
 NpcComOnPreBegin#0,"""¡Detecto una poderosa presencia enemiga! ¡Creemos que está relacionado con tus enemigos actuales!"""
 NpcComOnBegin#0,"""Emergencia emergencia. Confirmó la presencia de un poderoso enemigo. Derrotalo inmediatamente."""

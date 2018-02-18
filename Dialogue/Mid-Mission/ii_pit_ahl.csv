@@ -7,6 +7,6 @@ NpcComOnFailure#0,"""/face4 罠の目的は時間稼ぎ……ですね。<br>目
 NpcComOnBegin#1,"""隔離用の罠か？\u3000小癪な真似を。<br>各員、その隔離島の外敵を掃討しろ。<br>後に脱出用の機器を転送する。"""
 NpcComOnSuccess#1,"""よし、敵掃討を確認。<br>脱出し、先へ進め。"""
 NpcComOnFailure#1,"""ちっ、目的は足止めだったか。<br>カタパルトを送る、先へ急げ。"""
-NpcComOnBegin#2,"""Ahhh, a trap, it's a trap! Please, <br>Derrotar a enemies first, then <br>use a device to escape!"""
+NpcComOnBegin#2,"""Ahhh, a trap, it's a trap! Please,<br>Derrotar a enemies first, then<br>use a device to escape!"""
 NpcComOnSuccess#2,"""/face2 カタパルト転送しますー！<br>先に進んでください！"""
 NpcComOnFailure#2,"""/face4 ううう……この罠の狙いは<br>あくまで時間稼ぎだったみたいです……<br>先に急いでください！"""

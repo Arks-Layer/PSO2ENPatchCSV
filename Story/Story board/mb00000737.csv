@@ -1,4 +1,4 @@
 Title#0,"""Encuentro a bordo de la nave ARKS"""
 TargetName_Errand#0,"""[A-3]<br>Ver un evento<br>Nombre del evento: Reunión con Xiera"""
 TargetName_Errand2#0,"""[A-3]<br>Ver un evento<br>Nombre del evento: Reunión con Xiera"""
-Explanation#0,"""<c 6fa8f8>[001-C] \""Reunión con Xiera\""<c><br>Cuando <%me> se despertó, fue recibid@ <br>por una mujer llamada - Xiera, con una <br>sonrisa brillante, alegre y familiar <br>- los puso al día con los acontecimientos.<br><br><c f0df60>※Presione <%Decide><c f0df60> para ver el evento.<c>"""
+Explanation#0,"""<c 6fa8f8>[001-C] \""Reunión con Xiera\""<c><br>Cuando <%me> se despertó, fue recibid@<br>por una mujer llamada - Xiera, con una<br>sonrisa brillante, alegre y familiar<br>- los puso al día con los acontecimientos.<br><br><c f0df60>※Presione <%Decide><c f0df60> para ver el evento.<c>"""

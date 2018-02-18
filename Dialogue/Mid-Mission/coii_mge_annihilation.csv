@@ -16,4 +16,4 @@ NpcComOnFailure#2,"""limite de tiempo excedido, hemos fallado.<br>Continua la ba
 NpcComOnBegin#3,"""Hay presencias enemigas alrededor de Magatsu.<br>Parecen ser las criaturas llamadas<br>\"" Kuronites de Imitación. \"""""
 NpcComOnBegin2#3,"""Tienen la intención de destruir la gran puerta.<br>Todo el mundo, <red>exterminar <black>las imitaciones enemigas<br><red>en el plazo limite<black>."""
 NpcComOnSuccess#3,"""La exterminación de \""Imitación de<br>Kuronite\"" ha sido confirmada.<br>Continua deteniendo la invación de Magatsu."""
-NpcComOnFailure#3,"""/face4 Objetivo fallido.<br>por favor vuelve a enfocar a Magatsu<br>después de exterminar a los enemigos restantes."""
+NpcComOnFailure#3,"""/face4 Objetivo fallido.<br>Por favor vuelve a enfocar a Magatsu<br>después de exterminar a los enemigos restantes."""

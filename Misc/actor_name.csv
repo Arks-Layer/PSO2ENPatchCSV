@@ -1271,7 +1271,7 @@ SwordPA07#1,"""Arte photonica: Espada.<br>Doble su cuerpo como si fuera un arco,
 SwordPA08#1,"""\""Arte photonica: Espada.<br>Atraviece un objetivo con su espada,dejándolo<br>arrojar en cualquier dirección.\"" """
 SwordPA09#1,"""Arte photonica: Espada.<br>Acercarse a un enemigo lejano en una carga y acábarlo con un corte.<br>Puede cargarse hasta dos niveles."""
 SwordPA10#1,"""Arte photonica: Espada.<br>Consume photones para incrementar la fuerza fisica.<br>Mas photones extienden la duración."""
-SwordPA11#1,"""Arte photonica: Espada.<br>realiza golpes continuo para cortar al enemigo.<br>presione <pict Key_SHIFT>  para protegerte mientras atacas."""
+SwordPA11#1,"""Arte photonica: Espada.<br>realiza golpes continuo para cortar al enemigo.<br>Presione <pict Key_SHIFT>  para protegerte mientras atacas."""
 WlancePA01#1,"""Arte photonica: Wired Lance.<br>Tomar un objetivo, lo levanta en el aire,<br>luego lo lanza contra el suelo."""
 WlancePA02#1,"""Arte photonica: Wired Lance.<br>Agarra a un enemigo para luego<br>embestirlo con una poderosa patada."""
 WlancePA03#1,"""Arte photonica: Wired Lance.<br>Agarra a un objetivo y lo lanza hacia el cielo,<br>luego utiliza la gravedad para finalizar con un golpe contra el suelo."""

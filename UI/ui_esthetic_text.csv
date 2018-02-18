@@ -10,7 +10,7 @@ ColorCheckMessage#0,"""Para cambiar el Color del traje<br>necesitas un <yellow>C
 ConsumeCheckTitle#0,"""Confirmar uso del item"""
 ConsumeCheckMessage#0,"""<pict Arcscash><c 5fdf00>アイテムの使用<c><br>以下のアイテムを使用することで、<br>変更を適用して退店します。¿Seguro que quieres?<br><br>※プレミアム状態の場合は、再編集期間として60分間<br>エステ利用パスを消費せずに編集が可能となります。"""
 ConsumeCheckMessage2#0,"""<c 5fdf00>アイテムの使用<c><br>以下のアイテムを使用することで、<br>変更を適用して退店します。¿Seguro que quieres?<br><br><yellow>※エステ無料パスでは、プレミアムセット期間中の<br>再編集機能が使用できませんので、ご注意ください。<c>"""
-ItemCheckMessage#0,"""Selecciona el objeto que usara para <br>realizar está acción.<br><br>¿Seguro que quieres continuar?"""
+ItemCheckMessage#0,"""Selecciona el objeto que usara para<br>realizar está acción.<br><br>¿Seguro que quieres continuar?"""
 BuyCheckTitle#0,"""Confirmación de compra"""
 BuyCheckMessage#0,"""<pict Arcscash> <c ff4f3f>Contenidos de Consumo AC<c><br>変更を適用して退店するには以下のパスが必要です。<br>ACを消費して購入し、退店しますか？<br>(所持AC：$(0))<br>※プレミアム状態の場合は再編集期間として60分間<br>エステ利用パスを消費せずに編集が可能となります。"""
 BuyCheckItem#0,"""$(0)($(1)AC)"""
