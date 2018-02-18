@@ -508,7 +508,7 @@ AttentionJoinParty#0,"""このパーティーに参加します。<br><br>受注
 AttentionJoinParty_ex#0,"""このパーティーに参加します。<br><br>受注中のクエストがある場合は破棄されます。<br><br><red>クエストを開始するために消費した<br>メセタやアイテムは返却されませんので、<br>ご注意ください。<c><br><br>パーティーに参加しますか？"""
 AttentionJoinPartyPass#0,"""このパーティーに参加します。<br><br>受注中のクエストがある場合は破棄されます。<br>¿Seguro que quieres?"""
 AttentionJoinPartyPass_ex#0,"""このパーティーに参加します。<br><br>受注中のクエストがある場合は破棄されます。<br><br><red>クエストを開始するために消費した<br>メセタやアイテムは返却されませんので、<br>ご注意ください。<c><br><br>パーティーに参加しますか？"""
-AttentionMoveBlock#0,"""Este Grupo está en $(0).<br>Cambiar bloques?"""
+AttentionMoveBlock#0,"""Este grupo está en $(0).<br>¿Quieres cambiar de bloque?"""
 AttentionMoveBlock_ex#0,"""このパーティーは「$(0)」にいるため、<br>ブロックを移動します。<br><br><red>クエストを開始するために消費した<br>メセタやアイテムは返却されませんので、<br>ご注意ください。<c><br><br>ブロックを移動しますか？"""
 HintNon#3,"""Error desconocido"""
 HintRoomNo#0,"""Numero de área"""
