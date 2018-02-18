@@ -10,7 +10,7 @@ NpcComOnBegin#1,"""イグニクスと呼称されている<br>ダーカーの空
 NpcComOnBegin1#1,"""イグニクスは時間とともに<br>その効果範囲を広げる性質を持つ。"""
 NpcComOnBegin2#1,"""どこかに元凶となる存在がいるはずだ。<br>早急に見つけだし、撃破しろ。"""
 NpcComBossInfo#1,"""$(0)か。<br>そいつが元凶のようだな。<br>ただちに撃破しろ。"""
-NpcComOnSuccess#1,"""Las lecturas hostiles han desaparecido atraves del Ignix readings. bien, puedes regresar a tus regular duties."""
+NpcComOnSuccess#1,"""Las lecturas hostiles han desaparecido atraves del Ignix readings. Bien, puedes regresar a tus regular duties."""
 NpcComOnBegin#2,"""ええっ？\u3000爆発！？<br>これはもしかして、イグニクス！"""
 NpcComOnBegin1#2,"""その辺に爆発を発生させる<br>ダーカーの兵器ですよー！<br>危険、危険です！\u3000急いで逃げてー！"""
 NpcComOnBegin2#2,"""There's a bad, bad hostile causing this somewhere around here! Por favor find and defeat it!"""
