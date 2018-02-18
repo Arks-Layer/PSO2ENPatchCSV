@@ -330,7 +330,7 @@ RoomMoveInMyRoom_Message#0,"""To place the order, you must move to<br>$(0)'s roo
 RoomMove_Result_Title#0,"""Mi habitación"""
 RoomMove_Result_OK#0,"""マイルームの移動に成功しました。"""
 RoomMove_Result_DB#0,"""データベースエラーにより、<br>マイルームの移動に失敗しました。"""
-RoomMove_Result_SystemError#0,"""システムエラーにより、<br>マイルームの移動に失敗しました。"""
+RoomMove_Result_SystemError#0,"""Sistemaエラーにより、<br>マイルームの移動に失敗しました。"""
 RoomMove_Result_Error#0,"""マイルームの移動に失敗しました。"""
 ResultInfo#0,"""Logro Information"""
 CraftResult#0,"""クラフト実績"""
