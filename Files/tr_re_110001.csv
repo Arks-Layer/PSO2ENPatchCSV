@@ -1,0 +1,5 @@
+train_title#0,"""課題１：<yellow>攻撃を当ててゲージがたまったら、<br>サブパレットからダークブラストを使用"""
+tut_title#0,"""ダークブラストの使用について"""
+text100#0,"""・<%NormalAttack>でエネミーを攻撃してゲージをためる<br>・<%SubPalette1>でダークブラストを発動"""
+text101#0,"""・<%NormalAttack>でエネミーを攻撃してゲージをためる<br>・<%SubPaletteLeft><%SubPaletteRight>でサブパレット選択変更<br>・<%SubPalette>でダークブラストを発動"""
+text100_v#0,"""・サブパレットから<br>\u3000ダークブラストを選択"""
