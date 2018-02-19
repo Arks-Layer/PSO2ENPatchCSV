@@ -56,7 +56,7 @@ IncidentJsApcSuccessEvo#10,"""/ci1 5 ...Estaba en peligro.<br> ahora tengo que a
 IncidentJsApcBegin#11,"""/ci2 1 Oh, gracias por venir! ¡Hay una gran cantidad de enemigos! ¿Podrías ayudarme?"""
 IncidentJsApcSuccess#11,"""/ci2 1 Bueno, parece una victoria, Parece que estamos a salvo, gracias a ustedes!"""
 IncidentJsApcFailure#11,"""Uf, así es como es... Perdón, retrocederé."""
-IncidentJsApcBeginEvo#11,"""/ci3 1 está atmosfera... Maybe a newcomer appeared... Por favor presta atención y preparate."""
+IncidentJsApcBeginEvo#11,"""/ci3 1 Está atmosfera... Tal vez aparezca un recién llegado... Por favor presta atención y preparate."""
 IncidentJsApcSuccessEvo#11,"""/ci2 1 Bueno, parece una victoria, Parece que estamos a salvo, gracias a ustedes!"""
 IncidentJsApcBegin#12,"""/toge /ci1 1 We can do this! We're Arks! I might be old, but I can't be stopped!"""
 IncidentJsApcSuccess#12,"""/toge /ci2 1 Bien bien. Tuvimos éxito y vivo para luchar otro día."""

@@ -159,7 +159,7 @@ DestroyAPC3#1,"""Hay una fuente de calor no identificada presente... ¿Hay algui
 SmallmanMsg1#1,"""最近、リリーパ族から<br>アークスに接触があったという報告が<br>増えてるらしいぞ。"""
 SmallmanMsg2#1,"""Hablando de eso, me pregunto como se comunican los Lillipans..."""
 SmallmanMsg3#1,"""/face6 リリーパ族、か。<br>どんな経緯でこの星に<br>住み始めたのだろう。"""
-FortAttack1#1,"""Detecto un portal cercano... las reacciones de los darks está aumentando!"""
+FortAttack1#1,"""Detecto un portal cercano... las reacciones de los Darkers está aumentando!"""
 FortAttack2#1,"""次エリアのゲートが近い。<br>ダーカーの影響を受けた敵の<br>反応もあるようだ。"""
 FortAttack3#1,"""付近に龍族の反応を多数確認。<br>ゲートの近辺のようだが、ダーカーの<br>影響を受けているようだ、面倒だな。"""
 ShellFlower1#1,"""海岸エリアに多数存在する謎の<br>植物型物体を、砲仙花という。"""
