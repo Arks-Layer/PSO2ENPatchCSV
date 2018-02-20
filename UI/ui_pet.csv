@@ -228,4 +228,4 @@ ErrorInheritanceCantGetCost#0,"""必要なメセタを取得できませんで�
 ErrorInheritancePetKindInvalid#0,"""ペット進化で指定したペットと異なるエッグの種類です。"""
 ErrorInheritanceRarityLack#0,"""ペット進化で指定したエッグのレアリティが不足しています。"""
 ErrorInheritancePotentialInvalid#0,"""ペット進化で指定したエッグのペット能力が間違っています。"""
-ErrorEtc#0,"""A ocurrido un problema inesperado. <br><br>Otros errores ($(0))"""
+ErrorEtc#0,"""A ocurrido un problema inesperado.<br><br>Otros errores ($(0))"""

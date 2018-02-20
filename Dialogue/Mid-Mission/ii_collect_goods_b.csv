@@ -10,7 +10,7 @@ NpcComOnSuccess#0,"""/face2 La recolección de muestras ¡Ha<br>sido confirmada!
 NpcComOnFailure#0,"""/face4 Hmm, es una pena...<br>Se que parece peligroso,<br>pero, quiero reconlectarlos..."""
 GoodsPosition#0,"""Hay lecturas de muestras en las coordenadas $(0)!"""
 RepopGoods#0,"""/face2 Descubri la ubicacion general<br>de algunas muestras, ¡Todos!,<br>por favor procedan a recolectarlas."""
-OnAccessPodByEmptyHand#0,"""Si traes muestras a el deposito,<br>podremos llevarlas desde alli.<br>por favor busca las muestras."""
+OnAccessPodByEmptyHand#0,"""Si traes muestras a el deposito,<br>podremos llevarlas desde alli.<br>Por favor busca las muestras."""
 Collect1st#0,"""/face2 Se confirmo que la muestra llego<br>en buen estado, ¡Tienes un talento natural para esto!"""
 CollectHalf#0,"""/face2 Creo que hemos recogido alrededor de la mitad..."""
 CollectMostly#0,"""/face2 ¡Solo un poco mas! Por favor, busca<br>los demas, no creo<br>que esten demasiado lejos!"""
