@@ -11,7 +11,7 @@ NpcComOnSuccess#0,"""Las lecturas de enemigos han desaparecido,<br>Gracias por e
 NpcComOnFailure#0,"""/face4 Lecturas de grupo que participan<br>han desaparecido. teletransporta<br>inmediata al Campship."""
 HP_Under_50#0,"""El $(0) se está cansando!"""
 HP_Under_10#0,"""¡A $(0) le queda muy poca fuerza!"""
-NpcComLastEnemy#0,"""Queda uno!"""
+NpcComLastEnemy#0,"""¡Queda uno!"""
 GateBreak1#1,"""Primera Puerta"""
 GateBreak2#1,"""Segunda Puerta"""
 FinalGateArrival#0,"""Puerta Final"""
