@@ -8,7 +8,7 @@ DisableMessage_CHARA_RENAME#0,"""現在、キャラクターの名前変更は�
 DisableMessage_ESTHETIC#0,"""エステの有償部分の変更は、チケットが必要となっています。<br>事前に購入をお願いします。<br>詳しくは運営会社のＨＰをご確認ください。"""
 SGShopTitle#0,"""Comprar Star Gems"""
 SGShopGuide#0,"""<c f0df60>ACを消費し、スタージェム（SG）を購入します。購入する商品を選択してください。"""
-ListWindowTitle#0,"""商品リスト"""
+ListWindowTitle#0,"""Lista de productos"""
 ListWindowACButton#0,"""Cargar Ac"""
 ListWindowHistory#0,"""Historial de compras"""
 ListWindowBack#0,"""Regresar"""

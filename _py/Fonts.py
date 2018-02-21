@@ -1110,6 +1110,8 @@ def setupfont():
 	cmap.add(0xbf)      	# ¿
 	cmap.add(0xd7)      	# ×
 	cmap.add(0xf7)      	# ÷
+	# Letterlike Symbols
+	cmap.add(0x2122)    	# ™
 	# Greek and Coptic
 	cmap.add(0x3c2)     	# ς
 	# CJK Symbols and Punctuation
