@@ -263,3 +263,7 @@ IncidentJsApcBegin#54,"""/mn38 /ci2 2 ヒューイ！\u3000先代！\u3000どこ
 IncidentJsApcSuccess#54,"""/mn37 /ci2 2 この格好が気になるのか？<br>これは聖夜の守護獣、トナカイさんだ！<br>皆の聖夜は私が護る！\u3000ではまたなっ！"""
 IncidentJsApcBeginEvo#48,"""/mn37 /ci2 2 ふふん、強い気配か……<br>だが、トナカイさんは絶対に負けない！<br>一気に倒してやろう！"""
 IncidentJsApcSuccessEvo#54,"""/mn37 /ci2 2 この格好が気になるのか？<br>これは聖夜の守護獣、トナカイさんだ！<br>皆の聖夜は私が護る！\u3000ではまたなっ！"""
+IncidentJsApcBegin#55,"""/ci1 1 ちっ、助太刀に来たつもりが<br>囲まれるとか、格好つかねえが……<br>悪い、手を貸してもらえるか？"""
+IncidentJsApcSuccess#55,"""/ci1 1 ありがとな、助かったぜ！<br>あ、ヒツギとイベントに行くつもりなら<br>ひと声掛けろよ！\u3000じゃあな！"""
+IncidentJsApcFailure#51,"""/ci1 1 嘘だろ、しくじっちまった……<br>悪い、退かせてもらうぞ。"""
+IncidentJsApcSuccessEvo#55,"""/ci1 1 ありがとな、助かったぜ！<br>あ、ヒツギとイベントに行くつもりなら<br>ひと声掛けろよ！\u3000じゃあな！"""
