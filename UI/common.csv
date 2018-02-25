@@ -1071,7 +1071,7 @@ BlockForm_Error_Unknown#0,"""No puedes ingresar al bloque seleccionado<br>debido
 BlockForm_Error_Default#0,"""No puedes entrar a este bloque<br>debido a un error desconocido.<br><br>[No.1002]"""
 BlockForm_Error_Premium#0,"""Intentaste ingresar a un bloque Premium.<br>Pero no posees un ticket premium,<br>o tu estado Premium expiro,<br>por ende, no puedes moverte a este bloque.<br><br>[No.1003]"""
 BlockForm_Error_Platform#0,"""No puedes ingresar a este bloque<br>debido a que estas en una plataforma incorrecta.<br><br>[No.1004]"""
-AreaForm_BridgeArea_Exp#0,"""Transferir al puente?"""
+AreaForm_BridgeArea_Exp#0,"""¿Transferir al puente?"""
 AreaForm_CafeArea_Exp#0,"""Deseas ir al cafe de Franka?"""
 Bond_message#0,"""$(0)<br><br>$(1)"""
 InPublicShipToast#0,"""一時的に共通シップ専用の状態に切り替わりました。"""
