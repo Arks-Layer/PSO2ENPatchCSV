@@ -7,7 +7,7 @@ NpcComOnBeginAtRareCase#0,"""Alerta. Hemos confirmado la aparición de los Gel W
 NpcComOnBeginEmplacement#0,"""Transferencia del cañone de foton completado. Usted debe ser capaz de destruir los Gel Wulffs con el, pero si eso no es posible, concentrese en evitarlo."""
 NpcComOnSuccess#0,"""Todos los Gel Wulffs han desaparecido. Bien hecho."""
 NpcComOnSuccessDestroy#0,"""Usted ha tenido exito en la destrucción de los Gel Wulffs."""
-NpcComOnFailure#0,"""/face4 Los daños causados por los<br>Gel Wulffs ha alcanzado niveles criticos!<br>Esto es mas de lo que podemos sostener"""
+NpcComOnFailure#0,"""/face4 Los daños causados por los<br>Gel Wulffs ha alcanzado niveles criticos!<br>Esto es más de lo que podemos sostener"""
 NpcComOnTarget#0,"""$(0)! Cuidado! Estas en la mira!"""
 NpcComOnTime1#0,"""Los Gel Wulffs no van a durar mucho tiempo! Aguanta hasta entonces!"""
 NpcComOnTime2#0,"""Asi se hace ! Los gel Wulffs se quedaran sin energia pronto! Evitarlos un poco mas!"""

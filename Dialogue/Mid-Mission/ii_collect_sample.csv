@@ -10,7 +10,7 @@ NpcComOnAccess#0,"""Sabes como usar la maquina minera?<br>presiona <%Access> cua
 NpcComOnHit#0,"""Eso está muy bien.<br>Por el sector que está cavando."""
 NpcComOnMiss#0,"""Prueba algunas de las otras<br>maquinas, no se quede solo en una."""
 NpcComOnPreSuccess#0,"""Parece que completastes la cuota.<br>Sientete libre de mirar a su<br>alrededor, sin embargo, todavia hay<br>algunos lugares disponibles para cavar."""
-NpcComOnPreFinish#0,"""Las maquinas no estaran activas<br>por mucho tiempo.<br>Por favor sea rapido."""
+NpcComOnPreFinish#0,"""Las maquinas no estaran activas<br>por mucho tiempo.<br>Por favor sea rápido."""
 NpcComOnBegin#1,"""Aquí parece perfecto. Utilice la maquina Minera para buscar la muestra."""
 NpcComOnSuccess#1,"""Mineria completa. Parece que este era el punto correcto."""
 NpcComOnFailure#1,"""¿...Hemos fallado la excavación del mineral? Bueno, no se pudo evitar. Esperaremos otra oportunidad."""
