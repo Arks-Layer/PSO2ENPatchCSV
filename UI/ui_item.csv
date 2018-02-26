@@ -508,7 +508,7 @@ SendWarehouseErrorMessage11#0,"""PSO2esとの連動を確認できなかった�
 SendWarehouseErrorMessage12#0,"""移動先の拡張倉庫が読み込まれていません。<br>移動先の拡張倉庫を読み込んでから、<br>移動してください。"""
 SendWarehouseErrorMessage13#0,"""拡張倉庫間のアイテム移動はできません。<br>アイテムパックや他の倉庫を中継して<br>移動してください。"""
 SendWarehouseErrorMessage14#0,"""このアイテムを素材倉庫に預けることはできません。"""
-AllSendWarehouseDishErrorMessage#0,"""No esta disponible el「Almacen de<br>materiales」Usa el ticket「Material<br>warehouse」para habilitarlo。"""
+AllSendWarehouseDishErrorMessage#0,"""No esta disponible el 「Almacen de materiales」<br>Usa el ticket 「Material warehouse」 para habilitarlo."""
 SendWarehouseNoticeMessage1#0,"""Algunos objetos no se depositaron."""
 TakeWarehouseErrorTitle#0,"""Retirar objetos"""
 TakeWarehouseErrorMessage0#0,"""アイテムを取り出すことができません。"""
