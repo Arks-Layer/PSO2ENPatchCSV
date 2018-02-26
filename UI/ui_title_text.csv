@@ -356,7 +356,7 @@ CancelRegularWait#0,"""Cancelación de transferencias programadas Mantenimiento 
 CancelRegularFinishTitle#0,"""Durante la confirmación de mantenimiento de transferencia de la nave"""
 CancelRegularFinishMessage#0,"""Programa de Mantenimiento de la nave de transferencia<br>ha sido cancelada. Regresar a la pantalla del titulo.\"""""
 Enquete_Title#0,"""Breve encuesta"""
-Enquete_mes01#0,"""Esta es una pregunta para los jugadores que no han iniciado sesión<br>por un tiempo. \u3000¿Que hizo que decidieras jugar PSO2 de nuevo?"""
+Enquete_mes01#0,"""Esta es una pregunta para los jugadores que no han iniciado sesión<br>por un tiempo. \u3000¿Qué hizo que decidieras jugar PSO2 de nuevo?"""
 Enquete_Answer00#0,"""■ Por favor selecciona la respuesta mas apropiada."""
 Enquete_Answer01#0,"""1.  El Twitter official de PSO2"""
 Enquete_Answer02#0,"""2.  PSO2 STATION!, algún programa, la web oficial, etc."""

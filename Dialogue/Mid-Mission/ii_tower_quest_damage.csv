@@ -5,5 +5,5 @@ NpcComOnBegin#0,"""/face2 Ah, el campo parece haber cambiado en el modo de entre
 NpcComOnSuccess#0,"""/face2 Ese es el final del entrenamiento! Realmente has hecho un bueno trabajo!"""
 DirectionAim#0,"""It's only the frame. La función de seguimiento no se utilizara por ahora."""
 DirectionRandom#0,"""/face2 Ahora hay zonas de daño que cambian constantemente. Hay varios de ellos, así que presta atención a su equilibrio!"""
-DamageHalf#0,"""/face2 cada vez es mas peligroso, así que date prisa!"""
+DamageHalf#0,"""/face2 ¡Cada vez es más peligroso, así que date prisa!"""
 DamageMax#0,"""/face2 Vaya, todavia puedes luchar incluso en está condición... Impresionante!"""

@@ -14,7 +14,7 @@ NpcComOnFailure#1,"""/face6 Mr.アンブラの機嫌を損ねたようだな。<
 NpcComOnPreBegin#2,"""Wow, que lectura termica<br>tan increible! P-por favor ten cuidado!"""
 NpcComOnBegin#2,"""/face2 アンブラ様！\u3000Mr.アンブラ様ですね！<br>彼に叩かれると<br>御利益あるみたいですよ？"""
 NpcComOnSuccess#2,"""/face2 El Sr. Umblla está muy feliz!<br>alguno de tus deseos fue cumplido?<br>por favor continua con tu mision."""
-NpcComOnFailure#2,"""/face6 El Sr. Umblla se ha enojado...<br>bueno, no hay nada por hacer.<br>Por favor, escapa rapido."""
+NpcComOnFailure#2,"""/face6 El Sr. Umblla se ha enojado...<br>bueno, no hay nada por hacer.<br>Por favor, escapa rápido."""
 StruckUmblla#0,"""/face3 ¡No hagas eso! por favor no<br>ataques a el Sr. Umblla!<br>Ahora no está de humor!"""
 BeStruckByUmblla#0,"""¿Estas bien?, una ves<br>mas, solo aguantalo<br>por una ves mas!"""
 NpcComOnPreBegin#3,"""周囲への警戒を強めてください。<br>新たな反応が感知されています。"""
