@@ -5,7 +5,7 @@ text04#0,"""Supongo que se decidió.<br>¡Fortalesca sus objetos favoritos en el
 text05#0,"""¡Vamos vamos! ¡Esto no debería ser difícil! ¡Limpia mis miedos!"""
 text100#0,"""Acerca de: 『Mejoras de atributos de armas -NT』"""
 text101#0,"""Armas de nuevo tipo, hay \""Atributo\"" y<br>\""Valor de atributo\""<br><br>\""Atributo\"" se refiere al tipo elemental de tu arma.<br>\""Atributo\"" se refiere al porcentaje de valor elemental de su<br>arma."""
-text102#0,"""Para aumentar el valor del atributo, necesitarás usar un arma  como material.<br><br>Por esta razón, el arma <yellow>necesita ser de la misma rareza y<br>tipo<c>."""
+text102#0,"""Para aumentar el valor del atributo, necesitarás usar un arma  como material.<br><br>Por está razón, el arma <yellow>necesita ser de la misma rareza y<br>tipo<c>."""
 text103#0,"""Cuando se usa el mismo tipo de arma, con la misma rareza coincidente y el mismo nombre que el arma objetivo, el valor del atributo <yellow> aumentará significativamente <c>.<br><br>※El valor aumentará incluso si los atributos son diferentes en el valor y los atributos elementales reales son diferentes.<br><br>Los valores normales de los atributos tienen un tope de 50. Sin embargo, las armas y los huevos de ★ 13 en rareza tienen un valor de atributo máximo de 60."""
 text104#0,"""Cuanto mayor sea el atributo, más daño le harás al enemigo.<br><br>¡Además, el daño que coincide con la debilidad de atributo de un enemigo dará como resultado un daño aún mayor!<br><br>El atributo se determina cuando obtienes un arma, pero se puede cambiar más adelante con elementos de apoyo."""
 linewindow01#0,"""Adquirido Gunslash Zero-NT."""

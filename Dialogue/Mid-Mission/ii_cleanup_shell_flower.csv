@@ -10,4 +10,4 @@ NpcComOnFailure#0,"""Hay demasiados para que puedas continua...?<br>Retirese por
 NpcComOnAccess#0,"""Tienes el don para esto.<br>Sigue eliminando esas flores."""
 NpcComOnHit#0,"""Excelente, limpiar la zona de esas flores."""
 NpcComOnPreSuccess#0,"""Bien hecho, has eliminado un monton. Vamos a seguir con las flores restantes."""
-NpcComOnPreFinish#0,"""El tiempo esta por terminar. Deshazte de las flores lo mas pronto posible."""
+NpcComOnPreFinish#0,"""El tiempo está por terminar. Deshazte de las flores lo mas pronto posible."""
