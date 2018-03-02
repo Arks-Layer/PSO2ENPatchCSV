@@ -755,7 +755,7 @@
 190#1,"""-"""
 191#1,"""-"""
 192#1,"""-"""
-193#1,"""Boosts PP regeneration<br>while sheathed."""
+193#1,"""Boosts PP regeneration<br>while sheathed. PP<br>regen is halted<br>when unsheathed."""
 194#1,"""-"""
 195#1,"""When an enemy is<br>defeated within a<br>certain range,<br>recover PP."""
 196#1,"""-"""
