@@ -158,7 +158,7 @@ Composition_After_ReleaseCandy_Msg#0,"""Tu mascota supero el Nv.50<br>Fueron rem
 Composition_After_LimitBreak_Msg#0,"""Tu mascota supero el Nv.100<br><br>Habla con Pietro para que<br>habilite el <yellow>Limit Break<c> de $(0)."""
 Composition_After_MaxLv_Msg#0,"""Tu mascota alcanzo el nivel maximo."""
 Title#4,"""Liberar mascota"""
-Message#0,"""$(0) sera liberada.<br>Desea continuar?<br><br><c ff4f3f>※Las mascotas liberadas seran removidas de [Pet List].<br>Esta acción no puede ser reversada.<c>"""
+Message#0,"""$(0) sera liberada.<br>Desea continuar?<br><br><c ff4f3f>※ Las mascotas liberadas seran removidas de [Pet List].<br>Esta acción no puede ser reversada.<c>"""
 Success#0,"""has liberado tu mascota."""
 Message2#0,"""Esta mascota es de <yellow>rareza 7+<c>.<br>Realmente la quieres liberar?"""
 Title#5,"""限界突破"""
