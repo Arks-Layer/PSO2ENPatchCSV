@@ -65,7 +65,7 @@ EquipNote_ClearCoolTimeMessage2#0,"""Esto comprara los siguientes objetos<br>usa
 EquipNote_ClearCoolTimeSuccessTitle#0,"""Colección de planillas"""
 EquipNote_ClearCoolTimeSuccessMessage#0,"""<pict $(0)>$(1) La planilla<br>sera reiniciada y reobtenida."""
 EquipNote_ClearCoolTimeItem#0,"""Tiempo de reutilización"""
-EquipNote_TitleSheetInfo#0,"""Información de planilla"""
+EquipNote_TitleSheetInfo#0,"""Info. de planilla"""
 EquipNote_TitleTimeInfo#0,"""Tiempo de distribución"""
 EquipNote_CoolTime#0,"""Tiempo de espera"""
 EquipNote_CoolTime_Free#0,"""-"""

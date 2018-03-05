@@ -1,4 +1,4 @@
-LogName#0,"""Información de los ensayos de emergencia"""
+LogName#0,"""Info. de los ensayos de emergencia"""
 TrialSuccessMsg#0,"""Emergency Trial completado:<br>[$(0)]!"""
 TrialFailureMsg#0,"""Emergency Trial fallado:<br>[$(0)]!"""
 TrialFailureMsg_PlayerAnnihilation#0,"""Emergency Trial [$(0)]Ha fallado！"""

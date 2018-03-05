@@ -14,7 +14,7 @@ OnAccessPodByEmptyHand#0,"""Recoger minerales en primer lugar.<br>A continuació
 Collect1st#0,"""Bueno, confirmo el transporte de un mineral raro.<br>Continuar con la recolección."""
 CollectHalf#0,"""Muy bien, se ha logrado reunir la mitad de nuestra cuota.<br>Sigue asi."""
 CollectMostly#0,"""Se ha confirmado la recuperación de varios minerales. Solo quedan unos pocos. Bien hecho."""
-Pickup1st#0,"""Aha, un mineral raro! Estas cosas<br>son dificiles de encontrar"""
+Pickup1st#0,"""¡Aha, un mineral raro! Estas cosas<br>son difíciles de encontrar"""
 PickupHalf#0,"""Bueno, usted tiene la mitad.<br>No se olvide de llevarlos a el deposito."""
 PickupEnough#0,"""Usted ha completado la cuota<br>ahora llevarlos a la estación ASAP."""
 TimeupWarning#0,"""Nuestro tiempo se está agotando.<br>Todo el mundo, acelere la busqueda."""

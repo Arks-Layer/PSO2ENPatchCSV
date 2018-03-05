@@ -1,6 +1,6 @@
 moralskeeper_Title#0,"""Reportar jugador"""
 moralskeeper_menu_playername#0,"""Nombre del jugador y player ID para reportar"""
-moralskeeper_menu_category#0,"""Categoría <red>※Requerida<c>"""
+moralskeeper_menu_category#0,"""Categoría <red>※ Requerida<c>"""
 moralskeeper_menu_comment#0,"""Comentario"""
 moralskeeper_category_default#0,"""Por favor seleccione una categoría"""
 moralskeeper_category_leave#0,"""Abandonar mision"""

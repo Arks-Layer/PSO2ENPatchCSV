@@ -1,4 +1,4 @@
-linewindow001#0,"""El EPISODIO 5 ya fue lanzado.<br><br>Actualmente estás en el [EPISODIO 4].<br>¿Desea comenzar el EPISODIO 5 ahora?<br><yellow>※Puedes continuar el EPISODIO 4 más tarde.<c>"""
-linewindow001#1,"""El EPISODIO 5 ya fue lanzado.<br><br>You're currently on [EPISODIO 4].<br>¿Desea cambiar al EPISODIO 5 ahora?<br><yellow>※Al hablar con Xiera, puede alternar entre los modos.<c>"""
+linewindow001#0,"""El EPISODIO 5 ya fue lanzado.<br><br>Actualmente estás en el [EPISODIO 4].<br>¿Desea comenzar el EPISODIO 5 ahora?<br><yellow>※ Puedes continuar el EPISODIO 4 más tarde.<c>"""
+linewindow001#1,"""El EPISODIO 5 ya fue lanzado.<br><br>You're currently on [EPISODIO 4].<br>¿Desea cambiar al EPISODIO 5 ahora?<br><yellow>※ Al hablar con Xiera, puede alternar entre los modos.<c>"""
 window_message_0010#0,"""Comenzar [EPISODIO 5]"""
 window_message_0020#0,"""Comenzar [EPISODIO 4]"""
