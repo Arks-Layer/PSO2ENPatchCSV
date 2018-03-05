@@ -1,7 +1,7 @@
 IncidentName#0,"""Derrotar a $(0)"""
 TrialBeginMsg#0,"""Derrota cualquier $(0) que<br>encuentres! fallaras si $(1) es incapacitado 2 veces."""
 TrialAbstract#0,"""Derrota cualquier $(0) que<br>encuentres! fallaras si $(1) es incapacitado 2 veces."""
-NpcComOnBegin#0,"""Relieve the other Arks and<br>cooperate to subdue the enemy!"""
+NpcComOnBegin#0,"""Relieve the other Arks y<br>cooperate to subdue the enemy!"""
 NpcComOnSuccess#0,"""/face2 お疲れ様でした！<br>連携と呼吸ばっちり<br>合っていたと思います！"""
 NpcComOnFailure#0,"""こういうこともありますよ。<br>対象のアークスは、こちらで<br>回収します。"""
 NpcComOnDownA#0,"""連携がうまくいっていないようです。<br>互いに協力を忘れないで下さい。"""
