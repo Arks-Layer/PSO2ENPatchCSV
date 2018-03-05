@@ -493,7 +493,7 @@ CtrlVitaPalletinfo#0,"""武器パレット切り替えの操作が一部制限�
 CtrlVitaSubPalletinfo#0,"""サブパレット切り替えの操作が一部制限されます"""
 CtrlAnnounceTitle#0,"""Opciónes de pantalla"""
 CtrlAnnounceMessage#0,"""Por favor, seleccione un conjunto<br>deseado de teclas/botones que<br>aparecen en las instrucciones."""
-CtrlAnnounceSelSymbol#0,"""Play Simbolos"""
+CtrlAnnounceSelSymbol#0,"""Mostrar Symbol Arts"""
 CtrlAnnounceSelAlphabet#0,"""Xbox"""
 CtrlAnnounceSelNumber#0,"""Numerico"""
 CtrlAnnounceSelKeyboard#0,"""Teclado"""
