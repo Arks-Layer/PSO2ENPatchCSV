@@ -1051,7 +1051,7 @@ EquippedImpossibleTextvita#0,"""El anillo no se puede equipar si la clase<br>res
 ProficiencyRingEXP#0,"""強化値・リングEXP"""
 RingSkill#1,"""Habilidad del anillo"""
 RingSkillLv#0,"""Nv de habilidad del anillo"""
-RingParameter#0,"""Estatus del anillo"""
+RingParameter#0,"""Status del anillo"""
 GadgetGrindValue#0,"""$(0) ($(1)まで<yellow>強化可<c>)"""
 GadgetGrindValueMax#0,"""$(0) (リングEXP100％で<yellow>上限UP<c>)"""
 GadgetGrindValueCap#0,"""$(0) <c ffa800>(最大)<c>"""
