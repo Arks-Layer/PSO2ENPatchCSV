@@ -3,7 +3,7 @@ Explanation#0,"""異世界オメガに存在する魔神城が活性化。<br>�
 StoryExplanation#0,"""ルツの奸計を乗り越え<br>魔神城を撃破しながら王都へ迫る<br>ハリエット率いる革命軍。<br>クエントの未来を決する戦いが始まろうとしていた。"""
 Title#1,"""Batalla del castillo"""
 Explanation#1,"""ルツの奸計を乗り越え<br>魔神城を撃破しながら王都へ迫る<br>ハリエット率いる革命軍。<br>クエントの未来を決する戦いが<br>始まろうとしていた。<br>――――――――――――――――――――<br>La misión termina cuando expira el<br>tiempo límite o cuando es destruido<br>el Devil Castle."""
-SimpleExplanation#0,"""¡Derrota al Devil Castle"""
+SimpleExplanation#0,"""¡Derrota al Devil Castle!"""
 NpcComMsg1#0,"""¡Estarás luchando contra el Devil Castle pronto!<br>Las barreras se han colocado, ¡Así que le esperara una lucha feroz!"""
 NpcComMsg2#0,"""A medida que se acerque al Devil Castle, ¡Se convocaran Buster Piles para destruir las barreras! Sin<br>decir nada mas, ¡Te deseo buena suerte!"""
 OnQuestBegin_0#0,"""¡Las fuerzas enemigas se preparan para atacar!<br>¡Recoge Mana para utilizarlas con las armas<br>establecidas!"""
