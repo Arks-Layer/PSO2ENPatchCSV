@@ -221,7 +221,7 @@ StoryBoardReward#0,"""ストーリーボード報酬『$(0)』×$(1)を獲得！
 StoryBoardRewardWithoutNumber#0,"""ストーリーボード報酬『$(0)』を獲得！"""
 co#0,"""Commandes Clients"""
 mo#0,"""-"""
-mb#0,"""マターボード"""
+mb#0,"""Carte Guide"""
 do#0,"""デイリーオーダー"""
 so#0,"""-"""
 go#0,"""チームオーダー"""

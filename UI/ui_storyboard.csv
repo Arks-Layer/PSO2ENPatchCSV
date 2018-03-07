@@ -54,7 +54,7 @@ Guide#0,"""（このマターをガイドの対象にした場合、<br>\u3000�
 AutoGuide#0,"""おすすめのマター「$(0)－$(1) $(2)」にガイドを設定しました。"""
 AcceptPopup1#0,"""ストーリークエスト受注"""
 AcceptPopup2#0,"""クエストレコードを見る"""
-MessageTitle#0,"""メッセージ"""
+MessageTitle#0,"""Texto"""
 WindowTitle#0,"""クエスト受注確認"""
 EventTitle#0,"""イベント再生"""
 QuestMessage#0,"""ストーリークエストを受注して<br>キャンプシップへ移動します。<br>よろしいですか？"""
