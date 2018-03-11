@@ -1,5 +1,5 @@
-IncidentName#0,"""Derrotar a $(0)!"""
-TrialBeginMsg#0,"""Derrotar a $(0)!"""
+IncidentName#0,"""¡Derrotar a $(0)!"""
+TrialBeginMsg#0,"""¡Derrotar a $(0)!"""
 TrialAbstract#0,"""Usa los carambanos para desactivar<br>la barrera y suprimir los $(0)!"""
 NpcComOnBegin#0,"""¡U-urgentes! ¡Potentes lecturas<br>enemigas confirmadas!<br>¡Por favor, derrotalos rapidamente!"""
 NpcComOnSuccess#0,"""Han desaparecido las reacciones de los enemigos<br>Gracias por su esfuerzo!"""

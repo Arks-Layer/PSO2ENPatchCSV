@@ -1,4 +1,4 @@
-IncidentName#0,"""Derrotar a $(0)!"""
+IncidentName#0,"""¡Derrotar a $(0)!"""
 TrialBeginMsg#0,"""Emergency directive! Derrotar a<br>newly-appeared $(0)!"""
 TrialAbstract#0,"""Derrotar a<br>newly-appeared $(0)!"""
 NpcComOnPreBegin#0,"""$(0)の撃退を<br>確認しました！\u3000お疲れ様です！<br>……って、え？\u3000大きな反応！？"""
