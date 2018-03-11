@@ -56,6 +56,9 @@ jobs:
           name: verifing CSVs for PSO2 format
           command: ./_sh/check.sh
       - run:
+          name: verifing command usages
+          command: ./_sh/command.sh
+      - run:
           name: coverage CSVs
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
