@@ -1,6 +1,6 @@
 IncidentName#0,"""Derrotar a $(0)"""
-TrialBeginMsg#0,"""Derrotar a $(0)!"""
-TrialAbstract#0,"""Derrotar a $(0)!"""
+TrialBeginMsg#0,"""¡Derrotar a $(0)!"""
+TrialAbstract#0,"""¡Derrotar a $(0)!"""
 NpcComOnBegin#0,"""Attention, all active Arks members!<br>Quickly join forces and work<br>para eliminar las fuerzas enemigas en el área!"""
 NpcComOnSuccess#0,"""/face2 お疲れ様でした！<br>いい協力関係だったと思います！"""
 NpcComOnBeginP1#0,"""The support partner belonging to<br>$(0) is being attacked<br>por hostiles! por favor ayudale!"""

@@ -8,7 +8,7 @@ NpcComOnBegin#0,"""Esta es una orden.<br>se han detectado lecturas de un raro mi
 NpcComOnBeginAtRareCase#0,"""Esto es urgente. Estos minerales<br>son de una lectura inconfundible.<br>Solo tenemos un tiempo limitado.<br>Todo el mundo, tienen la tarea<br>de reunir los minerales rapidamente."""
 NpcComOnSuccess#0,"""Muy bien, la recolección fue confirmada.<br>Bien hecho."""
 NpcComOnFailure#0,"""Mmm, No se recogio la cantidad necesaria.<br>Regrese a su misión principal."""
-GoodsPosition#0,"""Obtención de mineral raro lecturas de $(0)."""
+GoodsPosition#0,"""Hay lecturas del mineral raro en $(0)."""
 RepopGoods#0,"""Han sido confirmado un nuevo objeto<br>para recoger todo el mundo debe<br>proceder a recogerlos."""
 OnAccessPodByEmptyHand#0,"""Recoger minerales en primer lugar.<br>A continuación, depositalos en el deposito."""
 Collect1st#0,"""Bueno, confirmo el transporte de un mineral raro.<br>Continuar con la recolección."""
