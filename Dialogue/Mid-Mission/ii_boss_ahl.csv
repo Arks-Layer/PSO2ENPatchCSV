@@ -1,6 +1,6 @@
 IncidentName#0,"""Derrotar a $(0)"""
-TrialBeginMsg#0,"""Derrotar a $(0)!"""
-TrialAbstract#0,"""Derrotar a $(0)!"""
+TrialBeginMsg#0,"""¡Derrotar a $(0)!"""
+TrialAbstract#0,"""¡Derrotar a $(0)!"""
 NpcComOnBegin#0,"""Directiva urgente.<br>Confirmada poderosas presencias enemigas.<br>Por favor derrotar inmediatamente."""
 NpcComOnSuccess#0,"""Las lecturas de enemigos han desaparecido,<br>Gracias por el esfuerzo de todos."""
 NpcComOnBegin#1,"""Esto es urgente. hemos detectado<br>poderosas lecturas de un enemigo.<br>Derrotalo lo antes posible."""

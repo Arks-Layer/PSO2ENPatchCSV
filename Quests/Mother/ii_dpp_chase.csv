@@ -1,5 +1,5 @@
 IncidentName#0,"""Derrotar a $(0)"""
-TrialBeginMsg#0,"""Derrotar a $(0)!"""
+TrialBeginMsg#0,"""¡Derrotar a $(0)!"""
 TrialAbstract#0,"""$(0) Supresión"""
 NpcComOnBegin#0,"""¡Sera transferido cerca del objetivo!<br>¡No te alejes demasiado de él!<br>Tenga cuidado con los obstáculos."""
 NpcComOnHpDecreased0#0,"""¡Ah, el ataque funciona!"""

@@ -1,5 +1,5 @@
 IncidentName#0,"""白の民を助太刀せよ！"""
-TrialBeginMsg#0,"""Derrotar a $(0)!"""
+TrialBeginMsg#0,"""¡Derrotar a $(0)!"""
 TrialAbstract#0,"""Derrota $(1) $(0)!"""
 NpcComOnBegin#0,"""Enemies have invaded the streets of Shironia.<br>The Shironian defense forces have engaged them.<br>Everyone, Por favor assist the Shironians."""
 NpcComOnSuccess#0,"""敵性反応の消失を確認しました。<br>お疲れさまでした。"""

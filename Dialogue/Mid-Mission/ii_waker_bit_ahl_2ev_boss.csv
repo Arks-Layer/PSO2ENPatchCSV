@@ -1,6 +1,6 @@
 IncidentName#0,"""Derrotar a $(0)"""
-TrialBeginMsg#0,"""Derrotar a $(0)!"""
-TrialAbstract#0,"""Derrotar a $(0)!"""
+TrialBeginMsg#0,"""¡Derrotar a $(0)!"""
+TrialAbstract#0,"""¡Derrotar a $(0)!"""
 NpcComOnPreBegin#0,"""¡Una poderosa fuente de calor<br>se está aproximando!. Por favor,<br>esté atento"""
 NpcComOnBegin#0,"""緊急連絡！<br>新手のエネミーの接近を確認！"""
 NpcComOnSuccess#0,"""$(0)の<br>撃破を確認しました！<br>各員の協力に感謝します！"""

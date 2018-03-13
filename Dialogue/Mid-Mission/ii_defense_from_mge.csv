@@ -1,6 +1,6 @@
 IncidentName#0,"""Derrotar a $(0)"""
-TrialBeginMsg#0,"""Derrotar a $(0)!"""
-TrialAbstract#0,"""Derrotar a $(0)!"""
+TrialBeginMsg#0,"""¡Derrotar a $(0)!"""
+TrialAbstract#0,"""¡Derrotar a $(0)!"""
 GateBreak1#0,"""Gran puerta destruida."""
 GateBreak2#0,"""Gran puerta destruida."""
 MonoPrincessLevelUpdate1#0,"""【スクナヒメの加護】<br>移動速度アップ<br>ジャンプ力アップ<br>コスモ/ムーンアトマイザー効果範囲アップ"""
