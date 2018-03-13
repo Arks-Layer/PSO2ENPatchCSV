@@ -2,15 +2,13 @@
 # -*- coding:utf-8 -*-
 import codecs
 import csv
+import multiprocessing as mp
 import os
 import sys
 
-err = os.EX_OK
 
-if len(sys.argv) == 1:
-	sys.exit(os.EX_NOINPUT)
-
-for i in sys.argv[1:]:
+def check(i):
+	err = os.EX_OK
 	with codecs.open(i, encoding="utf-8") as QC:
 		dupid = []
 		for x, row in enumerate(csv.reader(QC, strict=True)):
@@ -25,5 +23,19 @@ for i in sys.argv[1:]:
 			else:
 				print("Issue on {}:{}".format(i, x, header))
 				err = 1
+	return err
 
-sys.exit(err)
+
+if __name__ == '__main__':
+	err = os.EX_OK
+
+	if len(sys.argv) == 1:
+		sys.exit(os.EX_NOINPUT)
+
+	p = mp.Pool(mp.cpu_count())
+	erra = p.map(check, sys.argv[1:])
+	p.close()
+	p.join()
+
+	err = max(erra)
+	sys.exit(err)
