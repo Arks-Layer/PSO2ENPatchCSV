@@ -581,7 +581,7 @@ CheckPostNoticeMessage2#0,"""<c ff4f3f>一時倉庫の空き容量が無くな�
 RequestActionNoUse#0,"""No se puede utilizar este objeto, ya que no tendra ningún efecto."""
 RequestActionOutOfRange#0,"""No se puede utilizar este objeto, ya que no existen objetivos al alcance."""
 RequestActionNoExpire#0,"""Expirado; no se puede utilizar."""
-RequestActionUnlimitedAMCoinErrorTitle#0,"""メッセージ"""
+RequestActionUnlimitedAMCoinErrorTitle#0,"""Mensaje"""
 RequestActionUnlimitedAMCoinErrorMessage#0,"""「CC持ち出し上限の廃止」に伴い、<br>「CC持ち出し上限解除$(0)日」は<br>ご利用いただけなくなりました。<br><br><yellow>お手持ちの「CC持ち出し上限解除$(0)日」は、<br>リサイクルショップにて、対象アイテムとの<br>交換が可能となっております。<c>"""
 UseTicketTitle#0,"""Confirmar uso de objeto"""
 UseTicketMessage#0,"""[$(0)] sera usado.<br>¿Quieres continuar?"""
