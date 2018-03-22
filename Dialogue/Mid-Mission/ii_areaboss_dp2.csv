@@ -13,3 +13,7 @@ NpcComOnFailure#1,"""/face6 ¡No! Los ARKS han sufrido<br>graves daños...<br>Te
 HP_Under_50#1,"""¡$(0) se está debilitando!"""
 HP_Under_10#1,"""$(0) le queda muy poca fuerza!"""
 NpcComLastEnemy#1,"""/face2 ¡Uno mas! ¡Uno mas!"""
+NpcComOnBegin#2,"""強力な敵性反応を確認！<br>すみやかに撃破してください！"""
+NpcComOnSuccess#2,"""目標の反応消失を確認。<br>お疲れさまでした！"""
+HP_Under_50#2,"""残存体力、低下！<br>この調子です！"""
+HP_Under_10#2,"""あと少しです。<br>一気に決めちゃってください！"""
