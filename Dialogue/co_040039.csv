@@ -6,3 +6,5 @@ text03#0,"""Puede llegar al puente usando el teletransportador en el segundo pis
 window_message_0010#0,"""Ir al puente"""
 window_message_0020#0,"""Quedarse donde estas"""
 window_message_0000#0,"""¿Te gustaría ir al Puente?"""
+Title#0,"""『艦橋への移動方法』について"""
+text0001#0,"""艦橋に移動することで<br>EPISODE5のストーリーが開始します。<br>準備を整えて、艦橋へ向かってください。<br><br>艦橋へは、ゲートエリア2階の転送装置から<br>移動することができます。"""
