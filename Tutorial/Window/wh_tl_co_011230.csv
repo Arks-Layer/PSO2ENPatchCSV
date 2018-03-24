@@ -1,4 +1,4 @@
-name01#0,"""Acerca de: 『Character Management』"""
+name01#0,"""Acerca de: 『Gestión de personajes』"""
 text01#0,"""チュートリアル<br>『キャラクター操作』<br>について説明します。"""
 text02#0,"""キャラクターの移動は、以下の操作で行います。<br><br>【キーボード&マウスの場合】<br>前：<%MoveForward><br>後：<%MoveBack><br>左：<%MoveLeft><br>右：<%MoveRight><br><br>【<%GamePad>の場合】<br><%LStick>操作"""
 text03#0,"""カメラの操作は、以下の操作で行います。<br><br>【キーボード&マウスの場合】<br>マウスを動かす<br><br>【<%GamePad>の場合】<br><%RStick>操作"""
