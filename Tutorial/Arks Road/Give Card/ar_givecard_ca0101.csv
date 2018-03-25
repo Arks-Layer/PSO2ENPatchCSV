@@ -1,7 +1,7 @@
 name01#0,"""アスタルテ"""
 11_voice_shop_412#0,"""Usted ha cumplido con los requisitos para su siguiente tarjeta de sello, aquí tienes."""
 text02#0,"""Su tarjeta tiene como objetivo enseñarle sobre el cambio de equipos, como funciónan las tarjetas de Partner y otras caracteristicas basicas."""
-text03#0,"""Su primer objetivo es completar la Orden de Cliente <c bb0000>[Reviewing Weapon Switching!]<c>."""
+text03#0,"""Su primer objetivo es completar la Orden de Cliente <c bb0000>[Reviewing Weapon Switching!].<c>"""
 text04#0,"""Por favor, ve con Afin para obtener está orden."""
 text05#0,"""Si ya ha completado este objetivo, se le otorgara automaticamente un sello."""
 text06#0,"""Gracias por su cooperación"""
