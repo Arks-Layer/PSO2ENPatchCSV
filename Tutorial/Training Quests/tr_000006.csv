@@ -1,6 +1,6 @@
 name01#0,"""シエラ"""
 text01#0,"""¡Usa el <red>Foie<c> que acábamos de aprender!"""
-text02#0,"""Puede usar una Técnica con <red>el botón al que lo asignó<c>."""
+text02#0,"""Puede usar una Técnica con <red>el botón al que lo asignó.<c>"""
 text101#0,"""Tarea 2: usar Foie"""
 train_title#0,"""Tarea 2: <yellow>Usar Foie"""
 tut_title#0,"""Usar Techniques"""

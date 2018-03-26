@@ -614,7 +614,7 @@ RadioButtonMyBattleImpossibleIconOn#0,"""Permitir a otros ver un icono cuando te
 RadioButtonMyBattleImpossibleIconOff#0,"""No permitir a otros ver un icono cuando te incapacitan"""
 RadioButtonAllPB#0,"""Mostrar todos los Photon Blast."""
 RadioButtonMyPB#0,"""Mostrar solo mis Photon Blast."""
-RadioButtonRareDrop7Over#0,"""Mostrar aviso de objetos con rareza de 7★ o mas"""
+RadioButtonRareDrop7Over#0,"""Mostrar aviso de objetos con rareza de 7<red>★<c> o mas"""
 RadioButtonRareDrop10Over#0,"""Mostrar aviso de objetos con rareza de 10<yellow>★<c> o mas"""
 RadioButtonRareDrop13Over#0,"""Mostrar aviso de objetos con rareza de 13<yellow>★<c> o mas"""
 RadioButtonRareautoget13#0,"""レアリティ13以上のアイテムを即時取得する"""
