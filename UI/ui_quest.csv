@@ -259,6 +259,7 @@ RD_Event054_MES#0,"""Contacting everyone. We have confirmed the appearance of th
 RD_Event055_MES#0,"""Emergency broadcast. The Crimson Evil Dragon has been confirmed to have been spotted near the ruins of the old Cuent Castle. We want you to hurry down there and repel this threat as soon as possible."""
 RD_Event056_MES#0,"""It appears that the Evil Dragon has resumed its attacks. All ARKS operatives who meet the specific requirements, please join the operation at your nearest quest counter to begin our strategic operation."""
 RD_Event057_MES#0,"""It appears that the Evil Dragon has been repulsed. Thank you for your cooperation!"""
+Q_Event001_59_MES#0,"""現在、地球を対象に、全アークス一斉参加の大規模なエネミー討伐作戦を準備中。"""
 R_Event001_MES#0,"""We will be holding Interrupt Rankings starting at <%TSE_OpenLimetTime>. Be sure to participate!"""
 R_Event002_MES#0,"""We are currently holding Time Attack Rankings. The current quest is [<%TSE_TA_Quset_Name> - <%TSE_TA_Quset_Difficulty>]. The competition will end at <%TSE_EndTime>. The target quest will give out increased experience, along with bonus clear meseta!"""
 R_Event003_MES#0,"""Time Attack ranking has been completed."""
