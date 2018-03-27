@@ -13,3 +13,7 @@ NpcComOnFailure#1,"""/face6 No! The engaged ARKS <br>have suffered heavy damage.
 HP_Under_50#1,"""The $(0) is really getting weaker!"""
 HP_Under_10#1,"""The $(0) has only got a tiny bit of strength left!"""
 NpcComLastEnemy#1,"""/face2 One more! One more!"""
+NpcComOnBegin#2,"""Strong enemy signatures detected! Defeat them quickly!"""
+NpcComOnSuccess#2,"""Enemy signatures fading.<br>Congratulations!"""
+HP_Under_50#2,"""Strength has decreased!<br>It's getting weaker!"""
+HP_Under_10#2,"""Just little more.<br>Keep at it!"""
