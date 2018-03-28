@@ -8441,7 +8441,7 @@ ring_WpnDBlade01#1,"""Dual Blade Snatch<br>Inflicts striking damage to enemies w
 ring_TechChargeGuard#1,"""Tech Charge Parry<br>While using a teching weapon, you can<br>Just Guard by starting to charge a Technique."""
 ring_RecastRateRebirtherField#1,"""Recast Reverser Field<br>Reduces recast time of Reverser Field."""
 ring_GearBoostPlus#1,"""Hunter Gear Save<br>While Hunter Gear Boost is in effect, decreases<br>the rate that Gear empties and is consumed."""
-ring_HighTimePlus#1,"""High Time Keep<br>Grants a chance to maintain High Time when<br>you get hit once during Showtime."""
+ring_HighTimePlus#1,"""High Time Keep<br>Increases the amount of damage needed to<br>cancel out High Time."""
 ring_KatanaCombatMinus#1,"""Short Combat<br>When using Katana Combat,<br>basic attacks no longer track enemies."""
 ring_VehicleHeal#1,"""Wide Area Heal<br>Increases the range of<br>the A.I.S. skill \""Area Heal\""."""
 ring_VehiclePhotonBlaster#1,"""Quick Blaster<br>The A.I.S. skill \""Photon Blaster\"" activates faster,<br>but its turning speed is reduced."""
