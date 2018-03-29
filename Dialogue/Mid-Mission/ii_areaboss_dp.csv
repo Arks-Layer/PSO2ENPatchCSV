@@ -11,5 +11,5 @@ NpcComOnBegin#1,"""Esto es urgente. Se han detectado<br>poderosas presencias ene
 NpcComOnSuccess#1,"""Se a confirmado que las lecturas<br>enemigas han desaparecido. Bien hecho."""
 NpcComOnFailure#1,"""Tch, they've taken a beating.<br>Teleporting them to Campship."""
 HP_Under_50#1,"""$(0) se está cansando!"""
-HP_Under_10#1,"""$(0) está muy debil!"""
+HP_Under_10#1,"""¡$(0) está muy debil!"""
 NpcComLastEnemy#1,"""¡Queda uno! ¡No pierdas<br>la concentración!"""
