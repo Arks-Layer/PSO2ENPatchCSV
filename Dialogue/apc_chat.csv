@@ -2121,7 +2121,7 @@ AbilitySpecial#31,"""/toge おっと お嬢さん<br>オレっちと いっし�
 Resurrect#31,"""オレっちは滅びんみャ！<br>何度でもよみがえるみャ！"""
 PartyJoin#31,"""/mn9 /ci1 1 ４０秒で仕度するみャ！！"""
 Marvelous#31,"""いいぞ<br>もっとやれみャ～！"""
-IncidentJsApcBegin#28,"""/toge /ci1 1 ¡Tienes una suerte increíblemente mala, nya! ¡Ah, bueno, un amigo, nya! No podemos perder, nya!"""
+IncidentJsApcBegin#28,"""/toge /ci1 1 ¡Tienes una suerte increíblemente mala, nya! ¡Ah, bueno, un weon, nya! No podemos perder, nya!"""
 IncidentJsApcFailure#28,"""/mn30 /ci4 1 Parecería ... El dulce de la vida es... Amargo dulce... nya..."""
 IncidentJsApcSuccess#28,"""/toge /mn17 /ci2 4 Lo hicimos, nya! Es hora de reclamar mi premio, nya!... Dulceeeeees... nyaa"""
 EnemyWeak#32,"""Incluso si tu oponente es débil,<br>no te confíes demasiado!"""
