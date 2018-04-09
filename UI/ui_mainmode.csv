@@ -2304,7 +2304,7 @@ ShortTimeUp2#1,"""Adds R-ATK to Bullet Bows during Rapid Shot. Greater effect th
 ShortTimeAdvance#1,"""Reduces the cooldown of Rapid Shot, and increases the PP recovery from normal attacks while it is active."""
 CounterEdge#1,"""Upon countering, you unleash additional slashes that pierce foes."""
 AttackAdvance#1,"""Increase damage for normal attacks."""
-ChargeShoot#1,"""When equipped with a Bullet Bow, increase damage and bullet speed for charged attacks."""
+ChargeShoot#1,"""When equipped with a Bullet Bow, increase damage and bullet speed for charged normal attacks."""
 SnatchStepJACombo#1,"""Adds a Just Attack timing window to Snatch Step."""
 QuickMate#1,"""Increases speed of using -mate items."""
 BowChargeBonus#1,"""Reduced charge time and PP consumption for charged Bullet Bow PAs. <yellow>Main class only.<c>"""
