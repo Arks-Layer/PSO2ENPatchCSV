@@ -150,7 +150,7 @@ plt_DH2Te_PA1LockOnUp#1,"""Increases the number of shots<br>fired by Ortho Sabar
 plt_DH2Te_StepAdvance#1,"""Extends invincibility during Step."""
 plt_DH2Te_PerfectKeeper#1,"""Boosts damage as long as<br>HP is above a certain level."""
 plt_DH2Te_Heal#1,"""Recovers HP when you dodge an attack."""
-plt_DH2Te_DamageBonus#1,"""Boosts damage against weakened enemies."""
+plt_DH2Te_DamageBonus#1,"""Boosts damage against non-boss enemies."""
 plt_DH2Te_SPLaser#1,"""Fire a beam formed from a torrent of<br>diffused magical power.<br>Can only be used once per activation."""
 AutoWordTypeDarkerBlast#0,"""Dark Blast Trigger"""
 PoseForm_Title#0,"""Set the Transformation Action"""
