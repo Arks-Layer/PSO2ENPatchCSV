@@ -361,7 +361,7 @@ DestroyEnemy2#4,"""怪しげな反応を感知しています！<br>周囲警戒
 DestroyEnemy3#4,"""怪しげな反応を感知しています！<br>周囲警戒、要注意ですよ！"""
 DestroyBoss1#4,"""強力な反応を感知しました！<br>周辺の状況変化に警戒してください！"""
 DestroyBoss2#4,"""異常な反応を確認しました！<br>なかなか大物っぽいですね……！"""
-DestroyBoss3#4,"""周辺、警戒してください！<br>不審な反応があります！"""
+DestroyBoss3#4,"""Please be careful!<br>A strange heat source has been detected!"""
 DefenceAllyAPC1#4,"""近くにアークスの反応あり！<br>どうやら交戦中みたいですよ！"""
 DefenceAllyAPC2#4,"""アークスの反応を感知！<br>この近くで戦ってるみたいです！"""
 DefenceAllyAPC3#4,"""交戦中の反応がありますね……<br>見つけたら、協力してあげてください！"""
