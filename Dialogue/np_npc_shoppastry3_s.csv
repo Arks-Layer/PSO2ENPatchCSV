@@ -1,5 +1,5 @@
 GREET_RANGE#0,"""¡Hola!"""
-GREET_SHOP_OPEN#0,"""Bienvenido!"""
+GREET_SHOP_OPEN#0,"""¡Bienvenido!"""
 GREET_SHOP_DISABLE#0,"""Disculpa.<br>hoy en dia es un estatuto mas."""
 GREET_SHOP_CLOSE#0,"""Gracias!"""
 HINT_EAST#0,"""お姉ちゃんは東に<br>いそうな気がする！<br>絶対！\u3000たぶん！\u3000おそらくっ！"""
