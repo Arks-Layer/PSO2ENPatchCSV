@@ -72,7 +72,7 @@
 01_MainLobby_072#0,"""Cuando eres premium, ganaras un efecto adicional al tomar cualquier bebida medica en el terminal."""
 01_MainLobby_073#0,"""Mediante el uso de reducción de riesgos y los elementos auxiliares mejorados, puedes reducir la posibilidad de fallo al fortalecer los objetos."""
 01_MainLobby_074#0,"""Se puede especificar el canal que desea utilizar el texto, escribiendo \""/t\"" para el Team \""/p\"" para el Grupo, y \""/a\"" a los que estan cerca."""
-01_MainLobby_075#0,""Los efectos del aumento del nivel del PSE dependen del área en la que tienen lugar"""
+01_MainLobby_075#0,"""Los efectos del aumento del nivel del PSE dependen del área en la que tienen lugar"""
 01_MainLobby_076#0,"""Un Cross Burst es cuando ocurre más de un Burst a la vez."""
 01_MainLobby_077#0,"""En ciertos climas (incluyendo tormentas de truenos en el bosque<br>o la Aurora en los cielos de la Tundra), el PSE puede ser subido de nivel rapidamente."""
 01_MainLobby_078#0,"""Puedes verificar tu ultima conexión utilizando [Historial de conexion] en el [Menu de Inicio]."""
