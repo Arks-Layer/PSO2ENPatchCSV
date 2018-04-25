@@ -1525,7 +1525,7 @@ MaxAttributeMessage2#0,"""Cannot raise the attribute value of this weapon<br>as 
 DifferentKindTitle#0,"""Item Lab"""
 ConfirmMessage#1,"""このアイテムは強化値が＋1以上のアイテムです。<br>本当によろしいですか？"""
 CheckLockMessage#2,"""Hide Locked Items"""
-CheckLockMessage_VITA#2,"""<pict Sign_SQUARE>ロックを非表示"""
+CheckLockMessage_VITA#2,"""<pict Sign_SQUARE>Hide Locked Items"""
 SelectItemTitle#0,"""Potential Change Item Selection"""
 SelectPotentialTitle#0,"""Potential Selection"""
 SelectPotentialCurrentAbilityTitle#0,"""Current Potential"""
