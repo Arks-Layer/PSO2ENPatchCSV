@@ -696,7 +696,7 @@ Dead_B2RdR_002#0,"""前足を高く持ち上げ、地面を舐めるように広
 Dead_B2RdR_003#0,"""ドラゴン・アートルムが身体を低く構えたら<br>直後に大きく回転して攻撃する。側面に向かって回避しよう。"""
 Dead_B2RdR_004#0,"""上を向きながら大きく羽ばたく攻撃は、空から火球を降り注がせる。<br>予兆に注意しつつ、空からの火球を回避しよう。"""
 Dead_B2RdR_005#0,"""ドラゴン・アートルムが全身に炎を纏ったら気を付けよう。<br>強力な技を使用する前兆だ。"""
-Dead_BD1Dp_001#0,"""Upon breaking Omega Falz Loser's arm, a destructable part opens up.<br>You can stun Loser if you break it in time."""
+Dead_BD1Dp_001#0,"""Upon breaking Omega Falz Loser's arm, a destructible part opens up.<br>You can stun Loser if you break it in time."""
 Dead_BD1Dp_002#0,"""Omega Falz Loser can change the pace of its attacks.<br>Be aware of your surroundings."""
 Dead_BD1Dp_003#0,"""Omega Falz Loser's clock core is protected by a barrier.<br>You can reveal it by inflicting Poison. """
 Dead_BD1Dp_004#0,"""オメガファルス・ルーサーの時間停止攻撃は移動キーの連続入力で解除できる。<br>浮いている剣を破壊し、発射位置を見極めて致命的な攻撃を回避しよう。"""
