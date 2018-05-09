@@ -11,3 +11,5 @@ NpcComOnBegin#3,"""緊急通達。<br>強力な敵性反応を感知。<br>迅�
 NpcComOnSuccess#3,"""Enemy readings are gone.<br>Your mission is complete."""
 NpcComOnBegin#4,"""緊急通達です！<br>強力な敵性反応を確認しました！<br>急ぎ対処をお願いします！"""
 NpcComOnSuccess#4,"""敵性反応、消失確認！<br>お見事です！"""
+NpcComOnBegin#5,"""緊急通達です！<br>強力な敵性反応を確認しました！<br>急ぎ対処をお願いします！"""
+NpcComOnSuccess#5,"""敵性反応、消失確認！<br>お見事です！"""
