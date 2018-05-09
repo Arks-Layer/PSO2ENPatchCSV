@@ -25,3 +25,7 @@ NpcComOnPreBegin#4,"""Please be careful!<br>A strange heat source has been detec
 NpcComOnBegin#4,"""/face2 あれ、Mr.アンブラですね！<br>彼に叩いてもらうと<br>御利益があるかもしれませんよ！"""
 NpcComOnSuccess#4,"""/face2 Mr.アンブラが嬉しそうにしてます！<br>これできっと御利益もありますよ！"""
 NpcComOnFailure#4,"""/face6 Mr.アンブラは怒っているようです！<br>こうなるとどうしようもないですね。<br>一旦退避してください。"""
+NpcComOnPreBegin#5,"""周辺、警戒してください！<br>不審な反応があります！"""
+NpcComOnBegin#5,"""/face2 あれ、Mr.アンブラですね！<br>彼に叩いてもらうと<br>御利益があるかもしれませんよ！"""
+NpcComOnSuccess#5,"""/face2 Mr.アンブラが嬉しそうにしてます！<br>これできっと御利益もありますよ！"""
+NpcComOnFailure#5,"""/face6 Mr.アンブラは怒っているようです！<br>こうなるとどうしようもないですね。<br>一旦退避してください。"""

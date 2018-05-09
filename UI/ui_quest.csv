@@ -263,6 +263,7 @@ Q_Event001_59_MES#0,"""All ARKS are instructed to prepare for a large-scale supp
 RD_Event058_MES#0,"""Contacting everyone. We have confirmed reports that Dark Falz [Loser] has appeared in Omega. Please prepare yourselves and sortie as soon as possible."""
 RD_Event059_MES#0,"""Emergency broadcast. We have reports that Dark Falz [Loser] has appeared in Omega. Sortie immediately and defeat this threat."""
 RD_Event060_MES#0,"""The threat of Dark Falz has subsided. Thank you for your cooperation with the operation."""
+RD_Event061_MES#0,"""撃退したはずのダークファルス【敗者】が活動を再開した模様だ。特定条件を満たしたアークスに向けて、撃退作戦を展開したから改めて撃退作戦に参加してほしい。"""
 R_Event001_MES#0,"""We will be holding Interrupt Rankings starting at <%TSE_OpenLimetTime>. Be sure to participate!"""
 R_Event002_MES#0,"""We are currently holding Time Attack Rankings. The current quest is [<%TSE_TA_Quset_Name> - <%TSE_TA_Quset_Difficulty>]. The competition will end at <%TSE_EndTime>. The target quest will give out increased experience, along with bonus clear meseta!"""
 R_Event003_MES#0,"""Time Attack ranking has been completed."""
