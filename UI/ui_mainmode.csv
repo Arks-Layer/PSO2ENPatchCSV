@@ -2392,7 +2392,7 @@ FieldRemain#1,"""Briefly maintains field effects for characters who leave a fiel
 JetBootsEscape#1,"""When jet boots are equipped, makes you invincible during normal attacks and PA activation. <yellow>Main class only.<c>"""
 JetBootsGearBoost#1,"""Increased gear gauge fill rate while using Jet Boots with Shifta or Deband applied. <yellow>Main class only.<c>"""
 OnemoreJump#1,"""Gain another jump after hitting an enemy during a double jump. Requires Jet Boots Gear. <yellow>Main class only.<c>"""
-DodgeAutoField#1,"""Using Mirage Step will activate your field skills. Cooldowns will not apply. <yellow>Main class only.<c>"""
+DodgeAutoField#1,"""Using Mirage Step will activate your field skills. Cooldown will not apply. <yellow>Main class only.<c>"""
 BouncerHighLevelBonus#1,"""Grants a bonus to all damage you deal"""
 SummonerMirageEscape#1,"""Distorts light to become invincible while moving a fixed distance."""
 SummonerJustReversal#1,"""Jump when knocked down or blown away to quickly recover."""
