@@ -3114,7 +3114,7 @@ Castt2tonecolorMessage#0,"""種族キャストでツートーンカラー対応�
 CastSyncToast#0,"""ヒト型とキャスト型の体型が自動同期されました。"""
 Message#1,"""1度、ストーリークエスト・序章をクリアしていると<br>序章をスキップして、EPISODE4が開始できます。<br><br>「はい」を選ぶと序章をスキップします。<br>序章をスキップして、EPISODE4を開始しますか？"""
 Message_Playgo#0,"""ストーリークエスト・序章をスキップしますか？<br><br><yellow>ダウンロードが完了していない場合、<br>タイトル画面に戻ります。<c>"""
-Message_ep5#0,"""現在、オラクル船団の世界では<br>【EPISODE５】の時間が流れています。<br><br>そして、あなたはこれから<br>過去の世界に少し触れた後<br>【EPISODE５】の時間へと移動します。"""
+Message_ep5#0,"""現在、オラクル船団の世界では<br>【EPISODE5】の時間が流れています。<br><br>そして、あなたはこれから<br>過去の世界に少し触れた後<br>【EPISODE5】の時間へと移動します。"""
 Help#2,"""Por favor, introduzca un nombre de archivo para guardar."""
 Input#5,"""Introduzca el nombre y haga clic en [Confirmar]"""
 MenuName#7,"""Crear preajuste."""
