@@ -180,6 +180,7 @@ SubScoreOrderKillEnemyWeakPoint#0,"""<yellow>Derrota $(2) enemigos $(0)$(1) en s
 SubScoreOrderBreakParts#0,"""<yellow>Rompe $(2) partes enemigas $(0)$(1) """
 SubScoreOrderMaxDamage#0,"""<yellow>$(0)$(1) Infringir $(3) daño $(2) veces."""
 SubScoreOrderPlayerDead#0,"""<yellow>$(0) $(1) No muera más de $(2) veces."""
+ToastDarkerBlastRecovery#0,"""ダークブラストの使用回数が回復！"""
 QuestSuccess#0,"""/face2 Por favor, regresa de inmediato."""
 QuestFailure#0,"""/face4 No se puede evitar, vuelve。"""
 QuestSuccess#1,"""Permiso para regresar concedido. <br>ya puedes volver."""
