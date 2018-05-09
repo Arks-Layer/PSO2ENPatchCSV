@@ -180,6 +180,7 @@ SubScoreOrderKillEnemyWeakPoint#0,"""<yellow>$(0)$(1)弱点部位を突いてエ
 SubScoreOrderBreakParts#0,"""<yellow>$(0)$(1)エネミーの部位を合計$(2)箇所破壊せよ"""
 SubScoreOrderMaxDamage#0,"""<yellow>$(0)$(1)エネミーに$(3)以上のダメージを$(2)回与えろ"""
 SubScoreOrderPlayerDead#0,"""<yellow>$(0)$(1)$(2)回以上戦闘不能になるな"""
+ToastDarkerBlastRecovery#0,"""ダークブラストの使用回数が回復！"""
 QuestSuccess#0,"""/face2 そのまま帰還してください。"""
 QuestFailure#0,"""/face4 仕方がありません、帰還を。"""
 QuestSuccess#1,"""帰還許可が下りた。戻ってこい。"""
