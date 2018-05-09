@@ -5202,7 +5202,7 @@ item_DamageZeroUp_1#1,"""Fixed probability of<br>nullifying damage."""
 item_DamageZeroUp_2#1,"""Fixed probability of<br>nullifying damage."""
 item_DamageZeroUp_3#1,"""Fixed probability of<br>nullifying damage."""
 item_DamageZeroUp_4#1,"""Fixed probability of<br>nullifying damage."""
-item_DamageZeroUp_5#1,"""Fixed probability of<br>nullifying damage."""based on the Dark Blast
+item_DamageZeroUp_5#1,"""Fixed probability of<br>nullifying damage."""
 item_ItemHealUp1_1#1,"""Boosts the effect of<br>recovery items by 12%."""
 item_ItemHealUp1_2#1,"""Boosts the effect of<br>recovery items by 16%."""
 item_ItemHealUp1_3#1,"""Boosts the effect of<br>recovery items by 20%."""
