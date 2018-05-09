@@ -180,7 +180,7 @@ SubScoreOrderKillEnemyWeakPoint#0,"""<yellow>Defeat $(2) enemies $(0)$(1) from t
 SubScoreOrderBreakParts#0,"""<yellow>Break $(2) enemy $(0)$(1)parts."""
 SubScoreOrderMaxDamage#0,"""<yellow>$(0)$(1)Deal $(3) damage $(2) times."""
 SubScoreOrderPlayerDead#0,"""<yellow>$(0)$(1)Don't die more than $(2) times."""
-ToastDarkerBlastRecovery#0,"""ダークブラストの使用回数が回復！"""
+ToastDarkerBlastRecovery#0,"""Number of Dark Blast uses recovered!"""
 QuestSuccess#0,"""/face2 Please return without delay."""
 QuestFailure#0,"""/face4 It can't be helped, come back."""
 QuestSuccess#1,"""Permission to return has been <br>granted. You may come back."""
