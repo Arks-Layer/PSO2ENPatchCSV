@@ -11,3 +11,5 @@ NpcComOnBegin#3,"""Notificación de emergencia.<br>Se detectan reacciones fuerte
 NpcComOnSuccess#3,"""Se han ido las presencias enemigas.<br>Su misión se ha completado."""
 NpcComOnBegin#4,"""¡Aviso de emergencia! ¡Se confirmó una fuerte presencia enemiga!<br>¡Date prisa por favor!."""
 NpcComOnSuccess#4,"""敵性反応、消失確認！<br>お見事です！"""
+NpcComOnBegin#5,"""緊急通達です！<br>強力な敵性反応を確認しました！<br>急ぎ対処をお願いします！"""
+NpcComOnSuccess#5,"""敵性反応、消失確認！<br>お見事です！"""
