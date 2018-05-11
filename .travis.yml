@@ -9,7 +9,7 @@ cache:
 
 addons:
   apt:
-    update: false
+    update: true
     packages:
     - parallel
     - jq
@@ -17,7 +17,7 @@ addons:
 script:
   - ./_sh/dupfolders.sh
   - ./_sh/dupfiles.sh
-  - git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git > /dev/null
+  - git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git 2> /dev/null
   - ./_sh/UTF8.sh
   - ./_sh/EOL.sh
   - ./_sh/BOM.sh
