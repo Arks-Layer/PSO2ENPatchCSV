@@ -186,4 +186,4 @@ SelectedForm_Error_Premium#0,"""<pict Arcscash><c ff4f3f>Contenido de Arks Cash<
 Title#0,"""シンボルアート選択"""
 Title_Monitor#0,"""シンボルアートモニター"""
 Close_Title#0,"""Confirmación"""
-Close_Exp#0,"""選択したシンボルアートを表示します。<br>¿Seguro que quieres?<br><br>※選択していない場合、<br>シンボルアートは表示されません。"""
+Close_Exp#0,"""選択したシンボルアートを表示します。<br>よろしいですか？<br><br>※選択していない場合、<br>シンボルアートは表示されません。"""
