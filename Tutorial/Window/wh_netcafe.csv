@@ -1,2 +1,2 @@
-name01#0,"""ネットカフェカウンターについて"""
-whelp_netcafe01#0,"""<yellow>【ネットカフェカウンターについて】<c><br><br>\u3000公認ネットカフェから接続していると使用できるメセタショップと<br>\u3000ネットカフェから遊ぶことで得られるカフェポイントを使用する<br>\u3000ショップが利用できます。<br>\u3000<br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
+name01#0,"""The NetCafe Counter"""
+whelp_netcafe01#0,"""<yellow>About the NetCafe Counter<c><br><br>This is a Meseta shop that can only be used when connected from an authorised NetCafe. There is also a shop that takes Cafe Points, which you earn by playing at a NetCafe.<br><br>[Link to online manual]<br><&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
