@@ -234,7 +234,7 @@ TacticsAttack#3,"""私に狙われる価値が<br>あるとも思えませんが
 Avoid#3,"""無駄ですよ"""
 HealSelf#3,"""惜しかったですね"""
 BuffSelf#3,"""戦闘準備は抜かりなく"""
-HealOther#3,"""¿Estas bien?"""
+HealOther#3,"""¿Estás bien?"""
 BuffOther#3,"""油断しないでください"""
 QuestStart1#3,"""Empecemos..."""
 QuestStart2#3,"""<%me>様<br>よろしくお願いします"""
