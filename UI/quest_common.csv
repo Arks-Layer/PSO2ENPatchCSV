@@ -972,7 +972,7 @@ OnDefencePhase3Start1#0,"""Another strong signal detected from<br>the Devil Cast
 OnAttackPhase1Start0#0,"""Buster Pile summoned!<br>Escort the Buster Pile towards the<br>Devil Barrier!"""
 OnAttackPhase1Start1#0,"""Buster Pile summoned!<br>Escort the Buster Pile towards the<br>remaining barriers!"""
 OnAttackPhase1Start2#0,"""Summoned the Buster Pile!<br>Let's break these barriers!"""
-OnAttackPhase2Start0_0#0,"""Devil Barriers have been destroyed! Now<br>let's take down the Devil Castle,<br>starting with the core on its stomach!"""
+OnAttackPhase2Start0_0#0,"""Devil Barriers have been destroyed! Now let's take down the Devil Castle, starting with the core on its stomach!"""
 OnAttackPhase2Start0_1#0,"""The Devil Castle is firing lasers towards the Buster Towers over time! Destroy the core as soon as possible!"""
 OnAttackPhase3Start0_0#0,"""Move towards the center of the<br>Devil Castle to begin attacking it!"""
 OnAttackPhase3Start0_1#0,"""The Devil Castle is firing its<br>lasers towards our towers!<br>Hurry and destroy it!"""
