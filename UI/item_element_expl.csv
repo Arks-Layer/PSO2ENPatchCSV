@@ -949,7 +949,7 @@
 351#0,"""-"""
 352#0,"""Every 4 seconds<br>recover 10 PP."""
 353#0,"""-"""
-354#0,"""Gain a 3% damage<br>bonus every 30<br>seconds when<br>450,000 total damage<br>has been dealt."""
+354#0,"""Gain a 3% damage<br>bonus for 30<br>seconds every<br>450,000 total damage<br>has been dealt."""
 355#0,"""Recover 4% HP every<br>30 seconds each time<br>you take 600 total<br>damage."""
 356#0,"""Reduces damage taken<br>by 8% and generates<br>a barrier that appears<br>and disappears every<br>20 second intervals."""
 357#0,"""Upon a successful<br>Just Guard, reduce PP<br>consumption for 20<br>seconds."""
