@@ -178,6 +178,8 @@ D_Event013_MES#0,"""Emergency broadcast! Sebuah permintaan untuk berpartisipasi 
 D_Event014_MES#0,"""Yo ARKS! Aku Polytan! Aku telah meminjam Area VR-mu dan membuat sebuah quest! Harap ikut ketika sudah tersedia!"""
 D_Event015_MES#0,"""Polytanland telah dibuka! Kamu dapat mengikuti melalui quest counter!"""
 D_Event016_MES#0,"""Terima kasih untuk datang pada Polytanland hari ini! Kunjungi lagi nanti yaa~"""
+D_Event017_MES#0,"""現在、ＶＲ空間にて全アークス一斉参加の特殊訓練を準備中です。"""
+D_Event018_MES#0,"""緊急任務発生。全アークス一斉参加による特殊訓練実施中。アークス各員はクエストカウンターより、任務への参加を。"""
 LS_Event001_MES#0,"""Kami sedang menyelenggarakan sebuah konser di Shop Area segera! Kami harap bisa melihat kalian semua di sana!"""
 LS_Event002_MES#0,"""Sebuah konser sedang berlangsung di Shop Area! Jangan ketinggalan!"""
 LS_Event003_MES#0,"""Terima kasih telah mendengarkan~ Hingga kita bertemu lagi, ini dia tanda tangan Quna!"""
