@@ -178,6 +178,8 @@ D_Event013_MES#0,"""緊急任務発生。全アークス一斉参加の特殊作
 D_Event014_MES#0,"""アークスのみんな！\u3000オレはポリタン！\u3000ＶＲ空間を借りてクエストを作ったぞ。もうすぐ開園だから参加してくれよっ！"""
 D_Event015_MES#0,"""ポリタンランドの開園だっ！\u3000クエストカウンターから参加出来るからぜひ参加してくれよなっ！"""
 D_Event016_MES#0,"""今日はポリタンランドに遊びに来てくれてありがとう！\u3000また次があれば参加してくれよなっ！"""
+D_Event017_MES#0,"""現在、ＶＲ空間にて全アークス一斉参加の特殊訓練を準備中です。"""
+D_Event018_MES#0,"""緊急任務発生。全アークス一斉参加による特殊訓練実施中。アークス各員はクエストカウンターより、任務への参加を。"""
 LS_Event001_MES#0,"""Wir halten bald ein Konzert auf dem Shoppingdeck und freuen uns darauf, euch alle dort zu sehen!"""
 LS_Event002_MES#0,"""Auf dem Shoppingdeck ist ein Konzert im Gange! Nicht verpassen!"""
 LS_Event003_MES#0,"""Vielen Dank an alle fürs Zuhören! Bis zum nächsten Mal, Quna meldet sich ab!"""
