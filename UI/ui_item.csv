@@ -8591,7 +8591,7 @@ ring_SpecialEffectHr#1,"""Effort Symbol Hero<br>A badge signifying experience as
 ring_SpecialEffectCo#1,"""Friends' Protection<br>Ring of friendship for Itsuki and RINA.<br>Reduces damage."""
 ring_TecArtsJAPPSave#1,"""Tech Arts JA PP Save/Ring<br>Reduces PP costs when performing<br>consecutive Just Attacks of PAs/Techniques."""
 ring_HighJump#1,"""Jumping Dodge<br>When used from the subpalette, uses<br>a high jump to avoid enemy attacks."""
-ring_AnyTimeAutoAttack#1,"""Near Auto Target<br>Pet will attack the nearest enemy to the<br>player with one wave of the takt."""
+ring_AnyTimeAutoAttack#1,"""Near Auto Target<br>One takt swing causes your pet to automatically<br>attack whichever enemy you have targeted."""
 ring_PhotonBladeHoming#1,"""Photon Blade Homing<br>Adds a homing ability to Photon Blade<br>attacks."""
 ring_ZondielDisable#1,"""Peace Zondeel<br>Disables Zondeel's explosion."""
 ring_SlowShiftActionFi#1,"""Slow Fighter Action<br>Extends the duration and reduces<br>the speed of Fighter weapon actions."""
