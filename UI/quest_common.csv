@@ -1181,6 +1181,6 @@ MissionOrderPlayerHeal_Forward#0,"""<yellow>\""Plus\"" $(0)$(1)Receive a recover
 MissionOrderPlayerHeal_Backward#0,"""<c 00ff00>\""Minus\"" $(0)$(1)回復効果を受けるな"""
 MissionOrderPlayerHeal_None#0,"""<c ff4f3f>\""Success\"" $(0)$(1)回復効果を受けるな"""
 MissionClearBonus#0,"""\""MISSION $(0)\"" Order Succeeded! Time extended by $(2) seconds, Score increased by $(1) points."""
-ToastEnterIntervalClient#1,"""インターバルエリア到着！ 制限時間+$(0)秒獲得！"""
+ToastEnterIntervalClient#1,"""You've arrived at the Interval Area! Time has been extended by $(0) seconds!"""
 ProgIATitle#0,"""次のエリアへの転送まであと"""
 ProgIAForceMoveTitle#0,"""インターバルエリアへの転送まであと"""
