@@ -96,7 +96,7 @@ CantBasnetSupportPartyJoinGradeError#0,"""No puede unirse al grupo o<br>aceptar 
 CantStartQuestNotExpertParty#0,"""エキスパートの条件を満たしていないため<br>クエストを受注できません。<br><br>※エキスパート条件は<br>\u3000クエストカウンターのマッチング設定から<br>\u3000「エキスパート対象のプレイヤーとのみ組む」で<br>\u3000必要な称号をご確認ください。"""
 CantStartProhibitQuestDropTitleCnt#0,"""Terminal de misiones"""
 CantStartProhibitQuestDropTitleTlp#0,"""Transportador"""
-CantStartProhibitQuestDropForStart#0,"""現在使用することができません。"""
+CantStartProhibitQuestDropForStart#0,"""No puede ser usado por ahora."""
 CantStartQuest_ExpertSetting_Disable#0,"""エキスパートの条件を満たしていないため<br>クエストを受注できません。<br><br>※エキスパート条件は<br>\u3000クエストカウンターのマッチング設定から<br>\u3000「エキスパート対象のプレイヤーとのみ組む」で<br>\u3000必要な称号をご確認ください。"""
 Title#1,"""Asesor de Misiones"""
 TitleCampship#1,"""Terminal de misiones"""
