@@ -1487,7 +1487,7 @@ Wind07#1,"""Técnica avanzada de Viento.<br>Manipulates atmospheric pressure to 
 Light01#1,"""Técnica basica de luz.<br>Cristaliza los photones, produciendo flechas de<br>luz que caen sobre el objetivo"""
 Light02#1,"""Técnica intermedia de luz.<br>Crystallize photons to form a single lance of light that is fired forward."""
 Light03#1,"""Técnica intermedia de luz.<br>Crystallize photons to form a single lance of light that is fired forward."""
-Light04#1,"""Técnica de sanación.<br>Cura las heridas y recupera el HP Con energia<br>Photonica."""
+Light04#1,"""Técnica de sanación.<br>Cura las heridas y recupera el HP Con energia<br>Fotonica."""
 Light05#1,"""Técnica de luz.<br>Que elimina los estados anomalos atraves de los<br>efectos purificativos de los photones remueve los contaminantes del cuerpo."""
 Light06#1,"""Técnica avanzada de luz.<br>Crea una extremely dense sphere of light which<br>automatically reacts to enemies."""
 Light07#1,"""Técnica avanzada de luz.<br>Cristaliza los photones en fragmentos de luz<br>que persige los objetivos y explota."""
