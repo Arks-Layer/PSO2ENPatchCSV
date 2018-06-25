@@ -1,7 +1,7 @@
 IncidentName#0,"""リリーパ族を護衛せよ！"""
 TrialBeginMsg#0,"""Proteger a los Lillipans peligro de extinción!"""
 TrialAbstract#0,"""Proteger a los Lillipans peligro de extinción!"""
-NpcComOnBegin#0,"""¡Oh no! Ha volado...<br> Uno de ellos ha regresado, pero...<br>¿Donde está la otra...?"""
+NpcComOnBegin#0,"""¡Oh no! Ha volado...<br> Uno de ellos ha regresado, pero...<br>¿Donde está la otra?..."""
 NpcComOnAfterBegin#0,"""Parece que está buscando a alguien.<br> Ayudemosle!"""
 NpcComOnFirstPoint#0,"""Me pregunto si sabe donde estan<br>sus amigos? debes continuar<br>con el."""
 NpcComOnPinch#0,"""Enemigo aproximandose a los Lillipans!<br>Por favor ayudales!"""
