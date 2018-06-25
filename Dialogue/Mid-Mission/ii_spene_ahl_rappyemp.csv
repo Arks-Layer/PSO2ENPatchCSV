@@ -16,3 +16,6 @@ NpcComOnSuccess#3,"""巨大反応の撤退を確認。<br>皆さんの適切な�
 NpcComOnPreBegin#4,"""Please be careful!<br>A strange heat source has been detected!"""
 NpcComOnBegin#4,"""うわあ……なんかすごいのが……<br>敵意は無さそうですが、危ないですし<br>撃退してしまいましょう！"""
 NpcComOnSuccess#4,"""何をしに来たのかは不明ですが……<br>任務外で会いたかったですね。<br>ともかく、お疲れさまでした！"""
+NpcComOnPreBegin#5,"""周辺、警戒してください！<br>不審な反応があります！"""
+NpcComOnBegin#5,"""うわあ……なんかすごいのが……<br>敵意は無さそうですが、危ないですし<br>撃退してしまいましょう！"""
+NpcComOnSuccess#5,"""何をしに来たのかは不明ですが……<br>任務外で会いたかったですね。<br>ともかく、お疲れさまでした！"""
