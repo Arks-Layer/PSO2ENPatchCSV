@@ -27,7 +27,7 @@ DewmanMaleExplanation#0,"""[Dewman Hombre]<br> Una raza basada de humanos creado
 HumanFemaleExplanation#0,"""[Humana Mujer]<br> habilidades equilibradas permiten una gran adaptabilidad en cualquier entorno.<br> Fisicamente fuerte y capaz de utilizar los photones,<br> es rica en versatilidad y puede adaptarse a cualquier clase."""
 NewmanFemaleExplanation#0,"""[Newman Mujer]<br> fuertemente adaptada a la manipulación de los photones.<br> Delicada y fragil,<br> pero muestra una gran habilidad en la clase Force."""
 CastFemaleExplanation#0,"""[Cast Mujer]<br> Tipo maquina, maquina resistente.<br> Muestra un gran potencial, tanto de corto alcance y<br> combate por arma de fuego, pero es pobre usando photones."""
-DewmanFemaleExplanation#0,"""[Dewman Mujer]<br> una Raza basada en humanos creados a partir de la<br>investigación de photones.<br> Caracterizado por un par de cuernos en la frente,<br> se especializan en ataques fotonicos. Su defensa es algo baja,<br> se compensa esa deficiencia con el poder de ataque"""
+DewmanFemaleExplanation#0,"""[Dewman Mujer]<br> una Raza basada en humanos creados a partir de la<br>investigación de photones.<br> Caracterizado por un par de cuernos en la frente,<br> se especializan en ataques photonicos. Su defensa es algo baja,<br> se compensa esa deficiencia con el poder de ataque"""
 Confirm#0,"""¿Esta seguro que desea cancelar y Regresar a la pantalla del titulo?"""
 Confirm_offline#0,"""volvera al titulo y perdera la creación de personaje.<br>¿Seguro que quieres?"""
 MenuName#0,"""Raza/selección de genero"""
