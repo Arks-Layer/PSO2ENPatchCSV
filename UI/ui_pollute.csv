@@ -191,7 +191,7 @@ ColorSetting_Confirm_Exit#0,"""Color has been edited.<br>If you exit now, your c
 ColorSetting_Confirm_Decide#0,"""Color has been edited.<br><br>Is that alright?"""
 ColorSetting_Confirm_Reset#0,"""This will undo all changes.<br><br>Is that alright?"""
 ColorSetting_Confirm_Reset2#0,"""This will undo an edit.<br><br>Is that alright?"""
-ColorSetting_Toast_Changed#0,"""You have changed your Dark Blast color."""
+ColorSetting_Toast_Changed#0,"""Settings changed."""
 ColorSetting_Toast_Reset#0,"""Reset to default colors."""
 Style_RadioItem_0#1,"""Original display"""
 Style_RadioItem_1#1,"""Aura display"""
