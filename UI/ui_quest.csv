@@ -269,7 +269,7 @@ RD_Event061_MES#0,"""撃退したはずのダークファルス【敗者】が�
 RD_Event062_MES#0,"""***"""
 RD_Event063_MES#0,"""***"""
 RD_Event064_MES#0,"""***"""
-RD_Event065_MES#0,"""緊急警報発令。月および地球にてエーテルの異常励起を検知。現在、作戦準備中です。"""
+RD_Event065_MES#0,"""Emergency broadcast. Abnormal Ether activity has been detected on the Moon and on Earth. Military preparations are underway."""
 R_Event001_MES#0,"""We will be holding Interrupt Rankings starting at <%TSE_OpenLimetTime>. Be sure to participate!"""
 R_Event002_MES#0,"""We are currently holding Time Attack Rankings. The current quest is [<%TSE_TA_Quset_Name> - <%TSE_TA_Quset_Difficulty>]. The competition will end at <%TSE_EndTime>. The target quest will give out increased experience, along with bonus clear meseta!"""
 R_Event003_MES#0,"""Time Attack ranking has been completed."""
