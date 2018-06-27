@@ -705,7 +705,7 @@ HintPolluteOthersOff#0,"""The appearance of other players' Dark Blasts will be b
 HintPolluteOthersOnHito#0,"""Other players' Dark Blasts will always appear as Dark Blast Auras.<br>On PC, this only applies when \""Drawing/Shader Quality\"" is not set to \""Simple\""."""
 HintPolluteOthersOnDarker#0,"""-"""
 RadioButtonPolluteOthersOff#0,"""Other player's choice"""
-RadioButtonPolluteOthersOnHito#0,"""常にオーラ表示にする"""
+RadioButtonPolluteOthersOnHito#0,"""Always display as Aura type"""
 RadioButtonPolluteOthersOnDarker#0,"""-"""
 DetailPolluteOthers#0,"""-"""
 title#0,"""Choose Primary Input Method"""
