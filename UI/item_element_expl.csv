@@ -739,7 +739,7 @@
 140#2,"""-"""
 141#2,"""Boosts damage by 3%<br>while HP is 80% or more."""
 142#2,"""-"""
-143#1,"""Recovers PP by 15%<br>when taking damage."""
+143#2,"""Recovers PP by 15%<br>when taking damage."""
 144#1,"""-"""
 145#1,"""Increases critical<br>rate by 15%."""
 146#1,"""Increases critical<br>rate by 12%."""
