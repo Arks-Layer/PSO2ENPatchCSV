@@ -19,7 +19,7 @@ NpcCom02#0,"""作戦、完了です！<br>素晴らしい活躍でしたね！<b
 NpcCom03#0,"""作戦完了です。<br>損害もありましたが、許容範囲です。<br>帰還してください。"""
 NpcCom04#0,"""作戦完了です、が、被害も大きいです。<br>とはいえ、なんとかなったので<br>これぐらいは必要経費ですね。"""
 NpcCom05#0,"""これにて作戦完了となります。<br>次回作戦では、防衛に貢献できるよう<br>もっともーっと頑張りましょうね！"""
-NpcCom06#0,"""I've confirmed a strong enemy reaction. Everyone, be careful!"""
+NpcCom06#0,"""I've confirmed a strong enemy reading. Everyone, be careful!"""
 NpcCom07#0,"""The $(0) base is being attacked! Please defend it!"""
 NpcCom08#0,"""The $(0) base is on the verge of destruction! Please head over there and defend it before it's too late!"""
 NpcCom09#0,"""この反応は……！<br>注意してください！<br>ダーカーが強化されています！"""
