@@ -1,4 +1,4 @@
 text01#0,"""¡Gracias por recibir la orden!"""
-text02#0,"""¡Es una orden para recoger siertos objetos!<br>Puede ser problemático,<br>¡Pero gracias!"""
-text01#1,"""Ya puedes comenzar.<br>Muchas gracias."""
-text02#1,"""¡Esta será una orden para recoger siertos objetos!<br><br><br>Gracias por su ayuda."""
+text02#0,"""¡Es una orden para recoger ciertos objetos!. Puede ser problemático...<br>¡Pero gracias!"""
+text01#1,"""Ya puedes comenzar,<br>muchas gracias."""
+text02#1,"""¡Esta será una orden para recoger ciertos objetos!<br><br><br>Gracias por su ayuda."""
