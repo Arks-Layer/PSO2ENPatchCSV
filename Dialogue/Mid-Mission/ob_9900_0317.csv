@@ -28,7 +28,7 @@ DropHelpItem#1,"""¡Aquí están los suministros que ustedes estuvieron esperand
 DropEnemy#1,"""Esos suministros fueron sorprendentemente pesados..."""
 Shooting#1,"""Se ve desagradable ahí abajo pero, ¡Nunca tengas miedo! ¡Te tengo cubierto!"""
 FallMessage#1,"""Tch, ¡Lo arruiné! ¡Aterrizaje de emergencia!"""
-RequestDefense#1,"""Oigan, ¿tienen un minuto de sobra? ¿Pueden cubrirme la espalda mientras hago algunas reparaciones?..."""
+RequestDefense#1,"""Oigan, ¿Tienen un minuto de sobra? ¿Pueden cubrirme la espalda mientras hago algunas reparaciones?..."""
 RequestDefense2#1,"""¡Hey hey hey! ¡Estoy en problemas! ¡Tengo que repararla! ¡Cúbreme!"""
 EnemyFront#1,"""¡Vienen desde el frente!, ¡Cuidado!"""
 EnemyRight#1,"""¡Vienen de la derecha!, ¡Cuidado!"""

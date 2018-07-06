@@ -216,7 +216,7 @@ DestroyEnemy3#2,"""¡E-Estas lecturas! ¡Algo se acerca!<br>... Probablemente...
 EscapeEnemy1#2,"""/face2 調査対象の反応びんびんです！<br>これは来ちゃう！\u3000来ちゃうかも！"""
 EscapeEnemy2#2,"""/face2 おおっ、これはいいですよー！<br>調査対象の反応があります！"""
 EscapeEnemy3#2,"""/face2 いーい反応出てますよー！<br>調査対象さん、そのまま来て－！"""
-DestroyBoss1#2,"""Wow, ¡que increible fuente de<br>calor! P-Por favor, ten cuidado!"""
+DestroyBoss1#2,"""Wow, ¡Que increible fuente de<br>calor! P-Por favor, ten cuidado!"""
 DestroyBoss2#2,"""¿Que... que son estas lecturas?<br> ¡Son extremadamente... Calientes...!"""
 DestroyBoss3#2,"""Esta fuente de calor es muy rara!<br> por favor Ten mucho cuidado"""
 DefenceAllyAPC1#2,"""Hmm... ¿Qué es esto? está señal...<br>Hay alguien cerca, posiblemente?"""
