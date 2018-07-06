@@ -2875,7 +2875,7 @@ SkillTreeAddTicket#0,"""<pict Arcscash><c 5fdf00>¿Te gustaría usar el<c><br><y
 SkillTreeResetPath#0,"""<pict Arcscash> <c ff4f3f>Contenidos de Consumo AC<c><br><yellow>「追加ツリー振り替えパス」<c>の<br>購入確認画面に進みますか？<br><br>振り替え前\u3000\u3000/ $(1) 用スキルツリー<br>振り替え後\u3000\u3000/ $(0) 用スキルツリー<br><br>（所持数：$(2)）"""
 SkillTreeResetPathSG#0,"""<pict StarGem><c 1dedd7>Contenido de SG<c><br>Continuar con la confirmación de compra<br>Pantalla para <yellow>[Additional Tree Reset Pass]<c>?<br><br>Antes de restablecer / $(1) Skill Trees<br>Después de restablecer / $(0) Skill Trees<br><br>(Actual: $(2))"""
 SkillTreeResetTicket#0,"""<pict Arcscash><c 5fdf00>購入済アイテムの使用<c><br><yellow>「追加ツリー振り替えパス」<c>を使用し、<br>スキルツリーを振り替えますか？<br><br>振り替え前\u3000\u3000/ $(1) 用スキルツリー<br>振り替え後\u3000\u3000/ $(0) 用スキルツリー<br><br>（所持数：$(2)）"""
-SkillTreeResetTicketSG#0,"""<pict StarGem><c 5fdf00>Uso de objeto adquiridos<c><br>Utilice un<yellow>[Additional Tree Reset Pass]<c><br>¿restablecer el árbol de habilidades?<br><br>Antes de restablecer / $(1) Skill Trees<br>Después de restablecer / $(0) Skill Trees<br><br>(Actual: $(2))"""
+SkillTreeResetTicketSG#0,"""<pict StarGem><c 5fdf00>Uso de objeto adquiridos<c><br>Utilice un<yellow>[Additional Tree Reset Pass]<c><br>¿Restablecer el árbol de habilidades?<br><br>Antes de restablecer / $(1) Skill Trees<br>Después de restablecer / $(0) Skill Trees<br><br>(Actual: $(2))"""
 SkillTreeExplain#0,"""<c f0df60>Skill points(SP)を消費して、クラススキルを習得できます。SPはレベルアップ時に獲得できます。<%NextTabDetails><c f0df60>で詳細を確認できます。<c>"""
 SkillTreeExplain_v#0,"""<c f0df60>Skill points(SP)を消費して、クラススキルを習得できます。SPはレベルアップ時に獲得できます。<c>"""
 SkillTreeAddExplain#0,"""<c f0df60>Aquí puedes comprar o usar [Skill Tree Add Tickets] para añadir árboles de habilidad.<c>"""
