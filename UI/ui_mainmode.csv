@@ -521,7 +521,7 @@ BlackList_Error_Default#0,"""No se ha podido procesar,,<br>ha ocurrido un error.
 BlackList_Result_Add#0,"""Agregaste a $(0) a tu lista negra."""
 BlackList_Result_Remove#0,"""Has retirado a $(0) de tu lista negra."""
 BlackList_Add_Title#0,"""Agregar a lista negra"""
-BlackList_Add_Exp#0,"""Cuando alguien está en lista negra,<br>ya no recibira cierta comunicaciones<br>(invitaciones de grupo,correos,y chatear).<br><br>※ Puedes desbloquear las personas en cualquier momento.<br><br>¿seguro que deseas bloquear a está persona?"""
+BlackList_Add_Exp#0,"""Cuando alguien está en lista negra,<br>ya no recibira cierta comunicaciones<br>(invitaciones de grupo,correos,y chatear).<br><br>※ Puedes desbloquear las personas en cualquier momento.<br><br>¿Seguro que deseas bloquear a está persona?"""
 BlackList_Result_Unknown#0,"""No se ha podido procesar,<br>ya que se produjo un error.<br><br>[No.1025]"""
 BlackList_Error_TooMany#0,"""No se puede agregar mas gente a la lista negra."""
 FriendList_Error_MailErr#0,"""No se ha podido procesar,<br>ya que se produjo un error.<br><br>[No.1026]"""

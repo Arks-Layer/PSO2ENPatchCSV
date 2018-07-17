@@ -107,7 +107,7 @@ IncidentJsApcSuccess#21,"""/ci2 2 ...De todos modos, tienes mis agradecimientos.
 IncidentJsApcFailure#21,"""Me he sobreestimado...<br>tendre que retirarme."""
 IncidentJsApcBeginEvo#20,"""/ci5 2 ...Esta presencia.<br>Tsk, Algo viene!"""
 IncidentJsApcSuccessEvo#21,"""/ci2 2 ...De todos modos, tienes mis agradecimientos."""
-IncidentJsApcBegin#22,"""/mn2 /ci4 3 ¡Capitán!<br>Lo siento, pero ¿podría ayudarme por favor?<br>¡Muchos enemigos aparecieron de la nada!"""
+IncidentJsApcBegin#22,"""/mn2 /ci4 3 ¡Capitán!<br>Lo siento, pero ¿Podría ayudarme por favor?<br>¡Muchos enemigos aparecieron de la nada!"""
 IncidentJsApcSuccess#22,"""/mn15 /ci2 1 De alguna manera los detuvimos...<br>Gracias por su ayuda, capitan!"""
 IncidentJsApcFailure#22,"""/mn7 Uuu... Lo siento...<br>No puedo soportar más..."""
 IncidentJsApcBeginEvo#21,"""わわっ、わわわっ……！<br>なんだか、また出てくる気配が……"""
