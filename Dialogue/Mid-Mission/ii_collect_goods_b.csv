@@ -1,5 +1,5 @@
-IncidentName#0,"""Recoge el objeto con forma de huevo!"""
-TrialBeginMsg#0,"""Recoge el objeto con forma de huevo!"""
+IncidentName#0,"""¡Recoge el objeto con forma de huevo!"""
+TrialBeginMsg#0,"""¡Recoge el objeto con forma de huevo!"""
 TrialAbstract#0,"""Recolectar the hidden egg shaped objects!"""
 ToastPickup#0,"""Has recolectado $(0) $(1) muestras(s)."""
 ToastCollect#0,"""$(0) deposito $(1) muestra(s)."""
