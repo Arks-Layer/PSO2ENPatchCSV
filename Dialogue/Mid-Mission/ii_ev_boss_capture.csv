@@ -1,6 +1,6 @@
 IncidentName#0,"""Captura el $(0)!"""
-TrialBeginMsg#0,"""$(0)を捕獲装置で捕獲せよ！"""
-TrialAbstract#0,"""$(0)を捕獲装置で捕獲せよ！"""
+TrialBeginMsg#0,"""¡Captura a $(0), usando el dispositivo de captura!"""
+TrialAbstract#0,"""¡Captura a $(0), usando el dispositivo de captura!"""
 ToastOnRestTryCaptureNum#0,"""捕獲装置起動可能回数\u3000残り$(0)回。"""
 ToastOnUselessAccess#0,"""現在捕獲装置は起動できない。"""
 NpcComOnBegin#0,"""指令変更です。<br>$(0)を<br>捕獲してください。"""
