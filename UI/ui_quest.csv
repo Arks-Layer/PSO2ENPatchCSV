@@ -269,6 +269,7 @@ RD_Event061_MES#0,"""Parece que Dark Falz [Loser] ha reanudado sus ataques. Todo
 RD_Event062_MES#0,"""連絡だよ。オメガにてダークファルス【若人】の出現予兆が確認されたみたいだ。出撃を要請するから準備をしてほしい。"""
 RD_Event063_MES#0,"""緊急連絡。オメガにてダークファルス【若人】出現が確認された。急ぎ出撃し、撃退にあたってほしい。"""
 RD_Event064_MES#0,"""ダークファルス【若人】の撃退作戦が終了したみたいだね。作戦に協力してくれてありがとう。"""
+RD_Event065_MES#0,"""緊急警報発令。月および地球にてエーテルの異常励起を検知。現在、作戦準備中です。"""
 R_Event001_MES#0,"""Tendremos Rankings de Interrupción comenzando en <%TSE_OpenLimetTime>. ¡Asegúrese de participar!"""
 R_Event002_MES#0,"""En estos momentos estamos realizando Rankings de Time Attack. La misión actual es [<%TSE_TA_Quset_Name> - <%TSE_TA_Quset_Difficulty>]. La competencia terminará en <%TSE_EndTime>. La misión objetivo dará una mayor experiencia, junto con una bonificación de meseta tras completar la misión!"""
 R_Event003_MES#0,"""Ranking Time Attack se ha completado."""
