@@ -269,6 +269,7 @@ RD_Event061_MES#0,"""It seems that Dark Falz [Loser] has regained its strength a
 RD_Event062_MES#0,"""Contacting everyone. We have confirmed reports that Dark Falz [Apprentice] has appeared in Omega. Please prepare yourselves and sortie as soon as possible."""
 RD_Event063_MES#0,"""Emergency broadcast. We have reports that Dark Falz [Apprentice] has appeared in Omega. Sortie immediately and defeat this threat."""
 RD_Event064_MES#0,"""The operation to defeat Dark Falz [Apprentice] has concluded. Thank you for your cooperation with the operation."""
+RD_Event065_MES#0,"""Emergency broadcast. We have detected abnormal readings of Ether coming from the Moon and the Earth. Military preparations are underway."""
 R_Event001_MES#0,"""We will be holding Interrupt Rankings starting at <%TSE_OpenLimetTime>. Be sure to participate!"""
 R_Event002_MES#0,"""We are currently holding Time Attack Rankings. The current quest is [<%TSE_TA_Quset_Name> - <%TSE_TA_Quset_Difficulty>]. The competition will end at <%TSE_EndTime>. The target quest will give out increased experience, along with bonus clear meseta!"""
 R_Event003_MES#0,"""Time Attack ranking has been completed."""
