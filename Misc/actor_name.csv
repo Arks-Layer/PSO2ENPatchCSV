@@ -1510,7 +1510,7 @@ Light03#1,"""Intermediate light technique.<br>Concentrates photons into a lance 
 Light04#1,"""Health restoration technique.<br>Generates a field around the caster that restores an ally's lost health each tick."""
 Light05#1,"""Status ailment cure technique.<br>Generates a field around the caster that removes most status ailments from allies."""
 Light06#1,"""Advanced light technique.<br>Creates an extremely dense sphere of light around the caster. Hits multiple times."""
-Light07#1,"""Advanced light technique.<br>Crystallizes photons with all the colours of the rainbow. Pursues the target and explodes."""
+Light07#1,"""Advanced light technique.<br>Crystallizes photons with all the colors of the rainbow. Pursues the target and explodes."""
 Dark01#1,"""Basic dark technique.<br>Photons are condensed and track the target, exploding on contact."""
 Dark02#1,"""Intermediate dark technique.<br>Summons dark spears to stab a target from all sides. Narrow range but very powerful."""
 Dark03#1,"""Intermediate dark technique.<br>A mass of condensed photons pour from the sky and rain down around the caster."""
