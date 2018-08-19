@@ -2435,7 +2435,7 @@ FigureType_Eye#4,"""<c f0df60>[Humanoid face only] Adjust the shape of the eyes.
 SelectType_Eye#4,"""<c f0df60>[Humanoid face only] Choose a design for the iris.<c>"""
 ColorType_Eye#4,"""<c f0df60>[Humanoid face only] Select an eye iris color.<c>"""
 SelectType_Eyebrow#4,"""<c f0df60>[Humanoid face only] Select a design for eyebrows.<c>"""
-SelectType_EyebrowColor#4,"""<c f0df60>[Humanoid face only] Select a color and thickness for eyebrows. まゆの濃さは左右で1段階、<c><%Decide><pure_pink>＋左右で10段階ずつ調整できます。<c>"""
+SelectType_EyebrowColor#4,"""<c f0df60>【ヒト型フェイス専用】まゆカラーと濃さを設定できます。濃さは左右で1段階、<c><%Decide><pure_pink>＋左右で10段階ずつ調整。<c>"""
 SelectType_Eyelash#4,"""<c f0df60>[Humanoid face only] Select a design for eyelashes.<c>"""
 FigureType_Nose1#4,"""<c f0df60>[Humanoid face only] Adjust the proportions of the nose.<c>"""
 FigureType_Nose2#4,"""<c f0df60>[Humanoid face only] Adjust the shape of the nose.<c>"""
