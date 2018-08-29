@@ -23,7 +23,7 @@ OnDefencePhase1End1#0,"""We'll start the summon and attack the barriers! Collect
 OnDefencePhase1End2#0,"""Buster Pile summoned!<br>Please prepare your assault!"""
 OnAttackPhase1End0#0,"""The Buster Pile has finished and<br>enemy reinforcements have arrived!<br>We predict the enemy will start to<br>target the Buster towers again, so<br>please defend it!"""
 OnAttackPhase1End1#0,"""The Buster Pile has disappeared and<br>the enemy is sending another assault!<br>Protect the Buster towers!"""
-OnAttackPhase1End2#0,"""The Buster Pile is destroyed and<br>once again, the enemy is sending<br>reinforcements! Protect the Buster towers!"""a
+OnAttackPhase1End2#0,"""The Buster Pile is destroyed and<br>once again, the enemy is sending<br>reinforcements! Protect the Buster towers!"""
 OnDefencePhaseEndByTimeOver#0,"""The enemy army has changed its<br>strategy! Watch out! Some of them<br>appear to be kamikaze units!"""
 OnDefencePhaseEnemyDecrease0#0,"""The enemy forces are weakening!<br>Let's take them out!"""
 OnDefencePhaseEnemyDecrease1#0,"""There's only a few of them left!<br>Just a little more!"""
