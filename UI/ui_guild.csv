@@ -399,7 +399,7 @@ confirm_15#0,"""選択したシンボルアートモニターを削除します�
 confirm_16#0,"""$(0)TPを消費して、<br>チーム名を変更します。<br><br>よろしいですか？"""
 confirm_17#0,"""This will unlock your Team Room.<br><br>Do you want to continue?"""
 confirm_18#0,"""This will lock your Team Room.<br><br>Do you want to continue?"""
-confirm_19#0,"""$(0)TPを消費して、<br>チーム専用ショップを使用可能にします。<br><br><yellow>※以下のチームメンバーは<br>\u3000チーム専用ショップの利用や<br>\u3000アイテム付与の対象になりません。<br>\u3000\u3000・入団後7日以内のメンバー<br>\u3000\u3000・30日以上ログインしていないメンバー<c><br><br>よろしいですか？"""
+confirm_19#0,"""Now spending $(0)TP to unlock the Team Shop.<br><br><yellow>※The following kinds of members will be ineligible<br>\u3000to receive items from the Team Shop:<br>\u3000\u3000・Those who joined within the last 7 days<br>\u3000\u3000・Those who have not logged in for over<br>\u3000\u300030 days<c><br><br>Is this OK?"""
 Moving_00#0,"""Base Change Candidate"""
 Moving_01#0,"""Team Room Scenery"""
 success_00#0,"""Team is now Lv.$(0)."""
