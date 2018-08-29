@@ -510,7 +510,7 @@ test#0,"""一二三四五六七八九〇一二三四五六七八九〇一二三�
 TeamShopTitle#0,"""Team Shop"""
 SgShopGuide#0,"""<c f0df60>Please select an item to purchase. Prices will change based on the number of members who buy the item.<c>"""
 TeamShopListTitle#0,"""Goods List"""
-TeamShopListRemarks#0,"""Purchased items will be sent to all eligible members and can be<br>received from the Team Counter. <yellow>Members: $(0) ($(1)% discount)<c><br><red>Members who have not logged on within the last 30 days, or who<br>joined the Team within the last 7 days, are ineligible to<br>receive items.<c>"""
+TeamShopListRemarks#0,"""Purchased items will be sent to all eligible members and can be<br>received from the Team Counter. <yellow>Members: $(0) ($(1)% discount)<c><br><red>Members who have not logged on within the last 30 days, or<br>who joined the Team within the last 7 days, are ineligible to<br>receive items.<c>"""
 Buy#0,"""Buy"""
 Back#1,"""Back"""
 NumberTitle#0,"""Number Owned"""
