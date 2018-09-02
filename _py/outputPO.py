@@ -4,6 +4,7 @@ import codecs
 import csv
 import os
 import sys
+import unicodedata
 
 if len(sys.argv) == 2:
 	sys.exit(os.EX_NOINPUT)
@@ -26,10 +27,27 @@ def poformat(input):
 	return outtext
 
 
+def badcheck(en, wc, powcf, poen, powc):
+	if en == wc:
+		return True
+	if unicodedata.normalize('NFKC', en) == unicodedata.normalize('NFKC', wc):
+		return True
+	if en == powcf:
+		return True
+	if unicodedata.normalize('NFKC', en) == unicodedata.normalize('NFKC', powcf):
+		return True
+	if poen == powc:
+		return True
+	if unicodedata.normalize('NFKC', poen) == unicodedata.normalize('NFKC', powc):
+		return True
+	return False
+
+
 ENcheckForce = False
 err = 0
 if sys.argv[1] == "en":
 	ENcheckForce = True
+itemlist = ["ui_accessories_text", "ui_charamake_parts"]
 for i in sys.argv[2:]:
 	w = i.replace("JP/", "WC/")
 	e = i.replace("JP/", "EN/")
@@ -46,6 +64,9 @@ for i in sys.argv[2:]:
 		#	ENcheck = True
 		#if ENcheck and JPcheck:
 		#	continue
+		skip = False
+		if basename in itemlist:
+			skip = True
 		for x, row in enumerate(JPCSV):
 			ID = row[0]
 			POID = poformat(ID)
@@ -85,13 +106,14 @@ for i in sys.argv[2:]:
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
 				print("msgstr \"\"")
-			elif EN == WC or EN == POWCF or POEN == POWC:
+			elif badcheck(EN, WC, POWCF, POEN, POWC):
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
 				print("msgstr \"\"")
-				print("{}:{} {} \"{}\" =~ \"{}\"".format(basename, x + 1, ID, WC, JP), file=sys.stderr)
-				err = 1
+				if not skip:
+					print("{}:{} {} \"{}\" =~ \"{}\"".format(basename, x + 1, ID, WC, JP), file=sys.stderr)
+					err = 1
 			else:
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))

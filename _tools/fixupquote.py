@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-import csv
 import codecs
+import csv
 import os
 import sys
 
@@ -15,7 +15,7 @@ for i in sys.argv[1:]:
 	with codecs.open(i, mode='r', encoding="utf-8") as QC:
 		try:
 			QCCSV = list(csv.reader(QC, strict=True))
-		except:
+		except Exception:
 			print("Error reading {0}".format(i))
 			sys.exit(os.EX_UNAVAILABLE)
 			break

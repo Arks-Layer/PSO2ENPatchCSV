@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
-import csv
 import codecs
+import csv
 import fnmatch
+import json
 import multiprocessing as mp
 import os
 import sys
-import json
 
 m = mp.Manager()
 gD = m.dict()
@@ -25,6 +25,7 @@ def check(file):
 			if key not in associations:
 				continue
 			oD[oL[associations[key]]] += [line[1]]
+
 
 err = os.EX_OK
 

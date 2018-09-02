@@ -228,4 +228,5 @@ ErrorInheritanceCantGetCost#0,"""Не удалось определить нео
 ErrorInheritancePetKindInvalid#0,"""ペット進化で指定したペットと異なるエッグの種類です。"""
 ErrorInheritanceRarityLack#0,"""ペット進化で指定したエッグのレアリティが不足しています。"""
 ErrorInheritancePotentialInvalid#0,"""ペット進化で指定したエッグのペット能力が間違っています。"""
+ErrorInheritanceColorInvalid#0,"""指定したペット/エッグはカラー変更に対応していません。"""
 ErrorEtc#0,"""Произошла непредвиденная ошибка.<br><br>Неклассифицированная ошибка ($(0))"""
