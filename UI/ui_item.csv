@@ -7691,7 +7691,7 @@ item_PolluteGaugeUp5_4#1,"""Grants a power boost<br>based on the Dark Blast<br>g
 item_PolluteGaugeUp5_5#1,"""Grants a power boost<br>based on the Dark Blast<br>gauge. Increases the<br>Dark Blast charge rate<br>and extends the<br>duration of [Double]<br>form."""
 item_WeaponManeuverSway_1#1,"""Boosts power by 4%.<br>Stops automatic PP<br>regeneration, but<br>recovers PP whenever<br>you evade an attack<br>with Sway or Step."""
 item_WeaponManeuverSway_2#1,"""Boosts power by 6%.<br>Stops automatic PP<br>regeneration, but<br>recovers PP whenever<br>you evade an attack<br>with Sway or Step."""
-item_WeaponManeuverSway_3#1,"""Boosts power by 7%.<br>Stops automatic PP<br>regeneration, but<br>recovers PP whenever<br>you evade an attack<br>with Sway or Step."""
+item_WeaponManeuverSway_3#1,"""Boosts power by 8%.<br>Stops automatic PP<br>regeneration, but<br>recovers PP whenever<br>you evade an attack<br>with Sway or Step."""
 item_WeaponManeuverSway_4#1,"""Boosts power by 10%.<br>Stops automatic PP<br>regeneration, but<br>recovers PP whenever<br>you evade an attack<br>with Sway or Step."""
 item_WeaponManeuverSway_5#1,"""Boosts power by 12%.<br>Stops automatic PP<br>regeneration, but<br>recovers PP whenever<br>you evade an attack<br>with Sway or Step."""
 item_PursuitDamageArea_1#1,"""Boosts power by 5%.<br>Each attack is followed<br>by damage to your<br>surroundings after a<br>short time."""
