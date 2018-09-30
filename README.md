@@ -3,8 +3,11 @@
 </p>
 
 # PSO2 Parche en Español
-Bienvenido al Repositorio CSV del Parche en Español de PSO2.  
-[![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES)
+
+## Bienvenido al Repositorio CSV del Parche en Español de PSO2.
+#### Estado actual segun el ultimo chequeo:   [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES)
+#### De igual manera hay repositorio de **[PSO2es en Español]**
+
 
 ---
 Este repositorio esta dedicado a traducir los textos del juego PSO2 desde el Japones/Ingles al Español.
@@ -50,3 +53,4 @@ Si no sabes Japones, pero aun quieres contribuir, puedes ver los archivos que se
 [Rama en Ingles]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN  
 [Issue]: https://github.com/Arks-Layer/PSO2ENPatchCSV/issues  
 [GitHub Desktop]: https://desktop.github.com
+[PSO2es en Español]: https://github.com/TheBlazter/PSO2es-Translation/
