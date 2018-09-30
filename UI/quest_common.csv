@@ -941,7 +941,7 @@ ToastRecordPC#0,"""Marca un tiempo record para cuatro personas en la versión de
 ToastRecordVita#0,"""Marca un tiempo record para dos personas en la versión de PS Vita."""
 ToastRecordNone#0,"""Debido a que las condiciones no se cumplen, no se marcara el tiempo record."""
 ToastRecordEnd#0,"""Debido a que el numero de personas en el grupo cambio, no se marcara el tiempo record."""
-ItemGetMessage#0,"""Obtuvistes $(0)."""
+ItemGetMessage#0,"""obtuviste $(0)."""
 ItemGetMessage2#0,"""$(0)<br>$(1)を入手しました。"""
 QuestLevelLimit#0,"""Usted no cumple con los requisitos de la misión."""
 TeamPointMsg#0,"""¡Misión completada! ¡Los miembros del Team reciben $(0) TP!"""
