@@ -4,5 +4,5 @@ text03#0,"""まずはカタナを振ってみなよ？<br>そんでもって、�
 text04#0,"""それでだいたいわかるはずだけど<br>そういえばカタナは持ってる？"""
 text08#0,"""無かったら話にならないからねー。<br>まずはあたしのおさがりをあげよう！<br>それ持ってがんばってー。"""
 text05#0,"""Katanas"""
-text06#0,"""Katanas are striking weapons that make it easy for even beginners to fight enemies at close range."""
-text07#0,"""Try out Katana-type basic attacks and Photon Arts.<br><br>They are specialised in continuous, quick-moving attacks that leave few gaps in your offence."""
+text06#0,"""Katanas are fast, short-range striking weapons whose mix of offensive and defensive features make it easy for beginners to use them to fight enemies at close range.<br><br><%WeaponActionText>: Guard, reducing damage taken from frontal attacks. Guard just before an attack hits you to prevent all damage and respond with a powerful counterattack."""
+text07#0,"""Try basic Katana attacks and Photon Arts for yourself.<br><br>They are specialised in continuous, quick-moving attacks that leave few gaps in your offence."""
