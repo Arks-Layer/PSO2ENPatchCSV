@@ -1,0 +1,4 @@
+WindowTitle_Banner#0,"""バナー"""
+Guide_Focus#0,"""<%ChangeCtrlWindowForward><yellow>でバナー選択へ<c>"""
+Banner_ON#0,"""<pict bnr_on>"""
+Banner_OFF#0,"""<pict bnr_off>"""
