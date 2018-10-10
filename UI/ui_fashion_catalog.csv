@@ -95,3 +95,4 @@ WarningClosableDupeTag#0,"""Terdapat tag pencarian yang sama.<br>Gunakan kata la
 ErrorClosableErrorDB#0,"""Gagal mengakses database<br><br>Harap coba lagi nanti."""
 ErrorClosableErrorBAN#0,"""Gagal mendaftar Katalog Pakaian"""
 ErrorClosableErrorUnknown#0,"""Terjadi masalah tidak terduga.<br><br>Harap coba lagi nanti."""
+ErrorClosableImproperData#0,"""現在の外見データは問題があるため<br>コーデカタログへの登録が出来ません。<br><br>マイファッションから他のデータを適用し登録するか、<br>エステで修正してください。"""
