@@ -95,3 +95,4 @@ WarningClosableDupeTag#0,"""You have duplicate search tags.<br>Please use anothe
 ErrorClosableErrorDB#0,"""Database access failed.<br><br>Please wait a while and try again."""
 ErrorClosableErrorBAN#0,"""Failed to register Fashion Catalog."""
 ErrorClosableErrorUnknown#0,"""An unexpected problem occurred.<br><br>Please wait a while and try again."""
+ErrorClosableImproperData#0,"""現在の外見データは問題があるため<br>コーデカタログへの登録が出来ません。<br><br>マイファッションから他のデータを適用し登録するか、<br>エステで修正してください。"""
