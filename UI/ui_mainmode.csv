@@ -2568,7 +2568,7 @@ LongDistanceLove#1,"""Pet Shifta/Resta requests can be fulfilled even when the p
 TakeOver#1,"""When switching pets, the effect of Sympathy, Shifta, Deband carries over to the next pet. <yellow>Main class only.<c>"""
 PetStandHarmony#1,"""During Alter Ego, if you have an active pet, you will not take damage when hit. <yellow>Main class only.<c>"""
 SummonerHighLevelBonus#1,"""Grants a bonus to all damage dealt by you and your pet."""
-SummonerNextJump#1,"""２段ジャンプが可能になる"""
+SummonerNextJump#1,"""Enables two-stage jumping."""
 SummonerFirstArtsJAAddition#1,"""最初に放つ攻撃が、ジャストアタックになる。発動後にリキャストが発生する。タクトやペットの攻撃とテクニックは無効"""
 SummonerAirReversal#1,"""Quickly recover while in the air."""
 SummonerDushJump#1,"""Quickly move by jumping after using Step or Dive Roll."""
