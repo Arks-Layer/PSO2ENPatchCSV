@@ -95,3 +95,4 @@ WarningClosableDupeTag#0,"""Tiene etiquetas duplicadas.<br>Por favor seleccione 
 ErrorClosableErrorDB#0,"""Fallo al acceder a la base de datos.<br><br>Espera y reintenta mas tarde."""
 ErrorClosableErrorBAN#0,"""Fallo al registrar el catalogo de moda."""
 ErrorClosableErrorUnknown#0,"""A ocurrido un problema inesperado.<br><br>Espera y reintenta mas tarde."""
+ErrorClosableImproperData#0,"""現在の外見データは問題があるため<br>コーデカタログへの登録が出来ません。<br><br>マイファッションから他のデータを適用し登録するか、<br>エステで修正してください。"""
