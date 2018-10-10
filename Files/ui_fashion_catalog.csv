@@ -95,3 +95,4 @@ WarningClosableDupeTag#0,"""「検索用タグ」に、同じ言葉が２つ以�
 ErrorClosableErrorDB#0,"""データベースのアクセスに失敗しました。<br><br>時間をおいて再度お試しください。"""
 ErrorClosableErrorBAN#0,"""コーデカタログへの登録に失敗しました。"""
 ErrorClosableErrorUnknown#0,"""予期せぬ問題が発生しました。<br><br>時間をおいて再度お試しください。"""
+ErrorClosableImproperData#0,"""現在の外見データは問題があるため<br>コーデカタログへの登録が出来ません。<br><br>マイファッションから他のデータを適用し登録するか、<br>エステで修正してください。"""
