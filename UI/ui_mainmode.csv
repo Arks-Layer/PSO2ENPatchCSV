@@ -2588,7 +2588,7 @@ SwordShotComboShortCharge#1,"""Reduces the charge time of the Sword Weapon Actio
 AllTechPPSave#1,"""Reduces the PP consumption of all Techniques."""
 ZeroRangeGearUp#1,"""Increases gear fill rate when you attack enemies from a close distance."""
 LongRangeGearUp#1,"""Increases gear fill rate when you attack enemies from a far distance."""
-ComboGearUp#1,"""Increases gear fill rate when you attack using different PA's or Techniques."""
+ComboGearUp#1,"""Increases gear fill rate when you attack using different PAs or Techniques."""
 VictoryShout#1,"""Increases hate generation for 30 seconds and recover PP according to the number of affected enemies."""
 HFlushGuard#1,"""Reduces damage from attacks."""
 SolidWpnman#1,"""Greatly reduces damage, and prevents knockback and stuns."""
