@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: /root/PSO2
     docker:
-      - image: python:3-stretch
+      - image: circleci/python:3-stretch-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -19,8 +19,8 @@ jobs:
           name: Update APT listing
           command: apt-get -qq update
       - run:
-          name: Install git, binutils, ssh, rsync, parallel and jq
-          command: apt-get --no-install-recommends -qq -y install git binutils ssh rsync parallel jq
+          name: Install binutils and rsync
+          command: apt-get --no-install-recommends -qq -y install binutils rsync
       - checkout
       - run:
           name: Checking DUP folders
