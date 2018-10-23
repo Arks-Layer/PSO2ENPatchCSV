@@ -18,8 +18,8 @@ jobs:
           name: Update APT listing
           command: sudo apt-get -qq update
       - run:
-          name: Install binutils and rsync
-          command: sudo apt-get --no-install-recommends -qq -y install binutils rsync
+          name: Install rsync
+          command: sudo apt-get --no-install-recommends -qq -y install rsync
       - checkout
       - run:
           name: Checking DUP folders
