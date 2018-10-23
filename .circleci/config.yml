@@ -1,9 +1,8 @@
 version: 2
 jobs:
   build:
-    working_directory: /root/PSO2
     docker:
-      - image: python:3-stretch
+      - image: circleci/python:3-stretch-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -17,10 +16,10 @@ jobs:
     steps:
       - run:
           name: Update APT listing
-          command: apt-get -qq update
+          command: sudo apt-get -qq update
       - run:
-          name: Install git, binutils, ssh, rsync, parallel and jq
-          command: apt-get --no-install-recommends -qq -y install git binutils ssh rsync parallel jq
+          name: Install rsync
+          command: sudo apt-get --no-install-recommends -qq -y install rsync
       - checkout
       - run:
           name: Checking DUP folders
@@ -63,7 +62,7 @@ jobs:
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
           name: Install GNU Aspell spell-checker
-          command: apt-get -qq -y install aspell-nl
+          command: sudo apt-get -qq -y install aspell-nl
       - run:
           name: spell check CSVs
           command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt
