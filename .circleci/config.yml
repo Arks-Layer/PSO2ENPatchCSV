@@ -1,7 +1,6 @@
 version: 2
 jobs:
   build:
-    working_directory: /root/PSO2
     docker:
       - image: circleci/python:3-stretch-node
         environment:
