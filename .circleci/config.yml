@@ -16,10 +16,10 @@ jobs:
     steps:
       - run:
           name: Update APT listing
-          command: apt-get -qq update
+          command: sudo apt-get -qq update
       - run:
           name: Install binutils and rsync
-          command: apt-get --no-install-recommends -qq -y install binutils rsync
+          command: sudo apt-get --no-install-recommends -qq -y install binutils rsync
       - checkout
       - run:
           name: Checking DUP folders
