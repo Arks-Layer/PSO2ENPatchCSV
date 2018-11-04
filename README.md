@@ -3,8 +3,11 @@
 </p>
 
 # PSO2 Parche en Español
-Bienvenido al Repositorio CSV del Parche en Español de PSO2.  
-[![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES)
+
+## Bienvenido al Repositorio CSV del Parche en Español de PSO2.
+#### Estado actual segun el ultimo chequeo:   [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ES)
+#### De igual manera hay repositorio de **[PSO2es en Español]**
+
 
 ---
 Este repositorio esta dedicado a traducir los textos del juego PSO2 desde el Japones/Ingles al Español.
@@ -25,6 +28,9 @@ Si no sabes Japones, pero aun quieres contribuir, puedes ver los archivos que se
 * Dala un vistazo a la **[Wiki]** para mas y guías y recordatorios antes de mandar tus traducciones.
 * Puedes crear una **[Issue]** para abrir una discusión sobre las traducciones con otros traductores. Por favor ten en cuenta que las discusiones que no estén relacionadas con la traducción, serán eliminadas sin ninguna advertencia.
 
+### Advertencias Adicionales
+* Aunque se puede copiar en los csv caracteres con tilde o diéresis debido a razones de compatibilidad con el juego estos caracteres son reemplazados por aeiou y la ñ será reemplazada con й.
+
 ### Procedimiento
 #### Desde la Web
  1. Presiona el botón "Fork" que se encuentra en la esquina superior derecha de esta pagina de GitHub para hacer una copia de las traducciones para que puedas trabajar con esta.
@@ -40,9 +46,11 @@ Si no sabes Japones, pero aun quieres contribuir, puedes ver los archivos que se
  11. Haz clic en el botón de "Create pull request" de nuevo y tus cambios serán enviados.
  12. Hasta que alguien del equipo observe los cambios que has realizado estos serán a combinados con el parche de traducción.  
 
+
 [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/ES/Files
 [PSO2 Discord Server]: https://discord.gg/PSO2
 [Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
 [Rama en Ingles]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN  
 [Issue]: https://github.com/Arks-Layer/PSO2ENPatchCSV/issues  
 [GitHub Desktop]: https://desktop.github.com
+[PSO2es en Español]: https://github.com/TheBlazter/PSO2es-Translation/
