@@ -101,7 +101,7 @@ Message_E0#0,"""A ocurrido un problema, y no has podido jugar loteria.<br><br>Tu
 Message_E100#0,"""A ocurrido un problema, y no has podido jugar loteria.<br><br>Por favor intentelo mas tarde."""
 denomination_1#0,"""AC"""
 denomination_2#0,"""FUN"""
-denomination_3#0,""" SG"""
+denomination_3#0,"""SG"""
 none#0,"""Ninguno"""
 times#0,"""Veces"""
 TimesaleTitle#0,"""Promoción de tiempo limitado!"""
