@@ -1,0 +1,5 @@
+skit01#0,"""/ci1 2 Siapa kalian? Tolong bantu saya!"""
+skit02#0,"""/ci1 2 Penyelamatmu, di sini untuk membantu. Ada teleporter evakuasi di dekat sini. Kami akan mengantar kalian ke sana."""
+skit01#1,"""Siapa kalian? Tolong bantu saya!"""
+skit02#1,"""Penyelamatmu, di sini untuk membantu. Ada teleporter evakuasi di dekat sini. Kami akan mengantar kalian ke sana."""
+LineWindow#0,"""<c ffff00>Gagal jika ada warga yang jatuh.<c>"""
