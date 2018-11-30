@@ -25,7 +25,7 @@ BlockBurstIntoNG#0,"""You were unable to join the party because of changes to th
 TimeText#0,"""$(0):$(1):$(2)"""
 NumItem#0,"""$(0) x$(1)"""
 NumItem2#0,"""$(0) x$(1)"""
-Bracket#0,"""（$(0)）"""
+Bracket#0,"""($(0))"""
 SquareBracket#0,"""[$(0)]"""
 ErrorResetAmCoinWithoutWarning#0,"""Cannot transfer Casino Coins because they exceed the maximum limit."""
 Ranking#0,"""$(3) $(2) Ranking: $(1) $(0)"""
