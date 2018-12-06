@@ -1,0 +1,5 @@
+skit01#0,"""/ci1 2 ¿Quien eres tu? ¡Porfavor ayudame!"""
+skit02#0,"""/ci1 2 Tu rescatista, esta aqui para ayudar. Un teleportador de evacuación deberia estar cerca. Nosotros te escoltaremos hasta el."""
+skit01#1,"""¿Quien eres tu? ¡Porfavor ayudame!"""
+skit02#1,"""Tu rescatista, esta aqui para ayudar. Un teleportador de evacuación deberia estar cerca. Nosotros te escoltaremos hasta el."""
+LineWindow#0,"""<c ffff00>Fracaso si cualquier ciudadano es incapacitado.<c>"""
