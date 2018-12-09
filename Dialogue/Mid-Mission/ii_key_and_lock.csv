@@ -9,7 +9,7 @@ NpcComOnDispKey#0,"""Confirmed appearence of Info Key<br>due to extermination! P
 NpcComOnCollected#0,"""情報キーの結集を確認！<br>障壁が開放可能となりました！"""
 NpcComOnBegin#1,"""ちっ、障壁が起動したか……<br>開放には情報キーが必要だ。<br>急いで収集しろ。"""
 NpcComOnSuccess#1,"""障壁の開放を確認した。<br>よくやった。"""
-NpcComOnFailure#1,"""/face6 ...Opening failed.<br>C'est la vie. regresa a la misión principal."""
+NpcComOnFailure#1,"""/face6 ...Opening failed.<br>C'est la vie. Regresa a la misión principal."""
 NpcComOnDispKey#1,"""よし、情報キーが出現したようだ。<br>回収してくるといい。"""
 NpcComOnCollected#1,"""情報キーが集まったようだな。<br>障壁を開放できるぞ。"""
 NpcComOnBegin#2,"""わわっ、障壁が起動しちゃいました！<br>開放には情報キーの収集が<br>必要なんですー！"""

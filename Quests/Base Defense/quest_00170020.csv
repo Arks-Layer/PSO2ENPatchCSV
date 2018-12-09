@@ -7,7 +7,7 @@ Wave3_Talk#0,"""Le-lecturas no identificadas!<br>Crek que los Darkers atacaran c
 Wave4_Talk#0,"""Wh-whoa! Estamos recibiendo una gran cantidad de fuertes lecturas! por favor, ten cuidado!"""
 Wave5_Talk#0,"""Wh-whoa, tenemos lecturas increiblemente fuertes...!<br>Podrian aparecer muchisimos Darkers!"""
 Wave6_Talk#0,"""Este parece ser el ultimo!<br>espera solo un poco mas!<br>Sige protegiendo la base!"""
-NpcComMsg1#0,"""Empezaremos pronto!<br>Segun estas lecturas, los Darkers atacaran en multiples<br>oleadas. por favor ten cuidado!"""
+NpcComMsg1#0,"""Empezaremos pronto!<br>Segun estas lecturas, los Darkers atacaran en multiples<br>oleadas. Por favor ten cuidado!"""
 NpcComMsg2#0,"""Puedes mejorar las defensas usando<br>la energia de los cristales en el suelo.<br>Buena suerte! cambio y fuera!"""
 a1#0,"""Completar cierta orden del cliente."""
 a2#0,"""Completar cierta orden del cliente."""

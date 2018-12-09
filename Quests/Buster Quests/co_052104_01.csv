@@ -1,6 +1,6 @@
 name01#0,"""シエラ"""
 linewindow#0,"""Derrota a las fuerzas enemigas!"""
-11_voice_navi09_war_046#0,"""Las fuerzas enemigas fueron derrotadas! ahora es tiempo de invocar el Buster Pile y destruir las Devil Barriers!"""
+11_voice_navi09_war_046#0,"""Las fuerzas enemigas fueron derrotadas! Ahora es tiempo de invocar el Buster Pile y destruir las Devil Barriers!"""
 text00#0,"""Acerca de la fase buster"""
 text01#0,"""Cuando la fase de defensa termina, está trasiende hacia la<br><c 00ffff>Fase Buster.<c><br><br>Durante la fase buster, el objetivo es destruir la<br>Devil Barrier que protege al Devil Castle."""
 text02#0,"""los <c 00ffff>Buster Piles<c> pueden destruir las devil barriers creadas desde<br>el Devil Castle.<br><br>Estos se invocan automaticamente durante la fase buster<br>mientras se aproximan al Devil Castle.<br><br><c ff4f3f>Cuando todas los buster piles invocadas golpean y<br>destruyen la Devil Barrier, o si estas son destruidas,<br>la Fase Buster terminara.<c>"""

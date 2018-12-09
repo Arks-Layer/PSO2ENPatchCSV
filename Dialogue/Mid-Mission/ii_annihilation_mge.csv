@@ -5,7 +5,7 @@ NpcComOnBegin#0,"""Esta es una orden para todos los operadores de A.I.S.. Su obj
 NpcComOnMge1Hp50#0,"""The target's stamina has fallen.<br>Por favor continua con el asalto."""
 NpcComOnMge1Hp10#0,"""Al objetivo le queda poca vida. Continua como vas y acábalo."""
 NpcComOnMge1Dead#0,"""目標の討伐を確認。<br>……いえ、これは……『禍津』内に<br>高エネルギー反応あり！\u3000そんな！"""
-NpcComOnMge2Hp50#0,"""El objetivo ahora está con<br>un 50% de vitalidad. por favor no bajes la guardia."""
+NpcComOnMge2Hp50#0,"""El objetivo ahora está con<br>un 50% de vitalidad. Por favor no bajes la guardia."""
 NpcComOnMge2Hp10#0,"""A el objetivo le queda poca vida. Continua como vas y acábalo."""
 NpcComOnMge2Dead#0,"""El objetivo ha sido derrotado.<br>Pero todavia quedan mas...<br>sigue con cuidado。"""
 NpcComOnMge3Attack#0,"""Detecto altas ondas de energia en el<br>interior del objetivo, todos los A.I.S.,<br>evadan el ataque!"""

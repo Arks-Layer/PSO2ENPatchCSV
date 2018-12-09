@@ -414,7 +414,7 @@ CraftAnalyzeExplain#0,"""<c f0df60>Armas de ７★ o+ y Discos Nv.11 o+ pueden d
 CraftAnalyzeConfirm#0,"""El $(0) sera roto.<br>¿Desea continuar?<br><br>※Please note that this will<br><c ff0000>destroy the selected item.<c>"""
 CraftSuccess#0,"""Romper objetos fue un <green>Exito<c>.<br>You have received the following items:"""
 CraftBigSuccess#0,"""La destruccion de los objetos fue un <c ff007f>Gran exito<c>.<br>Los siguientes objetos fueron conseguidos:"""
-CraftAnalyzeDisable#0,"""Fallo la destruccion de los objetos. por que se excede<br>la cantidad de objetos por casilla, o tu inventario<br>esta lleno."""
+CraftAnalyzeDisable#0,"""Fallo la destruccion de los objetos. Por que se excede<br>la cantidad de objetos por casilla, o tu inventario<br>esta lleno."""
 CraftAnalyzeLock#0,"""このアイテムはロックされているため、<br>分解できません。"""
 CraftAnalyzeEquip#0,"""このアイテムは装備中のため、<br>分解できません。"""
 CraftAnalyzeComError#0,"""通信エラーのため、<br>分解できませんでした。"""
