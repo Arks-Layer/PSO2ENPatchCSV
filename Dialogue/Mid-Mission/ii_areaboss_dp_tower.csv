@@ -1,7 +1,7 @@
 IncidentName#0,"""Derrotar a $(0)"""
 TrialBeginMsg#0,"""¡Derrotar a $(0)!"""
 TrialAbstract#0,"""¡Derrotar a $(0)!"""
-NpcComOnBegin#0,"""H-huh? ¿Puse esto en el programa de entrenamiento?... Eso es extraño ... Bueno, de todos modos, ¡No tienes más remedio que vencerlo!"""
+NpcComOnBegin#0,"""H-huh? ¿Puse esto en el programa de entrenamiento?... Eso es extraño... Bueno, de todos modos, ¡No tienes más remedio que vencerlo!"""
 NpcComOnSuccess#0,"""Ahh, ¿Puede ser esto?... Bueno, de todos modos, ¡Buena pelea! ¡Buen trabajo!"""
 NpcComOnFailure#0,"""¿Están todos bien?..."""
 HP_Under_50#0,"""¡$(0) se está debilitando constantemente!"""
