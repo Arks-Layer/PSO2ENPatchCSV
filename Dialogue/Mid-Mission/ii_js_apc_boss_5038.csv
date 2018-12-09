@@ -58,7 +58,7 @@ IncidentJsApcBeginEvo#9,"""/ci3 1 Está atmosfera... Tal vez aparezca un recién
 IncidentJsApcSuccessEvo#11,"""/ci2 1 Bueno, parece una victoria, Parece que estamos a salvo, gracias a ustedes!"""
 IncidentJsApcBegin#12,"""/toge /ci1 1 We can do this! We're Arks! I might be old, but I can't be stopped!"""
 IncidentJsApcSuccess#12,"""/toge /ci2 1 Bien bien. Tuvimos éxito y vivo para luchar otro día."""
-IncidentJsApcFailure#12,"""Uf.. no de nuevo. Tal vez es hora de que me retire."""
+IncidentJsApcFailure#12,"""Uf.. No de nuevo. Tal vez es hora de que me retire."""
 IncidentJsApcBeginEvo#10,"""/toge /ci3 1 Hey, ¡Novato! ¡Tranquilízate con estos viejos huesos!"""
 IncidentJsApcSuccessEvo#12,"""/toge /ci2 1 Bien bien. Tuvimos éxito y vivo para luchar otro día."""
 IncidentJsApcBegin#13,"""/toge /mn9 /ci2 1 Uh-oh! ...H-hey! ¡Parece que tuve suerte! ¿Puedes darme una mano?"""
