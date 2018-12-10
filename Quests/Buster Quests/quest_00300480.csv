@@ -29,7 +29,7 @@ OnDefencePhase1End2#0,"""破壊鎚召喚中！<br>攻め込む準備をして下
 OnAttackPhase1End0#0,"""破界鎚の消滅、及び敵増援を確認！<br>再侵攻が予測されるため<br>破界塔の守りを固めて下さい！"""
 OnAttackPhase1End1#0,"""破界鎚の消滅、及び<br>再度敵増援を確認！<br>破界塔の守りを固めて下さい！"""
 OnAttackPhase1End2#0,"""破界鎚の全破壊、及び<br>再度敵増援を確認しました！<br>破界塔の守りを固めて下さい！"""
-OnDefencePhaseEndByTimeOver#0,"""¡El ejército enemigo ha cambiado su estrategia!<br>¡Cuidado! algunos de ellos parecen ser unidades kamikaze!"""
+OnDefencePhaseEndByTimeOver#0,"""¡El ejército enemigo ha cambiado su estrategia!<br>¡Cuidado! Algunos de ellos parecen ser unidades kamikaze!"""
 OnDefencePhaseEnemyDecrease0#0,"""敵軍、数が減ってきています！<br>このまま押し切りましょう！"""
 OnDefencePhaseEnemyDecrease1#0,"""¡Sólo quedan unos cuantos!<br>¡Sólo un poco más!"""
 OnWaveHapping#0,"""魔神城に不穏な動き有り！<br>妨害を仕掛けてきそうです！<br>各員は状況に応じ行動して下さい！"""

@@ -7,7 +7,7 @@ NpcComOnFailure#0,"""/face4 Lecturas de grupo que participan<br>han desaparecido
 HP_Under_50#0,"""¡El $(0) se está cansando!"""
 HP_Under_10#0,"""¡A $(0) le queda muy poca fuerza!"""
 NpcComLastEnemy#0,"""¡Queda uno!"""
-NpcComOnBegin#1,"""Esto es urgente. hemos detectado<br>poderosas lecturas de un enemigo.<br>Derrotalo lo antes posible."""
+NpcComOnBegin#1,"""Esto es urgente. Hemos detectado<br>poderosas lecturas de un enemigo.<br>Derrotalo lo antes posible."""
 NpcComOnSuccess#1,"""La desaparición de las lecturas<br>enemigas han sido confirmadas. Bien hecho."""
 NpcComOnFailure#1,"""Tch, they've taken a beating.<br>Teleporting them to Campship."""
 HP_Under_50#1,"""¡El $(0) se está cansando!"""

@@ -1,7 +1,7 @@
 IncidentName#0,"""Corregir Restauración de HP """
 TrialBeginMsg#0,"""Resolver el problema de la restauración de HP!"""
 TrialAbstract#0,"""Resolver el problema de la restauración de HP!"""
-NpcComOnBegin#0,"""/face2 Oh, los dispositivos de entrenamiento se han puesto en marcha! Esto es... la reducción de curación! sera mas difícil curarse!"""
+NpcComOnBegin#0,"""/face2 Oh, los dispositivos de entrenamiento se han puesto en marcha! Esto es... La reducción de curación! sera mas difícil curarse!"""
 NpcComOnSuccess#0,"""/face2 Muy bien, detuviste los dispositivos de entrenamiento! termina con el entrenamiento ahora!"""
 DirectionSwitch#0,"""/face2 Para detener el entrenamiento, manipula los interruptores colocados alrededor. Hay mas de uno!"""
 DirectionNoSwitch#0,"""/face2 Whaaa? Los interruptores no aparecieron... Ah, lo que sea! Vamos a empezar de todos modos!"""
