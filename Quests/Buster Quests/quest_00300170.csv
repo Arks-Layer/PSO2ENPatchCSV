@@ -12,7 +12,7 @@ OnDefencePhase1Start2#0,"""¡El enemigo ha comenzado su asalto!<br>Reúne Mana m
 OnDefencePhase2Start0#0,"""Esto es terrible!<br>¡Las fuerzas enemiga han comenzado a avanzar hacia nuestras Buster Towers!<br>¡Por favor, pause lo que está haciendo y ayúde a defender!"""
 OnDefencePhase2Start1#0,"""¡El ejército enemigo ha preparado otro asalto!<br>Aunque rompimos la barrera, pero si nuestras torres son destruidas, entonces no podemos asegurar la victoria!<br>¡Cuidado!"""
 OnDefencePhase3Start0#0,"""¡Una fuerte señal ha sido detectada desde el Devil Castle!<br>Parece estar planeando un ataque a nuestras Buster towers!<br>¡Por favor detengalo!"""
-OnDefencePhase3Start1#0,"""Otra señal fuerte detectada desde el Devil Castle...!<br>¡Por favor, defiende nuestras torres del ataque del Devil Castle!"""
+OnDefencePhase3Start1#0,"""Otra señal fuerte detectada desde el Devil Castle!...<br>¡Por favor, defiende nuestras torres del ataque del Devil Castle!"""
 OnAttackPhase1Start0#0,"""¡Convocando Buster Pile!<br>¡ escolte la carga y derribe las barreras enemigas!"""
 OnAttackPhase1Start1#0,"""¡Convocando Buster Pile!<br>Protege el Buster Pile! de los ataques enemigos y destruye las barreras restantes!"""
 OnAttackPhase1Start2#0,"""¡Convocamos el Buster Pile!<br>¡Vamos a romper las barreras!"""

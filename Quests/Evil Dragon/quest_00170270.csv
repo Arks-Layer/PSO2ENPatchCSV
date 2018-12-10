@@ -1,7 +1,7 @@
 NpcComMsg1#0,"""En poco tiempo, lucharemos contra el Crimson Evil Dragon. Ya se ha despertado, así que le espera una pelea feroz y por favor ten cuidado!"""
 NpcComMsg2#0,"""Recibiremos ayuda de la Sword Maiden Alisa y del poder de Laconium Sword. No perderemos!"""
 Title#0,"""T:El Tritura Castillos Carmesi"""
-Explanation#0,"""Hemos confirmado que el Dragón<br>Malvado que fue sellado desde las<br>ruinas del Castillo de Cuent,<br>ha resucitado a sí mismo.<br>Usando la espada Laconium,<br>¡trabaja con Alisa para vencer<br>a este malvado dragón!<br>--------------------<br>Max Daño/999999<br>Fallas/Si el tiempo limite termina"""
+Explanation#0,"""Hemos confirmado que el Dragón<br>Malvado que fue sellado desde las<br>ruinas del Castillo de Cuent,<br>ha resucitado a sí mismo.<br>Usando la espada Laconium,<br>¡Trabaja con Alisa para vencer<br>a este malvado dragón!<br>--------------------<br>Max Daño/999999<br>Fallas/Si el tiempo limite termina"""
 SimpleExplanation#0,"""Repele al Dragon!"""
 Area0S#0,"""異世界オメガ\u3000クエント城跡"""
 Area0L#0,"""異世界オメガ\u3000クエント城跡"""

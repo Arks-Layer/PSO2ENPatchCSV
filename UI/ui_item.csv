@@ -1277,7 +1277,7 @@ Explanation4#2,"""<c f0df60>Agregar habilidades permite añadir habilidades a di
 Explanation4_v#2,"""<c f0df60>武器やユニットから特殊能力を追加できます。追加の「対象」とするアイテムを選択してください。<c>"""
 Explanation5#2,"""<c f0df60>Por favor selecciona un material. The material must have the same number or more special habilidades as the target. The selected material <c ff4f3f>will be consumed<c f0df60>.<c>"""
 Explanation5_v#1,"""<c f0df60>Por favor selecciona un material with the same number or more special habilidades. The material <c ff4f3f>sera consumido<c f0df60>.<c>"""
-Explanation6#2,"""<c f0df60>Por favor selecciona una \""Unidad material\"". Los materiales deben de ser unidades con un numero de habilidades iguales o superiores que el objetivo. los meteriales seleccionados <c ff4f3f>seran destruidos.<c>"""
+Explanation6#2,"""<c f0df60>Por favor selecciona una \""Unidad material\"". Los materiales deben de ser unidades con un numero de habilidades iguales o superiores que el objetivo. Los meteriales seleccionados <c ff4f3f>seran destruidos.<c>"""
 Explanation6_v#1,"""<c f0df60>Por favor selecciona un material with the same number or more special habilidades. The material <c ff4f3f>sera consumido<c f0df60>.<c>"""
 Explanation7#1,"""<c f0df60>Selecciona un special habilidad to add. The process will start when you fill all the special habilidades from the list. (Though you may use extra slots).<c>"""
 Explanation7_v#1,"""<c f0df60>特殊能力を選択し、リストを埋めると開始できます。（エクストラスロットの使用は任意です）<c>"""
