@@ -98,7 +98,7 @@ BasicHintEtrialMap#0,"""レーダーマップを拡大表示している時に<b
 BasicHintPolluteVoice#0,"""ダークブラストの発動中、<br>専用ボイスを再生するかどうか設定します。"""
 MltPtMatchingButton#0,"""複数ブロックマッチングの対象クエストを受注する時<br>カーソル位置をどちらのボタンにするかを設定します。<br>\u3000※一部クエストを除きます"""
 BasicHintPopMenu#0,"""周囲のキャラクターを選択した時などに表示される<br>キャラクターメニューの表示形式を設定します。"""
-BasicHintComeBack#0,"""復帰プレイヤーアイコンを表示するかしないかを設定します。<br>\u3000※アイコンを表示しなくても各ボーナスは受けられます"""
+BasicHintComeBack#0,"""Establecer si aparece un icono sobre los jugadorer que necesitan ser<br>revividos. ※Recibes recompensas aunque el icono no se muestre."""
 NoticeTextParty#0,"""パーティー招待された時"""
 NoticeTextFriend#0,"""フレンド登録申し込みされた時"""
 NoticeTextGuild#0,"""チームスカウトされた時"""
