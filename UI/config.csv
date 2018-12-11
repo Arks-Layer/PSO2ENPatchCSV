@@ -97,7 +97,7 @@ BasicHintPetStatus#0,"""Configura la barra de HP de tu Mascota y la apariencia d
 BasicHintEtrialMap#0,"""Mientras el mapa este magnificado se puede<br>cambia el nivel de magnificacion<br>cuando ocurra un E-Trial."""
 BasicHintPolluteVoice#0,"""ダークブラストの発動中、<br>専用ボイスを再生するかどうか設定します。"""
 MltPtMatchingButton#0,"""Al seleccionar una misión, este ajuste determina<br>la posición por defecto del cursor al aceptarla<br> ※Excluyendo algunas misiones"""
-BasicHintPopMenu#0,"""Cambia como el menú de personaje aparece<br>cuando se selecciona a otros jugadores""
+BasicHintPopMenu#0,"""Cambia como el menú de personaje aparece<br>cuando se selecciona a otros jugadores"""
 BasicHintComeBack#0,"""Establecer si aparece un icono sobre los jugadores que necesiten ser<br>revividos. ※Recibes recompensas aunque el icono no se muestre."""
 NoticeTextParty#0,"""パーティー招待された時"""
 NoticeTextFriend#0,"""フレンド登録申し込みされた時"""
