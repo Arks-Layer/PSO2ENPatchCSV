@@ -696,7 +696,7 @@ DrawFilter#0,"""画面に適用するフィルターを選択してください�
 DrawFilterMessageText#0,"""「プレミアムセット」の有効期間中のみご利用いただけます。<br><yellow>PC版では、ゲームランチャーの環境設定「描画/シェーダー品質」が<br>「高品質」の時のみ適用されます。<c><br>画面フィルターを以下から選択してください。"""
 DrawFilterMessagePremiumOn#0,"""<yellow>プレミアム有効期間中<c>"""
 DrawFilterMessagePremiumOff#0,"""<red>プレミアム有効期限切れ<c>"""
-TextPolluteOthers#0,"""Visualización de dark blast de otros jugadores"""
+TextPolluteOthers#0,"""Visualización de Dark Blast de otros jugadores"""
 HintPolluteOthersOff#0,"""La apariencia del Dark Blast de otros jugadores se basara en su configuracion.<br>En PC esto se aplica cuando \""Shader Quality\"" no esta en \""Simple\""."""
 HintPolluteOthersOnHito#0,"""La apariencia del Dark Blast de otros jugadores siempre aparecerá como auras.<br>El nivel de transparencia será determinado por la configuración de los jugadores.<br>En PC esto se aplica cuando \""Shader Quality\"" no esta en \""Simple\""."""
 HintPolluteOthersOnPlayer#0,"""La apariencia del Dark Blast de otros jugadores siempre aparecerá como auras.<br>La transparencia se fijara en 100.<br>En PC esto se aplica cuando \""Shader Quality\"" no esta en \""Simple\""."""
