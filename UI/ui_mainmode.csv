@@ -3686,7 +3686,7 @@ OmegaMultiBossMessageExc#0,"""Transfer will begin shortly. You'll be transferred
 OmegaMultiBossGotoExc#0,"""Transfer started. Please head towards the transfer pad within the time period."""
 SelectDifficultyQuestLV#0,"""Select Quest Difficulty.<br>(Area Reached / $(0))"""
 SelectDifficultyQuestLV0#0,"""Select Quest Difficulty.<br>(Area Reached / Unexplored)"""
-SelectDifficultyQuestCountCheck#0,"""クエストを開始しますか？<br>（対象はあと$(0)回討伐可能です）<br><br><br>※討伐可能回数は毎日5時にリセットされます<br>※残りの討伐可能回数は翌日に持ち越せません<br>※討伐可能回数はクリア時に消費されます"""
+SelectDifficultyQuestCountCheck#0,"""Start the quest?<br>(You can clear this quest <red>$(0)<c> more times.)<br><br><br>※Amount of clears reset after 5:00 JST.<br>※Amount of clears don't rollover the next day.<br>※Clearing reduces how many clears you get."""
 Area_0#0,"""$(0)'s Mini Room"""
 Area_1#0,"""$(0)'s Room (A)"""
 Area_2#0,"""$(0)'s Room (B)"""
