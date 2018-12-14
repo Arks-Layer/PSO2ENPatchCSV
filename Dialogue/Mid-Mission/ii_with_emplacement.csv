@@ -9,7 +9,7 @@ HelpMessage#0,"""Transferencia de torreta completada. Por favor utilizarla para 
 EmplacementBroke#0,"""破壊された銃座の補填を行います。<br>あと$(0)秒で完了です。"""
 EmplacementRespawn#0,"""Transferencia de nuevas torretas completado. Usalas bien."""
 EnergyStandRespawn#0,"""Los cargadores vacios han sido repuestos."""
-NpcComOnPreBegin#1,"""Un nuevo enemigo se acerca. Esto podria ponerse difícil... ten cuidado."""
+NpcComOnPreBegin#1,"""Un nuevo enemigo se acerca. Esto podria ponerse difícil... Ten cuidado."""
 NpcComOnBegin#1,"""Estamos trasladando torretas a los alrededores. Dales un buen uso."""
 NpcComOnSuccess#1,"""Confirmo la eliminación de todos los hostiles. Hemos terminado por aquí."""
 NpcComOnFailure#1,"""枠のみ。不要"""

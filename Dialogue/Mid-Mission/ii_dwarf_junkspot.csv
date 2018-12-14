@@ -26,7 +26,7 @@ NpcComOnJoin#1,"""遺物発掘を行っているリリーパ族の<br>護衛を�
 NpcComOnBegin#2,"""おややっ？\u3000あれ、リリーパ族ですね。<br>何か探してるみたいですけど……"""
 NpcComOnBeginNext#2,"""うーん、どうやらがらくたの中から<br>宝物とかを探し出す気みたいです。<br>できるだけ守ってあげてもらえますか？"""
 NpcComOnSuccess#2,"""/face2 やりました！\u3000無事宝物を見つけ出せた<br>みたいですよ！\u3000お疲れ様でした！"""
-NpcComOnFailure#2,"""Oh no... that poor Lillipan... You failed to keep it safe. Por favor, vuelve a la misión principal"""
+NpcComOnFailure#2,"""Oh no... Ese pobre Lillipan... Fallastes en mantenerlo a salvo. Por favor, vuelve a la misión principal"""
 NpcComOnFindPlayer#2,"""あれが、目標地点みたいですね！"""
 NpcComOnFindLilipa#2,"""おやっ、リリーパ族が目標地点を<br>見つけたみたいですよー！"""
 NpcComOnArrivalFirst#2,"""The Lillipan has begun to dig! The enemies will probably be here soon, so Por favor keep an eye out for them!"""
