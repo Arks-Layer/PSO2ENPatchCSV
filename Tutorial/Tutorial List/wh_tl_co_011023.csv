@@ -1,0 +1,4 @@
+name01#0,"""The Subpalette"""
+text00#0,"""The Subpalette"""
+text01#0,"""You can add a combination of items, skills, and techniques to the subpalette so they're always ready to use. <br><br>Move cursor left: <%SubPaletteLeft><br>Move cursor right: <%SubPaletteRight><br>Use <%SubPalette> to use the item or ability at the current cursor position."""
+text02#0,"""You can also switch between different Subpalettes. Use <%PaletteReverse> or <%PaletteForce> to display the weapon palette, then press <%SubPaletteLeft> or <%SubPaletteRight> to switch the subpalette currently in use.<br><br>Subpalettes are organized into \""Books\"", each Book having 3 sheets. You can switch between books as a unit, as well as between individual sheets.<br><br>Icons can be freely added, replaced or removed from the Subpalette at any time."""
