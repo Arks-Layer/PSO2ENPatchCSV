@@ -727,7 +727,7 @@ Quest_Explain_Text_1#0,"""・Need to win approx. <green>$(0)<c> Buster Quest mat
 Quest_Explain_Text_2#0,"""・Class level required:<br>\u3000<pict mainclass_icon>Lv.$(0)+"""
 Quest_Explain_Text_3#0,"""Complete $(0)"""
 Quest_Story_Explain#0,"""Browse the event."""
-Quest_Explain_Continue#0,"""All EPSIDOE 5 quests have been completed."""
+Quest_Explain_Continue#0,"""All EPISODE 5 quests have been completed."""
 Quest_Explain_Continue_1#0,"""All Omnibus EPISODE 1 quests have been cleared."""
 Quest_Explain_Continue_2#0,"""All Omnibus EPISODE 2 quests have been cleared."""
 Quest_Explain_Continue_3#0,"""All Omnibus EPISODE 3 quests have been cleared.<br><br>To continue the adventure, please try EPISODE 4."""
