@@ -21,7 +21,7 @@ OnAttackPhase3Start1#0,"""Scale its defense mechanism and<br>attack the Weak Poi
 OnDefencePhase1End0#0,"""The enemy assault has been suppressed!<br>We're summoning a Buster Pile.<br>Please prepare for the advancement!"""
 OnDefencePhase1End1#0,"""We'll start the summon and attack the barriers! Collect Mana and let's increase the number of Piles!"""
 OnDefencePhase1End2#0,"""Buster Pile summoned!<br>Please prepare your assault!"""
-OnAttackPhase1End0#0,"""The Buster Pile has finished and<br>enemy reinforcements have arrived!<br>We predict the enemy will start to<br>target the Buster towers again, so<br>please defend it!"""
+OnAttackPhase1End0#0,"""Buster Pile summoned!<br>Please prepare your assault!"""
 OnAttackPhase1End1#0,"""The Buster Pile has disappeared and<br>the enemy is sending another assault!<br>Protect the Buster towers!"""
 OnAttackPhase1End2#0,"""The Buster Pile is destroyed and<br>once again, the enemy is sending<br>reinforcements! Protect the Buster towers!"""
 OnDefencePhaseEndByTimeOver#0,"""The enemy army has changed its<br>strategy! Watch out! Some of them<br>appear to be kamikaze units!"""
