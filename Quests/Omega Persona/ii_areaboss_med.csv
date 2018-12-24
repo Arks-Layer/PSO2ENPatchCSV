@@ -1,6 +1,6 @@
 IncidentName#0,"""Derrota $(0)"""
 TrialBeginMsg#0,"""Derrota $(0)"""
-TrialAbstract#0,"""	"Derrota $(0)"""
+TrialAbstract#0,"""Derrota $(0)"""
 NpcComOnBegin#0,"""¡Dark Falz Persona ha sido visto!<br>Su señal de energía y su malicia son abrumadoras...<br>¡Asegúrate de destruirla aquí y ahora!"""
 NpcComOnSuccess#0,"""Objetivo, destruido! ¡Señal enemiga desvaneciéndose!"""
 NpcComOnSpCharge#0,"""¡La señal de energía del objetivo está aumentando rápidamente! ¡Cuidado!"""
