@@ -3,7 +3,7 @@ TrialBeginMsg#0,"""Has a el Sr. Umblla feliz!<br>exito por recibir uno de sus at
 TrialAbstract#0,"""Recibe un golpe del Sr. Umblla!"""
 TrialFailureAttack#0,"""El Sr. Umblla fallo 3 ataques."""
 TrialFailureMiss#0,"""El Sr. Umblla fallo fallo 5 ataques."""
-NpcComOnPreBegin#0,"""¡Se acerca una nueva<br>fuente de calor!, por favor ten cuidado, ¡ya viene!"""
+NpcComOnPreBegin#0,"""¡Se acerca una nueva<br>fuente de calor!, por favor ten cuidado, ¡Ya viene!"""
 NpcComOnBegin#0,"""/face2 Mr.アンブラですね。<br>彼に叩かれると<br>御利益があるようです。"""
 NpcComOnSuccess#0,"""/face2 Mr.アンブラが喜んでいますね。<br>何か御利益は受けられましたか？<br>それでは、任務を続けてください。"""
 NpcComOnFailure#0,"""/face6 Mr.アンブラが怒っていますね。<br>こうなってしまうと危険です。<br>各員、至急退避してください。"""

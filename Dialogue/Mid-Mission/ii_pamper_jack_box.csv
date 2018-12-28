@@ -1,7 +1,7 @@
 IncidentName#0,"""ランプの中からボワワワン！"""
 TrialBeginMsg#0,"""Ｍｒ．ボワンを時間内に撃破せよ！<br>与えたダメージによりボーナス量が変化！"""
 TrialAbstract#0,"""Ｍｒ．ボワンを時間内に撃破せよ"""
-NpcComOnPreBegin#0,"""¡Se acerca una nueva<br>fuente de calor!, por favor ten cuidado, ¡ya viene!"""
+NpcComOnPreBegin#0,"""¡Se acerca una nueva<br>fuente de calor!, por favor ten cuidado, ¡Ya viene!"""
 NpcComOnBegin#0,"""/face2 これは！\u3000Ｍｒ．ボワンです。<br>たくさん攻撃してフォトンを与えると<br>良い事が起こるようです。"""
 NpcComOnSuccess#0,"""/face2 Ｍｒ．ボワンにフォトンを<br>たくさん与えることができました！<br>良い事は起きましたでしょうか？"""
 NpcComOnFailure#0,"""Ｍｒ．ボワンへのフォトンが<br>全然足りなかったようですね……<br>皆さん、通常任務に戻ってください。"""
