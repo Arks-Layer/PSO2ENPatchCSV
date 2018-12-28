@@ -25,7 +25,7 @@ OnAttackPhase3Start0_1#0,"""今度も魔神城は、一定時間ごとに<br>強
 OnAttackPhase3Start1#0,"""再び防衛機構に登り<br>魔神城の弱点部へ向かってください！"""
 OnDefencePhase1End0#0,"""敵軍の制圧を確認！<br>破界鎚を召喚中です。今のうちに<br>進軍の準備をお願いします！"""
 OnDefencePhase1End1#0,"""再度破界鎚を召喚し障壁を攻撃します！<br>マナを回収して、召喚する<br>破界鎚の数を増やしましょう！"""
-OnDefencePhase1End2#0,"""破壊鎚召喚中！<br>攻め込む準備をして下さい！"""
+OnDefencePhase1End2#0,"""破界鎚召喚中！<br>攻め込む準備をして下さい！"""
 OnAttackPhase1End0#0,"""破界鎚の消滅、及び敵増援を確認！<br>再侵攻が予測されるため<br>破界塔の守りを固めて下さい！"""
 OnAttackPhase1End1#0,"""破界鎚の消滅、及び<br>再度敵増援を確認！<br>破界塔の守りを固めて下さい！"""
 OnAttackPhase1End2#0,"""破界鎚の全破壊、及び<br>再度敵増援を確認しました！<br>破界塔の守りを固めて下さい！"""
