@@ -1,7 +1,7 @@
 IncidentName#0,"""Ya sea luchando contra $(0)!"""
 TrialBeginMsg#0,"""Repeler $(1) $(0)!"""
 TrialAbstract#0,"""Repeler el $(0) que ha aparecido!"""
-NpcComOnPreBegin#0,"""¡Se acerca una nueva<br>fuente de calor!, por favor ten cuidado, ¡ya viene!"""
+NpcComOnPreBegin#0,"""¡Se acerca una nueva<br>fuente de calor!, por favor ten cuidado, ¡Ya viene!"""
 NpcComOnBegin#0,"""あれはラッピー……でしょうか？<br>敵意は無さそうですが、混乱を防ぐため<br>各員は撃退にあたってください。"""
 NpcComOnSuccess#0,"""混乱を防ぐためとはいえ……<br>少しかわいそうな気がしますね。<br>各員の協力感謝します。"""
 NpcComOnPreBegin#1,"""こいつは新たな熱源反応だな。<br>油断するなよ、これはでかいぞ。"""
