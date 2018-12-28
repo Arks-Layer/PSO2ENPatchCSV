@@ -66,7 +66,7 @@ ExchangeUseMessage_ItemPackFull_SG#0,"""対応するSGスクラッチの景品�
 ExchangeUseButton1#0,"""Yes"""
 ExchangeUseButton2#0,"""No"""
 ExchangeConsumptionTitle#0,"""Prize Exchange Confirmation"""
-ExchangeConsumptionMessage#0,"""Exchanging for the following item:<br><yellow>$(0)<c>×1<br>Is that OK?<br><yellow>※Consumes the item below only.<c><br><br>(Exchange Tickets Owned: $(1))"""
+ExchangeConsumptionMessage#0,"""Exchanging for the following item:<br><yellow>$(0)<c> x1<br>Is that OK?<br><yellow>※Consumes the item below only.<c><br><br>(Exchange Tickets Owned: $(1))"""
 ExchangeConsumptionButton1#0,"""Yes"""
 ExchangeConsumptionButton2#0,"""No"""
 ExplanationMessage#0,"""<c f0df60>Pick a spot you like, and scratch it open!<c>"""
