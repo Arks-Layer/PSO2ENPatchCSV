@@ -163,7 +163,7 @@ NoExchangeMessage#0,"""交換候補アイテムの強化値を<br>+35にして�
 ExchangeTitle#0,"""交換候補アイテム確認"""
 ChangeTitle#0,"""Confirmación"""
 ChangeCheck#1,"""Seran cambiados los objetos seleccionados por.<br><c f0df60>$(0)<c> ×$(1)<br>Los de abajo seran consumidos, ¿Estas segur@<br>de querer continuar?<br><yellow>※ Solo los siguientes objetos seran consumidos.<c>"""
-TargetItem#0,"""Objetivo $(0) × $(1)個"""
+TargetItem#0,"""Objetivo $(0) × $(1)x"""
 TargetItem2#0,"""$(0) × $(1)個"""
 TargetItem3#0,"""$(0) <red>× $(1)個<c>"""
 TargetItem4#0,"""$(0) ＋ $(1)"""
