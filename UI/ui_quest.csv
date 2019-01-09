@@ -256,7 +256,7 @@ RD_Event051_MES#0,"""Deus ESC-A has been successfully subdued. Thank you for you
 RD_Event052_MES#0,"""Emergency broadcast. We have detected signs of a massive Phantom outbreak on Earth. All Lv.80 or above ARKS operatives, please join the operation at your nearest quest counter to begin our strategic operation."""
 RD_Event053_MES#0,"""We have succeeded in repelling the massive Phantom outbreak on Earth. We thank each ARKS for their cooperation."""
 Q_Event001_56_MES#0,"""Contacting everyone. We have detected an abnormal change in Omega, the world beyond. There may be a huge battle in the near future. Please be prepared."""
-Q_Event001_57_MES#0,"""Emergency broadcast. An accident occurred in the Different World - Omega. It seems a huge battle occurred. We want you to hurry down there and sortie as soon as possible."""
+Q_Event001_57_MES#0,"""Emergency broadcast. An accident occurred in Omega. It seems like a huge battle. We want you to hurry down there and sortie as soon as possible."""
 Q_Event001_58_MES#0,"""The battle in Omega has subsided. Thank you for your cooperation with the operation."""
 RD_Event054_MES#0,"""Contacting everyone. We have confirmed the appearance of the Crimson Evil Dragon in Omega. Prepare yourselves and sortie as soon as possible."""
 RD_Event055_MES#0,"""Emergency broadcast. The Crimson Evil Dragon has been confirmed to have been spotted near the ruins of the old Cuent Castle. We want you to hurry down there and repel this threat as soon as possible."""
