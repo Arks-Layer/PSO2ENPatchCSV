@@ -1,5 +1,5 @@
 Title#0,"""Battle the Devil Castle"""
-Explanation#0,"""A Devil Castle has appeared in Omega.<br>War has broken out.<br>Travel to Omega and destroy the Devil Castle.<br>The \""Buster Piles\"" are the key to<br>breaking through the Devil Castle!<br>Let's get to it, Guardians!<br>――――――――――――――――――――<br>Quest ends when time limit expires.<br>If the enemy gauge hits 0, or your gauge is<br>higher at the end of the quest, you win."""
+Explanation#0,"""A Devil Castle has appeared in Omega.<br>War has broken out. Travel to Omega<br>and destroy the Devil Castle.<br>The \""Buster Piles\"" are the key to<br>breaking through the Devil Castle!<br>Let's get to it, Guardians!<br>――――――――――――――――――――<br>Quest ends when time limit expires. If the<br>enemy gauge hits 0, or your gauge is<br>higher at the end of the quest, you win."""
 SimpleExplanation#0,"""Defeat the Devil Castle!"""
 OnQuestBegin_0#0,"""The enemy forces are preparing to<br>attack! Collect Mana and choose your weapon sets!"""
 OnQuestBegin_1#0,"""When you amass enough Mana, ARKS<br>weapons are strengthened and<br>we can summon more Buster Piles!"""
