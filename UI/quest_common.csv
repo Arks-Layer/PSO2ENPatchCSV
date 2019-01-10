@@ -1391,7 +1391,7 @@ MissionOrderPlayerDead_None#1,"""<c ff4f3f>【達成型】$(0)$(1)戦闘不能�
 MissionOrderPlayerHeal_Forward#1,"""<yellow>【加算型】$(0)$(1)回復効果を受けろ"""
 MissionOrderPlayerHeal_Backward#1,"""<c 00ff00>【減算型】$(0)$(1)回復効果を受けるな"""
 MissionOrderPlayerHeal_None#1,"""<c ff4f3f>【達成型】$(0)$(1)回復効果を受けるな"""
-MissionClearBonus#1,"""\""[MISSON $(0)\"" Order Succeeded! Score increases by +$(1) points!"""
+MissionClearBonus#1,"""\""[MISSION $(0)\"" Order Succeeded! Score increases by +$(1) points!"""
 ToastEnterIntervalClient#2,"""インターバルエリア到着！ 制限時間+$(0)秒獲得！"""
 ProgIATitle#1,"""次のエリアへの転送まであと"""
 ProgIAForceMoveTitle#1,"""インターバルエリアへの転送まであと"""
