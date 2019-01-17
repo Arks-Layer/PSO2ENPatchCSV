@@ -13,10 +13,9 @@ def check(i):
 		f = list(csv.reader(QC, strict=True))
 		for x, row in enumerate(f):
 			try:
-				if row is not None:
-					if row[1][1] == '[' and row[1][-2] == ']':
-						print("Unsafe [] in File {} Line {}: {}".format(i, x + 1, row))
-						err = 1
+				if row[0][:4] == "Npc_" and row[1][1] == '[' and row[1][-2] == ']':
+					print("Unsafe [] in File {} Line {}: {}".format(i, x + 1, row))
+					err = 1
 			except Exception as e:
 				print("Issue in File {} Line {}: {}".format(i, x + 1, e))
 				err = 1
