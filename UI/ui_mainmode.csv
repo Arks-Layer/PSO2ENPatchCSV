@@ -2444,7 +2444,7 @@ RebirtherField#1,"""Crea un campo que revive a los aliados incapacitados cercano
 RebirthBornus#1,"""Aplica Shifta y Deband a un aliado revivido por ti."""
 WideSupport#1,"""Incrementa el rango de Resta, Anti, Shifta, y Deband. <yellow>Solo clase principal.<c>"""
 WandGearElement#1,"""Tech explosions pueden causar efectos de estado. <yellow>Clase principal.<c>"""
-TechterChargeTechJA#1,"""チャージテクニックがジャストアタックになる効果を得る。発動後にリキャストが発生する"""
+TechterChargeTechJA#1,"""da efecto de Just Attack a Techs cargadas. puede usarse denuevo luego de un breve enfriamiento."""
 AllAssist#1,"""自身が使用するシフタ、デバンドがフィールド内のパーティーメンバー全員に有効になる。<yellow>このスキルはメインクラスのみ適用される"""
 TechterHighLevelBonus#1,"""Otorga un bono a todo el daño que hagas."""
 TechterNextJump#1,"""Habilita un segundo salto."""
