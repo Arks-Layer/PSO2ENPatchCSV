@@ -10,8 +10,8 @@ import sys
 def check(i):
 	err = 0
 	with codecs.open(i, encoding="utf-8") as QC:
-		CSV = list(csv.reader(QC, strict=True))
-		for x, row in enumerate(CSV):
+		f = list(csv.reader(QC, strict=True))
+		for x, row in enumerate(f):
 			try:
 				if row is not None:
 					if row[1][1] == '[' and row[1][-2] == ']':
