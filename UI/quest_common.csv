@@ -1242,7 +1242,7 @@ MissionOrderPlayerDead_None#0,"""<c ff4f3f>\""Success\"" $(0)$(1)戦闘不能に
 MissionOrderPlayerHeal_Forward#0,"""<yellow>Plus: $(0)$(1)Receive a recovery effect"""
 MissionOrderPlayerHeal_Backward#0,"""<c 00ff00>Minus: $(0)$(1)回復効果を受けるな"""
 MissionOrderPlayerHeal_None#0,"""<c ff4f3f>\""Success\"" $(0)$(1)回復効果を受けるな"""
-MissionClearBonus#0,"""\""MISSION $(0)\"" Order Succeeded! Time extended by $(2) seconds, Score increased by $(1) points."""
+MissionClearBonus#0,"""\""MISSION $(0)\"" Order Succeeded! Time extended by $(2) seconds and score increased by $(1) points."""
 ToastEnterIntervalClient#1,"""You've arrived at the Interval Area! Time has been extended by $(0) seconds!"""
 ProgIATitle#0,"""Until next area"""
 ProgIAForceMoveTitle#0,"""Until the interval area"""
