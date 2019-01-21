@@ -2435,7 +2435,7 @@ SuperTreatment#1,"""Restores you and your target group's HP and temporarily boos
 ExtendAssist#1,"""Increases the duration of Shifta and Deband."""
 TerritoryPPSave#1,"""Reduces PP consumption for support techniques. Territory Burst required."""
 TecherAtpStrikeUp#1,"""Boosts S-ATK."""
-MainWand#1,"""Grants a boost to Wand Gear, normal attacks and Tech attacks, and makes Step Attacks possible. Requires Wand Gear."""
+MainWand#1,"""While toggled on, Wand Gear becomes maxed & never depletes. Boosts the damage of Tech Explosions & Normal Attacks. Enables Step Attacks."""
 LongTimeAssist#1,"""Increases the duration of Shifta and Deband. <yellow>Main class only.<c>"""
 ShiftaStrike#1,"""Grants a damage bonus to Shifta. <yellow>Main class only.<c>"""
 DebandToughness#1,"""Grants a maximum HP bonus to Deband. <yellow>Main class only.<c>"""
