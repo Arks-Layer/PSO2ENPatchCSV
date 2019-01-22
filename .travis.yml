@@ -22,6 +22,7 @@ script:
   - ./_sh/EOL.sh
   - ./_sh/BOM.sh
   - ./_sh/CSV.sh
+  - ./_sh/ODD.sh
   - ./_sh/checkFiles.sh
   - ./_sh/quote.sh
   - ./_sh/dupCSV.sh
