@@ -2319,7 +2319,7 @@ TwinmachinegunGear#1,"""Accumulates gear with attacks, and increases the power o
 ShowTime#1,"""T. Machineguns only. For a fixed time, dramatically raises gear accumulation in exchange for raising hate generation."""
 GunnerHPUp1#1,"""Increases maximum HP."""
 ChainTrigger#1,"""After invoking the skill, normal attack hits will begin a Chain."""
-ChainFinish#1,"""Increases the damage of Chain Finishers. <yellow>Main class only.<c>"""
+ChainFinish#1,"""Twin Machineguns only. Increases the damage of the Chain Finish. <yellow>Main class only.<c>"""
 GunnerDexUp1#1,"""Boosts DEX."""
 AerialAdvance#1,"""Increases damage when attacking airborne enemies."""
 GunnerDexUp2#1,"""Increases dexterity. Greater effect than DEX Boost 1."""
