@@ -1,5 +1,5 @@
 name01#0,"""Xiera"""
-text01#0,"""攻撃時に冷気が出て<br>氷属性へ変わったのが分かりましたか？<br>これが<red>属性の変化<c>です！"""
-text02#0,"""ジェットブーツで戦う際には<br>この効果をうまく活用して、常に<br>エネミーの<red>弱点属性<c>で攻撃しましょう！"""
-text03#0,"""次はジェットブーツの派生攻撃について<br>訓練しましょう！"""
+text01#0,"""Did you see the cold effect appear? This shows that you <red>switched your weapon's attribute<c> to Ice!"""
+text02#0,"""When using Jet Boots, try to keep switching attribute to <red>match the enemy's attribut weakness<c>!"""
+text03#0,"""Next, let's learn about Jet Boots Shift Actions!"""
 text101#0,"""Task Completed!"""
