@@ -1,4 +1,4 @@
-train_title#0,"""Task 6: <yellow>タリスの派生アクションとPAを組み合わせて発動させる"""
-tut_title#0,"""タリスの派生アクションについて"""
-text100#0,"""・<%NormalAttack>でタリスの「ジェットホイール」を発動する<br>・「ジェットホイール」発動中に<br>\u3000<%PhotonArts>で「ダイブオブバレット」を長押しする"""
-text100_3b#0,"""・<%PhotonArts>でタリスの「ジェットホイール」を発動する<br>・「ジェットホイール」発動中に<br>\u3000<%MainPaletteC>で「ダイブオブバレット」を長押しする"""
+train_title#0,"""Task 6: <yellow>Combine two PAs in a combo"""
+tut_title#0,"""Talis special actions"""
+text100#0,"""・Use the Talis PA \""Jet Wheel\"" using <%NormalAttack><br>・While \""Jet Wheel\"" is active, press and<br>\u3000hold <%PhotonArts> to switch weapons with \""Dive Bullet\""."""
+text100_3b#0,"""・Use the Talis PA \""Jet Wheel\"" using <%PhotonArts><br>・While \""Jet Wheel\"" is active, press and<br>\u3000hold <%MainPaletteC> to switch weapons with \""Dive Bullet\""."""

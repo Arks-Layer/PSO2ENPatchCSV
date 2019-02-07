@@ -1,3 +1,3 @@
-train_title#0,"""Task 9: <yellow>ヒーロータイムとヒーロータイムフィニッシュを発動させる"""
-tut_title#0,"""ヒーロータイムフィニッシュについて"""
-text100#0,"""サブパレットのスキルアイコンから<br>・ヒーロータイムを発動する<br>・もう一度スキルアイコンを押す<br>・ヒーロータイムフィニッシュを発動する"""
+train_title#0,"""Task 9: <yellow>Activate Hero Time and Hero Finish"""
+tut_title#0,"""Hero Time Finish"""
+text100#0,"""From the skill icon in the Subpalette:<br>・Activate Hero Time<br>・Press the skill icon again<br>・Activate Hero Time Finish"""

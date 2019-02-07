@@ -1,4 +1,4 @@
-train_title#0,"""Task 2: <yellow>ソードの武器アクションである気弾攻撃をエネミーにあてる"""
-tut_title#0,"""気弾攻撃について"""
-text100#0,"""・<%WeaponAction>でソードの武器アクションを行う"""
-text100_3b#0,"""・<%MainPaletteC>でソードの武器アクションを行う"""
+train_title#0,"""Task 2: <yellow>Hit an enemy with Sword's Weapon Action, Aura Bullet"""
+tut_title#0,"""Aura Bullet"""
+text100#0,"""・Use a Sword Weapon Action with <%WeaponAction>"""
+text100_3b#0,"""・Use a Sword Weapon Action with <%MainPaletteC>"""
