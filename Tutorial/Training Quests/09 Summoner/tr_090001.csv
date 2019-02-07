@@ -1,5 +1,5 @@
 name01#0,"""Xiera"""
-text01#0,"""セットできましたね！"""
-text02#0,"""ペットは武器にセットしないと<br>呼び出せないので<br>忘れずにセットしてください。"""
-text03#0,"""次はセットしたペットに<br>攻撃命令を出してみましょう。"""
+text01#0,"""It's all set!"""
+text02#0,"""Please don't forget to set your Pets, as they can't be summoned unless they're set to a weapon."""
+text03#0,"""Next, let's try issuing an attack command to your set Pet."""
 text101#0,"""Task Completed!"""
