@@ -5,6 +5,6 @@ text03#0,"""Try using Point Assist on an enemy, then make your Pet attack <red>t
 text101#0,"""Task 3: <yellow>Attack a part with Point Assist on it"""
 train_title#0,"""Task 3: <yellow>Attack a part with Point Assist on it"""
 tut_title#0,"""Point Assist"""
-text100#0,"""・Activate \""Point Assist\"" from the Subpalette<br>・Attack the marked enemy with your Pet"""
+text100#0,"""・Activate \""Point Assist\"" from<br>\u3000the Subpalette<br>・Attack the marked enemy with your Pet"""
 tut_win_title#0,"""Point Assist"""
 tut_win_text100#0,"""Point Assist is a Class Skill that places a marker on an enemy.<br><br>If your Pet attacks the marked part, it will deal increased damage."""

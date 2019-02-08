@@ -5,6 +5,6 @@ text03#0,"""Try switching to over-the-shoulder view and <red>aiming at the enemy
 text101#0,"""Task 4: <yellow>Target the weak spot in over-the-shoulder view"""
 train_title#0,"""Task 4: <yellow>Target the weak spot in over-the-shoulder view"""
 tut_title#0,"""Bullet Bows"""
-text100#0,"""・Use <%ChangeView> to switch to shoulder view<br>・Attack the enemy's head"""
+text100#0,"""・Use <%ChangeView> to switch to<br>\u3000shoulder view<br>・Attack the enemy's head"""
 tut_win_title#0,"""Over-the-shoulder view"""
 tut_win_text100#0,"""Over-the-shoulder view is a camera mode intended for performing precise attacks with shooting weapons.<br><br>You can change to this camera mode by pressing <%ChangeView>. Press <%ChangeView> again to return to your normal camera mode."""

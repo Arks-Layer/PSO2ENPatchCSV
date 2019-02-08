@@ -5,6 +5,6 @@ text03#0,"""Switch to over-the-shoulder view, aim for the center of the 4 enemie
 text101#0,"""Task 3: <yellow>Hit multiple enemies simultaneously with shoulder view"""
 train_title#0,"""Task 3: <yellow>Hit multiple enemies simultaneously with shoulder view"""
 tut_title#0,"""Launchers"""
-text100#0,"""・Use <%ChangeView> to switch to shoulder view<br>・Hit the middle of the group of 4 enemies"""
+text100#0,"""・Use <%ChangeView> to switch to<br>\u3000shoulder view<br>・Hit the middle of the group of<br>\u30004 enemies"""
 tut_win_title#0,"""Over-the-shoulder view"""
 tut_win_text100#0,"""Over-the-shoulder view is a camera mode intended for performing precise attacks with shooting weapons.<br><br>You can change to this camera mode by pressing <%ChangeView>. Press <%ChangeView> again to return to your normal camera mode."""

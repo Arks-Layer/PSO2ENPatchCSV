@@ -1,5 +1,5 @@
 name01#0,"""Xiera"""
-text01#0,"""Let's use the [<Foie<c>] that we just learned!"""
+text01#0,"""Let's use the <red>Foie<c> that we just learned!"""
 text02#0,"""You can cast a Technique with <red>the button to which you assigned it<c>."""
 text101#0,"""Task 2: Cast Foie"""
 train_title#0,"""Task 2: <yellow>Cast Foie"""
