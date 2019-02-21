@@ -2,7 +2,7 @@ os: linux
 env:
   - PARALLEL="--block 43K"
 
-dist: trusty
+dist: xenial
 
 cache:
   apt: true
