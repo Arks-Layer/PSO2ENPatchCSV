@@ -1056,6 +1056,7 @@ OnBaseHpDecrease1#0,"""¡La Buster Tower $(0) no se ve muy bien!<br>¡Por favor,
 OnBrokenBase1#0,"""¡Una Buster Tower ha sido destruida!<br>Sólo nos quedan 3!<br>Todavía tenemos margen de maniobra!<br>¡Sigamos adelante!"""
 OnBrokenBase2#0,"""¡Otra Buster Tower ha sido destruida!<br>¡No podemos predecir nuestro estado actual!<br>¡Tenga cuidado!"""
 OnBrokenBase3#0,"""¡Otra torre ha sido destruida!<br>¡Defiende nuestra última torre!"""
+OnBrokenBaseLowSolo1#0,"""１つ目の破界塔、機能停止！<br>残る１つは必ず死守して下さい！"""
 OnHpGaugeDecrease0#0,"""¡Nuestra torre está siendo dañada!<br>¡Si el daño se vuelve más grande,<br>tendremos que retirarnos!"""
 OnHpGaugeDecrease1#0,"""El daño actual recibido es enorme!<br>No podemos soportar más!<br>Por favor proteja las torres dañadas y minimice el daño!"""
 OnTimeDecreaseRate#0,"""¡Nuestro tiempo de combate está por terminar!<br>¡Si podemos destruir el Devil Castle aquí,<br>podremos alcanzar la victoria!"""
