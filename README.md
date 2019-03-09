@@ -25,7 +25,7 @@ If you don't understand Japanese, but still want to help out, you can look over 
 
 ### Notice
 * If you want to translate a file that's in the "/Files/" directory then you **MUST** [move the file into another directory](https://github.com/blog/1436-moving-and-renaming-files-on-github) before you translate it. The /Files/ directory **MUST** only contain untranslated files.
-* You can find stuff to translate by using the GLaDOS bot in the #translations-public room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
+* You can find stuff to translate by using the Meka bot in the #translations-reporting room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
 
 * Maintain the triple quotes and only edit the text inside the quotes.
 * Be sure to take a look at the **[Wiki]** page for guides and reminders before sending us your translations.
