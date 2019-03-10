@@ -1,0 +1,7 @@
+skit01#0,"""/ci1 2 Oh syukurlah, ARKS ada di sini!"""
+skit02#0,"""/ci1 2 Bantu kami, ARKS!"""
+skit03#0,"""/ci1 2 Kita telah menemukan warga-warga lain. Mungkin ada teleporter evakuasi lain di dekat sini. Ayo!"""
+skit01#1,"""Oh syukurlah, ARKS ada di sini!"""
+skit02#1,"""Bantu kami, ARKS!"""
+skit03#1,"""Kita telah menemukan warga-warga lain. Mungkin ada teleporter evakuasi lain di dekat sini. Ayo!"""
+LineWindow#0,"""<c ffff00>Gagal jika ada warga yang jatuh.<c>"""
