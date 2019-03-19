@@ -533,6 +533,8 @@ AttentionNewRoom_HighLevelQuest#1,"""<red>受注中のクエストは<br>「破�
 HighScore_Solo#0,"""(Solo)"""
 HighScore_Multi#0,"""(4 Classes)"""
 HighScore_All#0,"""(Free)"""
+HighScore_Duo#0,"""(Duo)"""
+HighScore_Trio#0,"""(Trio)"""
 Basnet_Grade_ProperBattle#0,"""Main Match"""
 Basnet_Grade_Support_Battle#0,"""Free Match"""
 Basnet_Grade_LimitedBattle#0,"""Main Match: Adv."""
