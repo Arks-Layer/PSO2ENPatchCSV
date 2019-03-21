@@ -1,6 +1,6 @@
 name01#0,"""シエラ"""
 text01#0,"""<%me><br>¡El Story Board ha sido actualizado!"""
 text02#0,"""Estaré esperando en el área del puente.<br>¡Por favor, pasa por aquí y recógelo!"""
-window_message_0010#0,"""ir al puente"""
+window_message_0010#0,"""Ir al puente"""
 window_message_0020#0,"""No ir al puente"""
 window_message_0000#0,"""¿Te gustaría ir al puente?"""
