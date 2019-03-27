@@ -13,7 +13,7 @@ text02#0,"""For <c 00ffff>New Type Weapons<c>, the \""Item Details\"" tab, an EX
 text03#0,"""With New Type Weapons, they offer much better stats and performance than the Old Type Weapons.<br><br>Various enemies as well as the \""Collect File,\"" drop these NT<br>Weapons."""
 Title#1,"""About Grinding NT Weapons"""
 text01#1,"""You can upgrade weapons at the Item Lab. Upgrading allows you to customize your weapons and armor units."""
-text02#1,"""You need the following to perform an upgrade:<br><br>- A grinder<br>- Meseta<br><br>Note that they will be used up in the process of upgrading weapons and armor."""
+text02#1,"""You need the following to perform an upgrade:<br><br>- A grinder<br>- Meseta<br>- Another NT Weapon<br>Note that they will be used up in the process of upgrading weapons and armor."""
 text03#1,"""Upgrading may succeed or it may fail. When it succeeds, item performance improves. When it fails, there is a chance that item performance may decline."""
 text04#0,"""A successful grind will display its new grind level compared to its previous grind level."""
 text05#0,"""The greater number of weapons added, the greater the EXP bonus on the success.<br><br>You can also increase the success rate by using a \""Support Item\"", such as a \""Great Grind Success Rate-type\"" item."""

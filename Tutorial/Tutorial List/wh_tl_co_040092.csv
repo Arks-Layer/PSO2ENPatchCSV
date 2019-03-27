@@ -1,6 +1,6 @@
 Title#0,"""About Grinding NT Weapons"""
 text01#0,"""You can upgrade weapons at the Item Lab. Upgrading allows you to customize your weapons and armor units."""
-text02#0,"""You need the following to perform an upgrade:<br><br>- A grinder<br>- Meseta<br><br>Note that they will be used up in the process of upgrading weapons and armor."""
+text02#0,"""You need the following to perform an upgrade:<br><br>- A grinder<br>- Meseta<br>- Another NT Weapon<br><br>Note that they will be used up in the process of upgrading weapons and armor."""
 text03#0,"""Upgrading may succeed or it may fail. When it succeeds, item performance improves. When it fails, there is a chance that item performance may decline."""
 text04#0,"""A successful grind will display its new grind level compared to its previous grind level."""
 text05#0,"""The greater number of weapons added, the greater the EXP bonus on the success.<br><br>You can also increase the success rate by using a \""Support Item\"", such as a \""Great Grind Success Rate-type\"" item."""
