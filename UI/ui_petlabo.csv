@@ -71,7 +71,7 @@ Inheritance_Confirm_Color#0,"""<yellow>※色違いのエッグが選択され�
 Message_Title#1,"""Regresar mascota al huevo"""
 Warning_Message#0,"""Todos los objetos y efectos a continuación serán eliminados:<br><red>Síntesis de huevo: Todas las  síntesis cargadas veces<c><br><red>caja de dulces: Dulces puestos<c><br>Caja de dulces<red>: cubos de caramelo eliminados<c><br>¿Estas seguro de querer continuar?"""
 Warning_Rarity#0,"""En los dulces puestos hay<br>$(0) raros o incluso mas<br>¿Estas seguro que querer continuar?"""
-FinalConfirm_Message#0,"""Regresando la mascota 『$(2)』 a el huevo.<br>¿Estas seguro que querer continuar?<br>※<yellow>La mascota iene registro de dueño<c>,<br>y no podra ser tradeado<c><br><br><red>※Todos los objetos y efectos a continuación<br>seran eliminados<br>La cantidad de syntesis es ０.<c><br>Dulces en la caja: $(0)<br>Numero de cargas combinadas restantes: $(1)<br>Todos los dulces seran borrados"""
+FinalConfirm_Message#0,"""Regresando la mascota 『$(2)』 al huevo.<br>¿Estas seguro que querer continuar?<br>※<yellow>La mascota tiene registro de dueño<c>, y no podra ser tradeada.<c><br><red>※Todos los objetos y efectos a continuación<br>seran eliminados, la cantidad de syntesis es ０.<c><br>Dulces en la caja: $(0)<br>Cargas combinadas restantes: $(1)<br>Todos los dulces seran borrados"""
 Result#0,"""Mascota regresada al huevo"""
 ReverseEggBackpackErrorMessage#0,"""アイテムパックの空き容量不足、<br>または所持数の限界を超えているため、<br>エッグに戻せませんでした。"""
 FinalConfirm_GuideBar#0,"""<c f0df60>Pantalla de confirmación final para volver al huevo.<c>"""
