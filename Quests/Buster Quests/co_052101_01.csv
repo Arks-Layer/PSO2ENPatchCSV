@@ -1,0 +1,8 @@
+name01#0,"""シエラ"""
+name02#0,"""シエラ"""
+name03#0,"""シエラ"""
+11_voice_navi09f_war_066#0,"""魔神結界を突破して<br>魔神城を壊しましょう！"""
+text00#0,"""Mengalahkan Devil Castle"""
+text01#0,"""Quest ini bertujuan untuk menghancurkan Devil Castle<br>sambil melindungi <c 00ffff>Buster Tower<c>.<br><br>Lindungi menara dalam <c 00ffff>Defense Phase<c><br>dan ketika <c 00ffff>Buster Phase<c> dimulai,<br>kamu akan melakukan serangan pada kastil itu.<br>Proses ini akan berlanjut dengan pergantian fase berulang kali.<br><br>Di selang kedua fase, akan ada <c 00ffff>Cool Time<c><br>untuk mempersiapkan pergantian fase."""
+text02#0,"""Kamu bisa melihat status dari pasukanmu<br>dan pasukan musuh dari <c 00ffff>Strength Gauge<c>. Kemenangan akan diraih jika <yellow>Devil Castle hancur<c><br>atau ketika waktu habis, <yellow>Strength Gauge-mu<c> lebih tinggi daripada musuh.<br><br>Strength Gauge akan berkurang jika:<br><c 00ffff>◇Pasukanmu<c><br>・Buster Tower mendapat kerusakan<br><br><c 00ffff>◇Pasukan musuh<c><br>・Devil Castle hancur<br>・Devil Castle mendapat kerusakan"""
+text03#0,"""Saat seorang pemain tidak dapat bertempur lagi,<br><yellow>mereka akan dibangkitkan kembali secara otomatis<br>dari tempat asal<c>, setelah sekian waktu berlalu.<br><br>Selain itu, Moon Atomizer juga bisa digunakan."""
