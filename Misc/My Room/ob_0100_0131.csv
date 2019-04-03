@@ -25,4 +25,4 @@ result4#2,"""{red}〇娯楽\u3000［凶運Ｎｏ．４‐Ｄ］<br>{def}大損�
 result5#2,"""{red}〇研究\u3000［凶運Ｎｏ．５‐Ｄ］<br>{def}努力が実りにくいですが<br>あせらずに辛抱づよく続けましょう！"""
 FullSize_Help#0,"""<c f0df60>運をためす事ができる不思議な祠です。<c>"""
 Child_Menu1#0,"""運をためす"""
-Child_Menu2#0,"""戻る"""
+Child_Menu2#0,"""Return"""
