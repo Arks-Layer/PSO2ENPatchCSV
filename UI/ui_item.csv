@@ -1748,7 +1748,7 @@ TraceMessage#0,"""<yellow>Weapon Form Pass Needed: $(0) (Have: $(1))<br>Meseta N
 TraceCheckSubTitle1#0,"""Weapon Form"""
 TraceCheckSubTitle2#0,"""Required items"""
 TraceCheckSubTitle3#0,"""Weapon Form Change item"""
-ItemTraceCheckTitle#0,"""Confirm Weapon Form"""
+ItemTraceCheckTitle#0,"""Confirm Weapon Form Usage"""
 ItemTraceMessage#0,"""This will change the appearance of the weapon.<br>Continue?<br><br>※The item stats will not change<br>※Photon color information<br>\u3000The photon color will be changed to the<br>\u3000default even if it was changed.<br>※Once you change the appearance<br>\u3000Both the base item and the item changed<br>\u3000will be become untradeable."""
 ResetTraceCheckTitle#0,"""Weapon Form Reset"""
 ResetTraceCheckSubTitle#0,"""Weapon Form"""
