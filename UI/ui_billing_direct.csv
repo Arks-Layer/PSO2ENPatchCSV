@@ -11,7 +11,7 @@ SGShopGuide#0,"""<c f0df60>This will use AC (ARKS Cash) and give you SG (Star Ge
 ListWindowTitle#0,"""Goods List"""
 ListWindowACButton#0,"""Charge AC"""
 ListWindowHistory#0,"""Purchase History"""
-ListWindowBack#0,"""戻る"""
+ListWindowBack#0,"""Return"""
 NameOfItem#0,"""<yellow>$(0)<c>"""
 DescriptionOfItem#0,"""$(0)"""
 MySGWindowTitle#0,"""Owned SG"""
