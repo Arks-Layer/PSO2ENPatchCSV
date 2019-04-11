@@ -634,7 +634,7 @@ UseItemBagMessage#0,"""This will unlock \""$(0)\""<br>and acquire the following 
 UseItemBagError1#0,"""Insufficient space in inventory to receive items."""
 UseItemBagError2#0,"""Exceeded the max number of items that you can carry."""
 UseItemBagError3#0,"""Failed to acquire item."""
-ConsumeErrorMessage12#0,"""You cannot use this item as<br>it would exceed the duration limit.""""
+ConsumeErrorMessage12#0,"""You cannot use this item as<br>it would exceed the duration limit."""
 UseCraftEnchantItemMessage#0,"""A timed ability will be added on the following unit.<br><br><yellow>$(0)<c><br><br>※The unit will be <yellow>bound to owner<c>, which will prevent you<br>to sell it to other players."""
 UseCraftEnchantTimeExtensionItemMessage#0,"""$(0)の効果を以下のユニットに付与します。<br><br><yellow>$(1)<c><br><br>※効果時間は使用後に消費を開始します。"""
 CraftEnchantItemUseErrorNoEquip#0,"""Cannot be used. The corresponding unit is not equipped."""
