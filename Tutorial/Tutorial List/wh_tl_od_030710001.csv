@@ -1,5 +1,5 @@
 name01#0,"""Jet Boots"""
 text01#0,"""Jet Boots are weapons that fight by combining melee attacks with Techniques. While using Jet Boots, you can perform a mid-air double jump.<br><br><%WeaponActionText>: Evade on the spot."""
-text02#0,"""Jet Boots perform acrobatic kicking attacks based around kicks.<br><br><%WeaponActionText> after a normal attack: Unleash a flurry of kicks."""
+text02#0,"""Jet Boots perform acrobatic attacks based around kicks.<br><br><%WeaponActionText> after a normal attack: Unleash a flurry of kicks."""
 text03#0,"""When using Jet Boots, you can set Techniques on your Weapon Palette and incorporate them into your combo."""
 text04#0,"""Each Jet Boots Photon Art has a Shift Action, an alternate mode that often has some special extra effect such as casting Shifta or Deband.<br><br><%WeaponActionText> during or after a PA: Perform that PA's Shift Action."""
