@@ -8139,7 +8139,7 @@ pet_KillCountBonus#1,"""Boosts damage inflicted each<br>time you defeat an enemy
 pet_KillCountBonusPlus#1,"""Boosts damage inflicted as well<br>as item drop rate each time<br>you defeat an enemy."""
 pet_AroundEnemyBonus#1,"""Boosts damage inflicted based on<br>the number of enemies<br>within a set range."""
 pet_AroundEnemyBonusPlus#1,"""Boosts damage inflicted as well<br>as item drop rate based on<br>the number of enemies within a set range."""
-pet_MultiPersonality1#1,"""Boosts Rare Drop Rate, gives the<br>effects of \""Fervent\"" and \""Enjoys Sun\""."""
+pet_MultiPersonality1#1,"""Boosts Rare Drop Rate, gives the<br>effects of \""Fervent\"" and \""Enjoys<br>Sun\""."""
 pet_MultiPersonality2#1,"""Boosts Rare Drop Rate, gives the<br>effects of \""Docile\"" and \""Diligent\""."""
 pet_MultiPersonality3#1,"""Boosts Rare Drop Rate, gives the<br>effects of \""Adept\"" and \""Serene\""."""
 pet_MultiPersonality4#1,"""Boosts Rare Drop Rate, gives the<br>effects of \""Adverse\"" and \""Fierce\""."""
