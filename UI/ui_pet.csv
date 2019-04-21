@@ -130,7 +130,7 @@ DirectBuy_EggSynthesisNum_FromButton_Msg#0,"""<pict StarGem><c 1dedd7>SG require
 DirectBuy_EggSynthesisNum_FromEmpty_Title#0,"""Item Purchase Confirmation"""
 DirectBuy_EggSynthesisNum_FromEmpty_Msg#0,"""<pict StarGem><c 1dedd7>SG required content<c><br><br>The Synthesis Charges<br>of $(0) is insufficient.<br>Proceed to the [Synthesis Charge Recovery]<br>purchase screen?"""
 DirectBuy_EggSynthesisNum_Confirm_Title#0,"""Item Purchase Confirmation"""
-DirectBuy_EggSynthesisNum_Confirm_Msg#0,"""[Synthesis Charge Recovery] is about to be purchased for $(0)<pict StarGem> (usually 100<pict StarGem>).<br><yellow>※When purchasing consecutively, the price of the<br>first 9 items will be discounted, but the discount<br>rate will progressively decrease.<c><br>※Number of purchases resets at 5am every day.<br>(Current <pict StarGem>: $(1))"""
+DirectBuy_EggSynthesisNum_Confirm_Msg#0,"""[Synthesis Charge Recovery] is about to be purchased for $(0)<pict StarGem> (usually 100<pict StarGem>).<br><yellow>※When purchasing consecutively, the price of<br>the first 9 items will be discounted, but the discount<br>rate will progressively decrease.<c><br>※Number of purchases resets at 5am every day.<br>(Current <pict StarGem>: $(1))"""
 DirectBuy_EggSynthesisNum_Confirm_ItemName#0,"""Synthesis charge recovery"""
 DirectBuy_EggSynthesisNum_Item01#0,"""Synthesis charge recovery (1st)"""
 DirectBuy_EggSynthesisNum_Item02#0,"""Synthesis charge recovery (2nd)"""
