@@ -1,12 +1,7 @@
-# This language branch requires a maintainer before any future translation work can be accepted. If you are interested then contact Aida Enna#0001 on the **[PSO2 Discord Server]**.
-
-
 # PSO2 Indonesian Patch
 Selamat datang di repositori CSV PSO2 Indonesian Patch
 
 **Status tes dan cek saat ini** (Arks-Layer): [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/ID)
-
-**Status tes dan cek saat ini** (DOTzX): [![CircleCI](https://circleci.com/gh/DOTzX/PSO2ENPatchCSV/tree/ID.svg?style=svg)](https://circleci.com/gh/DOTzX/PSO2ENPatchCSV/tree/ID)
 
 **Translation Status:** Sedang dikerjakan (On-going)
 
