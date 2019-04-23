@@ -6,5 +6,3 @@ text05#0,"""Hey, how about you show me the whole skill learning process? Aw, c'm
 text00#0,"""Skill Points"""
 text01#0,"""This is an explanation of skill points.<br><br>Skill points are used to learn \""class skills,\"" the unique skills for each class.<br><br>Skill points are gained by leveling up and through client orders."""
 text02#1,"""You'll need to go to the Class Counter to learn class skills.<br><br>The Class Counter is in the gate area central hall."""
-text03#1,"""Use the skill tree at the Class Counter to learn class skills.<br><br>The skill tree is composed of class skill branches.<br><br>It's designed so that when a class skill exceeds a certain level, the next class skill below it can be chosen."""
-text04#1,"""Choose a class skill, then increase its level by consuming skill points.<br><br>Not all class skills can be learned, so plan how to use your skill<br>points.<br><br>※Some skills cost 0 SP to learn.<br>※Some skills require you to reach a certain minimum level before they can be learned."""

@@ -5,7 +5,3 @@ text03#0,"""And make sure to keep in mind how you want your Mag to develop until
 text00#0,"""Mag Devices"""
 text01#1,"""This is an explanation of Mag devices.  Using Mag devices allows you to overwrite existing abilities and give new ones to Mags. They can also change the appearance of the Mags themselves."""
 text02#1,"""After choosing a Mag, select \""Use a Device\"" from the menu to assign a Mag device."""
-text03#1,"""There are a variety of devices, including those that change the color and the shape of a Mag, change its photon blast ability, and advance its growth.  Use devices to customize your favorite Mags."""
-text04#0,"""「打撃デバイス」「射撃デバイス」<br>「法撃デバイス」は、マグが自動で<br>エネミーに攻撃するアクションの<br>設定をすることができるデバイスです。"""
-text05#0,"""「進化デバイス」はマグの形態を<br>変更できるデバイスです。<br><br>マグはLv.30、Lv.100で形態が変化し、<br>Lv.100以上に達しているマグの形態を<br>好みの見た目に変更することができます。<br><br>※進化デバイスを使用して変化したマグは<br>「マグ形態変更パス」を使用することで<br>過去の形態に戻すことができます。"""
-text06#0,"""他にも習得した「フォトンブラスト」や<br>マグのカラー設定を変更するデバイスが<br>ショップエリアの交換ショップで<br>陳列されています。<br>様々なデバイスを使用し、<br>自分好みのマグを育成しましょう。"""
