@@ -1,5 +1,7 @@
 Title#0,"""Return of the Demon"""
 Explanation#0,"""<%me>がヒューイと共に<br>向かった先には巨大な敵性反応が<br>あるはずだった。<br><br>しかし、見渡す限りそこに敵影はなく<br>ただ静かに、しかし強かな<br>存在感だけがあった。<br>――――――――――――――――――――<br>Failure Condition / Select retire after being incapacitated."""
+StoryExplanation#0,"""<%me>がヒューイと共に<br>向かった先には巨大な敵性反応があるはずだった。<br>しかし、見渡す限りそこに敵影はなく<br>ただ静かに、しかし強かな存在感だけがあった。"""
+StoryCondition#0,"""・【独極訓練：天極と地極】のクリア<br><br><br>クリア後に再度受注してください。"""
 SimpleExplanation#0,"""Repel the Demon Phaleg!"""
 Area0S#0,"""Las Vegas"""
 Area0L#0,"""Earth: Las Vegas"""
