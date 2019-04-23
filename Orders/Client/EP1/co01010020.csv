@@ -1,3 +1,3 @@
 Title#0,"""Application de la Lisence Mag"""
 Explanation#0,"""Il s'agit d'une mission d'entrainement qui a pour<br>but de vous permettre<br>d'utiliser un Mag, avec les regles ARKS.<br><br>Pour completer cette mission, recuperez les<br>elements spécifiés. Une fois cela fait,<br>vous recevrez une license<br>qui vous permettra d'utiliser les Mags.<br><br><yellow>※objets droppés par Fangulf<c>"""
-Errand#0,"""○○さんの話を聞いてくる"""
+Target#0,"""コフィーの説明を聞く"""
