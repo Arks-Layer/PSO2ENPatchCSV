@@ -2756,7 +2756,7 @@ VillainGespenst#1,"""Reduce damage taken when at 50% or lower HP and nullify sta
 VillainAmbivalence#1,"""While using a Rod, accumulates markers and gear by doing Technics. <yellow>Main class only."""
 VillainTouchDown#1,"""タッチダウン"""
 VillainDodge#1,"""For a limited time, become invincible and your movement speed increases while charging a technique. <yellow>Main class only."""
-PrimalTimePlus2#1,"""Provides a Marker Accumulation Bonus during Phantom Time.<yellow>Main class only."""
+PrimalTimePlus2#1,"""Provides a Marker Accumulation Bonus during Phantom Time. <yellow>Main class only."""
 VillainHighLevelBonus#1,"""Grants a bonus to all damage you deal."""
 VillainAllAttackBonus#1,"""Grants a bonus to player and pet damage."""
 VillainPhotonStream2#1,"""Increases Critical Rate and Critical Damage based on the Max PP. A limit on Critical Damage and Critical Rate is in place."""
