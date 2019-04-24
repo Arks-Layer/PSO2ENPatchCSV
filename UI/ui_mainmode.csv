@@ -2721,7 +2721,7 @@ VillainDushJump#1,"""Te muéves rápidamente saltando después de usar Step o Di
 VillainStepJACombo#1,"""JA de nuevo después de realizar una Step action."""
 VillainJustReversalJACombo#1,"""JA de nuevo después de realizar un Just Reversal."""
 VillainPPHighUp#1,"""Aumenta bruscamente el PP máximo."""
-VillainWeaponBonus1#1,"""Aumenta el daño. al equipar Armas Phantom,.<yellow>Solo PH.<c>""
+VillainWeaponBonus1#1,"""Aumenta el daño. al equipar Armas Phantom,.<yellow>Solo PH.<c>"""
 VillainWeaponBonus2#1,"""Aumenta el daño. al equipar Armas Phantom,.<yellow>Solo PH.<c>"""
 VillainCounter#1,"""ファントムカウンター"""
 VillainOneMoreJump#1,"""ファントムワンモアジャンプ"""
