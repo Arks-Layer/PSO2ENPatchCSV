@@ -1004,5 +1004,5 @@ QuesText#0,"""進行するEPISODEを<br><c f0df60>EPISODE $(0) <c>に変更し�
 MsgNowEpisode#0,"""Changed to the selected EPISODE"""
 CaptionText1#0,"""Episode Oracle"""
 CaptionText2#0,"""Episode Earth"""
-CaptionText3#0,"""Episode Phantom"""
+CaptionText3#0,"""Episode Photoner"""
 EventImage#0,"""Story Information"""
