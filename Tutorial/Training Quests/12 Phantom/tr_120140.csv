@@ -3,7 +3,7 @@ text01#0,"""それでは、応用編です！<br>基本ＰＡとシフトＰＡ�
 text02#0,"""「ヴォルケンクラッツァー」の<br>シフトＰＡで前方へ攻撃後<br>基本ＰＡで落下攻撃です！"""
 text101#0,"""Task 5: <yellow>Use a PA 3 times after a Katana Shift PA"""
 train_title#0,"""Task 5: <yellow>Use a PA 3 times after a Katana Shift PA"""
-tut_title#0,"""Consecutive Shift PAs"""
+tut_title#0,"""Attacking After Shift PAs"""
 text100#0,"""・Activate your Weapon Action with <%WeaponAction><br>・Use a PA with <%PhotonArts><br>・Use another PA"""
 text100_3b#0,"""・Activate your Weapon Action with <%MainPaletteC><br>・Use a PA with <%PhotonArts><br>・Use another PA"""
 tut_win_text100#0,"""***について説明します。"""

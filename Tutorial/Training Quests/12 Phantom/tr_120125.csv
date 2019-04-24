@@ -5,5 +5,5 @@ text03#0,"""付与された状態で<br>チャージした武器アクション�
 text101#0,"""Task 8: <yellow>Detonate a marker with a charged Weapon Action 3 times"""
 train_title#0,"""Task 8: <yellow>Detonate a marker with a charged Weapon Action 3 times"""
 tut_title#0,"""Detonating Markers"""
-text100#0,"""・Place a marker<br>・Use a charged Weapon Action to detonate the marker with <%PhotonArts>"""
-text100_3b#0,"""・Place a marker<br>・Use a charged Weapon Action to detonate the marker with <%MainPaletteC>"""
+text100#0,"""・Place a marker<br>・Use a charged Weapon Action<br>to detonate the marker with <%PhotonArts>"""
+text100_3b#0,"""・Place a marker<br>・Use a charged Weapon Action<br>to detonate the marker with <%MainPaletteC>"""

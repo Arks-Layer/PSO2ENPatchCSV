@@ -6,6 +6,6 @@ text04#0,"""ファントムでは<br>ロッド装備中にテクニックを使�
 text101#0,"""Task 3: <yellow>Hit an enemy with a Rod Technique"""
 train_title#0,"""Task 3: <yellow>Hit an enemy with a Rod Technique"""
 tut_title#0,"""Technique Attacks"""
-text100#0,"""・Use <%SubPalette1> to hit enemies with Techniques"""
-text101#1,"""・Use <%SubPalette> to hit enemies with Techniques"""
+text100#0,"""・Use <%SubPalette1> to hit enemies<br>with Techniques"""
+text101#1,"""・Use <%SubPalette> to hit enemies<br>with Techniques"""
 text102#0,"""Use a Subpalette icon to cast a Technique on an enemy"""
