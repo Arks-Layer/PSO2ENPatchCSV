@@ -1,0 +1,8 @@
+name01#0,"""Xiera"""
+text01#0,"""成功です！<br>続けて、アサルトライフルの<br>フォトンアーツ訓練になります！"""
+text02#0,"""「クーゲルシュトゥルム」は<br>長押しすることで、２回目の<br>掃射タイミングを調整できます！"""
+text101#0,"""Task 6: <yellow>Use Assault Rifle PAs 3 times"""
+train_title#0,"""Task 6: <yellow>Use Assault Rifle PAs 3 times"""
+tut_title#0,"""Photon Arts"""
+text100#0,"""・Use a Photon Art with <%WeaponAction> and <%PhotonArts>"""
+text100_3b#0,"""・Use a Photon Art with <%PhotonArts>"""

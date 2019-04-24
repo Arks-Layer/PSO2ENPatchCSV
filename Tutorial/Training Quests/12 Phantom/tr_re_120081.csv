@@ -1,0 +1,6 @@
+train_title#0,"""Task 4: <yellow>Use the Katana Weapon Action on an enemy"""
+tut_title#0,"""The Katana Weapon Action"""
+text100#0,"""・Use the Katana Weapon Action<br>on enemies with <%WeaponAction>"""
+text100_3b#0,"""・Use the Katana Weapon Action<br>on enemies with <%MainPaletteC>"""
+tut_win_title#0,"""The Phantom Katana Weapon Action"""
+tut_win_text100#0,"""Phantom Katana's Weapon Action lets you perform a slash while evading, meaning you never have to stop attacking when you fight.<br><br><c ffff00>※Shift PAs do not activate during charged Weapon Actions.<c>"""

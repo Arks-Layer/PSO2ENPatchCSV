@@ -1,0 +1,6 @@
+train_title#0,"""Task 9: <yellow>Attack enemies and gain Phantom Gear"""
+tut_title#0,"""Phantom Gear"""
+text100#0,"""・Hit with an attack and gain Phantom Gear"""
+text100_3b#0,"""・Hit with an attack and gain Phantom Gear"""
+tut_win_title#0,"""Phantom Gear"""
+tut_win_text100#0,"""When you learn the skill \""Phantom Time\"", a \""Phantom Gear\"" Gauge is added to all Phantom weapons, and a special action called \""Phantom Time\"" becomes available. The Gear Gauge fills as you attack enemies.<br><br>When the Gear Gauge is at 50% or higher, you can activate \""Phantom Time\"" to gain the following effects:<br><br><c ffff00>・Invincibility for 5 seconds after activation<br>・Additional invincibility time during Step<br>・PP consumption reduced by 20%<c>"""
