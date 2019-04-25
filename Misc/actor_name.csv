@@ -1580,7 +1580,7 @@ VillainRiflePA03#1,"""Phantom Rifle Photon Art<br>Move together in formation wit
 VillainRiflePA04#1,"""Phantom Rifle Photon Art<br>Fire Bits that continuously attack all targets.<br>Shift PA: Deploy a Bit as an electric landmine."""
 VillainRodPA01#1,"""Phantom Rod Photon Art<br>Slash repeatedly to launch a shockwave.<br>Shift PA: Throw a spinning, piercing projectile."""
 VillainRodPA02#1,"""Phantom Rod Photon Art<br>Charge up and create a wide-area shockwave.<br>Shift PA: Cast a damaging field around yourself."""
-VillainRodPA03#1,"""Phantom Rod Photon Art<br>Slash with the rod, then retreat at high speed.<br>Shift PA: Teleport to an enemy and strike.<br>"""
+VillainRodPA03#1,"""Phantom Rod Photon Art<br>Slash with the rod, then retreat at high speed.<br>Shift PA: Teleport to an enemy and strike."""
 VillainRodPA04#1,"""Phantom Rod Photon Art<br>Fire a Talis, which can be used to cast Techs.<br>Shift PA: Fire an orb that detonates repeatedly."""
 Fire01#1,"""Basic fire technique.<br>Converts photons into a fireball. Can graze passing enemies before expiring."""
 Fire02#1,"""Intermediate fire technique.<br>Creates an expanding circle of fire around the caster. Hits multiple times."""
