@@ -1,0 +1,7 @@
+name01#0,"""Xiera"""
+text01#0,"""成功しましたね！\u3000では続けて<br>ロッドＰＡ「ルーフコンツェルト」で<br>エネミーを攻撃してください！"""
+text101#0,"""Task 2: <yellow>Use Rod PAs 3 times"""
+train_title#0,"""Task 2: <yellow>Use Rod PAs 3 times"""
+tut_title#0,"""Photon Arts"""
+text100#0,"""・Use a Photon Art with <%WeaponAction> and <%PhotonArts>"""
+text100_3b#0,"""・Use a Photon Art with <%PhotonArts>"""

@@ -1,3 +1,3 @@
-name01#0,"""How to Give Mags Items"""
-text01#0,"""This is an explanation on how to give Mags items.  You can raise the Support Level of certain stats by giving your Mags items. This will make them grow.  If you open \""Mag\"" from the main menu, information about your Mag will be displayed. Now let's select the \""Give Items\"" command."""
-text02#0,"""By choosing \""Give Items\"", you can give your Mag an item and make it grow.  Which Support Levels will increase or decrease depends on the item you give it.  However, once a Mag's energy has gone up above a certain level, you cannot give it items. So please be careful of that."""
+name01#0,"""How to Raise Mags"""
+text01#0,"""To feed a Mag, open the main menu and select <c 00ffff>Items<c>, then <c 00ffff>Mag<c>, then <c 00ffff>Give Item<c>.<br><br>The parameters that rise when you equip a Mag <c 00ffff>depend on the kinds of items that you give it<c>.<br><br><c 00ffff>※I.e. If you give it a striking weapon, S-ATK rises<br>※Items given to Mags are consumed and cannot be returned<c>"""
+text02#0,"""-"""
