@@ -1500,7 +1500,7 @@ ChallengerExplanation#0,"""A special class used in ARKS VR training.<br>It is ab
 SummonerExplanation#0,"""A class that fights by summoning pets. They demonstrate a wide range of strengths through the skillful use of the pets they raise."""
 PokaExplanation#0,"""A special class used in the ARKS Battle Arena.<br>It is able to use all weapon types in<br>order to train under a variety of conditions."""
 WpnmanExplanation#0,"""A successor class designed to fight multiple enemies at once. Can use 3 weapons of Striking, Ranged and Tech types in combat."""
-VillainExplanation#0,"""A successor class that can perform consecutive<br>attacks. By using a variety of moves and techniques,<br>it excels in mobility."""
+VillainExplanation#0,"""A successor class that can perform consecutive attacks. It excels in mobility, using a variety of moves and techniques."""
 NoPaMessage#0,"""There are no Photon Arts"""
 NoTechnicMessage#1,"""There are no Techniques"""
 NoOverloadMessage#1,"""No Compound Techniques."""
