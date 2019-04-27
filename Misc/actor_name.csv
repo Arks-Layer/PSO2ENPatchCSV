@@ -1593,7 +1593,7 @@ Ice01#1,"""Basic Ice Technique.<br>Freezes the air to fire a line of icicles on 
 Ice02#1,"""Intermediate Ice Technique.<br>Quickly cools the air, launching icy shrapnel in front of the caster. Hits several times."""
 Ice03#1,"""Intermediate Ice Technique.<br>Manipulates air pressure to cause a blizzard around the caster. Hits several times."""
 Ice04#1,"""Intermediate Ice Technique.<br>Rains a series of icicles on the target's head. Smaller enemies are locked in place."""
-Ice05#1,"""Ice Support Technique.<br>Excites Photons in the air to increase ATK of all nearby allies. Each tick adds 15 seconds."""
+Ice05#1,"""Ice Support Technique.<br>Excites Photons in the air to increase DEF of all nearby allies. Each tick adds 15 seconds."""
 Ice06#1,"""Advanced Ice Technique.<br>Release a constant stream of chilling air while the button is held. Cannot be charged."""
 Ice07#1,"""Advanced Ice Technique.<br>Inscribes an icy crest on the target. Each cast becomes stronger until it expires."""
 Thunder01#1,"""Basic Lightning Technique.<br>Charge Photons to strike the target location with lightning."""
