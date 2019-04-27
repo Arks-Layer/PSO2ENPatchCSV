@@ -29,7 +29,6 @@ script:
   - ./_sh/check.sh
   - ./_sh/command.sh
   - ./_sh/Fonts.sh
-  - ./_sh/outputPO.sh > /dev/null
 
 install:
   - true
