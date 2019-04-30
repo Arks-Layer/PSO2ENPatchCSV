@@ -2760,7 +2760,7 @@ PrimalTimePlus2#1,"""Provides a Marker Accumulation Bonus during Phantom Time. <
 VillainHighLevelBonus#1,"""Grants a bonus to all damage you deal."""
 VillainAllAttackBonus#1,"""Grants a bonus to player and pet damage."""
 VillainPhotonStream2#1,"""Increases Critical Rate and Critical Damage based on the Max PP. A limit on Critical Damage and Critical Rate is in place."""
-VillainTalisShortCharge#1,"""Reduces the charge time of techniques that was activated from the thrown Talis while using Eisen Fluegel. <yellow>Main class only."""
+VillainTalisShortCharge#1,"""Reduces the charge time of Techniques that were cast from Eisen Fluegel's thrown Talis. <yellow>Main class only."""
 VillainStepAdvance#1,"""Extends invincibility during Step and Dive Roll."""
 CaptureShot#1,"""On use: Launch a stun bullet"""
 PPOneTimeUp#1,"""On use: All skills use 1 PP"""
