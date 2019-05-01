@@ -2750,7 +2750,7 @@ VillainBullsEye#1,"""While using a Rifle, markers are accumulated by Marker Deto
 VillainAttackJellen#1,"""Provides a certain chance to apply Jellen to an enemy hit by an attack. <yellow>Main class only."""
 VillainJellenRedress#1,"""Strengthens Jellen when you attack an enemy afflicted by Jellen while using a Phantom Weapon. <yellow>Main class only."""
 VillainQuickCut#1,"""Using the Katana Weapon Action at a specific time during a normal attack or a PA will increase its speed. <yellow>Main class only."""
-VillainDodgeCounterShot#1,"""Performing an attack after using Step, bullets are saved. Using an attack will release the bullets. <yellow>Main class only."""
+VillainDodgeCounterShot#1,"""Avoiding an attack with Phantom Step stores a bullet. Using a normal attack fires all stored bullets.<yellow>Main class only."""
 VillainSprintTecCharge#1,"""Move faster while charging a Technique."""
 VillainGespenst#1,"""Reduce damage taken when at 50% or lower HP and nullify status effects. Recast after activation. <yellow>Main class only."""
 VillainAmbivalence#1,"""While using a Rod, accumulates markers and gear by doing Technics. <yellow>Main class only."""
