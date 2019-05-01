@@ -764,7 +764,7 @@ Dead_MEDN_002#0,"""ダークファルス・ペルソナは、装備している�
 Dead_MEDN_003#0,"""頭部にある仮面は攻撃することで、破壊することが可能だ。<br>破壊後は弱点となるので、隙を見てダメージを与えよう。"""
 Dead_MEDN_004#0,"""ダークファルス・ペルソナは、攻撃範囲の広い攻撃を多く使用する。<br>エネミーの動きやフィールドに表示される予兆を見極めて回避しよう。"""
 Dead_ID2Doo_001#0,"""If you defeat all Grana Gwanahda Bits, you will force Grana Gwanahda out of the ground, revealing the weak point on its stomach."""
-Dead_ID2Doo_002#0,"""The red cores on Grana Gwanada Bits' tips are weak points."""
+Dead_ID2Doo_002#0,"""The red cores on Grana Gwanahda Bits' tips are weak points."""
 Dead_ID2Doo_003#0,"""If you're being inhaled by Grana Gwanahda, use dash moves to avoid being dragged in."""
 Dead_ID2Doo_004#0,"""Grana Gwanahda Bits will target players in the air and fire bullets at them."""
 Dead_BD3Ctl_001#0,"""Destroying both of Rafaga Ringahda's rings forces it to expose the core on its abdomen while it regenerates them."""
