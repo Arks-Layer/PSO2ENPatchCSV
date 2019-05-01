@@ -1,6 +1,6 @@
 Title#0,"""[Apprentice]'s Northern Fort"""
-Explanation#0,"""【若人】四天、誤解のアイカを撃破し<br>次なる砦へと歩を進める守護輝士達。<br>北の砦では一体、何が待ち受けているのか。<br>一抹の不安を胸に、砦で佇む影へと臨む。<br>――――――――――――――――――――<br>失敗条件/戦闘不能後、リタイアを選択"""
-StoryExplanation#0,"""【若人】四天、誤解のアイカを撃破し<br>次なる砦へと歩を進める守護輝士達。<br>北の砦では一体、何が待ち受けているのか。<br>一抹の不安を胸に、砦で佇む影へと臨む。"""
+Explanation#0,"""Having defeated Aika the Misunderstood,<br>the Guardian moved on to the next Fort.<br>Who would be awaiting them in the North?<br>The party prepared with anxious hearts.<br>――――――――――――――――――――<br>Failure: Retire after being incapacitated."""
+StoryExplanation#0,"""Having defeated Aika the Misunderstood,<br>the Guardian moved on to the next Fort.<br>Who would be awaiting them in the North?<br>The party prepared with anxious hearts."""
 SimpleExplanation#0,"""Defeat SOROKING D!"""
 Area0S#0,"""Epic Desert"""
 Area0L#0,"""Omega: Holy Kingdom of Epic - Northern Fort"""
