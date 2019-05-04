@@ -1,6 +1,6 @@
 text00#0,"""The Photon Tree"""
 text01#0,"""The Photon Tree is a special tree installed in your Team Room that generates Photons for the team.<br><br>Players can use the tree's Photons to receive a variety of support effects."""
 text02#0,"""You can obtain a support effect by selecting \""Obtain Support Photon Effect\"" from the terminal when the tree is shining with a bright light.<br><br>※The support effect will last for a limited time.<br>※You cannot obtain multiple support effects."""
-text03#0,"""You can use Team Points to grow the Photon Tree.<br><br>Growing the tree can strengthen the available support effects, or extend the effects' duration.<br><br>※Only Team Managers and the Team Master can grow the Photon Tree."""
+text03#0,"""You can use Team Points to grow the Photon Tree.<br><br>Growing the tree can strengthen the available support effects.<br><br>※Only Team Managers and the Team Master can grow the Photon Tree."""
 text04#0,"""To keep obtaining support effects from the tree, you must periodically water it with \""Photon Water\"". If the tree runs out of Photon Water, it will wither, and you will be unable to obtain support effects.<br><br>※Filling the Photon Water consumes Team Points."""
 text05#0,"""Be sure to work with your fellow team members and complete Team Orders to grow your Photon Tree larger and larger."""
