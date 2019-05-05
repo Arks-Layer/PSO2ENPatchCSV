@@ -642,7 +642,7 @@ RequestActionUnlimitedAMCoinErrorMessage#0,"""「CC持ち出し上限の廃止�
 UsePetEggTitle#0,"""Confirm Item Usage"""
 UsePetEggMessage1#0,"""[$(0)] will be used.<br>Continue?"""
 UsePetEggMessage2#0,"""[$(0)] will be used.<br>Continue?<br><br><yellow>You've selected a locked item.<c>"""
-UseHatchedPetEgg#0,"""ペットを登録しました。<br>武器「タクト」にセットできます。<br><br><yellow>※再登録されたペットのため、<br>\u3000合成可能回数は０になります。<c>"""
+UseHatchedPetEgg#0,"""Your Pet has been registered.<br>It can be set to any Takt-type weapon.<br><br><yellow>※If this Pet is being re-registered, its number of available Synthesis will be set to 0.<c>"""
 GrindNumAwardBackpackMessage#0,"""＋$(0) grind reward [$(1)] sent to Item Pack."""
 GrindNumAwardStorageMessage#0,"""＋$(0) grind reward [$(1)] sent to Storage."""
 GrindNumAwardPostMessage#0,"""＋$(0) grind reward [$(1)] sent to Temp Storage."""
