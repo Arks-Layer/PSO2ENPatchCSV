@@ -112,7 +112,7 @@
 01_MainLobby_113#0,"""You can set a quest name to be automatically used when<br>you start a mission instead of character name."""
 01_MainLobby_114#0,"""You can set an option to change the background of the<br>chat box to the same color as the speech channel."""
 01_MainLobby_115#0,"""If you master [High Time] and don't get hit while it's active, [One More Time] is activated and prevents reset from damage until it's over."""
-01_MainLobby_116#0,"""The current subpallete can be displayed 3 ways - Never display, display for a short time, and always display."""
+01_MainLobby_116#0,"""The current Subpalette can be displayed 3 ways - Never display, display for a short time, and always display."""
 01_MainLobby_117#0,"""If you check \""Open\"" in the party settings, your party will get preferential listing in the party lists for other players."""
 01_MainLobby_118#0,"""If you check \""Open\"" in the party settings, you can fill your party with NPCs, and when a real player tries to join, it will remove one of them each time to make room."""
 01_MainLobby_119#0,"""You can see a list of equipment and their set effects by selecting [Check Set Effect] in the item menu."""
