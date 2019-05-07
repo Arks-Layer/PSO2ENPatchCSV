@@ -6,4 +6,4 @@ text05#0,"""Don't forget that. After all, there's only one of you, and we'd hate
 text100#0,"""Subclasses"""
 text101#0,"""When you set a subclass, some of its abilities will become available along with those from your main class. To set a subclass, choose \""Switch Classes,\"" then \""Select Subclass\"" at the Class Counter."""
 text102#0,"""Hunters who select Force as a subclass can unleash Foie from the subpalette and gain the benefits of the Boost PP skill."""
-text103#0,"""However, the main class's equippable weapons, alt actions, and evasive actions will remain unchanged. For example, Hunters who select Force as a subclass can't equip rods or use Mirage Escape."""
+text103#0,"""However, the main class's equippable weapons, alt actions, and evasive actions will remain unchanged. For example, Hunters who select Force as a subclass can't equip Rods or use Mirage Escape."""
