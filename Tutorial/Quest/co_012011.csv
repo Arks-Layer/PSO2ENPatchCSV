@@ -11,7 +11,7 @@ text03#0,"""When using 「Jet Boots」<br>Long pressing <%PhotonArts> can either
 text10#0,"""About \""Techniques\"""""
 text11#0,"""Techniques (Abbreviation: Techs),<br><c 00ffff>By consuming and releasing PP,<br>you can perform a magic-like attack.<c><br><br>You can use Techniques on a weapon with <%PhotonArts>.<br><br>PP (Photon Points) will be recovered over time<br>or by using a normal attack."""
 text12#0,"""Photon Arts (Abbreviation: PA)<br><c 00ffff>By consuming and releasing PP,<br>you can perform a special move.<c><br><br>Using <%PhotonArts> will order your Pet to use a PA.<br><br>PP (Photon Points) will be recovered over time<br>or by using a normal attack."""
-text13#0,"""「Techniques」, as what they're called,<br>are magic-like attacks.<br>You can set them on your Subpalette<br>and attack with them or heal your pets.<br><br>Depending on the situation, you may need to<br>alternate between healing and attacking."""
+text13#0,"""「Techniques」, as what they're called,<br>are magic-like attacks.<br>You can set them on your Subpalette<br>and attack with them or heal your Pets.<br><br>Depending on the situation, you may need to<br>alternate between healing and attacking."""
 text100#0,"""Use Photon Arts with <%PhotonArts>!"""
 text101#0,"""Use Techniques with <%PhotonArts>!"""
 text1000#0,"""Use Photon Arts with <%PhotonArts>!"""
