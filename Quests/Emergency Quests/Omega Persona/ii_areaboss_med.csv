@@ -7,6 +7,6 @@ NpcComOnSpCharge#0,"""¡La señal de energía del objetivo está aumentando ráp
 NpcComOnSpBegin#0,"""Esta lectura... ¡Se acerca un fuerte ataque! Cuidado"""
 NpcComOnSpGuardSuccess#0,"""¡El objetivo está fuera de balance! ¡Ahora es nuestra oportunidad!"""
 NpcComOnSpGuardDraw#0,"""¿¡Estás bien!? No parece que haya hecho nada. ¡Intentemos esto de nuevo!"""
-NpcComOnSpGuardFailure#0,"""¿Estás bien...? ¡Avancemos!"""
+NpcComOnSpGuardFailure#0,"""¿Estás bien?... ¡Avancemos!"""
 NpcComOnDamage1#0,"""¡Se está debilitando!"""
 NpcComOnDamage2#0,"""¡Se está cansando! ¡Solo un poco más!"""
