@@ -90,7 +90,7 @@ BasicHintColor#0,"""Select whether to show other party's names as dark blue or w
 BasicHintAttackProperty#0,"""The color displayed of the HP bar when<br>hit with Strike, Ranged or Tech damage."""
 BasicHintAutoPartyName#0,"""Set the default party name <br>(if no party name is set)."""
 BasicHintBeginner#0,"""Autoselects beginner blocks or random<br>blocks when using a Lv.20↓ character."""
-BasicHintSubActionPalletName#0,"""Choose whether to display selected subpalette entry."""
+BasicHintSubActionPalletName#0,"""Choose whether to display selected Subpalette entry."""
 BasicHintRareDrop#0,"""Select the rarity at which rare drop notifications<br>will appear upon a rare item dropping."""
 BasicHintautoget#0,"""When 13★ or higher items drop, this setting<br>will deposit them directly to your inventory instead<br>of in the field to protect against forgotten drops."""
 BasicHintWarehouseCursor#0,"""Set the initial cursor position when the storage<br>UI is displayed. Applies to opening storage, to<br>putting items up for sale in your My Shop and to<br>buying and selling items at NPC shops."""
