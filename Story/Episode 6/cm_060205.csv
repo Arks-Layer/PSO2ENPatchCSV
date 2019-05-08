@@ -1,3 +1,3 @@
 name01#0,"""Lisa"""
-skit01#0,"""/ci2 1 t3 Something up ahead looks interesting. Let's go check it out, unless you want Lisa to go in alone?"""
-skit01#1,"""/ci2 1 t3 Something up ahead looks interesting. Let's go check it out, unless you want Lisa to go in alone?"""
+skit01#0,"""/ci2 1 t3 Something up ahead looks<br>interesting. Let's go check it out, unless you want Lisa to go in alone?"""
+skit01#1,"""/ci2 1 t3 Something up ahead looks<br>interesting. Let's go check it out, unless you want Lisa to go in alone?"""

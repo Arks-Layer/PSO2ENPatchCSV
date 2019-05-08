@@ -1,3 +1,3 @@
 Title#0,"""About \""HP Recovery\"""""
 text0001#0,"""Damage<br>When your HP becomes zero,<br>you are incapacitated and cannot fight.<br><br>As your HP goes down,<br>using items such as a 「Monomate」,<br>can restore your HP."""
-text0002#0,"""Use the recovery medicine <yellow>Monomate<c> that is registered on your Subpalette.<br><br>Items on your <%SubPalette><br>can be selected and used.<br><br><red>※Using  <%SubPaletteLeft> and <%SubPaletteRight>, you can move<br>the selection of your subpalette.<c>"""
+text0002#0,"""Use the recovery medicine <yellow>Monomate<c> that is registered on your Subpalette.<br><br>Items on your <%Subpalette><br>can be selected and used.<br><br><red>※Using  <%SubpaletteLeft> and <%SubpaletteRight>, you can move<br>the selection of your Subpalette.<c>"""
