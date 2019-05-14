@@ -756,7 +756,7 @@
 128#2,"""-"""
 129#2,"""-"""
 130#2,"""-"""
-131#2,"""Restaura HP igual al<br>1% del daño infligido.<br> (Máx .: 300)"""
+131#2,"""tiene una <yellow>posibilidad<c><br>de restaurar HP<br>igual al 1% <br>del daño infligido.<br>(Máx .: 300)"""
 132#2,"""Aumenta el daño en un 2%."""
 133#2,"""Aumenta el daño en un 2%."""
 134#2,"""Aumenta el daño en un 2%."""
