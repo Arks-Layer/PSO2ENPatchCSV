@@ -12,7 +12,7 @@ jobs:
         - develop
         - /feature-.*/
         - JP
-        - /*_Old/
+        - /.*_Old/
     steps:
       - run:
           name: Update APT listing
