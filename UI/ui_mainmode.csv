@@ -2726,7 +2726,7 @@ VillainWeaponBonus2#1,"""Aumenta el daño. al equipar Armas Phantom,.<yellow>Sol
 VillainCounter#1,"""ファントムカウンター"""
 VillainOneMoreJump#1,"""ファントムワンモアジャンプ"""
 VillainDodgePPRegain#1,"""Recupera PP con un Phantom Step exitoso.<yellow>Solo PH.<c>"""
-VillainFullDrive#1,"""Consigue una bonificación en la regeneración del Gear."""
+VillainFullDrive#1,"""Recibe una bonificacion en la generacion del gear"""
 VillainNmlTecAdvPlus#1,"""ノーマルテックアドバンスプラス"""
 VillainMarker#1,"""Mientras ataca con armas PH, las marcas se acumulan en los enemigos y puede detonar con la acción de armas. <yellow>Solo PH<c>"""
 VillainMarkHeal#1,"""Recupera HP cuando acumulas la cantidad máxima de marcadores.<yellow>Solo PH.<c>"""
