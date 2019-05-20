@@ -178,7 +178,7 @@ DirectBuy#0,"""マイショップにアイテムを出品するためには、<b
 DoPremiumUpdate#0,"""プレミアムパックの更新"""
 DoPremiumCharges#0,"""プレミアムパック利用"""
 ActiveStatus_Title#0,"""Cambiar mensaje de amistad"""
-ActiveStatus_Info#0,"""mensaje de amistad相手のフレンドリストに表示するメッセージです。<br>「決定」ボタンを押すことで登録されます。<br><br>ゲームからログアウトすると<br>フレンドメッセージは表示されなくなります。<br>再び登録する場合はログインごとに<br>「決定」ボタンを押してください。"""
+ActiveStatus_Info#0,"""Mensaje de amistad相手のフレンドリストに表示するメッセージです。<br>「決定」ボタンを押すことで登録されます。<br><br>ゲームからログアウトすると<br>フレンドメッセージは表示されなくなります。<br>再び登録する場合はログインごとに<br>「決定」ボタンを押してください。"""
 ActiveStatus_Comment#0,"""Mensaje de amistad"""
 ActiveStatus_Send#0,"""Confirmar"""
 ActiveStatus_Cancell#0,"""Cancelar"""

@@ -36,7 +36,7 @@ GroupChatQues_Banish#0,"""$(0) sera eliminado del Chat Grupal<br><br>¿Deseas co
 GroupChatQues_Leader#0,"""$(0) reemplazara al lider actual del chat grupal.<br><br>¿Deseas continuar?"""
 GroupChatQues_Delete#0,"""Vas a dejar el Chat Grupal<br>$(0)<br><br><yellow>※Si deseas volver a ingresar, deberas ser invitado de nuevo.<c><br><br>¿Deseas continuar?"""
 GroupChatQC_Invite_Title#0,"""Invitación de grupo"""
-GroupChatQC_Invite_Mess#0,"""invitasionn a 「$(0)」de $(1).<br>¿Quieres abrir la ventana de respuesta?<br>※si seleccionas No, podras responder <br>luego, desde el menú principal<br>en configuración de chat."""
+GroupChatQC_Invite_Mess#0,"""Invitasionn a 「$(0)」de $(1).<br>¿Quieres abrir la ventana de respuesta?<br>※si seleccionas No, podras responder <br>luego, desde el menú principal<br>en configuración de chat."""
 GroupChatQC_Join_Log#0,"""$(1)が$(0)を登録しました。"""
 NewGroupChat#0,"""Nueva invitación de grupo"""
 NewExpGroupChat#0,"""Nueva invitación a grupo."""
