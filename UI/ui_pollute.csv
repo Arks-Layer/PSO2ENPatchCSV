@@ -192,7 +192,7 @@ plt_DH4Ma_KillingHeal#1,"""一定範囲内でエネミーが死亡すると<br>�
 plt_DH4Ma_PA3Advance#1,"""ワクワクゴーカート発動中<br>突進アクションに<br>ダメージボーナスを得る"""
 message1#4,"""Datos de prueba"""
 SkillList_Title#0,"""Habilidades de Dark Blast"""
-CaptionSkillName#0,"""nombre de la habilidad"""
+CaptionSkillName#0,"""Nombre de la habilidad"""
 CaptionSkillLv#0,"""Lv de habilidad"""
 CaptionSkillCostExp#0,"""Costo"""
 CaptionSkillNextExp#0,"""Next"""
