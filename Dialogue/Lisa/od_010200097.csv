@@ -3,6 +3,6 @@ text02#0,"""Your run-and-gun style and magazine swap outs were picture-perfect! 
 text03#0,"""Anyway, that rifle seems to fit your hands like a glove, so why don't you just keep it?"""
 text04#0,"""Lisa's completely satisfied with this report, so..."""
 11_voice_NPC_5026_101#0,"""Keep up the good work with your rifle. Make sure to torment lots and lots of hostiles before you kill them."""
-linewindow001#0,"""You can now invite Lisa to join you as a partner."""
+linewindow001#0,"""You can now call Lisa as a partner."""
 text100#0,"""Client Orders"""
-text101#0,"""Jozsef has issued a client order.  You can find him in the upper gate area."""
+text101#0,"""A new Client Order is available for Jozsef.<br><br>Jozsef can be found in the Gate Area, second floor."""
