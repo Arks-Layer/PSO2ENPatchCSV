@@ -9,5 +9,5 @@ NpcComMsg1#0,"""Our ship is being sent in for an assault on the main gun of the 
 NpcComMsg2#0,"""This operation will determine the outcome of the battle.<br>We expect heavy resistance from enemy forces."""
 NpcComMsg3#0,"""Don't give up, no matter what...<br>Be sure to come back safely!"""
 SimpleExplanation#0,"""Destroy the capital ship!"""
-Area0S#0,"""Fleet Battle Area"""
-Area0L#0,"""Fleet Battle Area - Sector 3 Deployment Area"""
+Area0S#0,"""Armada Battlesphere"""
+Area0L#0,"""Armada Battlesphere - Sector 3: Deployment Area"""
