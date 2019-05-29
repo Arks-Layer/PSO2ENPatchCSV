@@ -1,4 +1,4 @@
-train_title#0,"""Task 3: <yellow>Use a PA 3 times after a Rod Shift PA"""
+train_title#0,"""Task 3: <yellow>Use a Rod Shift PA followed by a basic PA 3 times"""
 tut_title#0,"""Attacking After Shift PAs"""
 text100#0,"""・Activate your Weapon Action with <%PhotonArts><br>・Use a PA with <%WeaponAction> and <%PhotonArts><br>・Use another PA"""
 text100_3b#0,"""・Activate your Weapon Action with <%MainPaletteC><br>・Use a PA with <%PhotonArts><br>・Use another PA"""
