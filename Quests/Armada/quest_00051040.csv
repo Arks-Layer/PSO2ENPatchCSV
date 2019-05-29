@@ -10,5 +10,5 @@ NpcComMsg1#0,"""We are ready to dispatch A.I.S. to engage the enemy battleship d
 NpcComMsg2#0,"""A number of enormous Luminmechs have been confirmed, which may be intended to counter our A.I.S.<br>Please destroy them as well!"""
 NpcComMsg1#1,"""We are ready to dispatch A.I.S. to engage the enemy battleship directly."""
 NpcComMsg2#1,"""A number of enormous Luminmechs have been confirmed, which may be intended to counter our A.I.S.<br>Please destroy them as well!"""
-Area0S#0,"""Fleet Battle Area"""
-Area0L#0,"""Fleet Battle Area - Sector 3 Deployment Area"""
+Area0S#0,"""Armada Battlesphere"""
+Area0L#0,"""Armada Battlesphere - Sector 3: Deployment Area"""
