@@ -9,5 +9,5 @@ NpcComMsg1#0,"""Now beginning the transport procedure.<br>Your objective is to r
 NpcComMsg2#0,"""Thanks to the enemy's attack, the friendly ship been incapacitated.<br>You will have to defeat the enemies to free it."""
 NpcComMsg1#1,"""The ship is about to be captured.<br>Assemble on the deck and destroy the enemy units attempting to capture it."""
 SimpleExplanation#0,"""Eliminate enemies on the deck!"""
-Area0S#0,"""Fleet Battle Area"""
-Area0L#0,"""Fleet Battle Area - Sector 1 Deployment Area"""
+Area0S#0,"""Armada Battlesphere"""
+Area0L#0,"""Armada Battlesphere - Sector 1: Deployment Area"""

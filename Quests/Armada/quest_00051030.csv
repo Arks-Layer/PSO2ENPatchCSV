@@ -8,5 +8,5 @@ Explanation#0,"""The first wave of attacks from the enemy<br>fleet has been inte
 NpcComMsg1#0,"""Now beginning the transport procedure.<br>Your objective is to destroy the A.I.S. Disruptors mounted on the enemy battleship."""
 NpcComMsg2#0,"""There seem to be multiple A.I.S. Disruptors on the ship.<br>Destroy them all!"""
 SimpleExplanation#0,"""Attack the enemy ship!"""
-Area0S#0,"""Fleet Battle Area"""
-Area0L#0,"""Fleet Battle Area - Sector 2 Deployment Area"""
+Area0S#0,"""Armada Battlesphere"""
+Area0L#0,"""Armada Battlesphere - Sector 2: Deployment Area"""
