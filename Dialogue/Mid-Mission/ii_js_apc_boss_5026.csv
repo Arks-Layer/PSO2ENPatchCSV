@@ -96,7 +96,7 @@ IncidentJsApcSuccessEvo#18,"""/ci1 5 Nada es más importante que ayudarse unos a
 IncidentJsApcBegin#19,"""/toge /ci2 1 ここまでよく頑張ってくれたな！<br>最後に相応しい強敵のようだ！<br>力を合わせて、頑張るぞ！"""
 IncidentJsApcSuccess#19,"""/toge /ci2 1 よしよし、カンペキだ！<br>これでイースターも滞りなく行うことが<br>できるだろう！\u3000協力、感謝するぞ！"""
 IncidentJsApcFailure#19,"""/toge /ci2 1 バカな、オレが負けた……！？<br>皆の助けとなれなかった……だと……！<br>……すまない！\u3000退かせてもらう！"""
-IncidentJsApcBeginEvo#19,"""non"""
+IncidentJsApcBeginEvo#19,"""Non"""
 IncidentJsApcSuccessEvo#19,"""/toge /ci2 1 よしよし、カンペキだ！<br>これでイースターも滞りなく行うことが<br>できるだろう！\u3000協力、感謝するぞ！"""
 IncidentJsApcBegin#20,"""/toge /ci3 2 囲まれているようだな<br>手伝うぞ！"""
 IncidentJsApcSuccess#20,"""/ci2 2 よし、よくやったぞ！<br>では、私は行くとしよう！"""
