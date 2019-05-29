@@ -410,7 +410,7 @@ II_BossAnnihilationRankingDamageTotalPenalty1#0,"""特定条件下での分散�
 II_BossAnnihilationRankingDamageTotalPenalty2#0,"""特殊な敵性反応が……<br>特定条件下での分散型データ収集に<br>適合しそうです。ご準備を！"""
 Boost_v1#0,"""Detecting rampaging Darker Weapons! Please watch your surroundings!"""
 Boost_v2#0,"""Detecting strange energy readings... Please be on the lookout for any changes in the area!"""
-Boost_v3#0,"""W-what's this? I'm detectng strong energy readings!"""
+Boost_v3#0,"""W-what's this? I'm detecting strong energy readings!"""
 DestroyEnemy1#5,"""怪しげな反応を感知しています！<br>周囲警戒、要注意ですよ！"""
 DestroyEnemy2#5,"""多数の熱源を感知！<br>油断しないでくださいね！"""
 DestroyEnemy3#5,"""周辺に注意してください！<br>多数の反応が感知されています！"""
