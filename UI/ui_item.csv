@@ -157,7 +157,7 @@ ItemErrorMessageVita#0,"""すでに必要数のアイテムが選択されてい
 PluralityMenuGuide#1,"""<c f0df60>Please select a shop.<c>"""
 Warehouse#1,"""Open Storage"""
 ShopTitle_m#0,"""Spellstone Exchange Shop"""
-ShopTitle_b01#0,"""Buster Medal Exchange Shop"""
+ShopTitle_b01#0,"""Medal Exchange Shop"""
 ShopTitle_k#0,"""Pyroxene Exchange Shop"""
 ShopTitle_jig#0,"""Material Exchange Shop"""
 ShopTitle_reo#0,"""Certificate Exchange Shop"""
