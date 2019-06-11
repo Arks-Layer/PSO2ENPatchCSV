@@ -2617,7 +2617,7 @@ BreakStanceCritical#1,"""During Break Stance, increase critical hit rate against
 JetBootsStrike#1,"""Switch between using S-ATK and T-ATK for Jet Boot attacks. <yellow>Only allowed if main class.<c>"""
 BreakStanceDualBonus#1,"""When using Dual Blades, the effects of Break Stance apply to non-breakable targets. <yellow>Main class only.<c>"""
 FieldRemain#1,"""Briefly maintains field effects for characters who leave a field. Only applies to strengthening fields."""
-JetBootsEscape#1,"""When jet boots are equipped, makes you invincible during normal attacks and PA activation. <yellow>Main class only.<c>"""
+JetBootsEscape#1,"""When using Jet Boots, makes you invincible during PA and normal attack Shift Actions. <yellow>Main class only.<c>"""
 JetBootsGearBoost#1,"""Increased gear gauge fill rate while using Jet Boots with Shifta or Deband applied. <yellow>Main class only.<c>"""
 OnemoreJump#1,"""Gain another jump after hitting an enemy during a double jump. Requires Jet Boots Gear. <yellow>Main class only.<c>"""
 DodgeAutoField#1,"""Dodging an attack with Mirage Step will activate all learned Field skills. Cooldowns do not apply. <yellow>Main class only.<c>"""
