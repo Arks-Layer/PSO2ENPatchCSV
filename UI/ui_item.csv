@@ -9615,7 +9615,7 @@ ring_MultiGu#1,"""Time & Roll<br>Combines the Lv. 20 effects of<br>\""Front S Ro
 ring_MultiTe#1,"""Defense Tech<br>Combines the Lv. 20 effects of<br>\""Tech C Parry\"" and \""Short Mirage\""."""
 ring_MultiBr#1,"""Brave Power<br>Combines the Lv. 20 effects of<br>\""Katana C Count Up\"" and \""Bullet Bow Homing\""."""
 ring_MultiBo#1,"""Kick & Snatch<br>Combines the Lv. 20 effects of<br>\""DB Snatch\"" and \""JB Tech Arts SC\""."""
-ring_WandElementChangeAnother#1,"""Another Wand Element Change<br>When activating Wand Gear, changes element based on<br>the last charged Tech used (except Support Techs)."""
+ring_WandElementChangeAnother#1,"""Another Wand Element Change<br>When activating Wand Gear, changes element<br>based on the last charged Tech used (except<br>Support Techs)."""
 ring_SkillNoHold#1,"""Another Wired Mode<br>Wired Lance grappling PAs attack<br>without grabbing an enemy."""
 GatBoostNeed0000#0,"""検証用アイテムの為レシピなし"""
 GatBoostNeed0001#0,"""検証用アイテムの為レシピなし"""
