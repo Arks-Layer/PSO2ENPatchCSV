@@ -1,5 +1,5 @@
 name01#0,"""Xiera"""
-text01#0,"""それでは、応用編です！<br>基本ＰＡとシフトＰＡを<br>組み合わせてみましょう！"""
+text01#0,"""それでは、応用編です！<br><red>基本ＰＡとシフトＰＡを<br>組み合わせて<c>みましょう！"""
 text02#0,"""「フェアブレッヒェン」の<br>シフトＰＡでビットを設置し<br>基本ＰＡでレーザー攻撃です！"""
 text101#0,"""Task 7: <yellow>Use an Assault Rifle Shift PA followed by a basic PA 3 times"""
 train_title#0,"""Task 7: <yellow>Use an Assault Rifle Shift PA followed by a basic PA 3 times"""

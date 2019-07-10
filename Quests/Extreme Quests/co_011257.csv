@@ -7,6 +7,7 @@ text09#0,"""This will explain about Stage Orders.<br><br>During Extreme Quests, 
 text10#0,"""There are certain Stage Orders that require the player to not use any recovery effects in order to complete them. <br><br><yellow>*However, recovery effects from your Mag, ones that automatically activate from a skill, or ones from Cash Shop Items are exceptions to this rule.<c>"""
 text11#0,"""This will explain 'Hostile Ability Changes'.<br><br>In Extreme Quests, we have artificially strengthened the enemies in order to create a harsh environment for the Quest. This strengthening is called 'Hostile Ability Changes'.<br><br>However, a Hostile Ability Change that would strengthen a hostile's resistances can be inverted by completing a 'Stage Order' in the previous stage, turning it into an advantage for the player."""
 skit01#0,"""Because I felt it was too easy, I've added additional challenges<br>from stage to stage!"""
+skit01_01#0,"""せっかくなので、各ステージに<br>私の方から<c f46b41>ステージオーダー<c>という<br>実験課題を出させてもらってますよー。"""
 skit02#0,"""It definitely makes the stage harder, but if you complete the challenge, you can weaken the next enemy, or produce new data!"""
 skit03#0,"""Not only that, but completing the challenges will also increase the numbers of items you get to keep at the end of the simulation!"""
 skit04#0,"""Hello! Thank you for coming. My name is Karin!"""
