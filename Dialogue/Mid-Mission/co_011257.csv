@@ -7,6 +7,7 @@ text09#0,"""Esto explicará sobre las órdenes de los Escenario.<br><br>Durante 
 text10#0,"""Existen ciertas órdenes de escena que requieren que el jugador no utilice ningún efecto de recuperación para completarlas.<br><br><yellow>*Sin embargo, los efectos de recuperación de su Mag, los que se activan automáticamente a partir de una habilidad o los de Cash Shop son excepciones a está regla.<c>"""
 text11#0,"""Esto explicará [Cambios de Habilidad Hostil].<br><br>En Extreme Quests, hemos fortalecido artificialmente a los enemigos para crear un ambiente duro para la Quest. Este fortalecimiento se llama [Cambios de Habilidad Hostil].<br><br>Sin embargo, un Cambio de Habilidad Hostil que fortalecería las resistencias de un enemigo puede ser invertido completando una [Orden de Escenario] en el Escenario anterior, convirtiéndola en una ventaja para el jugador."""
 skit01#0,"""Porque sentí que era demasiado fácil, he añadido desafíos adicionales de<br>escenario en escenario!"""
+skit01_01#0,"""せっかくなので、各ステージに<br>私の方から<c f46b41>ステージオーダー<c>という<br>実験課題を出させてもらってますよー。"""
 skit02#0,"""Definitivamente hace el escenario más difícil, pero si completas<br>el desafío, puedes debilitar al enemigo siguiente,<br>o producir nuevos datos!"""
 skit03#0,"""No sólo eso, si completas los retos<br>también aumentará el número de objetos que podrás llevarte al final de la simulación!"""
 skit04#0,"""¡Hola! Gracias por venir. Me llamo Karin!"""
