@@ -1,4 +1,4 @@
 name01#0,"""Xiera"""
-skit01#0,"""ここにも対になっている<br>敵性反応が存在するようです！"""
-skit02#0,"""解析の結果、対になっている敵性反応を<br>撃破すると残った敵性反応が<br>強化されてしまうようです！"""
-skit03#0,"""撃破のタイミングをあわせるか、<br>合流して一気に撃破するか、<br>状況を見極めて対処してください！"""
+skit01#0,"""There seem to be paired enemy readings here!"""
+skit02#0,"""Analysis suggests that if you defeat one enemy, the other will get stronger!"""
+skit03#0,"""Try to defeat them at as close to the same time as you can!"""
