@@ -8,4 +8,4 @@ Begin#1,"""/ci1 3 Stop babbling, Katori. We came to support you. Come, help us d
 Success#1,"""/ci1 2 If you can still chatter away after that, you must ready for some tougher training.<br>You were all very helpful. Thank you."""
 Failure#1,"""......"""
 Dead#1,"""Ugh, I'm sorry. This battle has overwhelmed me..."""
-BuddyDead#1,"""You need rest. Stay with me,<br><%me>."""
+BuddyDead#1,"""You need rest. With me,<br><%me>."""
