@@ -1,4 +1,4 @@
-train_title#0,"""Task 5: <yellow>Use a PA 3 times after a Katana Shift PA"""
+train_title#0,"""Task 5: <yellow>Use a Katana Shift PA followed by a basic PA 3 times"""
 tut_title#0,"""Attacking After Shift PAs"""
 text100#0,"""・Activate your Weapon Action with <%WeaponAction><br>・Use a PA with <%PhotonArts><br>・Use another PA"""
 text100_3b#0,"""・Activate your Weapon Action with <%MainPaletteC><br>・Use a PA with <%PhotonArts><br>・Use another PA"""

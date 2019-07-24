@@ -1,0 +1,7 @@
+name01#0,"""Hilda"""
+text00#0,"""Lock On"""
+text100#0,"""Lock on to enemies!"""
+text201#0,"""Use <%LockOn_N> to lock on to the enemy!"""
+text202#0,"""Use <%LockOn_N> to lock on to the enemy!"""
+text204#0,"""Lock on: Press <%LockOn_N>"""
+text205#0,"""Lock on: Press <%LockOn_N><br>Use <%RStick>while locked on to switch targets."""

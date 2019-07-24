@@ -1,6 +1,6 @@
 train_title#0,"""Task 8: <yellow>Attack an enemy with any weapon and place a marker on it"""
 tut_title#0,"""Phantom Markers"""
-text100#0,"""Mark enemies by hitting them with attacks"""
-text100_3b#0,"""Mark enemies by hitting them with attacks"""
+text100#0,"""・Mark enemies by hitting them with attacks"""
+text100_3b#0,"""・Mark enemies by hitting them with attacks"""
 tut_win_title#0,"""Phantom Marker"""
 tut_win_text100#0,"""If you have learned the Class Skill \""Phantom Marker\"", it will activate automatically.<br><br>When you attack an enemy, you will place a marker on it. Further attacks on marked enemies increase the level of the marker.<br><br><c ffff00>※The visual indicator of the marker disappears over time, but the effect remains. If you attack the enemy again, the marker visual will reappear.<c>"""

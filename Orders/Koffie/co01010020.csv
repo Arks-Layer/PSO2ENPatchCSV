@@ -1,3 +1,3 @@
 Title#0,"""Mag License Application"""
-Explanation#0,"""This is a training mission that acts as<br>an application for a license to allow the<br>use of Mags, based on ARKS rules.<br><br>To complete the mission, recover the<br>specified items. Once complete,<br>you will be provided with a license<br>that allows possession and use of Mags.<br><br><yellow>※Recommended area: Forest<c>"""
-Target#0,"""コフィーの説明を聞く"""
+Explanation#0,"""This is the procedure to obtain a license<br>for handling Mags, as defined by ARKS<br>regulations.<br><br>First, inform your supervisor of your<br>intention to obtain a Mag license.<br>Your supervisor will explain the basic<br>concept of a Mag and how to raise one,<br>after which you will receive the license<br>certification."""
+Target#0,"""Listen to Koffie"""

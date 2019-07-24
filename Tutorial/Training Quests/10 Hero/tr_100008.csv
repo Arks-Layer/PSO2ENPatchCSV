@@ -7,4 +7,4 @@ train_title#0,"""Task 5: <yellow>Hit an enemy with the Talis's third normal atta
 tut_title#0,"""Talis normal attacks"""
 text100#0,"""・Use a normal attack with <%NormalAttack><br>・Hit an enemy with the third<br>\u3000stage normal attack"""
 tut_win_title#0,"""Hero Talis"""
-tut_win_text100#0,"""Unlike a conventional Talis, Hero Talis can use Photon Arts, and can perform a variety of attacks combining Talis, PA and Technique.<br><br>Some Hero Talis PAs will automatically switch to another Hero weapon if you hold the attack button."""
+tut_win_text100#0,"""Unlike a conventional Talis, Hero Talis can use Photon Arts, and can perform a variety of attacks combining Talis, PA and Technique.<br><br>Some Hero Talis PAs automatically switch to other Hero weapons if you hold the PA button."""

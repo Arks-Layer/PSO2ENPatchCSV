@@ -1,0 +1,7 @@
+Title#0,"""Return of the Demon"""
+Explanation#0,"""<%me> met up with Huey in an<br>area showing an incredibly strong enemy<br>reading. However, there were no signs of<br>any enemy, only a quiet yet intense<br>presence.<br>――――――――――――――――――――<br>Failure Condition / Select retire after being incapacitated."""
+StoryExplanation#0,"""<%me> met up with Huey in an area<br>showing an incredibly strong enemy reading.<br>However, there were no signs of any enemy,<br>only a quiet yet intense presence."""
+StoryCondition#0,"""・Clear [Solo Training: Heaven and Hell]<br><br><br>Select again after clearing."""
+SimpleExplanation#0,"""Repel the Demon Phaleg!"""
+Area0S#0,"""Las Vegas"""
+Area0L#0,"""Earth: Las Vegas"""

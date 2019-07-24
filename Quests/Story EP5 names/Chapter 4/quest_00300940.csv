@@ -1,6 +1,6 @@
 Title#0,"""The Ruler of the Kingdom of Epic"""
-Explanation#0,"""「【若人】四天」からエピックを解放し<br>平和を取り戻した王都に凱旋する一行。<br>正気に戻ったユクリータたちをオラクルに<br>戻すため、召喚陣のある王宮へ向かう。<br>――――――――――――――――――――<br>失敗条件/戦闘不能後、リタイアを選択"""
-StoryExplanation#0,"""「【若人】四天」からエピックを解放し<br>平和を取り戻した王都に凱旋する一行。<br>正気に戻ったユクリータたちをオラクルに戻すため<br>召喚陣のある王宮へ向かう。"""
+Explanation#0,"""With Epic freed from the \""Four Infernal<br>Guardians of [Apprentice]\"", the party<br>travelled to the Royal Capital, where they<br>could unsummon Yucreta back to Oracle.<br>――――――――――――――――――――<br>Failure: Retire after being incapacitated."""
+StoryExplanation#0,"""With Epic freed from the \""Four Infernal<br>Guardians of [Apprentice]\"", the party<br>travelled to the Royal Capital, where they<br>could unsummon Yucreta back to Oracle."""
 SimpleExplanation#0,"""Defeat Omega Apprezina!"""
 Area0S#0,"""Holy Kingdom of Epic"""
 Area0L#0,"""Omega - Epic Royal Throne"""

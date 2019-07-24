@@ -78,7 +78,7 @@ PartnerChangeEquipError5#0,"""Due to gender restrictions<br>equipment can't be c
 PartnerChangeEquipError6#0,"""Due to class restrictions<br>equipment can't be changed."""
 PartnerChangeEquipError7#0,"""Due to class change restrictions<br>equipment can't be changed."""
 PartnerChangeEquipError8#0,"""Support partner's<br>Class change failed."""
-PartnerChangeEquipError9#0,"""Support partner's<br>equipment change failed。"""
+PartnerChangeEquipError9#0,"""Support partner's<br>equipment change failed."""
 PartnerChangeEquipError10#0,"""Support partner's<br>equipment change process<br>failed."""
 PartnerChangeEquipError11#0,"""Unidentified items can not be given."""
 PartnerChangeEquipError12#0,"""Inventory is full. Cannot retrieve equipped item."""

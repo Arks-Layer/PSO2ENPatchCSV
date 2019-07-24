@@ -1,0 +1,7 @@
+IncidentName#0,"""Do your best to meet the condition!"""
+TrialBeginMsg#0,"""Do your best to meet the condition!"""
+TrialAbstract#0,"""Do your best to meet the condition!"""
+NpcComOnBegin#0,"""Confirmed a suitable enemy reading!"""
+NpcComOnSuccess#0,"""Thank you for cooperating!<br>We were able to collect the necessary data safely!<br>Now sharing the results!"""
+NpcComOnFailure#0,"""Thank you for cooperating!<br>We were able to collect the necessary data safely!<br>Now sharing the results!"""
+NpcComOnExplain#0,"""When data collection is complete, I will report the results.<br>Thank you for your cooperation!"""
