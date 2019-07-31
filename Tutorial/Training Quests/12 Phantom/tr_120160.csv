@@ -1,6 +1,6 @@
 name01#0,"""Xiera"""
-text01#0,"""重要なスキル<red>「ファントムギア」<c>に<br>ついて訓練しましょう。"""
-text02#0,"""「ファントムギア」のギアゲージは<br><red>敵を攻撃する<c>ことでたまります。"""
+text01#0,"""<red>Phantom Gear<c> is a very important skill to learn about."""
+text02#0,"""The Phantom Gear Gauge fills <red>as you attack enemies<c>."""
 text101#0,"""Task 9: <yellow>Attack enemies and gain Phantom Gear"""
 train_title#0,"""Task 9: <yellow>Attack enemies and gain Phantom Gear"""
 tut_title#0,"""Phantom Gear"""
