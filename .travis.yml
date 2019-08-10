@@ -2,7 +2,7 @@ os: linux
 env:
   - PARALLEL="--block 43K"
 
-dist: trusty
+dist: xenial
 
 cache:
   apt: true
@@ -22,18 +22,15 @@ script:
   - ./_sh/EOL.sh
   - ./_sh/BOM.sh
   - ./_sh/CSV.sh
+  - ./_sh/ODD.sh
   - ./_sh/checkFiles.sh
   - ./_sh/quote.sh
   - ./_sh/dupCSV.sh
   - ./_sh/check.sh
   - ./_sh/command.sh
   - ./_sh/Fonts.sh
-  - ./_sh/outputPO.sh > /dev/null
 
 install:
   - true
 
 language: python
-
-virtualenv:
-  system_site_packages: true

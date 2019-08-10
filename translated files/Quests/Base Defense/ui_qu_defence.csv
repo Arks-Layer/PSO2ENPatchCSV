@@ -67,4 +67,5 @@ Terminal_ActionInfo_6#0,"""Очищает заражённую защитную<
 Result_Label_1#0,"""Ранг"""
 Result_Label_2#0,"""Персонаж"""
 Result_Label_3#0,"""Очки вклада"""
+Result_Label_4#0,"""Score"""
 Result_Title#0,"""Результат $(0) волны"""

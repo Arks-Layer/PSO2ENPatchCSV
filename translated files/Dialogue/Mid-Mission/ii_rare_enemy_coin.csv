@@ -1,4 +1,4 @@
 IncidentName#0,"""Отбейтесь от $(0)!"""
 TrialBeginMsg#0,"""Отбейтесь от $(0)!"""
 TrialAbstract#0,"""すべての$(0)を撃退せよ"""
-ToastOwnerPartyLeave#0,"""「レアエネミートリガー」が誰でも起動可能になりました。"""
+ToastOwnerPartyLeave#0,"""「エネミートリガー」が誰でも起動可能になりました。"""

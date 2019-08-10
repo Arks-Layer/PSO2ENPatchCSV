@@ -12,7 +12,7 @@ jobs:
         - develop
         - /feature-.*/
         - JP
-        - /*_Old/
+        - /.*_Old/
     steps:
       - run:
           name: Update APT listing
@@ -42,6 +42,9 @@ jobs:
       - run:
           name: Verify CSVs
           command: ./_sh/CSV.sh
+      - run:
+          name: Check ODD strings in NPC names
+          command: ./_sh/ODD.sh
       - run:
           name: Verify folder layout
           command: ./_sh/checkFiles.sh
