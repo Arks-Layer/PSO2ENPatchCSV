@@ -791,7 +791,7 @@ BasicHintAutoGetUnit#0,"""レアリティの高いユニットがドロップす
 BasicHintAutoGetMaterial#0,"""『オーダーアイテム／素材』カテゴリの<br>アイテムがドロップする際に<br>取得ミスを防ぐため、フィールドにドロップさせず<br>アイテムパックに即時取得するかを設定します。<br><br>※素材倉庫が有効な場合は<br>\u3000\u3000自動的に素材倉庫へ送られます。"""
 BasicHintAutoGetOther#0,"""武器、ユニット、素材以外のアイテムを対象として<br>レアリティの高いアイテムがドロップする際に<br>取得ミスを防ぐため、フィールドにドロップさせず<br>アイテムパックに即時取得するかを設定します。"""
 BasicTextFloatTextItem#0,"""Item Drop Display Settings"""
-FloatTextItem#0,"""\u3000\u3000\u3000Obtain Item"""
+FloatTextItem#0,"""\u3000\u3000\u3000Item Drops"""
 FloatTextItemVita#0,"""Item Drop Display"""
 SelectFloatTextOn#0,"""Enable"""
 SelectFloatTextList#0,"""Display next to character"""
