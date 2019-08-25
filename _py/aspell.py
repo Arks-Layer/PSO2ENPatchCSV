@@ -40,6 +40,9 @@ aspellt = [
 	('８', '8'),
 	('９', '9'),
 	('†', ""),
+	("voice11_sound_voice_magat_qu002", ""),
+	("voice11_sound_voice_magat_qu003", ""),
+	("voice11_sound_voice_magat_qu004", ""),
 ]
 
 
@@ -78,4 +81,7 @@ for i in sys.argv[1:]:
 					check = checkwords(col)
 					if check != '""':
 						bufout += "\n{0}".format(check)
-	print(bufout)
+	try:
+		print(bufout)
+	except BrokenPipeError as e:
+		sys.exit(os.EX_IOERR);
