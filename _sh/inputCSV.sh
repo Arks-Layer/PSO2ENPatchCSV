@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 if [ "$#" -gt "0" ]; then
 	find . -name "*.csv" -not -path "./.git/*" -not -path "./Files/*" -print0|./_tools/mp.sh -0 -- ./_py/inputCSV.py $1
 	find . -name "*.csv" -not -path "./.git/*" -not -path "./Files/*" -print0|./_tools/mp.sh -0 -- dos2unix -k -q --
