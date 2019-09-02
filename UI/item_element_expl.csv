@@ -986,7 +986,7 @@
 354#1,"""Grants a 3% damage<br>bonus for 30 seconds<br>each time you deal a<br>total of 450,000<br>damage."""
 355#1,"""Recovers 4% of your<br>HP every second for<br>30 seconds each time<br>you take a total of 600<br>damage."""
 356#1,"""Grants a barrier that<br>cuts damage you take<br>by 8% and prevents<br>flinching or being<br>knocked down. The<br>barrier toggles on/off<br>every 20 seconds."""
-357#1,"""Reduces your PP<br>consumption for 20<br>seconds each time you<br>successfully perform<br>a Just Guard."""
+357#1,"""Reduces your PP<br>consumption by 8% for<br>20 seconds each time<br>you successfully<br>perform a Just Guard."""
 358#1,"""Boosts attack PP<br>recovery by 20% for<br>30 seconds each time<br>you use a total of<br>150 PP."""
 359#1,"""Boosts PP regeneration<br>by 20% for 20 seconds<br>each time you stand<br>still for 5 seconds."""
 360#1,"""-"""
