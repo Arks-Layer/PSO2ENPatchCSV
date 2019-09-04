@@ -1742,7 +1742,7 @@ MultiWT02#1,"""Simple Technique combining Wind and Lightning.<br>Attack with a t
 MultiFD02#1,"""Simple Technique combining Fire and Dark.<br>Strike ahead with a spear of fire and darkness. Hold the button to rush forward."""
 MultiIL02#1,"""Simple Technique combining Ice and Light.<br>Take flight with wings of ice and light. Hold the button to move while firing bullets."""
 WandPA01#1,"""Wand Photon Art.<br>Uncharged, rush forward for several seconds.<br>Charged, knock enemies away with a strike."""
-SwordGPA01#1,"""『大剣』用の解式ＰＡ。<br>凝縮したフォトンをまとった強烈な<br>斬撃と共に、巨大な衝撃波を放つ。"""
+SwordGPA01#1,"""Sword Complex PA<br>Condense Photons into a slash that generates a huge shockwave."""
 SwordPA01#2,"""Sword Photon Art."""
 SwordPA02#2,"""Sword Photon Art."""
 SwordPA03#2,"""Sword Photon Art."""
