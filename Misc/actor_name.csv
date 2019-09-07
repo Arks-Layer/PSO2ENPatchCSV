@@ -1660,7 +1660,7 @@ Wind03#1,"""Intermediate Wind Technique.<br>Manipulates pressure under the targe
 Wind04#1,"""Intermediate Wind Technique.<br>Places a tornado in front of the caster that draws enemies in. Hits multiple times."""
 Wind05#1,"""Advanced Wind Technique.<br>Condenses Photons into a blast of wind. Narrow range, but very powerful."""
 Wind06#1,"""Wind Support Technique.<br>Generates a field of wind around the caster. Friendly attacks deal bonus wind damage."""
-Wind07#1,"""Advanced Wind Technique.<br>Fires a horizontal whirlwind, dragging enemies towards its center."""
+Wind07#1,"""Advanced Wind Technique.<br>Fires a horizontal whirlwind which drags enemies towards its center."""
 Light01#1,"""Basic Light Technique.<br>Crystallizes Photons, raining arrows of light on the target. Hits multiple times."""
 Light02#1,"""Intermediate Light Technique.<br>Creates circling blades of light around the caster. Hits multiple times."""
 Light03#1,"""Intermediate Light Technique.<br>Concentrates Photons into a lance of holy light in front of the caster. Hits multiple times."""
