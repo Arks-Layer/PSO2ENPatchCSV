@@ -1669,7 +1669,7 @@ Light05#1,"""Light Cure Technique.<br>Healing Photons remove status effects from
 Light06#1,"""Advanced Light Technique.<br>Creates an extremely dense sphere of light around the caster. Hits multiple times."""
 Light07#1,"""Advanced Light Technique.<br>Crystallizes Photons with all the colors of the rainbow. Pursues the target and explodes."""
 Dark01#1,"""Basic Dark Technique.<br>Summons an orb of condensed Photons to track the target, exploding on contact."""
-Dark02#1,"""Intermediate Dark Technique.<br>Summons dark spears to stab a target from all sides. Narrow range but very powerful."""
+Dark02#1,"""Intermediate Dark Technique.<br>Summons dark spears to stab a target from all sides. Narrow range, but very powerful."""
 Dark03#1,"""Intermediate Dark Technique.<br>A mass of condensed Photons pour from the sky and rain down around the caster."""
 Dark04#1,"""Intermediate Dark Technique.<br>Fires several dark splinters to track your target. Most useful at long range."""
 Dark05#1,"""Dark Support Technique.<br>Generates a field of darkness around the caster. Friendly attacks will restore HP."""
