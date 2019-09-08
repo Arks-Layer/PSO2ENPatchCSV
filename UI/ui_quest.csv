@@ -286,6 +286,7 @@ RD_Event071_MES#0,"""フォトナー艦隊迎撃作戦は、第２段階に移�
 RD_Event072_MES#0,"""フォトナー艦隊迎撃作戦は、最終段階に移行しました。アークス各員はセクター３展開区域での作戦への参加をお願いします。"""
 RD_Event073_MES#0,"""フォトナー艦隊迎撃作戦は、最終段階に移行しました。アークス各員はセクター３展開区域での作戦への参加をお願いします。"""
 RD_Event074_MES#0,"""フォトナー艦隊の撃退に成功しました。作戦協力に感謝します。"""
+Q_Event001_70_MES#0,"""連絡だよ。向こうの世界――オメガの異変を察知した。近々、大きな戦闘が起こるかもしれないから準備しておいてほしい。"""
 R_Event001_MES#0,"""Tendremos Rankings de Interrupción comenzando en <%TSE_OpenLimetTime>. ¡Asegúrese de participar!"""
 R_Event002_MES#0,"""En estos momentos estamos realizando Rankings de Time Attack. La misión actual es [<%TSE_TA_Quset_Name> - <%TSE_TA_Quset_Difficulty>]. La competencia terminará en <%TSE_EndTime>. La misión objetivo dará una mayor experiencia, junto con una bonificación de meseta tras completar la misión!"""
 R_Event003_MES#0,"""El Ranking de Time Attack se ha completado."""
