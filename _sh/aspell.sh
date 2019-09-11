@@ -1,4 +1,5 @@
 #!/bin/bash
+set -uo pipefail
 LANGDICT=en
 cp _aspell/PSO2.dict.BASE /tmp/PSO2.dict
 PYTHONIOENCODING=utf-8 find . -name '*_name.csv' -or -name 'ui_charamake_parts.csv' -print0|xargs -0 _py/aspell.py|sort|uniq|grep -v -E -f _aspell/reject.dict|sed -f _aspell/reject.sed|_py/stripCJK.py|strings -n 2 -e S > /tmp/PSO2.dict.DYN

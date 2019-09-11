@@ -1,6 +1,6 @@
 name01#0,"""Xiera"""
-text01#0,"""クラススキル<red>「ファントムマーカー」<c>を<br>習得した後、エネミーを攻撃し続けると<br>自動的にマーカーが付与されます。"""
-text02#0,"""効果は、のちほど。<br>それでは、<red>エネミーを攻撃し続けて<br>ファントムマーカーを付与<c>しましょう！"""
+text01#0,"""Once you've learned the Class Skill \""Phantom Marker\"", attacking an enemy repeatedly will place a marker on it."""
+text02#0,"""We'll cover what it does later. For now, <red>attack enemies and mark them with Phantom Markers<c>!"""
 text101#0,"""Task 8: <yellow>Attack an enemy with any weapon and place a marker on it"""
 train_title#0,"""Task 8: <yellow>Attack an enemy with any weapon and place a marker on it"""
 tut_title#0,"""Phantom Marker"""

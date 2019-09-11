@@ -1,3 +1,3 @@
 text00#0,"""The A.R.K.S. Support System"""
-text01#0,"""The \""A.R.K.S. Support System\"" triggers when the Ship as a whole has made sufficient progress on a strategy by defeating the target."""
-text02#0,"""<c 00ffff>When the operation progress percentage reaches a certain value, the A.R.K.S. support system grants all players a power boost.<br><br>This effect will last until the end of the quest.<c><br><br>Combine your power as ARKS and defeat the target!"""
+text01#0,"""The \""A.R.K.S. Support System\"" triggers <c 00ffff>when the Ship as a whole has made sufficient progress on a strategy by defeating the target<c>."""
+text02#0,"""<c 00ffff>When the operation progress percentage reaches a certain value, the A.R.K.S. support system grants all players a power boost.<c><br><br>This effect will last until the end of the quest.<br><br>Combine your power as ARKS and defeat the target!"""

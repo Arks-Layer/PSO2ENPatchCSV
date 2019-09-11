@@ -286,6 +286,7 @@ RD_Event071_MES#0,"""The Photoner fleet interception operation has proceeded to 
 RD_Event072_MES#0,"""The Photoner fleet interception operation has proceeded to the final stage. All ARKS are requested to participate in the operation in Sector 3."""
 RD_Event073_MES#0,"""The Photoner fleet interception operation has proceeded to the final stage. All ARKS are requested to participate in the operation in Sector 3."""
 RD_Event074_MES#0,"""The Photoner fleet has been successfully defeated. Thank you for your cooperation."""
+Q_Event001_70_MES#0,"""Contacting everyone. We have detected an abnormal change in Omega, the world beyond. There may be a huge battle in the near future. Please be prepared."""
 R_Event001_MES#0,"""We will be holding Interrupt Rankings starting at <%TSE_OpenLimetTime>. Be sure to participate!"""
 R_Event002_MES#0,"""We are currently holding Time Attack Rankings. The current quest is [<%TSE_TA_Quset_Name> - <%TSE_TA_Quset_Difficulty>]. The competition will end at <%TSE_EndTime>. The target quest will give out increased experience, along with bonus clear meseta!"""
 R_Event003_MES#0,"""Time Attack ranking has been completed."""

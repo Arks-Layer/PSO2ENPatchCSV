@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+set -euo pipefail
 rm -rf /tmp/PSO2ENPatchCSV.Fonts
 rsync --recursive --executability --whole-file . /tmp/PSO2ENPatchCSV.Fonts --exclude ".git" --del
 cd /tmp/PSO2ENPatchCSV.Fonts
