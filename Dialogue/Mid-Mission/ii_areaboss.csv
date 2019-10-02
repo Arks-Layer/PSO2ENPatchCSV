@@ -1,5 +1,5 @@
 IncidentName#0,"""Defeat the $(0)"""
-TrialBeginMsg#0,"""Defeat the $(0) in the final area!"""
+TrialBeginMsg#0,"""Defeat the $(0)!"""
 TrialAbstract#0,"""Defeat the $(0)!"""
 NpcComOnBegin#0,"""Urgent directive. <br>Confirmed powerful enemy readings. <br>Please defeat it immediately."""
 NpcComOnSuccess#0,"""Enemy readings have disappeared, <br>thanks to the efforts of you all."""
