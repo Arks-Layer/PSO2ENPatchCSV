@@ -1147,7 +1147,7 @@ Config_085_Hint_Switch#0,"""Set whether to show the interface <br>(including win
 Config_086_Name#0,"""Synchronized Physique Editing Settings"""
 Config_086_Choices_0#0,"""Synchronized Physique Editing"""
 Config_086_Choices_1#0,"""Separate Physique Editing"""
-Config_086_Hint#0,"""Set whether you want your Casts' human and robotic bodies to share the same proportions, or whether you want to edit them separately.<br><br>Humanoid-type and Cast bodies are synchronized by default. However, you can individually edit them by selecting \"Separate Physique Editing\"."""
+Config_086_Hint#0,"""Set whether you want your Casts' human and robotic bodies to share the same proportions, or whether you want to edit them separately.<br><br>Humanoid-type and Cast bodies are synchronized by default. However, you can individually edit them by selecting \""Separate Physique Editing\""."""
 Config_087_Name#0,"""Control Settings"""
 Config_087_Choices_0#0,"""Manual Type"""
 Config_087_Choices_1#0,"""Auto Type"""
