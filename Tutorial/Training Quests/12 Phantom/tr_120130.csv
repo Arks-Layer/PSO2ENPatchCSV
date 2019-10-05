@@ -1,5 +1,5 @@
 name01#0,"""Xiera"""
-text01#0,"""成功です！"""
-text02#0,"""マーカーには２段階あって<br><red>２段階目で起爆すると<br>より高いダメージ<c>を与えられますよ！"""
-text03#0,"""ダメージは、<red>起爆攻撃を当てた箇所に<br>発生<c>するので覚えておいてくださいね！<br>次は「ファントムギア」の訓練です！"""
+text01#0,"""You did it!"""
+text02#0,"""Markers have two levels, and <red>you'll deal more damage if you detonate a second-level marker<c>!"""
+text03#0,"""Remember, the marker will detonate <red>on the body part that you hit with the charged Weapon Action!<br>Next, we'll learn about Phantom Gear!"""
 text101#0,"""Task complete!"""
