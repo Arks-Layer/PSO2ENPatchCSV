@@ -1746,7 +1746,7 @@ MultiFD02#1,"""Simple Technique combining Fire and Dark.<br>Strike ahead with a 
 MultiIL02#1,"""Simple Technique combining Ice and Light.<br>Take flight with wings of ice and light. Hold the button to move while firing bullets."""
 WandPA01#1,"""Wand Photon Art.<br>Uncharged, rush forward for several seconds.<br>Charged, knock enemies away with a strike."""
 SwordGPA01#1,"""Sword Complex PA.<br>Condense Photons into a slash that generates a huge shockwave."""
-JetBootsGPA01#1,"""『魔装脚』用の解式ＰＡ。<br>回転する円状の衝撃波を連続で放つ。<br>派生で突進し、目標を蹴り上げる。"""
+JetBootsGPA01#1,"""Jet Boots Complex PA.<br>Unleash a series of shockwaves around you.<br>Shift Action: Rush in and kick the target."""
 SwordPA01#2,"""Sword Photon Art."""
 SwordPA02#2,"""Sword Photon Art."""
 SwordPA03#2,"""Sword Photon Art."""
