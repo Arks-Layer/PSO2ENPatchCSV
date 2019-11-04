@@ -1,6 +1,5 @@
 Title#0,"""T: Destroyers of Light"""
-Explanation#0,"""『守護輝士』に緊急連絡。<br>衛星・月および地球にて<br>エーテルの暴走励起と尋常ならざる<br>巨大な幻創種の反応を検知した。<br>これまでに培ったすべての力を用いて<br>単独でこれを撃破せよ。<br>極めて危険な任務だが完遂を望む。<br>――――――――――――――――――――<br>最大与ダメージ制限/999999<br>失敗条件/任務の失敗、制限時間の経過"""
-SimpleExplanation#0,"""時間内にエネミーを全て撃退せよ！"""
+Explanation#0,"""This is an urgent message for the Guardian.<br>We've detected unusual Ether readings<br>indicating the manifestation of giant<br>Phantoms on the Moon and on Earth.<br>You must face them alone, using all your<br>power to destroy them. This will be a<br>dangerous mission, but you must succeed.<br>――――――――――――――――――――<br>Damage Limit: 999999<br>Failure: Fail objective, time limit expires."""
 SimpleExplanation#0,"""Defeat the enemies in time!!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
