@@ -152,6 +152,7 @@ CautionMultiConditionLine1#0,"""Konnte das Feld nicht betreten. Die folgenden<br
 CautionMultiConditionLine2#0,"""Konnte das Feld nicht betreten. Die folgenden<br>Voraussetzungen wurden nicht erfüllt:<br><br>$(0)<br>$(1)"""
 ReasonPartyLevel#0,"""受注可能Lv.$(0)～"""
 ReasonEventFlag#1,"""・Voraussetzungen/Client Orders"""
+EXQuestName#0,"""超界探索"""
 Title#2,"""Questtyp auswählen"""
 Back#1,"""Zurück"""
 HintNon#0,"""Unbekannter Fehler"""
