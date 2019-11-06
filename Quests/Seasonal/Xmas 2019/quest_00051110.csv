@@ -8,7 +8,7 @@ Explanation#0,"""惑星ナベリウスの凍土エリアにて準備中の<br>�
 NpcComMsg1#0,"""これより、転送を開始します。<br>現在、会場の安全を脅かしている多数の<br>敵性存在に対し、討伐作戦を展開中。"""
 NpcComMsg2#0,"""戦闘領域は拡大しており<br>驚異的な強化を遂げた個体や<br>共振する敵性反応も確認されています。"""
 NpcComMsg3#0,"""気を引き締めて、迅速に作戦を実行し<br>会場の安全を確保してください。"""
-SimpleExplanation#0,"""Defeat the enemies within the timelimit!"""
+SimpleExplanation#0,"""Defeat the enemies within the time limit!"""
 Area0S#0,"""Tundra Area 1"""
 Area0L#0,"""Planet Naberius: Tundra Area 1"""
 Area1S#0,"""Tundra Area 2"""
