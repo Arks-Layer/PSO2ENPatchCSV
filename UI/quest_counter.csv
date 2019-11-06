@@ -152,6 +152,7 @@ CautionMultiConditionLine1#0,"""パーティーメンバー全員が<br>以下�
 CautionMultiConditionLine2#0,"""パーティーメンバー全員が<br>以下の受注条件を満たしていないため<br>このフリーフィールドは開始できません。<br><br>・$(0)<br>・$(1)"""
 ReasonPartyLevel#0,"""受注可能Lv.$(0)～"""
 ReasonEventFlag#1,"""特殊な受注条件"""
+EXQuestName#0,"""超界探索"""
 Title#2,"""クエストタイプ選択"""
 Back#1,"""Kembali"""
 HintNon#0,"""不明なエラー"""
