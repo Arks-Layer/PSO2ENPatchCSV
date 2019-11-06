@@ -152,6 +152,7 @@ CautionMultiConditionLine1#0,"""Could not enter field.<br>The following conditio
 CautionMultiConditionLine2#0,"""Could not enter field.<br>The following conditions were not met:<br><br>$(0)<br>$(1)"""
 ReasonPartyLevel#0,"""・Nv.$(0)+"""
 ReasonEventFlag#1,"""・Condiciones/Ordenes de cliente"""
+EXQuestName#0,"""超界探索"""
 Title#2,"""Selección de misión"""
 Back#1,"""Regresar"""
 HintNon#0,"""Error desconocido"""
