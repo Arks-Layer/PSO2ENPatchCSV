@@ -152,6 +152,7 @@ CautionMultiConditionLine1#0,"""Невозможно войти на поле.<b
 CautionMultiConditionLine2#0,"""Невозможно войти на поле.<br> Следующие условия не выполнены:<br><br>$(0)<br>$(1)"""
 ReasonPartyLevel#0,"""・Ур.$(0)+"""
 ReasonEventFlag#1,"""・Условия/Частные заказы"""
+EXQuestName#0,"""超界探索"""
 Title#2,"""Выбор типа квеста"""
 Back#1,"""Назад"""
 HintNon#0,"""Неизвестная ошибка"""
