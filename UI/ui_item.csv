@@ -9872,7 +9872,7 @@ ring_SpecialEffectSu#1,"""Effort Symbol Summoner<br>A badge signifying experienc
 ring_SpecialEffectHr#1,"""Effort Symbol Hero<br>A badge signifying experience as a valiant<br>hero, earned by facing significant hardship."""
 ring_SpecialEffectPh#1,"""Effort Symbol Phantom<br>A badge signifying experience as an undying<br>ghost, earned by facing significant hardship."""
 ring_SpecialEffectCo#1,"""Friends' Protection<br>Ring of friendship for Itsuki and RINA.<br>Reduces damage."""
-ring_TecArtsJAPPSave#1,"""Tech Arts JA PP Save/Ring<br>Reduces PP costs when performing<br>consecutive Just Attacks of PAs/Techniques."""
+ring_TecArtsJAPPSave#1,"""Tech Arts JA PP Save/Ring<br>Reduces PP costs when performing different<br>consecutive Just Attacks of PAs/Techniques."""
 ring_HighJump#1,"""Jumping Dodge<br>When used from the Subpalette, uses<br>a high jump to avoid enemy attacks."""
 ring_AnyTimeAutoAttack#1,"""Near Auto Target<br>Your Pet will automatically attack<br>whichever enemy you target without<br>you having to swing the Takt again."""
 ring_PhotonBladeHoming#1,"""Photon Blade Homing<br>Adds a homing effect to Photon Blades."""
