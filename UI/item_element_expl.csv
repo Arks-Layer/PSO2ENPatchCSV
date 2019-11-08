@@ -1422,6 +1422,6 @@
 277#2,"""Increases Jump Power."""
 278#2,"""Dodging will cause<br>your pet to return<br>back to you."""
 279#2,"""Gain a 10% chance<br>to stun the enemy<br>with a Just Attack."""
-280#2,"""When your HP is at 50%<br>or lower, damage is<br>reduced by 40%.<br>Resets after a<br>brief cooldown."""
+280#2,"""When your HP is at 50%<br>or lower, damage taken<br>is reduced by 40%.<br>Resets after a<br>brief cooldown."""
 281#2,"""-"""
 282#2,"""-"""
