@@ -1,3 +1,3 @@
 Title#0,"""About this Quest"""
-text0001#0,"""This quest automatically clears when the time limit is reached.<br><br>When Quest Points are above a certain level, rare enemies and boosted enemies have a higher chance to appear.<br><br>Work together with your party to defeat as many enemies as you can within the time limit!"""
-text0002#0,"""In this quest, <red>you will not be able to collect items dropped by enemies until you clear the quest<c>.<br><br>You can collect all dropped items in the transfer area at the end of the quest."""
+text0001#0,"""This quest will clear automatically when the time limit is reached.<br><br>Also, when your acquired Quest Points are above a certain level, rare and boosted enemies are more likely to appear.<br><br>Work hard alongside your fellow ARKS to defeat as many enemies as you can within the time limit!"""
+text0002#0,"""In this quest, <red>you cannot receive the items dropped by enemies until you clear the quest<c>.<br><br>When you clear the quest, the items will be available at the end area."""
