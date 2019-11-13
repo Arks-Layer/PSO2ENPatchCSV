@@ -42,7 +42,7 @@ Explain_Equip#0,"""<c f0df60>Change the equipment. By equipping certain types of
 Explain_Move#0,"""<space>"""
 Explain_Return#0,"""<c f0df60>Clear the machine and access other partner characters.<c>"""
 Explain_Back#0,"""<space>"""
-Explain_Pose#0,"""<c f0df60>サポートパートナーのポーズを選択できます。<c>"""
+Explain_Pose#0,"""<c f0df60>You can select a Support Partner pose.<c>"""
 AccessMenu_Title#0,"""Support Partner Menu"""
 AccessMenu_Order#0,"""Issue Client Orders"""
 AccessMenu_OrderCancel#0,"""Cancel Search"""
