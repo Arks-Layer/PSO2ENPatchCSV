@@ -288,7 +288,7 @@ RD_Event072_MES#0,"""The Photoner fleet interception operation has proceeded to 
 RD_Event073_MES#0,"""The Photoner fleet interception operation has proceeded to the final stage. All ARKS are requested to participate in the operation in Sector 3."""
 RD_Event074_MES#0,"""The Photoner fleet has been successfully defeated. Thank you for your cooperation."""
 Q_Event001_70_MES#0,"""Contacting everyone. We have detected an abnormal change in Omega, the world beyond. There may be a huge battle in the near future. Please be prepared."""
-Q_Event001_71_MES#0,"""Emergency broadcast. We have detected the appearance of the Sixth Angel appearing in the ARKS Ship Urban District. All ARKS are required to prepare for the operation immediately."""
+Q_Event001_71_MES#0,"""Emergency broadcast. We have detected the Sixth Angel has appeared over the ARKS Ship Urban District. All ARKS are required to prepare for the operation immediately."""
 Q_Event001_72_MES#0,"""Emergency broadcast. The Angel extermination operation has commenced. All ARKS, please join the operation at your nearest quest counter to begin the assault."""
 Q_Event001_73_MES#0,"""The Sixth Angel has been successfully subdued. Thank you for your cooperation."""
 R_Event001_MES#0,"""We will be holding Interrupt Rankings starting at <%TSE_OpenLimetTime>. Be sure to participate!"""
