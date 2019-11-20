@@ -1,7 +1,7 @@
 IncidentName#0,"""Defeat the $(0)"""
 TrialBeginMsg#0,"""Begin the assault on the $(0)!"""
 TrialAbstract#0,"""Attack the $(0)!"""
-NpcComOnBegin#0,"""The assault on the Angel has begun. The first wave starts with the A.I.S creating a diversion for the EVA."""
+NpcComOnBegin#0,"""The assault on the Angel has begun. The first wave starts with the A.I.S creating a diversion for Eva-01."""
 NpcComOnBegin_2#0,"""/atime2.5 /voice11_voice_navi09_prism_102 The target will change shape once it starts its attacks. It will then deploy a barrier, called an A.T. Field."""
 NpcComOnBegin_3#0,"""/atime2.5 /voice11_voice_navi09_prism_103 By breaking the A.T. Field via repetitive attacks, it'll give us a chance to attack it directly!"""
 NpcComOnTargetPlayerFirstTime#0,"""/atime2.5 /voice11_voice_navi09_prism_104 Use the Counter Shield to reflect damage dealt from the target."""
