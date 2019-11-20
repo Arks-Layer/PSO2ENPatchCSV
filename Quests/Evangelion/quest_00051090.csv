@@ -5,7 +5,7 @@ NpcComMsg2#0,"""出撃後、エヴァ初号機が狙われないよう<br>周囲
 NpcComMsg3#0,"""目標からの強力な反撃が予想されますが<br>陽電子砲のチャージ完了まで<br>何としてでも凌いでください。健闘を！"""
 SimpleExplanation#0,"""Destroy the Angel!"""
 Area0S#0,"""ARKS Ship"""
-Area0L#0,"""ARKS Ship: Skies above the city"""
+Area0L#0,"""ARKS Ship: Urban District Skies"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""
