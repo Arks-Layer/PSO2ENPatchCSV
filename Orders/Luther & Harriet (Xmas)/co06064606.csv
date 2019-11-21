@@ -1,0 +1,5 @@
+Title#0,"""A Friendly Ghost"""
+Explanation#0,"""僕から、ひとつ頼みがある。<br>ハリエットのことだが……<br>クリスマスを満喫していたと思いきや<br>寂しい顔を見せてくる。<br>僕たちの存在の真実に気がついたようだ。<br>守護輝士……君だからこそ<br>妹にかけられる言葉があるはずだ。<br>……頼んだよ。<br><yellow>※Talk to Harriet (Christmas)<br>in the Shop Area.<c>"""
+Target#0,"""Talk to Harriet (Christmas)"""
+Reward#0,"""Omega Cockatrice Head x2<br>※1 per account, given upon completion."""
+Reward_received#0,"""Omega Cockatrice Head x2<br>※Item has been obtained already."""
