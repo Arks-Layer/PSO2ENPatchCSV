@@ -1,5 +1,5 @@
 Title#0,"""Winged Border-Breaker"""
-Explanation#0,"""惑星ナベリウスの壊世区域において<br>突如、世壊種だけでなく、原生種や<br>龍族、機甲種に海王種などのエネミーが<br>発生した。またその現象との関連は不明だが<br>局所的な激しい雷雨の発生と正体不明の<br>有翼型エネミーの出現も確認されている。<br>アークス各員は、至急現地に赴き<br>該当個体を調査し、必要に応じて討伐せよ。<br>――――――――――――――――――――<br>Failure: Be defeated in the final area."""
+Explanation#0,"""A number of enemies have suddenly<br>appeared in the Corrupted Area on<br>planet Naberius, including Aberrations,<br>Natives, Dragonkin, Mechs and Oceanids.<br>Localized thunderstorms and a large<br>winged enemy have also been observed.<br>All ARKS are to investigate, and if<br>necessary, subdue the winged enemy.<br>――――――――――――――――――――<br>Failure: Be defeated in the final area."""
 SimpleExplanation#0,"""Find the source of the anomaly!"""
 NpcComMsg1#0,"""Anga Fundarge readings detected.<br>It appears to be further ahead."""
 NpcComMsg2#0,"""Currently, the identity of this winged enemy remains unknown.<br>Its data matches no previously-observed enemies.<br>We can't leave this alone."""

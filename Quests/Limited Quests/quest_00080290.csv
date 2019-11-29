@@ -1,5 +1,5 @@
 Title#0,"""The Menacing Castle"""
-Explanation#0,"""異世界オメガ、魔道国クエント近辺で<br>ルツ軍残党による魔神城召喚を確認！<br>手順を無視した強引な召喚により<br>魔神城は暴走状態に陥っています。<br>これまでとは異なる戦略が必要ですが<br>周辺への被害が拡大する前に<br>迅速な撃破をお願いします！<br>――――――――――――――――――――<br>Failure Conditions: Time runs out"""
+Explanation#0,"""The remnants of Lutz's army have<br>summoned a Devil Castle near Cuent!<br>They've used an abnormal summoning<br>procedure, and the Devil Castle has<br>gone berserk as a result.<br>We will have to take a different approach.<br>Destroy it quickly, before it can seriously<br>damage the surrounding area!<br>――――――――――――――――――――<br>Failure: Time limit expires"""
 SimpleExplanation#0,"""Defeat the Devil Castle!"""
 NpcComMsg1#0,"""We have reports that the remnants of Lutz's army have forcibly summoned a Devil Castle, which has now gone berserk."""
 NpcComMsg2#0,"""This castle, which unlike the many summoned before, has unmeasurable influence compared to the other castles."""
