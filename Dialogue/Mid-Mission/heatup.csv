@@ -104,7 +104,7 @@ ThunderHell2#0,"""A powerful electrical discharge<br>has been detected. It may b
 ThunderHell3#0,"""We're detecting a very strong<br>electric field! Keep a close eye<br>on your surroundings!"""
 SessionasaiAlly1#0,"""Two ARKS signatures nearby. It<br>looks like they're in a party, but<br>something is off about this reading..."""
 SessionnewafinAlly1#0,"""Two ARKS signatures nearby. It<br>looks like they're in a party, but<br>something is off about this reading..."""
-annihilation_rappyemp#0,"""敵性反応とは違う反応を確認。<br>巨影の目撃情報も来ています。<br>周辺に注意してください！"""
+annihilation_rappyemp#0,"""Detecting a reading, but it doesn't<br>seem hostile. We've received reports<br>of sightings of a large shadow.<br>Pay attention to your surroundings!"""
 DestroyEnemy1#1,"""There's a great number of moving heat sources.<br>Don't get careless now."""
 DestroyEnemy2#1,"""Detecting a large number of moving heat sources.<br>Watch yourselves."""
 DestroyEnemy3#1,"""Confirmed a large number of readings.<br>Be on the lookout."""
