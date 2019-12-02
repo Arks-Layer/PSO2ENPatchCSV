@@ -408,7 +408,7 @@ II_BossAnnihilationRankingBreakParts1#0,"""特定条件下での分散型デー�
 II_BossAnnihilationRankingBreakParts2#0,"""特殊な敵性反応が……<br>特定条件下での分散型データ収集に<br>適合しそうです。ご準備を！"""
 II_BossAnnihilationRankingDamageTotalPenalty1#0,"""特定条件下での分散型データ収集に<br>適合しそうな敵性反応を検知！<br>また後ほどご連絡します！"""
 II_BossAnnihilationRankingDamageTotalPenalty2#0,"""特殊な敵性反応が……<br>特定条件下での分散型データ収集に<br>適合しそうです。ご準備を！"""
-Boost_v1#0,"""Detecting rampaging Darker Weapons! Please watch your surroundings!"""
+Boost_v1#0,"""Detecting rampaging Darker weapons! Please watch your surroundings!"""
 Boost_v2#0,"""Detecting strange energy readings... Please be on the lookout for any changes in the area!"""
 Boost_v3#0,"""W-what's this? I'm detecting strong energy readings!"""
 DestroyEnemy1#5,"""怪しげな反応を感知しています！<br>周囲警戒、要注意ですよ！"""
