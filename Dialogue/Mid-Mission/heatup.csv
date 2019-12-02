@@ -23,7 +23,7 @@ Door_Cave2#0,"""Something strange is going<br>on amongst the enemy forces.<br>Pl
 Door_Cave3#0,"""There's something strange<br>about this enemy activity.<br>Something might be happening."""
 Door_Urban1#0,"""System malfunctions detected!<br>Be aware of malfunctioning<br>defense equipment!"""
 Door_Urban2#0,"""Error code detected!<br>Please be mindful of<br>malfunctions and the like!"""
-Door_Urban3#0,"""Abnormal behavior has been<br>confirmed! Pay attention to the<br>behavior of defense equipment too!"""
+Door_Urban3#0,"""Abnormal behavior has been<br>confirmed! Pay attention to the<br>behavior of defense equipment!"""
 DragonFellows1#0,"""Some spots around here<br>don't have a stable footing.<br>Please, watch your step."""
 DragonFellows2#0,"""Fittingly enough, some of the Skyscape area's footing seems to be unstable."""
 DragonFellows3#0,"""Be sure to keep track of both your<br>location and that of stable ground."""
