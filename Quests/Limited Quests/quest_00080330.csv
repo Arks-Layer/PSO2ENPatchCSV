@@ -1,5 +1,5 @@
 Title#0,"""Sky Park Arkuma Land"""
-Explanation#0,"""全アークスに告ぐ。私はアークマである。<br>貴君らが楽しめる訓練を用意した。<br>内容は簡単。定められた時間内に<br>多くの敵を倒しハイスコアを記録せよ。<br>なお道中のエマージェンシートライアルは<br>スコアを稼ぐには欠かせないものである。<br>各員、積極的な挑戦を推奨する。<br>――――――――――――――――――――<br>ルーム内のスコア共有<br>制限時間経過でクエスト終了"""
+Explanation#0,"""Hello, all you ARKS. I am Arkuma.<br>I have prepared a fun training program<br>for you. The objective is simple.<br>Defeat as many enemies as you can<br>within a time limit and set a high score.<br>You will need to complete Emergency<br>Trials if you want to earn a high score.<br>Be aggressive as you proceed.<br>――――――――――――――――――――<br>Score is shared with the room.<br>Quest ends when time limit expires."""
 SimpleExplanation#0,"""Defeat the enemies & earn points!"""
 NpcComMsg1#0,"""参集に感謝する。<br>これより、エネミーの撃破数による<br>スコアアタックに挑戦されたし。"""
 NpcComMsg2#0,"""なお、クエストの途中で発生する<br>エマージェンシートライアルには<br>トライアルオーダーを設定している。"""
