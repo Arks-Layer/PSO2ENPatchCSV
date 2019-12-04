@@ -158,7 +158,7 @@ DestroyAPC2#1,"""Confirmed an unknown heat source.<br>... Careful, something's s
 DestroyAPC3#1,"""There's an unidentified<br>heat source present...<br>Is someone there?"""
 SmallmanMsg1#1,"""It seem there have been lots of reports of Lillipans directly interacting with ARKS lately."""
 SmallmanMsg2#1,"""Speaking of which, I wonder how Lillipans communicate..."""
-SmallmanMsg3#1,"""/face6 リリーパ族、か。<br>どんな経緯でこの星に<br>住み始めたのだろう。"""
+SmallmanMsg3#1,"""/face6 Lillipans, huh? I wonder how they<br>came to live on this planet?"""
 FortAttack1#1,"""I'm detecting a portal nearby. ...Strong Darker readings are increasing!"""
 FortAttack2#1,"""The way to the next area is up ahead. Darker readings are increasing as well."""
 FortAttack3#1,"""I'm picking up a lot of Dragonkin. Careful, the gate is also under the influence of Darkers."""
