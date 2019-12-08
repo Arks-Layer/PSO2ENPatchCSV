@@ -57,7 +57,7 @@ def cutoutcommands(i):
 			ce += 0
 		elif "/start" in li[ce]:
 			ce += 0
-		elif "/voice11_voice_navi07_0" in li[ce]:
+		elif "/voice11_voice_nav" in li[ce]:
 			ce += 0
 		elif "/rt_time60" in li[ce]:
 			ce += 0
