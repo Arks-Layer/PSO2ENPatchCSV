@@ -1,0 +1,3 @@
+window_message_0000#0,"""Se ha detectado el autoguardado anterior.<br>¿Desea continuar desde ese punto?<br><br>Al seleccionar [Juega desde el principio] no se borrará el autoguardado."""
+window_message_0010#0,"""Juega desde el último autoguardado"""
+window_message_0020#0,"""Juega desde el principio"""
