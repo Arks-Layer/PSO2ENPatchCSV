@@ -103,7 +103,7 @@ BuyError_ExchangeLimit#0,"""購入可能数を超えているため<br>購入す
 BuyError_Other#0,"""購入することができませんでした。<br>しばらくしてから、再度アクセスしてください。"""
 ShopTitleText#0,"""Battle Coin Exchange"""
 NormalShopGuideText#0,"""<c f0df60>Exchange Battle Coins for items. Please select an item to exchange for.<c>"""
-LimitedShopGuideText#0,"""<c f0df60>Select an item to exchange for. (Exchange quantities are limited per week and reset each Wednesday at <utcdow>水曜日4:00</utcdow>.)<c>"""
+LimitedShopGuideText#0,"""<c f0df60>Select an item to exchange for. (Exchange quantities are limited per week and reset each <utcdow>水曜日4:00</utcdow>.)<c>"""
 ShopListTitle#1,"""Shop Menu"""
 PluralityMenuGuide#0,"""<c f0df60>Please select a shop.<c>"""
 Exit#0,"""Leave shop"""
