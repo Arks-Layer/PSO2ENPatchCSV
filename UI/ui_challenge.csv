@@ -41,7 +41,7 @@ ChallengeGuideOld#0,"""<c f0df60>過去のチャレンジランキングです�
 ChallengeTitleChallengeSelect#0,"""チャレンジ選択"""
 ChallengeTitleQuest#0,"""$(0)"""
 ChallengeCapDate#0,"""集計期間"""
-ChallengeDate#0,"""毎週月曜7時更新"""
+ChallengeDate#0,"""毎週<utcdow>日曜日22:00</utcdow>更新"""
 ChallengeRankingTitle#0,"""「$(0)」チャレンジランキング"""
 ChallengeMission#0,"""MISSION$(0)($(1)%)"""
 RankingTab01#0,"""上位20位"""
