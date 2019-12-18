@@ -4,4 +4,4 @@ text02#0,"""次はＰＡをスキップしてみましょう！<br><red>方向�
 text101#0,"""Task 3:<yellow>Use the PA without directional input<c>"""
 train_title#0,"""Task 3:<yellow>Use the PA without directional input<c>"""
 tut_title#0,"""Skip Arts"""
-text100#0,"""・Without holding a direction,<br>\u3000use the <%PhotonArts> button."""
+text100#0,"""・Without holding a direction,<br>\u3000use the <%PhotonArts> button"""

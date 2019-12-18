@@ -1,4 +1,4 @@
-train_title#0,"""Task 2:<yellow>ジャストガード後にカウンター攻撃をエネミーに当てる<c>"""
-tut_title#0,"""ガードカウンター攻撃について"""
-text100#0,"""・エネミーの攻撃が当たる直前に<br>\u3000武器アクション<%WeaponAction>でガード<br>・再度武器アクション<%WeaponAction>でカウンター"""
-text100_3b#0,"""・エネミーの攻撃が当たる直前に<br>\u3000武器アクション<%MainPaletteC>でガード<br>\u3000再度武器アクション<%MainPaletteC>でカウンター"""
+train_title#0,"""Task 2:<yellow>Hit the enemy with a counterattack after a Just Guard<c>"""
+tut_title#0,"""Just Guard Counter Attack"""
+text100#0,"""・Just before the attack hits<br>\u3000press <%WeaponAction> to guard<br>・Press <%WeaponAction> again to counter"""
+text100_3b#0,"""・Just before the attack hits<br>\u3000press <%MainPaletteC> to guard<br>・Press <%MainPaletteC> again to counter"""
