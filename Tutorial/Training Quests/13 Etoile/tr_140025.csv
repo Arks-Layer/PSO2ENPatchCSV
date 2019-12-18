@@ -5,5 +5,5 @@ text03#0,"""さっそく、試してみましょう！<br><red>「ディフレ�
 text101#0,"""Task 2:<yellow>Hit the enemy with a Deflect Combo<c>"""
 train_title#0,"""Task 2:<yellow>Hit the enemy with a Deflect Combo<c>"""
 tut_title#0,"""Double Saber Weapon Action"""
-text100#0,"""・Press<%WeaponAction>repeatedly<br>\u3000to hit the enemy."""
-text100_3b#0,"""・Press<%WeaponAction>repeatedly<br>\u3000to hit the enemy."""
+text100#0,"""・Press <%WeaponAction> repeatedly<br>\u3000to hit the enemy."""
+text100_3b#0,"""・Press <%WeaponAction> repeatedly<br>\u3000to hit the enemy."""
