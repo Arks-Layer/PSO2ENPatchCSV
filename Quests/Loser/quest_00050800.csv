@@ -1,5 +1,5 @@
 Title#0,"""Incarnation of Knowledge"""
-Explanation#0,"""We have detected a powerful energy<br>signal coming from a singular collection of<br>Mana, in the Canyon area of Omega.<br>Various numerical results show that they<br>are consistent with that of [Loser], and<br>we are concerned with the surrounding<br>area. Please defeat it as once!<br>――――――――――――――――――――<br>Can clear only once. Max damage 999999"""
+Explanation#0,"""We have detected a powerful energy<br>signal coming from a singular collection of<br>Mana, in the Canyon area of Omega.<br>Various numerical results show that they<br>are consistent with that of [Loser], and<br>we are concerned with the surrounding<br>area. Please defeat it as once!<br>――――――――――――――――――――<br>Can clear $(0) times. Max damage 999999"""
 SimpleExplanation#0,"""Defeat Omega Falz Loser"""
 NpcComMsg1#0,"""We'll transfer you shortly to the area where Omega Falz Loser is located."""
 NpcComMsg2#0,"""There is a stronger enemy signal that is unlike the [Loser] we fought in the Corrupted Mothership. Please be aware of your surroundings!"""
