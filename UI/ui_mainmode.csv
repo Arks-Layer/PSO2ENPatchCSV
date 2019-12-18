@@ -2894,7 +2894,7 @@ MasterTimeLeap#1,"""Upon sustaining lethal damage, become invincible for a short
 MasterWandTeleport#1,"""While a Wand is equipped, hold and release the weapon action to warp in a direction and attack. <yellow>Main class only."""
 MasterCountArtsBonus#1,"""Gain a damage bonus and reduce PP usage when you use different PAs continously during a combo."""
 MasterJABonus#1,"""Grants a damage bonus to Just Attacks."""
-MasterDamageThrottling#1,"""Significantly reduces damage taken. Reduces the amount of HP you heal from items and objects other than Et skills."""
+MasterDamageThrottling#1,"""Significantly reduces damage taken. Reduces the amount of HP you heal from weapons and objects other than Et skills."""
 MasterWandReferenceChange#1,"""While using a Wand, change the highest attack stat of Striking & Technique Special Abilities on the weapon. <yellow>Main class only."""
 MasterStepAdvance#1,"""Extends invincibility during Step and Dive Roll."""
 CaptureShot#1,"""On use: Launch a stun bullet"""
