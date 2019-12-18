@@ -103,7 +103,7 @@ BuyError_ExchangeLimit#0,"""No se puede comprar<br>por que excede el numero de c
 BuyError_Other#0,"""No se puede comprar.<br>Por favor intentelo mas tarde."""
 ShopTitleText#0,"""バトルコイン交換ショップ"""
 NormalShopGuideText#0,"""<c f0df60>バトルコインを消費して、アイテムと交換できます。交換するアイテムを選択してください。<c>"""
-LimitedShopGuideText#0,"""<c f0df60>交換するアイテムを選択してください(交換数には週制限があり、毎週水曜日の13時にリセットされます)。<c>"""
+LimitedShopGuideText#0,"""<c f0df60>交換するアイテムを選択してください(交換数には週制限があり、毎週<utcdow>水曜日4:00</utcdow>にリセットされます)。<c>"""
 ShopListTitle#1,"""ショップメニュー"""
 PluralityMenuGuide#0,"""<c f0df60>ショップを選んでください。<c>"""
 Exit#0,"""Dejar la tienda"""
