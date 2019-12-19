@@ -2445,7 +2445,7 @@ BulletPPSave#1,"""Cuando las balas especiales son cargadas en el arma, costes de
 TacticsTrap#1,"""Recupera PP cuando causas daño con trampas."""
 PowerBullet#1,"""Mejora el R-ATK cuando las balas especiales son equipadas."""
 WeakSnipeAddPB#1,"""射撃で弱点部位を攻撃したときのＰＢゲージ増加率にボーナスを得る"""
-SniperPride#1,"""Incrementa el daño cuando disparas a corta distancia."""
+SniperPride#1,"""Incrementa el daño cuando disparas a larga distancia."""
 GravityBom#1,"""Lanzas una bomba que atrae a todos los enemigos."""
 BulletKeep#1,"""Evita que las balas especiales se descargen cuando cambias a armas de Assault Rifle o Launcher-class. <yellow>Solo clase principal.<c>"""
 MovingSnipe#1,"""Incrementa el daño por disparar en movimiento."""
