@@ -1,0 +1,4 @@
+train_title#0,"""Task 2: <yellow>Hit an enemy with a counterattack after a Just Guard<c>"""
+tut_title#0,"""Guard Counterattack"""
+text100#0,"""・Just before an enemy attack hits:<br>\u3000Use your Weapon Action with <%WeaponAction><br>・Use your Weapon Action again with <%WeaponAction>"""
+text100_3b#0,"""・Just before an enemy attack hits:<br>\u3000Use your Weapon Action with <%MainPaletteC><br>・Use your Weapon Action again with <%MainPaletteC>"""
