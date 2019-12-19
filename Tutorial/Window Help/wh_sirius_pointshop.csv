@@ -1,2 +1,2 @@
 name01#0,"""About the Idola Points Exchange Shop"""
-whelp_sirius_pointshop_01#0,"""You can exchange \""Idola Points\"" for prizes at this shop.<br><br>Items have a exchange limit that resets every Wed. 13:00 JST."""
+whelp_sirius_pointshop_01#0,"""You can exchange \""Idola Points\"" for prizes at this shop.<br><br>Items have a exchange limit that resets every <utcdow>水曜日4:00</utcdow>."""
