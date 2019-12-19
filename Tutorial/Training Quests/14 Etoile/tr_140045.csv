@@ -1,0 +1,7 @@
+name01#0,"""Xiera"""
+11_voice_train_06012#0,"""That's it! Very cool!"""
+text02#0,"""Now let's try skipping the PA! Use the PA again <red>without holding a direction<c>!"""
+text101#0,"""Task 3: <yellow>Use a PA without entering a direction<c>"""
+train_title#0,"""Task 3: <yellow>Use a PA without entering a direction<c>"""
+tut_title#0,"""Skip Arts"""
+text100#0,"""・Use a Photon Art with <%PhotonArts><br>without entering movement input"""
