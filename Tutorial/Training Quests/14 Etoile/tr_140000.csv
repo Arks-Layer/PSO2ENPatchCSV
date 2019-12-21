@@ -4,7 +4,7 @@ text01#0,"""Etoile es una clase sucesora que se centra en <red>ataques cuerpo a 
 text02#0,"""Las armas que utiliza Etoile son <red>Double Saber<pict ds_icon><c>, <red>Dual Blades<pict du_icon><c> y <red>Wands<pict wd_icon><c>."""
 text03#0,"""En este curso, aprenderemos cómo usar Double Saber<pict ds_icon> para luchar como un Etoile.<br>¡Empecemos!"""
 text04#0,"""El Double Saber<pict ds_icon> en Etoile  tiene <red>alta movilidad<c>, por lo que es bueno en <red>combate aéreo<c>."""
-text05#0,"""Primero, aprendamos sobre "Double Saber Gear". El medidor del Gear del Double Saber<pict ds_icon>  se llena cuando atacas a los enemigos. ¡Intentalo ahora!"""
+text05#0,"""Primero, aprendamos sobre \""Double Saber Gear\"". El medidor del Gear del Double Saber<pict ds_icon>  se llena cuando atacas a los enemigos. ¡Intentalo ahora!"""
 text101#0,"""Tarea 1: <yellow>Ataca a los enemigos y llena la barra del Gear<c>"""
 train_title#0,"""Tarea 1: <yellow>Ataca a los enemigos y llena la barra del Gear<c>"""
 tut_title#0,"""エトワールダブルセイバーギアについて"""
