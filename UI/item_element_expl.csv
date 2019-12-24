@@ -1159,7 +1159,7 @@
 10#5,"""Performance alters<br>after a Just Guard<br>using the Weapon<br>Action. Sword only."""
 11#5,"""After a Just Guard,<br>Gear consumption<br>reduced to 0 for 15<br>seconds. Boosts damage<br>by 2%. Wired Lance only."""
 12#5,"""Damages enemies when<br>you touch them while<br>running at high speed.<br>When you stop running,<br>generates a shockwave.<br>Boosts damage by 2%.<br>Partizan only."""
-13#5,"""PP consumption and PP<br>recovery sped change<br>when below 50% PP.<br>Twin Daggers only."""
+13#5,"""PP consumption and PP<br>recovery speed change<br>when below 50% PP.<br>Twin Daggers only."""
 14#5,"""Fills Gear Gauge and<br>hits enemies with a<br>powerful blow on a<br>successful DS Wind<br>Parry. Boosts damage<br>by 2%. Double Saber<br>only."""
 15#5,"""Drops a giant fist on the<br>target after avoiding an<br>attack with Sway.<br>Boosts damage by 2%.<br>Knuckles only."""
 16#5,"""-"""
