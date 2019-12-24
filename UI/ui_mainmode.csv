@@ -1645,7 +1645,7 @@ FailurePartyExitMessage#0,"""This will cause you to leave the party <br>and aban
 Chat#0,"""Chat"""
 UseHalf#0,"""Revive using Half Doll"""
 HalfDollUseTitle#0,"""Half Doll Usage"""
-HalfDollUseMessage#0,"""You will revive using a Half Doll.<br>Continue?<br><br><yellow>※You can use a Half Doll $(1) more times.<br>Number of uses available is restored on returning to the Campship.<c><br>(Held: $(0))"""
+HalfDollUseMessage#0,"""You will revive using a Half Doll.<br>Continue?<br><br><yellow>※You can use a Half Doll $(1) more time(s).<br>Number of uses available is restored on returning to the Campship.<c><br>(Held: $(0))"""
 HalfDollNotRemainMessage#0,"""You cannot revive using a Half Doll as you have used already used one $(1) times.<br><br><yellow>※If you return to the Campship, you will be able to use $(2) more.<c><br>(Held: $(0))"""
 HalfDollNotHaveMessage#0,"""You cannot revive using a Half Doll as you do not have one.<br><br><yellow>※If you had Half Dolls, you would be able to use them $(0) more times. Number of uses available is restored on returning to the Campship.<c>"""
 CanNowUseHalfDoll#0,"""Number of Half Doll uses available recovered."""
