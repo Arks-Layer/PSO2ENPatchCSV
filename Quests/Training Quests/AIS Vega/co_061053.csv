@@ -1,0 +1,7 @@
+name01#0,"""Xiera"""
+11_voice_navi09_armada_066#0,"""That's it! Next up, Multi-Lock Missile training!"""
+11_voice_navi09_armada_067#0,"""Multi-Lock Missiles can lock onto and attack multiple targets simultaneously!"""
+11_voice_navi09_armada_068#0,"""Please note that there is a limit to the number of targets you can lock onto at once.<br>Now, attack!"""
+text100#0,"""・While on the back palette, hold <%NormalAttack> to<br>target enemies, then release <%NormalAttack> to<br>fire missiles at all targets."""
+text100b#0,"""・Hold <%WeaponAction_2>+<%NormalAttack> to target<br>enemies, then release <%NormalAttack> to<br>fire missiles at all targets."""
+tut_title100#0,"""Multi-Lock Missiles"""
