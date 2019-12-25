@@ -1,5 +1,5 @@
 Title#0,"""Devil Castle - Endless Belligerence"""
-Explanation#0,"""In Omega, we have confirmed that a<br>Devil Castle has been summoned near<br>the Verun Imperial Castle. We also<br>detected an unknown powerful energy<br>source in the vicinity. Summon the<br>Buster Piles and destroy them ASAP.<br>――――――――――――――――――――<br>Can be done twice. Quest ends when<br>time limit expires or Devil Castle is<br>defeated."""
+Explanation#0,"""In Omega, we have confirmed that a<br>Devil Castle has been summoned near<br>the Verun Imperial Castle. We also<br>detected an unknown powerful energy<br>source in the vicinity. Summon the<br>Buster Piles and destroy them ASAP.<br>――――――――――――――――――――<br>Can clear $(0) times. Quest ends when<br>time limit expires or Devil Castle is<br>defeated."""
 SimpleExplanation#0,"""Defeat the Devil Castle!"""
 OnQuestBegin_0#0,"""The enemy forces are preparing to<br>attack! Collect Mana and choose your weapon sets!"""
 OnQuestBegin_1#0,"""When you amass enough Mana, ARKS<br>weapons are strengthened and<br>we can summon more Buster Piles!"""

@@ -1,5 +1,5 @@
 Title#0,"""The Desert Nightmare"""
-Explanation#0,"""緊急通達です！<br>異世界オメガにて、より強力な<br>【若人】の反応を探知しました！<br>極めて危険であることが予測されるため<br>出撃は実績あるアークスのみに限定します！<br>――――――――――――――――――――<br>クエストクリア可能回数/1回<br>最大与ダメージ制限/999999<br>失敗条件/制限時間の経過"""
+Explanation#0,"""緊急通達です！<br>異世界オメガにて、より強力な<br>【若人】の反応を探知しました！<br>極めて危険であることが予測されるため<br>出撃は実績あるアークスのみに限定します！<br>――――――――――――――――――――<br>Can clear $(0) times<br>Damage Limit: 999999<br>Failure: Time limit expires"""
 SimpleExplanation#0,"""Defeat [Apprentice]!"""
 NpcComMsg1#0,"""From here, we'll begin the operation to combat the re-emergence of Dark Falz Apprentice."""
 NpcComMsg2#0,"""The target has already completed her body and is flying towards the Kingdom of Epic. Please carry out this operation and repel her."""

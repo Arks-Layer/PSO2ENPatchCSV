@@ -1,0 +1,8 @@
+name01#0,"""Xiera"""
+11_voice_train_04005#0,"""Once your Gear is at 50% or higher, you can use a powerful attack called \""Connect\""."""
+text02#0,"""To activate Connect, <red>use your Weapon Action during Step Edge<c>. In other words, <red>Step, then use your Weapon Action, then use your Weapon Action again<c>!"""
+text101#0,"""Task 2: <yellow>Use Connect on the enemy<c>"""
+train_title#0,"""Task 2: <yellow>Use Connect on the enemy<c>"""
+tut_title#0,"""Connect"""
+text100#0,"""・Use your Weapon Action after Step Edge<br>\u3000（Step → <%WeaponAction> → <%WeaponAction>）"""
+text100_3b#0,"""・Use your Weapon Action after Step Edge<br>\u3000（Step → <%MainPaletteC> → <%MainPaletteC>）"""

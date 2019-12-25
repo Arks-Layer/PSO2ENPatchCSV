@@ -1,5 +1,5 @@
 Title#0,"""The Underground Nightmare"""
-Explanation#0,"""異世界オメガのエピック砂漠の地下で<br>【若人】と思われる強力な反応を感知。<br>自走式高出力フォトン粒子砲を<br>【若人】の反応がある地点まで護送し<br>これを使って撃退してください！<br>――――――――――――――――――――<br>クエストクリア可能回数/1回<br>最大与ダメージ制限/999999<br>失敗条件/任務の失敗、制限時間の経過<br>自走式高出力フォトン粒子砲の破壊"""
+Explanation#0,"""異世界オメガのエピック砂漠の地下で<br>【若人】と思われる強力な反応を感知。<br>自走式高出力フォトン粒子砲を<br>【若人】の反応がある地点まで護送し<br>これを使って撃退してください！<br>――――――――――――――――――――<br>Can clear $(0) times<br>Damage Limit: 999999<br>Failure: Fail objective, time limit expires,<br>Photon Particle Cannon Carrier destroyed"""
 SimpleExplanation#0,"""Defeat [Apprentice]!"""
 NpcComMsg1#0,"""From here on out, we'll begin the fight against Dark Falz Apprentice under the Kingdom of Epic."""
 NpcComMsg2#0,"""The first stage of this fight will require you to escort our special weapon, the \""Photon Particle Cannon Carrier\"", to the final area."""
