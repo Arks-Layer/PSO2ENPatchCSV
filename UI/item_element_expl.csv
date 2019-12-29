@@ -1158,7 +1158,7 @@
 9#5,"""Recovers 40 PP every<br>10 seconds when there<br>is a boss nearby."""
 10#5,"""Performance alters<br>after a Just Guard<br>using the Weapon<br>Action. Sword only."""
 11#5,"""After a Just Guard,<br>Gear consumption<br>reduced to 0 for 15<br>seconds. Boosts damage<br>by 2%. Wired Lance only."""
-12#5,"""While dashing, damages<br>enemies on collision.<br>Stopping fires a shock-<br>wave. Damage boosted<br>by 2%. Partizan only."""
+12#5,"""While dashing, damages<br>enemies on collision.<br>Stopping fires a shock-<br>wave. Boosts damage<br>by 2%. Partizan only."""
 13#5,"""PP consumption and PP<br>recovery speed change<br>when below 50% PP.<br>Twin Daggers only."""
 14#5,"""Gain Gear and a strong<br>counterattack when<br>DS Wind Parrying an<br>attack. Boosts damage<br>by 2%. D. Saber only."""
 15#5,"""Drops a giant fist on the<br>target after avoiding an<br>attack with Sway.<br>Boosts damage by 2%.<br>Knuckles only."""
