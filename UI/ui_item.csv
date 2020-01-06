@@ -10092,7 +10092,7 @@ ring_PhotonBladeHoming#1,"""Photon Blade Homing<br>Adds a homing effect to Photo
 ring_ZondielDisable#1,"""Peace Zondeel<br>Disables Zondeel's explosion."""
 ring_SlowShiftActionFi#1,"""Slow Fighter Action<br>Extends the duration and reduces<br>the speed of Fighter weapon actions."""
 ring_RodShootChange#1,"""Another Rod Shoot Mode<br>Rod Shoot's projectile explodes on impact,<br>affecting enemies within range."""
-ring_JustReversalBurst#1,"""Just Reversal Blast<br>Inflicts damage to nearby enemies<br>upon landing from a Just Reversal"""
+ring_JustReversalBurst#1,"""Just Reversal Blast<br>Inflicts damage to nearby enemies<br>upon landing from a Just Reversal."""
 ring_MagFight#1,"""Mag Excite<br>Boosts the frequency and power of your<br>Mag's auto action. Excludes SP auto actions."""
 ring_StepJACombo#1,"""Step Just Attack Combo<br>Creates a JA timing window when executing<br>Step."""
 ring_QuickMate#1,"""Quick Mate/Ring<br>Speeds up usage of Mate-type items."""
