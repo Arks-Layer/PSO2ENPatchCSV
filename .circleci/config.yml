@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/python:3-stretch-node
+      - image: circleci/python:3-buster-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
