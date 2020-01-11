@@ -151,7 +151,7 @@ BasicHintWarehouseCursor#0,"""Set the initial cursor position when the storage U
 BasicHintPetStatus#0,"""Configure pet HP bar and status icon appearance."""
 BasicHintEtrialMap#0,"""While the radar map is magnified, you can change the temporary magnification settings when an E-trial occurs."""
 BasicHintPolluteVoice#0,"""During Dark Blast, you can set a dedicated voice."""
-MltPtMatchingButton#0,"""Set what the cursor's default position is when choosing between same-block and multi-block matching. ※Some Quests are excluded"""
+MltPtMatchingButton#0,"""Set what the cursor's default position is when choosing between same-block and multi-block matching.<br>※Some Quests are excluded"""
 BasicHintPopMenu#0,"""Changes how the Character Menu is displayed when selecting others."""
 BasicHintGatSimpleStatus#0,"""Set whether to display simple Gathering information on the main menu. """
 BasicHintComeBack#0,"""Set whether or not to display an icon for players in need of revival.<br>\u3000※You can still receive bonuses even if the icon is not displayed"""
