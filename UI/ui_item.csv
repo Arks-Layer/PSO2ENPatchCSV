@@ -1260,7 +1260,7 @@ BuyErrorMessage3#0,"""'$(0)' has reached carrying capacity.<br>You are unable to
 BuyErrorMessage5#0,"""No storage space left,<br>unable to buy any more."""
 BuyTitle#4,"""Purchase Confirmation"""
 BuyMessage1#0,"""Purchasing '$(1)' for $(2) $(0).<br>Is that okay?"""
-BuyMessage2#0,"""Purchasing '$(1)×$(2)' for $(3) $(0).<br>Is that okay?"""
+BuyMessage2#0,"""Purchasing '$(1) x $(2)' for $(3) $(0).<br>Is that okay?"""
 BuyMessage3#0,"""Purchasing the item(s) for $(1) $(0).<br>Is that okay?"""
 EquipableCheck#0,"""Can Equip"""
 CarryNumber#0,"""Carrying: $(0)"""
