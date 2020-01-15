@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/python:3-stretch-node
+      - image: circleci/python:3-buster-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -48,6 +48,9 @@ jobs:
       - run:
           name: Verify folder layout
           command: ./_sh/checkFiles.sh
+      - run:
+          name: Looking for unchanged Files
+          command: ./_sh/MovedFiles.sh
       - run:
           name: checking CSVs for quote issues
           command: ./_sh/quote.sh

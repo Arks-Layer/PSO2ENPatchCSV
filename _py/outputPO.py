@@ -22,7 +22,7 @@ def poformat(input):
 	for i, o in POnice:
 		outtext = inputl.replace(i, o)
 		inputl = outtext
-	if outtext is "\\":
+	if outtext == "\\":
 		return "\\\\"
 	return outtext
 

@@ -2,7 +2,7 @@ os: linux
 env:
   - PARALLEL="--block 43K"
 
-dist: xenial
+dist: bionic
 
 cache:
   apt: true
@@ -24,6 +24,7 @@ script:
   - ./_sh/CSV.sh
   - ./_sh/ODD.sh
   - ./_sh/checkFiles.sh
+  - ./_sh/MovedFiles.sh
   - ./_sh/quote.sh
   - ./_sh/dupCSV.sh
   - ./_sh/check.sh
