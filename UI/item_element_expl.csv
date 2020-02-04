@@ -344,7 +344,7 @@
 343#0,"""All ATK +25 DEX +40<br>PP+3"""
 344#0,"""All DEF +35 HP+75<br>PP+3"""
 345#0,"""S-ATK +20 R-ATK +20<br>T-ATK +20 PP +5"""
-346#0,"""S-ATK +50 R-ATK +50<br>T-ATK +50 HP +20 PP +10"""
+346#0,"""S-ATK +50 R-ATK +50<br>T-ATK +50 HP +20<br>PP +10"""
 347#0,"""S-ATK +3 R-ATK +3<br>T-ATK +3 S-DEF +5<br>R-DEF +5 T-DEF +5<br>HP +5 PP +1"""
 348#0,"""S-ATK +5 R-ATK +5<br>T-ATK +5 S-DEF +10<br>R-DEF +10 T-DEF +10<br>HP +10 PP +1"""
 349#0,"""S-ATK +10 R-ATK +10<br>T-ATK +10 S-DEF +15<br>R-DEF +15 T-DEF +15<br>HP +15 PP +1"""
