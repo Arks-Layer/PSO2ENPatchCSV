@@ -2892,7 +2892,7 @@ MasterHPRestraint#1,"""Gradually recover HP when HP drops below a certain level.
 MasterAmbitionMassive#1,"""Prevents knockback/launches while stationary."""
 MasterTimeLeap#1,"""Upon nearly dying, become invincible for a short time & recover all HP/PP & Gear is restored. Once per quest. <yellow>Main class only."""
 MasterWandTeleport#1,"""While a Wand is equipped, hold and release the weapon action to warp in a direction and attack. <yellow>Main class only."""
-MasterCountArtsBonus#1,"""Gain a damage bonus and reduce PP usage when you use different PAs continously during a combo."""
+MasterCountArtsBonus#1,"""Gain a damage bonus and reduce PP usage when you use different PAs continuously during a combo."""
 MasterJABonus#1,"""Grants a damage bonus to Just Attacks."""
 MasterDamageThrottling#1,"""Significantly reduces damage taken. Reduces the amount of HP you heal from everything not Consumables, Objects & Et Skills."""
 MasterWandReferenceChange#1,"""While using a Wand, change the highest attack stat of Striking & Technique Special Abilities on the weapon. <yellow>Main class only."""
