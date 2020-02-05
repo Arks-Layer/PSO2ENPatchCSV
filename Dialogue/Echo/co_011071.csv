@@ -6,3 +6,4 @@ text05#0,"""Go ahead, try feeding your Mag something. I guarantee you'll make it
 text00#0,"""How to Give Mags Items"""
 text01#0,"""You can raise the Support Level of stats by giving your Mags items. This will make them grow.<br><br>Open the Mags list from the menu to view information about your Mags. Then select the \""Give Item\"" command."""
 text02#1,"""Choosing \""Give Item\"" allows you to give your Mags items to make them grow.<br><br>Which Support Levels will increase or decrease depends on the items you give them.<br><br>However, please note that once a Mag's energy goes above a certain level, you cannot give it items."""
+text03#1,"""マグの支援レベルは<yellow>一度上げると<c><br><yellow>マグのレベルが101以上の時に<c><br><yellow>「マグレベルダウンデバイス」を使わないと<c><br><yellow>下げられない<c>ので上げる能力には<br>注意してください。<br><br>「マグレベルダウンデバイス」は<br>ロビーのショップエリアの西側<br>「交換ショップカウンター」の<br>「エクスキューブ交換ショップ」で<br>入手できます。"""
