@@ -6,3 +6,4 @@ text05#0,"""Go ahead, try feeding your Mag something. I guarantee you'll make it
 text00#0,"""How to Give Mags Items"""
 text01#0,"""You can raise the Support Level of stats by giving your Mags items. This will make them grow.<br><br>Open the Mags list from the menu to view information about your Mags. Then select the \""Give Item\"" command."""
 text02#1,"""Choosing \""Give Item\"" allows you to give your Mags items to make them grow.<br><br>Which Support Levels will increase or decrease depends on the items you give them.<br><br>However, please note that once a Mag's energy goes above a certain level, you cannot give it items."""
+text03#1,"""Once a Mag's level has reached 101 or higher, <yellow>it cannot be lowered without using a Mag Level Down Device<c>, so be careful how you raise it.<br><br>You can purchase Mag Level Down Devices at the Excube Shop in the Shop Area of the Lobby."""
