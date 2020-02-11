@@ -1,0 +1,4 @@
+name01#0,"""關於AC商店"""
+name01#1,"""ロビーマップについて"""
+whelp_lobbymap01#0,"""<yellow>【關於AC商店】<c><br><br>\u3000消耗付費點數「AC(Arks Cash)」，<br>\u3000就能購買AC商店專用道具。<br><br>\u3000按下「AC加值」鍵，啟動瀏覽器，<br>\u3000即可打開AC加值（購買）的頁面。<br><br>\u3000同時，也請確認線上指南。<br>\u3000點擊（決定）以下的URL，即可打開瀏覽器。<br>\u3000<&URL pso2_players_manual_preparations_ac>"""
+whelp_lobbymap01#1,"""<yellow>【ロビーマップについて】<c><br><br>\u3000ロビーにいるNPCとパーティーメンバーの位置が確認できます。<br><br>\u3000達成済みのクライアントオーダーや、マターボードの<br>\u3000アークスシップ内での交流のイベントの表示が可能です。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_ac>"""

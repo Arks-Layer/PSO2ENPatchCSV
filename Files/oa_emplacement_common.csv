@@ -1,0 +1,6 @@
+AttackGuide#0,"""以<%NormalAttack>射擊\u3000在<%Jump>降落"""
+ChargeGuide#0,"""以<%NormalAttack>射擊\u3000在<%Jump>降落"""
+ControlBad#0,"""混亂中無法使用"""
+AttackGuide#1,"""<%NormalAttack>で射撃\u3000<%Jump>で降りる"""
+ChargeGuide#1,"""<%NormalAttack>でチャージ/発射\u3000<%Jump>で降りる"""
+ControlBad#1,"""パニック中は使用不能"""

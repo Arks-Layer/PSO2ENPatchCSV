@@ -1,7 +1,0 @@
-11_voice_NPC_5242_101#0,"""やあやあ、マイフレンド！<br>今日は、僕や君の愛する子供達の<br>育成方法を伝授しようじゃないか！"""
-text02#0,"""僕達の愛する子供達、ペットはね<br>「エッグ合成」によって<br>成長させることができるんだ！"""
-text03#0,"""これは、エッグのエネルギーが<br>継承されていくということなのさ！<br>恐れることは、なにもない！"""
-text04#0,"""さあ、君も試してみるといい！<br>そして、成長した君の子を<br>見せてくれないかな！"""
-text100#0,"""I Want to Level Up My Pet!"""
-text101#0,"""Your pets can grow (level up) by using<br>the \""Egg Synthesis\"" menu to gain<br>experience from your leftover eggs.<br><br>Additionally, when you synthesize an egg having<br>a \""positive value\"" the egg's values will also<br>increase your pet stats.<br>Pet types all have a different \""bonus stats\"" cap.<br><br>Unlike players, pets can't earn experience<br>from defeating enemies."""
-text102#0,"""<yellow>You can successively \""Egg Synthesis\"" 5 times in a row.<c><br>When you reach that limit, you won't be able to synthesize<br>eggs for a while.<br><br>You will progressively recover Synthesis Charges overtime,<br>or you can use your SG to instantly recover them at once.<br><br>When recovering using SG, your next Egg Synthesis will<br>have an experience bonus."""

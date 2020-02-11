@@ -1,0 +1,6 @@
+name01#0,"""關於舞台資訊"""
+name01#1,"""採掘基地端末について"""
+whelp_qu_defense_console01#0,"""<yellow>【關於據點裝置】<c><br><br>能夠透過收集正結晶，來使用保護據點的功能。<br><br>所對應的據點若是被破壞的話將無法連線。"""
+whelp_qu_defense_console02#0,"""<yellow>【關於防衛座】<c><br><br>\u3000能夠透過收集正結晶來使用打倒敵人的功能。"""
+whelp_qu_defense_console01#1,"""<yellow>【拠点端末について】<c><br><br>\u3000正結晶を集めることで、拠点を守るための機能を<br>\u3000使用することができます。<br><br>\u3000対応した拠点が破壊されるとアクセスが出来なく<br>\u3000なってしまいます。"""
+whelp_qu_defense_console02#1,"""<yellow>【防衛ソケットについて】<c><br><br>\u3000正結晶を集めることでエネミーを倒すための機能を<br>\u3000使用することができます。<br><br>\u3000あわせて、オンラインマニュアルをご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_quest_basedefense>"""

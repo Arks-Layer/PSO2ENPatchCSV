@@ -1,7 +1,0 @@
-name01#0,"""Xiera"""
-text01#0,"""You're learning fast! Next, <red>set the Technique you just learned onto a weapon palette<c>."""
-train_title#0,"""Task 1: <yellow>Learn and set [Foie]"""
-tut_title#0,"""Setting Techniques"""
-text100#0,"""・Select [Equip Weapons] from<br>\u3000the main menu<br>・Select a slot<br>・Select the Technique you<br>\u3000want to set"""
-tut_win_title#0,"""Setting Techniques"""
-tut_win_text100#0,"""You can use Techniques that you have learned by setting them to a weapon's palette.<br><br>\""Tech Disks\"" can drop randomly when defeating enemies or breaking containers."""

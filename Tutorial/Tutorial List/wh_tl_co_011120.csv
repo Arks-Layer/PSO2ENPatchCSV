@@ -1,3 +1,0 @@
-name01#0,"""S-ATK, R-ATK and T-ATK"""
-text01#0,"""There are 3 types of attack power: S-ATK, R-ATK and T-ATK.<br><br>S-ATK affects melee attacks from striking weapons.<br>R-ATK affects ranged attacks from shooting weapons.<br>T-ATK affects attacks that use Techniques.<br><br>The higher the value of the parameter, the more damage you deal with those types of attacks.<br><br>When you raise your DEX, your damage variance is tightened, meaning the damage you deal will be higher more consistently."""
-text02#0,"""There are also 3 types of defense power, S-DEF, R-DEF and T-DEF, each of which has the effect of reducing one type of damage.<br><br>When you raise your DEX, the damage variance on damage you take is widened, meaning you take lower damage more frequently."""

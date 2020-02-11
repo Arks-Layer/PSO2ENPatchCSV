@@ -1,0 +1,4 @@
+name01#0,"""關於交換商店"""
+name01#1,"""交換ショップについて"""
+whelp_exchange01#0,"""<yellow>【關於交換商店】<c><br><br>\u3000可將指定的道具（包含在事件等所獲得的道具）<br>\u3000交換成限定道具等。<br><br>\u3000內容視時期或事件而有所變化。<br><br><br>\u3000同時，也可確認遊戲百科。<br>\u3000點擊（決定）以下的連結，即可打開瀏覽器。<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
+whelp_exchange01#1,"""<yellow>【交換ショップについて】<c><br><br>\u3000指定されたアイテム（イベントなどで得られるものも含む）を<br>\u3000限定アイテムなどと交換することができます。<br><br>\u3000内容は時期やイベントによって変化する場合があります。<br><br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""

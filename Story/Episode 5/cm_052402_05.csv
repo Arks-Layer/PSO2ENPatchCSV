@@ -1,5 +1,0 @@
-skit01#0,"""/ci1 2 Who are you? Please help me!"""
-skit02#0,"""/ci1 2 Your rescuer, here to help. An evacuation teleporter should be nearby. We'll escort you there."""
-skit01#1,"""Who are you? Please help me!"""
-skit02#1,"""Your rescuer, here to help. An evacuation teleporter should be nearby. We'll escort you there."""
-LineWindow#0,"""<c ffff00>Failure if any citizens are incapacitated.<c>"""

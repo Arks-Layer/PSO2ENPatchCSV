@@ -1,0 +1,6 @@
+GetBullet#0,"""確保彈夾內彈藥"""
+GetBulletMiss#0,"""彈夾內彈藥已達裝填上限"""
+ChargeBullet#0,"""補給彈夾內彈藥"""
+GetBullet#1,"""銃座用弾薬を確保した"""
+GetBulletMiss#1,"""銃座用弾薬はこれ以上持てません"""
+ChargeBullet#1,"""銃座用弾薬を補給した"""

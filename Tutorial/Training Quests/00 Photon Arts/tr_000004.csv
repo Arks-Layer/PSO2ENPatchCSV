@@ -1,8 +1,0 @@
-name01#0,"""Xiera"""
-11_voice_train_04001#0,"""Hello! This is the \""Technique Basics\"" training course!"""
-text02#0,"""To start us off, let's <red>learn<c> a Technique!"""
-text03#0,"""Go ahead and use the disk item <red>in your inventory<c>!"""
-text101#0,"""Task 1: <yellow>Learn and set [Foie]<c>"""
-train_title#0,"""Task 1: <yellow>Learn and set [Foie]<c>"""
-tut_title#0,"""Learning Techniques"""
-text100#0,"""・Open the main menu<br>・Open the Items menu<br>・Select and use the disk<br>\u3000from the [Disk] tab"""

@@ -1,0 +1,4 @@
+name01#0,"""關於任務資訊"""
+name01#1,"""クエスト情報について"""
+whelp_questinfo01#0,"""<yellow>【關於任務資訊】<c><br><br>\u3000可確認現在承接中任務的資訊、<br>\u3000發生中緊急挑戰的資訊、<br>\u3000前次已完成的任務效果。<br><br>\u3000詳細請確認線上指南。<br>\u3000點擊（決定）以下的連結，即可打開瀏覽器。<br>\u3000<&URL pso2_players_manual_preparations_quest>"""
+whelp_questinfo01#1,"""<yellow>【クエスト情報について】<c><br><br>\u3000現在受注しているクエストの情報や、<br>\u3000発生中のエマージェンシートライアルの情報、<br>\u3000前回クリアしたクエストリザルトを確認できます。<br><br>\u3000くわしくは、オンラインマニュアルをご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_quest>"""

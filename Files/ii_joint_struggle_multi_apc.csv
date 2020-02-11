@@ -1,0 +1,6 @@
+IncidentName#0,"""擊敗$(0)"""
+TrialBeginMsg#0,"""擊敗$(0)！"""
+TrialAbstract#0,"""擊敗$(0)！"""
+IncidentName#1,"""$(0)撃破"""
+TrialBeginMsg#1,"""$(0)を撃破せよ！"""
+TrialAbstract#1,"""$(0)を撃破せよ！"""

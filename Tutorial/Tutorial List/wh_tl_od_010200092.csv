@@ -1,4 +1,0 @@
-name01#0,"""Shoulder View"""
-text01#0,"""The Shoulder View is a special camera mode, mostly used with ranged weapons. Use it when you need to make precision attacks."""
-text02#0,"""For Keyboard & Mouse<br>\u3000\u3000Press the <%ChangeView>to switch the view mode.<br>\u3000\u3000Use the mouse to move the camera around.<br><br>For <#GamePad> Controls<br>\u3000\u3000Press <%ChangeView> to switch the view mode.<br>\u3000\u3000Use the <%RStick> to move the camera around."""
-text03#0,"""To go back to the normal camera, simply press <%ChangeView> again.<br><br>Remember to use this mode when you need a precise attack."""

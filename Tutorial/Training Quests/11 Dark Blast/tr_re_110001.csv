@@ -1,5 +1,0 @@
-train_title#0,"""Task 1: <yellow>Fill the gauge by attacking enemies, then<br>activate Dark Blast from the Subpalette"""
-tut_title#0,"""Using Dark Blast"""
-text100#0,"""・Attack enemies with <%NormalAttack> until<br>\u3000the gauge is full<br>・Activate Dark Blast with <%SubPalette1>"""
-text101#0,"""・Attack enemies with <%NormalAttack> until<br>\u3000the gauge is full<br>・Select Dark Blast with <%SubPaletteLeft> and<br>\u3000<%SubPaletteRight><br>・Activate Dark Blast with <%SubPalette>"""
-text100_v#0,"""・Select Dark Blast from<br>\u3000the Subpalette"""

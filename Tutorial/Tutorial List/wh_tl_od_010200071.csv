@@ -1,4 +1,0 @@
-name01#0,"""Double Sabers"""
-text01#0,"""Double Sabers are striking weapons that specialise in attacking as rapidly as possible.<br><br>They can increase the number of times they hit by using their Weapon Action to summon a Kamaitachi whirlwind.<br><br>They overwhelm the enemy with their high move variety and the sheer number of attacks they can land.<br><br><%WeaponActionText>: Consume Gear to summon a Kamaitachi."""
-text02#0,"""This explains the Double Saber Gear system.<br><br>When you learn the skill \""Double Saber Gear\"", a Gear Gauge is added to the top of your Weapon Palette.<br><br>The Gear Gauge fills when you hit with Double Saber attacks."""
-text03#0,"""The Gear Gauge can hold up to three units of Gear. By pressing <%WeaponActionText>, you can summon a Kamaitachi whirlwind that rapidly hits all enemies nearby.<br><br>Hitting enemies with Kamaitachi also fills the Gear Gauge, so with careful use of your Gear, you never have to stop attacking."""

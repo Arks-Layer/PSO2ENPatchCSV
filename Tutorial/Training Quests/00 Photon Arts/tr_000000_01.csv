@@ -1,6 +1,0 @@
-name01#0,"""Xiera"""
-text01#0,"""You've learned the Photon Art!<br>Next, let's set the Photon Art you learned to your <red>weapon palette<c>."""
-tut_title#0,"""Setting Photon Arts"""
-text100#0,"""・Select [Equip Weapons] from<br>\u3000the main menu<br>・Select a slot<br>・Select the Photon Art you<br>\u3000want to set"""
-tut_win_title#0,"""Learning and Setting Photon Arts"""
-tut_win_text100#0,"""You can learn Photon Arts from items called \""PA Disks\"".<br><br>You can use Photon Arts that you have learned by setting them to a weapon's palette.<br><br>\""PA Disks\"" can drop randomly when defeating enemies or breaking containers."""

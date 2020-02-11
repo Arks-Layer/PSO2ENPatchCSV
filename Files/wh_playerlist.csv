@@ -1,0 +1,4 @@
+name#0,"""關於周圍的角色"""
+name#1,"""周囲のキャラクターについて"""
+text01#0,"""<yellow>【周圍的角色】<c><br><br>\u3000列出自己附近的角色後、<br>\u3000就可使用隊伍邀請、好友邀請申請、公會指令、<br>\u3000申請道具交易、觀看ARKS卡片、<br>\u3000登錄至黑名單等功能。<br><br>\u3000「<pict partnercard>」表示好友、「<pict guildgroup>」表示公會成員、<br>\u3000「<pict guild_friend>」表示好友中的公會成員。<br><br>\u3000也可從遊戲百科確認。<br>\u3000點擊（決定）以下的連結，即可打開瀏覽器。<br>\u3000<&URL pso2_players_manual_menu_mmenu_list>"""
+text01#1,"""<yellow>【周囲のキャラクターとは】<c><br><br>\u3000自分の近くにいるキャラクターをリストアップして、<br>\u3000パーティー招待やフレンド登録申し込み、チームコマンド、<br>\u3000アイテムトレードの申し込み、アークスカードを見る、<br>\u3000ブラックリストへの登録などの機能をご利用頂けます。<br><br>\u3000「<pict partnercard>」はフレンド、「<pict guildgroup>」はチームメンバー、<br>\u3000「<pict guild_friend>」はフレンドでチームメンバーであることを示しています。<br><br>\u3000あわせて、オンラインマニュアルをご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_menu_mmenu_list>"""

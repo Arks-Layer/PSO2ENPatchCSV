@@ -1,0 +1,8 @@
+IncidentName#0,"""$(0)討伐"""
+TrialBeginMsg#0,"""打倒$(1)隻$(0)以開放屏障！"""
+DestroyDoorMsg#0,"""$(0)方向的屏障遭到破壞了！"""
+TrialAbstract#0,"""討伐一定數量的$(0)以解除屏障！"""
+IncidentName#1,"""$(0)討伐"""
+TrialBeginMsg#1,"""障壁開放のため$(0)を$(1)体倒せ！"""
+DestroyDoorMsg#1,"""$(0)の方向の障壁が壊された！"""
+TrialAbstract#1,"""$(0)を一定数討伐し障壁を解除せよ！"""

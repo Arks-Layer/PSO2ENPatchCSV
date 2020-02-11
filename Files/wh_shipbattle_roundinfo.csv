@@ -1,0 +1,4 @@
+name01#0,"""回合情報"""
+name01#1,"""ラウンド情報について"""
+whelp_shipbattle_roundinfo01#0,"""<yellow>【關於回合情報】<c><br><br>\u3000可以確認在各個回合的「回合目標」還有在該回合中要得到多少「星星<pict sb_star_icon>」<br>\u3000才能夠獲得報酬道具之類的情報。"""
+whelp_shipbattle_roundinfo01#1,"""<yellow>【ラウンド情報について】<c><br><br>\u3000各ラウンドにおける「ラウンド目標」や、<br>\u3000そのラウンドでいくつ「スター<pict sb_star_icon>」を獲得すると<br>\u3000報酬アイテムがもらえるかなどの情報を確認できます。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_info_arksshipcompetition>"""

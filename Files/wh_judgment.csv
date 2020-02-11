@@ -1,0 +1,4 @@
+name01#0,"""關於鑑定"""
+name01#1,"""鑑定について"""
+whelp_judgment01#0,"""<yellow>【關於鑑定】<c><br><br>\u3000可鑑定未鑑定道具（<c 00ffff>?特殊武器<c>），<br>\u3000確認為何物。<br><br>\u3000鑑定時，可在服務中的「喜好的屬性」與「喜好的特殊能力」中<br>\u3000分別各選擇一項。（免費）<br><br><br>\u3000同時，也請確認線上指南。<br>\u3000點擊（決定）以下的連結，即可打開瀏覽器。<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
+whelp_judgment01#1,"""<yellow>【鑑定について】<c><br><br>\u3000未鑑定アイテム（<c 00ffff>？スペシャルウェポン<c>）を鑑定して<br>\u3000正体を判明させることができます。<br><br>\u3000鑑定時に、サービスで「好きな属性」と「好きな特殊能力」を<br>\u3000それぞれ1つずつ選択できます。（無料です）<br><br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""

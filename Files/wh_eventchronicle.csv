@@ -1,0 +1,4 @@
+name01#0,"""活動紀錄"""
+name01#1,"""イベントクロニクルについて"""
+whelp_eventchronicle01#0,"""<yellow>【關於事件紀事】<c><br><br>\u3000在個人小屋裝置，<br>\u3000可以看看至今進行過了什麼樣的活動。"""
+whelp_eventchronicle01#1,"""<yellow>【イベントクロニクルについて】<c><br><br>\u3000マイルーム端末にて、<br>\u3000今までのイベントを見ることができます。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br><&URL pso2_players_manual_communication_myroom_eventchronicle>"""
