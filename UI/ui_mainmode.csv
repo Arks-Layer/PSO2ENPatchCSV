@@ -2886,7 +2886,7 @@ MasterOverClock#1,"""Activate to recover the HP/PP of your Party Members and inc
 MasterWandNimble#1,"""While a Wand is equipped, during a Focus PA, movement speed is boosted for a short time during a combo. <yellow>Main class only"""
 MasterAllAttackBonus#1,"""Gain a damage bonus from your attacks and Pets."""
 MasterClockUp#1,"""Reduces the cooldown of Active Skills from non-Etoile Party Members in the area. <yellow>Main class only."""
-MasterEfficient#1,"""Increases the HP/PP recovery effect when players in the area use Recovery Items. <yellow>Main class only"""
+MasterEfficient#1,"""Increases HP recovery and adds PP recovery when players in the area use Recovery Items. <yellow>Main class only"""
 MasterInstinct#1,"""Reduces the damage you take every time you get hit. Reduction rate decreases over time."""
 MasterArcane#1,"""While a Double Saber is equipped, launch a counterattack to locked on enemies when you Step forward. <yellow>Main class only."""
 MasterHPRestraint#1,"""Gradually recover HP when HP drops below a certain level."""
