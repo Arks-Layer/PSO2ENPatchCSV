@@ -5383,7 +5383,7 @@ Error_LayoutChange_FreeRoom#0,"""レイアウト変更に失敗しました。<b
 Error_ReformChicket_Premiere#0,"""リフォームに失敗しました。<br>プレミアム有効期間、マイルーム利用期間<br>を過ぎている可能性があります。<br><br>[No.1113]"""
 Error_MaxSetOver#0,"""選択したルームグッズの設置数、<br>または同じ機能のルームグッズの<br>設置数制限により、<br>置くことができませんでした。"""
 Error_PresentBoxMesetaOver#0,"""プレゼントボックスに入れるメセタが不正のため、<br>格納できませんでした。<br><br>[No.1114]"""
-Error_RoomGoods_PhotoGachanInReform#0,"""フォトガチャンが設置されているため、<br>ルームリフォームによる部屋のサイズ変更、<br>もしくはルームグッズ全撤去を実行できません。<br>フォトガチャンを撤去して再度実行してください。"""
+Error_RoomGoods_PhotoGachanInReform#0,"""Due to the Photogachan being installed,<br>you will not be able to remodel your<br>room, unless you reset everything in your room.<br>Please remove the Photogachan and try again."""
 Error_RoomGoods_PhotoGachanInPrizeItem#0,"""フォトガチャンに景品用のアイテムが残っているため、<br>撤去が出来ません。<br>撤去する場合は、<br>景品のアイテムを全て取り出してください。"""
 Error_RoomGoods_PhotoGachan_MissMatchMeseta#0,"""The meseta amount has been updated.<br>Please try again."""
 Error_RoomGoods_PhotoGachan_Not_PremiumUser#0,"""Because you do not have a Premium Set<br>active, you cannot manage the Photogachan."""
