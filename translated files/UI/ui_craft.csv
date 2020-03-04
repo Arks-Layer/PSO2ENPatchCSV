@@ -121,7 +121,7 @@ ExplainPlcSelectRecipe#0,"""<c f0df60>Пожалуйста выберете ре
 CraftOrderResultNormal#0,"""<green>Успешно<c>"""
 CraftOrderResultSuccess#0,"""<c ff007f>Отлично<c>"""
 CraftOtherShip#0,"""Крафтеры на других кораблях"""
-CraftOrderReward#0,"""$(0)от$(1)Вы получили Месету."""
+CraftOrderReward#0,"""Вы получили от $(0) $(1) месет(ы)."""
 SignboardErrorEnchantAddonType#0,"""Здесь можно создать юниты на тело руки и ноги<br>диск настроек был зарегистрирован<br>крафт может быть зарегистрирован для каждой части"""
 PACustomize#0,"""Кастомизация Фотон Артов"""
 CraftOrderConfirmSameLevelMessage#0,"""Выполнение заказа на низкоуровневый крафт.<br>Вероятность <c ff007f>большого успеха<c> увеличена.<br>Ваше вознаграждение Месета: $(1) .<br>Время охлаждения машины.<yellow> $(0)<c>"""
