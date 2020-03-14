@@ -1,6 +1,0 @@
-Title#0,"""Trade within ARKS Ship"""
-TargetName_Errand#0,"""Talk with certain individuals on the ARKS Ship and you can browse events."""
-Explanation#0,"""[Location]<br> Shop area<br> Teleporter bound for the gate area<br><br>[Individual]<br> The comm from Aki<br><br>[Event]<br> I Have To See It For Myself<br><br> <yellow>An event happens when<br>Wright's client request#0,""""Professor Is Missing"" is reported<c>"""
-Title#1,"""アークスシップ内での交流"""
-TargetName_Errand#1,"""アークスシップ内にいる<br>該当のキャラクターに話しかけ<br>イベントを閲覧してくること。"""
-Explanation#1,"""【場所】<br>　ショップエリア<br>　ゲートエリア行きテレポーター前<br><br>【キャラクター】<br>　アキからの通信<br><br>【イベント】<br>　やはり自分で見なければ<br><br>　<yellow>ライトのクライアントオーダー<br>　『先生が行方不明！？』の<br>　報告完了でイベント発生<c>"""

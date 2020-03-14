@@ -1,8 +1,0 @@
-11_voice_NPC_5055_101 #0,"""You saw a meteor shower!<br>Wow, that's wonderful!"""
-text02#0,"""This is more than enough data to analyze<br>the mechanism behind the meteor shower."""
-text03#0,"""Once this research makes its way through the<br>ARKS organization, perhaps it will help you and<br>your fellow ops, too, <%me>."""
-text04#0,"""Thank you for all your help."""
-11_voice_NPC_5055_101 #1,"""流星群、見られたんですね！<br>すごい、すごいですよ！"""
-text02#1,"""これだけのデータがあれば<br>流星が発生するメカニズムの解析が<br>可能だと思います！"""
-text03#1,"""この情報がアークスに還元されて<br><%me>さんの<br>お役に立てればなによりです！"""
-text04#1,"""どうもありがとうございました！"""

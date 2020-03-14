@@ -1,6 +1,0 @@
-name#0,"""Chat Settings"""
-name#1,"""チャット設定について"""
-text01#0,"""<yellow>Chat Macros<c><br><br>Quickly send frequently used chat phrases by adding them ahead of time in<br>this window, then invoking them with keyboard shortcuts such as Ctrl+F1.<br>You can add up to ten chat macros."""
-text02#0,"""<yellow>Auto Chat<c><br><br>Add chat phrases to be automatically sent out whenever you have done<br>something specific, such as starting a quest or leveling up. You can add up to<br>three phrases for each item by pressing the plus (+) buttons next to them.<br>When you set more than one phrase for the same item, they will be<br>randomly sent out each time.<br><br>See the Online Manual for more information.<br>Click the following link to open it in your browser.<br><br><&URL pso2_players_manual_communication_shortcut>"""
-text01#1,"""<yellow>【ショートカットワード機能について】<c><br><br>　チャットでよく使う発言を、この画面であらかじめ登録しておけば、<br>　キーボードの[Ctrl]+[F1]キーなどで、すぐに発言できます。<br><br>　ショートカットワードは、最大10個まで登録できます。<br>"""
-text02#1,"""<yellow>【オートワード機能について】<c><br><br>　「クエストを開始した」「レベルアップした」などの<br>　特定の状態になった時に、自動でチャットに発言する内容を<br>　この画面であらかじめ登録することができます。<br><br>　項目右にある「＋」ボタンを押すことで、1つの項目につき<br>　最大3つの発言まで登録でき、その中からランダムに発言されます。<br><br>　あわせて、オンラインマニュアルをご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_communication_shortcut>"""

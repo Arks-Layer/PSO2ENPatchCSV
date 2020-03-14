@@ -1,4 +1,0 @@
-name01#0,"""Rental Expiration"""
-name01#1,"""レンタル有効期限について"""
-whelp_expirationdate01#0,"""<yellow>Rental Expiration<c><br><br>This is where you can check the expiration date of various rental items. <br>You can also select a rental item and purchase it <br>(or extend the rental period).<br><br>See the Online Manual for more information.<br>Click the following link to open it in your browser.<br><br><&URL pso2_players_manual_preparations_ac>"""
-whelp_expirationdate01#1,"""<yellow>【レンタル有効期限について】<c><br><br>　各種レンタル機能の有効期限を確認することができます。<br><br>　また、レンタル機能名を選択することで、レンタル機能を<br>　直接購入（期間延長）することもできます。<br><br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_ac>"""

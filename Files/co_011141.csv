@@ -1,8 +1,0 @@
-linewindow#0,"""Help"""
-text00#0,"""Help"""
-text01#0,"""Each window has a button that displays a description of its contents.<br><br>Click the ""?"" button to display this description.<br><br>See the online manual for more details.<br>Click the following URL to open it in your browser.<br><url http://pso2.playpark.com/en/guide/>"""
-text02#0,"""Each window has a button that displays a description of its contents.<br><br>Press <%NextWidget> and then press <%Decide> with the cursor on the ""?"" button to display this description.<br><br>See the online manual for more details.<br>Click the following URL to open it in your browser.<br><url http://pso2.playpark.com/en/guide/>"""
-linewindow#1,"""<br>『ウィンドウヘルプ』について<br>"""
-text00#1,"""『ウィンドウヘルプ』について"""
-text01#1,"""それぞれのウィンドウには、その説明を表示する為の<br>ボタンがあります。<br><br>ウィンドウにある「？」をクリックすると、<br>説明が表示されます。<br><br>くわしくは、オンラインマニュアルをご確認ください。<br>以下のURLをクリック（決定）すると、ブラウザで開きます。<br><url http://pso2.jp/players/manual/>"""
-text02#1,"""それぞれのウィンドウには、その説明を表示する為の<br>ボタンがあります。<br><br><%NextWidget>を押して「？」にカーソルを合わせた状態で<br><%Decide>を押すと、説明が表示されます。<br><br>くわしくは、オンラインマニュアルをご確認ください。<br>以下のURLをクリック（決定）すると、ブラウザで開きます。<br><url http://pso2.jp/players/manual/>"""

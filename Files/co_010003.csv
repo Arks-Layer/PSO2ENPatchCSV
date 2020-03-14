@@ -1,8 +1,0 @@
-linewindow100#0,"""<br>Begin Game Shorty After The Prologue.<br>"""
-linewindow101#0,"""<br>About Playing ""Phantasy Star Online 2 es""<br>"""
-text100#0,"""About Playing ""Phantasy Star Online 2 es"""""
-text101#0,"""Any characters used to play both ""Phantasy Star Online 2"" and <br>""Phantasy Star Online 2 es"" (hereafter ""PSO2 es"") will be have the following <br>elements interlinked. <br><yellow> - A portion of the XP gained from ""PSO2 es"". <br>- Shared Meseta Pool.<br>- Shared portion of the Item Bag. <br>-Weapons/Units/Costumes/Parts/etc.<br>- Shared Development Status of Mags.<c><br><br>For more details, please check out the ""PSO2es"" Online Manual.<br>Click on the following URL and a new browser will be opened.<br><&URL pso2es_players_linkage>"""
-linewindow100#1,"""<br>序章をクリアした時点からゲームを開始します。<br>"""
-linewindow101#1,"""<br>『ファンタシースターオンライン2 es』との連動について<br>"""
-text100#1,"""『ファンタシースターオンライン2 es』との連動について"""
-text101#1,"""『ファンタシースターオンライン2』と<br>『ファンタシースターオンライン2 es』 (以下『PSO2es』)<br>の間で連動したキャラクターは以下の要素を連動します。<br><br>　<yellow>・『PSO2es』で入手した経験値の一部を加算<br>　・所持メセタの共有<br>　・アイテムパックの共有<br>　　・武器/ユニット/コスチューム/パーツ　など<br>　・マグ育成状況の共有<c><br><br>詳しくは『PSO2es』のオンラインマニュアルをご確認ください。<br>以下のURLをクリック（決定）すると、<br>ブラウザーで開きます。<br><&URL pso2es_players_linkage>"""

@@ -1,8 +1,0 @@
-text01#0,"""Thanks, <%me>, you were<br>a huge help. Here's your reward."""
-11_voice_NPC_5001_100#0,"""Let's work together again when you have some<br>more spare time. Like I said before, we make a<br>good team. You're easy to work with."""
-text03#0,"""We were lucky the terrain was on our side this<br>time, but our teamwork? That's got nothing to<br>do with luck!"""
-text04#0,"""Well, I hope to see you again soon."""
-text01#1,"""<%me><br>今回は助かったぜ、ありがとな。<br>これが報酬。受け取ってくれ。"""
-11_voice_NPC_5001_100#1,"""また暇な時には一緒にやろうぜ。<br>さっきも言ったが、相性がいいんでな。<br>やりやすいんだ、俺が。"""
-text03#1,"""地形データ等が揃ってたのは<br>まあたまたまだろうけど、相性ってのは<br>たまたまじゃありえないからな。"""
-text04#1,"""んじゃ、またよろしくな。"""

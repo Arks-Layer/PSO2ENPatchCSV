@@ -1,8 +1,0 @@
-text00#0,"""Progress Method of Crafting"""
-text01#0,"""[About Progress Method of Crafting]<br><br>In this quest, by stepping off the [Wait On Switch] placed on the field, <br>Emergency Trail will occur."""
-text02#0,"""[About Function of Wait On Switch]<br><br>There are 2 [Wait On Switch] placed on the field. However as the [Wait On Switch] <br>can only be initiated one at a time, the Emergency Trial will only occur after the <br>last one has been stepped off.<br><br>Let's step on both switches alternatively."""
-text03#0,"""It seems that Huey is using the [Wait On Switch] to uncover the mastermind <br>who is behind the abnormality happening now on planet Lilipur.<br><br>Let's defeat the mastermind and create a safe environment for Shea to hold the <br>Easter event!"""
-text00#1,"""クエストの進め方について"""
-text01#1,"""「クエストの進め方について」<br><br>本クエストはフィールド上に配置されている<br>『ウエイトオンスイッチ』を踏み切ることで<br>エマージェンシートライアルが発生します。"""
-text02#1,"""「ウエイトオンスイッチの機能について」<br><br>『ウエイトオンスイッチ』はフィールド上に<br>２つ配置されており、最後まで踏み切ることで<br>エマージェンシートライアルが発生しますが、<br>『ウエイトオンスイッチ』は片方ずつしか起動できません。<br><br>配置されている２つの『ウエイトオンスイッチ』を<br>交互に踏んでいきましょう。"""
-text03#1,"""ヒューイはこの『ウエイトオンスイッチ』を使用し<br>現在惑星リリーパで発生している異変を背後で操る黒幕を<br>炙り出そうとしているようです。<br><br>黒幕を倒して、シーの行おうとしているイースターを<br>無事開催できるような環境を作り出しましょう！"""

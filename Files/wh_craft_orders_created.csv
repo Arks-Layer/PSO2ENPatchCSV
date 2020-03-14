@@ -1,4 +1,0 @@
-name01#0,"""Requests List"""
-name01#1,"""依頼リストについて"""
-whelp_craft_orders_created01#0,"""<yellow>[On Request Lists]<c><br><br>This is a screen that enables you to check and craft<br>requested items from other players to your character. <br><br>Up to 9 requests will be registered. Any more than that <br>will be automatically declined, so do take note."""
-whelp_craft_orders_created01#1,"""<yellow>【依頼リストについて】<c><br><br>　他のプレイヤーから、あなたのキャラクター宛に<br>　発注された依頼品を確認し、クラフトできる画面です。<br><br>　依頼は、最大9件まで登録されます。<br>　それ以上の発注は、自動的に断られますのでご注意ください。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment_craft>"""

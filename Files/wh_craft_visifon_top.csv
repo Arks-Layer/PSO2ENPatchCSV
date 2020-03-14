@@ -1,4 +1,0 @@
-name01#0,"""Craft Information"""
-name01#1,"""クラフト情報について"""
-whelp_craft_visifon_top01#0,"""<yellow>[Craft Information]<c><br><br>This screen can allow placement of orders from characters via <br>[Craft Search] option, confirmation of owned recipes & licenses <br>and acceptance of ordered items.<br><br>In the case of [Self Craft], execute using [Craft] option of <br>Quarters Terminal instead of Vidphone."""
-whelp_craft_visifon_top01#1,"""<yellow>【クラフト情報について】<c><br><br>　他のプレイヤーに発注できる「クラフター検索」や<br>　所持しているレシピやライセンスの確認、また<br>　発注したアイテムの受け取りなどができる画面です。<br>　<br>　「自分でクラフトする」場合は、ビジフォンではなく、<br>　<yellow>マイルーム端末の「クラフト」から実行できます。<c><br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment_craft>"""

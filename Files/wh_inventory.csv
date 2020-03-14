@@ -1,4 +1,0 @@
-name01#0,"""Inventory"""
-name01#1,"""アイテムパックについて"""
-whelp_inventory01#0,"""<yellow>Inventory<c><br><br>This is where you can view, use, and discard the items you have.<br><br><yellow>Item Details Window<c><br><br>This window displays detailed information on the currently selected item.<br>Items can have up to 3 pages of detailed information.<br>Use <%NextTabDetails> to go to the next page.<br><br>See the Online Manual for more information. <br>Click the following link to open it in your browser.<br><&URL pso2_players_manual_preparations_equipment>"""
-whelp_inventory01#1,"""<yellow>【アイテムパックについて】<c><br><br>　持っているアイテムを見たり使ったり、捨てたりできます。<br><br><br><yellow>【アイテム詳細ウィンドウについて】<c><br><br>　選択中のアイテムに関する詳細な情報が表示されます。<br>　武器とユニットについては、詳細が3ページまで存在しますが、<br>　<%NextTabDetails>を押すことで、次のページを表示できます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment>"""

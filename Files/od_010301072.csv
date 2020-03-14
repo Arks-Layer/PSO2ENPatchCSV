@@ -1,8 +1,0 @@
-name01#0,"""Zeno"""
-name01#1,"""ゼノ"""
-text01#0,"""Come to think of it, the first time I met you was during the D-arker invasion on Naberius, right?"""
-11_voice_NPC_5001_104#0,"""Do you think something's happening<br>on Naberius just like then...?"""
-text03#0,"""Well, nothing will come from thinking about it.<br>Let's go, <%me>."""
-text01#1,"""そういやお前さんと初めて会ったのって<br>ナベリウスでのダーカー大量発生ん時<br>だったよな。"""
-11_voice_NPC_5001_104#1,"""あの時と同じようにナベリウスで<br>何かが起きてやがるのか……？"""
-text03#1,"""まあ、考えても始まらねえ。<br>行くとしようぜ<br><%me>。"""

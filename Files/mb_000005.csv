@@ -1,6 +1,0 @@
-linewindow#0,"""Events"""
-text00#0,"""Events"""
-text01#0,"""There may be times during a quest where you must view an event in order<br>to move a step forward through the paradigm matrix. Such events will<br>appear in blue. Unrelated events will be white or red. Select ""Paradigm<br>Matrix"" on the main menu to see which quests have events."""
-linewindow#1,"""<br>『イベント』について<br>"""
-text00#1,"""『イベント』について"""
-text01#1,"""マターボードを進行させるために<br>クエスト中のイベント閲覧が達成条件となっている場合があります。<br><br>マターボードで捜索している目標のイベントは<br>黄色のボードで出現するので、<%Access>でアクセスしましょう。<br><br>ストーリーをより楽しむサブイベントは青色のボード、<br>一度見たことがあるイベントは灰色のボードになります。<br><br>どのクエストに出現するかは<br>メインメニューの「マターボード」で確認できます。"""

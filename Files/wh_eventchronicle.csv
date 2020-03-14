@@ -1,4 +1,0 @@
-name01#0,"""Event Chronicle"""
-name01#1,"""イベントクロニクルについて"""
-whelp_eventchronicle01#0,"""<yellow>【Event Chronicle】<c><br><br>All up-to-date events can be viewed at the Quarters Terminals."""
-whelp_eventchronicle01#1,"""<yellow>【イベントクロニクルについて】<c><br><br>　マイルーム端末にて、<br>　今までのイベントを見ることができます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br><&URL pso2_players_manual_communication_myroom_eventchronicle>"""

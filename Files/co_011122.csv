@@ -1,8 +1,0 @@
-linewindow#0,"""Elements"""
-text00#0,"""Elements"""
-text01#0,"""There are six elements in this universe:<br>fire, ice, lightning, wind, light, and dark.<br><br>You can inflict additional damage by attacking with<br>weapons or photon magics that apply an elemental effect."""
-text02#0,"""When an enemy is resistant to a certain type of element,<br>additional damage from that element is reduced.<br><br>In this case, use weapons or photon magics of a different element."""
-linewindow#1,"""<br>『属性』について<br>"""
-text00#1,"""『属性』について"""
-text01#1,"""この世界には「炎」「氷」「雷」「風」「光」「闇」の<br>６つの属性があります。<br><br>属性の付与された武器やテクニックで攻撃すると、<br>追加でダメージを与えられます。"""
-text02#1,"""<br>ただし、攻撃したエネミーにその属性の耐性がついていると<br>追加ダメージが少なくなります。<br><br>属性耐性の付いていない武器やテクニックで攻撃しましょう。"""

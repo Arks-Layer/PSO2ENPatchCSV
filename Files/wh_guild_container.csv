@@ -1,4 +1,0 @@
-name01#0,"""The Team Storehouse"""
-name01#1,"""チーム倉庫について"""
-whelp_guild_container01#0,"""<yellow> The Team Storehouse <c><br><br>This is a Storehouse used to contain items shared by members of the same team.<br>Other team members can put and take items from the Team Storehouse.<br><br>However, members must be using Premium Set to access the Team Storehouse.<br><br>For more information, please refer to the online manual.<br>Click on the following link (Select) to open it in your browser. <br><&URL pso2_players_manual_communication_team_teamroom>"""
-whelp_guild_container01#1,"""<yellow>【チーム倉庫について】<c><br><br>　チームメンバー内でアイテムを共有するための倉庫です。<br>　チーム倉庫に入れられたアイテムは、他チームメンバーでも<br>　取り出し、使用することができます。<br><br>　ただし、コモンメンバー以上であり、プレミアムセットを使用している<br>　ことが使用条件となります。<br><br><br>　あわせて、オンラインマニュアルをご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_communication_team_teamroom>"""

@@ -1,8 +1,0 @@
-IncidentName#0,"""$(0) Subdual"""
-TrialBeginMsg#0,"""Take on any $(0) and defeat $(1) to open the barriers!"""
-DestroyDoorMsg#0,"""The barrier to the $(0) was destroyed!"""
-TrialAbstract#0,"""Take on any $(0) you find and defeat <br>enough of them to open the barriers!"""
-IncidentName#1,"""$(0)討伐"""
-TrialBeginMsg#1,"""障壁開放のため$(0)を$(1)体倒せ！"""
-DestroyDoorMsg#1,"""$(0)の方向の障壁が壊された！"""
-TrialAbstract#1,"""$(0)を一定数討伐し障壁を解除せよ！"""

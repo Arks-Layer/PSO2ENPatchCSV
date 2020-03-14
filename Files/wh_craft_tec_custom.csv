@@ -1,4 +1,0 @@
-name01#0,"""Technique customization"""
-name01#1,"""テクニックカスタマイズについて"""
-whelp_craft_tec_custom01#0,"""<yellow> [On Technique Customization] <c><br><br>This enables you to create a ""Custom Disc"" that you can <br>customize the techniques, effects and distance reach for <br>each character.<br><br>You can ""use"" the ""Custom Disc"" through your item <br>pack and it will be applied to already achieved techniques."""
-whelp_craft_tec_custom01#1,"""<yellow>【テクニックカスタマイズについて】<c><br><br>　テクニックの威力や飛距離などを<br>　キャラクターごとにカスタマイズできる<br>　「カスタムディスク」を作成できます。<br><br>　作成した「カスタムディスク」は、アイテムパックから<br>　「使う」ことで、習得済みのテクニックに適用できます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment_craft>"""

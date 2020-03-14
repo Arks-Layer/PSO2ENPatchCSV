@@ -1,4 +1,0 @@
-name01#0,"""ARKS Lookup"""
-name01#1,"""アークスサーチについて"""
-text01#0,"""<yellow>ARKS Lookup<c><br><br>Enter search keys to find players who are logged in <br>to the same ship as you are. The following keys are <br>available:<br>- Character Name<br>- Team Name<br>- Player Name<br><br>See the Online Manual for more information. <br>Click the following link to open it in your browser.<br><&URL pso2_players_manual_menu_visiphone>"""
-text01#1,"""<yellow>【アークスサーチ機能について】<c><br><br>　条件を指定して同シップのキャラクターなどの検索を行えます。<br>　以下の項目が使用可能です。<br><br>　・キャラクターサーチ<br>　・チームサーチ<br>　・プレイヤーサーチ<br><br>　あわせて、オンラインマニュアルをご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_menu_visiphone>"""

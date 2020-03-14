@@ -1,4 +1,0 @@
-name01#0,"""Equip Armor"""
-name01#1,"""防具装備について"""
-whelp_equip_protector01#0,"""<yellow>Equip Armor<c><br><br>Equip different armor units and outfits (or parts). Select <br>the slot in which you want to equip armor. From the list of <br>equippable items that appears, select the item you want to equip.<br><br>Your selection will be applied to your character when <br>you go back to the previous window.<br><br>See the Online Manual for more information. <br>Click the following link to open it in your browser.<br><&URL pso2_players_manual_preparations_equipment_armor>"""
-whelp_equip_protector01#1,"""<yellow>【防具装備について】<c><br><br>　ユニットとコスチューム（パーツ）を装備できます。<br>　セットしたい「スロット」を選ぶと、セット可能なリストが<br>　表示されます。次に、リストからアイテムを選択すると、<br>　スロットに選択したアイテムが装備されます。<br><br>　セットが終わったら戻ることで、装備が反映されます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment_armor>"""

@@ -1,4 +1,0 @@
-name01#0,"""The Storehouse"""
-name01#1,"""倉庫について"""
-whelp_container01#0,"""<yellow>The Storehouse<c><br><br>There is a limit to how many items you can have in your <br>inventory. However, you can send items or meseta to <br>your storehouse, and retrieve them later.<br><br>Storehouse content can be shared between all the <br>characters you create, but not with other player's <br>characters.<br><br>See the Online Manual for more information. <br>Click the following link to open it in your browser.<br><&URL pso2_players_manual_menu_storage>"""
-whelp_container01#1,"""<yellow>【倉庫について】<c><br><br>　アイテムパックに持てるアイテム数には限りがあります。<br>　「倉庫」は、持ちきれないアイテムやメセタを預けたり<br>　引き出したりできます。<br><br>　倉庫の中身は他のプレイヤーとは共有されませんが、<br>　自分が作ったキャラクター間では共有できます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_menu_storage>"""

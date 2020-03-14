@@ -1,8 +1,0 @@
-skit01#0,"""I'm sensing some photon disturbance.<br>It seems to be coming from the north."""
-skit02#0,"""There could be D-arkers north of here,<br><%me>.<br>Can you go take a look?"""
-skit01#1,"""フォトンに<br>異常な反応があるな……<br>これは、北からか？"""
-skit02#1,"""<%me>くん。<br>北方にダーカーがいるかもしれない。<br>よければ向かってもらえるかい？"""
-skit01#0,"""/ci5 2 I'm sensing some photon disturbance.<br>It seems to be coming from the north."""
-skit02#0,"""There could be D-arkers north of here,<br><%me>.<br>Can you go take a look?"""
-skit01#1,"""/ci5 2 フォトンに<br>異常な反応があるな……<br>これは、北からか？"""
-skit02#1,"""<%me>くん。<br>北方にダーカーがいるかもしれない。<br>よければ向かってもらえるかい？"""

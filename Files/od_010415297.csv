@@ -1,8 +1,0 @@
-text01#0,"""Welcome back, <%me>.<br>So you don't think you've been getting a bit too<br>cocky lately?"""
-11_voice_NPC_5056_109#0,"""But since there are also those that end up croaking after saying that and losing focus, shouldn't you be careful?"""
-text03#0,"""But seeing how you did this time, I guess<br>you're probably going to be okay."""
-text04#0,"""In any case, you're back safe and sound,<br>and that's what matters most. Hope to see<br>you around, <%me>."""
-text01#1,"""<%me>！<br>お帰りなさい！　アンタには<br>油断なんてものは無縁だった？"""
-11_voice_NPC_5056_109#1,"""でも、そう言って気を抜いて<br>サヨウナラしちゃう人もいるんだから<br>気をつけなきゃダメよ？"""
-text03#1,"""……まあ、今回の様子を見るに<br>大丈夫だとは思うけど、さ。"""
-text04#1,"""ま、なにはともあれ無事でよかった！<br>これからもよろしくね！<br><%me>！"""

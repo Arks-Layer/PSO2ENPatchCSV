@@ -1,8 +1,0 @@
-text01#0,"""Yes, yes, this should be enough terrain data<br>for the places Zeno's likely to be running around."""
-11_voice_NPC_5002_100#0,"""Thanks for joining me on this one,<br><%me>."""
-text03#0,"""But don't mention this to Zeno, okay? We have<br>to do this sort of stuff on the sly. You know,<br>out of sight, out of... er... how does that go again?"""
-text04#0,"""Well, I'll see you later. I hope we can work together<br>again soon!"""
-text01#1,"""うん、これだけデータがあれば<br>ゼノの行動範囲は抑えられてるでしょ。"""
-11_voice_NPC_5002_100#1,"""<%me><br>ありがとね。協力してくれて。"""
-text03#1,"""でも、このことはゼノには内緒だよ？<br>こういうのは、こっそりやるものなの。<br>縁の下のなんとやら、ってやつ？"""
-text04#1,"""それじゃ、またよろしくね。"""

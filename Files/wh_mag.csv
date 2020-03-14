@@ -1,4 +1,0 @@
-name01#0,"""Mags"""
-name01#1,"""マグについて"""
-whelp_mag01#0,"""<yellow>Mags<c><br><br>View the status of your Mag, give it items and devices, and level it up. <br>If you have more than one, select the one you want to equip. <br>You can also change the priority of trigger actions that share the same <br>conditions by using the Trigger Action Priority setting.<br><br>See the Online Manual for more information.<br>Click the following link to open it in your browser.<br><br><&URL pso2_players_manual_preparations_mag>"""
-whelp_mag01#1,"""<yellow>【マグについて】<c><br><br>　プレイヤーの戦闘を補助する「マグ」のステータス確認や、<br>　アイテムやデバイスを与えて成長させることができます。<br>　複数のマグを所持している場合は、装備するマグを選べます。<br><br>　また、「トリガーアクション優先度」を変更することで<br>　同条件で発生するトリガーアクションの優先度を変更できます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_mag>"""

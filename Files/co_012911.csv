@@ -1,8 +1,0 @@
-skit01#0,"""I'm sensing D-arkers nearby.<br>I guess there's no going around them."""
-skit02#0,"""/toge Ngh, another new form...?<br>We've got no time to lose!"""
-skit01#1,"""ふむ、<br>ダーカーの気配がありますね。<br>避けて通るのは厳しそうです。"""
-skit02#1,"""/toge くっ、また新手……？<br>手間取っているひまはないのに！"""
-skit01#0,"""/ci1 2 I'm sensing D-arkers nearby.<br>I guess there's no going around them."""
-skit02#0,"""/toge /ci3 1 Ngh, another new form...?<br>We've got no time to lose!"""
-skit01#1,"""/ci1 2 ふむ、<br>ダーカーの気配がありますね。<br>避けて通るのは厳しそうです。"""
-skit02#1,"""/toge /ci3 1 くっ、また新手……？<br>手間取っているひまはないのに！"""

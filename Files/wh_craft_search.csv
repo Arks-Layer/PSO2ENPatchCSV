@@ -1,4 +1,0 @@
-name01#0,"""Crafter Searches"""
-name01#1,"""クラフター検索について"""
-whelp_craft_search01#0,"""<yellow> [On Crafter Searches] <c><br><br>You are able to search and display up to 100 characters <br>from other players, friends and team members that can <br>respond to the nature of your request. <br><br>The search results are displayed in order of the highest <br>likelihood of the character being able to accept your <br>request. <yellow> *Your character will not be displayed. <c>"""
-whelp_craft_search01#1,"""<yellow>【クラフター検索について】<c><br><br>　他のプレイヤーや、フレンドまたはチームメンバーから<br>　あなたが依頼したい内容に応えられるキャラクターを、<br>　最大100人まで検索して表示します。<br><br>　検索結果は、受注できる可能性が高い順に表示されます。<br>　<yellow>※あなたのキャラクターは表示されません。<c><br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment_craft>"""

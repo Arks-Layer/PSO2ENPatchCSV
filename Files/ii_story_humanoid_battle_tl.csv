@@ -1,6 +1,0 @@
-IncidentName#0,"""Defeat the $(0)"""
-TrialBeginMsg#0,"""Defeat the $(0) within the time limit"""
-TrialAbstract#0,"""Defeat the $(0) within the time limit"""
-IncidentName#1,"""$(0)を倒せ"""
-TrialBeginMsg#1,"""制限時間内に$(0)を倒せ"""
-TrialAbstract#1,"""制限時間内に$(0)を倒せ"""

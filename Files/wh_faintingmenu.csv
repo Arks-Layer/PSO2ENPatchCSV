@@ -1,6 +1,0 @@
-name#0,"""The Incapacitation Menu"""
-name#1,"""戦闘不能メニューについて"""
-text01#0,"""<yellow>Resuming the Game<c><br><br>- Back to Gateship: Return to the ship and revive. <br>In special quests this option will be ""Retire"" and all quest progress will be lost.<br><br>- Use (Buy) Self Revival Kit to Revive: Revive on the spot by using a Self Revival Kit<br>(revival item) or buying one with ARKS cash.<br><br>"""
-text02#0,"""- Half Revival Kit:<br>Upon usage, it will revive oneself and regain half the HP.<br><br>'- Chat: Chat with party members.<br><br>See the Online Manual for more information. Click the following link to open it in<br>your browser.<br><&URL pso2_players_manual_preparations_quest>"""
-text01#1,"""<yellow>【再開方法について】<c><br><br>　・キャンプシップへ戻る：<br>　　キャンプシップへ戻って復活します。<br>　　特別なクエストでは「リタイアする」になり、<br>　　クエストが破棄されます。<br><br>　・スケープドールを使用（購入）して復活：<br>　　復活アイテム「スケープドール」を使用するか、<br>　　またはACで購入して使用し、その場で復活します。"""
-text02#1,"""　・ハーフドールを使用して復活：<br>　　復活アイテム「ハーフドール」を使用して<br>　　HP半分の状態で復活します。<br><br>　・チャットする： パーティーメンバーと相談できます。<br><br>　あわせて、オンラインマニュアルをご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_quest>"""

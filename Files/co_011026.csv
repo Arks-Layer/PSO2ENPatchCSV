@@ -1,8 +1,0 @@
-linewindow#0,"""Weak Points"""
-text00#0,"""Weak Points"""
-text01#0,"""Weak Points<br><br>Some enemies are especially vulnerable to certain elements<br>and attacks on certain parts of their body.<br>These weak points vary depending on the area<br>and type of enemy. Information about the element<br>an enemy is weak against is displayed when<br>you lock-on to them, so keep an eye out."""
-text02#0,"""Attacking the weak point of an enemy greatly increases<br>the amount of damage done.<br>A red light appears when you attack an enemy's weak point."""
-linewindow#1,"""<br>『ウィークポイント』について<br>"""
-text00#1,"""『ウィークポイント』について"""
-text01#1,"""『ウィークポイント』について<br><br>エネミーには弱点となる「属性」や「部位」が存在します。<br>弱点は、エリアやエネミーの系統によってまちまちですが<br>ロックオンした際に、弱点属性のインフォメーションが<br>表示されるので確認してみましょう。"""
-text02#1,"""弱点部位とは、エネミーの特定の部位を攻撃すると<br>飛躍的にダメージがアップします。<br>弱点部位を攻撃した際には、<br>画面のような赤い光が表示されます。"""

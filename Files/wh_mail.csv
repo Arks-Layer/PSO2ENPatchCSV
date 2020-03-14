@@ -1,4 +1,0 @@
-name#0,"""Mail"""
-name#1,"""メールについて"""
-text01#0,"""<yellow>Mail<c><br><br>- Sending mail<br>You can send mail to friends and team members.<br><br>- Viewing, replying to, and deleting mail<br>These operations are available for mail you have received.<br><br>See the Online Manual for more information. Click the <br>following link to open it in your browser.<br><&URL pso2_players_manual_communication_mail>"""
-text01#1,"""<yellow>【メール機能について】<c><br><br>　・メールの送信<br>　　フレンドまたはチームメンバーに対して、<br>　　メールを送ることができます。<br><br>　・メールを見る／返信する／削除する<br>　　受信したメールに対して操作できます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_communication_mail>"""

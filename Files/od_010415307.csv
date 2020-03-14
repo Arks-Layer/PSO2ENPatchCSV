@@ -1,8 +1,0 @@
-text01#0,"""Welcome back, <%me>.<br>Did you help out those newbies like I<br>told you to?"""
-text02#0,"""Everyone starts at the bottom, and it's up<br>to experienced ops like you to help<br>newbies in need. You got that?"""
-11_voice_NPC_5056_104#0,"""...well, I think you're still a bit<br>sketchy when watching you though."""
-text04#0,"""Well, at least you came back in one piece,<br><%me>. Thank goodness<br>for small miracles."""
-text01#1,"""<%me>！<br>お帰りなさい！<br>ちゃんとへっぽこぴーを助けてきた？"""
-text02#1,"""誰でも未熟な時期ってのは<br>あるものなんだし、力のあるヤツが<br>きちんと助けてあげないとダメよ？"""
-11_voice_NPC_5056_104#1,"""……まあ、あんたもまだまだ<br>見てて危なっかしいと思うけど。"""
-text04#1,"""ま、なにはともあれ無事でよかった！<br>これからもよろしくね！<br><%me>！"""

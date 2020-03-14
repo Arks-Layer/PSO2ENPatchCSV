@@ -1,8 +1,0 @@
-linewindow#0,"""Quest Points"""
-text00#0,"""Quest Points"""
-text01#0,"""Some quests require you to obtain quest points to complete them.<br><br>Quest points are obtained by defeating certain enemies<br>or completing Priority Orders."""
-text02#0,"""The number of quest points you get for defeating enemies<br>depends on the quest.<br><br>You can check how many quest points you'll get for defeating<br>various enemies using the intel pod at the beginning of each quest."""
-linewindow#1,"""<br>『クエストポイント』について<br>"""
-text00#1,"""『クエストポイント』について"""
-text01#1,"""クエストの中には、「クエストポイント」の獲得が<br>クリア条件となっているものがあります。<br><br>「クエストポイント」は特定のエネミー撃破や<br>エマージェンシートライアルのクリア時に獲得できます。"""
-text02#1,"""エネミー撃破によるクエストポイントの獲得については<br>クエストによって異なります。<br><br>どのエネミーから、どれだけのクエストポイントが得られるかは<br>各クエスト開始地点のメッセージパックで確認することが可能です。"""

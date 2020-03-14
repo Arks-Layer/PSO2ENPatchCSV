@@ -1,4 +1,0 @@
-name01#0,"""Medical Bay"""
-name01#1,"""メディカルセンターについて"""
-whelp_medical01#0,"""<yellow>Medical Bay<c><br><br>This is where you can drink one tonic per quest. Tonics have different effects<br>that will give you an advantage in your quests. The number of available tonics<br>increases when you complete certain client requests.<br><br>See the Online Manual for more information.<br>Click the following link to open it in your browser.<br><br><&URL pso2_players_manual_preparations_arkslobby_gatearea>"""
-whelp_medical01#1,"""<yellow>【メディカルセンターについて】<c><br><br>　１回のクエスト受注につき、１回１種類だけドリンクを<br>　飲むことができます。ドリンクを飲むと様々な効果を得ることができ、<br>　クエストを有利に進めることができます。<br>　ドリンクは特定のクライアントオーダーをクリアすることで増えていきます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_arkslobby_gatearea>"""

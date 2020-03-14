@@ -1,4 +1,0 @@
-name01#0,"""Order"""
-name01#1,"""発注について"""
-whelp_craft_user_order01#0,"""<yellow>[Giving Orders to Others]<c><br><br>Using the [Craft] option from Quarter terminal of <br>[Desired order of Player's quarters] option, which is moved <br>from the results of Vidphone's [Craft Search], by selecting an empty purchase order, <br>it is possible to place an order to any character that you want.　<br><br>To cancel the acceptance of ordered items, <br>go to Vidphone's [Craft > Requested Purchase Order]"""
-whelp_craft_user_order01#1,"""<yellow>【他のプレイヤーへの発注について】<c><br><br>　ビジフォンの「クラフター検索」の結果から移動できる　<br>　「発注したいプレイヤーのマイルーム」のマイルーム端末の<br>　「クラフト」から、空いている発注書を選択すると<br>　どのキャラクターに発注するかを選択し、発注できます。<br><br>　発注したアイテムの受け取りやキャンセルは、ビジフォンの<br>　「クラフト＞依頼中の発注書」から行うことができます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment_craft>"""

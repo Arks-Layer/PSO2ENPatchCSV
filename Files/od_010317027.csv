@@ -1,8 +1,0 @@
-text01#0,"""Do you need something? Are you here to take on<br>a quest?"""
-text02#0,"""Then what are you doing here? Go over<br>and talk to Anneliese at the Quest Counter."""
-11_voice_NPC_5017_101#0,"""Still, who knows? Maybe it will jog<br>something in her memory."""
-text04#0,"""They're the only ones you can take on at first."""
-text01#1,"""あっ、そう、これです！<br>これが、マトイさんがじーっと<br>見つめていた黄色の花です！"""
-text02#1,"""今思い返すと、何か気になる<br>というより、良い色だなーって<br>見ている感じでしたが……"""
-11_voice_NPC_5017_101#1,"""ううん、いいえ、きっとこれで<br>少しは何かを思い出すんじゃ<br>ないかと思います！　はい！"""
-text04#1,"""<%me>さん<br>ご協力感謝します！"""

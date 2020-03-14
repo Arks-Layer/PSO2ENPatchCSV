@@ -1,4 +1,0 @@
-name01#0,"""Updating the Data Drive"""
-name01#1,"""データドライブの更新について"""
-whelp_craft_card_recipe01#0,"""<yellow> On Data Drives <c><br> <br>This is a system that enables you to create the <br>[Original Recipe] for [Time Ability Data].  <br><br>There are three types based on unit parts; Rear/Arms/Legs,<br> on the data drive, and each recipe can be constructed or saved over."""
-whelp_craft_card_recipe01#1,"""<yellow>【データドライブについて】<c><br><br>　ユニットにインストールして能力強化する「時限能力データ」の<br>　「元となるレシピ」を作成できるシステムです。<br><br>　データドライブには、ユニットの部位ごとに「リア用」<br>　「アーム用」「レッグ用」の３種類あり、各１つずつ<br>　レシピを作成または上書き保存できます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment_craft>"""

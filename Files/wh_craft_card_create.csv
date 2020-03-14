@@ -1,4 +1,0 @@
-name01#0,"""Constucting time ability data"""
-name01#1,"""時限能力データ作成について"""
-whelp_craft_card_create01#0,"""<yellow> [On Constructing Time Ability Data] <c><br><br>You are able to construct a consumable item <br>""Time Ability Data"", that strengthens your capacity, <br>based on a recipe saved on the ""Data Drive"".<br>The constructed ""Time Ability Data"" can be installed <br>to your unit from the ""Use"" command in your item pack. """
-whelp_craft_card_create01#1,"""<yellow>【時限能力データ作成について】<c><br><br>　能力強化が可能な消費アイテム「時限能力データ」を、<br>　「データドライブ」に保存されているレシピをもとに<br>　作成することができます。<br><br>　作成した「時限能力データ」は、アイテムパックから<br>　「使う」ことでユニットにインストールできます。<br><br>　あわせて、オンラインマニュアルもご確認ください。<br>　以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>　<&URL pso2_players_manual_preparations_equipment_craft>"""
