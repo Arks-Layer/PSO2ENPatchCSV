@@ -2353,7 +2353,7 @@ FuryGearBoost#1,"""Increases gear gauge fill rate for Hunter weapons during Fury
 NeverGiveup#1,"""After using Iron Will, boosts S-ATK for 60 sec. and increases invincibility duration. Additional levels increase bonus."""
 MassiveHunter#1,"""Reduces damage and protects against launch and blow away."""
 AdvanceGuard#1,"""Upon a successful Just Guard, restore HP for yourself and all nearby characters."""
-WarBrave#1,"""Upon activating War Cry, gain a damage bonus and recover PP according to the number of affected enemies. <yellow>Main class only.<c>"""
+WarBrave#1,"""Upon activating War Cry, gain a damage bonus for 60 seconds and recover PP according to the number of affected enemies. <yellow>Main class only.<c>"""
 HunterDexUp1#1,"""Boosts DEX."""
 AllGuard#1,"""Blocks damage from all directions while guarding using Hunter weapons. <yellow>Main class only.<c>"""
 GuardStanceJustGuradAttack#1,"""Upon performing a Just Guard during Guard Stance, gain a damage bonus for a fixed time. <yellow>Main class only.<c>"""
