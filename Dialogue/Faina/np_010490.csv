@@ -8,7 +8,7 @@ ep6_sq00_02#0,"""I'll be really happy if you come and see me often, too! Good lu
 tutorial01_01#0,"""You've been working hard! I am Administrator Faina! I'm in charge of Daily Orders!！"""
 tutorial01_02#0,"""I'd like to give you some tips for completing Daily Orders and Client Orders more efficiently."""
 tutorial01_03#0,"""That's right! If you accept a lot of Orders for the same quest, you can complete them all at once!"""
-tutorial01_04#0,"""For instance, if you take an Order to "Defeat any Enemy", and one to "Defeat Dagans", defeating a Dagan will count towards both!"""
+tutorial01_04#0,"""For instance, if you take an Order to 'Defeat any Enemy', and one to 'Defeat Dagans', defeating a Dagan will count towards both!"""
 tutorial01_05#0,"""Fulfilling multiple Orders in the same area can save you a lot of time. Please give it a try!"""
 tutorial01_tittel#0,"""Completing Client Orders"""
 tutorial01_tut01#0,"""Many characters around the Ship have Client Orders for you.<br><br>Before you leave for a Quest, try to find Client Orders that you can complete while on that Quest. If you take multiple Client Orders that are relevant to your Quest, you will be able to <yellow>earn the rewards<c> from all of them at once."""
