@@ -8,6 +8,6 @@ Explanation#0,"""敵大型戦艦を舞台に<br>最終標的と定めた強大�
 SimpleExplanation#0,"""Defeat the final target!"""
 NpcComMsg1#0,"""Ahh, what am I going to do...<br>No way, they reached the final Step..."""
 NpcComMsg2#0,"""My sister said \""Leave the final boss to me!\"" and created it by herself..."""
-NpcComMsg3#0,"""She was laughing like a crazy person as she worked, saying "Nobody will even get here in the first place!"<br>W-well then... Fight!"""
+NpcComMsg3#0,"""She was laughing like a crazy person as she worked, saying \""Nobody will even get here in the first place!\""<br>W-well then... Fight!"""
 Area0S#0,"""Enemy Battleship: Deck"""
 Area0L#0,"""Enemy Battleship: Deck"""
