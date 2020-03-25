@@ -15,7 +15,7 @@ NpcComGaugeHp75#0,"""The Energy Pods have reached 75% full.<br>The end is finall
 NpcComGaugeHp90#0,"""The Energy Pods have reached 90% full.<br>The tank is a hair's breadth from being full.<br>This is the final sprint."""
 NpcComOnBegin#1,"""Your goal in this training is to collect Energy Crystals to refill the Energy Pods."""
 NpcComOnContainerPop#1,"""/atime2.5 /voice11_voice_navi23_bou_02 Now transferring Energy Pods and Energy Crystals.<br>Enemies are targeting the Energy Pods, so defeat them."""
-NpcComOnTargetPosition#1,"""/atime2.5 /voice11_voice_navi23_bou_07 Energy Pods are being targeted.<br>Energy Pods are being targeted.<br>Defend $(1) at $(0) and $(3) at $(2)."""
+NpcComOnTargetPosition#1,"""/atime2.5 /voice11_voice_navi23_bou_07 Energy Pods are being targeted.<br>Defend $(1) at $(0) and $(3) at $(2)."""
 NpcComOnBossTargetPosition#1,"""/atime2.5 /voice11_voice_navi23_bou_08 A large enemy has appeared at $(0).<br>The $1 Energy Pod is being targeted."""
 NpcComOnTimeLimit30#1,"""/atime2.5 /voice11_voice_navi23_bou_09 30 seconds remain for this training.<br>If you can fill the pods or survive for that time, you will clear the Quest."""
 NpcComOnSuccess#1,"""Energy Pod replenishment complete.<br>Thank you very much."""
