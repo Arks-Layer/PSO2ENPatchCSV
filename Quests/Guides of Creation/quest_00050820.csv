@@ -1,5 +1,5 @@
 Title#0,"""The Guides of Creation"""
-Explanation#0,"""We've detected unusual Ether readings<br>indicating the manifestation of giant<br>Phantoms on the Moon and on Earth.<br>All ARKS are to head to the location<br>immediately to destroy the targets<br>and restore peace.<br>――――――――――――――――――――<br>Can clear 1 times.<br>Damage Limit: 999999<br>Failure: Fail objective, time limit expires."""
+Explanation#0,"""We've detected unusual Ether readings<br>indicating the manifestation of giant<br>Phantoms on the Moon and on Earth.<br>All ARKS are to head to the location<br>immediately to destroy the targets<br>and restore peace.<br>――――――――――――――――――――<br>Can clear $(0) time(s).<br>Damage Limit: 999999<br>Failure: Fail objective, time limit expires."""
 SimpleExplanation#0,"""Defeat the enemies in time!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
