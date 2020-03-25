@@ -2,7 +2,7 @@ NpcComMsg1#0,"""We'll be transfering you to the resurrected Evil Dragon once aga
 NpcComMsg2#0,"""We have observed an energy difference from the last encounter, thus we expect it to put up a tough fight. Please pay attention to its movement and attacks."""
 NpcComMsg3#0,"""Alisa will support us once more! With your powers, we're sure that you'll be able to prevail!"""
 Title#0,"""The Dark Demolisher"""
-Explanation#0,"""We have detected a strong energy<br>source from inside Cuent Castle!<br>Please go there and assist Alisa!<br>Because this operation will be dangerous,<br>only specific ARKS may assist.<br>――――――――――――――――――――<br>Can clear 1 times, rankings in effect.<br>Damage Limit: 999999<br>Failure Conditions / Time limit runs out"""
+Explanation#0,"""We have detected a strong energy<br>source from inside Cuent Castle!<br>Please go there and assist Alisa!<br>Because this operation will be dangerous,<br>only specific ARKS may assist.<br>――――――――――――――――――――<br>Can clear $(0) time(s), rankings in effect.<br>Damage Limit: 999999<br>Failure Conditions / Time limit runs out"""
 SimpleExplanation#0,"""Defeat the Dragon!"""
 Area0S#0,"""Omega - Cuent Castle Ruins"""
 Area0L#0,"""Omega - Cuent Castle Ruins"""
