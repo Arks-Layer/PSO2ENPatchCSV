@@ -1,0 +1,8 @@
+Life_Recovery#0,"""Dispositivo virtual <yellow>$(0)<c> detenido. Recompensa: <yellow> Recuperación de vida<c>"""
+Point_Gift#0,"""Dispositivo virtual <yellow>$(0)<c> detenido. Recompensa: <yellow> $(1) puntos obtenidos<c>"""
+Condition_Power#0,"""Dispositivo virtual <yellow>$(0)<c> detenido. Recompensa: <yellow> ATK up<c> (Actual: $(1))"""
+Condition_PpRegene#0,"""Dispositivo virtual <yellow>$(0)<c> detenido. Recompensa: <yellow>PP recovery up<c> (Actual: $(1))"""
+Condition_Toughness#0,"""Dispositivo virtual <yellow>$(0)<c> detenido. Recompensa: <yellow>Maximum HP up<c> (Actual: $(1))"""
+Condition_Photon#0,"""Dispositivo virtual <yellow>$(0)<c> detenido. Recompensa: <yellow>Maximum PP up<c> (Actual: $(1))"""
+Condition_Level_Default#0,"""<yellow>Lv.$(0)<c> """
+Condition_Level_Maximum#0,"""<pure_orange>Lv.MAX<c> """
