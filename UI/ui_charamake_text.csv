@@ -3078,7 +3078,7 @@ LoadInvalidPartsExist#0,"""クリエイトデータを読み込みましたが<b
 SaveFailed_ps4#0,"""Failed to save character data."""
 SaveConfirmMessage2#0,"""A file with the same name already exists.<br><br>This saved data <br>will be overwritten.<br>Once overwritten, the original data cannot be recovered.<br>Continue?"""
 SaveConfirmMessage2_ps4#0,"""Data already exists in this slot.<br><br>Saving will overwrite the <br>existing character data.<br>Once overwritten, the original data will be deleted.<br>Continue?"""
-TwoToneColorNotice#0,"""The Hair Color 2 setting has been changed.<br><br>This change includes <c ff4f3f>AC required<c> content.<br>To cancel the change, please uncheck<br>the setting under [Select Changes to Undo].<c>"""
+TwoToneColorNotice#0,"""The Hair Color 2 setting has been changed.<br><br>This change includes <c ff4f3f>SG required<c> content.<br>To cancel the change, please uncheck<br>the setting under [Select Changes to Undo].<c>"""
 TwoToneColorNotice2#0,"""Hair Color 2 setting has been changed."""
 IllegalHeightTitle#0,"""Height Error"""
 IllegalHeightBody#0,"""This change cannot be completed because the character's height when undressed is below the permitted height. Please ensure that your character is taller than $(0)cm.<br><yellow>※<c>Press <%WeaponAction> <yellow>to check your undressed height.<c>"""

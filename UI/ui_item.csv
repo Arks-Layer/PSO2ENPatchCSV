@@ -10297,7 +10297,7 @@ ring_StepTransfer#1,"""Phantom Step Shift<br>If a Photon Art is used during Phan
 ring_LongTimeTalis#1,"""Talis Keep Long<br>Extends the duration of a thrown Talis<br>before it disappears."""
 ring_AttackHateDown#1,"""Stealth Attack<br>Reduces the Hate generation from an<br>enemy."""
 ring_LockonMarkerIgnition#1,"""Phantom Lock-On Bomb<br>Marker detonation occurs<br>on the locked-on location."""
-ring_SkipMasterConnect#1,"""Easy Full Connect<br>After using Step Edge, Full Connects<br>require half-gear gauge."""
+ring_SkipMasterConnect#1,"""Easy Full Connect<br>After using Step Edge, hold down weapon action<br>to consume half the gear & activate a Full<br>Connect."""
 GatBoostNeed0000#0,"""検証用アイテムの為レシピなし"""
 GatBoostNeed0001#0,"""検証用アイテムの為レシピなし"""
 GatBoostNeed0002#0,"""検証用アイテムの為レシピなし"""
