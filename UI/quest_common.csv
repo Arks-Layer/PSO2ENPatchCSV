@@ -1078,7 +1078,7 @@ LineMessage05#0,"""/start480 /rt_eff2 /rt_time60 <c ffd700>Gold Emblems<c> have 
 LineMessage06#0,"""/start540 <c c47222>Gold Emblems<c> have disappeared! Defeat the enemies!"""
 LineMessage07#0,"""/start600 You have 1 minute remaining!"""
 LineMessage08#0,"""/start630 You have 30 seconds remaining!"""
-Crystal#0,"""Emblem Competition"""
+Crystal#0,"""Emblem Battle"""
 ArealockQuestStart#0,"""Now searching for the boss's coordinates.<br>Please look around the area and gather information."""
 ArealockOpened#0,"""We've identified the location of a powerful enemy.<br>Transfer Telepipe is ready.<br>Head to the hostile lifeform and defeat it."""
 RidingTimelimitHalf#0,"""領域の展開時間、あと半分ほどです！<br>まだ余裕はあるので、時間いっぱいまで<br>エネミーを討伐しましょう！"""
