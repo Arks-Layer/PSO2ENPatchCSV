@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ Ranking"""
+name01#1,"""ランキングについて"""
+text01#0,"""<yellow>[เกี่ยวกับ Ranking]<c><br><br> ท่านสามารถตรวจสอบ Ranking ที่เปลี่ยนแปลงได้ดังนี้<br> Ranking Challenge จะมีการ Update ตามระยะเวลาที่กำหนด<br> Weekly Ranking จะ Update ทุกสัปดาห์<br> Team Ranking จะ Update ทุกเดือน<br><br>สามารถตรวจสอบรายละเอียดที่ Online Manual ประกอบได้<br>โดยการคลิกที่ URL ด้านล่างเพื่อเปิดไปยังหน้าเพจดังกล่าว<br><&URL pso2_players_manual_menu_visiphone>"""
+text01#1,"""<yellow>【ランキングについて】<c><br><br>\u3000定期的に発生するインタラプトランキング、<br>\u3000毎週行われるウィークリーランキング、<br>\u3000毎月行われるチームランキング<br>\u3000の結果を確認することができます。<br><br>\u3000結果はランキング発表のタイミングで更新されます。<br><br>\u3000あわせて、オンラインマニュアルをご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_menu_visiphone>"""

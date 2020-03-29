@@ -1,0 +1,4 @@
+GuidePad#0,"""เปลี่ยนทิศทางด้วยคันบังคับซ้าย<br>ยิงด้วย <%Access><br>ออกด้วย <%Jump>"""
+GuideKeyboard#0,"""เปลี่ยนทิศทางด้วย<%MoveLeft><%MoveRight><br>ยิงด้วย <%Access><br>ออกด้วย <%Jump>"""
+GuidePad#1,"""左スティックで向き変更 <%Access>で照射 <%Jump>で終了"""
+GuideKeyboard#1,"""<%MoveLeft><%MoveRight>で向き変更 <%Access>で照射 <%Jump>で終了"""

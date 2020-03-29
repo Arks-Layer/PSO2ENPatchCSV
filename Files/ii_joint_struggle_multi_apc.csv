@@ -1,0 +1,6 @@
+IncidentName#0,"""ต่อสู้กับ $(0)"""
+TrialBeginMsg#0,"""กำจัด $(0) ที่พบ!"""
+TrialAbstract#0,"""กำจัด $(0) ที่พบ!"""
+IncidentName#1,"""$(0)撃破"""
+TrialBeginMsg#1,"""$(0)を撃破せよ！"""
+TrialAbstract#1,"""$(0)を撃破せよ！"""

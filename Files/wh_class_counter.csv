@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ Class Counter"""
+name01#1,"""クラスカウンターについて"""
+whelp_class_counter01#0,"""<yellow> [เกี่ยวกับ Class Counter] <c> <br><br>สถานที่ๆ สามารถเปลี่ยน Class ของตัวละคร <br>หรือเรียนรู้ Skill ใหม่ๆ ด้วย Skill Tree<br>นอกจากนี้ ยังสามารถเพิ่ม Skill Tree  <br>ของแต่ละ Class ได้จาก [เพิ่ม Skill Tree] หรือทำ <br>Skill Tree ให้เหมือนใหม่ด้วย [รีเซ็ต Skill Tree]<br><br>สามารถตรวจสอบรายละเอียดที่ Online Manual ประกอบได้<br>โดยการคลิกที่ URL ด้านล่างเพื่อเปิดไปยังหน้าเพจดังกล่าว<br><&URL pso2_players_manual_preparations_class>"""
+whelp_class_counter01#1,"""<yellow>【クラスカウンターについて】<c><br><br>\u3000キャラクターのクラスを変更したり、スキルツリーで<br>\u3000クラススキルを習得したりすることができます。<br>\u3000「スキルツリー追加」からいずれかのクラスのスキルツリーを<br>\u3000増やすことができ、「スキルツリーリセット」から<br>\u3000１つのスキルツリーを削除し、新たなスキルツリーを作成します。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_class>"""

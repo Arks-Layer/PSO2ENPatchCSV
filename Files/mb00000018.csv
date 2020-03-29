@@ -1,0 +1,6 @@
+Title#0,"""แลกเปลี่ยนภายใน ARKS Ship"""
+TargetName_Errand#0,"""พูดคุยกับตัวละครที่กำหนดใน ARKS Ship<br>แล้วท่านจะสามารถเลือกกิจกรรมได้"""
+Explanation#0,"""[สถานที่]<br> Shop Area/Monument Plaza<br><br>[ตัวละคร]<br> Zeno<br><br>[กิจกรรม]<br> Practice client requests<br><br> <yellow>ต้องทำ Client Order ของ Zeno<br> \""Killing Time on Naberius\""<br>ให้เสร็จสิ้นก่อน<c>"""
+Title#1,"""アークスシップ内での交流"""
+TargetName_Errand#1,"""アークスシップ内にいる<br>該当のキャラクターに話しかけ<br>イベントを閲覧してくること。"""
+Explanation#1,"""【場所】<br>\u3000ショップエリア・モニュメント広場<br><br>【キャラクター】<br>\u3000ゼノ<br><br>【イベント】<br>\u3000クライアントオーダーの練習<br><br>\u3000<yellow>ゼノのクライアントオーダー<br>\u3000『暇つぶしにナベリウスへ』の<br>\u3000達成で捜索完了<c>"""

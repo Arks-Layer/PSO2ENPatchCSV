@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ Appraiser"""
+name01#1,"""鑑定について"""
+whelp_judgment01#0,"""<yellow>[เกี่ยวกับ Appraiser]<c><br><br>ไอเทมที่ยังไม่ได้ทำการประเมิน (<c 00ffff>? Special Weapon<c>) <br>จะสามารถทำการ Appraiser เพื่อพิสูจน์รูปร่างที่แท้จริง<br><br>ขณะที่ทำการ Appraiser จะสามารถเลือก [Elemental ที่ชอบ] <br>และ [Augmentation ที่ชอบ] ได้อย่างละ 1 อัน (ไม่เสียค่าใช้จ่าย)<br><br><br>สามารถตรวจสอบรายละเอียดที่ Online Manual ประกอบได้<br>โดยการคลิกที่ URL ด้านล่างเพื่อเปิดไปยังหน้าเพจดังกล่าว<br><&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
+whelp_judgment01#1,"""<yellow>【鑑定について】<c><br><br>\u3000未鑑定アイテム（<c 00ffff>？スペシャルウェポン<c>）を鑑定して<br>\u3000正体を判明させることができます。<br><br>\u3000鑑定時に、サービスで「好きな属性」と「好きな特殊能力」を<br>\u3000それぞれ1つずつ選択できます。（無料です）<br><br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""

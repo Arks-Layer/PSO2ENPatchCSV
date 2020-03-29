@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ Update Data Drive"""
+name01#1,"""データドライブの更新について"""
+whelp_craft_card_recipe01#0,"""<yellow>[เกี่ยวกับ Data Drive]<c><br><br>เป็นระบบสำหรับสร้าง [Recipe พื้นฐาน] ของ [Ability Data] <br>เพื่อนำไป Install เพิ่มความสามารถให้กับ Unit ที่ต้องการ<br><br>Data Drive จะแบ่งออกเป็น 3 ประเภทตามส่วนของ<br> Unit ได้แก่ [Rear] [Arms] และ [Legs] <br>ซึ่งจะสามารถสร้างหรือเขียนทับลงไปได้ประเภทละ 1 Ability"""
+whelp_craft_card_recipe01#1,"""<yellow>【データドライブについて】<c><br><br>\u3000ユニットにインストールして能力強化する「時限能力データ」の<br>\u3000「元となるレシピ」を作成できるシステムです。<br><br>\u3000データドライブには、ユニットの部位ごとに「リア用」<br>\u3000「アーム用」「レッグ用」の３種類あり、各１つずつ<br>\u3000レシピを作成または上書き保存できます。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_equipment_craft>"""

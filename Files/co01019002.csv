@@ -1,0 +1,6 @@
+Title#0,"""Unrestricted Exploration Test: Lost Sea"""
+Explanation#0,"""นี่เป็นบททดสอบเพื่อขออนุญาตสำรวจ<br>Lost Sea ของดาวเคราะห์ Lilipa<br><br>หากปฏิบัติภารกิจตามระดับความยากที่กำหนดได้สำเร็จ<br>ความสามารถที่แท้จริงจะได้รับการยอมรับและจะสามารถ<br>โจมตีหลอกล่ออย่างอิสระในขอบข่ายที่ระบุ<br><br><yellow>*Clear [Lost Sea Mineral Transport] ภายใน 15 นาที<br>และ [Rare Mineral Extraction] ภายใน 18 นาที <br>* Element ที่จะถูก Drop ลงมาจากศัตรูเผ่าจักรกล<c>"""
+Errand#0,"""Unrestricted Exploration Permit: The Lost Sea"""
+Title#1,"""自由探索許可申請・砂漠"""
+Explanation#1,"""これは、惑星リリーパの<br>『砂漠』における自由探索の許可を<br>申請するための試験である。<br>定められた任務を達成することで<br>実力を認められ、指定範囲内での<br>自由遊撃行動が認められる。<br><yellow>※『貴重物資運搬計画：砂漠』は１５分以内<br>『稀少鉱石発掘任務』は１８分以内に<br>それぞれクリア。<br>※素子は機甲種エネミーがドロップ。<c>"""
+Errand#1,"""自由探索許可証・砂漠"""

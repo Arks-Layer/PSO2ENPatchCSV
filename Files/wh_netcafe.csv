@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ @Cafe Counter"""
+name01#1,"""ネットカフェカウンターについて"""
+whelp_netcafe01#0,"""<yellow>[เกี่ยวกับ @Cafe Counter]<c><br><br>เมื่อท่านเข้าเล่นที่ร้าน Internet ที่เป็นสมาชิกของ @Cafe <br>ท่านจะได้รับสิทธิพิเศษในการเข้าใช้งาน Meseta Shop <br>และ Shop ที่ใช้ Cafe Point ที่ได้จากการเล่นที่ @Cafe<br><br>สามารถตรวจสอบรายละเอียดที่ Online Manual ประกอบได้<br>โดยการคลิกที่ URL ด้านล่างเพื่อเปิดไปยังหน้าเพจดังกล่าว<br><&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
+whelp_netcafe01#1,"""<yellow>【ネットカフェカウンターについて】<c><br><br>\u3000公認ネットカフェから接続していると使用できるメセタショップと<br>\u3000ネットカフェから遊ぶことで得られるカフェポイントを使用する<br>\u3000ショップが利用できます。<br>\u3000<br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""

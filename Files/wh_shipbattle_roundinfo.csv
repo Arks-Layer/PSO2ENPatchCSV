@@ -1,0 +1,4 @@
+name01#0,"""Round Result"""
+name01#1,"""ラウンド情報について"""
+whelp_shipbattle_roundinfo01#0,"""<yellow>[เกี่ยวกับ Round Result]<c><br><br>ผู้เล่นสามารถตรวจสอบภารกิจของ Round รวมถึงของรางวัลและจำนวน [Star<pict sb_star_icon>] ที่ได้รับ"""
+whelp_shipbattle_roundinfo01#1,"""<yellow>【ラウンド情報について】<c><br><br>\u3000各ラウンドにおける「ラウンド目標」や、<br>\u3000そのラウンドでいくつ「スター<pict sb_star_icon>」を獲得すると<br>\u3000報酬アイテムがもらえるかなどの情報を確認できます。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_info_arksshipcompetition>"""

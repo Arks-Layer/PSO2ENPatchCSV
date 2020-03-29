@@ -1,0 +1,6 @@
+name01#0,"""เกี่ยวกับ Mining Base Terminal"""
+name01#1,"""採掘基地端末について"""
+whelp_qu_defense_console01#0,"""<yellow>[เกี่ยวกับ Base Terminal]<c><br><br>ท่านสามารถใช้งานระบบป้องกัน Base ของตนได้<br>โดยการสะสม Crystal มาเป็นพลังงาน<br><br>แต่หาก Base นั้นๆ ถูกทำลาย ก็จะไม่สามารถใช้งานได้อีก"""
+whelp_qu_defense_console02#0,"""<yellow>[เกี่ยวกับ Defense Socket]<c><br><br>ผู้เล่นสามารถติดตั้งอุปกรณ์ต่างๆ เพื่อใช้ในการกำจัดศัตรูได้<br>โดยการสะสม Crystal มาเป็นพลังงาน"""
+whelp_qu_defense_console01#1,"""<yellow>【拠点端末について】<c><br><br>\u3000正結晶を集めることで、拠点を守るための機能を<br>\u3000使用することができます。<br><br>\u3000対応した拠点が破壊されるとアクセスが出来なく<br>\u3000なってしまいます。"""
+whelp_qu_defense_console02#1,"""<yellow>【防衛ソケットについて】<c><br><br>\u3000正結晶を集めることでエネミーを倒すための機能を<br>\u3000使用することができます。<br><br>\u3000あわせて、オンラインマニュアルをご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_quest_basedefense>"""

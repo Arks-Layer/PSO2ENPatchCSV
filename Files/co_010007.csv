@@ -1,0 +1,8 @@
+text100#0,"""Client Order"""
+text101#0,"""Franca  ออก Client Order<br><br>Franca อยู่ทางบริเวณตะวันออกของ Shopping Plaza ในบริเวณ Shop Area"""
+text102#0,"""Girard  ออก Client Order<br><br>Girard อยู่ทางบริเวณตะวันตกของ Shopping Plaza ในบริเวณ Shop Area"""
+text103#0,"""Cressida  ออก Client Order<br><br>Cressida อยู่ทางทิศตะวันออกของทางเดินวงกลมในบริเวณ Shop Area"""
+text100#1,"""『クライアントオーダー』について"""
+text101#1,"""フランカにクライアントオーダーが発生しました。<br><br>フランカはショップエリア・東ショップ広場にいます。"""
+text102#1,"""ジラードにクライアントオーダーが発生しました。<br><br>ジラードはショップエリア・西ショップ広場にいます。"""
+text103#1,"""クレシダにクライアントオーダーが発生しました。<br><br>クレシダはショップエリア・東外周通路にいます。"""

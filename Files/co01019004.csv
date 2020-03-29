@@ -1,0 +1,6 @@
+Title#0,"""Unrestricted Exploration Test: Underworks"""
+Explanation#0,"""นี่เป็นบททดสอบเพื่อขออนุญาตสำรวจ<br>[Underworks] ของดาวเคราะห์ Lilipa<br><br>หากปฏิบัติภารกิจตามระดับความยากที่กำหนดได้สำเร็จ<br>ความสามารถที่แท้จริงจะได้รับการยอมรับและจะสามารถ<br>โจมตีหลอกล่ออย่างอิสระในขอบข่ายที่ระบุ<br><br><yellow>*Clear [Distress Signal] ภายใน18นาที<br>และ[Giant Transforming Automata]ภายใน22นาที<br>* Element ที่จะถูกDrop ลงมาจากเผ่าจักรกลLv.21~<c>"""
+Errand#0,"""Unrestricted Exploration Permit: The Underworks"""
+Title#1,"""自由探索許可申請・地下坑道"""
+Explanation#1,"""これは、惑星リリーパの<br>『地下坑道』における自由探索の許可を<br>申請するための試験である。<br>定められた任務を達成することで<br>実力を認められ、指定範囲内での<br>自由遊撃行動が認められる。<br><yellow>※『救難信号調査』は１８分以内<br>『巨大変形機甲種撃破』は２２分以内に<br>それぞれクリア。<br>※素子は機甲種Lv.21～がドロップ。<c>"""
+Errand#1,"""自由探索許可証・地下坑道"""

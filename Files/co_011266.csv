@@ -1,0 +1,6 @@
+text00#0,"""เกี่ยวกับ [ClientOrder]"""
+text01#0,"""ปรากฏ Client Order Request จาก Hans<br><br>Hans อยู่ที่ GateArea - WestQuestCounter"""
+text02#0,"""ปรากฏ Client Order Request จาก Oza<br><br>Oza อยู่ที่ ShopArea - MonumentPlaza"""
+text00#1,"""『クライアントオーダー』について"""
+text01#1,"""ハンスにクライアントオーダーが発生しました。<br><br>ハンスはゲートエリア・西クエストカウンター前にいます。"""
+text02#1,"""エメラインにクライアントオーダーが発生しました。<br><br>エメラインはショップエリア・モニュメント広場にいます。"""

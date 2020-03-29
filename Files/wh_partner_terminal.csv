@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ Partner Terminal"""
+name01#1,"""パートナー呼び出し端末について"""
+text01#0,"""<yellow>[เกี่ยวกับ Partner Terminal]<c><br><br>เป็น Terminal สำหรับเรียก Partner มาร่วมต่อสู้ <br>ซึ่งจะเป็นการเลือกตัวละครจากรายชื่อ<br><br>เมื่อกดเปลี่ยนแทป จะแสดงรายชื่อ Friend Partner, <br>Support Partner และ Free Partner ที่สามารถมา<br>ร่วมต่อสู้พร้อมกับท่านได้<br><br>สามารถตรวจสอบรายละเอียดที่ Online Manual ประกอบได้<br>โดยการคลิกที่ URL ด้านล่างเพื่อเปิดไปยังหน้าเพจดังกล่าว<br><&URL pso2_players_manual_preparations_party_partner>"""
+text01#1,"""<yellow>【パートナー呼び出し端末について】<c><br><br>\u3000一緒に戦ってくれるパートナーを呼び出す端末です。<br>\u3000リストから呼び出すキャラクターを選択します。<br><br>\u3000タブを切替えることで、フレンドパートナー<br>\u3000サポートパートナー、フリーパートナーのリストも表示され、<br>\u3000こちらも同じように一緒に戦ってくれます。<br><br>\u3000あわせて、オンラインマニュアルをご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_party_partner>"""

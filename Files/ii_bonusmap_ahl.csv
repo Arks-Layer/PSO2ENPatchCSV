@@ -1,0 +1,6 @@
+IncidentName#0,"""กำจัด $(0) """
+TrialBeginMsg#0,"""กำจัด $(0) ทุกตัวที่พบ!"""
+TrialAbstract#0,"""กำจัด $(0) ทุกตัวที่พบ!"""
+IncidentName#1,"""$(0)討伐"""
+TrialBeginMsg#1,"""全ての$(0)を倒せ！"""
+TrialAbstract#1,"""全ての$(0)を倒せ！"""

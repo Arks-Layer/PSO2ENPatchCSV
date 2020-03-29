@@ -1,0 +1,8 @@
+ar_or010800#0,"""No.1<br>ทำ Client order ของ NPC ในลิสต์ข้างล่างนี้ 1 Client order ให้สำเร็จ<br>[Fighter class recommendation] ของ Oza<br>[Should I recommend you as a gunner] ของ Risa<br>[You want to become a Techer?] ของ Marlu<br><yellow>*ต้องมี Lv.25 ขึ่นไปจึงสามารถรับภารกิจได้<c>"""
+ar_or010801#0,"""No.2<br>จงไปเคลียร์ Client order ของ Cofy ต่อไปนี้ <br>อันใหนก็ได้ 1 Client order <br>[Fighter class permission application trial]<br>[Gunner class permission application trial]<br>[Techer class permission application trial]"""
+ar_or010800#1,"""No.1<br>以下のいずれかのクライアントオーダーを達成<br>オーザの「ファイタークラスの推挙」<br>リサの「ガンナーに推薦しましょうかあ？」<br>マールーの「テクタークラスになりたいの？」<br><yellow>※Lv.25～受注可能<c>"""
+ar_or010801#1,"""No.2<br>コフィーのクライアントオーダー<br>「ファイタークラス許可申請試練」<br>「ガンナークラス許可申請試練」<br>「テクタークラス許可申請試練」<br>のいずれかを達成"""
+ar_or010800#2,"""Recommendation to unlock and additional class"""
+ar_or010801#2,"""Additional class permission application trial"""
+ar_or010800#3,"""追加クラス解放の推挙"""
+ar_or010801#3,"""追加クラス許可申請試練"""

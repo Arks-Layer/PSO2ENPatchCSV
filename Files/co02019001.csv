@@ -1,0 +1,6 @@
+Title#0,"""Unrestricted Exploration Test: Abandoned Mine"""
+Explanation#0,"""นี่คือการทดสอบเพื่อขอรับใบอนุญาต<br>เพื่อการสำรวจหา Lilipa ในเขต [Abandoned Mine]<br><br>ระดับของท่านจะถูกตัดสินจากจำนวนงานที่<br>สำเร็จลุล่วงภายในเวลาที่กำหนด<br>อนุญาตให้ใช้ทุกวิธี แม้จะเป็นยุทธวิธีแบบกองโจรก็ตาม<br><yellow>*ทำภารกิจ [Defend the Lagomite Settlement] และ <br>[Destroy the Mobile Fortress Automata]<br> ให้สำเร็จภายใน 30 นาที<br>*Elements หาได้จาก automata<c>"""
+Errand#0,"""Free Exploration Permit - Abandoned Mine"""
+Title#1,"""自由探索許可申請・採掘場跡"""
+Explanation#1,"""これは、惑星リリーパの<br>『採掘場跡』における自由探索の許可を<br>申請するための試験である。<br>定められた任務を達成することで<br>実力を認められ、指定範囲内での<br>自由遊撃行動が認められる。<br><yellow>※『リリーパ族集落防衛』、<br>『移動要塞型機甲種撃破』を<br>それぞれ30分以内にクリア。<br>※素子は機甲種がドロップ。<c>"""
+Errand#1,"""自由探索許可証・採掘場跡"""

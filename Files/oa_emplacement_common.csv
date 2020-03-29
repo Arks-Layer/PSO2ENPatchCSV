@@ -1,0 +1,6 @@
+AttackGuide#0,"""กด <%NormalAttack>เพื่อยิง และ <%Jump> เพื่อกระโดด"""
+ChargeGuide#0,"""กด <%NormalAttack> เพื่อชาร์จ/ปล่อย และ <%Jump> เพื่อลง"""
+ControlBad#0,"""ไม่สามารถใช้ได้หากอยู่ในสถานะ Panic"""
+AttackGuide#1,"""<%NormalAttack>で射撃\u3000<%Jump>で降りる"""
+ChargeGuide#1,"""<%NormalAttack>でチャージ/発射\u3000<%Jump>で降りる"""
+ControlBad#1,"""パニック中は使用不能"""

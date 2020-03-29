@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ Room Terminal"""
+name01#1,"""マイルーム端末について"""
+text01#0,"""<yellow>[เกี่ยวกับ Room Terminal]<c><br><br>ท่านสามารถจัดวาง Room Goods ที่ต้องการในห้องส่วนตัวได้<br>โดยจะสามารถตกแต่งห้องได้ตามใจ ไม่ว่าจะเปลี่ยนฉากหลังหรือตั้งล็อคห้อง<br><br>Room Goods จะสามารถหาได้จาก [My Room Shop] <br>ที่อยู่ใน ARKS Lobby, จาก Client Order ที่กำหนด, <br>หรือจาก Scratch ฯลฯ<br><br>สามารถตรวจสอบรายละเอียดที่ Online Manual ประกอบได้<br>โดยการคลิกที่ URL ด้านล่างเพื่อเปิดไปยังหน้าเพจดังกล่าว<br><&URL pso2_players_manual_communication_myroom_customize>"""
+text01#1,"""<yellow>【マイルーム端末について】<c><br><br>\u3000所持しているルームグッズ（家具）を部屋に配置したり、<br>\u3000部屋の間取りや壁紙変更、ルームロック設定ができます。<br><br>\u3000ルームグッズは、アークス・ロビーに存在する<br>\u3000「マイルームショップ」や、特定のクライアントオーダー、<br>\u3000スクラッチなどで入手できます。<br><br>\u3000あわせて、オンラインマニュアルをご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_communication_myroom_customize>"""

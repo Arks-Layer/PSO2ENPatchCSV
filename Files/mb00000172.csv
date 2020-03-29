@@ -1,0 +1,6 @@
+Title#0,"""ผ่าน Story Quest"""
+TargetName_Errand#0,"""จะปรากฏเมื่อผ่าน Story Quest แล้วเท่านั้น"""
+Explanation#0,"""[เควส]<br> Dragon's Safekeeping<br><br> <yellow>ผ่านเควสโดยอยู่ในระหว่างทำ Matter Board<c>"""
+Title#1,"""ストーリークエストのクリア"""
+TargetName_Errand#1,"""該当のストーリークエストを<br>クリアしてくること。"""
+Explanation#1,"""【クエスト】<br>\u3000龍に託されたもの<br><br>\u3000<yellow>マターの捜索中にクエストを<br>\u3000クリアすることで捜索完了<c>"""

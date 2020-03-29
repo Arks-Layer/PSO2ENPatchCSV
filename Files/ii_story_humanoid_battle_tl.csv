@@ -1,0 +1,6 @@
+IncidentName#0,"""กำจัด $(0)"""
+TrialBeginMsg#0,"""กำจัด $(0) ภายในเวลาที่กำหนด"""
+TrialAbstract#0,"""กำจัด $(0) ภายในเวลาที่กำหนด"""
+IncidentName#1,"""$(0)を倒せ"""
+TrialBeginMsg#1,"""制限時間内に$(0)を倒せ"""
+TrialAbstract#1,"""制限時間内に$(0)を倒せ"""

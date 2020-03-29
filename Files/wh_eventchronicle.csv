@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ Event Chronicle"""
+name01#1,"""イベントクロニクルについて"""
+whelp_eventchronicle01#0,"""<yellow>[เกี่ยวกับ Event Chronicle]<c><br><br> ท่านสามารถกดดู Event ที่ท่านเคยผ่านมาแล้ว<br> จนกระทั่งถึงขณะนี้ได้จาก My Room Terminal"""
+whelp_eventchronicle01#1,"""<yellow>【イベントクロニクルについて】<c><br><br>\u3000マイルーム端末にて、<br>\u3000今までのイベントを見ることができます。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br><&URL pso2_players_manual_communication_myroom_eventchronicle>"""

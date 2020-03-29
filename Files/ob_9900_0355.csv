@@ -1,0 +1,6 @@
+GetBullet#0,"""ได้รับ Turret ammo"""
+GetBulletMiss#0,"""ท่านพก Turret ammo เพิ่มอีกไม่ได้แล้ว"""
+ChargeBullet#0,"""บรรจุ Turret ammo"""
+GetBullet#1,"""銃座用弾薬を確保した"""
+GetBulletMiss#1,"""銃座用弾薬はこれ以上持てません"""
+ChargeBullet#1,"""銃座用弾薬を補給した"""

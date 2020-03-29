@@ -1,0 +1,4 @@
+name01#0,"""เกี่ยวกับ Limited Shop"""
+name01#1,"""限定ショップについて"""
+whelp_shop_simple01#0,"""<yellow>[เกี่ยวกับ Limited Shop]<c><br><br>เป็น Shop ที่มีไอเทมพิเศษที่จะไม่มีขายใน Shop ทั่วไป<br><br>ไอเทมของ Shop นี้จะมี [จำนวนในสต็อก] อยู่<br>ดังนั้นจึงสามารถซื้อได้ในจำนวนที่จำกัด<br>โปรดระวังด้วย<br><br>สามารถตรวจสอบรายละเอียดที่ Online Manual ประกอบได้<br>โดยการคลิกที่ URL ด้านล่างเพื่อเปิดไปยังหน้าเพจดังกล่าว<br> <&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
+whelp_shop_simple01#1,"""<yellow>【限定ショップについて】<c><br><br>\u3000通常のショップでは販売していない、<br>\u3000特別なアイテムを購入できます。<br> <br>\u3000このショップのアイテムには「在庫」があり、<br>\u3000各アイテムをご購入頂ける数の上限が<br>\u3000決まっていますので、ご注意ください。<br><br>\u3000あわせて、オンラインマニュアルもご確認ください。<br>\u3000以下のURLをクリック（決定）すると、ブラウザーで開きます。<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_shoparea>"""
