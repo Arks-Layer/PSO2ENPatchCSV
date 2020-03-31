@@ -403,7 +403,7 @@ MackAssortChoice_Help#0,"""<c f0df60>Choose your route for the next Step. Only t
 MackAssortChoice_WindowTitle#0,"""Next Step"""
 MackAssortChoice_AssortType#0,"""Theme Type"""
 MackAssortChoice_AssortType_Lp#0,"""<pict mack_life>Life Route (On clear: Recover up to $(0) Life)"""
-MackAssortChoice_AssortType_Sp#0,"""<pict mack_point>Point Poute (On clear: Earn up to $(0)pt)"""
+MackAssortChoice_AssortType_Sp#0,"""<pict mack_point>Point Route (On clear: Earn up to $(0)pt)"""
 MackAssortChoice_AssortType_Lp_Value#0,"""(<pict mack_life>+0 - $(0))"""
 MackAssortChoice_AssortType_Sp_Value#0,"""(<pict mack_point>+0 - $(0)pt)"""
 MackAssortChoice_AssortType_Both#0,"""Unified Route"""
