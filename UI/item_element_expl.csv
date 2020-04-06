@@ -1353,7 +1353,7 @@
 198#2,"""-"""
 199#2,"""-"""
 200#2,"""-"""
-201#2,"""Enhances Hero Boost.<br>Increases the rate that<br>Hero Boosts's damage<br>boost increases. No<br>effect if using weapon<br>with \""Heroic Victory\""."""
+201#2,"""Enhances the effect<br>of Hero Boost's<br>damage bonus<br>accumulation rate.<br>Does not work with<br>the \""Heroic Victory\""<br>potential."""
 202#2,"""Bouncer weapon Gear<br>fills while airborne.<br>No effect if using<br>weapon with \""Angelic<br>Guidance\""."""
 203#2,"""Hunter weapon and<br>Katana Gear fills while<br>Guarding. No effect if<br>using weapon with<br>\""Zephyr's Edge\""."""
 204#2,"""Become massive for 60<br>seconds after becoming<br>affected by a status<br>effect."""
