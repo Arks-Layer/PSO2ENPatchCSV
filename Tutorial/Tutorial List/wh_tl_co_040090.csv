@@ -1,4 +1,4 @@
-Title#0,"""About New Type and Old Type Weapons"""
-text01#0,"""There are two kinds of Weapons:<br>\u3000- \""Old Type\"" Weapons<br>\u3000- \""<c 00ffff>New Type (NT)<c>\"" Weapons<br><br>Since Episode 4, a new system of weapons were<br>introduced called <c 00ffff>New Type<c> Weapons or NT Weapons."""
-text02#0,"""For <c 00ffff>New Type Weapons<c>, the \""Item Details\"" tab, an EXP bar will be displayed. They will also sport a blue frame around the weapon icon.<br><br>※Some weapons will also have the suffix \""<c 00ff00>-NT<c>\"" which will also denote that they're a New Type Weapon."""
-text03#0,"""With New Type Weapons, they offer much better stats and performance than the Old Type Weapons.<br><br>Various enemies as well as the \""Collect File,\"" drop these NT<br>Weapons."""
+Title#0,"""About New-Type and Old-Type Weapons"""
+text01#0,"""There are two kinds of weapons:<br>・\""Old-Type\"" weapons<br>・\""<c 00ffff>New-Type (NT)<c>\"" weapons<br><br>In Episode 4, a new system of weapons were introduced called <c 00ffff>New-Type<c> weapons or NT weapons."""
+text02#0,"""For <c 00ffff>New-Type weapons<c>, an EXP bar will be displayed in the \""Item Details\"" tab. They will also sport a blue frame around the weapon icon.<br><br>※Some weapons will also have the suffix \""<c 00ff00>-NT<c>\"" which will also denote that they're a New-Type weapon."""
+text03#0,"""New-Type weapons offer much better stats and performance than equivalent Old-Type weapons.<br><br>Various enemies, as well as the \""Collect File\"" system, drop these NT weapons."""
