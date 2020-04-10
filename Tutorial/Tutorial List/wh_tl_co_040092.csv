@@ -1,5 +1,5 @@
 Title#0,"""About Grinding NT Weapons"""
-text01#0,"""New-Type Weapons can be enhanced by Grinding them at the Item Lab.<br><br>New-Type weapons use other weapons as material, consuming them to gain \""Grind EXP\"".<br><br>When the Grind EXP gauge fills, the weapon's <yellow>Grind Value<c> rises and it becomes stronger.""""""
+text01#0,"""New-Type Weapons can be enhanced by Grinding them at the Item Lab.<br><br>New-Type weapons use other weapons as material, consuming them to gain \""Grind EXP\"".<br><br>When the Grind EXP gauge fills, the weapon's <yellow>Grind Value<c> rises and it becomes stronger."""
 text02#0,"""When upgrading New-Type items, you need the following materials:<br>・Up to 5 other weapons to use as material<br>・Grinders<br>・Meseta"""
 text03#0,"""Some weapons may give bonus Grind EXP when used as material.<br><yellow>・Material Bonus:<c><br>Materials with the same category, rarity and name as the item you're upgrading.<br><yellow>・Reinforcement Bonus<c><br>Materials that have been grinded to +1 or higher"""
 text04#0,"""When you grind a New-Type weapon, the result can be either a Success or a Great Success.<br><br>A Great Success awards the weapon even more Grind EXP than usual.<br><br>※Grinding New-Type weapons cannot fail."""
