@@ -1,6 +1,6 @@
 name01#0,"""Xiera"""
 text01#0,"""Next, I'll explain <red>Double Saber Gear<c>!"""
-text02#0,"""Double Saber Gear consumes your entire Gear Gauge to <red>generate a Kamaitachi<c> which attacks everything around you."""
+text02#0,"""Double Saber Gear consumes your Gear Gauge to <red>generate a Kamaitachi<c> which attacks everything around you."""
 text03#0,"""Try reaching <red>level 1 Gear<c>, then attack with Kamaitachi."""
 text101#0,"""Task 2: <yellow>Generate a Kamaitachi"""
 train_title#0,"""Task 2: <yellow>Generate a Kamaitachi"""
