@@ -4,5 +4,5 @@ text03#0,"""If you wear one for long enough, the EXP it records will allow it to
 text04#0,"""If you have a ring that you've worn for a while, you should show it to a clerk in the Shop Area."""
 text100#0,"""About Strengthening Skill Rings"""
 text101#0,"""There is a limit to how much a Skill Ring can be strengthened.<br><br>When you earn EXP while wearing a ring, the ring itself gains Ring EXP."""
-text102#0,"""When a ring earns enough Ring EXP, its strengthening limit will increase.<br><br>You can have a ring strengthened at the Item Lab in the Shop Area, using gathering materials and meseta.<br><br><yellow>※You do not have to strengthen the ring for it to earn further Ring EXP.<c>"""
+text102#0,"""When a ring earns enough Ring EXP, its strengthening limit will increase.<br><br>You can have a ring strengthened at the Item Lab in the Shop Area, using Gathering materials and meseta.<br><br><yellow>※You do not have to strengthen the ring for it to earn further Ring EXP.<c>"""
 text103#0,"""When strengthening an L ring, you can also select a Ring parameter to raise.<br><br>The parameters you can select to raise vary by the type of ring."""
