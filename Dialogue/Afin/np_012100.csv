@@ -149,7 +149,7 @@ text05#0,"""In the case of defeating enemies and gathering their items, if you h
 text04#1,"""As you progress through the game, your character may get requests on occasion. These are called \""Client Orders\"".<br><br>The nature of the clients requests vary, and may involve things like taking instructions to clear a certain quest or being asked to gather certain items.<br><br>If a character has Client Orders available, a <yellow>blue icon<c> appears above their head."""
 text05#1,"""In the case of defeating enemies and gathering their items, if you have not received a client order to do so, they will not drop their items.<br><br>Make sure to inform the individual once the objective have been achieved. You can receive an expression of gratitude.<br><br>Once you've progressed further in the game, you can try to talk to other characters. You might be able to get new client orders."""
 11_voice_NPC_5003_100#0,"""お、さっそく来てくれたんだ。<br>やっぱり、持つべきは良い相棒だよな。<br>てなわけで、ちょっと話聞いてくれよ。"""
-linewindow001#0,"""アフィンをパートナーとして呼べるようになりました。"""
+linewindow001#0,"""You can now call Afin as a partner."""
 11_voice_NPC_5210_104#17,"""相棒、疲れてないか？<br>シバってヤバい敵についての<br>緊急会議とかで忙しいって聞いたぜ。"""
 ep6_sq00_02#0,"""……まあ、正体もよく分かんねえし<br>強さもとんでもねえ敵だしな。"""
 11_voice_NPC_5210_100#21,"""おれも、相棒を支えられるように<br>方針が決まるまで<br>ちゃんと特訓しとかないとな。"""
