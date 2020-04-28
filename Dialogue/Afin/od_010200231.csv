@@ -3,4 +3,4 @@ text02#0,"""You can also set them in your Subpalette, but it's important to set 
 text03#0,"""If you forget to set them, you won't be able to use them, even if you want to! What a waste, huh?"""
 text04#0,"""What about you? You're not happy just learning them, are you? You want to use Techniques, too, don't you?"""
 text05#0,"""I don't want to be pushy or anything, but why don't you try setting a Tech in your Weapon Palette?"""
-linewindow001#0,"""Received \""Resta Lv.1\"" from Afin."""
+linewindow001#0,"""Received <yellow>Resta Lv.1<c> from Afin."""

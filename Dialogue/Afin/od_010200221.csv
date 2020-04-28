@@ -3,4 +3,4 @@ text02#0,"""But I found out that you have to set them in the weapon palette befo
 text03#0,"""That was totally embarrassing. But whatever. Live and learn, right?"""
 text04#0,"""How about you? You're not just learning skills without setting them, are you?"""
 text05#0,"""Hey, how about we take a look at your weapon palette? All this talk has really got me curious."""
-linewindow001#0,"""Received \""Aiming Shot Lv.1\"" from Afin."""
+linewindow001#0,"""Received <yellow>Aiming Shot Lv.1<c> from Afin."""
