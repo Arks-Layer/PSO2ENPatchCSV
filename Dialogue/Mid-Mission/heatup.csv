@@ -429,7 +429,7 @@ Capture3#4,"""近くに要調査対象の反応があります。<br>周囲の�
 nyau1#5,"""何だか変な反応があります……<br>これ、なんなんでしょうか。<br>一応、警戒をお願いします。"""
 nyau2#5,"""正体不明の反応を感知しました。<br>何の反応か調査しているんですが<br>数値がふわふわしていて不明です。"""
 nyau3#5,"""変な反応が出たり消えたり……<br>なんか不思議な感じです。<br>一応、気をつけてください。"""
-annihilation_rappyemp#5,"""We're detecting a large reading. Nearby ARKS have also reported seeing a mysterious shadow.<br>Please be careful."""
+annihilation_rappyemp#5,"""We're detecting a large reading.<br>Nearby ARKS have also reported<br>seeing a mysterious shadow.<br>Please be careful."""
 DefenceHeli1#0,"""Patrol in flight..."""
 DefenceHeli2#0,"""Patrolling the area..."""
 DefenceHeli3#0,"""Patrolling..."""
