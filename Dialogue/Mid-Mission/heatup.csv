@@ -198,13 +198,13 @@ BossAnnihilationMOarfish2#1,"""Is something lurking nearby...?<br>A strong readi
 BossAnnihilationMOarfish3#1,"""Is something lurking nearby...?<br>A strong reading has been detected.<br>All ARKS, be ready to fight."""
 NagisaAlly1#1,"""Detecting people nearby...<br>They're not ARKS, so who are<br>they? Keep an eye out for them."""
 AsaiAlly1#1,"""Picking up ARKS readings nearby...<br>Looks like they're engaged in<br>battle. Keep an eye out for them."""
-AsaiAlly2#1,"""Looks like there's some ARKS<br>fighting nearby. There's readings<br>all around you. Keep that in mind.
+AsaiAlly2#1,"""Looks like there's some ARKS<br>fighting nearby. There's readings<br>all around you. Keep that in mind."""
 AsaiAlly3#1,"""Picking up some ARKS readings.<br>Looks like there's fighting going<br>on nearby. Watch yourselves."""
 collabo1Ally1#1,"""Picking up ARKS readings nearby...<br>Looks like they're engaged in<br>battle. Keep an eye out for them."""
 collabo1Ally2#1,"""Looks like there's some ARKS<br>fighting nearby. There's readings<br>all around you. Keep that in mind."""
 collabo1Ally3#1,"""Picking up some ARKS readings.<br>Looks like there's fighting going<br>on nearby. Watch yourselves."""
 Sessioncollabo1Ally1#1,"""Two ARKS readings nearby.<br>Looks like they're in a party...<br>But something feels off."""
-DarkHell1#0,"""Confirmed unusual flickering in<br>nearby light sources. The Kuronites<br>are also acting strangely.<br>All ARKS, stay on the alert.
+DarkHell1#0,"""Confirmed unusual flickering in<br>nearby light sources. The Kuronites<br>are also acting strangely.<br>All ARKS, stay on the alert."""
 DarkHell2#0,"""Seems like light sources are being<br>intentionally turned off. We don't<br>know why yet, but there must<br>be some reason behind it.<br>Don't let your guard down."""
 DarkHell3#0,"""The Kuronites are acting strangely...<br>It may be related to the drop in<br>light levels. Be careful, everybody."""
 SessionasaiAlly1#1,"""Two ARKS readings nearby.<br>Looks like they're in a party...<br>But something feels off."""
