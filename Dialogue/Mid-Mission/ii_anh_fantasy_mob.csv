@@ -7,6 +7,6 @@ NpcComOnSuccess#0,"""Confirmed, all hostile readings<br>have disappeared! Return
 NpcComOnFailure#0,"""Unable to maintain the<br>reinforced isolation barrier any<br>longer. Returning to normal<br>output to maintain stability."""
 NpcComOnBeginEnd#0,"""Now transferring energy to maintain<br>the isolation barrier. Make sure to<br>collect it as you defeat the enemies."""
 NpcComOnEnemy#0,"""Hostile readings at $(0)!<br>Please subdue them!"""
-NpcComOnEnemyLast#0,"""Hostile reading at $(0)!<br>This one feels powerful!<br>Please be careful!"""
+NpcComOnEnemyLast#0,"""Hostile readings at $(0)!<br>These ones look powerful!<br>Please be careful!"""
 NpcComOnTimeLeftHalf#0,"""The reinforced isolation<br>barrier is reaching its limit!<br>Collect energy to maintain it!"""
 NpcComOnTimeLeftLess#0,"""The reinforced isoluation barrier<br>is about to reach its limit!<br>Please take immediate action!"""
