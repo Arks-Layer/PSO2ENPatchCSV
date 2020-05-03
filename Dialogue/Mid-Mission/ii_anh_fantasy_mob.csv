@@ -1,6 +1,6 @@
-IncidentName#0,"""Suppress the massive outbreak of enemies!"""
+IncidentName#0,"""Suppress the massive outbreak!"""
 TrialBeginMsg#0,"""Defeat all of the enemies within the time limit!"""
-TrialAbstract#0,"""Suppress the massive outbreak of enemies!"""
+TrialAbstract#0,"""Suppress the massive outbreak!"""
 NpcComOnBegin#0,"""Detecting a lot of hostile readings!<br>Reinforcing the isolation barrier<br>in order to minimise damage!"""
 NpcComOnAfterBegin#0,"""Now transferring energy to maintain<br>the isolation barrier. Make sure to<br>collect it as you defeat the enemies."""
 NpcComOnSuccess#0,"""Confirmed, all hostile readings<br>have disappeared! Returning the<br>isolation barrier to normal output!<br>Thank you for your hard work!"""
