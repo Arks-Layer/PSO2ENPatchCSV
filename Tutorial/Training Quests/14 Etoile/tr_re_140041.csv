@@ -1,0 +1,4 @@
+train_title#0,"""Tarea 1: <yellow>Bloquea un ataque enemigo con Parry<c>"""
+tut_title#0,"""パリィについて"""
+text100#0,"""・Justo antes de que un ataque enemigo te golpee:<br> Usa WA con <%WeaponAction>"""
+text100_3b#0,"""・Justo antes de que un ataque enemigo te golpee:<br> Usa WA con <%MainPaletteC>"""

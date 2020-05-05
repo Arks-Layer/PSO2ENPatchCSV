@@ -53,4 +53,4 @@ Si no sabes Japones, pero aun quieres contribuir, puedes ver los archivos que se
 [Rama en Ingles]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN  
 [Issue]: https://github.com/Arks-Layer/PSO2ENPatchCSV/issues  
 [GitHub Desktop]: https://desktop.github.com
-[PSO2es en Español]: https://github.com/TheBlazter/PSO2es-Translation/
+[PSO2es en Español]: https://github.com/Arks-Layer/PSO2esTranslations/tree/ES

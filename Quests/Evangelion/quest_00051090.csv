@@ -4,7 +4,7 @@ NpcComMsg1#0,"""Ahora comienza la operación para destruir al Ángel.<br>Todos l
 NpcComMsg2#0,"""Una vez que esté en el aire, trabaje con las torretas de soporte para desviar la atención del objetivo del Eva-01."""
 NpcComMsg3#0,"""Esperamos una respuesta poderosa del objetivo, pero debes sobrevivir hasta que el Positron Rifle esté completamente cargado. ¡Buena suerte!"""
 SimpleExplanation#0,"""¡Destruye al Ángel!"""
-Area0S#0,"""アークスシップ"""
+Area0S#0,"""***"""
 Area0L#0,"""ARKS Ship: Cielo del distrito urbano"""
 a1#0,"""Completar cierto pedido de cliente."""
 a2#0,"""Completar cierto pedido de cliente."""
