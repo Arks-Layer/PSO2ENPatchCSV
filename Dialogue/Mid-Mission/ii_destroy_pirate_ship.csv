@@ -1,6 +1,6 @@
 IncidentName#0,"""Destroy the Ship's Power Source!"""
-TrialBeginMsg#0,"""After defeating the enemies, <br>board the ship and destroy the power source!"""
-TrialAbstract#0,"""After defeating the enemies, <br>board the ship and destroy the power source!"""
+TrialBeginMsg#0,"""After defeating the enemies,<br>board the ship and destroy the power source!"""
+TrialAbstract#0,"""After defeating the enemies,<br>board the ship and destroy the power source!"""
 NpcComOnBegin#0,"""Tch, a warship has surfaced. It's gonna be trouble if you just leave it and it bombards you. Deal with it ASAP."""
 NpcComOnCannonBreak#0,"""I'm transporting a catapult to your location. Use it to board the ship and take out its power source."""
 NpcComOnSuccess#0,"""The ship has gone silent. That'll put a stop to the bombardments. Nice work."""
