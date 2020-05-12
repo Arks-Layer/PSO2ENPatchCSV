@@ -5,7 +5,7 @@ NpcComOnBegin#0,"""Attention, all active ARKS members!<br>Quickly join forces an
 NpcComOnSuccess#0,"""/face2 Great work! <br>You worked well together!"""
 NpcComOnFailure#0,"""/face4 Unfortunate, but it can't be helped.<br>We'll pick up the wounded."""
 NpcComOnDownA#0,"""Your coordination is suffering.<br>Remember that you must <br>work together."""
-NpcComOnDownB#0,"""That ARKS can't handle this alone.<br>I recommend you retreat<br>should you fail again."""
+NpcComOnDownB#0,"""That ARKS can't handle this alone. If they fall again, I will recommend they withdraw."""
 NpcComOnDownPB#0,"""$(0) is under too much strain. The next time they are incapacitated, we will forcibly withdraw them."""
 NpcComOnBeginP1#0,"""The support partner belonging to<br>$(0) is being attacked<br>by hostiles! Please assist!"""
 NpcComOnBeginP2#0,"""Eliminate the hostiles in the area and ensure the support partner's safety."""
