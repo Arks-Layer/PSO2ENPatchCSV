@@ -17,7 +17,7 @@ NpcComOnSuccess#2,"""/face2 Mr. Boing looks like he had a lot of<br>Photons! Wer
 NpcComOnFailure#2,"""Doesn't look like that<br>was enough Photons<br>for Mr. Boing...<br>Never mind that,<br>back to your mission."""
 StruckJackBox#2,"""Mr. Boing didn't like that, hurry<br>before he leaves! Attack him quickly!"""
 NpcComOnPreBegin#3,"""An enemy has been detected.<br>Please increase your<br>attention to your surroundings."""
-NpcComOnBegin#3,"""/face2 You've found Mr. Boing. If you<br>give himPhotons by attacking<br>him, good things can happen."""
+NpcComOnBegin#3,"""/face2 You've found Mr. Boing. If you<br>give him Photons by attacking<br>him, good things can happen."""
 NpcComOnSuccess#3,"""/face2 Mr. Boing was given enough<br>Photons. Did you get something?"""
 NpcComOnFailure#3,"""Insufficient Photon<br>exchange for Mr. Boing.<br>Please return to your mission."""
 StruckJackBox#3,"""Increased aggression from<br>Mr. Boing. Attack it promptly<br>before it leaves the vicinity."""
