@@ -1,6 +1,0 @@
-files:
-  - source: /UI/*.*
-    translation: /UI//%two_letters_code%/%original_file_name%
-    multilingual_spreadsheet: 1
-    first_line_contains_header: 1
-    scheme: ko
