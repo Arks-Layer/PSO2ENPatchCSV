@@ -3,5 +3,5 @@ TrialBeginMsg#0,"""Destroy the Funji and save your kidnapped teammate!<br>Fail i
 TrialAbstract#0,"""Rescue the kidnapped player!"""
 NpcComOnSuccess#0,"""/face2 The Funji has been completely <br> destroyed! Thanks, everyone, <br>for your cooperation!"""
 NpcComOnFailure#0,"""/face4 $(0)'s rescue was a failure... If only my calculations had been more precise..."""
-NpcComOnSuccess#1,"""ファンジの破壊を確認しました！<br>引き続き、任務の継続をお願いします！"""
-NpcComOnFailure#1,"""$(0)さんの<br>救出、失敗です……"""
+NpcComOnSuccess#1,"""Funji destruction confirmed!<br>Please continue with your mission!"""
+NpcComOnFailure#1,"""$(0)'s<br>rescue was a failure..."""
