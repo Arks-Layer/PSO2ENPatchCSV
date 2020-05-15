@@ -1,4 +1,4 @@
-IncidentName#0,"""Protect: Energized crystals!"""
+IncidentName#0,"""Protect the energized crystals!"""
 TrialBeginMsg#0,"""Protect the energized crystals for a set time.<br>Fail if two are destroyed."""
 TrialAbstract#0,"""Protect the energized crystals for a set time!"""
 ToastOnSuccess#0,"""PSE frequency boosted by the<br>effect of the crystals!"""

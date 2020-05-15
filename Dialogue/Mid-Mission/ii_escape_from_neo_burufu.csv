@@ -1,4 +1,4 @@
-IncidentName#0,"""Surviving the Gel Wulffs"""
+IncidentName#0,"""Survive the Gel Wulffs"""
 TrialBeginMsg#0,"""Escape the Gel Wulffs!!<br>Fail if struck more than $(0) times."""
 TrialAbstract#0,"""Survive the Gel Wulff attack<br>and escape!"""
 TrialOutbreak#0,"""$(0) has been struck by a Gel Wulff!"""
