@@ -1,2 +1,2 @@
-text00#0,"""『エネミーの出現予測位置』について"""
-text01#0,"""『エネミーの出現予測位置』が<br>レーダーマップ上に黄色のサークルで<br>表示されます。<br><br>ダッシュパネルで高速移動して<br>この出現予測位置にすばやく向かい<br>出現したエネミーを討伐しましょう。<br><br>すべて討伐すると、<br>次の出現予測位置が表示されます。"""
+text00#0,"""Enemy Predicted Positions"""
+text01#0,"""Your enemies' predicted position is displayed as a yellow circle on the radar map.<br><br>Use Dash Panels to quickly reach the predicted position and defeat the enemies that appear there.<br><br>Once you have defeated them all, the next predicted position will be displayed."""
