@@ -5,7 +5,7 @@ ToastOnRestTryCaptureNum#0,"""Capture Device activations remaining\u3000$(0) tim
 ToastOnUselessAccess#0,"""This Capture Device cannot be used."""
 NpcComOnBegin#0,"""A $(0)! Please catch<br>it using the special device!"""
 NpcComOnAfterBegin#0,"""Capture device is at $(0)! Lure<br>it in to be captured somehow!"""
-NpcComOnSuccess#0,"""/face2 You captured<br>the target!<br>Wonderful work!
+NpcComOnSuccess#0,"""/face2 You captured<br>the target!<br>Wonderful work!"""
 NpcComOnFailure#0,"""/face6 I-it's impossible now... Please go<br>back to your regular mission."""
 NpcComOnEnableCapture#0,"""The target is in capture range!<br>Now! Activate the capture device!"""
 NpcComOnCaptureSwitch#0,"""Good timing. Keep the target<br>within the capture device!"""
