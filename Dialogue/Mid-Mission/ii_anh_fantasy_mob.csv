@@ -9,4 +9,4 @@ NpcComOnBeginEnd#0,"""Now transferring energy to maintain<br>the isolation barri
 NpcComOnEnemy#0,"""Hostile readings at $(0)!<br>Please subdue them!"""
 NpcComOnEnemyLast#0,"""Hostile readings at $(0)!<br>These ones look powerful!<br>Please be careful!"""
 NpcComOnTimeLeftHalf#0,"""The reinforced isolation<br>barrier is reaching its limit!<br>Collect energy to maintain it!"""
-NpcComOnTimeLeftLess#0,"""The reinforced isoluation barrier<br>is about to reach its limit!<br>Please take immediate action!"""
+NpcComOnTimeLeftLess#0,"""The reinforced isolation barrier<br>is about to reach its limit!<br>Please take immediate action!"""
