@@ -7,7 +7,7 @@ NpcComOnMge1Hp10#0,"""The target has little stamina<br>remaining. Continue as yo
 NpcComOnMge1Dead#0,"""Confirming subjugation of the target.<br>...No, wait... Picking up a high-energy<br>reading from Magatsu! No way!"""
 NpcComOnMge2Hp50#0,"""The target's stamina has fallen,<br>but don't get complacent."""
 NpcComOnMge2Hp10#0,"""The target has little<br>stamina remaining. Press<br>the assault and finish it off."""
-NpcComOnMge2Dead#0,"""Confirming target defeated.<br>...No, seems like it isn't over<br>yet. Stay vigiliant."""
+NpcComOnMge2Dead#0,"""Confirming target defeated.<br>...No, seems like it isn't over<br>yet. Stay vigilant."""
 NpcComOnMge3Attack#0,"""Detecting a high-energy<br>reading within the target!<br>All units, <red>take evasive action<black>!"""
 NpcComOnMge3Hp50#0,"""Target's strength is falling.<br>All units, keep up the attack!"""
 NpcComOnMge3Hp10#0,"""The target's strength is very low.<br>Let's push through and finish this!"""

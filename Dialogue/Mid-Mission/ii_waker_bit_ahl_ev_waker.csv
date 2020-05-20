@@ -30,7 +30,7 @@ NpcComOnBegin#3,"""Confirming a powerful hostile<br>reading. Observing changes<b
 NpcComOnSuccess#3,"""Anga Fundarge readings are<br>confirmed to have disappeared.<br>This is a great accomplishment."""
 1st_HP_Under_50#3,"""Your attacks are having<br>an effect. Please continue."""
 1st_HP_Under_10#3,"""Its damage level is high.<br>Continue your attack."""
-1st_Dead#3,"""Anga Fundarge's characteristics<Br>are changing. All ARKS, be careful."""
+1st_Dead#3,"""Anga Fundarge's characteristics<br>are changing. All ARKS, be careful."""
 2nd_HP_Under_50#3,"""Anga Fundarge's remaining health<br>is decreasing. Continue your attack."""
 2nd_HP_Under_10#3,"""Anga Fundarge's remaining health<br>is very low. Please subdue it."""
 NpcComOnPreBegin#4,"""...Hm? What's this reading?<br>Don't let your guard down."""
