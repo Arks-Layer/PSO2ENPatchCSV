@@ -1120,6 +1120,9 @@ def setupfont():
 	cmap.remove(0xA0)   	# Space
 	cmap.remove(0xA9)   	# full opacity cube on PSO2
 	cmap.remove(0x3c2)  	# As Space
+	# Hangul Syllables  | https://unicode.org/charts/PDF/UAC00.pdf
+	cmap.update(range(0xAC00,0xD7A3))
+	cmap.remove(0xBDC1)
 	return cmap
 
 
