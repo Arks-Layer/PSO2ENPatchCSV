@@ -10,14 +10,6 @@ PSO2 한국어 저장소에 오신 것을 환영합니다!
 
 ## 도와주기
 ### 시작하기에 앞서/도와주는 방법
-=======
-# PSO2 Korean Patch 
-Welcome to the PSO2 Korean Patch CSV Repository.
-
-This repository is dedicated to translating PSO2 game texts from Japanese to Korean.
-
-## Contributions
-### Getting Started/Helping Out
 
 A full guide on how to get started is [available here].
 
@@ -30,11 +22,6 @@ Any CSV files located in [Files] are still to be translated, while the CSV files
 또한 오타나 문법 등의 검수작업을 도와주시는 것 역시 큰 도움이 됩니다!
 
 ### 공지사항
-=======
-### Don't know Japanese but still want to contribute?
-If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct.
-
-### Notice
 
 * If you want to translate a file that's in the "/Files/" directory then you **MUST** [move the file into another directory](https://github.com/blog/1436-moving-and-renaming-files-on-github) before you translate it. The /Files/ directory **MUST** only contain untranslated files.
 * You can find stuff to translate by using the Meka bot in the #translations-reporting room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
