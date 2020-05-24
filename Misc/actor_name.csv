@@ -4575,7 +4575,7 @@ DrinkSubDropRareUp_PD_Premium#0,"""레어드롭 배율 상승 대 (프리미엄)
 DrinkSubDropRareUp_PD_PremiumEX#0,"""레어드롭 배율 상승 대 + 경험치 상승"""
 DrinkSubDropMesetaUp#0,"""메세타 드롭량 상승"""
 DrinkSubDropMesetaUp_Premium#0,"""메세타 드롭량 상승 (프리미엄)"""
-DrinkSubReduceKnockBackUp#0,"""랜덤 피해 녹백 무효"""
+DrinkSubReduceKnockBackUp#0,"""랜덤 피해 넉백 무효"""
 DrinkSubDamageZeroUp#0,"""랜덤 피해 데미지 무효"""
 DrinkSubItemHealUp#0,"""소비 아이템 회복량 상승"""
 DrinkSubPPUsageDown#0,"""PP 소비량 감소"""
