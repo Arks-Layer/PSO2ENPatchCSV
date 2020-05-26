@@ -4042,7 +4042,7 @@ BasnetMessageSkit#0,"""출진의 준비가 완료되었습니다.<br>30초 후 �
 BasnetRemove#0,"""출진을 보류한다"""
 BasnetStart#0,"""출진합니다."""
 BasnetFailed1#0,"""출진할 수 없었습니다. <br>※룸 내 멤버$(0)명 이상이 필요합니다."""
-BasnetFailed2#0,"""출진할 수 없었습니다. <br>※룸 내 멤버가 로비에 있습니다."" "
+BasnetFailed2#0,"""출진할 수 없었습니다. <br>※룸 내 멤버가 로비에 있습니다."""
 BasnetTitle#0,"""전장을 향한다"""
 RDMultiBossGoto#0,"""전송결계 기동. 30초 이내에 전송장치로 향해주세요."""
 RDBootup#0,"""전송결계를 기동합니까?"""
