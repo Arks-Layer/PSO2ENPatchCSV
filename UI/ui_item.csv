@@ -492,7 +492,7 @@ MenuSendWarehouseAddition05#0,"""확장 창고 5에 맡기기<pict Arcscash>\u30
 MenuSendWarehouseAdditionOTP#0,"""OTP창고에 맡기기\u3000（$(1)/$(0)）"""
 MenuTakeWarehouse#0,"""꺼내기\u3000（$(1)/$(0)）"""
 MenuMoveWarehouse#0,"""맡기기"""
-MenuMoveWarehouseNone#0,"""유효한 창고가 없습니ㅣ다"""
+MenuMoveWarehouseNone#0,"""유효한 창고가 없습니다"""
 MenuMoveWarehouseDefault#0,"""<pict wh_icon>기본 창고에 맡기기\u3000（$(1)/$(0)）"""
 MenuMoveWarehousePremiere#0,"""<pict wh_premium_icon>프리미엄 창고에 맡기기<pict Arcscash>\u3000（$(1)/$(0)）"""
 MenuMoveWarehouseAddition01#0,"""<pict wh_extend1_icon>확장 창고 1에 맡기기<pict StarGem>\u3000（$(1)/$(0)）"""
