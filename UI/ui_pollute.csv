@@ -189,7 +189,7 @@ plt_DH4Ma_SnatchStep#1,"""Deals striking damage with Step while<br>opening a win
 plt_DH4Ma_Drain#1,"""Restores a portion of damage dealt by<br>normal attacks and Step Attacks in<br>walking form as HP."""
 plt_DH4Ma_AttackCountUp#1,"""Grants up to 2 levels of damage boost based<br>on the number of times you attack enemies."""
 plt_DH4Ma_KillingHeal#1,"""Recovers HP and PP when enemies<br>die within a certain distance."""
-plt_DH4Ma_PA3Advance#1,"""Increases damage of Exciting Go-Kart's<br>Rush Action."""
+plt_DH4Ma_PA3Advance#1,"""Increases damage of Thrilled Go-Kart's<br>Rush Action."""
 message1#4,"""テストデータ"""
 SkillList_Title#0,"""Dark Blast Skills"""
 CaptionSkillName#0,"""Skill Name"""
