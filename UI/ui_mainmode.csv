@@ -5723,7 +5723,7 @@ Result_F3_ToDishWarehouse#0,"""$(0)×03 만큼 낚았습니다.<br>아이템을 
 Result_F4_ToDishWarehouse#0,"""$(0)×$(1) 만큼 낚았습니다.<br>아이템을 소재창고로 보냈습니다.<br><br>사이즈 :  $(2),  $(3),  $(4)…"""
 SizeDot#0,"""."""
 SizePunctuation#0,"""、"""
-First_Combo#0,"""<c 60ccf0>콤보 카운트 개시!<c><br>채집이나 낚시를 $(0)콤보로 하면, 피버 확정!<br>콤보 종료 종료시 <green>경험치<c> 습득!"""
+First_Combo#0,"""<c 60ccf0>콤보 카운트 시작!<c><br>채집이나 낚시를 $(0)콤보로 하면, 피버 확정!<br>콤보 종료 종료시 <green>경험치<c> 습득!"""
 First_Fever#0,"""<c f060ae>피버 개시!<c><br>일정 시간, 채집과 낚시의<br><yellow>획득수 & 레어율 업!<c>"""
 First_Point_End#0,"""<c 78f060>싹쓸이 보너스!<c><br>이 스폿을 전부 게더링하였습니다 !<br>콤보 수에 보너스<yellow>＋$(0)<c>!"""
 Action_F_Toast#0,"""서클이 <c ee8888>빨갛게 되면<%Access>!"""
