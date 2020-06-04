@@ -2801,7 +2801,7 @@ VillainStep#1,"""부드러운 움직임으로 무적상태로 일정거리를 �
 VillainStepAttack#1,"""스텝 중 공격 액션이 가능해진다."""
 VillainNextJump#1,"""2단 점프가 가능해진다."""
 VillainFlipStep#1,"""フリップステップ"""
-PrimalTime#1,"""최대 기어의 절반을 소비해 효과시간 중 스텝 무적시간이 증가, 소모PP가 감소.사용시 무적시간이 발생.습득 시 팬텀 기어도 습득. <yellow>메인 클래스 전용"""
+PrimalTime#1,"""최대 기어의 절반을 소비해 효과시간 중 스텝 무적시간 증가, 소모PP 감소.사용시 무적시간 발생. 팬텀 기어를 습득. <yellow>메인 클래스 전용"""
 AnotherTime#1,"""アナザータイム"""
 BrankingTime#1,"""ブランキングタイム"""
 VillainTimeFinish#1,"""팬텀 타임 중 한번 더 스킬을 사용하면 팬텀 타임 피니시를 발동할 수 있다. <yellow>메인 클래스 전용"""
