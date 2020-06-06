@@ -1,6 +1,6 @@
 IncidentName#0,"""포선화 소탕 작전"""
-TrialBeginMsg#0,"""砲仙花を一掃しろ!"""
-TrialAbstract#0,"""砲仙花を一掃しろ!"""
+TrialBeginMsg#0,"""砲仙花を一掃しろ！"""
+TrialAbstract#0,"""砲仙花を一掃しろ！"""
 ToastOnHalfFinish#0,"""ノルマ達成まで残り半分"""
 ToastOnLast#0,"""ノルマ達成まであと１つ"""
 NpcComOnBegin#0,"""砲仙花の群生地帯に入ったようだ。<br>こう数が多いと、調査の邪魔になる。<br>見つけ次第排除せよ。"""

@@ -1,5 +1,5 @@
-IncidentName#0,"""$(0) 토벌하기!"""
-TrialBeginMsg#0,"""$(0)を討伐せよ!"""
+IncidentName#0,"""$(0) 토벌하기！"""
+TrialBeginMsg#0,"""$(0)を討伐せよ！"""
 TrialAbstract#0,"""$(0)を討伐する"""
 NpcComOnPreBegin#0,"""$(0)の撤退を確認<br>待て、この反応は……<br>各員、警戒を怠るな"""
 NpcComOnBegin#0,"""$(0)の再出現を確認<br>構わん、奴を討伐しろ。"""

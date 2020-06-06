@@ -1,5 +1,5 @@
-IncidentName#0,"""$(0) 격퇴하기!"""
-TrialBeginMsg#0,"""$(0)を倒せ!"""
+IncidentName#0,"""$(0) 격퇴하기！"""
+TrialBeginMsg#0,"""$(0)を倒せ！"""
 TrialAbstract#0,"""$(0)撃退"""
 NpcComOnBegin#0,"""緊急連絡だ<br>$(0)が喧騒で出現したようだ<br>調査の障害となる、迎撃しろ。"""
 NpcComOnBegin2#0,"""付近にある「ｘｘｘ」を有効利用しろ<br>あの巨体といえど口を狙えば<br>有効なはずだ"""
