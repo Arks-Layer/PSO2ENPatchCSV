@@ -3258,7 +3258,7 @@ EP6MenuItemHelp_Fashion#0,"""<c f0df60>서브 메뉴 「패션 편집」을 엽�
 EP6MenuItemHelp_CreateData#0,"""<c f0df60>서브 메뉴 「크리에이트 데이터」를 엽니다.<c>"""
 EP6MenuItemHelp_Testing#0,"""<c f0df60>서브 메뉴 「각종 테스트」를 엽니다.<c>"""
 EP6MenuItemInputGuide_Head#0,"""얼굴을 편집합니다."""
-EP6MenuItemInputGuide_Body#0,"""체형을 편집합니다."
+EP6MenuItemInputGuide_Body#0,"""체형을 편집합니다."""
 EP6MenuItemInputGuide_Fashion#0,"""패션을 편집합니다."""
 EP6MenuItemInputGuide_CreateData#0,"""크리에이트 데이터를 저장하고 불러옵니다."""
 EP6MenuItemInputGuide_Testing#0,"""각종 테스트를 실행합니다."""
