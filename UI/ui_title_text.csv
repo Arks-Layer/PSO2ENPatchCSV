@@ -25,7 +25,7 @@ Title_IdSelect#1,"""<c f0df60>게임을 시작하려면 [게임 스타트]를, �
 Title_IdSelect_v#1,"""<c f0df60>게임 시작은 [게임 스타트]에서 “PlayStation Network”에 서명할 필요가 있습니다.<c>"""
 Title_Login#1,"""<c f0df60>쉽 이름을 선택해 주세요. PC판, PlayStation®Vita판, PlayStation®4판, Nintendo Switch™에서 동일한 SEGA ID를 사용할 수 있습니다.<c>"""
 Title_StartMenuSelect#1,"""<c f0df60>항목을 선택해 주세요.<c>"""
-Title_CharacterSelect#1,"""<c f0df60>플레이할 캐릭터를 선택하거나,「캐릭터 새로 만들기」를 선택해주세요.<c>"""
+Title_CharacterSelect#1,"""<c f0df60>플레이할 캐릭터를 선택하거나, 「캐릭터 새로 만들기」를 선택해주세요.<c>"""
 Title_CharacterMake#1,"""<c f0df60>항목을 선택해 주세요.<c>"""
 Title_BenchmarkMenu#1,"""<c f0df60>항목을 선택해 주세요.<c>"""
 Connecting#0,"""<c f0df60>잠시만 기다려 주세요.<c>"""
