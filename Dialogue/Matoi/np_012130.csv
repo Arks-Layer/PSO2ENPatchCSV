@@ -163,3 +163,6 @@ ep6_sq03_02_01_03#0,"""...I'm sorry if I made you worry. You got hurt too, so ma
 11_voice_NPC_5213_100#21,"""Oh, <%me>.<br>Thank you for joining the fight on Earth!"""
 ep6_sq04_01_02#0,"""The people of Earth are holding out for now, but we have to find some way to break through to them."""
 ep6_sq04_01_03#0,"""Tell me what I can do to help. I'll even go through a medical checkup, if that's what you want!"""
+ep6_sq05_1#0,"""ハリエットさん……<br>結界を維持するために<br>向こうの世界に残ったんだね。"""
+11_voice_NPC_5213_108#3,"""ヴァルナさんとの顛末を聞くと<br>寂しいような、切ないような<br>気持ちになるけど……"""
+ep6_sq05_3#0,"""彼女の覚悟を無駄にしないためにも<br>わたしたちにしかできないことを<br>頑張らなきゃ、ね！"""
