@@ -291,7 +291,7 @@ MenuGuide#5,"""<c f0df60>Please select an item. You will also need Meseta and a 
 NotingSetItem#1,"""You haven't set a target item."""
 SuccessMessage#2,"""Item obtained."""
 FailedMessage#2,"""Failed to obtain item.<br>Please try again later."""
-FailedMessage2#2,"""Items couold not be obtained because<br>your item pack is full, or you already<br>have the maximum number of one of<br>the items you are trying to put in it."""
+FailedMessage2#2,"""Items could not be obtained because<br>your item pack is full, or you already<br>have the maximum number of one of<br>the items you are trying to put in it."""
 FailedMessage3#2,"""この商品の入手には<br><yellow>「プレミアムセット」<c>が必要です。"""
 NotingTradeItem#1,"""You do not have<br>the required items or Meseta."""
 NotingTradeItem2#0,"""Insufficient items."""
