@@ -1123,7 +1123,7 @@ def setupfont():
 	# Hangul Syllables  | https://unicode.org/charts/PDF/UAC00.pdf
 	cmap.update(range(0xAC00,0xD7A3))
 	# Hangul Jamo  | https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block)
-	cmap.update(range(0x1100,0x11FF))
+	cmap.update(range(0x3130,0x318F))
 	cmap.remove(0xBDC1)
 	return cmap
 
