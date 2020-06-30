@@ -1,6 +1,6 @@
 Name#0,"""Prueba de reflejos"""
 MikiriStart#0,"""/toge ¡Pulsa ahora!"""
-MikiriSuccessHiscore#0,"""Me has vencido...<br>¡Has registrado un nuevo record!<br>Dificultad: $(0)<br>Tu tiempo es de: $(2).$(1) segundos"""
+MikiriSuccessHiscore#0,"""Me has vencido...<br>¡Has registrado un nuevo record!<br>En $(0)<br>Tu record fue de: $(2).$(1) segundos"""
 MikiriSuccess#0,"""He perdido...<br>Dificultad: $(0)<br>Tu tiempo: $(2).$(1) segundos"""
 MikiriFailed#0,"""Sorprendentemente... ¡Ja, eres demasiado lento!<br>Dificultad: $(0)<br>Mi reacción es de: $(2).$(1) segundos"""
 MikiriBreakaway#0,"""/moya オ手ツキダヨ。<br>『今ダ押セ！』ガ出テカラ<br>押シテネ！"""
