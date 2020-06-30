@@ -8,5 +8,5 @@ NpcComOnPinch#0,"""リリーパ族に敵が近づいています！<br>助けて
 NpcComOnWalk1#0,"""/face2 かわいいですねぇ……<br>あっ、い、いえ、なんでもないです！"""
 NpcComOnWalk2#0,"""うーん……あまりこの惑星向きの<br>体型ではないですよねぇ……<br>この子たちの生態、不思議です。"""
 NpcComOnWalk3#0,"""/face2 ふかふかしてそうですね……<br>あっ、い、いえ、なんでもないです！"""
-NpcComOnSuccess#0,"""/face2 仲間と合流できたようですね。<br>お疲れ様でした。"""
+NpcComOnSuccess#0,"""/face2 仲間と合流できたようですね。<br>수고하셨습니다."""
 NpcComOnFailure#0,"""/face4 あっ……逃げちゃいました。<br>残念ですが、ここまでですね。"""

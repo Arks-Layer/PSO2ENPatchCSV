@@ -11,7 +11,7 @@ NpcComOnMge2Dead#0,"""目標、撃破を確認。<br>……ですが、まだ続
 NpcComOnMge3Attack#0,"""目標の内部に高エネルギー反応を<br>確認しました！\u3000各機、<red>回避<black>を！"""
 NpcComOnMge3Hp50#0,"""目標の体力低下。<br>各機、攻撃の継続を！"""
 NpcComOnMge3Hp10#0,"""目標の体力はあとわずか。<br>これで最後、一気に仕留めて<br>終わりにしましょう！"""
-NpcComOnSuccess#0,"""……『禍津』の消滅を確認しました。<br>これで、任務完了です。<br>本当に、お疲れ様でした。"""
+NpcComOnSuccess#0,"""……『禍津』の消滅を確認しました。<br>これで、任務完了です。<br>本当に、수고하셨습니다."""
 NpcComOnBegin#1,"""＊"""
 NpcComOnMge1Hp50#1,"""＊"""
 NpcComOnMge1Hp10#1,"""＊"""
