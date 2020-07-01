@@ -1057,7 +1057,7 @@
 413#0,"""Enables and boosts PP<br>regeneration by 300%<br>while Guarding."""
 414#0,"""-"""
 415#0,"""Boosts normal attack<br>damage by 13%."""
-416#0,"""Halves your critical hit<br>rate, but boosts critical<br>hit damage by 6%."""
+416#0,"""Lowers crit rate by 50%,<br>but boosts critical<br>hit damage by 6%."""
 417#0,"""Boosts damage by 4%<br>when an equipped<br>Guard-type ring or the<br>equipped weapon's<br>attribute matches the<br>enemy's weakness<br>attribute."""
 418#0,"""Creates a barrier that<br>reduces damage by<br>60% every 45 seconds."""
 419#0,"""-"""
