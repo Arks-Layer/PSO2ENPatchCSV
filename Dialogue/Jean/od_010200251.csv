@@ -1,7 +1,7 @@
 11_voice_NPC_5021_102#0,"""ARKS members these days! So many of them neglect to upgrade their weapons and armor. We shouldn't let them slack off like that, if you ask me."""
 text02#0,"""Going into battle without upgrading the weapons you entrust your life to... Well, that's just foolish."""
 text03#0,"""What about you? Maybe you ought to go do some upgrades, while we're on the subject."""
-text04#0,"""Upgrade what? Your weapons and armor! Haven't you been listening? You'd best pay attention. Now go use your grinder at the Item Lab."""
+text04#0,"""Upgrade what? Your weapons and armor! Haven't you been listening? You'd best pay attention. Now go use your Grinder at the Item Lab."""
 text05#0,"""Well, what are you waiting for? It's not rocket science. Now go put my mind at ease by making some upgrades, all right?"""
 text100#0,"""Grinding NT Weapons"""
 text101#0,"""New-Type Weapons can be enhanced by Grinding them at the Item Lab.<br><br>New-Type weapons use other weapons as material, consuming them to gain \""Grind EXP\"".<br><br>When the Grind EXP gauge fills, the weapon's <yellow>Grind Value<c> rises and it becomes stronger."""

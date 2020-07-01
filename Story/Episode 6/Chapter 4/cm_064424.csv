@@ -1,0 +1,8 @@
+skit01#0,"""Whaa! This enemy is huge!"""
+skit02#0,"""Kohri, don't worry! Even in this dire situation, we'll guard this place together!"""
+name01#0,"""Kohri"""
+name02#0,"""Hitsugi"""
+name01#1,"""Xiera"""
+text01#0,"""通信"""
+skit01#1,"""/ci1 2 Whaa! This enemy is huge!"""
+skit02#1,"""/ci1 2 Kohri, don't worry! Even in this dire situation, we'll do this together!"""
