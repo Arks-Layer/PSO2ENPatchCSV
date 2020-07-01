@@ -1,5 +1,5 @@
 IncidentName#0,"""$(0) 토벌하기!"""
-TrialBeginMsg#0,"""$(0) 토벌하기"!""
+TrialBeginMsg#0,"""$(0) 토벌하기!"""
 TrialAbstract#0,"""식신을 배제하며<br>$(0) 토벌이 목표!"""
 NpcComOnBegin#0,"""강력한 적성 반응 확인.<br>광량이 한 곳에 수축하고 있다.<br>시야가 좁아진다. 조심해라."""
 NpcComOnSuccess#0,"""적성 반응 소실.<br>모두의 노력에 감사한다."""
