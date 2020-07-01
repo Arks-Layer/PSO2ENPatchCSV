@@ -1196,7 +1196,7 @@
 41#5,"""-"""
 42#5,"""-"""
 43#5,"""You and your party<br>recover HP and PP<br>when an enemy dies<br>within range."""
-44#5,"""Boosts damage by 3%<br>and grants a 40% chance<br>to inflict Bind against<br>enemies inflicted with a<br>status effect."""
+44#5,"""Boosts damage by 3%<br>against enemies inflicted<br>with a status effect &<br>grants a 40% chance to<br>inflict Bind."""
 45#5,"""While Petal, Ocean,<br>Leaf, Moon, Snow or<br>Shadow Flash is active:<br>Boosts damage by 5%."""
 46#5,"""While Petal, Ocean,<br>Leaf, Moon, Snow or<br>Shadow Flash is active:<br>Recovers 3% of your<br>HP every second."""
 47#5,"""While Green Leaf Flash,<br>Yellow Moon Flash or<br>Black Shadow Flash is<br>active:<br>Boosts damage by up<br>to 7% over time."""
