@@ -1752,7 +1752,7 @@ SkillRingErrorMes1#0,"""This item has been updated to +11 or above.<br>Really co
 SkillRingErrorMes2#0,"""Cannot select because the rink skill level<br>is the same or lower than the current one."""
 Explanation3#3,"""<c f0df60>Unit skill addition final confirmation.<c>"""
 ConfirmationTitle#0,"""Unit Skill Addition"""
-ConfirmationMes#0,"""Unit skill addition will begin.<br>Continue?<br><br>※The selected item will become <c ff4f3f>non-tradable and cannot be listed on your My Shop<c>, and its skill will be added to the unit.<br>※A ring's parameter boosts will not be added."""
+ConfirmationMes#0,"""Unit skill addition will begin.<br>Continue?<br><br>※The selected item will become <c ff4f3f>non-tradable and cannot be listed on your My Shop<c>, and its skill will be added to the unit.<br>※Ring's parameter boosts will not be added."""
 ContentTitle1#0,"""Unit Skill Addition"""
 ContentTitle2#0,"""Required Item"""
 ContentTitle3#0,"""Ring Skill Addition"""
