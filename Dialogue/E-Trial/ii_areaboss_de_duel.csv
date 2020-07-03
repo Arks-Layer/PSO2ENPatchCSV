@@ -1,5 +1,5 @@
 IncidentName#0,"""지구를 지켜라！"""
-TrialBeginMsg#0,"""制限時間内に$(0)を撃退し、地球を守れ！"""
+TrialBeginMsg#0,"""제한 시간 안에 $(0)を撃退し、地球を守れ！"""
 TrialAbstract#0,"""地球を守れ！"""
 LineMsg_Time_60#0,"""地球破壊まで\u3000あと僅か！"""
 LineMsg_Time_120#0,"""地球破壊まで\u3000２分"""
