@@ -1,3 +1,3 @@
 IncidentName#0,"""$(0) 격파"""
-TrialBeginMsg#0,"""$(0)を撃破せよ！"""
-TrialAbstract#0,"""$(0)を撃破せよ！"""
+TrialBeginMsg#0,"""적 $(0) 격파가 목표!"""
+TrialAbstract#0,"""적 $(0) 격파가 목표!"""
