@@ -10,4 +10,4 @@ NpcComOnFailure#0,"""/face6 この数は手に負えんか……<br>仕方ない
 NpcComOnAccess#0,"""その調子だ。<br>周囲の砲仙花の排除を続けろ。"""
 NpcComOnHit#0,"""「その調子だ。周囲の砲仙花の一掃を頼む」"""
 NpcComOnPreSuccess#0,"""よし、これだけ排除すれば十分だ。<br>残っている砲仙花の扱いは任せる。"""
-NpcComOnPreFinish#0,"""そろそろ制限時間が終わる。<br>早く砲仙花を排除しろ。"""
+NpcComOnPreFinish#0,"""そろそろ제한 시간 が終わる。<br>早く砲仙花を排除しろ。"""
