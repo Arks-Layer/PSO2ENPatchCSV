@@ -1,6 +1,6 @@
 IncidentName#0,"""$(0) 토벌"""
 TrialBeginMsg#0,"""$(0)を倒せ！"""
-TrialAbstract#0,"""$(0)を討伐せよ！"""
+TrialAbstract#0,"""$(0) 토벌하기!"""
 NpcComOnBegin#0,"""ダークファルス・ペルソナの姿を確認！<br>圧倒的な悪意と敵性反応です……！<br>必ず、この場で撃破してください。"""
 NpcComOnSuccess#0,"""目標の反応消滅を確認しました。<br>撃破、成功です！"""
 NpcComOnSpCharge#0,"""目標のエネルギー反応、急速に増加！<br>注意してください！"""

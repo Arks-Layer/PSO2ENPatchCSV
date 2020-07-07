@@ -1,5 +1,5 @@
 IncidentName#0,"""$(0) 토벌"""
-TrialBeginMsg#0,"""$(0)を討伐せよ！"""
+TrialBeginMsg#0,"""$(0) 토벌하기!"""
 TrialAbstract#0,"""$(0)の討伐"""
 NpcComOnBegin#0,"""開始"""
 NpcComOnSuccess#0,"""成功"""

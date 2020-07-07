@@ -1,4 +1,4 @@
-IncidentName#0,"""희소 광물을 회수하라！"""
+IncidentName#0,"""희소 광물을 회수하라!"""
 TrialBeginMsg#0,"""稀少鉱物を回収せよ！"""
 TrialAbstract#0,"""点在する稀少鉱物を回収せよ！"""
 ToastPickup#0,"""$(0)個目の$(1)を拾いました。"""

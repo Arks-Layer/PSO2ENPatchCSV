@@ -26,5 +26,5 @@ NpcComOnFailure#2,"""/face6 ……うう、集落、全壊しちゃいました�
 NpcComOnArrive#2,"""リリーパ族の集落はそのあたりです！<br>周辺の敵を撃退しつつ<br>集落を守ってあげてくださいっ！"""
 NpcComOnBroken1#2,"""/face4 ああっ、集落の一つが<br>壊されちゃいました！<br>あと二つ、守ってあげて下さいっ！"""
 NpcComOnBroken2#2,"""/face4 集落、残り一つですっ！<br>なんとか、なんとか<br>守ってあげてくださいーっ！"""
-NpcComOnTimeLimit1#2,"""/face2 敵の勢いが下がっていますよっ！<br>その調子です！\u3000そのままそのまま！"""
-NpcComOnTimeLimit2#2,"""/face2 すごいです！\u3000敵を押し返してます！<br>あと少し、あと少しですよー！"""
+NpcComOnTimeLimit1#2,"""/face2 敵の勢いが下がっていますよっ！<br>その調子です！ そのままそのまま！"""
+NpcComOnTimeLimit2#2,"""/face2 すごいです！ 敵を押し返してます！<br>あと少し、あと少しですよー！"""

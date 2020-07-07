@@ -1,5 +1,5 @@
 IncidentName#0,"""$(0) 토벌하기!"""
 TrialBeginMsg#0,"""$(0) 토벌하기!"""
 TrialAbstract#0,"""$(0) 토벌하기!"""
-NpcComOnBegin#0,"""적의 교전지역에 침입한 모양입니다.<br>신속히 적을 격팍하고 영역에서<br>탈출을 시도하세요."""
+NpcComOnBegin#0,"""적의 교전지역에 침입한 모양입니다.<br>신속히 적을 격파하고 영역에서<br>탈출을 시도하세요."""
 NpcComOnSuccess#0,"""적성 반응의 소실을 확인.<br>여러분의 노력에 감사드립니다."""

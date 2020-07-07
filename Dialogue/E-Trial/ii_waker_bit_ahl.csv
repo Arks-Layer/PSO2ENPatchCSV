@@ -27,7 +27,7 @@ NpcComOnRemainTimeNotice#3,"""제한 시간 、残りわずか。<br>早急に�
 NpcComOnLastOne#3,"""ファンダージ・ビット、残存１。<br>攻撃を継続してください。"""
 NpcComOnPreBegin#4,"""新たな適性反応を感知しました！<br>気をつけてください！"""
 NpcComOnBegin#4,"""ファンダージ・ビットの出現を確認！<br>周辺のエネミーへ影響が出ます！<br>急いで破壊してください！"""
-NpcComOnSuccess#4,"""ファンダージ・ビットの破壊を確認！<br>お疲れさまでした！"""
+NpcComOnSuccess#4,"""ファンダージ・ビットの破壊を確認！<br>수고하셨습니다!"""
 NpcComOnFailure#4,"""ファンダージ・ビットの反応消失！<br>……逃げてしまったようです。<br>通常任務に戻りましょう。"""
 NpcComOnRemainTimeNotice#4,"""時間がありません！<br>急いで破壊してください！"""
 NpcComOnLastOne#4,"""ファンダージ・ビットの<br>反応は残り１つです！<br>焦らず対応してください！"""

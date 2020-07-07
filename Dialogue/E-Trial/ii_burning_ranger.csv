@@ -31,6 +31,6 @@ NotifyMethod#2,"""要救助者の皆さんを安全に転送<br>するために�
 FirstTrans#2,"""/face2 座標の確認、完了です。<br>安全に転送できました。<br>その調子ですよー！"""
 RescueeFound#2,"""炎に包まれたままだと<br>転送にもリスクが伴いますー！<br>炎を消して助けてあげてください！"""
 GeneratorAdd#2,"""わわっ！<br>新たな要救助者の反応ですよ！<br>全部助けてあげてください！"""
-TimeLimitNear#2,"""急いで！\u3000急いで下さいー！"""
-TimeLimitHurry#2,"""/face4 もう限界です！<br>はやく！\u3000はやく！"""
+TimeLimitNear#2,"""急いで！ 急いで下さいー！"""
+TimeLimitHurry#2,"""/face4 もう限界です！<br>はやく！ はやく！"""
 RescueMethod#2,"""/face2 炎が消えました！<br>要救助者にアクセスして<br>正確な座標を送ってくださいー。"""

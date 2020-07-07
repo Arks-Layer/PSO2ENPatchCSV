@@ -1,4 +1,4 @@
-IncidentName#0,"""$(0) 격퇴하기！"""
+IncidentName#0,"""$(0) 격퇴하기!"""
 TrialBeginMsg#0,"""$(0)を倒せ！"""
 TrialAbstract#0,"""$(0)撃退"""
 NpcComOnBegin#0,"""緊急連絡だ<br>$(0)が喧騒で出現したようだ<br>調査の障害となる、迎撃しろ。"""
