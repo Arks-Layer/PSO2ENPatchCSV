@@ -6,4 +6,4 @@ NpcComOnSuccess#0,"""/face2 あー、これはもしかして……<br>な、な
 NpcComOnFailure#0,"""み、みなさーん……<br>大丈夫ですかー？"""
 HP_Under_50#0,"""/face2 $(0)が<br>だんだん弱ってきましたよ！"""
 HP_Under_10#0,"""/face2 お、あと少しで$(0)を<br>倒せそうですよ！"""
-NpcComLastEnemy#0,"""/face2 残り一体です！"""
+NpcComLastEnemy#0,"""/face2 남은 적 이제 하나!"""

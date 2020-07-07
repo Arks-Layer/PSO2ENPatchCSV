@@ -8,5 +8,5 @@ NpcComOnSpBegin#0,"""この反応は……強烈な攻撃が来ます！<br>警�
 NpcComOnSpGuardSuccess#0,"""目標の体勢が崩れました！<br>今がチャンスです。<br>一気に畳みかけましょう！"""
 NpcComOnSpGuardDraw#0,"""ご無事ですか！？<br>目標、健在です。<br>急いで態勢を立て直してください！"""
 NpcComOnSpGuardFailure#0,"""……大丈夫ですかっ？<br>気を引き締めていきましょう！"""
-NpcComOnDamage1#0,"""目標の残存体力、低下！"""
+NpcComOnDamage1#0,"""目標の 남은 체력 저하!"""
 NpcComOnDamage2#0,"""目標残存体力、さらに低下！<br>あと少しです！"""
