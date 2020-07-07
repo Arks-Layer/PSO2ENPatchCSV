@@ -1,4 +1,4 @@
-IncidentName#0,"""달걀 모양의 물질을 회수하라！"""
+IncidentName#0,"""달걀 모양의 물질을 회수하라!"""
 TrialBeginMsg#0,"""卵型の物質を回収せよ！"""
 TrialAbstract#0,"""隠された卵型の物質を回収せよ！"""
 ToastPickup#0,"""$(0)個目の$(1)を拾いました。"""

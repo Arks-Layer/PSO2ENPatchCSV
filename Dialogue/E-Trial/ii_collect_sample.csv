@@ -1,4 +1,4 @@
-IncidentName#0,"""많은 샘플을 채굴하라！"""
+IncidentName#0,"""많은 샘플을 채굴하라!"""
 TrialBeginMsg#0,"""採掘機を用い、一定時間안에 <br>一定数のサンプルを採掘せよ！"""
 TrialAbstract#0,"""採掘機を用い、一定時間안에 <br>一定数のサンプルを採掘せよ！"""
 ToastOnHalfFinish#0,"""ノルマ達成まで残り半分。"""

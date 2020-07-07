@@ -1,4 +1,4 @@
-IncidentName#0,"""더 많은 적을 격파하라！"""
+IncidentName#0,"""더 많은 적을 격파하라!"""
 TrialBeginMsg#0,"""제한 시간 안에 、より多くの敵を撃破せよ！"""
 TrialAbstract#0,"""제한 시간 안에 、より多くの敵を撃破せよ！"""
 Toast75EnemyMsg#0,"""残り７５体！"""
@@ -9,4 +9,4 @@ NpcComOnBegin#0,"""周囲に多数の敵性反応を確認！<br>時間안에 �
 NpcComOnDefeatedHalfEnemy#0,"""敵の数がかなり減ってきました！<br>その調子です！"""
 NpcComOnTimeLimit30#0,"""任務終了まで、残り３０秒！<br>ラストスパートですよ！"""
 NpcComOnDefeatedAllEnemy#0,"""周囲の敵性反応、完全に消滅！<br>お見事でした！"""
-NpcComOnSuccess#0,"""제한 시간 になりました！<br>敵勢力の撤退を確認。<br>お疲れさまでした！"""
+NpcComOnSuccess#0,"""제한 시간 になりました！<br>敵勢力の撤退を確認。<br>수고하셨습니다!"""

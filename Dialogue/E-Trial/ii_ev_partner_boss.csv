@@ -10,4 +10,4 @@ NpcComOnSuccess#2,"""/face2 敵性反応、消失確認しましたー！<br>お
 NpcComOnBegin#3,"""新たな敵性存在の反応を感知。<br>全対象の撃破が目的となります。"""
 NpcComOnSuccess#3,"""敵性存在の反応、消失。<br>十分な成果です。"""
 NpcComOnBegin#4,"""おやっ、新手が出現しましたね！<br>全部まとめて倒しちゃいましょう！"""
-NpcComOnSuccess#4,"""敵性反応の消失を確認！<br>お疲れさまでした！"""
+NpcComOnSuccess#4,"""敵性反応の消失を確認！<br>수고하셨습니다!"""

@@ -1,4 +1,4 @@
-IncidentName#0,"""모든 적을 격파하라！"""
+IncidentName#0,"""모든 적을 격파하라!"""
 TrialBeginMsg#0,"""총좌를 이용하여 모든 적을 격파하라!"""
 TrialAbstract#0,"""총좌를 이용하여 모든 적을 격파하라!"""
 NpcComOnPreBegin#0,"""새로운 적의 접근을 확인했습니다.<br>다들 주의하세요."""
