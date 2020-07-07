@@ -5,7 +5,7 @@ NpcComOnBegin#0,"""周囲に$(0)の<br>発生を確認！<br>アークス各員�
 NpcComOnSuccess#0,"""/face2 目標の反応消失を確認！<br>厳戒令を解除します。"""
 NpcComOnBegin#1,"""周囲に$(0)の<br>発生を確認した。<br>各員、警戒を怠るなよ。"""
 NpcComOnSuccess#1,"""目標の撃退を確認。<br>よくやった、厳戒令を解除する。"""
-NpcComOnBegin#2,"""ああっ！ あああっ！<br>$(0)が周囲に<br>出てきました！ 気をつけて！"""
+NpcComOnBegin#2,"""아아앗! あ아아앗!<br>$(0)が周囲に<br>出てきました！ 気をつけて！"""
 NpcComOnSuccess#2,"""/face2 目標反応、消失しましたー！<br>おつかれさまでしたっ！"""
 NpcComOnBegin#3,"""$(0)の<br>反応を周辺で感知。<br>警戒を。"""
 NpcComOnSuccess#3,"""目標の反応、完全消失。<br>통상 임무로 돌아가주세요."""
