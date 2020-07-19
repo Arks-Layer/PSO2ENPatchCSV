@@ -1,4 +1,4 @@
-IncidentName#0,"""$(0) 격퇴하기！"""
-TrialBeginMsg#0,"""$(0) 격퇴하기！"""
+IncidentName#0,"""$(0) 격퇴하기!"""
+TrialBeginMsg#0,"""$(0) 격퇴하기!"""
 TrialAbstract#0,"""모든 $(0) 격퇴하기"""
 ToastOwnerPartyLeave#0,"""「에너미 트리거」가 누구라도 기동 가능하게 되었습니다."""

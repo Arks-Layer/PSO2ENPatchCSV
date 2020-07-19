@@ -1,4 +1,4 @@
-IncidentName#0,"""폭주 비스볼트를 회피하라！"""
+IncidentName#0,"""폭주 비스볼트를 회피하라!"""
 TrialBeginMsg#0,"""暴走ヴィスボルトの攻撃を回避せよ。"""
 TrialAbstract#0,"""暴走ヴィスボルトを回避し続けろ。"""
 TrialLightningStrike#0,"""$(0)が被雷した。総被雷数$(1)/$(2)回。"""

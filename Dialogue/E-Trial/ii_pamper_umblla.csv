@@ -11,7 +11,7 @@ NpcComOnBegin#1,"""/face2 Mr.アンブラだな。<br>奴に叩かれると<br>�
 NpcComOnSuccess#1,"""/face2 Mr.アンブラが喜んでいるな。<br>何か御利益はあったか？<br>では、引き続き任務を遂行しろ。"""
 NpcComOnFailure#1,"""/face6 Mr.アンブラの機嫌を損ねたようだな。<br>これ以上はどうしようもない。<br>各員、一度退避しろ。"""
 NpcComOnPreBegin#1,"""こいつは新たな熱源反応だな。<br>油断するなよ、これはでかいぞ。"""
-NpcComOnBegin#2,"""/face2 アンブラ様！\u3000Mr.アンブラ様ですね！<br>彼に叩かれると<br>御利益あるみたいですよ？"""
+NpcComOnBegin#2,"""/face2 アンブラ様！ Mr.アンブラ様ですね！<br>彼に叩かれると<br>御利益あるみたいですよ？"""
 NpcComOnSuccess#2,"""/face2 アンブラ様、嬉しそうですね！<br>何か御利益はありましたか？<br>この調子で任務を続けてください。"""
 NpcComOnFailure#2,"""/face6 アンブラ様を怒らせてしまいましたね……<br>こうなってはどうしようもないです。<br>至急退避してください。"""
 StruckUmblla#0,"""/face3 ダメですよ！アンブラ様を<br>攻撃しないでください！<br>彼が機嫌を損ねると大変ですよ。"""
