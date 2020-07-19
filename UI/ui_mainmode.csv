@@ -5839,7 +5839,7 @@ GachaMessage#0,"""스타잼을 입수하지않은 옷을<br>포토가챵에 넣�
 RecycleTitle#0,"""확인"""
 RecycleMessage#0,"""<c f0df60>$(0)<c>×$(1)<br>와, 선택한 아이템을 교환합니다.<br><yellow>※이하의 아이템 이외는 소비되지않습니다. <c><br><red>※선택한 아이템에 스타잼을<br>입수하지 않은 옷이 포함되어있습니다. <c><br>괜찮으십니까?"""
 RecycleMessageVita#0,"""<c f0df60>$(0)<c>×$(1)<br>와, 선택한 아이템을 교환합니다.<br><yellow>※이하의 아이템 이외는 소비되지않습니다. <c><br><red>※선택한 아이템에 스타잼을<br>입수하지 않은 옷이 포함되어있습니다. <c><br>괜찮으시겠습니까?"""
-RewardPopupMenu#0,"""스타잼을 입수한다."""
+RewardPopupMenu#0,"""스타잼 입수"""
 RewardTitle#2,"""스타잼 입수 확인"""
 RewardMessage#0,"""애착도게이지가 최대가 되었기때문에,<br>이 옷으로부터 스타잼을 입수할 수 있습니다.<br><br>스타잼을 입수하시겠습니까?"""
 RewardGetFailed#0,"""스타잼을 얻지못했습니다."""
