@@ -57,7 +57,7 @@ MesetaShopGuide_v#0,"""<c f0df60>Select the items to purchase. Press \""Update L
 ShopListTitle#0,"""Goods List"""
 ShopListResetTime#0,"""Next Update: $(0)"""
 ShopListResetButton#0,"""<yellow>Update Listings<c><pict StarGem>"""
-ShopListResetTime_wait#0,"""情報取得中"""
+ShopListResetTime_wait#0,"""Grabbing Listings"""
 RenewConfirmTitle#0,"""Update Listings"""
 RenewConfirmMessage#0,"""<pict StarGem><c 1dedd7>Consuming SG<c><br><br>Purchase \""$(0)\""?<br>This will update the listing immediately.<br>Would you like to purchase this content?<br><br><yellow>※Because the listing is random,<br>there's a chance of having repeat items listing.<c><br><br>(SG Owned: $(1))"""
 RenewBuyTitle#0,"""Update Listings"""
