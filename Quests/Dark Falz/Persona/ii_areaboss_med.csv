@@ -7,6 +7,6 @@ NpcComOnSpCharge#0,"""목표의 에너지 반응 급격히 증가!<br>주의하�
 NpcComOnSpBegin#0,"""이 반응… 강력한 공격이 옵니다!<br>경계해주세요!"""
 NpcComOnSpGuardSuccess#0,"""목표의 자세가 무너졌습니다!<br>지금이 기회에요!<br>단숨에 몰아붙입시다!"""
 NpcComOnSpGuardDraw#0,"""무사하신가요!?<br>목표는 아직 건재합니다.<br>서둘러 태세를 재정비하세요!"""
-NpcComOnSpGuardFailure#0…괜찮으신가요?<br>정신 바짝 차리고 가죠!"""
+NpcComOnSpGuardFailure#0,"""…괜찮으신가요?<br>정신 바짝 차리고 가죠!"""
 NpcComOnDamage1#0,"""목표의 남은 체력 저하!"""
 NpcComOnDamage2#0,"""목표의 남은 체력 더욱 저하!<br>앞으로 조금이에요!"""
