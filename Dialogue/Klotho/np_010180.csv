@@ -114,3 +114,6 @@ ep6_sq02_01_03#0,"""Still, we shouldn't forget that we were able to go toe to to
 ep6_sq04_01_01#0,"""The enemy's attacks have gotten even more intense. Maybe they've decided they can't afford to keep us around any more?"""
 11_voice_NPC_5018_100#17,"""But despite all that, I can't see a single sign of worry on your face. You're really something else."""
 ep6_sq04_01_03#0,"""Still, you should take a break from time to time. Stretch yourself too far and sooner or later you'll snap."""
+11_voice_NPC_5018_100#18,"""いやはや、君はやっぱりすごいね。<br>いくら拍手喝采を送ったところで<br>気が済まないくらいだよ。"""
+text02#0,"""長い戦いを終え<br>奇跡のような平和が訪れた、と。<br>大団円を迎えた物語みたいだね。"""
+11_voice_NPC_5018_101#2,"""ま、なにはともあれ<br>これで私は開き直ってサボれるよ。<br>いやー、素直に嬉しいねえ。"""

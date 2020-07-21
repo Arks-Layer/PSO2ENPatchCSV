@@ -73,3 +73,6 @@ ep6_sq03_02_01_01#0,"""Everything else that happened aside, you've defeated one 
 11_voice_NPC_5227_100#5,"""I heard we've finally got a lead on how to defeat Shiva."""
 ep6_sq04_01_02#0,"""...I'm still worried. But we're definitely making progress. Even if we're forced to take one step back, we've already taken three steps forward."""
 ep6_sq04_01_03#0,"""The situation is still tough, but I have hope that we'll make it through."""
+text01#0,"""どんなに劣勢の時でも<br>あんたのことは信じていたけれど……"""
+text02#0,"""誰も歯が立たなかったシバを<br>倒しちゃったのよね……<br>未だに実感がわかないわ。"""
+11_voice_NPC_5227_101#3,"""……ありがとう。<br>みんなの想いを結実させた<br>奇跡を見せてくれて。"""

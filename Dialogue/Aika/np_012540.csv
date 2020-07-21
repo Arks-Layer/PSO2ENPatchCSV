@@ -62,3 +62,5 @@ ep6_sq02_01_03#0,"""The Information Division will decide on our response careful
 ep6_sq04_01_01#0,"""...<%me>.<br>Thank you for fighting with us on Earth."""
 ep6_sq04_01_02#0,"""I've returned here temporarily to help the Commander formulate a strategy, but I can't bear to stay for long."""
 11_voice_NPC_5254_100#3,"""We cannot let them do as they please with the Earth. We will protect it always... You may be assured of that."""
+text01#0,"""やったな。<br>一時はどうなることかと思ったが。<br><%me>の努力の成果だ。"""
+11_voice_NPC_5254_100#4,"""未来はこれから築かれる。<br>アークスに、そして地球に訪れる<br>平和な未来が……な。"""

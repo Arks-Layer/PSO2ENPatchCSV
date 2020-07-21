@@ -133,3 +133,6 @@ ep6_sq02_01_02#0,"""We might not have made up the difference in power yet, but I
 ep6_sq02_01_03#0,"""And don't push yourself too hard, <%me>...<br>Be careful. I can't emphasise that strongly enough."""
 ep6_sq05_1#0,"""At last, we can start rebuilding our front line. The Combat Division was being pushed really hard..."""
 11_voice_NPC_5008_101#6,"""<%me>, I want to thank you and everyone else for your hard work! Just a little longer now!"""
+11_voice_NPC_5008_101#7,"""ああ、無事に帰ってこられたんですね！<br>ほんとに、ほんとによかったです。"""
+text02#0,"""あなたのおかげで<br>とても長い旅が終わったような……<br>そんな気持ちがしています。"""
+11_voice_NPC_5008_100#22,"""そうだ！\u3000リリーパのあの子たちにも<br>教えてあげないと、ですね！"""

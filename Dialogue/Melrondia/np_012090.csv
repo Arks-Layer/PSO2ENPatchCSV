@@ -51,3 +51,6 @@ ep6_sq02_01_01#0,"""We thought our struggle had finally come to an end...<br>And
 ep6_sq02_01_02#0,"""We are prepared for a long-term battle. We've gathered a lot of battle data, so we have to stay calm and search for a solution."""
 ep6_sq05_1#0,"""Thanks to you, our enemy's power has been greatly reduced, and our defensive lines are no longer being pushed back."""
 11_voice_NPC_5209_100#8,"""Our battles are still difficult, but...<br>We have hope at last. I will do my best to help wherever I can."""
+11_voice_NPC_5209_100#9,"""おつかれさまです。<br>無事に戻ってきていただいて<br>こうしてお話できて安心しました。"""
+text02#0,"""貴方のおかげで私達の未来は<br>この先も続くのだと思います。"""
+11_voice_NPC_5209_104#5,"""私は……まだ迷う部分もありますが<br>とにかく自分らしく進みたい……<br>いいえ、迷わずに進みます。"""
