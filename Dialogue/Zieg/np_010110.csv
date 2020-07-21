@@ -85,3 +85,6 @@ ep6_sq02_02#0,"""Just be careful not to overwork yourself. If you need any weapo
 ep6_sq02_01_02#0,"""Still, as long as I can see that determination in your eyes, I'll devote all my efforts to realizing it."""
 11_voice_NPC_5011_101#10,"""Hmm... Have they lost their momentum? Whatever you did, seems like it's made a difference."""
 ep6_sq05_2#0,"""Still, no sense underestimating them. If there's anything I can do to help out, let me know. I'm here for you."""
+11_voice_NPC_5011_101#11,"""おお、無事帰ってきたか！<br>見事にシバを倒してきたな！<br>武器を手がけたわしも鼻が高いぞ！"""
+11_voice_NPC_5011_105#5,"""ともあれ、これで万事解決……<br>とはなかなかいかんでな。<br>大量の修繕依頼が来ておっての……"""
+text03#0,"""途方に暮れる量だが<br>創世器も直さねばならんからのう。<br>まだまだ休めそうにないわい！"""

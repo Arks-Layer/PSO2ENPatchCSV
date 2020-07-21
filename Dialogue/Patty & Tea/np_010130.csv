@@ -159,3 +159,6 @@ ep6_sq04_01_02#0,"""This is way past simple cheating, it's got to be straight-up
 ep6_sq04_01_03#0,"""But! At times like these, it's the policy of ARKS' number one info dealers to stay cheerful and motivated! Now, let's go gather some info!"""
 ep6_sq05_1#0,"""I heard all about it! So you took down another one of Shiva's troublesome pals, did you?"""
 11_voice_NPC_5013_100#26,"""Just the big bad wolf left now. I just know you'll pull something out of your sleeve at the last minute!"""
+11_voice_NPC_5013_100#27,"""おめでとー！\u3000そしてありがとー！<br>あのめっちゃ強いシバをとうとう<br>倒してくれちゃったねー！"""
+text02#0,"""そんな、オラクルを<br>救ってくれた英雄にインタビュー……<br>の前に、おめでとうパーティーだ！"""
+11_voice_NPC_5013_101#6,"""盛大に祝うぞー！<br>主役はアナタ！\u3000そしてみんなも！<br>さ、準備しなきゃね！"""

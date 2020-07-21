@@ -28,3 +28,5 @@ ep6_sq00_01#0,"""Do rare species deviate from the normal species due to changes 
 11_voice_NPC_5053_104#5,"""We've been researching all this time, but we still don't know the answer. That's why it's worth investigating."""
 ep5_sq00_01#0,"""Do rare species deviate from the normal species due to changes in their environment? Or is it the other way around...?"""
 11_voice_NPC_5053_104#6,"""All this research, and we still don't know the answer. That's why it's worth investigating."""
+11_voice_NPC_5053_101#5,"""平和が訪れたことによって<br>研究に集中できそうだ。"""
+text02#0,"""これから生物の突然変異が<br>どのように生じるか。<br>じっくり観察していくことにしよう。"""

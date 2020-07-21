@@ -102,3 +102,6 @@ ep6_sq02_02#0,"""We were considering taking matters into our own hands, but that
 ep6_sq02_03#0,"""No need to worry about that now. From now on, I'll give our campaign my all!"""
 11_voice_NPC_5020_105#1,"""...Our entire assault force was annihilated. It bodes ill for our enemy to be able to repel an attack of that magnitude."""
 ep6_sq02_01_02#0,"""And yet...<br>If we do not stay calm, we will be playing right into the enemy's hands. We must keep our heads."""
+text01#0,"""おう、お前か。<br>なんともなかったのか？"""
+11_voice_NPC_5020_100#15,"""お前はさすがだな。<br>それだけ大したことをしたのに<br>こうして普通でいられるとは。"""
+text03#0,"""これからのことは、<br>オレにはあまりわからないが<br>全員でゆっくり考えていこう。"""

@@ -34,3 +34,6 @@ sierra_040#0,"""Haa... haa... This is serious stuff. My head is pounding, I'm se
 11_voice_NPC_5052_100#8,"""Hey, Xiao's back! I was worried for a sec there, but I guess it all worked out for the best..."""
 ep6_sq03_02_01_01#0,"""The way everyone's been runnin' around lately, this has gotta be really serious!"""
 11_voice_NPC_5052_100#9,"""You're dealing with it OK, aren'cha killer?! Then I'll do my best to keep up with ya!"""
+text01#0,"""おう！\u3000おつかれさん！<br>なんとか片付いたみたいだな。"""
+11_voice_NPC_5052_101#10,"""まったく、あのシバとの戦いとか<br>ちょっとは心配したけどよ。<br>そんな必要なかったみたいだな。"""
+text03#0,"""こうして顔を合わせられるのも<br>おたくの頑張りのおかげだぜ。<br>ありがとな！"""
