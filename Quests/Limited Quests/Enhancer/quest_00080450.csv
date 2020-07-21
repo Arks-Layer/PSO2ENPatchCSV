@@ -14,5 +14,5 @@ NpcComMsg1#0,"""You're almost at the<br>end of this training...<br>You're about 
 NpcComMsg2#0,"""We've placed a powerful enemy to<br>guard the main reactor. Your mission<br>is to defeat the Grav Execour."""
 NpcComMsg3#0,"""Do your best, and don't<br>let it wear you down!"""
 NpcComMsg1#1,"""The training is about to begin!<br>Your objective is to enter a high-<br>security sector and defeat the<br>enemy guarding the main reactor."""
-NpcComMsg2#1,"""First, you'll need to take control<br>of all nearby security nodes and<br>secure a route to the central area."""
+NpcComMsg2#1,"""First, you'll need to take control<br>of all nearby secure sectors and<br>clear a route to the central area."""
 NpcComMsg3#1,"""I'll guide you through each section.<br>Now, let's start the training!"""
