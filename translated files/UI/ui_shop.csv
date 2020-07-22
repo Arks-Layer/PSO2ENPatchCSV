@@ -57,6 +57,7 @@ MesetaShopGuide_v#0,"""<c f0df60>Пожалуйста, выберите пред
 ShopListTitle#0,"""Список товаров"""
 ShopListResetTime#0,"""Следующее обновление: $(0)"""
 ShopListResetButton#0,"""<yellow>Список обновлений<c><pict StarGem>"""
+ShopListResetTime_wait#0,"""情報取得中"""
 RenewConfirmTitle#0,"""Список обновлений"""
 RenewConfirmMessage#0,"""<pict StarGem><c 1dedd7>Требуется SG<c><br><br>Потратить \""$(0)\""?<br>Мгновенное обновление списка.<br>Вы действительно хотите воспользоваться этой услугой?<br><br><yellow>※Так как предметы подбираются случайным образом,<br>некоторые из них могут повторяться.<c><br><br>(SG Стоит: $(1))"""
 RenewBuyTitle#0,"""Список обновлений"""
