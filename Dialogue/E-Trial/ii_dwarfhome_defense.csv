@@ -12,7 +12,7 @@ NpcComOnTimeLimit1#0,"""敵の勢いが落ちているようです。<br>引き�
 NpcComOnTimeLimit2#0,"""敵の出現が収まりつつあります。<br>最後まで気を抜かずに対処を。"""
 NpcComOnBegin#1,"""近くに存在するリリーパ族の集落が<br>襲撃を受けているようだ。<br>各員、救援へ向かえ。"""
 NpcComOnAfterBegin#1,"""座標は$(0)だ。<br>マーカー表示に従い、急行しろ。"""
-NpcComOnSuccess#1,"""よし、集落の防衛、完了だ。<br>よくやったな。"""
+NpcComOnSuccess#1,"""よし、集落の防衛、完了だ。<br>잘 해냈구나."""
 NpcComOnFailure#1,"""確認されていた集落は全壊だ。<br>……悔やんでも仕方があるまい。<br>通常任務に戻れ。"""
 NpcComOnArrive#1,"""よし、集落に辿り着いたようだな。<br>周囲の敵を撃退しろ。"""
 NpcComOnBroken1#1,"""ち……集落の一つが破壊されたか。<br>残りは二つだ、対応を急げ。"""

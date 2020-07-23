@@ -1,5 +1,5 @@
 IncidentName#0,"""$(0) 토벌"""
-TrialBeginMsg#0,"""$(0)を$(1)体倒せ！"""
+TrialBeginMsg#0,"""$(0) $(1)체 격퇴하기!"""
 TrialAbstract#0,"""特定数の$(0) 토벌하기!"""
 NpcComOnBegin#0,"""周囲に$(0)の<br>発生を確認！<br>アークス各員は警戒して下さい！"""
 NpcComOnSuccess#0,"""/face2 目標の反応消失を確認！<br>厳戒令を解除します。"""
