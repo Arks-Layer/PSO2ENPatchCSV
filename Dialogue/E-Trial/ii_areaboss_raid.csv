@@ -39,7 +39,7 @@ NpcComOnSuccess#4,"""우와… 대단해요.<br>강적의 격파를 확인했습
 NpcComOnFailure#4,"""제한 시간이 되었습니다.<br>안타깝지만 훈련은 종료됐습니다.<br>수고하셨습니다."""
 NpcComLastEnemy#4,"""강적 격파.<br>앞으로 조금이에요."""
 NpcCom2RemainingEnemy#4,"""강적 격파.<br>그 상태를 유지해주세요."""
-NpcComOnBegin#5,"""긴급 통보입니다!<br>강력한 적성 반응 확인！<br>신속한 대처를 부탁드립니다!"""
+NpcComOnBegin#4,"""긴급 통보입니다!<br>강력한 적성 반응 확인！<br>신속한 대처를 부탁드립니다!"""
 NpcComOnBeginMultiEnemy#5,"""개시, 복수 에너미"""
 NpcComOnSuccess#5,"""적성 반응 소실 확인!<br>수고하셨습니다!"""
 NpcComOnFailure#4,"""더 이상 교전을 계속하는건 곤란합니다!<br>귀환시켜 드릴게요!"""
