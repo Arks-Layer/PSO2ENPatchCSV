@@ -1,6 +1,6 @@
 IncidentName#0,"""$(0) 섬멸 작전"""
-TrialBeginMsg#0,"""$(0)を攻撃し、陽動せよ！"""
-TrialAbstract#0,"""$(0)を攻撃し、陽動せよ！"""
+TrialBeginMsg#0,"""$(0)을 공격하고 양동하라!"""
+TrialAbstract#0,"""$(0)을 공격하고 양동하라!"""
 NpcComOnBegin#0,"""***"""
 NpcComOnBegin_2#0,"""***"""
 NpcComOnBegin_3#0,"""***"""
