@@ -1,5 +1,5 @@
 IncidentName#0,"""다수의 희소종을 토벌하라!"""
-TrialBeginMsg#0,"""一定時間、希少種を倒せ！"""
-TrialAbstract#0,"""一定時間、希少種を倒せ！"""
+TrialBeginMsg#0,"""일정 시간동안 희소종 격퇴하기!"""
+TrialAbstract#0,"""일정 시간동안 희소종 격퇴하기!"""
 NpcComOnBegin#0,"""$(0)の地点に多数の反応確認！<br>かなりの数がいるみたいです！<br>皆さん、注意してくださいね！"""
-NpcComOnSuccess#0,"""敵性反応、消失確認しました！<br>お見事です！<br>皆さん、수고하셨습니다!"""
+NpcComOnSuccess#0,"""敵性反応、消失確認しました！<br>훌륭하세요!<br>皆さん、수고하셨습니다!"""
