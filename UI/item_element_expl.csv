@@ -1214,7 +1214,7 @@
 53#5,"""Recovers PP and boosts<br>damage by 3% for 60<br>seconds after activating<br>Chain Trigger.<br>Twin Machineguns only."""
 54#5,"""Reduces the power of<br>normal attacks by 67%,<br>but makes each normal<br>attack fire 4 shots.<br>Launchers only."""
 55#4,"""Adds an extra wide-area<br>attack and a chance to<br>stun to normal attacks.<br>Assault Rifles only."""
-56#4,"""When either Critical<br>Field or EPPR are<br>active, gain the<br>effects of both<br>fields instead."""
+56#4,"""Gain additional bonus<br>effects to Critical<br>Field and EPPR when<br>either are active."""
 57#4,"""Reduces PP regeneration<br>to 0. Boosts attack PP<br>recovery by 50% and<br>recovers 100 PP on a<br>successful dodge."""
 58#4,"""Boosts damage by 4%.<br>When damaged, reduces<br>damage taken by 25%<br>at the cost of 20 PP.<br>Force only."""
 59#4,"""Boosts damage by 4%<br>against enemies inflicted<br>with status effects, Jellen<br>or Weak Bullet."""
