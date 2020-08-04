@@ -1,6 +1,6 @@
 IncidentName#0,"""모든 적을 격파하라!"""
-TrialBeginMsg#0,"""足場に気を付けつつ、エネミーを倒せ！"""
-TrialAbstract#0,"""足場に気を付けつつ、エネミーを倒せ！"""
+TrialBeginMsg#0,"""足場に気を付けつつ、エネミー 격퇴하기!"""
+TrialAbstract#0,"""足場に気を付けつつ、エネミー 격퇴하기!"""
 NpcComOnBegin#0,"""/face2 おやっ、フィールドが訓練モードに<br>切り替わったみたいですね！"""
 NpcComOnSuccess#0,"""/face2 はーい、訓練終了です！<br>ほんと、おつかれさまでした！"""
 DirectionAim#0,"""枠だけ。現状、追跡モードは未使用"""

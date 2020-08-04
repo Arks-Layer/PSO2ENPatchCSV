@@ -1,6 +1,6 @@
 IncidentName#0,"""$(0) 격파하기!"""
-TrialBeginMsg#0,"""緊急指令！新たに現れた<br>$(0) 격파하기!"""
-TrialAbstract#0,"""新たに現れた<br>$(0) 격파하기!"""
+TrialBeginMsg#0,"""긴급 지령! 새로 나타난<br>$(0) 격파하기!"""
+TrialAbstract#0,"""새로 나타난<br>$(0) 격파하기!"""
 NpcComOnPreBegin#0,"""$(0) 격퇴を<br>確認しました！ お疲れ様です！<br>……って、え？ 大きな反応！？"""
 NpcComOnBegin#0,"""緊急連絡！<br>新手の$(0)を<br>確認！ 接近に気付けないなんて……！ """
 NpcComOnSuccess#0,"""/face2 $(0)の<br>完全な撃退を確認しました！<br>各員の協力に感謝します！"""
