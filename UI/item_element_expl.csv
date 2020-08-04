@@ -1186,7 +1186,7 @@
 25#5,"""Unleashes a shockwave<br>on your third step<br>normal attack. Boosts<br>damage by 2%. Wand<br>only."""
 26#5,"""Boosts the power of<br>Elemental Burst by 30%<br>and activates it<br>automatically during PA<br>Shift Actions. Jet Boots<br>only."""
 27#5,"""Boosts crit rate by 20%.<br>On crit, boosts damage<br>by 2% and recovers 1%<br>of damage dealt as HP.<br>(Max. recovery: 30 HP)"""
-28#5,"""Technique damage is<br>decreased by 40%, but<br>using the same<br>element Technique<br>with a JA<br>substantially<br>decreases charge<br>time."""
+28#5,"""Reduces tech damage<br>by 40%, but using the<br>same elemental tech JA<br>greatly reduces charge<br>time."""
 29#5,"""Grants a bonus when<br>your max HP is at<br>1000. Gain additional<br>bonuses per 500 max<br>HP over. Maximum<br>bonuses are reached<br>when max HP is at<br>3000."""
 30#5,"""Boosts attack PP<br>recovery by 60% when<br>attacking an enemy<br>affected by status,<br>Jellen or Weak Bullet."""
 31#5,"""-"""
