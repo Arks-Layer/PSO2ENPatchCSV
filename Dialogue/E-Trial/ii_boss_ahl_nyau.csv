@@ -1,6 +1,6 @@
 IncidentName#0,"""냐우와 승부하라!"""
-TrialBeginMsg#0,"""ニャウに勝て！"""
-TrialAbstract#0,"""$(0)に勝て！"""
+TrialBeginMsg#0,"""냐우를 이겨라!"""
+TrialAbstract#0,"""$(0)에게 이겨라"""
 NpcComOnBegin#0,"""ニャウの出現を確認しました。<br>面倒かと思われますが、各員<br>適切な対処をお願いします。"""
 NpcComOnSuccess#0,"""ニャウ、ようやく撤退するようです。<br>対応、感謝します。"""
 NpcComOnBegin_Other#0,"""ニャウの出現を確認しました。<br>面倒かと思われますが、各員<br>適切な対処をお願いします。"""
