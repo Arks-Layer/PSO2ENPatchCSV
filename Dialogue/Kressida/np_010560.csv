@@ -69,3 +69,6 @@ ep6_sq01_02#0,"""Got that? You've only got one life, and if you throw it away on
 11_voice_NPC_5056_100#4,"""There's some rumors about you flying around! No, no, good ones!"""
 ep6_sq02_02#0,"""Look at this place. We thought we were staring at certain death not so long ago, and now it's all forgotten."""
 ep6_sq02_03#0,"""You're the one who made that change happen, aren't you? Keep up the good work!"""
+11_voice_NPC_5056_100#5,"""ちょっとウソじゃないわよね！<br>戦いに勝ったのよね！<br>やったわ！\u3000ホントによかったわ！"""
+text02#0,"""でも、これもアンタの頑張りが<br>大きかったこと、私は分かってるわよ！"""
+text03#0,"""だから心の底から、誉めてあげるわよ！<br>よくやったわ！\u3000ありがとう！"""
