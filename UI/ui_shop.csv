@@ -57,6 +57,7 @@ MesetaShopGuide_v#0,"""<c f0df60>購入するアイテムを選択してくだ�
 ShopListTitle#0,"""Lista de productos"""
 ShopListResetTime#0,"""Proxima en：$(0)"""
 ShopListResetButton#0,"""<yellow>Actualizar lista<c><pict StarGem>"""
+ShopListResetTime_wait#0,"""情報取得中"""
 RenewConfirmTitle#0,"""Actualización manual de la lista"""
 RenewConfirmMessage#0,"""<pict StarGem><c 1dedd7>Consumo de SG<c><br><br>「$(0)」comprar y<br>商品リストをすぐに更新することができます。<br>購入確認画面に進みますか？<br><br>（所持SG:$(1)）"""
 RenewBuyTitle#0,"""Actualización manual de la lista"""
