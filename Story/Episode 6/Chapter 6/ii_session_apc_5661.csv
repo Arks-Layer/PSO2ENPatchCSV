@@ -1,4 +1,4 @@
-Begin#0,"""/ci1 1 Don't overestimate your abilities. I doubt you count as any more than three. Still, you are more of an asset than a liability. Get to work."""
+Begin#0,"""/ci1 1 Do not overestimate your abilities. I doubt you count as any more than three. Still, you are more of an asset than a liability. Get to work."""
 Success#0,"""/ci1 2 Don't you dare try to run off now. There is much more to be done, we have no time to rest.<br>You go on ahead. Good luck."""
 Failure#0,"""Regrettably, we have both been left in this embarrassing condition...<br>I apologize, but we must leave."""
 Dead#0,"""I apologize...<br>I cannot fight any longer...<br>I must withdraw."""
