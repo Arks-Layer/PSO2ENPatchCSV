@@ -1,4 +1,4 @@
-Begin#0,"""/ci1 1 How can you still be in such high spirits...?<br><%me>, Matoi, we'll help you!"""
+Begin#0,"""/ci1 1 How can you still be in such high spirits...?<br><%me>, Matoi,<br>we're here to help you!"""
 Success#0,"""/ci1 2 We'll deal with the enemies here. You two should go after Shiva!"""
 Failure#0,"""We did our best, but it wasn't enough...<br>I'm sorry we couldn't help you..."""
 Dead#0,"""Patty...<br>Take care of them...<br>I'm sorry, you two..."""
