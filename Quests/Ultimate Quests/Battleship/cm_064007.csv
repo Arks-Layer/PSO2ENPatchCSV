@@ -1,4 +1,4 @@
-line01#0,"""You were detected by laser sensors <%skit_text> times. Final alert level: 1<br><br>Dral Veluge readings detected!"""
-line02#0,"""You were detected by laser sensors <%skit_text> times. Final alert level: 2<br><br>Dral Gurudy readings detected!"""
-line03#0,"""You were detected by laser sensors <%skit_text> times. Final alert level: 3<br><br><yellow>Watch out! Dral Gurudy readings detected!<c>"""
-line04#0,"""You were detected by laser sensors <%skit_text> times. Final alert level: 4<br><br><light_red>Watch out! Multiple powerful enemy readings inbound!<c>"""
+line01#0,"""Detected by laser sensors <%skit_text> times.<br>Final alert level: 1<br>Dral Veluge readings detected!"""
+line02#0,"""Detected by laser sensors <%skit_text> times.<br>Final alert level: 2<br>Dral Gurudy readings detected!"""
+line03#0,"""Detected by laser sensors <%skit_text> times.<br>Final alert level: 3<br><yellow>Watch out! Dral Gurudy readings detected!<c>"""
+line04#0,"""Detected by laser sensors <%skit_text> times.<br>Final alert level: 4<br><light_red>Watch out! Multiple powerful enemy readings inbound!<c>"""
