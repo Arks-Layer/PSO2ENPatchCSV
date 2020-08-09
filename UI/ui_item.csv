@@ -1390,7 +1390,7 @@ Explanation18#0,"""<c f0df62>オーナー登録解除の最終確認です。<c>
 Explanation19#0,"""<c f0df60>武器ごとに特定のアイテムを使って、潜在能力を切り替えられます。「対象」とする武器を選択してください。<c>"""
 Explanation20#0,"""<c f0df60>切り替えたい潜在能力を選択してください。<c>"""
 Explanation21#0,"""<c f0df60>潜在能力切り替えの最終確認画面です。切り替えに必要となるメセタとアイテムを確認してください。<c>"""
-RegisterOwnerShipConfirmMessage#0,"""※Rarity $(0)+ will be <yellow>owner registered<c>,<br>so it cannot be traded to other players."""
+RegisterOwnerShipConfirmMessage#0,"""※El item de raresa $(0)+ sera <yellow>registrado al propietario<c>,<br>así que no se podra intercambiar a otros jugadores."""
 RegisterOwnerShipResultMessage#0,"""<yellow>オーナー登録が完了<c>しました。"""
 CategoryNewWeapon#0,"""Mejorar Equipamento"""
 CategoryOldWeapon#0,"""Solo Old-Style"""
