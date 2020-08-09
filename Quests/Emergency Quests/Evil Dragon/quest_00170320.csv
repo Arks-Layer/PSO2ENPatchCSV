@@ -2,7 +2,7 @@ NpcComMsg1#0,"""Te transferiremos al lugar que se encuentra el Malvado Dragón q
 NpcComMsg2#0,"""Hemos observado una diferencia de energía con respecto al último encuentro, por lo que creemos sera una pelea difícil. Por favor, preste atención a su movimiento y ataques."""
 NpcComMsg3#0,"""¡Alisa nos apoyará una vez más! Con tus poderes, ¡Estamos seguros de que podrás vencer!"""
 Title#0,"""T:崩城に甦る黒衣の邪竜"""
-Explanation#0,"""¡Hemos detectado una fuente de energía<br>fuerte desde el castillo de Cuent!<br>Por favor, ve allí y ayuda a Alisa!<br>Debido a que está operación será<br>peligrosa, solo ARKS<br> específicos pueden ayudar.<br>--------------------<br>Límite de Daño: 999999<br>Fallas: el tiempo se agota o 3 muertes"""
+Explanation#0,"""¡Hemos detectado una fuente de energía<br>fuerte desde el castillo de Cuent!<br>Por favor, ve allí y ayuda a Alisa!<br>Debido a que está operación será<br>peligrosa, solo ARKS<br>específicos pueden ayudar.<br>--------------------<br>Límite de Daño: 999999<br>Fallas: el tiempo se agota o 3 muertes"""
 SimpleExplanation#0,"""¡Derrota al dragón!"""
 Area0S#0,"""異世界オメガ\u3000クエント城跡"""
 Area0L#0,"""異世界オメガ\u3000クエント城跡"""
