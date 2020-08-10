@@ -4,5 +4,5 @@ text02#0,"""¡Si <red>usa su WA durante un PA<c>, <red>reducirá el alcance del 
 text101#0,"""Tarea 1: <yellow>Usa un PA de poder mejorado en un enemigo<c>"""
 train_title#0,"""Tarea 1: <yellow>Usa un PA de poder mejorado en un enemigo<c>"""
 tut_title#0,"""フォーカスＰＡについて"""
-text100#0,"""・Use un Photon Art con <%WeaponAction> o <%PhotonArts><br>・Cuando aparezca la marca blanca, <br>use su WA con <%PhotonArts>"""
-text100_3b#0,"""・Use un Photon Art con <%PhotonArts><br>・Cuando aparezca la marca blanca, <br>use su WA con <%MainPaletteC>"""
+text100#0,"""・Use un Photon Art con <%WeaponAction> o <%PhotonArts><br>・Cuando aparezca la marca blanca,<br>use su WA con <%PhotonArts>"""
+text100_3b#0,"""・Use un Photon Art con <%PhotonArts><br>・Cuando aparezca la marca blanca,<br>use su WA con <%MainPaletteC>"""

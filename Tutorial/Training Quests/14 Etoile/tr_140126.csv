@@ -5,5 +5,5 @@ text03#0,"""Primero, ¡Intenta <red>usar la WA para bloquear un ataque enemigo<c
 text101#0,"""Tarea 1: <yellow>Bloquea un ataque enemigo con Charge Protect<c>"""
 train_title#0,"""Tarea 1: <yellow>Bloquea un ataque enemigo con Charge Protect<c>"""
 tut_title#0,"""チャージプロテクトについて"""
-text100#0,"""・Justo antes de que llegue un ataque enemigo:<br> Usa tu WA con <%PhotonArts>"""
-text100_3b#0,"""・Justo antes de que llegue un ataque enemigo:<br> Usa tu WA con <%MainPaletteC>"""
+text100#0,"""・Justo antes de que llegue un ataque enemigo:<br>Usa tu WA con <%PhotonArts>"""
+text100_3b#0,"""・Justo antes de que llegue un ataque enemigo:<br>Usa tu WA con <%MainPaletteC>"""

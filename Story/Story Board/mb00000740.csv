@@ -1,4 +1,4 @@
 Title#0,"""Encuentro a bordo de la nave ARKS"""
 TargetName_Errand#0,"""[E-3]<br>Ver un evento<br>Nombre del evento: Solicitud del Comandante"""
 TargetName_Errand2#0,"""[E-3]<br>Ver un evento<br>Nombre del evento: Solicitud del Comandante"""
-Explanation#0,"""<c 6fa8f8>[005-C] \""Solicitud del Comandante\""<c><br>Xiera agradece a <%me> por probar<br>el Story Board. Con una sonrisa todavía<br> en su rostro, ella transmite un mensaje.<br><br><c f0df60>※ Presione <%Decide><c f0df60> para ver el evento.<c>"""
+Explanation#0,"""<c 6fa8f8>[005-C] \""Solicitud del Comandante\""<c><br>Xiera agradece a <%me> por probar<br>el Story Board. Con una sonrisa todavía<br>en su rostro, ella transmite un mensaje.<br><br><c f0df60>※ Presione <%Decide><c f0df60> para ver el evento.<c>"""
