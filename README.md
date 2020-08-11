@@ -11,7 +11,9 @@ This repository is dedicated to translating PSO2 game texts from Japanese to Eng
 
 We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native languages in the future.
 
-<i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit translations to RAW JP files. ありがとう～ (*＾▽＾)／</i>
+<i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit translations to RAW JP files.</i>
+
+ありがとう～ (*＾▽＾)／
 
 ## Contributions
 ### Getting Started/Helping Out
