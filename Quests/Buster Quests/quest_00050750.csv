@@ -41,7 +41,7 @@ OnHpGaugeDecrease1#0,"""아군 피해 막대! \u3000이 이상은<br>버틸 수 
 OnTimeDecrease0#0,"""전투 가능 시간, 앞으로 반 남았습니다!<br>상황이 이쪽으로 기울었다면 승리지만<br>가능하다면 마신성을 격파해 주세요!"""
 OnTimeDecrease1#0,"""전투 가능 시간, 얼마 남지 않았습니다!<br>앞으로 조금, 마지막까지 포기하지 말고<br>힘을 내 주세요!"""
 OnSuccessTimeover#0,"""적군의 철수를 확인했습니다!<br>피해도 그렇게 크지 않고<br>저희의 승리에요!"""
-OnSuccessBreakGauge#0,"""마신성의 소멸을 확인!<br>저희의 완전한 승리에요!""
+OnSuccessBreakGauge#0,"""마신성의 소멸을 확인!<br>저희의 완전한 승리에요!"""
 OnSuccessReturn#0,"""그럼 귀환해주세요.<br>수고하셨어요!"""
 OnFailureTimeover#0,"""파계추의 손상을 확인.<br>이 이상의 전투는 어렵습니다.<br>일단은 철수하도록 해요."""
 OnFailureAnnihilationBase#0,"""모든 파계추의 기능 정지를 확인……<br>이 이상 전투 계속은 어려우니<br>일단 철수하도록 해요."""
