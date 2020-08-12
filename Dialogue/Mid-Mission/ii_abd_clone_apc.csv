@@ -1,7 +1,7 @@
 IncidentName#0,"""Ataca al ARKS ¿Impostor?"""
 TrialBeginMsg#0,"""¡Derrota todos los<br>ARKS, ¿Impostores?!"""
 TrialAbstract#0,"""¡Derrota todos los<br>ARKS, ¿Impostores?!"""
-NpcComOnBegin#0,"""Esta reacción... ¿Un ARKS?<br>...¡No! ¡Es un impostor DARKER!<br>¡Por favor interceptalo!"""
+NpcComOnBegin#0,"""Esta reacción... ¿Un ARKS?<br>...¡No!, ¡Es un impostor DARKER!<br>¡Por favor interceptalo!"""
 NpcComOnSuccess#0,"""La presencia enemiga ha<br>desaparecido. No hay necesidad de continuar<br>siguiendolo. Por favor continua con la misión."""
 NpcComOnBegin#1,"""/face3 この反応……ちっ、模倣体か！<br>各員に告ぐ、即時に迎撃態勢を整え<br>敵を殲滅せよ！"""
 NpcComOnSuccess#1,"""/face6 El enemigo se... ¿Fue?<br>Me estoy asegurando, así que, por<br>favor solo continua tu misión."""

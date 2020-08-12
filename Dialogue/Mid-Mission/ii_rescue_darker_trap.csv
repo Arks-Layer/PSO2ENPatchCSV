@@ -1,7 +1,7 @@
 IncidentName#0,"""¡Destruye el Funji!"""
 TrialBeginMsg#0,"""¡Destruye el Funji y rescata al Arks secuestrado!<br>Fallas si el secuestrado es incapacitado."""
 TrialAbstract#0,"""¡Rescata al Arks secuestrado!"""
-NpcComOnSuccess#0,"""/face2 ¡El Funji ha sido completamente<br>destruido! ¡Gracias a todos<br>por su colaboración!"""
+NpcComOnSuccess#0,"""/face2 ¡El Funji ha sido completamente<br>destruido!, ¡Gracias a todos<br>por su colaboración!"""
 NpcComOnFailure#0,"""/face4 El rescate de $(0) fue un fracaso... Si tan solo mis lecturas hubieran sido mas rapidas y precisas..."""
 NpcComOnSuccess#1,"""¡Eh confirmado la destruccion del Funji!<br>Continua con tu mision principal"""
 NpcComOnFailure#1,"""...$(0)... Su rescate...<br>Fue un fracaso..."""
