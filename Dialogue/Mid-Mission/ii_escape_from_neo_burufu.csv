@@ -6,7 +6,7 @@ NpcComOnBegin#0,"""¡Este es un mensaje de emergencia!<br>¡Se ha confirmado la 
 NpcComOnBeginAtRareCase#0,"""Intenta calmarte. Hemos confirmado la<br>aparicion de Gel Wulffs. ¡Defiendete<br>lo mejor que puedas!"""
 NpcComOnSuccess#0,"""/face2 ¡Te has defendido del Gel Wulffs!<br>¡Maravilloso!... Err, quiero decir...Es de admirar."""
 NpcComOnFailure#0,"""/face4 Los daños causados por<br>Gel Wulffs han alcanzado niveles criticos<br>esto es más de lo que podemos permitir"""
-NpcComOnTarget#0,"""¡$(0)! ¡Maniobras evasivas!<br>¡Eres el objetivo!"""
+NpcComOnTarget#0,"""¡$(0)!, ¡Maniobras evasivas!<br>¡Eres el objetivo!"""
 NpcComOnTime1#0,"""¡El Gel Wulffs está por<br>desaparecer!, ¡No queda mucho!<br>¡Sige asi!"""
 NpcComOnTime2#0,"""/face2 ¡Ese sonido! El Gel Wulffs<br>alcanzara sus limites pronto<br>¡Resiste un poco mas!"""
 NpcComOnRepop#0,"""Confirmada la reaparicion de Gel Wulffs!<br>todos, mantengan sus ojos abiertos."""
