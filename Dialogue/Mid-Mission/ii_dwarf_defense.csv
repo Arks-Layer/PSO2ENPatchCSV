@@ -1,7 +1,7 @@
 IncidentName#0,"""Defiende a los Lillipans!"""
 TrialBeginMsg#0,"""Proteger a los Lillipans en peligro de extinción!"""
 TrialAbstract#0,"""Proteger a los Lillipans en peligro de extinción!"""
-NpcComOnBegin#0,"""/face4 Aah, aaah! Un Gilnas ha agarrado a Un Lillipan! Esto no es bueno! Ayudalos! ¡Va a explotar!"""
+NpcComOnBegin#0,"""/face4 Aah, aaah! Un Gilnas ha agarrado a Un Lillipan! Esto no es bueno! Ayudalos!, ¡Va a explotar!"""
 NpcComOnAfterBegin#0,"""/face4 We can't let that Gilnas be<br>attacked! Please, protect it<br>so the Lillipans can escape!<br>Ten cuidado not to damage it while protecting it!"""
 NpcComOnSuccess#0,"""/face2 リリーパ族はなんとか逃げられた<br>ようですよー。よかったです。<br>お疲れ様でしたー！"""
 NpcComOnFailure#0,"""リリーパ族……どこかに吹き飛んで<br>いっちゃいましたね……<br>たぶん、無事だとは思うんですが……"""

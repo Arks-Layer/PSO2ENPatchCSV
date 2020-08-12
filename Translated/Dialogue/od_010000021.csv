@@ -1,4 +1,4 @@
 text01#0,"""¡Gracias por recibir esta orden!"""
-text02#0,"""¡Confirmo que esta orden es para<br>completar una misión especifica<br>en ella! ¡Completala lo mejor que puedas!"""
+text02#0,"""¡Confirmo que esta orden es para<br>completar una misión especifica<br>en ella!, ¡Completala lo mejor que puedas!"""
 text01#1,"""Ya puedes comenzar.<br>Muchas gracias."""
 text02#1,"""Esta será una orden para completar la misión de la orden.<br>Gracias por tu ayuda."""
