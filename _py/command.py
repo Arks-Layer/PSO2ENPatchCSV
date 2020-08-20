@@ -67,6 +67,10 @@ def cutoutcommands(i):
 			ce += 0
 		elif "/voice11_sound_voice_magat_qu00" in li[ce]:
 			ce += 0
+		elif "/voice11_voice_delicious_npcma_0" in li[ce]:
+			ce +- 0
+		elif "/voice11_voice_delicious_npcha_0" in li[ce]:
+			ce += 0
 		else:
 			print("warning: can not handle {} in {}".format(li[ce], i))
 		return "\"" + " ".join(li[0: ce]) + "\""
