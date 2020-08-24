@@ -1,4 +1,4 @@
-train_title#0,"""課題１：<yellow>ジャストアタックでテクニックを出す"""
-tut_title#0,"""テクニックについて"""
-text100#0,"""・<%NormalAttack>で通常攻撃をする<br>・赤い円が表示されたタイミングで<br>\u3000<%PhotonArts>でテクニックを発動する"""
-text100_3b#0,"""・<%NormalAttack>で通常攻撃をする<br>・赤い円が表示されたタイミングで<br>\u3000<%PhotonArts>もしくは<%MainPaletteC>でテクニックを発動する"""
+train_title#0,"""1-я задача: <yellow>Выполнить Just Attack технику"""
+tut_title#0,"""Just Attack'и"""
+text100#0,"""・Используйте обычную атаку <%NormalAttack><br>・При появлении красного круга<br>Используйте технику <%PhotonArts>"""
+text100_3b#0,"""・Используйте технику %PhotonArts> или <%MainPaletteC><br>・Повторно активируйте<br>технику в момент<br>становления круга красным"""

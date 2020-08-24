@@ -1,4 +1,4 @@
-train_title#0,"""課題３：<yellow>ザンバースの追加攻撃を発生させる"""
+train_title#0,"""3-я задача: <yellow>Нанести дополнительный урон с помощью Zanverse"""
 tut_title#0,"""『ザンバース』について"""
-text100#0,"""・<%PhotonArts>でザンバース発動<br>・<%NormalAttack>で通常攻撃を当てると風の追加攻撃"""
-text100_3b#0,"""・<%PhotonArts>でザンバース発動<br>・<%NormalAttack>で通常攻撃を当てると風の追加攻撃"""
+text100#0,"""・Для активации Zanverse <%PhotonArts><br>・Выполните обычную атаку <%NormalAttack>,<br>чтобы допонительно нанести<br>урон Zanverse'ом"""
+text100_3b#0,"""・Для активации Zanverse <%PhotonArts><br>・Выполните обычную атаку <%NormalAttack>,<br>чтобы допонительно нанести<br>урон Zanverse'ом"""
