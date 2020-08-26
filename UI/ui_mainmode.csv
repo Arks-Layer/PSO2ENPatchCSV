@@ -4099,7 +4099,7 @@ MEDMultiBossGoto#0,"""돌입 준비 개시. 30초 이내에 양륙정으로 향�
 MEDMultiBossWakeUp#0,"""돌입 준비를 개시합니까?"""
 MEDMultiBossMessage#0,"""돌입 준비를 개시했습니다.<br>30초 후 주위에 있는 멤버로 작전을 개시합니다.<br><br>돌입 준비를 중지합니까?"""
 MEDMultiBossRemove#0,"""돌입 준비를 중지합니다."""
-MEDMultiBossTrans#0,"""돌입 준비 완료. 변질공각으로 돌입합니다."""
+MEDMultiBossTrans#0,"""돌입 준비 완료. 변질공간으로 돌입합니다."""
 MEDInaccessible#0,"""돌입 준비를 중지합니다."""
 SynchronizeBossTitleMED#0,"""포톤 재연소기관"""
 SynchronizeInaccessibleMED#0,"""포톤 재연소기관은 준비중입니다.<br>시간을 두고 다시 액세스해 주세요."""
