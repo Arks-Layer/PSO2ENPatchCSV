@@ -1,4 +1,4 @@
-IncidentName#0,"""【원초의 어둠】을 격파하라!"""
+IncidentName#0,"""【태초의 어둠】을 격파하라!"""
 TrialBeginMsg#0,"""$(0)을 격파해, 부활을 저지하라!"""
 TrialAbstract#0,"""$(0)을 격파해, 부활을 저지하라!"""
 NpcComOnBegin_1#0,"""/atime1.0 /voice11_voice_delicious_npcma_002 이것이……<br>【심원의 어둠】에 본 모습……"""
