@@ -5802,7 +5802,7 @@ GetExperience#0,"""게더링으로인해 <green>경험치<c>를 습득하였습�
 GatLimitOver#0,"""<yellow>$(0)<c>"""
 ErrorExecEndObjStamina#0,"""스폿이 없습니다."""
 ErrorExecEndFever#0,"""피버는 종료되었습니다."""
-ErrorExecEndGatStamina#0,"""스태미나가 부족합니다."""
+ErrorExecEndGatStamina#0,"""스태미너가 부족합니다."""
 ErrorExecEndNoItem#0,"""선택한 아이템이 없습니다."""
 SGShopTitle#0,"""스타잼 구입 """
 SGShopGuide#0,"""<c f0df60>AC를 소비해, 스타잼 (SG) 을 구입합니다. 구입할 상품을 선택해주세요."""
