@@ -15,4 +15,4 @@ NpcComOnBegin#3,"""긴급 통지.<br>新たな敵性反応が接近。<br>撃破
 NpcComOnSuccess#3,"""目標を撃破。<br>見事な対応でした。"""
 NpcComOnPreBegin#4,"""周辺、警戒してください！<br>不審な反応があります！"""
 NpcComOnBegin#4,"""긴급 통보입니다!<br>강력한 적성 반응 확인했습니다!<br>서둘러 대처해 주세요!"""
-NpcComOnSuccess#4,"""적성 반응 소실 확인!<br>훌륭하세요!"""
+NpcComOnSuccess#4,"""적성 반응 소실 확인!<br>훌륭합니다!"""
