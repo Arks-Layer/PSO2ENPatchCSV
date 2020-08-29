@@ -3958,7 +3958,7 @@ SynchronizeStartMessage#0,"""이 게이트는 모든 참여 멤버가 들어오�
 SynchronizeButtonForward#0,"""전송을 시작합니다."""
 SynchronizeButtonRemove#0,"""텔레포터에서 나간다."""
 SynchronizeStartButtonRemove#0,"""게이트에서 나간다."""
-SynchronizeInaccessible#0,"""이 텔레포터는<현재 사용할 수 없습니다.<br><br>일정 시간 지나면<br>다시 사용 가능해집니다."""
+SynchronizeInaccessible#0,"""이 텔레포터는<br>현재 사용할 수 없습니다.<br><br>일정 시간 지나면<br>다시 사용 가능해집니다."""
 SynchronizeTransferStart#0,"""텔레포터가 기동했습니다. 전송을 시작합니다."""
 SynchronizeMultiBossWakeUp#0,"""텔레포터를 기동합니까?"""
 SynchronizeMultiBossMessage#0,"""텔레포터가 기동했습니다.<br>30초 후 텔레포터 내에 있는 멤버를 전송합니다.<br><br>텔레포터를 정지합니까?"""
