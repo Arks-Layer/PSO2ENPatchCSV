@@ -7,7 +7,7 @@ HelpQuestSelect#0,"""<c f0df60>수주하고 싶은 퀘스트를 선택해 주세
 HelpQuestSelect_Vita#0,"""<c f0df60>수주하고 싶은 퀘스트를 선택해 주세요.<c><c ff4f3f>クエストブースト中は<c><%MultiSelect><c><c ff4f3f>ボタンで詳細を確認できます。<c>"""
 HelpRankSelect#0,"""<c f0df60>퀘스트 랭크를 선택해 주세요.<c>"""
 HelpPartySelect#0,"""<c f0df60>참가할 파티를 선택해 주세요.<c>"""
-HelpRecordSelect#0,"""<c f0df60>이 퀘스트는 최근 레코드 (아이템 등의 드롭 기록이나, 에너미의 출현율 기록)을 확인할 수 있습니다.<c>"""
+HelpRecordSelect#0,"""<c f0df60>이 퀘스트는 최근 레코드 (아이템 등의 드랍 기록이나, 에너미의 출현율 기록)을 확인할 수 있습니다.<c>"""
 ReceiverPC#0,"""・“PC” 로그인 증"""
 ReceiverVITA#0,"""・“PS Vita” ログイン証"""
 OtherBlock#0,"""다른 블록"""
