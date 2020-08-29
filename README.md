@@ -11,25 +11,27 @@ PSO2 한국어 저장소에 오신 것을 환영합니다!
 ## 도와주기
 ### 시작하기에 앞서/도와주는 방법
 
-A full guide on how to get started is [available here].
+자세한 가이드는 이쪽에 있습니다. [가이드 라인 참조].
 
 ### To-Do
 Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
 
 
 ### 일본어를 모르는데 어떻게 도와주나요?
-구글 번역기, 파파고 등을 통하여 번역한 후 원문과 함께 작성하여 검수요청을 하시면 다른 편집자가 검수를 할 예정입니다.
+구글 번역기, 파파고 등을 통하여 번역한 후 원문과 함께 작성하여 검수요청을
+하시면 다른 편집자가 검수를 할 예정입니다.
 또한 오타나 문법 등의 검수작업을 도와주시는 것 역시 큰 도움이 됩니다!
 
 ### 공지사항
 
-* If you want to translate a file that's in the "/Files/" directory then you **MUST** [move the file into another directory](https://github.com/blog/1436-moving-and-renaming-files-on-github) before you translate it. The /Files/ directory **MUST** only contain untranslated files.
-* You can find stuff to translate by using the Meka bot in the #translations-reporting room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
+* 번역 한 파일은 반드시 files에서 꺼내야 합니다. 번역 작업 시작 시 files폴더 안에서 잘라내기를 이용하여 꺼내는걸 추천 하며, 한줄이라도 번역되지 않은 경우 다시 files로 넣어주세요.
+* 번역에 관한 오타 제보 및 건의는 [여기서] 해주세요!
 
-* Maintain the triple quotes and only edit the text inside the quotes.
-* Be sure to take a look at the **[Wiki]** page for guides and reminders before sending us your translations.
+* csv 방식이기 때문에 따옴표 3개는 반드시 있어야 합니다.
+
+* 특정 사이트의 비방 및 혐오표현은 절대 안됩니다.
 
 [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/KR/Files
-[PSO2 Discord Server]: https://discord.gg/PSO2
+[여기서]: https://github.com/focuslite/PSO2ENPatchCSV/issues
 [Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
-[available here]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki/How-to-contribute
+[가이드 라인 참조]: https://1drv.ms/p/s!Aq5R5SRWzhIf6m-S98K2Aj6hrWZb?e=tcmQLZ
