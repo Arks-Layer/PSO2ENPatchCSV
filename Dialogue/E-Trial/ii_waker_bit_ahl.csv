@@ -29,5 +29,5 @@ NpcComOnPreBegin#4,"""새로운 적성 반응을 감지했습니다!<br>조심�
 NpcComOnBegin#4,"""판다지 비트의 출현을 확인!<br>주변의 에너미에게 영향이 생깁니다!<br>서둘러 파괴해주세요!"""
 NpcComOnSuccess#4,"""판다지 비트의 파괴를 확인!<br>수고하셨습니다!"""
 NpcComOnFailure#4,"""판다지 비트의 반응 소실!<br>……도망쳐 버린 것 같아요.<br>통상 임무로 돌아가주세요."""
-NpcComOnRemainTimeNotice#4,""시간이 없어요!<br>어서 빨리 파괴해주세요!"""
+NpcComOnRemainTimeNotice#4,"""시간이 없어요!<br>어서 빨리 파괴해주세요!"""
 NpcComOnLastOne#4,"""판다지 비트의<br>반응은 하나 남았습니다!<br>초조해 하지 말고 대응해주세요!"""
