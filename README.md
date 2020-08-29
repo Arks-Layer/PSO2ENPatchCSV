@@ -12,6 +12,8 @@ PSO2 한국어 저장소에 오신 것을 환영합니다!
 ### 시작하기에 앞서/도와주는 방법
 
 자세한 가이드는 이쪽에 있습니다. [가이드 라인 참조].
+**현재 작업 중인 파일의 상황 공유는 꼭 해야하니
+[PSO2 번역 작업 시트]에서 현재 작업중인 시트를 공유해주세요.
 
 ### To-Do
 Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
@@ -35,3 +37,4 @@ Any CSV files located in [Files] are still to be translated, while the CSV files
 [여기서]: https://github.com/focuslite/PSO2ENPatchCSV/issues
 [Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
 [가이드 라인 참조]: https://1drv.ms/p/s!Aq5R5SRWzhIf6m-S98K2Aj6hrWZb?e=tcmQLZ
+[PSO2 번역 작업 시트]: https://bit.ly/2EIsJaE
