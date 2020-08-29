@@ -1557,7 +1557,7 @@ MissionClearBonus#1,"""【MISSION$(0)】오더 성공! 스코어 +$(1)점 획득
 ToastEnterIntervalClient#2,"""인터벌 에어리어 도착! 제한시간 +$(0)초 획득!"""
 ProgIATitle#1,"""다음 지역으로 전송까지 앞으로 """
 ProgIAForceMoveTitle#1,"""인터벌 에어리어로 전송까지 앞으로 """
-ArmadaParsonalPointNotice#0,"""섹터 1&2 합계 요격 포인트 ($(0)<pict Target_CP>) 에 따른 아이템 드롭 수 상승 효과가 섹터3 퀘스트에서 발생!"""
+ArmadaParsonalPointNotice#0,"""섹터 1&2 합계 요격 포인트 ($(0)<pict Target_CP>) 에 따른 아이템 드랍 수 상승 효과가 섹터3 퀘스트에서 발생!"""
 ArmadaParsonalPointViewTitle#0,"""요격 포인트"""
 ExploreStartMessage#0,"""적을 쓰러뜨리며 가상장치 기능을 정지시키고, 탈출용 엘레파이프로 탈출하라!"""
 ExploreBonusTarget#0,"""디바이드 포인트 보너스 대상 :<br><yellow>$(0)<br>$(1)<br>$(2)<c>"""
