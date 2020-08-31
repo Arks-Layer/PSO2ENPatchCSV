@@ -1150,7 +1150,7 @@ OnAttackPhase1Start2#0,"""파계추를 소환했어요!<br>이번에야말러 �
 OnAttackPhase2Start0_0#0,"""마신 결계 파괴에 성공!<br>이젠 마신성을 쓰러뜨리기만 하면 돼요!<br>먼저 복부의 코어를 공격하죠!"""
 OnAttackPhase2Start0_1#0,"""마신성은 일정 시간마다<br>파계탑을 향해 레이저를 발사해요!<br>시급히 코어를 파괴해주세요!"""
 OnAttackPhase3Start0_0#0,"""마신성을 공격하기 위해<br>좌우 계단에서 중앙 다리 위로<br>이동해 주세요!"""
-OnAttackPhase3Start0_1#0,"""이번에도 마신성은 일정 시간마다<br>강력한 레이저를 쏠 거에요!br>서둘러 격파를!"""
+OnAttackPhase3Start0_1#0,"""이번에도 마신성은 일정 시간마다<br>강력한 레이저를 쏠 거에요!<br>서둘러 격파를!"""
 OnAttackPhase3Start1#0,"""다시 방어 기구에 올라가<br>마신성의 약점 부위로 향해주세요!"""
 OnDefencePhase1End0#0,"""적군 제압을 확인!<br>파계추 소환 중입니다. 이 틈에<br>진군 준비를 부탁드려요!"""
 OnDefencePhase1End1#0,"""다시 파계추를 소환해 결계를 공격할게요!<br>마나를 회수해서 소환 할<br>파계추 수를 늘여봐요!"""
