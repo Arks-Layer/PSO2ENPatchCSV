@@ -1,4 +1,4 @@
-train_title#0,"""課題３：<yellow>ギアを最大までためる"""
-tut_title#0,"""『ナックルギア』について"""
-text100#0,"""・<%NormalAttack>通常攻撃でギアをためる"""
-text100_3b#0,"""・<%NormalAttack>通常攻撃でギアをためる"""
+train_title#0,"""3-я задача: <yellow>Полностью заполнить Gear"""
+tut_title#0,"""Gear кастетов"""
+text100#0,"""・С помощью обычных атак <%NormalAttack><br>заполните Gear"""
+text100_3b#0,"""・С помощью обычных атак <%NormalAttack><br>заполните Gear"""

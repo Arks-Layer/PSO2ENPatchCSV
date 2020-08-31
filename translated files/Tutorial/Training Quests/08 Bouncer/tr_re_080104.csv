@@ -1,4 +1,4 @@
-train_title#0,"""課題４：<yellow>派生攻撃を発動する"""
-tut_title#0,"""派生攻撃について"""
-text100#0,"""・<%NormalAttack>で通常攻撃をする<br>・通常攻撃中に<%WeaponAction>で<br>\u3000武器アクションをする"""
-text100_3b#0,"""・<%NormalAttack>で通常攻撃をする<br>・通常攻撃中に<%MainPaletteC>で<br>\u3000武器アクションをする"""
+train_title#0,"""4-я задача: <yellow>Шифтовать во время атаки"""
+tut_title#0,"""Шифтование"""
+text100#0,"""・Обычная атака <%NormalAttack><br>・Во время обычной атаки<br>выполните шифтование <%WeaponAction>"""
+text100_3b#0,"""・Обычная атака <%NormalAttack><br>・Во время обычной атаки<br>выполните шифтование <%WeaponAction>"""
