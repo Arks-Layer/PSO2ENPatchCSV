@@ -1,0 +1,7 @@
+IncidentName#0,"""팬지를 격파하라!"""
+TrialBeginMsg#0,"""팬지를 격파하여 납치당한 동료를 구출하라!<br>납치당한 동료가 전투 불능에 빠지면 실패."""
+TrialAbstract#0,"""납치당한 플레이어를 구출하라!"""
+NpcComOnSuccess#0,"""/face2 팬지, 완전파괴 되었습니다-!<br>각 대원의 협력에 감사드립니다!"""
+NpcComOnFailure#0,"""/face4 $(0)씨의<br>구출에 실패했습니다……죄송합니다.<br>저의 지시가 정확했더라면……!"""
+NpcComOnSuccess#1,"""팬지의 파괴를 확인했습니다!<br>이어서, 임무를 계속해주십시오!"""
+NpcComOnFailure#1,"""$(0)씨의<br>구출, 실패입니다……"""
