@@ -1,0 +1,5 @@
+train_title#0,"""4-я задача: <yellow>Использовать \""Darkness Wall\"", чтобы привлечь внимание врага"""
+tut_title#0,"""Использование Darkness Wall"""
+text100#0,"""・Активировать<br>Darkness Wall <%SubPalette1>"""
+text101#0,"""・Изменить выбор в<br>под-палитре <%SubPaletteLeft><%SubPaletteRight><br>・Активировать<br>Darkness Wall<%SubPalette>"""
+text100_v#0,"""・Выбрать Darkness Wall<br>в под-палитре"""
