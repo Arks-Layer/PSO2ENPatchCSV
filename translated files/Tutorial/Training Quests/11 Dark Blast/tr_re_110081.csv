@@ -1,5 +1,5 @@
 train_title#0,"""5-я задача: <yellow>Использовать Ultimate Impact из под-палитры"""
 tut_title#0,"""Использование Ultimate Impact"""
 text100#0,"""・Активируйте Ultimate Impact <%SubPalette2>"""
-text101#1,"""・Выберите в под-палитре <%SubPaletteLeft><%SubPaletteRight><br>・Активируйте Ultimate Impact <%SubPalette>"""
+text101#0,"""・Выберите в под-палитре <%SubPaletteLeft><%SubPaletteRight><br>・Активируйте Ultimate Impact <%SubPalette>"""
 text100_v#0,"""・Активируйте Ultimate Impact из под-палитры"""
