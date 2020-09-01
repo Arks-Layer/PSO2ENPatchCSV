@@ -1,4 +1,4 @@
 train_title#0,"""2-я задача: <yellow>Вызвать Kamaitachi"""
 tut_title#0,"""Gear двойной глефы"""
-text100#0,"""・Атакуйте врага и накопите<br>1 шкалу Gear<br>・Использовать Kamaitachi <%WeaponAction>"""
-text100_3b#0,"""・Атакуйте врага и накопите<br>1 шкалу Gear<br>・Использовать Kamaitachi <%WeaponAction>"""
+text100#0,"""・Атакуйте врага и накопите<br>1 шкалу Gear<br>・Использовать для Kamaitachi <%WeaponAction>"""
+text100_3b#0,"""・Атакуйте врага и накопите<br>1 шкалу Gear<br>・Использовать для Kamaitachi <%MainPaletteC>"""
