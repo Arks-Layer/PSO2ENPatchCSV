@@ -69,7 +69,7 @@ Npc50_mb24_after_020#0,"""一人ひとりのアークスが迅速かつ<br>適�
 Npc50_mb25_010#0,"""シャオの持つ管理権限等の移行へ向けて<br>現在、準備を行っております。"""
 Npc50_mb25_020#0,"""それに伴う管理体制の調整や変更が<br>終わり次第、改めて連絡をします。<br>もう暫くお待ちください。"""
 st01_010#0,"""<%me> Felicitaciones por su regreso."""
-st01_020#0,"""Ya tenemos la aprobación del comandante general.<br> Como Arks, espero más actividad que nunca."""
+st01_020#0,"""Ya tenemos la aprobación del comandante general.<br>Como Arks, espero más actividad que nunca."""
 st01_030#0,"""Y... Bienvenido de nuevo.<br>Te estaba esperando."""
 11_voice_NPC_5050_100#6,"""復帰早々、大変なご様子。<br>あまり無理はなさらぬように。"""
 st01_020#1,"""Es divertido ver a Philia siempre siendo hilarante, pero es un poco triste."""

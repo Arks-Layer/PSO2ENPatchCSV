@@ -1,6 +1,6 @@
-Begin#0,"""/ci1 1 ¿Cómo puedes estar todavía de tan buen humor ...? <br><%me>, Matoi, <br>¡Estamos aquí para ayudarte!"""
+Begin#0,"""/ci1 1 ¿Cómo puedes estar todavía de tan buen humor?...<br><%me>, Matoi,<br>¡Estamos aquí para ayudarte!"""
 Success#0,"""/ci1 2 Nos ocuparemos de los enemigos aquí. ¡Ustedes dos deberían ir tras Shiva!"""
-Failure#0,"""Hicimos nuestro mejor esfuerzo, pero no fue suficiente... <br>Lamento no haber podido ayudar..."""
+Failure#0,"""Hicimos nuestro mejor esfuerzo, pero no fue suficiente...<br>Lamento no haber podido ayudar..."""
 Dead#0,"""Patty por el amor de dios cuida de ellos dos. Lo siento por ustedes dos..."""
 BuddyDead#0,"""¡Eso es lo que pasa cuando corres como loca, hermana idiota!"""
 Begin#1,"""開始5150"""
