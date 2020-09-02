@@ -5,7 +5,7 @@ NpcComOnBegin#0,"""Notificación de emergencia. Un fuerte entidad hostil se ha d
 NpcComOnSuccess#0,"""La entidad hostil ha desaparecido. Buen trabajo en tus esfuerzos."""
 NpcComOnBegin#1,"""Esto es urgente. Se han detectado lecturas de enemigos poderosos.<br> Derrótalo lo antes posible."""
 NpcComOnSuccess#1,"""Las señales enemigas han desaparecido. Buen trabajo!"""
-NpcComOnBegin#2,"""¡Ordenes U-urgentes! ¡Potentes señales enemigas han sido confirmadas! Por favor, derrótalas rápido!"""
+NpcComOnBegin#2,"""¡Ordenes U-urgentes!, ¡Potentes señales enemigas han sido confirmadas! Por favor, derrótalas rápido!"""
 NpcComOnSuccess#2,"""/face2 ¡Las señales enemigas han desaparecido!<br> Gracias a todos.!"""
 NpcComOnBegin#3,"""Notificación de emergencia. Se ha detectado una fuerte entidad hostil. Por favor derrotala inmediatamente."""
 NpcComOnSuccess#3,"""La entidad hostil ha desaparecido. Buen trabajo en sus esfuerzos."""
