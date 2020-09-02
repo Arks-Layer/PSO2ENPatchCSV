@@ -196,7 +196,7 @@ IncidentJsApcBegin#2,"""/toge /ci2 2 おい、貴様！\u3000大丈夫か！<br>
 IncidentJsApcFailure#2,"""/mn10  ぐっ……情けない……<br>すまない、私は退かせてもらう。"""
 IncidentJsApcSuccess#2,"""/mn15 /ci2 1 ふっふっふ、決まったな！<br>困ったときはいつでも呼ぶといい！<br>それじゃあな！"""
 IncidentJsApcBeginEvo#2,"""/mn15 /ci2 1 むっ、まだ来るのか！<br>あれも爆破してしまっていいのだろう？"""
-IncidentJsMultiApcBegin#0,"""/toge /ci2 1 六芒均衡クラリスクレイス <br>かれいに参上だっ！<br>さあ、敵味方問わずに敬うといい！"""
+IncidentJsMultiApcBegin#0,"""/toge /ci2 1 六芒均衡クラリスクレイス<br>かれいに参上だっ！<br>さあ、敵味方問わずに敬うといい！"""
 IncidentJsMultiApcSuccess#0,"""/mn19 /ci2 4 うん！\u3000私には全然ちっとも<br>これっぽっちもわからないけど<br>ついていくぞ！\u3000それじゃあな貴様！"""
 EnemyWeak#3,"""弱い者いじめは嫌いなんだけど"""
 EnemyLarge#3,"""大きいだけなら怖くない"""

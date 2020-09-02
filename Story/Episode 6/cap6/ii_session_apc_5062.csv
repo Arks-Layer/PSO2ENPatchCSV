@@ -19,4 +19,4 @@ Begin#3,"""/ci1 2 ¡yo también! ¡Haré todo lo posible para no meterme debajo 
 Success#3,"""/ci2 1 ¡Eres tan brillante como siempre, Capitán! ¡Solo sé que puedes vencer a Shiva! ¡Déjenos esta área a nosotros!"""
 Failure#3,"""/mn23 /ci4 3 Lo siento, capitán...<br>No podemos hacer más por usted...<br>Por favor, regrese sano y salvo..."""
 Dead#3,"""Lo siento...<br>necesito descansar..."""
-BuddyDead#3,"""/ci4 2 ¿Eh, estoy solo? No me siento preparado para esto, ¡pero tengo que hacer mi mejor esfuerzo ...!"""
+BuddyDead#3,"""/ci4 2 ¿Eh, estoy solo? No me siento preparado para esto, ¡Pero tengo que hacer mi mejor esfuerzo ...!"""
