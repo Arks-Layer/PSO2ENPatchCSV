@@ -15,8 +15,10 @@ PSO2 한국어 저장소에 오신 것을 환영합니다!
 **현재 작업 중인 파일의 상황 공유는 꼭 해야하니**<br>
 [PSO2 번역 작업 시트]에서 현재 작업중인 시트를 공유해주세요.
 
-### To-Do
-Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
+### 해야할 것
+남은 인터페이스 번역<br>
+스토리 번역<br>
+가이드 라인 상세 작성
 
 
 ### 일본어를 모르는데 어떻게 도와주나요?
