@@ -1261,7 +1261,7 @@ StackBuyInputNumberMessage#0,"""Por favor introduce la cantidad que quieres comp
 BuyErrorTitle#0,"""Tienda"""
 BuyErrorMessage1#0,"""Mesetas insuficientes."""
 BuyErrorMessage2#0,"""Te falta espacio libre en tu inventario, o<br>estas comprando mas objetos de los que puedes llevar la compra no se pudo completar."""
-BuyErrorMessage3#0,"""'$(0)' has alcanzado la capacidad de carga.<br>no puede comprar mas."""
+BuyErrorMessage3#0,"""'$(0)' has alcanzado la capacidad de carga.<br>No puede comprar mas."""
 BuyErrorMessage5#0,"""No hay espacio en el almacen,<br>no puede comprar mas."""
 BuyTitle#4,"""Confirmación de compra"""
 BuyMessage1#0,"""Comprando '$(1)' en $(2)$(0).<br>¿Estas seguro?"""

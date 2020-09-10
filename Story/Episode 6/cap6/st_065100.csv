@@ -23,6 +23,6 @@ st_065110_0090#0,"""Abre tus ojos. Conéctate con los recuerdos y camina hacia e
 st_065110_0100#0,"""<%me>.<br>La existencia original y el ARKS final."""
 st_065110_0110#0,"""Las respuestas a todos provienen de la historia que tejiste."""
 st_065110_0120#0,"""Te agradezco el haber podido reunirme con usted."""
-window_message_0000#0,"""Se guardó el progreso de la sesión anterior.<br>¿continuar?<br><br>El progreso guardado no se borrará si se selecciona (Desde el principio)."""
+window_message_0000#0,"""Se guardó el progreso de la sesión anterior.<br>¿Continuar?<br><br>El progreso guardado no se borrará si se selecciona (Desde el principio)."""
 window_message_0010#0,"""Continuar"""
 window_message_0020#0,"""Desde el principio"""
