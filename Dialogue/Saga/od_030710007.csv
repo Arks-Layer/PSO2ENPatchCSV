@@ -1,0 +1,7 @@
+text01#0,"""戻ったな。<br>報告も確認した。<br>良いできだったと言えよう。"""
+11_voice_NPC_5151_100#0,"""ジェットブーツの特徴を<br>よく理解した戦い方だったと言える。"""
+text03#0,"""渡したジェットブーツも<br>よく馴染んでいるようだな。<br>そのまま持って行くといい。"""
+text04#0,"""ではな。<br>これからもジェットブーツの習熟に<br>励み精進していってくれ。"""
+text00#0,"""About Jet Boots Gear"""
+text01#1,"""When you learn the skill \""Jet Boots Gear\"", a Gear Gauge is added to the top of the Weapon Palette.<br><br>The Gear Gauge fills when you hit enemies with Jet Boots attacks and when you charge Techniques."""
+text02#0,"""Filling the Gear Gauge boosts the range and power of normal attacks, and gives them a special effect based on your weapon's element. It also boosts PA power.<br><br>In addition, charging a Technique will temporarily change the element of your Jet Boots to that Technique's element."""
