@@ -1,6 +1,6 @@
 IncidentName#0,"""아크스의 모방체?를 격퇴하라"""
-TrialBeginMsg#0,"""모든 적을 격파해라!"""
-TrialAbstract#0,"""모든 적을 격파해라!"""
+TrialBeginMsg#0,"""모든 적을 격파하라!"""
+TrialAbstract#0,"""모든 적을 격파하라!"""
 NpcComOnBegin#0,"""매우 강력한 적성 반응 감지!<br>이 반응은 뭘까요…<br>어떻게든 전부 격파해 주세요!"""
 NpcComOnSuccess#0,"""적 반응 소실에 의해<br>여러분들의 좌표도 찾을 수 있었습니다.<br>상황 클리어. 귀환해주세요."""
 NpcComOnFailure#0,"""실패"""

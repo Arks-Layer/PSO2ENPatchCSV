@@ -1,6 +1,6 @@
 IncidentName#0,"""아크스의 모방체? 를 요격하라"""
-TrialBeginMsg#0,"""아크스의 모방체?를<br>전부 격파해라!"""
-TrialAbstract#0,"""아크스의 모방체?를<br>전부 격파해라!"""
+TrialBeginMsg#0,"""아크스의 모방체?를<br>전부 격파하라!"""
+TrialAbstract#0,"""아크스의 모방체?를<br>전부 격파하라!"""
 NpcComOnBegin#0,"""이 반응은…… 아크스?<br>아니, 다커의 모방체입니다！<br>요격 태세를 취하세요！"""
 NpcComOnSuccess#0,"""적성 반응 소실<br>……추적 조사는 필요 없습니다.<br>계속해서 임무를 진행해 주세요."""
 NpcComOnBegin#1,"""/face3 이 반응…… 칫, 모방체인가！<br>모두 지시에 따라, 즉시<br>요격 태세를 갖춰 적을 섬멸해라!"""
