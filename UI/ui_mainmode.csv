@@ -4153,7 +4153,7 @@ DBMultiBossMessage#0,"""출격 준비를 시작합니다.<br>일정 시간 후 �
 DBMultiBossMessageExc#0,"""출격 준비를 시작합니다.<br>일정 시간 후 주변에 있는 멤버로 출격합니다.<br><br>준비를 정지하시겠습니까?"""
 DBMultiBossRemove#0,"""준비를 중지한다"""
 DFMultiBossStart#0,"""전투를 시작합니다."""
-DFBootup#0,"""【원초의 어둠】との最終決戦を開始しますか？<br><yellow>※一度実行するとキャンセルする事はできません。<c>"""
+DFBootup#0,"""【원초의 어둠】과의 최종 결전을 시작하시겠습니까?<br><yellow>※한번 실행하면 취소할 수 없습니다.<c>"""
 MackMultiBossGoto#0,"""텔레포터를 기동합니다.<br>일정 시간 내에 텔레포터로 향해주세요."""
 MackMultiBossGotoExc#0,"""텔레포터를 기동합니다.<br>일정 시간 내에 텔레포터로 향해주세요."""
 MackMultiBossStart#0,"""카운트다운 종료. 전송을 시작합니다."""
