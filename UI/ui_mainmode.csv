@@ -3014,7 +3014,7 @@ SlayerTalent#1,"""While a Gunslash is equipped, boosts damage based on the Main 
 SlayerGSlashReferenceChange#1,"""While using a Gunslash, change to the highest attack stat of Striking & Ranged Special Abilities on the weapon. <yellow>Main class only."""
 SlayerIgnoreResist#1,"""While a Gunslash is equipped, you can ignore weapon resists of certain enemies. <yellow>Main class only."""
 SlayerTension#1,"""Boosts Voltage based on the number of hits. Gain bonuses to damage and damage reduction based on the Voltage."""
-SlayerTensionAssist#1,"""Everytime Voltage reaches a certain value, automatically apply Shifta and Deband."""
+SlayerTensionAssist#1,"""Every time Voltage reaches a certain value, automatically apply Shifta and Deband."""
 SlayerTensionHighBonus#1,"""When the Voltage reaches a certain value, boosts Critical Rate & PP Recovery. Reduces the cooldown of all Active skills upon Voltage reset."""
 SlayerTensionResetGain#1,"""Upon Voltage reset, restore HP and PP based on the Voltage value."""
 SlayerTensionAwake#1,"""Upon successfully attacking a Powerful Enemy, gain a bonus on Voltage accumulation."""
