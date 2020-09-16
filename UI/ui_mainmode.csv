@@ -1555,7 +1555,7 @@ PokaExplanation#0,"""A special class used in the ARKS Battle Arena.<br>It is abl
 WpnmanExplanation#0,"""A successor class designed to fight multiple enemies at once. Can use 3 weapons of Striking, Ranged and Tech types in combat."""
 VillainExplanation#0,"""A successor class that can perform consecutive attacks. It excels in mobility, using a variety of moves and techniques."""
 MasterExplanation#0,"""A successor class specialised in melee combat. It combines a strong offense with a solid defense, keeping its guard up at all times."""
-SlayerExplanation#0,"""銃剣による高速戦闘を行う後継クラス。<br>武器属性に応じて変化する３種の戦闘スタイルは<br>それぞれ特化した性能を持つ。"""
+SlayerExplanation#0,"""A successor class that fights at high speed with a Gunslash. Switches between three styles depending on weapon attribute."""
 NoPaMessage#0,"""There are no Photon Arts"""
 NoTechnicMessage#1,"""There are no Techniques"""
 NoOverloadMessage#1,"""No Compound Techniques."""
