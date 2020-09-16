@@ -1826,7 +1826,7 @@ Ice03#1,"""Técnica intermedia de hielo.<br>Manipula la atmosfera para convocar 
 Ice04#1,"""Manipula los photones para ajustar la presión atmosferica. Regenera una serie de flechas en su objetivo."""
 Ice05#1,"""Técnica basica de hielo.<br>Genera un aura defensiva sobre los jugadores"""
 Ice06#1,"""Técnica avanzada de Hielo.<br>Liberar un flujo constante de aire frio."""
-Ice07#1,"""Generar una explosión interna de hielo.<br>Si conectas 8 ataque consecutivo produciras un daño mas alto"""
+Ice07#1,"""Generar una explosión interna de hielo.<br>Si conectas 7 ataque consecutivo produciras un daño mas alto"""
 Thunder01#1,"""Técnica basica electrica.<br>Cargas photones para disparar un rayo<br>en cualquier lugar que gustes."""
 Thunder02#1,"""Técnica intermedia electrica.<br>Release an electric shock that<br>spreads from target to target."""
 Thunder03#1,"""Técnica intermedia electrica.<br>Generates a sphere of electricity, which<br>shocks its surroundings."""
