@@ -9289,7 +9289,7 @@ pet_MultiPersonality5#1,"""Boosts Rare Drop Rate, gives the<br>effects of \""Pos
 pet_MultiPersonality6#1,"""Boosts Rare Drop Rate, gives the<br>effects of \""Devoted\"" and \""Cunning\""."""
 pet_MultiPersonality7#1,"""Boosts Rare Drop Rate, gives the<br>effects of \""Rowdy\"" and \""Hawkish\""."""
 pet_MultiPersonality8#1,"""Boosts Rare Drop Rate, damage<br>dealt to bosses, & PP recovery<br>gained from normal attacks."""
-pet_MultiPersonality9#1,"""アイテムドロップ倍率上昇<br>ペット被ダメ減。クリティ<br>カル威力増だが発生率減。"""
+pet_MultiPersonality9#1,"""Boosts Rare Drop Rate and<br>Pet damage taken reduction.<br>Boosts Critical Damage, but<br>decreases Critical Rate."""
 item_NoAssign#1,"""【説明】未設定潜在能力"""
 ShopTitle#6,"""FUN Shop"""
 MenuGuide#9,"""<c f0df60>By trading FUN, you can purchase various items. Please select the items you'd like.<c>"""
