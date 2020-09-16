@@ -1,6 +1,6 @@
 IncidentName#0,"""Defeat Shiva!"""
-TrialBeginMsg#0,"""Defeat the Goddess of Demise: Shiva!"""
-TrialAbstract#0,"""Defeat the Goddess of Demise: Shiva!"""
+TrialBeginMsg#0,"""Defeat the [Goddess of Demise] Shiva!"""
+TrialAbstract#0,"""Defeat the [Goddess of Demise] Shiva!"""
 NpcComOnBegin#0,"""Emergency notification. A strong hostile entity has been detected. Please defeat it immediately."""
 NpcComOnSuccess#0,"""The hostile entity has disappeared. Good work on your efforts."""
 NpcComOnBegin#1,"""This is urgent. Powerful enemy<br>readings have been detected.<br>Defeat it ASAP."""
