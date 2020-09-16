@@ -381,6 +381,8 @@ pso2_players_manual_menu_mmenu_arksmission#0,"""<url http://pso2.jp/players/manu
 pso2_web_event_url#0,"""http://pso2.jp/players/event/"""
 pso2_manual_fundamentals_ac_dailyshop#0,"""-"""
 pso2_players_manual_menu_battlepass#0,"""-"""
+pso2.jp_players_news_25893_#0,"""<url http://pso2.jp/players/news/25893/>"""
+pso2_mac_auth_sos#0,"""<url http://pso2.jp/players/news/23789/>"""
 NormalAttackText#0,"""Normal Attack Button"""
 WeaponActionText#0,"""Weapon Action Button"""
 PhotonArtsText#0,"""Photon Arts Button"""
