@@ -3029,7 +3029,7 @@ SlayerDodgeCounterZZ#1,"""Zandi Style: Upon a successful dodge via Step or Weapo
 SlayerTriggerFM#1,"""Fomel Style Weapon Action: Consume Gear and launch a barrage of attacks upon an enemy."""
 SlayerLongArtsFM#1,"""Fomel Style: Boosts Voltage when you attack using Enhance Arts."""
 SlayerLongAttackFM#1,"""Fomel Style: Creates a follow-up attack from an Enhanced Attack by consuming Gear. Fires a Photon Spear after using a PA."""
-SlayerPerfectJAFM#1,"""Fomel Style: Comboing a PA into another Just Attacked PA as early as possible makes Photon blades orbit you for a short time."""
+SlayerPerfectJAFM#1,"""Fomel Style: Comboing a PA into another Just Attacked PA as early as possible makes Photon Clusters orbit you for a short time."""
 SlayerTriggerBG#1,"""Baran Style Weapon Action: Consume Gear and fire charged Photon Bullets."""
 SlayerStayArtsBG#1,"""Baran Style: Boosts Voltage when you hit an enemy using Stay Arts."""
 SlayerLongAttackBG#1,"""Baran Style: Creates a follow-up attack from an Enhanced Attack by consuming Gear. Creates an attack that lasts for a limited time."""
