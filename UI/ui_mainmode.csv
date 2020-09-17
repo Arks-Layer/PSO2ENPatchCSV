@@ -3039,7 +3039,7 @@ SlayerSpeedLongArts#1,"""Gunslash: Consume Gear & activate another Enhance Arts 
 SlayerUpLift#1,"""Gunslash: Jumping after using any attack actions will activate a special attack. <yellow>Main class only."""
 SlayerDownLift#1,"""Gunslash: Jumping after using any attack actions without inputting a direction will activate a special attack. <yellow>Main class only."""
 SlayerDodgeCounter#1,"""Gunslash: Step Attacks become stronger after a successful dodge using Step. <yellow>Main class only."""
-SlayerStepGuard#1,"""Gunslash: Perform a special Counterattack when you Step before and after an enemy's attack while locked-on. <yellow>Main class only."""
+SlayerStepGuard#1,"""Gunslash: Perform a special counterattack when you Step forwards or backwards through an enemy's attack while locked-on. <yellow>Main class only."""
 SlayerStepSlide#1,"""Gunslash: During a Step, use Step again to consume PP and move a set distance while shooting. <yellow>Main class only."""
 SlayerBlink#1,"""Gunslash: Move at a high speed when you use a Normal Attack at a specific time. <yellow>Main class only."""
 SlayerBackStep#1,"""Gunslash: Initiate a special attack when you use Step Slide towards or away from a locked-on target. <yellow>Main class only."""
