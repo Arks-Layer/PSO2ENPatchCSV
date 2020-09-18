@@ -1,4 +1,4 @@
-train_title#0,"""課題２：<yellow>かまいたちを発生させる"""
-tut_title#0,"""『ダブルセイバーギア』について"""
-text100#0,"""・エネミーを攻撃してギア１段階以上ためる<br>・<%WeaponAction>でかまいたち発生"""
-text100_3b#0,"""・エネミーを攻撃してギア１段階以上ためる<br>・<%MainPaletteC>でかまいたち発生"""
+train_title#0,"""2-я задача: <yellow>Вызвать Kamaitachi"""
+tut_title#0,"""Gear двойной глефы"""
+text100#0,"""・Атакуйте врага и накопите<br>1 шкалу Gear<br>・Использовать для Kamaitachi <%WeaponAction>"""
+text100_3b#0,"""・Атакуйте врага и накопите<br>1 шкалу Gear<br>・Использовать для Kamaitachi <%MainPaletteC>"""

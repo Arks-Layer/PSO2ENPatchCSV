@@ -1,4 +1,4 @@
-train_title#0,"""課題６：<yellow>タリスの派生アクションとPAを組み合わせて発動させる"""
-tut_title#0,"""タリスの派生アクションについて"""
-text100#0,"""・<%NormalAttack>でタリスの「ジェットホイール」を発動する<br>・「ジェットホイール」発動中に<br>\u3000<%PhotonArts>で「ダイブオブバレット」を長押しする"""
-text100_3b#0,"""・<%PhotonArts>でタリスの「ジェットホイール」を発動する<br>・「ジェットホイール」発動中に<br>\u3000<%MainPaletteC>で「ダイブオブバレット」を長押しする"""
+train_title#0,"""6-я задача: <yellow>Скомбинировать два Фотон Арта"""
+tut_title#0,"""Особое действие талиса"""
+text100#0,"""・Активируйте Jet Wheel <%NormalAttack><br>・Во время активации Jet Wheel<br>нажмите и удерживайте<br>Dive Bullet <%PhotonArts>"""
+text100_3b#0,"""・Активируйте Jet Wheel <%PhotonArts><br>・Во время активации Jet Wheel<br>нажмите и удерживайте<br>Dive Bullet <%MainPaletteC>"""
