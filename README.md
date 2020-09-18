@@ -11,7 +11,9 @@ This repository is dedicated to translating PSO2 game texts from Japanese to Eng
 
 We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native languages in the future.
 
-<i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit translations to RAW JP files. ありがとう～ (*＾▽＾)／</i>
+<i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit translations to RAW JP files.</i>
+
+ありがとう～ (*＾▽＾)／
 
 ## Contributions
 ### Getting Started/Helping Out
@@ -25,7 +27,7 @@ If you don't understand Japanese, but still want to help out, you can look over 
 
 ### Notice
 * If you want to translate a file that's in the "/Files/" directory then you **MUST** [move the file into another directory](https://github.com/blog/1436-moving-and-renaming-files-on-github) before you translate it. The /Files/ directory **MUST** only contain untranslated files.
-* You can find stuff to translate by using the GLaDOS bot in the #translations-public room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
+* You can find stuff to translate by using the Meka bot in the #translations-reporting room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
 
 * Maintain the triple quotes and only edit the text inside the quotes.
 * Be sure to take a look at the **[Wiki]** page for guides and reminders before sending us your translations.

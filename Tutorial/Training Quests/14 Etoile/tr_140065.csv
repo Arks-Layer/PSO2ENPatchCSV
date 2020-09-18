@@ -1,0 +1,8 @@
+name01#0,"""Xiera"""
+11_voice_train_04005#0,"""When you take a hit, <red>1 unit of Gear will be consumed automatically<c>!"""
+text02#0,"""Your Gear Gauge isn't just used for defense. You can also use it to perform a powerful attack called an \""Enhance Attack\""!"""
+text03#0,"""With at least 1 unit of Gear, hold the normal attack button and watch the fireworks fly! Give it a try!"""
+text101#0,"""Task 1: <yellow>Use Enhance Attack on an enemy<c>"""
+train_title#0,"""Task 1: <yellow>Use Enhance Attack on an enemy<c>"""
+tut_title#0,"""Enhance Attack"""
+text100#0,"""・Press and hold <%NormalAttack>"""

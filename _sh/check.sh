@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 rm -rf /tmp/PSO2ENPatchCSV.check
 mkdir -p /tmp/PSO2ENPatchCSV.check
 rsync --recursive --executability --whole-file . /tmp/PSO2ENPatchCSV.check/WC --exclude ".git" --del && cd /tmp/PSO2ENPatchCSV.check/WC/Files && find .. -name "*.csv" -not -path "../Files/*" -not -path "*/.git/*" -print0|../../WC/_tools/mp.sh -0 ln -s {} . \; &

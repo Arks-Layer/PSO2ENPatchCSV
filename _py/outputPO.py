@@ -22,7 +22,7 @@ def poformat(input):
 	for i, o in POnice:
 		outtext = inputl.replace(i, o)
 		inputl = outtext
-	if outtext is "\\":
+	if outtext == "\\":
 		return "\\\\"
 	return outtext
 
@@ -47,6 +47,7 @@ ENcheckForce = False
 err = 0
 if sys.argv[1] == "en":
 	ENcheckForce = True
+itemlist = ["ui_accessories_text", "ui_charamake_parts"]
 for i in sys.argv[2:]:
 	w = i.replace("JP/", "WC/")
 	e = i.replace("JP/", "EN/")
@@ -63,6 +64,9 @@ for i in sys.argv[2:]:
 		#	ENcheck = True
 		#if ENcheck and JPcheck:
 		#	continue
+		skip = False
+		if basename in itemlist:
+			skip = True
 		for x, row in enumerate(JPCSV):
 			ID = row[0]
 			POID = poformat(ID)
@@ -107,8 +111,9 @@ for i in sys.argv[2:]:
 				print("msgid \"{}\"".format(POEN))
 				#msgstr translated-string
 				print("msgstr \"\"")
-				print("{}:{} {} \"{}\" =~ \"{}\"".format(basename, x + 1, ID, WC, JP), file=sys.stderr)
-				err = 1
+				if not skip:
+					print("{}:{} {} \"{}\" =~ \"{}\"".format(basename, x + 1, ID, WC, JP), file=sys.stderr)
+					err = 1
 			else:
 				#msgid untranslated-string
 				print("msgid \"{}\"".format(POEN))

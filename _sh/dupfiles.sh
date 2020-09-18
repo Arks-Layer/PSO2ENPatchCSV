@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+set -euo pipefail
 find . -type f -name "*.csv" -print0|_tools/mp.sh -0 basename -a -z|sort -z|uniq -d -z|xargs -0 -n1 echo|strings -n1>/tmp/dups.stdout
 if [ -s /tmp/dups.stdout ]; then
 	echo Found duplicate files

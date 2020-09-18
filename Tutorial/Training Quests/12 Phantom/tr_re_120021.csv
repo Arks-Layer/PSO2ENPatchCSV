@@ -1,0 +1,7 @@
+train_title#0,"""Task 1: <yellow>Enter the Stealth Tech Charge state for a few seconds"""
+tut_title#0,"""Stealth Tech Charge"""
+text100#0,"""・Press and hold <%SubPalette1> to charge<br>a Technique"""
+text101#0,"""・Press and hold <%SubPalette> to charge<br>a Technique"""
+text102#0,"""Press and hold a Subpalette icon<br>to charge a Technique"""
+tut_win_title#0,"""Stealth Tech Charge"""
+tut_win_text100#0,"""***"""

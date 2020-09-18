@@ -1,0 +1,8 @@
+name01#0,"""Xiera"""
+11_voice_train_04005#0,"""Wand's Weapon Action has two functions. Let's start with \""<red>Focus<c>\""!"""
+text02#0,"""If you <red>use your Weapon Action during a PA<c>, you'll <red>narrow the PA's range but increase its power<c>! Let's try it out now!"""
+text101#0,"""Task 1: <yellow>Use an enhanced-power PA on an enemy<c>"""
+train_title#0,"""Task 1: <yellow>Use an enhanced-power PA on an enemy<c>"""
+tut_title#0,"""Focus PAs"""
+text100#0,"""・Use a Photon Art with <%WeaponAction> or <%PhotonArts><br>・When the white guide appears,<br>\u3000use your Weapon Action with <%PhotonArts>"""
+text100_3b#0,"""・Use a Photon Art with <%PhotonArts><br>・When the white guide appears,<br>\u3000use your Weapon Action with <%MainPaletteC>"""

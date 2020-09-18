@@ -1,0 +1,8 @@
+skit01#0,"""What is that! It's so fast, I can't hit it!"""
+skit02#0,"""Aim for its feet!<br>That should slow it down!"""
+name01#0,"""RINA"""
+name02#0,"""Aika"""
+name01#1,"""Xiera"""
+text01#0,"""通信"""
+skit01#1,"""/ci1 2 What is that! It's so fast, I can't hit it!"""
+skit02#1,"""/ci1 Aim for its feet!<br>That should slow it down!"""

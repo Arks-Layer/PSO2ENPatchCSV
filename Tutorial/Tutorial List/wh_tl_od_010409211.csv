@@ -1,0 +1,4 @@
+name01#0,"""Strafe"""
+text01#0,"""Strafe enables you to make ranged attacks while on the move."""
+text02#0,"""<br>For Keyboard & Mouse<br>Use the following controls to move: Forward: <%MoveForward> Back: <%MoveBack> Left: <%MoveLeft> Right: <%MoveRight> While moving, execute one of the following: Normal Attack: <%NormalAttack> Photon Arts: <%PhotonArts><br><br>For <#GamePad> Controls<br>While using the left stick to move, execute one of the following: Normal Attack: <%NormalAttack> Photon Arts: <%PhotonArts>"""
+text03#0,"""While Strafe lets you maneuver safely, it also causes your shots to go astray more often. Fire while standing in place when you want to shoot more accurately. Use Strafe to stay mobile while taking out enemies."""

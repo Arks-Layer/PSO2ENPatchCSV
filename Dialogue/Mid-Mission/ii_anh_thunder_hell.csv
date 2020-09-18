@@ -1,5 +1,5 @@
 IncidentName#0,"""Defeat the $(0)!"""
 TrialBeginMsg#0,"""Defeat the $(0)!"""
 TrialAbstract#0,"""Defeat the $(0)!"""
-NpcComOnBegin#0,"""敵の交戦領域に侵入した模様。<br>早急に敵を撃破し、領域からの<br>脱出を図ってください。"""
-NpcComOnSuccess#0,"""敵性反応の消失を確認。<br>各員の努力に感謝します。"""
+NpcComOnBegin#0,"""It seems you've been dragged<br>into the enemy's battle enclosure.<br>Destroy the enemy as quickly<br>as possible and try to escape."""
+NpcComOnSuccess#0,"""Hostile readings have disappeared.<br>Thank you for your efforts."""

@@ -1,0 +1,6 @@
+IncidentName#0,"""Defeat $(0)"""
+TrialBeginMsg#0,"""Emergency!<br>Defeat the $(0)!"""
+TrialAbstract#0,"""Defeat the intruding<br>$(0)!"""
+NpcComOnPreBegin#0,"""The frenzied Visbolt seems to have stopped...<br>Spacial distortion detected.<br>Something's coming!"""
+NpcComOnBegin#0,"""Confirming the appearance of new enemies.<br>Move to intercept them!"""
+NpcComOnSuccess#0,"""The enemies were successfully intercepted, thanks to all of you!<br>Good work keeping up the fight!"""

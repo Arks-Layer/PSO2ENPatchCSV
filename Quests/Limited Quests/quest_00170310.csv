@@ -1,5 +1,5 @@
 Title#0,"""T:The Beckoning Woods"""
-Explanation#0,"""異世界オメガ、クエントとヴェルンの<br>国境付近に突如、大きな森が出現しました。<br>森の出現に巻き込まれた人々を助けるため<br>ハリエットさんが森に向かったようです！<br>ダークファルスに似た反応もあり危険です！<br>ハリエットさんの救出に向かってください！<br>――――――――――――――――――――<br>クエスト中/HP回復の妨害有り<br>失敗条件/任務の失敗、制限時間の経過<br>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000全員累計9回の戦闘不能"""
+Explanation#0,"""A large forest has suddenly appeared on<br>the border between Cuent and Verun.<br>Harriet has gone into the forest to rescue<br>people caught up in its emergence!<br>We've detected a Dark Falz-like reading!<br>Go and rescue Harriet immediately!<br>――――――――――――――――――――<br>Quest condition: HP recovery reduced<br>Failure: Mission fails, time limit expires,<br>players are defeated a total of 9 times"""
 SimpleExplanation#0,"""Rescue Harriet!"""
 NpcComMsg1#0,"""We'll begin the transfer shortly. The purpose of this mission is to rescue Harriet, who wandered into this forest."""
 NpcComMsg2#0,"""We have detected energy patterns similar to a Dark Falz, so we expect heavy Darker presence."""

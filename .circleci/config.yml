@@ -1,26 +1,25 @@
 version: 2
 jobs:
   build:
-    working_directory: /root/PSO2
     docker:
-      - image: python:3-stretch
+      - image: circleci/python:3-buster-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
-          PARALLEL: --block 43K
+          PARALLEL: --block 43K --no-notice
     branches:
       ignore:
         - develop
         - /feature-.*/
         - JP
-        - /*_Old/
+        - /.*_Old/
     steps:
       - run:
           name: Update APT listing
-          command: apt-get -qq update
+          command: sudo apt-get -qq update
       - run:
-          name: Install git, binutils, ssh, rsync, parallel and jq
-          command: apt-get --no-install-recommends -qq -y install git binutils ssh rsync parallel jq
+          name: Install rsync
+          command: sudo apt-get --no-install-recommends -qq -y install rsync
       - checkout
       - run:
           name: Checking DUP folders
@@ -44,8 +43,14 @@ jobs:
           name: Verify CSVs
           command: ./_sh/CSV.sh
       - run:
+          name: Check ODD strings in NPC names
+          command: ./_sh/ODD.sh
+      - run:
           name: Verify folder layout
           command: ./_sh/checkFiles.sh
+      - run:
+          name: Looking for unchanged Files
+          command: ./_sh/MovedFiles.sh
       - run:
           name: checking CSVs for quote issues
           command: ./_sh/quote.sh
@@ -63,7 +68,7 @@ jobs:
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
           name: Install GNU Aspell spell-checker
-          command: apt-get -qq -y install aspell-en
+          command: sudo apt-get -qq -y install aspell-en
       - run:
           name: spell check CSVs
           command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt

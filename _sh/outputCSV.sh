@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 PWDC="$(pwd -P)"
 rm -rf /tmp/PSO2ENPatchCSV.outputCSV
 mkdir -p /tmp/PSO2ENPatchCSV.outputCSV

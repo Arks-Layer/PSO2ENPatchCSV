@@ -25,7 +25,7 @@ IncidentJsApcSuccessEvo#4,"""/mn6 /ci2 2 よかった、チョコも無事でし
 IncidentJsApcBegin#5,"""/ci4 5 Ah, is that you? I wonder, if you have the time and don't mind the inconvenience... Could you lend me a hand?"""
 IncidentJsApcSuccess#5,"""/ci2 1 Alright, it's over. I also collected some nice data, so thank you."""
 IncidentJsApcFailure#5,"""I feel bad for this, but let me retreat! There's no point in continuing if it's impossible, is there?"""
-IncidentJsApcBeginEvo#4,"""/ci4 5 Hmm... A new reaction? Well, why don't we proceed with caution?"""
+IncidentJsApcBeginEvo#4,"""/ci4 5 Hmm... A new reading? Well, why don't we proceed with caution?"""
 IncidentJsApcSuccessEvo#5,"""/ci2 1 Alright, it's over. I also collected some nice data, so thank you."""
 IncidentJsApcBegin#6,"""/ci2 1 A-aaah! You came at the perfect time! Help, please help me!"""
 IncidentJsApcSuccess#6,"""/ci2 1 Phew... S-somehow, I'm okay... It's all over thanks to you. I'm grateful."""

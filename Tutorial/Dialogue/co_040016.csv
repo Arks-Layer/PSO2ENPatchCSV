@@ -1,2 +1,2 @@
 Title#0,"""The Pet Received Damage!"""
-text01#0,"""Pets also have HP, which decrease when<br>the pet takes damage.<br><br>When the pet's HP value falls to zero, the pet<br>will be temporarily unable to fight.<br><br>If your pet's HP goes down, you can either<br>switch to another pet to let it recover<br>or you can cast a technique like \""Resta\""<br>from your subpalette."""
+text01#0,"""Pets also have HP, which decrease when the Pet takes damage.<br><br>When the Pet's HP value falls to zero, the Pet will be temporarily unable to fight.<br><br>If your Pet's HP goes down, you can either switch to another Pet to let it recover, or you can cast a Technique like \""Resta\"" from your Subpalette."""

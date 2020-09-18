@@ -57,9 +57,19 @@ def cutoutcommands(i):
 			ce += 0
 		elif "/start" in li[ce]:
 			ce += 0
-		elif "/voice11_voice_navi07_0" in li[ce]:
+		elif "/voice11_voice_nav" in li[ce]:
 			ce += 0
 		elif "/rt_time60" in li[ce]:
+			ce += 0
+		elif "/ceall" in li[ce]:
+			ce += 0
+		elif "/ce" in li[ce]:
+			ce += 0
+		elif "/voice11_sound_voice_magat_qu00" in li[ce]:
+			ce += 0
+		elif "/voice11_voice_delicious_npcma_0" in li[ce]:
+			ce +- 0
+		elif "/voice11_voice_delicious_npcha_0" in li[ce]:
 			ce += 0
 		else:
 			print("warning: can not handle {} in {}".format(li[ce], i))
