@@ -3047,7 +3047,7 @@ SlayerStylePurge#1,"""Gunslash: Use Weapon Action twice to discard your current 
 SlayerStepAdvance#1,"""Extends invincibility during Step and Dive Roll."""
 SlayerShiftaFullDrive#1,"""While under the effects of Shifta, boosts Gear Gauge and Photon Blast gain rates."""
 SlayerDebandAbnormal#1,"""While under the effects of Deband, boosts your chance to inflict a status effect."""
-SlayerMeditation#1,"""Boosts natural PP recovery when your weapon has been sheathed for at least 1 second."""
+SlayerMeditation#1,"""Boosts natural PP recovery when standing still while your weapon has been sheathed for at least 1 second."""
 SlayerHighTecArts#1,"""Using different PAs & Techs 3 times in a combo reduces PP usage. If used 4 times in a combo, PP is reduced by a certain percentage."""
 SlayerFourthAttack#1,"""Gunslash: Using 4 non-Step Attack normal attacks in a row makes the fourth more powerful. <yellow>Main class only."""
 SlayerQuickTrigger#1,"""Gunslash: Weapon Action changes when used at specific times. Timing is based on the style chosen. <yellow>Main class only."""
