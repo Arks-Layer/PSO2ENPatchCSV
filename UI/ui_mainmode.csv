@@ -3049,7 +3049,7 @@ SlayerShiftaFullDrive#1,"""While under the effects of Shifta, boosts the rates o
 SlayerDebandAbnormal#1,"""While under the effects of Deband, boosts the rate of inflicting a status effect."""
 SlayerMeditation#1,"""Boosts natural PP recovery while sheathed for 1 second."""
 SlayerHighTecArts#1,"""Using different PAs & Techs 3 times in a combo reduces PP usage. If used 4 times in a combo, PP is reduced by a certain percentage."""
-SlayerFourthAttack#1,"""Gunslash: Launch a powerful attack when you use a Normal Attack 3 times without using a Step Attack. <yellow>Main class only."""
+SlayerFourthAttack#1,"""Gunslash: When you use 4 non-Step Attack normal attacks in a row, the fourth becomes more powerful. <yellow>Main class only."""
 SlayerQuickTrigger#1,"""Gunslash: Weapon Action changes when used at specific times. Timing is based on the style chosen. <yellow>Main class only."""
 CaptureShot#1,"""On use: Launch a stun bullet"""
 PPOneTimeUp#1,"""On use: All skills use 1 PP. Max HP is reduced during the effect."""
