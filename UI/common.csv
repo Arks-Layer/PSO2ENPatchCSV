@@ -1391,7 +1391,7 @@ BlockForm_ToBattleLobby_Exp#0,"""배틀 로비로 이동하면 참가중인<br>�
 BlockForm_BattleLobbyToBattleLobby_Exp#0,"""배틀 블록을 이동하시면<br>매칭이 취소됩니다.<br><br>블록 이동을 하시겠습니까?"""
 BlockForm_BattleLobbyToBattleLobby_Exp_NoMatching#0,"""다른 배틀 블록으로 이동합니다.<br>괜찮으십니까?<br><br><c c0c0c0>※배틀 아레나 매칭은<br>\u3000모든 블록을 대상으로 이뤄지기때문에<br>\u3000사람이 많은 블록으로 이동할 필요가 없습니다.<c>"""
 AreaForm_BridgeArea_Exp#0,"""함교로 이동하시겠습니까?"""
-AreaForm_CafeArea_Exp#0,"""프랑카’s 카페로 이동하시겠습니까?"""
+AreaForm_CafeArea_Exp#0,"""프랑카's 카페로 이동하시겠습니까?"""
 Bond_message#0,"""$(0)<br><br>$(1)"""
 InPublicShipToast#0,"""일시적으로 공용 쉽 전용 상태로 전환했습니다."""
 InChallengeShipToast#0,"""일시적으로 챌린지 쉽 전용 상태로 전환했습니다."""
