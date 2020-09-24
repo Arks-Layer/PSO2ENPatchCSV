@@ -1105,7 +1105,7 @@ LineMessage06#0,"""/start540 <c ffd700>골드 엠블렘<c>소멸! 에너미를 �
 LineMessage07#0,"""/start600 제한 시간까지 앞으로 1분!"""
 LineMessage08#0,"""/start630 제한 시간까지 앞으로 30초!"""
 Crystal#0,"""엠블렘 쟁탈전"""
-ArealockQuestStart#0,"""현재 강력한 적성 존재 좌표 탐색 중.<br>정보 수집을 위해 해당 영역의 주변 탐색을<br>부탁드립니다."""
+ArealockQuestStart#0,"""현재 강력한 적성 존재 좌표 탐색 중.<br>정보 수집을 위해 해당 영역의<br>주변 탐색을 부탁드립니다."""
 ArealockOpened#0,"""강력한 적성 존재의 좌표 확인.<br>전송용 텔레파이프, 준비 완료입니다.<br>적성 존재를 토벌하러 가주세요."""
 RidingTimelimitHalf#0,"""영역의 전개 시간, 앞으로 절반 남았습니다!<br>아직 여유가 있으니, 시간이 끝날 때까지<br>에너미를 토벌하죠!"""
 RidingTimelimitLittle#0,"""영역의 전개 시간, 얼마 남지 않았습니다!<br>조금만 더 힘내세요!"""
