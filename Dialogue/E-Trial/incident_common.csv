@@ -133,7 +133,7 @@ FloororderDamage#0,"""$(0)<c 00ffff>$(1)<yellow>$(2)<c>에게 <c ff007f>$(3)이�
 FloororderPartDamage#0,"""$(0)<yellow>$(1)<c>의 부위를 <c ff007f>$(2)파괴<c>하라!"""
 FloorOrderNoDamage#0,"""$(0)$(1)대미지를 받지 마라!"""
 FloorOrderNoRecover#0,"""$(0)$(1)회복 효과를 받지 마라!"""
-FloorOrderNoDead#0,"""$(0)$(1)전투 불능이 되지 말 것!"""
+FloorOrderNoDead#0,"""$(0)$(1)전투 불능이 되지 마라!"""
 FloororderKillEnemyR#0,"""$(0)$(1)$(2)$(3)<br>$(4)를 $(5)체 쓰러트려라!"""
 FloororderDamageR#0,"""$(0)$(1)<br>$(2)에게 <br>$(3)이상의 대미지를 $(4)입혀라!"""
 FloororderPartDamageR#0,"""$(0)$(1)의 <br>부위를 $(2)파괴하라!"""
