@@ -1,5 +1,5 @@
 linewindow#0,"""<br>The Campship<br>"""
 text00#0,"""The Campship"""
-text01#0,"""This is the Campship. This is where you can prepare yourself before starting a quest."""
-text02#0,"""Each quest has an objective. That may be eliminating enemies that appear, obtaining Quest Points or other things. The objectives vary between quests.<br><br>Achieve the objective, and you can get the corresponding reward."""
-text03#0,"""Also, there are some simple shops on board, though the goods they carry are limited compared to the ARKS Lobby. You can also put items into your Storage."""
+text01#0,"""This is the Campship. This is where you can prepare yourself before starting a quest.<br><br>There are many useful terminals here. Let's take a look at some of the available functions."""
+text02#0,"""・<yellow>Quest Counter Terminal<c><br>You can select a quest from here. Use this terminal if you've made a mistake when choosing your quest initially, or if you want to clear multiple quests in a row.<br><br>・<c 7abafd>Shop Terminal<c><br>Allows you to buy simple items and sell items that you own. If you run out of recovery items during a quest, return here and stock up.<br><br>・<green>Storage<c><br>You can use this to organise your belongings by putting items into storage or withdrawing them from storage, without having to return to the lobby."""
+text03#0,"""・<c fba646>Partner Terminal<c><br>Allows you to call Partner characters to join your party. In some quests, you will be unable to use this terminal.<br><br>・<c fba7c7>Medical Terminal<c><br>You can buy a drink here. You will receive a boost to some of your parameters, such as your attack or your defense. Which boosts you receive depends on which drink you select. Use it before you begin your quest."""
