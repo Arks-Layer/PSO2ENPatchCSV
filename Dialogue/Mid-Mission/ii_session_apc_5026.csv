@@ -8,7 +8,7 @@ Begin#1,"""/mn38 /ci2 2 Hehehe, cake sisters? Oh, caaake sisters! Please stop be
 Success#1,"""/mn17 /ci2 2 Oh my, oh my! Done already?! How dull. How unsatisfying. Lisa will go look for more prey, okay?! Bye bye!"""
 Failure#1,"""/ci2 2 Lisa wanted to try eating some cake, but it didn't go too well. Oh well, it doesn't bother Lisa too much."""
 Dead#1,"""/ci4 1 Lisa's a little tired so she's going to take a nap right here."""
-BuddyDead#1,"""/ci4 2 Cake...? Oh my, that's right, that's right isn't it! Lisa completely forgot. Whoopsie!"""
+BuddyDead#1,"""/ci4 2 Cake...? Oh my, that's right, that's right isn't it?! Lisa completely forgot. Whoopsie!"""
 Evolution#1,"""/ci2 2 Well well, oh my, oh my, is something else going to come out and play?!"""
 Begin#2,"""/ci2 2 <%me>, hello! Extermination is Lisa's speciality, so you can just leave this to her if you want, okay?!"""
 Success#2,"""/ci2 5 Well! Lisa and Fourier will take care of this area, so you can go on ahead, okay?!"""
