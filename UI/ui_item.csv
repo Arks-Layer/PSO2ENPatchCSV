@@ -10584,7 +10584,7 @@ InviteReward_Failure04#0,"""データベースのアクセスに失敗しまし�
 InviteReward_Failure05#0,"""その報酬は既に受け取り済みです。"""
 InviteReward_Failure06#0,"""招待を受けていません。"""
 InviteReward_Failure07#0,"""アイテムの所持数限界を초えているか<br>アイテムパックの空き容量不足のため<br>報酬を受け取れません。<br>アイテムパックを整理してください。"""
-BasterMedalShopTitle#0,""메달 교환 샵"""
+BasterMedalShopTitle#0,"""메달 교환 샵"""
 BasterMedalShopTitle_Sea01#0,"""1時間リセットショップ"""
 BasterMedalShopTitle_Sea02#0,"""24時間リセットショップ"""
 BasterMedalShopTitle_Sea03#0,"""限定ACリサイクルショップ"""
