@@ -1182,7 +1182,7 @@ FlagTicketAllRegistedCaption_1#0,"""Status: <yellow>Unused<c><br>When used, appl
 FlagTicketAllRegistedCaption_2#0,"""Status: <yellow>Used on one character<c><br>When used, applies to all characters on this account."""
 FlagTicketAllRegistedCaption_2_1#0,"""Status: <yellow>Used on this character<c><br>When used, applies to all characters on this account."""
 FlagTicketAllRegistedCaption_3#0,"""Status: <yellow>Registered to your account<c><br>Can be used on all characters on this account."""
-FlagTicketAllRegistedCaption_10#0,"""Status: <yellow>Unused<c><br>Once used<c><br>When used, applies to all characters on this account."""
+FlagTicketAllRegistedCaption_10#0,"""Status: <yellow>Unused<c><br>When used, applies to all characters on this account."""
 TraceAlreadyIconText#0,"""Cannot be traded because it has been used with one of the following functions:<br>・Weapon Form change<br>・Unit Skill Addition"""
 MesetaDenomination#0,"""Meseta"""
 AcDenomination#0,""" AC"""
