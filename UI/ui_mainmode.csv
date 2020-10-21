@@ -2920,7 +2920,7 @@ VillainFirstBlood#1,"""최초의 공격이나 무기 액션 후의 공격이 저
 VillainChargeTechJA#1,"""차지 테크닉이 저스트 어택이 된다. 발동 후에 쿨타임이 발생한다."""
 VillainPPRestraint#1,"""통상 공격의 PP 회복량과 PP 자동회복량이 증가한다."""
 VillainLoadOfThorn#1,"""팬텀 마커의 축적량이 감소하는 대신 기폭 시의 데미지가 증가한다. <yellow>메인 클래스 전용"""
-VillainBullsEye#1,"""라이플 장비 시 마커 기폭에 기폭 시 마커 레벨에 따른 마커 재축적 효과가 발생한다. <yellow>메인 클래스 전용"""
+VillainBullsEye#1,"""라이플 장비 시 마커 기폭 시 마커 레벨에 따른 마커 재축적 효과가 발생한다. <yellow>메인 클래스 전용"""
 VillainAttackJellen#1,"""팬텀 무기로 공격한 에너미를 일정 확률로 젤른 상태로 만든다. <yellow>메인 클래스 전용"""
 VillainJellenRedress#1,"""젤른 상태의 에너미를 팬텀 무기로 공격하면 젤른 효과가 강화된다. <yellow>메인 클래스 전용"""
 VillainQuickCut#1,"""카타나 장비 시 통상 공격/PA 특정 타이밍에 무기 액션을 사용하면 고속으로 이동하는 효과가 추가된다. <yellow>메인 클래스 전용"""
