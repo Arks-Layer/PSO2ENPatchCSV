@@ -3015,7 +3015,7 @@ SlayerGSlashReferenceChange#1,"""While using a Gunslash, change to the highest a
 SlayerIgnoreResist#1,"""While a Gunslash is equipped, you can ignore weapon resists of certain enemies. <yellow>Main class only."""
 SlayerTension#1,"""Boosts Voltage based on the number of hits. Gain bonuses to damage and damage reduction based on the Voltage."""
 SlayerTensionAssist#1,"""Every time Voltage reaches a certain value, automatically apply Shifta and Deband."""
-SlayerTensionHighBonus#1,"""While Voltage is above a certain value, boosts critical hit rate & PP recovery, removes & gives immunity to status effects, and reduces cooldowns of all active class skills used before Voltage reset."""
+SlayerTensionHighBonus#1,"""While Voltage is above a certain value, boosts critical hit rate & PP recovery, removes & gives immunity to most status effects, and reduces cooldowns of all active class skills used before Voltage reset."""
 SlayerTensionResetGain#1,"""Upon Voltage reset, restore HP and PP based on the Voltage value."""
 SlayerTensionAwake#1,"""Upon successfully attacking a Powerful Enemy, gain a bonus on Voltage accumulation."""
 SlayerZealot#1,"""Boosts the time of Shifta and Deband that you receive, and raises the maximum possible duration to 120 seconds."""
