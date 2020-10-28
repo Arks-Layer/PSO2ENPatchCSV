@@ -1458,7 +1458,7 @@
 292#2,"""While Petal, Ocean,<br>Leaf, Moon, Snow or<br>Shadow Flash is active:<br>Grants a chance to<br>drastically reduce<br>damage taken."""
 293#2,"""While Petal, Ocean,<br>Leaf, Moon, Snow or<br>Shadow Flash is active:<br>Increases critical hit rate."""
 294#2,"""While Petal, Ocean,<br>Leaf, Moon, Snow or<br>Shadow Flash is active:<br>Makes attacks inflict<br>random status effects."""
-295#2,"""Boosts the range of<br>Raising Pursuit's bonus<br>attack damage."""
+295#2,"""Alters the range of<br>Raising Pursuit's bonus<br>attack damage."""
 296#2,"""Boosts movement speed<br>while charging PAs."""
 297#2,"""-"""
 298#2,"""-"""
