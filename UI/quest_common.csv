@@ -1579,7 +1579,7 @@ ExploreStartMessage2Npc#0,"""/atime2.5 /voice11_voice_navi23_tan_02 You can esca
 DeployTreasureBox1Npc#0,"""/atime2.5 /voice11_voice_navi23_tan_03 Several Virtual Devices should have appeared by now.<br>If you find them, halt them."""
 DeployTreasureBox2Npc#0,"""/atime2.5 /voice11_voice_navi23_tan_04 Your investigation has made additional Virtual Devices appear.<br>Keep going."""
 DeployTreasureBox3Npc#0,"""/atime2.5 /voice11_voice_navi23_tan_05 The investigation has entered the final phase.<br>More Virtual Devices have appeared, so halt them and escape."""
-DeployTreasureBox4Npc#0,"""/atime2.5 /voice11_voice_navi23_tan_06 Your investigation has progressed as far as it can.<br>The final Virtual Device has appeared.<br>Halt it and head for the Escape Telepipe."""
+DeployTreasureBox4Npc#0,"""/atime2.5 /voice11_voice_navi23_tan_06 Your investigation has progressed as far as it can.<br>The final Virtual Devices have appeared.<br>Halt them and head for the Escape Telepipe."""
 DestroyFirstTimeTreasureBoxNpc#0,"""/atime2.5 /voice11_voice_navi23_tan_07 Confirmed, Virtual Device has ceased functioning.<br>If you find any more, halt their function just like that."""
 DestroyLastTreasureBoxNpc#0,"""/atime2.5 /voice11_voice_navi23_tan_08 Very, very, very good!<br>All Virtual Devices have stopped functioning!<br>Oh, excuse me... please proceed to the next area."""
 PenaltyDamage1Npc#0,"""/atime2.5 /voice11_voice_navi23_tan_09 Interference Rain? This program...<br>Uh... My sister must have done this.<br>Don't push yourself too hard, use the Escape Telepipe to move on!"""
