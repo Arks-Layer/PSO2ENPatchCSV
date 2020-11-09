@@ -1,0 +1,8 @@
+Life_Recovery#0,"""가상 장치 <yellow>$(0)개<c> 정지. 보수：<yellow>라이프 포인트 회복<c>"""
+Point_Gift#0,"""가상 장치 <yellow>$(0)개<c> 정지. 보수：<yellow>$(1) 포인트 입수<c>"""
+Condition_Power#0,"""가상 장치 <yellow>$(0)개<c> 정지. 보수：<yellow>공격력 상승<c>(현재:$(1))"""
+Condition_PpRegene#0,"""가상 장치 <yellow>$(0)개<c> 정지. 보수：<yellow>ＰＰ회복량 상승<c>(현재:$(1))"""
+Condition_Toughness#0,"""가상 장치 <yellow>$(0)개<c> 정지. 보수：<yellow>HP 최대치 상승<c>(현재:$(1))"""
+Condition_Photon#0,"""가상 장치 <yellow>$(0)개<c> 정지. 보수：<yellow>ＰＰ최대치 상승<c>(현재:$(1))"""
+Condition_Level_Default#0,"""<yellow>LV.$(0)<c>"""
+Condition_Level_Maximum#0,"""<pure_orange>LV.MAX<c>"""
