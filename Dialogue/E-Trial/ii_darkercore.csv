@@ -6,7 +6,7 @@ NpcComOnBeginAtRareCase#0,"""비정상적인 다커 반응 감지.<br>다른 전
 NpcComOnSuccess#0,"""제어 기구의 파괴를 확인.<br>침식 전투기의 반응도 소실됐다.<br>상황 종료다."""
 NpcComOnFailure#0,"""/face6 침식 전투기의 전이를 확인.<br>추적은 불가능하겠지.<br>본연의 임무를 계속해라."""
 AppearHeli#0,"""아크스의 전투기라고?<br>……상태가 이상하다. 조심해라."""
-BreakHeli#0,"""격추 한 것 같지만……。<br>방심하지 마라 끝이 아니다."""
+BreakHeli#0,"""격추 한 것 같지만……<br>방심하지 마라 끝이 아니다."""
 RespawnHeli#0,"""역시 몇 기라도 나타나는가……"""
 UrgesFindCore#0,"""그 녀석을 공격해도 소용없다.<br>어딘가에 제어 기구가 있다.<br>찾아내서 파괴해라."""
 UrgesArrivalCore1st#0,"""제어 기구의 위치를 특정했다.<br>$(0)에 빨리가서 파괴해라."""
