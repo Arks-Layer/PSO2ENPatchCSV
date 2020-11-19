@@ -8,7 +8,7 @@ NpcComOnBegin#0,"""통지한다. 그 근처에 희소 광물 반응이<br>확인
 NpcComOnBeginAtRareCase#0,"""긴급 통지.희소 광물 반응이 현저하다.<br>작전 허락 시간은 한정돼있다.<br>각 대원 서둘러 회수 임무를 수행해라."""
 NpcComOnSuccess#0,"""좋아, 대상 물체 회수를 확인.<br>잘 해냈구나."""
 NpcComOnFailure#0,"""칫, 필요한 만큼 개수가 모이지 않은 건가.<br>할 수 없지. 통상 임무로 돌아가라."""
-GoodsPosition#0,"""희소 광물 반응이<br>$(0)로부터다."""
+GoodsPosition#0,"""희소 광물 반응이<br>$(0)에 있다."""
 RepopGoods#0,"""새로운 회수 대상 물체가 확인됐다.<br>각 대원 회수를 진행해주게."""
 OnAccessPodByEmptyHand#0,"""우선 희소 광물을 회수해라.<br>포드를 사용하는 건 그 뒤다."""
 Collect1st#0,"""좋아, 희소 광물 운반을 확인.<br>계속해서 회수를 진행해라."""
