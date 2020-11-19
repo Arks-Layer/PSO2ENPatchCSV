@@ -1,3 +1,3 @@
 name01#0,"""Inanna"""
-linewindow#0,"""Successfully passed the Laser Fence!"""
-text01#0,"""You have passed through safely.<br><c bb0000>Please collect any items before heading through the teleporter.<c>"""
+linewindow#0,"""Successfully passed the laser fence!"""
+text01#0,"""You have passed through safely.<br><c bb0000>Please collect any items before<br>heading through the teleporter.<c>"""
