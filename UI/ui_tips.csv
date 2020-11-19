@@ -479,7 +479,7 @@ Dead_DpHumanUniq_003#0,"""ストーリー専用TIPSがある場合は記入し�
 Dead_DpHumanUniq_004#0,"""ストーリー専用TIPSがある場合は記入してluaファイルも更新"""
 Dead_DpFishArm_001#0,"""When you destroy all five fingertips on a Falz Arm,<br>it will stop moving for a certain period of time."""
 Dead_DpFishArm_002#0,"""When targeting and attacking one Falz Arm, make sure to<br>keep an eye on all the other arms as well."""
-Dead_DpFishArm_003#0,"""ファルス・アームとの戦闘中、遠方のダークファルス・エルダーが<br>レーザー攻撃を行うことがあるので注意しよう。"""
+Dead_DpFishArm_003#0,"""Watch out for Dark Falz [Elder] performing a laser<br>sweep attack while you're fighting the Falz Arms."""
 Dead_DpFishArm_004#0,"""Shock is extremely effective against the Falz Arms.<br>If you shock an arm, it will stop moving for a short time."""
 Dead_DpFishArmEx_001#0,"""レア専用TIPSがある場合は記入してluaファイルも更新"""
 Dead_DpFishArmEx_002#0,"""レア専用TIPSがある場合は記入してluaファイルも更新"""
