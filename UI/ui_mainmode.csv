@@ -38,7 +38,7 @@ BoostLevelUp#0,"""Quest-Linked Boost levelled up to $(0)!<br>New effects are ava
 PreviewZoom#0,""" (<c cfcfcf>Toggle <c><yellow>Rotation<c><c cfcfcf>/Movement: <%Exception><c>)"""
 PreviewZoom_mouse#0,""" (<c cfcfcf>Toggle <c><yellow>Rotation<c><c cfcfcf>/Movement: <pict mouse_right><c>)"""
 PreviewMove#0,""" (<c cfcfcf>Toggle Rotation/<c><yellow>Movement<c><c cfcfcf>: <%Exception><c>)"""
-PreviewMove_mouse#0,""" (<c cfcfcf>Toggle Rotation/<c><yellow>Movement<c><c cfcfcf>: <c cfcfcf><pict mouse_right>)"""
+PreviewMove_mouse#0,""" (<c cfcfcf>Toggle Rotation/<c><yellow>Movement<c><c cfcfcf>: <pict mouse_right><c>)"""
 ErrorMackQuest#0,"""Cannot start because party members are not in the quest"""
 ErrorIgnoreQuest#0,"""Quest is not available. Please check the players site for more info."""
 MainMenu_CharacterInfo#0,"""Character Info"""
