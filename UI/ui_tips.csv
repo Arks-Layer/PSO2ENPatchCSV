@@ -155,7 +155,7 @@
 01_MainLobby_157#0,"""You can purchase Star Gems from the [Purchase Star Gems] item in the AC Menu."""
 01_MainLobby_158#0,"""During certain looping lobby actions, you can press <%NormalAttack> or <%PhotonArts> in the middle of the loop to change the behavior of the lobby action."""
 01_MainLobby_159#0,"""With certain lobby actions, you can select [Reaction] on another player to do the matching 'reaction' lobby action."""
-01_MainLobby_160#0,"""Some pets (such as 'Wanda') can be evolved into a new form (such<br>as 'Jinga') through Rarity Evolution using an egg of the new form."""
+01_MainLobby_160#0,"""Some pets (such as 'Wanda') can be evolved into a higher grade pet<br>(such as 'Jinga') through Rarity Evolution with an egg of the higher grade."""
 01_MainLobby_161#0,"""If you are unsure about which skills to get, try picking \""Set Recommended\""."""
 01_MainLobby_162#0,"""It is possible to set Lobby Actions as favorites in the [Perform Lobby Action] menu.<br>This makes it much easier to perform your most frequently used Lobby Actions."""
 01_MainLobby_163#0,"""You can set the appearance of other players' Dark Blasts in your Dark Blast settings."""
