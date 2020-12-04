@@ -1,4 +1,4 @@
 name01#0,"""Inanna"""
-11_voice_navi07_009#0,"""マップに記された<c bb0000>スイッチを押すと<br>ベイゼの前にあるレーザーフェンスを<br>開放<c>することができます。"""
-text02#0,"""ベイゼが爆発してしまうと<br>ミッションクリアは困難になります。<br>迅速に行動をしてください。"""
-linewindow#0,"""ベイゼを破壊するため左右のスイッチを押しフェンスを開放せよ！"""
+11_voice_navi07_009#0,"""<c bb0000>Press the switches marked on<br>the Map<c> to unlock the laser<br>fence in front of the Baize."""
+text02#0,"""If the Baize explodes, it will<br>become very difficult to clear<br>this Mission. Please act quickly."""
+linewindow#0,"""Press the left and right switches to open the fence and destroy the Baize!"""

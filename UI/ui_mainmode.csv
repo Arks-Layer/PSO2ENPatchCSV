@@ -4246,7 +4246,7 @@ MEDMultiBossMessage#0,"""This will start the preparations.<br>After 30 seconds, 
 MEDMultiBossRemove#0,"""Preparations cancelled."""
 MEDMultiBossTrans#0,"""Preparations complete. Traveling to altered space."""
 MEDInaccessible#0,"""Preparations cancelled."""
-SynchronizeBossTitleMED#0,"""Photon Afterburner Engine"""
+SynchronizeBossTitleMED#0,"""Photon Afterburner"""
 SynchronizeInaccessibleMED#0,"""The Photon Afterburner has started.<br>Please wait before accessing the afterburner controls again."""
 SynchronizeButtonRemoveMED#0,"""Abort preparations"""
 ArmadaQuestGoto1#0,"""The Launch Sequence has started. Please head to the hangar."""

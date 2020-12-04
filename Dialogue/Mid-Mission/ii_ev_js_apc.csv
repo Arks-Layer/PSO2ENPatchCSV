@@ -1,6 +1,6 @@
 IncidentName#0,"""Defeat the $(0)"""
-TrialBeginMsg#0,"""Defeat any $(0) you find!<br>You will fail if $(1) is incapacitated twice."""
-TrialAbstract#0,"""Defeat any $(0) you find!<br>You will fail if $(1) is incapacitated twice."""
+TrialBeginMsg#0,"""Defeat any $(0) you find!<br>You will fail if your partner is incapacitated twice."""
+TrialAbstract#0,"""Defeat any $(0) you find!<br>You will fail if your partner is incapacitated twice."""
 NpcComOnBegin#0,"""Relieve the other ARKS and<br>cooperate to subdue the enemy!"""
 NpcComOnSuccess#0,"""/face2 Great work! You've really got<br>the hang of this teamwork thing!"""
 NpcComOnFailure#0,"""What a mess. We'll<br>retrieve the wounded."""
