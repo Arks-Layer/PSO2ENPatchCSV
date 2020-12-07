@@ -1715,7 +1715,7 @@ GunslashPA07#1,"""Gunslash Photon Art.<br>Slash the target to launch them with r
 GunslashPA08#1,"""Gunslash Photon Art.<br>Kick the target away, then follow up with three gunshots."""
 GunslashPA09#1,"""Gunslash Photon Art.<br>Using the unique traits of the Gunslash, slash while shooting in a sure-kill attack."""
 GunslashPA10#1,"""Gunslash Photon Art.<br>Rush towards the target and fire on them from point-blank range."""
-GunslashPA11#1,"""Gunslash Photon Art.<br>One of two attacks, based on weapon form.<br>Shift Action: The other form's attack. Uses PP."""
+GunslashPA11#1,"""Gunslash Photon Art.<br>One of two attacks, based on weapon mode.<br>Shift Action: The other mode's attack. Uses PP."""
 RiflePA01#1,"""Rifle Photon Art.<br>Load and fire a piercing shot. Slow firing rate, but high power."""
 RiflePA02#1,"""Rifle Photon Art.<br>Load and fire an explosive shot. The explosion can hit multiple targets."""
 RiflePA03#1,"""Rifle Photon Art.<br>Concentrate fire on a single point. Simple, but very powerful."""
