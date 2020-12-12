@@ -3011,7 +3011,7 @@ SlayerJustReversal#1,"""날아가 버렸을 때 점프 조작으로 재빨리 �
 SlayerStepJACombo#1,"""스텝할 때 JA 타이밍이 발생하게 된다."""
 SlayerWill#1,"""전투 불능의 피해를 입었을 때, 한 번만 무적시간이 발생하고 HP가 1이 남는다. 하이 볼티지 달성 시 사용 횟수 회복.<yellow>메인 클래스 전용"""
 SlayerTalent#1,"""건슬래쉬 장비 시 메인 클래스에 따라 위력이 상승한다.<yellow>이 스킬은 서브 클래스만 적용"""
-SlayerGSlashReferenceChange#1,"""건슬래쉬 공격 시 무기에 부여된 특수 능력의 타격력과 사격력에서 스테이터스 변화가 높은 쪽을 참조한다.<yellow>메인 클래스 전용"""
+SlayerGSlashReferenceChange#1,"""건슬래쉬 공격 시 무기에 부여된 특수능력의 타격력과 사격력에서 스테이터스 변화가 높은 쪽을 참조한다.<yellow>메인 클래스 전용"""
 SlayerIgnoreResist#1,"""건슬래쉬 장비 시 특정 에너미의 무기 내성을 무시하여 피해를 입힌다.<yellow>메인 클래스 전용"""
 SlayerTension#1,"""공격을 히트시킨 횟수에 따라 볼티지가 상승한다. 볼티지에 따라 위력과 받는 데미지 경감에 보너스를 얻는다."""
 SlayerTensionAssist#1,"""볼티지가 일정값 상승할 때마다 시프타, 데반드가 발동한다."""

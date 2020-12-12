@@ -191,7 +191,7 @@ CraftAchievementMessage#0,"""$(0)의 실적이<br>$(1)개 해제 됐습니다.<b
 CraftLevelUpMessage#0,"""<yellow>$(0)<c>의  크래프트 레벨이 <yellow>$(1)<c> 이 됐습니다."""
 GetCraftRecipeMessage#0,"""이하의 레시피를 습득 했습니다."""
 Rarity#0,"""레어리티"""
-Element#0,"""특수 능력"""
+Element#0,"""특수능력"""
 ReviseParameter#0,"""파라미터 보정"""
 FullSizeTitleExtend#0,"""무장 익스텐드"""
 FullSizeTitleTechnicCustomize#0,"""테크닉 커스터마이즈"""
