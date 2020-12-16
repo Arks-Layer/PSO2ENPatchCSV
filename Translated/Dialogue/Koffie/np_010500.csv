@@ -94,3 +94,8 @@ ep6_sq02_01_01#0,"""Regarding our management system, we will continue to operate
 ep6_sq02_01_02#0,"""Our situation demands a flexible response, and we must be ready to take action in the event of Xiao's absence."""
 text01#0,"""I am glad you returned safely. Thank you for all your hard work."""
 text02#0,"""Now that we have overcome this crisis, the emergency system will likely be shut down. However, I will continue to support you."""
+11_voice_NPC_5050_106#0,"""お疲れさまです。どうされました？<br>……え？\u3000クリスマスプレゼントの<br>お返しを贈るなら……ですか？"""
+text02#1,"""そ、そうですね。<br>私自身、そういったことは<br>経験がないのですが……"""
+text03#0,"""季節柄、寒そうにされている<br>アークスを多く見かけますので……<br>防寒具がよいのではないでしょうか。"""
+text04#0,"""そういえば、最近読んだ物語で<br>手編みの長い「マフラー」を恋人に贈り<br>二人で巻くシーンが、とても良く……"""
+text05#0,"""……こほん。喋りすぎました。<br>お役に立てるかどうか分かりませんが<br>私から言えることは、以上です。"""

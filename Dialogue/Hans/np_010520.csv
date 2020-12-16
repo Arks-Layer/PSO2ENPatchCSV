@@ -37,3 +37,7 @@ ep6_sq03_02_01_01#0,"""The way everyone's been runnin' around lately, this has g
 text01#0,"""Hey! Great job out there! Looks like ya took care of business once and for all!"""
 11_voice_NPC_5052_101#10,"""Sure, I was a little bit worried about how ya were gonna handle Shiva, but you went out there and ya proved ya had it under control all along!"""
 text03#0,"""If it weren't for you, killer, chances are we wouldn't even be here to have this little conversation. We all owe ya one, big time!"""
+text01#1,"""おう、どうした？<br>……ああ？\u3000クリスマスプレゼントの<br>お返しはどうすんのか、だって……？"""
+11_voice_NPC_5052_105#1,"""おたく、なんでオレに聞きにきたわけ？<br>オレ、そういうのにめっぽう弱いから<br>聞かれても困るっつーか。"""
+text03#1,"""そうだなぁ……んじゃ<br>戦闘でも役立つし、酒のアテにもなる<br>「ジャーキー」なんてどうよ？"""
+11_voice_NPC_5052_101#11,"""そんなら実用的だし、なにより<br>美味えって喜んでもらえると思うぜ？<br>モテモテになること間違いなしだろ？"""
