@@ -1,5 +1,5 @@
-text01#0,"""来てくれたか<br><%me>！<br>あらためて自己紹介しておくよ。"""
-text02#0,"""俺はキリト。<br>まだここには慣れてないから<br>色々世話になると思う。よろしくな！"""
+text01#0,"""<%me>, you came!<br>Guess I should introduce myself properly."""
+text02#0,"""I'm Kirito. I'm still getting used to all this, so I'll probably need your help. Nice to meet you!"""
 text01#1,"""俺の服、気になるのか？<br>まぁ、このあたりじゃ<br>あまり見かけない服かもな。"""
 text02#1,"""明るい色は性に合わなくて……<br>ついつい似たような装備を<br>選んじゃうんだ。"""
 11_voice_NPC_5664_100#0,"""昔は、この服のおかげで<br>《黒の剣士》なんて<br>呼ばれてたりもしたな。"""
