@@ -103,7 +103,7 @@ ep6_sq04_01_03#0,"""I don't even feel scared! I'm ready to be a Hero who works t
 11_voice_NPC_5437_100#8,"""We did it! We really did it! We were able to achieve peace at last! I'm so glad I didn't give up!"""
 text02#0,"""As a Hero, I couldn't be any more happy than I am to have helped everyone succeed!"""
 text03#0,"""Still, I noticed a few ways I could have done better. I have to dedicate myself to self-improvement if I want to be able to protect everyone!"""
-oct01#0,"""Hello, <%me>!<br>Huh? Your friends have a question for me? Sure, anything! What is it?"""
+oct01#0,"""Hello, <%me>!<br>Huh? Your friend has a question for me? Sure, anything! What is it?"""
 oct02#0,"""...You want to know how to become powerful? Well, ideally you should train every day, but more importantly, you have to have some kind of role model to follow."""
 11_voice_NPC_5664_104#0,"""...A role model, huh? I can't think of anyone like that."""
 oct04#0,"""Really? The whole reason I became an ARKS in the first place was that there was someone I wanted to be like!"""
