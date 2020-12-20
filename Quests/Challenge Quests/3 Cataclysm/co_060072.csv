@@ -1,0 +1,4 @@
+Title#0,"""About this Quest"""
+text0001#0,"""Before you start this quest, you can select a combination of equipment and skills from the Class Set Terminal.<br><br>In this quest, defeated enemies will not drop items. You can only obtain items from breaking containers."""
+text0002#0,"""The following types of Class Sets are available:<br><c ff8300>① Attack:<c><br>A Set that's good at dealing high amounts of damage to enemies.<br><c 00ffff>② Rush:<c><br>A Set that can use a double-jump to get to high places. Has access to Complex PAs.<br><c 00ff00>③ Support:<c><br>A Set that can use recovery and support Techniques to assist your allies. Has access to Compound Techniques.<br><yellow>④ Unique:<c><br>A Successor class. Starting level is lower than other Sets, but has powerful PAs and class skills."""
+text0003#0,"""In this quest, your VR energy will only decrease when you are defeated. It will not decrease over time."""
