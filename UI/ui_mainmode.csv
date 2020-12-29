@@ -4286,7 +4286,7 @@ CypherMultiBossGoto#0,"""전송장치를 기동.<br>일정 시간 내에 전송�
 CypherMultiBossWakeUp#0,"""전송장치를 기동합니까?"""
 CypherMultiBossMessageExc#0,"""전송장치가 기동했습니다.<br>일정 시간 후 장치 내에 있는 멤버를 전송합니다.<br><br>전송장치를 정지합니까?"""
 CypherMultiBossRemove#0,"""전송장치를 정지한다"""
-CypherMultiBossMessage#0,"""전송장치를 기동한다.<br>일정 시간 후 장치 내에 있는 멤버를 전송합니다.<br><br>전송장치를 정지합니까?"""
+CypherMultiBossMessage#0,"""전송장치를 기동.<br>일정 시간 후 장치 내에 있는 멤버를 전송합니다.<br><br>전송장치를 정지합니까?"""
 CypherMultiBossGotoExc#0,"""전송장치를 기동.<br>일정 시간 내에 전송장치로 향해주세요."""
 BhMultiBossGoto#0,"""A.I.S 탑승장치 기동. 30초 이내에 아크스 전함 뱃머리로 향해주세요."""
 BhMultiBossGotoExc#0,"""A.I.S 탑승장치 기동. 30초 이내에 아크스 전함 뱃머리로 향해주세요."""
