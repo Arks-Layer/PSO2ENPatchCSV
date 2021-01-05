@@ -1422,7 +1422,7 @@ MissionClearBonus#0,"""Заказ \""МИССИЯ $(0)\"" выполнен! Вр
 ToastEnterIntervalClient#1,"""Вы прибыли в Промежуточную Зону! Время увеличено на $(0) секунд(у/ы)!"""
 ProgIATitle#0,"""До следующей области"""
 ProgIAForceMoveTitle#0,"""До промежуточной зоны"""
-FirstClearBonus#0,"""Бонус первого перерыва"""
+FirstClearBonus#0,"""Бонус первого прохождения"""
 ItemNumberLevelNum#0,"""$(0)×$(1)"""
 ItemNumberLevel#0,"""$(0)"""
 ToastClearCount#0,"""Возможно завершить не более $(0) раз(а)"""
