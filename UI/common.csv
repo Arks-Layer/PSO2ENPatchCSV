@@ -45,7 +45,7 @@ Code230_Code#0,"""Um erro de conexão com a rede ocorreu."""
 Code230_Message#0,"""Um erro de conexão com a rede ocorreu<br>(Sem resposta do Servidor DNS)"""
 Code231_Title#0,"""Conexão com a Rede"""
 Code231_Code#0,"""Um erro de conexão com a rede ocorreu."""
-Code231_Message#0,Um erro de conexão com a rede ocorreu<br>(Sem resposta do Servidor DNS)
+Code231_Message#0,"""Um erro de conexão com a rede ocorreu<br>(Sem resposta do Servidor DNS)"""
 Code240_Title#0,"""Conexão com a Rede"""
 Code240_Code#0,"""Um erro de conexão com a rede ocorreu."""
 Code240_Message#0,"""Não foi possivel conectar com o servidor.<br>Por favor verifique o status do servidor<br>em noticias etc. no site oficial."""
