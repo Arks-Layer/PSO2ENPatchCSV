@@ -1,3 +1,3 @@
-name01#0,"""The Subpalette"""
-text00#0,"""The Subpalette"""
-text01#0,"""The \""Subpalette\"" is a system which allows you to register <c ffff00>up to 10 kinds<c ffff00> of <c ffff00>items<c>, <c ffff00>skills<c> and so on, which you can then <c ffff00>use in battle quickly<c ffff00> with the following buttons:<br><br>・<%SubPaletteLeft> and <%SubPaletteRight> move the Subpalette cursor left and right, <%SubPalette> activates the selected slot.<br>・The [1]-[0] keys on your keyboard activate the corresponding slot immediately.<br><br>To register items, skills and so on to the Subpalette, open the main menu and select \""Equipment\"", then \""Subpalette\""."""
+name01#0,"""A Subbarra"""
+text00#0,"""A Subbarra"""
+text01#0,"""A \""Subbarra\"" é um sistema que permite cadastrar <c ffff00>até 10 tipos<c ffff00> de <c ffff00>itens<c>, <c ffff00>Habilidades<c> e assim por diante, que você pode <c ffff00>usar em batalha rapidamente<c ffff00> com os seguintes botões:<br><br>・<%SubPaletteLeft> e <%SubPaletteRight> mova o cursor da subbarra para a esquerda e para a direita, <%SubPalette> ativa o slot selecionado.<br>・As teclas [1]-[0] do teclado ativam o slot selecionado imediatamente.<br><br>Para registrar itens, habilidades e assim por diante na subbarra, abra o menu principal e selecione \""Equipamento\"", então \""Subbarra\""."""
