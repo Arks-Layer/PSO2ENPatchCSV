@@ -1,3 +1,3 @@
-name01#0,"""Quest Points"""
-text01#0,"""Some quests require you to obtain quest points to complete them. Quest points are obtained by defeating certain enemies or completing Emergency Codes."""
-text02#0,"""The number of quest points you get for defeating enemies depends on the quest. You can check how many quest points you'll get for defeating various enemies using the message pack at the beginning of each quest."""
+name01#0,"""Pontos de Quest"""
+text01#0,"""Algumas quests requerem que você obtenha pontos de quest para completa-las. Pontos de quest são obtidos ao derrotar certos inimigos ou ao completar Códigos de Emergência."""
+text02#0,"""O número de pontos de quest que você obtem ao derrotar inimigos depende de qual quest está fazendo. Você pode checar quantos pontos de quest recebe ao derrotar os inimigos usando o Ponto de Dados no começo de cada quest."""
