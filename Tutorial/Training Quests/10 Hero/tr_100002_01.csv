@@ -1,8 +1,0 @@
-name01#0,"""Xiera"""
-text01#0,"""Success! Next, let's learn about charged bullets! """
-text02#0,"""<red>Aura Bullet can be charged.<c> Let's try that now!"""
-text101#0,"""Task 2: <yellow>Charge the Sword Weapon Action, Aura Bullet, and hit an enemy with the charged shot"""
-train_title#0,"""Task 2: <yellow>Charge the Sword Weapon Action, Aura Bullet, and hit an enemy with the charged shot"""
-tut_title#0,"""Charged Aura Bullet"""
-text100#0,"""・Press and hold <%WeaponAction>"""
-text100_3b#0,"""・Press and hold <%MainPaletteC>"""

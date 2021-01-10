@@ -1,6 +1,0 @@
-linewindow#0,"""Incapacitation"""
-text00#0,"""Incapacitation"""
-text01#0,"""When your character's HP (health) falls to 0, you are incapacitated and can no longer act."""
-text02#0,"""When incapacitated, you can select a method of resuming play from the menu displayed, or wait for an ally to help you, except in some situations. You can also chat while incapacitated, allowing you to communicate with other party members."""
-text03#0,"""Surviving party members can revive incapacitated characters using revival items such as a Moon Atomizer. You can also revive yourself if you have a Half Doll."""
-text04#0,"""When a partner character is incapacitated, they are automatically revived after a set amount of time. You don't necessarily need to use revival items on them."""

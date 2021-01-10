@@ -1,5 +1,0 @@
-name01#0,"""Efeitos de status"""
-text01#0,"""Isso irá explicar os Distúrbios de Status.<br><br>Uma mudança em seu status, chamada de disturbio de status, pode ocorrer quando um indivíduo ou inimigo é atingido durante um ataque."""
-text02#0,"""Por exemplo: Se um personagem está sob o efeito de 'Queimando'; aquele jogador estará em chamas e sofrerá danos ao longo do tempo por um determinado período. Além disso, o Queimando pode se espalhar para outros jogadores se eles estiverem próximos.<br><br>Outros efeitos de status incluem 'Congelado', 'Shock', 'Cego', 'Panico', e 'Envenenado'."""
-text03#0,"""Os seguintes ícones correspondem a cada efeito de status: <br><br><pict ac_burn>: Queimando <br><pict ac_frieze>: Congelado <br><pict ac_shock>: Shock <br><pict ac_mirage>: Cego <br><pict ac_panic>: Panico <br><pict ac_poison>: Envenenado """
-text04#0,"""Geralmente, os disturbios de status são removidas automaticamente após um determinado período de tempo. O item 'Sol Atomizer' pode restaurar você e seus aliados rapidamente."""

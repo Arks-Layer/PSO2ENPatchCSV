@@ -1,8 +1,0 @@
-11_voice_NPC_5050_101#0,"""Okay, now that I have your report, you've cleared all the conditions and passed the test."""
-text02#0,"""I hereby grant you, <%me>, permission to select the Fighter class."""
-text03#0,"""Now then, let me give you some advice. The use of a new class gives you more options in combat, it's true."""
-text04#0,"""But don't get cocky. All it means is there's more that you can do. It doesn't mean that you've become stronger."""
-text05#0,"""Don't forget that. After all, there's only one of you, and we'd hate to lose you."""
-text100#0,"""Fighters"""
-text101#0,"""Fighters are a class skilled in close-room combat using melee weapons. They use nimble movements to exploit gaps in their enemy's defense and then overwhelm them with one strike after another. On the other hand, their lower defensive capabilities expose them to more attacks."""
-text102#0,"""Attacks by Fighters gain a damage bonus when you find the right combination of enemy status and attack method."""

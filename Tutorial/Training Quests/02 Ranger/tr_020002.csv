@@ -1,8 +1,0 @@
-name01#0,"""Xiera"""
-text01#0,"""Weak Bullet loads your rifle with special bullets that <red>weaken the enemy's defenses<c>."""
-text02#0,"""The enemy part that you hit with Weak Bullet gets a <red>marker<c> placed on it. Aim for the marker to deal massive damage!"""
-text03#0,"""Now, give it a try. Use Weak Bullet, then <red>attack the part with the marker on it<c>."""
-text101#0,"""Task 2: <yellow>Use Weak Bullet and attack a weak point"""
-train_title#0,"""Task 2: <yellow>Use Weak Bullet and attack a weak point"""
-tut_title#0,"""Weak Bullet"""
-text100#0,"""・Activate Weak Bullet from the<br>\u3000Subpalette<br>・Use <%NormalAttack> to place a marker<br>・Attack the marked part"""

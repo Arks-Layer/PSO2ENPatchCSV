@@ -1,3 +1,0 @@
-name01#0,"""S-ATK, R-ATK e T-ATK"""
-text01#0,"""Existem 3 tipos de poder de ataque: S-ATK, R-ATK e T-ATK.<br><br>S-ATK afeta ataques com armas corpo a corpo.<br>R-ATK afeta ataques com armas de longo alcance.<br>T-ATK afeta ataques que usam Técnicas.<br><br>Quanto maior o valor do atributo, mais danos você dará com esses tipos de ataques.<br><br>Quando você aumenta sua DEX, a taxa de dano é reduzida, o que significa que o dano que você causa será maior de forma mais constante."""
-text02#0,"""Existem também 3 tipos de poder de defesa, S-DEF, R-DEF e T-DEF, cada um dos quais tem o efeito de reduzir um tipo de dano.<br><br>Quando você aumenta sua DEX, a taxa do dano que você recebe é ampliada, o que significa que você sofre menos dano com mais frequência."""

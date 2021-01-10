@@ -1,8 +1,0 @@
-name01#0,"""Xiera"""
-text01#0,"""When equipped with Jet Boots, you can jump a second time in the air!"""
-text02#0,"""Double jumping lets you <red>reach places you couldn't normally get to<c>, or <red>attack high-up targets<c>!"""
-text03#0,"""We've prepared an obstacle that you can't climb with your normal jump, so you'll have to <red>double jump to reach the top<c>!"""
-text101#0,"""Task 5: <yellow>Reach the high ground with a double jump"""
-train_title#0,"""Task 5: <yellow>Reach the high ground with a double jump"""
-tut_title#0,"""Double Jump"""
-text100#0,"""・Jump with <%Jump><br>・Jump again in the air"""

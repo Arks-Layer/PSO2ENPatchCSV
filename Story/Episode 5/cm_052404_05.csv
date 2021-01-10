@@ -1,7 +1,0 @@
-skit01#0,"""/ci1 2 Oh thank goodness, the ARKS are here!"""
-skit02#0,"""/ci1 2 Help me, ARKS!"""
-skit03#0,"""/ci1 2 We've located more citizens. There might be another evacuation teleporter nearby. Let's go!"""
-skit01#1,"""Oh thank goodness, the ARKS are here!"""
-skit02#1,"""Help me, ARKS!"""
-skit03#1,"""We've located more citizens. There might be another evacuation teleporter nearby. Let's go!"""
-LineWindow#0,"""<c ffff00>Failure if any citizens are incapacitated.<c>"""
