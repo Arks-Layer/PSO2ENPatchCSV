@@ -4,5 +4,5 @@
 
 # Patch de Tradução PT/BR PSO2 
 Bemvindos ao Repositório do Patch de tradução Portugues do PSO2 CSV.
-      WIP
+WIP
 
