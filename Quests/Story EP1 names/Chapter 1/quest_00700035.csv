@@ -1,6 +1,6 @@
 Title#0,"""Encountering Persona"""
-Explanation#0,"""謎の声に導かれ、ナベリウスを進む二人。<br>そこで出会った人物は、仮面で顔を隠し<br><%me>へと<br>手に持つ刃を向ける。<br>――――――――――――――――――――<br>オートドール機能の対象外<br>スケープドール・ハーフドールの使用不可<br>"""
-StoryExplanation#0,"""謎の声に導かれ、ナベリウスを進む二人。<br>そこで出会った人物は、仮面で顔を隠し<br><%me>へと<br>手に持つ刃を向ける。"""
+Explanation#0,"""Guided by a mysterious voice, the two<br>proceed through the forest. There, they<br>meet a person hidden by a mask, who<br>points their blade at <%me>.<br>――――――――――――――――――――<br>Auto Dolls do not activate.<br>Scape Dolls/Half Dolls cannot be used.<br>"""
+StoryExplanation#0,"""Guided by a mysterious voice, the two<br>proceed through the forest. There, they<br>meet a person hidden by a mask, who<br>points their blade at <%me>."""
 SimpleExplanation#0,"""Defeat the mysterious enemy!"""
 Area0S#0,"""Planet Naberius - Forest"""
 Area0L#0,"""Planet Naberius - Forest"""
