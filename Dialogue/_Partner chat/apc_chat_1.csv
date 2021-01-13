@@ -63,7 +63,7 @@ IncidentJsApcBegin#0,"""/ci2 2 Looks like things are getting tough! Don't worry,
 IncidentJsApcFailure#0,"""What the hell happened? That was rough... How will I live this down?"""
 IncidentJsApcSuccess#0,"""/ci2 1 Well, I need to head back now. That was tough, but all's well that ends well!"""
 IncidentJsApcBeginEvo#0,"""/ci1 2 ...Don't relax yet. Looks like something else wants a piece!"""
-EnemyWeak#1,"""Even I can defeat someone this weak...!"""
+EnemyWeak#1,"""Even I can defeat one this weak...!"""
 EnemyLarge#1,"""W-why is it so big?!"""
 EnemyBoss#1,"""Running is no use, huh?"""
 EnemyRare#1,"""Th-that's a rare one, isn't it?"""
