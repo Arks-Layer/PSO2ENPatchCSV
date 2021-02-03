@@ -3,5 +3,5 @@ skit01#0,"""/ci1 2 For some reason, I feel really nervous about jumping into the
 skit02#0,"""/ci1 2 But ARKS have to be brave!<br>Let's go, partner!"""
 skit01#1,"""For some reason, I feel really nervous about jumping into the Telepool!"""
 skit02#1,"""But ARKS have to be brave!<br>Let's go, partner!"""
-text100#0,"""Use <%LStick> to move forward and drop into the <yellow>Telepool<c>!"""
-text101#0,"""Use <%MoveForward> to move forward and drop into the <yellow>Telepool<c>!"""
+text100#0,"""Use <%LStick>to move forward and drop into the <yellow>Telepool<c>!"""
+text101#0,"""Use <%MoveForward>to move forward and drop into the <yellow>Telepool<c>!"""
