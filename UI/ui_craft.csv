@@ -108,7 +108,7 @@ ExplainSbSelectRecipeSlot#0,"""<c f0df60>You can register three recipes that oth
 ExplainSbSelectRecipeType#0,"""<c f0df60>Please select the type of crafting recipe you want to register.<c>"""
 ExplainSbSelectRecipe#0,"""<c f0df60>Please select the crafting recipe you want to register. <c ff4f3f>If you switch between tabs<c f0df60>, you can view other recipes.<c>"""
 ExplainSbSelectStamp#0,"""<c f0df60>Select the Data Drive you want to register.<c>"""
-ExplainSbSelectCm#0,"""<c f0df60>Please set your ad, symbol art, and who can search for you.<c>"""
+ExplainSbSelectCm#0,"""<c f0df60>Please set your ad, Symbol Art, and who can search for you.<c>"""
 ExplainReceive#0,"""<c f0df60>You can confirm and craft the contents of crafting requests.<c>"""
 ExplainRcvSelectLine#0,"""<c f0df60>This extension will use one \""craft line\"". You can use up to nine.<c>"""
 ExplainRcvConfirmExtend#0,"""<c f0df60>Equipment Extension Final Review Screen<c>"""
