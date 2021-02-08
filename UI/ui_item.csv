@@ -1,4 +1,4 @@
-MenuTitle#0,"""Trade Shop"""
+MenuTitle#0,"""Exchange Shop"""
 MenuGuide#0,"""<c f0df60>The items in the list can be traded for the selected item.<c>"""
 ButtonChange#0,"""Exchange"""
 SuccessMessage#0,"""Trade successful."""
