@@ -3540,7 +3540,7 @@ SkillTreeResetPath#0,"""<pict Arcscash><c ff4f3f>AC消費コンテンツ<c><br><
 SkillTreeResetPathSG#0,"""<pict StarGem><c 1dedd7>SG Content<c><br>Proceed to purchase confirmation<br>screen for <yellow>[Additional Tree Reset Pass]<c>?<br><br>Before Reset / $(1) Skill Trees<br>After Reset / $(0) Skill Trees<br><br>(Current: $(2))"""
 SkillTreeResetTicket#0,"""<pict Arcscash><c 5fdf00>購入済アイテムの使用<c><br><yellow>「追加ツリー振り替えパス」<c>を使用し、<br>スキルツリーを振り替えますか？<br><br>振り替え前\u3000\u3000/ $(1) 用スキルツリー<br>振り替え後\u3000\u3000/ $(0) 用スキルツリー<br><br>（所持数：$(2)）"""
 SkillTreeResetTicketSG#0,"""<pict StarGem><c 5fdf00>Purchased Item Usage<c><br>Use an<yellow>[Additional Tree Reset Pass]<c><br>to reset a skill tree?<br><br>Before Reset / $(1) Skill Trees<br>After Reset / $(0) Skill Trees<br><br>(Current: $(2))"""
-SkillTreeExplain#0,"""<c f0df60>Spend Skill Points (SP) to learn class skills. Earn more points by leveling up. Select a skill and press <c><%NextTabDetails><c f0df60>to check skill details.<c>"""
+SkillTreeExplain#0,"""<c f0df60>Spend Skill Points (SP) to learn class skills. Earn more points by leveling up. Select a skill and press <%NextTabDetails><c f0df60>to check skill details.<c>"""
 SkillTreeExplain_v#0,"""<c f0df60>Spend Skill Points (SP) to learn class skills. Earn more points by leveling up.<c>"""
 SkillTreeAddExplain#0,"""<c f0df60>Here you can buy or use [Skill Tree Add Tickets] to add skill trees.<c>"""
 SkillTreeResetExplain#0,"""<c f0df60>「追加ツリー振り替えパス」を使用またはACで購入して、スキルツリーを初期化できます。最初に、振り替えるツリーを選択してください。<c>"""
