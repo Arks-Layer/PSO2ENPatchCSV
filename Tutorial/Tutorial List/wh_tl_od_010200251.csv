@@ -1,5 +1,5 @@
 name01#0,"""Weapon Enhancement"""
 text01#0,"""This explains the process of enhancing Old-Type weapons.<br><br>You can enhance weapons at the Item Lab. The Item Lab is a facility for customizing your weapons and armor units."""
-text02#0,"""You need the following to perform an upgrade:<br>・Grinders<br>・Meseta<br><br>Note that they will be consumed in the process of upgrading weapons and armor."""
+text02#0,"""You need the following to perform an upgrade:<br>・Grinders<br>・Meseta<br><br>Note that they will be consumed in the process of upgrading weapons and armor units."""
 text03#0,"""Upgrading may succeed or it may fail. When it succeeds, item performance improves. When it fails, there is a chance that item performance may decline."""
 text04#0,"""Upgraded items show a value from +1 to +10 after their name."""
