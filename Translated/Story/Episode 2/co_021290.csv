@@ -1,5 +1,5 @@
 text00#0,"""About saving/loading the state of progression"""
 text01#0,"""In this quest, as the state of progression will be saved, even if the quest is aborted, it is possible to continue playing from a designated location."""
 text02#0,"""About saving the state of progression  When the state of progression during a quest is saved, the message, [Progression of Quest has been saved] will be displayed.  Thereafter, it is possible to play the quest again from that location."""
-text03#0,"""About loading the state of progression  After the quest has been accepted, with the state of progression being saved, once you enter the Telepipe inside the Camp Ship, a confirmation window will be displayed."""
+text03#0,"""About loading the state of progression  After the quest has been accepted, with the state of progression being saved, once you enter the Telepipe inside the Campship, a confirmation window will be displayed."""
 text04#0,"""Here, if you choose [Continue Playing], you can continue to play from the previous state of progression.  *Saved data will not be deleted even if you choose to continue playing."""
