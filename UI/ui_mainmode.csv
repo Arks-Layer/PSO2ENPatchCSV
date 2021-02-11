@@ -4131,7 +4131,7 @@ PaidBonusGameMessage#0,"""The following item is needed as payment.<br><yellow>$(
 PaidButtonYes#0,"""Confirm"""
 PaidButtonNo#0,"""Cancel"""
 PaidButtonCancel#0,"""Cancel"""
-PaidButtonChange#0,"""Change method"""
+PaidButtonChange#0,"""Change Method"""
 PaidSelectTitle#0,"""Start Gate"""
 PaidSelectMessage#0,"""To begin the quest, you must either <br>select for individuals to pay or for the <br>leader to pay for everyone. <br><br>If the quest is canceled or connection is <br>lost mid-quest, please be aware that <br>items will not be refunded.<br>Which payment method will you use?"""
 PaidSelectTag1#0,"""Leader pays"""
