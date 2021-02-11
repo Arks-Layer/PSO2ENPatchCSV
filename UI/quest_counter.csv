@@ -797,7 +797,7 @@ Quest_Explain_TopContinue_3#0,"""All Omnibus EPISODE 3 quests have been cleared.
 Quest_Explain_Basnet#0,"""This will open the Buster Quest matching screen.<br><br>Upon completion, you will<br>return back to the Campship."""
 Quest_Explain_Omnibus_FreeField#0,"""Open the Free Field selection.<br><br>If you clear a Free Field, you<br>will return back to the Campship."""
 Sub_Window_change#0,"""<pict Sign_TRIANGLE>Switch"""
-Quest_Title_Confirm#0,"""Quest start confirmation"""
+Quest_Title_Confirm#0,"""Quest Start Confirmation"""
 Quest_Title_Msg#0,"""Message"""
 Quest_Msg_Confirm#0,"""This will begin the Story Quest [Buster Quest].<br>Grade: 1 (Skills scaled to： Lv.$(1))<br><br><yellow>※You can only select this quest solo.<br>※Quest will begin immediately.<br>※This will not consume [Match Stamina]<br>※You cannot earn [Buster Quest] rewards.<br>※You will not earn BP from a victory.<br>\u3000(You can still lose BP if you lose.)<br>※Can only be done once per account.<c><br><br>Victory Conditions / Destroy Boss"""
 Quest_NoMsg_Party#0,"""・Event Quests<br>・Story Quests<br>・Story Buster Quests<br>\u3000You cannot undertake these type of<br>\u3000quests while in a party."""
