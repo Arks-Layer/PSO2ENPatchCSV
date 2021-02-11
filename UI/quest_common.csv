@@ -1096,7 +1096,7 @@ ArealockOpenedQuestInfo#0,"""You can advance into the depths!<br><yellow>Use the
 WindowTitle#0,"""Activate A.I.S."""
 WindowMessage#0,"""Deploying A.I.S..<br>Is that OK?<br><br>※You can deploy an A.I.S. <yellow>$(0)<c> more times.<br>"""
 WindowMessage_Multi#0,"""Deploying A.I.S..<br>Is that OK?<br><br>※You can deploy an A.I.S. <yellow>$(0)<c> amount of times.<br>"""
-LimitMessage#0,"""Cannot deploy an A.I.S.. as<br>the deploy limit has been reached."""
+LimitMessage#0,"""Cannot deploy an A.I.S. as<br>the deploy limit has been reached."""
 Failure_RideConcurrentLimit#0,"""Activation failed - maximum active number reached"""
 Failure_RideCountLimit#0,"""Activation failed - you have reached your activation limit"""
 Failure_Other#0,"""Activation failed."""
