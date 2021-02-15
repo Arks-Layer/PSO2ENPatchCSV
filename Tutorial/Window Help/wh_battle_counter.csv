@@ -1,6 +1,6 @@
 name01#0,"""The Battle Counter"""
 whelp_battle_counter01#0,"""<yellow>About the Battle Counter<c><br><br>At the Battle Counter, you can begin matching for the Battle Arena, get explanations of various functions, check the rules, etc."""
-whelp_battle_counter02#0,"""<yellow>About Matching<c><br><br>Choose the rules you want to play with and select \""Start Matching\"" to begin matching for a battle. When all participating players have joined, they will automatically be moved to the VR Arena to begin the battle.<br><br>※When the VR Arena is overcrowded, matching may not be completed even if all players are ready. If this happens, please wait for the congestion to clear."""
+whelp_battle_counter02#0,"""<yellow>About Matchmaking<c><br><br>Choose the rules you want to play with and select \""Start Matchmaking\"" to begin matchmaking for a battle. When all participating players have joined, they will automatically be moved to the VR Arena to begin the battle.<br><br>※When the VR Arena is overcrowded, matchmaking may not be completed even if all players are ready. If this happens, please wait for the congestion to clear."""
 whelp_battle_counter03#0,"""-"""
 whelp_battle_counter04#0,"""-"""
 whelp_battle_counter05#0,"""<yellow>【クエストへの参加方法について】<c><br><br>クエストリストからいずれかのクエストを選ぶと、次のような参加方法を選択できます。<br><br>【すぐに出発する】<br>現在のパーティーでクエストを開始します。<br><br>【現在のブロックのパーティーに参加する】<br>同じブロック内の、クエストをプレイ中のパーティーに現在のパーティーごと参加します。<br><br>【他のブロックのパーティーを探す】<br>他のブロックにいる、クエストをプレイ中のパーティーを探します。"""
