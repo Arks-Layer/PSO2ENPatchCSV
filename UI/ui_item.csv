@@ -1563,7 +1563,7 @@ ComposeErrorMessage_InstanceFailed#0,"""Information could not be received.<br>Pl
 ComposeErrorMessage1#0,"""Insufficient Meseta."""
 ComposeResultTitle#0,"""Item Lab"""
 ComposeErrorMessage#0,"""Communication error.<br>Cannot upgrade abilities.<br><br>[No.2110]"""
-ComposeResultMessage1#0,"""Added special abilities"""
+ComposeResultMessage1#0,"""Added special abilities."""
 ComposeResultSucceeded#0,"""<green>Addition successful<c>"""
 ComposeResultSucceededNone#0,"""None"""
 ComposeResultFailed#0,"""<c ff4f3f>Addition failed<c>"""
