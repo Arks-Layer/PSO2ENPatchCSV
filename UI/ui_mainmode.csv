@@ -3948,7 +3948,7 @@ ExpiredErrorMessage#0,"""The item could not be exchanged as the exchange period 
 LimitedItem#0,"""<yellow>Limited<c>"""
 LimitedItemTitle1#0,"""<yellow>Exchange Limit<c>"""
 LimitedItemTitle2#0,"""<yellow>Reset date<c>"""
-LimitedItemText1#0,"""Can trade up to $(0) """
+LimitedItemText1#0,"""Can exchange up to $(0)"""
 LimitedItemText2#0,"""$(0) or more """
 LimitedItemTitle3#0,"""Exchange Information"""
 SiriusShopTitle#0,"""Idola Point Exchange"""

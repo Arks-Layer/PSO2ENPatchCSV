@@ -77,7 +77,7 @@ ExchangeDBAccessMessage#0,"""Could not receive reward <br>due to server congesti
 LimitedItem#0,"""<yellow>Limited<c>"""
 LimitedItemTitle1#0,"""<yellow>Exchangeable<c>"""
 LimitedItemTitle2#0,"""<yellow>Reset Date<c>"""
-LimitedItemText1#0,"""Can Exchange Up To $(0)"""
+LimitedItemText1#0,"""Can exchange up to $(0)"""
 LimitedItemText2#0,"""$(0) Left"""
 LimitedItemTitle3#0,"""Exchange Item Info"""
 title_big_gacha#0,"""Coin Exchanger"""
