@@ -4231,7 +4231,7 @@ OmegaMultiBossMessageExc#0,"""Transfer will begin shortly. You'll be transferred
 OmegaMultiBossGotoExc#0,"""Transfer started. Please head towards the transfer pad within the time period."""
 SelectDifficultyQuestLV#0,"""Select Quest Difficulty.<br>(Area Reached / $(0))"""
 SelectDifficultyQuestLV0#0,"""Select Quest Difficulty.<br>(Area Reached / Unexplored)"""
-SelectDifficultyQuestCountCheck#0,"""Start the quest?<br>(You can clear this quest <red>$(0)<c> more times.)<br><br><br>※Amount of clears reset after <utc>20:00</utc>.<br>※Amount of clears don't rollover the next day.<br>※Clearing reduces how many clears you get."""
+SelectDifficultyQuestCountCheck#0,"""Start the quest?<br>(You can clear this quest <red>$(0)<c> more times.)<br><br><br>※Amount of clears reset after <utc>20:00</utc>.<br>※Amount of clears don't rollover the next day.<br>※Clearing will consume available clear count."""
 DPP1MultiBossMessageExc#0,"""ライドロイド配備装置を起動しました。<br>一定時間後、周囲にいるメンバーで出撃します。<br><br>ライドロイド配備装置を停止しますか？"""
 DPP1MultiBossGotoExc#0,"""ライドロイド配備装置起動。一定時間内に揚陸艇へ向かってください。"""
 DEMultiBossMessageExc#0,"""魔法陣を起動しました。<br>一定時間後、周囲にいるメンバーで出撃します。<br><br>魔法陣の起動を中断しますか？"""
