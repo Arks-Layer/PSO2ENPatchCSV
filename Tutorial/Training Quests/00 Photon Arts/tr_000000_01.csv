@@ -1,5 +1,5 @@
 name01#0,"""Xiera"""
-text01#0,"""You've learned the Photon Art!<br>Next, let's set the Photon Art you learned to your <red>weapon palette<c>."""
+text01#0,"""You've learned the Photon Art!<br>Next, let's set the Photon Art you learned to your <red>Weapon Palette<c>."""
 tut_title#0,"""Setting Photon Arts"""
 text100#0,"""・Select [Equip Weapons] from<br>\u3000the main menu<br>・Select a slot<br>・Select the Photon Art you<br>\u3000want to set"""
 tut_win_title#0,"""Learning and Setting Photon Arts"""

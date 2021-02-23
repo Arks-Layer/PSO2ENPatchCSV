@@ -1,6 +1,6 @@
 11_voice_NPC_5003_104#0,"""Man, was I completely wrong! I thought you could use Photon Arts just by learning them."""
-text02#0,"""But I found out that you have to set them in the weapon palette before you can use them!"""
+text02#0,"""But I found out that you have to set them in the Weapon Palette before you can use them!"""
 text03#0,"""That was totally embarrassing. But whatever. Live and learn, right?"""
 text04#0,"""How about you? You're not just learning skills without setting them, are you?"""
-text05#0,"""Hey, how about we take a look at your weapon palette? All this talk has really got me curious."""
+text05#0,"""Hey, how about we take a look at your Weapon Palette? All this talk has really got me curious."""
 linewindow001#0,"""Received <yellow>Aiming Shot Lv.1<c> from Afin."""
