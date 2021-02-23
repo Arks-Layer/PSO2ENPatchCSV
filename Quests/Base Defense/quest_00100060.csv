@@ -3,7 +3,7 @@ Explanation#0,"""本任務は、ＶＲ空間にて行う<br>採掘基地防衛�
 SimpleExplanation#0,"""Defend the Mining Base!"""
 Wave1_Talk#0,"""The enemy is here! Please check the map for their positions and defend the bases!"""
 Wave2_Talk#0,"""You can't use defense sockets that have been corrupted by Sorza Brahda. Give destroying these Darkers priority!"""
-Wave3_Talk#0,"""Infected A.I.S Exoda and Darker particle turrets have begun appearing! Don't forget about them!"""
+Wave3_Talk#0,"""Infected A.I.S. Exoda and Darker Particle Cannons have begun appearing! Don't forget about them!"""
 Wave4_Talk#0,"""A large number of enemies have arrived! To defend the bases, please destroy all the enemies!"""
 Wave5_Talk#0,"""If you see the Zeta Guranz, please try to destroy it! It's very dangerous to leave it alone!"""
 Wave6_Talk#0,"""These enemies will attack with all their might! This wave will be critical, please give it your all!"""

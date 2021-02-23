@@ -9,7 +9,7 @@ NpcComMsg1#0,"""We'll begin an interceptive assault<br>on the super-massive ener
 NpcComMsg2#0,"""First, we'll utilize a new frozen projectile, using an A.I.S. sortie, to halt the target from moving."""
 NpcComMsg3#0,"""After that, begin your assault and head towards the target. Considering on how armed it is, a counter-attack is expected. Please be careful."""
 NpcComMsg1#1,"""You must destroy the target before it can reach urban areas on shore."""
-NpcComMsg2#1,"""Deploy the A.I.S and use its new \""Hi-Boost\"" to quickly reach and destroy the target!"""
+NpcComMsg2#1,"""Deploy the A.I.S. and use its new \""Hi-Boost\"" to quickly reach and destroy the target!"""
 Area0S#0,"""Japanese Coastal Waters"""
 Area0L#0,"""Earth - Japanese Coastal Waters"""
 Area1S#0,"""Japanese Coastal Waters"""

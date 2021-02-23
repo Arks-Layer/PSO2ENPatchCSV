@@ -6,5 +6,5 @@ text04#0,"""<red>Use Protect Release 3 times<c> while avoiding being hit by enem
 text101#0,"""Task 2: <yellow>Use Protect Release on an enemy<c>"""
 train_title#0,"""Task 2: <yellow>Use Protect Release on an enemy<c>"""
 tut_title#0,"""Protect Release"""
-text100#0,"""・When your Gear Gauge is full:<br>\u3000Use your Weapon Action with <%PhotonArts> until  you<br>\u3000consume enough Gear for Protect Release<br>・Hold the button longer for an enhanced Protect Release"""
-text100_3b#0,"""・When your Gear Gauge is full:<br>\u3000Use your Weapon Action with <%MainPaletteC> until  you<br>\u3000consume enough Gear for Protect Release<br>・Hold the button longer for an enhanced Protect Release"""
+text100#0,"""・When your Gear Gauge is full:<br>\u3000Use your Weapon Action with <%PhotonArts> until you<br>\u3000consume enough Gear for Protect Release<br>・Hold the button longer for an enhanced Protect Release"""
+text100_3b#0,"""・When your Gear Gauge is full:<br>\u3000Use your Weapon Action with <%MainPaletteC> until you<br>\u3000consume enough Gear for Protect Release<br>・Hold the button longer for an enhanced Protect Release"""

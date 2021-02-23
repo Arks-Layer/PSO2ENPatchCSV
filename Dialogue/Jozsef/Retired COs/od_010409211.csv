@@ -3,6 +3,6 @@ text02#0,"""I will teach you the finer points of using a rifle before it's too l
 text03#0,"""First and foremost, you must aim carefully before you shoot."""
 text100#0,"""Strafe"""
 text101#0,"""Strafe enables you to make ranged attacks while on the move."""
-text102#0,"""Use the following controls to move: Forward: <%MoveForward>   Back: <%MoveBack> Left: <%MoveLeft>   Right: <%MoveRight>  While moving, execute one of the following: Standard attack: <%NormalAttack>   photon art: <%PhotonArts>"""
-text103#0,"""While using the left stick to move, execute one of the following: Standard attack: <%NormalAttack>   photon art: <%PhotonArts>"""
+text102#0,"""Use the following controls to move: Forward: <%MoveForward>   Back: <%MoveBack> Left: <%MoveLeft>   Right: <%MoveRight>  While moving, execute one of the following: Standard attack: <%NormalAttack>   Photon Art: <%PhotonArts>"""
+text103#0,"""While using the left stick to move, execute one of the following: Standard attack: <%NormalAttack>   Photon Art: <%PhotonArts>"""
 text104#0,"""While Strafe lets you maneuver safely, it also causes your shots to go astray more often.  Fire while standing in place when you want to shoot more accurately. Use Strafe to stay mobile while taking out enemies."""

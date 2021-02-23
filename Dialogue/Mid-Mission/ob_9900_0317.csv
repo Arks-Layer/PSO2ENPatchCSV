@@ -1,7 +1,7 @@
 Name#0,"""Opta"""
 Trouble#0,"""Tch! I sure messed this up! I'm <br>coming down for a moment!"""
 PassMessage#0,"""Recon patrol, reporting in!"""
-PassMessage2#0,"""Don't worry!  I'm on patrol!"""
+PassMessage2#0,"""Don't worry! I'm on patrol!"""
 DropHelpItem#0,"""I brought you some supplies!"""
 DropEnemy#0,"""Something's off about these <br>supplies... Well, here you go!"""
 Shooting#0,"""Hey hey, cover fire is here!"""

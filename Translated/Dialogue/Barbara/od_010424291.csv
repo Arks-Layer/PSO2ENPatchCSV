@@ -2,5 +2,5 @@ text01#0,"""Weapon proficiency takes daily practice. The more training you do, t
 text02#0,"""You may find it hard and exhausting at first, but the more boot camps you complete, the more you'll start to enjoy the process."""
 11_voice_NPC_5057_100#0,"""I've sent out countless students like that. So just put your mind at ease and follow me."""
 text100#0,"""Wands"""
-text101#0,"""This is an explanation of the wands gear system.  By learning the \""wands\"" skill, a gear gauge will be added to the top of the Weapon Palette.  The wands gear gauge charges by landing hits with charged techniques.  Fire charged techniques by holding the palette that is set to techniques."""
-text102#0,"""As the gear gauge rises, elemental damage will be added to your standard attack, so use this to your advantage in battles.  The gauge drops over time, so try to fight by unleashing charged techniques at appropriate intervals."""
+text101#0,"""This is an explanation of the wand gear system. By learning the \""wand\"" skill, a gear gauge will be added to the top of the Weapon Palette. The wand gear gauge charges by landing hits with charged Techniques. Fire charged Techniques by holding the palette that is set to Techniques."""
+text102#0,"""As the gear gauge rises, elemental damage will be added to your standard attack, so use this to your advantage in battles. The gauge drops over time, so try to fight by unleashing charged Techniques at appropriate intervals."""
