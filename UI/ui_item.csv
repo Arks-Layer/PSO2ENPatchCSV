@@ -620,7 +620,7 @@ ConsumeErrorMessage10#0,"""Cannot exceed 180 days or<br>more. Item use cancelled
 ConsumeErrorMessage11#0,"""Cannot exceed 90 days or<br>more. Item use cancelled."""
 ResultItemFull#0,"""Due to a lack of inventory or Storage space, you are unable to collect your reward."""
 ResultMesetaFull#0,"""You are unable to collect your reward, as you have reached the maximum amount of Meseta you can carry."""
-ItemSetWareHouse#0,"""The reward was sent to your storage, as your inventory is full."""
+ItemSetWareHouse#0,"""The reward was sent to your Storage, as your inventory is full."""
 ItemSetPost#0,"""As your item Storage has reached its capacity limit, the reward was sent to your Temporary Storage."""
 CheckPostNoticeMessage1#0,"""<yellow>Your Temporary Storage is getting full. You are advised to reorganize your items.<c>"""
 CheckPostNoticeMessage2#0,"""<c ff4f3f>Your Temporary Storage is full. Please reorganize your items. The oldest items will be deleted to make room, if you do not take them out.<c>"""
