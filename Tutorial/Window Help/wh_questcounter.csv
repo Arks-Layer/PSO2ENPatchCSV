@@ -1,5 +1,5 @@
 name01#0,"""The Quest Counter"""
-whelp_questcounter01#0,"""<yellow>About the Quest Counter<c><br><br>The quest counter is where you can take on a wide variety of quests.<br><br>The procedure for selecting a quest is as follows:<br>Choose \""Select Quest from List\""<br>    ↓<br>Choose a quest type<br>    ↓<br>Choose a quest from the list<br>※If you are a beginner, we recommend you choose quests marked with the \""<pict Beginners>\"" symbol."""
+whelp_questcounter01#0,"""<yellow>About the Quest Counter<c><br><br>The Quest Counter is where you can take on a wide variety of quests.<br><br>The procedure for selecting a quest is as follows:<br>Choose \""Select Quest from List\""<br>    ↓<br>Choose a quest type<br>    ↓<br>Choose a quest from the list<br>※If you are a beginner, we recommend you choose quests marked with the \""<pict Beginners>\"" symbol."""
 whelp_questcounter02#0,"""-"""
 whelp_questcounter03#0,"""-"""
 whelp_questcounter04#0,"""-"""
