@@ -121,7 +121,7 @@ IncidentJsApcBegin#24,"""/ci1 3 ……任務外ですが<br>放ってはおけ�
 IncidentJsApcSuccess#24,"""/ci1 5 ……お互い、無事で何よりです。<br>それでは。"""
 IncidentJsApcFailure#24,"""申し訳ありません……<br>私は撤退します。"""
 IncidentJsApcSuccessEvo#24,"""/ci1 5 ……お互い、無事で何よりです。<br>それでは。"""
-IncidentJsApcBegin#25,"""/ci1 3  ...There's so many of them. I will help with the extermination."""
+IncidentJsApcBegin#25,"""/ci1 3 ...There's so many of them. I will help with the extermination."""
 IncidentJsApcSuccess#25,"""/ci1 5 Well then, I'll move on to my next mission."""
 IncidentJsApcFailure#25,"""How could I let this happen...? How pathetic..."""
 IncidentJsApcSuccessEvo#25,"""/ci1 5 Well then, I'll move on to my next mission."""

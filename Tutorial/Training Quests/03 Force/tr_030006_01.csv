@@ -4,6 +4,6 @@ text02#0,"""Try switching to over-the-shoulder view and <red>throwing the Talis<
 train_title#0,"""Task 4: <yellow>Hit multiple enemies simultaneously with shoulder view"""
 tut_title#0,"""Talises"""
 text100#0,"""・Use <%ChangeView> to switch to shoulder view<br>・Throw the Talis to the marker with <%NormalAttack><br>・Charge and cast a Technique with <%PhotonArts>"""
-text100_3b#0,"""・Use <%ChangeView> to switch to shoulder view<br>・Throw the Talis to the marker with <%NormalAttack><br>・Charge and cast  a Technique with <%PhotonArts> or <%MainPaletteC>"""
+text100_3b#0,"""・Use <%ChangeView> to switch to shoulder view<br>・Throw the Talis to the marker with <%NormalAttack><br>・Charge and cast a Technique with <%PhotonArts> or <%MainPaletteC>"""
 tut_win_title#0,"""Over-the-shoulder view"""
 tut_win_text100#0,"""Over-the-shoulder view is a camera mode intended for performing precise attacks with shooting weapons.<br><br>You can change to this camera mode by pressing <%ChangeView>. Press <%ChangeView> again to return to your normal camera mode."""
