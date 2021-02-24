@@ -191,7 +191,7 @@ RD_Event009_MES#0,"""The attack's deadline is fast approaching. We will be unabl
 RD_Event010_MES#0,"""The attack's deadline is fast approaching. We will be unable to complete our objective. All ARKS should put forth their full effort."""
 RD_Event011_MES#0,"""The attack's deadline is fast approaching. We will be unable to complete our objective. All ARKS should put forth their full effort."""
 RD_Event012_MES#0,"""The attack's deadline is very close. We can begin phase two if we reach our goal by then. Prepare for one final push."""
-RD_Event013_MES#0,"""Our initial attack failed… Abandon the attacked ARKS ship; all surviving ARKS ships are to withdraw to a safe location."""
+RD_Event013_MES#0,"""Our initial attack failed... Abandon the attacked ARKS ship; all surviving ARKS ships are to withdraw to a safe location."""
 RD_Event014_MES#0,"""Initial assault successful! Commence phase two! Approach and strike Dark Falz while it's weakened!"""
 RD_Event015_MES#0,"""Dark Falz has been successfully repelled. Thanks go out to all ARKS for your cooperation today."""
 RD_Event016_MES#0,"""Oh, so you're owl exterminators? Then you won't have any problem exterminating <%Sint64Arg1> owls across all ships within 30 minutes!"""

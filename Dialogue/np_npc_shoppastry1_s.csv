@@ -1,7 +1,7 @@
 GREET_RANGE#0,"""What?"""
 GREET_SHOP_OPEN#0,"""Buy some cake."""
 GREET_SHOP_DISABLE#0,"""Today's confidential."""
-GREET_SHOP_CLOSE#0,"""…Hmm..."""
+GREET_SHOP_CLOSE#0,"""...Hmm."""
 HINT_EAST#0,"""From the East!"""
 HINT_WEST#0,"""From the West!"""
 HINT_SOUTH#0,"""From the South!"""
