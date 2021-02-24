@@ -189,7 +189,7 @@ Msg6#0,"""$(1) of the team \""$(0)\"",<br>we have declined the merger.<br><br>Is
 Msg7#0,"""Team merger cannot be performed<br>as your combined member total<br>exceeds the limit of max members."""
 Msg8#0,"""Team merge completed."""
 Msg9#0,"""The merger was cancelled as<br>the request has been withdrawn."""
-Msg10#0,"""Merger was cancelled because<br>there are items in team \""$(0)\""'s storage."""
+Msg10#0,"""Merger was cancelled because<br>there are items in Team \""$(0)\""'s Storage."""
 Msg11#0,"""Could not merge teams."""
 Msg12#0,"""Could not apply for merger."""
 Msg13#0,"""Could not perform a team merger<br>as the Team Leaders of the team<br>\""$(0)\"" are not in the same area."""
