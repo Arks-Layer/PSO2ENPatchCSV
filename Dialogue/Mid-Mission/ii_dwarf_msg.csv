@@ -9,7 +9,7 @@ NpcComOnDwarfGestureA#0,"""He must be trying to tell his friend something. Try m
 NpcComOnDwarfGestureB#0,"""Hm? It seem the Lillipan is trying to tell you something. Pay attention to his gestures!"""
 NpcComOnAppearDwarfA#0,"""It looks like you've found the <br>Lillipan's friend. Clean up all the enemies in the area, so you can relay the message!"""
 NpcComOnAppearDwarfB#0,"""Lillipan spotted! This time, there are no enemies. Do your best to relay the message!"""
-NpcComOnEnableGesture#0,"""Okay, let's relay the message! Do your best to perform the correct lobby actions!"""
+NpcComOnEnableGesture#0,"""Okay, let's relay the message! Do your best to perform the correct Lobby Actions!"""
 NpcComOnDisableGesture#0,"""He's frightened and won't look this way. Finish dealing with all of the enemies first!"""
 NpcComOnGestureOK#0,"""/face2 It looks like you were able to do it right! He looks happy!"""
 NpcComOnGestureNG#0,"""What? It seems the message didn't get across. Maybe try a different gesture?"""
