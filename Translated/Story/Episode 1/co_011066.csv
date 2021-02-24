@@ -1,7 +1,7 @@
 linewindow#0,"""Weapon Upgrades"""
 text00#0,"""Weapon Upgrades"""
 text01#0,"""You can upgrade weapons at the Item Lab. Upgrading allows you to customize your weapons and armor units."""
-text02#0,"""You need the following to perform an upgrade: - A grinder - Meseta  Note that they will be used up in the process of upgrading weapons and armor."""
+text02#0,"""You need the following to perform an upgrade: - A grinder - Meseta Note that they will be used up in the process of upgrading weapons and armor."""
 text03#0,"""When you carry out an upgrade, it will either succeed or fail. Success improves a weapon's power by a level, up to a maximum of ten levels. Failure reduces the weapon's power by one level."""
 text04#0,"""Upgraded items show a value from +1 to +10 after their name in the item data."""
 text05#0,"""To perform an elemental upgrade, you need the following three things:  - Meseta  - Synthesizers  - Component weapons This lets you upgrade the strength of a weapon's element (fire, ice, etc.). Use components with the same element to raise elemental power further."""
