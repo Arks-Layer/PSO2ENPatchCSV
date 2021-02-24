@@ -1,6 +1,6 @@
 name01#0,"""Zeno"""
-linewindow001#0,"""You've achieved the objective for the client order \""Killing Time on Naberius.\"" Go file a report with Zeno."""
+linewindow001#0,"""You've achieved the objective for the Client Order \""Killing Time on Naberius.\"" Go file a report with Zeno."""
 11_voice_NPC_5001_100#0,"""That went well. Nice job, <%me>."""
-text02#0,"""But your work isn't over just yet. Filing a report is part of the client order process."""
+text02#0,"""But your work isn't over just yet. Filing a report is part of the Client Order process."""
 text03#0,"""I'll be waiting at my usual spot. Come see me to file your report, okay?"""
 text04#0,"""See you then!"""

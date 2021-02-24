@@ -1,6 +1,6 @@
 name01#0,"""Echo"""
-linewindow001#0,"""You've achieved the objective for the client order \""Lost and Found.\"""""
+linewindow001#0,"""You've achieved the objective for the Client Order \""Lost and Found.\"""""
 text01#0,"""Oh, <%me>, you're back. And in one piece, too. What a relief."""
 text02#0,"""Plus, you found my rod! Thank you so much."""
-text03#0,"""But it's still a bit early for your reward. After all, client orders have rules that have to be followed. Remember? Your final report?"""
+text03#0,"""But it's still a bit early for your reward. After all, Client Orders have rules that have to be followed. Remember? Your final report?"""
 11_voice_NPC_5002_100#0,"""I'll be waiting in my usual spot, so come see me when you're ready to file it."""
