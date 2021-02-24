@@ -1,4 +1,4 @@
 skit01#0,"""***"""
 text00#0,"""Return to Campship"""
 text100#0,"""Boss Containers"""
-text1000#0,"""When you defeat a boss enemy, a red \""Boss Container\"" appears.<br><br>You can destroy it with any attack, and it drops both meseta and items. Could you get a rare drop?<br><br>When you get close to an item, its name will appear in the top-left corner of the screen. Pick it up with <%Access>."""
+text1000#0,"""When you defeat a boss enemy, a red \""Boss Container\"" appears.<br><br>You can destroy it with any attack, and it drops both Meseta and items. Could you get a rare drop?<br><br>When you get close to an item, its name will appear in the top-left corner of the screen. Pick it up with <%Access>."""
