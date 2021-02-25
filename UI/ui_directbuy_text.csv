@@ -41,7 +41,7 @@ DirectUse_MyFashion_2#0,"""<pict Arcscash><c 5fdf00>Confirm item usage<c><br>You
 DirectBuySG_RentalContainer_1#0,"""Item Purchase Confirmation"""
 DirectBuySG_RentalContainer_2#0,"""<pict StarGem><c 1dedd7>SG Consumption<c><br>You lack the right to use the<br>\""Extended Storage\"", or the usage period<br>has expired.<br><br>You could buy an <yellow>[Extended Storage Ticket]<c><br>and use it immediately.<br>Proceed to the purchase screen?"""
 DirectUseSG_RentalContainer_1#0,"""Item Use Confirmation"""
-DirectUseSG_RentalContainer_2#0,"""<pict StarGem><c 5fdf00>Confirm item usage<c><br>You lack the right to use the<br>\""Extended Storage\"", or the usage period<br>has expired.<br><br>You could buy a rental storage ticket<br>to enable it.<br>Proceed to the purchase screen?<br>"""
+DirectUseSG_RentalContainer_2#0,"""<pict StarGem><c 5fdf00>Confirm item usage<c><br>You lack the right to use the<br>\""Extended Storage\"", or the usage period<br>has expired.<br><br>You could buy a rental Storage ticket<br>to enable it.<br>Proceed to the purchase screen?<br>"""
 DirectUse_FreeLight_1#0,"""Item Use Confirmation"""
 DirectUse_FreeLight_2#0,"""<pict Arcscash><c 5fdf00>Confirm item usage<c><br>You cannot use these Custom Light<br>settings as you have either not used a<br>Premium Set, or your Premium Set has<br>expired.<br><br>Would you like to use the <yellow>Premium Set<c><br>you have in your Item Pack to enable<br>these Custom Light settings?<br><br><red>※If you have multiple types of ticket, the<br>  one with the longest duration will be used.<c><br><br><red>※To use the ticket yourself, please select<br>  it from your Item Pack.<c>"""
 DirectUse_FreeCamera_1#0,"""Item Use Confirmation"""
