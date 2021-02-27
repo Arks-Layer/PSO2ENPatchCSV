@@ -5,5 +5,5 @@ NpcComOnBegin_1#0,"""/atime1.0 /voice11_voice_delicious_npcma_002 So this... Thi
 NpcComOnJumpDown_1#0,"""/voice11_voice_delicious_npcha_013 It's working, let's keep the momentum going!"""
 NpcComOnBegin_2#0,"""/atime1.0 /voice11_voice_delicious_npchi_002 Such overwhelming darkness...<br>but we won't give up!"""
 NpcComOnJumpDown_2#0,"""/atime1.0 /voice11_voice_delicious_npchi_004 This attack is working!<br>Let's do our best and take this thing down!"""
-NpcComOnFootholdsAlert#0,"""/voice11_voice_delicious_npcma_015 Watch out! Run somewhere else!"""
+NpcComOnFootholdsAlert#0,"""/voice11_voice_delicious_npcma_015 Watch out! Run to somewhere else!"""
 NpcComOnBegin_3#0,"""/voice11_voice_delicious_npcha_002 Let's put an end to this eternal destiny!"""
