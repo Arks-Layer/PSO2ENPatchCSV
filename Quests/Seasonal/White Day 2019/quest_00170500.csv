@@ -3,7 +3,7 @@ NpcComMsg2#0,"""出現したエネミーは<br>イベント会場の方角に向
 NpcComMsg3#0,"""先行したアークスや協力者たちとともに<br>事態の鎮圧に当たってください！<br>よろしくお願いします！"""
 Title#0,"""T:A Boisterous White Day 2019"""
 Explanation#0,"""惑星アムドゥスキアの壊世区域にて<br>多数のダーカーと龍族が出現、区域外に<br>向けて進行を開始したと報告があった。<br>イベント会場予定地の方向へ進んでおり<br>このままでは会場と人員に<br>被害が出ることはまぬがれない。<br>アークス各員は準備が出来次第出撃し<br>会場予定地に向かうエネミーを撃退せよ。<br>――――――――――――――――――――<br>失敗条件/制限時間の経過"""
-SimpleExplanation#0,"""Head for the final area!"""
+SimpleExplanation#0,"""Head to the final area!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""

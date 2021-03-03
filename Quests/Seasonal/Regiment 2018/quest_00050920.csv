@@ -3,7 +3,7 @@ NpcComMsg2#0,"""黒ノ領域上空に見える<br>赤い月のように収束し
 NpcComMsg3#0,"""エネミーたちは凶暴化しており<br>現地ではかなりの激戦が予想されます。<br>どうか、お気をつけて！"""
 Title#0,"""Regiment of the Wicked 2018"""
 Explanation#0,"""惑星ハルコタンの黒ノ領域上空に<br>再び赤き妖力の集中が観測された。<br>これまでになく異様な気配を見せている。<br>現地のエネミーも凶暴化しており<br>危険な任務であることが予測される。<br>アークス各員は、至急現地へと赴き<br>調査、鎮圧にあたれ。<br>――――――――――――――――――――<br>失敗条件/制限時間の経過 """
-SimpleExplanation#0,"""Head for the final area!"""
+SimpleExplanation#0,"""Head to the final area!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""

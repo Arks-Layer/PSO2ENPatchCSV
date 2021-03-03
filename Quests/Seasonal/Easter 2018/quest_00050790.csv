@@ -3,7 +3,7 @@ Explanation#0,"""アークス各員へ緊急連絡。<br>惑星・地球のラ�
 NpcComMsg1#0,"""これより転送を開始します。<br>今回の目的は、イベント会場周辺に<br>多数出現した幻創種の撃破です！"""
 NpcComMsg2#0,"""あと何故かファレグさんより伝言です。<br>「久々の闘争を存分に楽しみましょう」<br>……って、どうして敵側なんですか！"""
 NpcComMsg3#0,"""ひと波乱ありそうな感じですが<br>まずは、幻創種やエネミーを撃退し<br>会場の安全を確保しましょう！"""
-SimpleExplanation#0,"""Head for the final area!"""
+SimpleExplanation#0,"""Head to the final area!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""

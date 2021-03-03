@@ -67,7 +67,7 @@ ExchangeCheckMessage#0,"""This will exchange $(0)<pict AmusementCoin> for the fo
 ExchangeLimitCheckMessage#0,"""This will exchange $(0)<pict AmusementCoin> for the following items.<br>Continue?<br>(The limit on exchanges is reset every <utcdow>Wed.4:00</utcdow>)"""
 PreExchangeLimitMessage#0,"""The prizes you've selected exceed your current limit.<br>Please select other prizes or come back later.<br>(The limit on exchanges is reset every <utcdow>Wed.4:00</utcdow>)"""
 ExchangeLimitMessage#0,"""You've reached your limit of exchanges, so the exchange failed."""
-ExchangeCancelTitle#0,"""Cancelled Trade"""
+ExchangeCancelTitle#0,"""Cancel Exchange"""
 ExchangeCancelMessage#0,"""This will cancel the exchange.<br>Continue?"""
 ExchangeCoinInsufficient#0,"""Insufficient Casino Coins."""
 ExchangeResultTitle#0,"""Item Exchange"""

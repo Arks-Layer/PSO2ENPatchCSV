@@ -163,7 +163,7 @@ ErrorUnchanged#0,"""プレイヤーIDネームに変更がなかったため<br>
 ErrorOther#0,"""システムエラーが発生したため<br>名前を変更できませんでした。"""
 ErrorTime#0,"""前回プレイヤーＩＤネームを変更してから<br>30日間経過していないため<br>プレイヤーIDネームの変更ができませんでした。"""
 Title#1,"""Login"""
-TitleAndShip#0,"""Login\u3000（$(0)）"""
+TitleAndShip#0,"""Login\u3000($(0))"""
 TitleFacebook#0,"""Facebook Login"""
 Button_Ok#0,"""Login"""
 Button_Cancel#0,"""Return"""

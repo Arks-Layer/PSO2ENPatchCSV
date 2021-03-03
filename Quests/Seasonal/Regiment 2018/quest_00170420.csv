@@ -3,7 +3,7 @@ Explanation#0,"""惑星ハルコタンの黒ノ領域上空に<br>再び赤き�
 NpcComMsg1#0,"""これより転送を開始します！<br>目的は、凶暴化したエネミーの鎮圧と<br>異変の調査です。"""
 NpcComMsg2#0,"""黒ノ領域上空に見える<br>赤い月のように収束した妖力が<br>異変の原因と思われます！"""
 NpcComMsg3#0,"""エネミーたちは凶暴化しており<br>現地ではかなりの激戦が予想されます。<br>どうか、お気をつけて！"""
-SimpleExplanation#0,"""Head for the final area!"""
+SimpleExplanation#0,"""Head to the final area!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""

@@ -3,7 +3,7 @@ Explanation#0,"""たいへん、たいへん！<br>地球のラスベガスで�
 NpcComMsg1#0,"""これより、転送を開始します。<br>今回の目的は、会場周辺に出現した<br>エネミーの撃退です！"""
 NpcComMsg2#0,"""多数の幻創種およびエスカダーカーが<br>進路を妨害してくるものと思われます。<br>協力して進んでください！"""
 NpcComMsg3#0,"""最深部では<br>強力な反応も検知されています。<br>くれぐれも、ご注意を！"""
-SimpleExplanation#0,"""Head for the final area!"""
+SimpleExplanation#0,"""Head to the final area!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""
