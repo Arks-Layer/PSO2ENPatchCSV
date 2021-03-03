@@ -1303,7 +1303,7 @@ Config_138_Hint#0,"""Limit the frame rate and lighten processing load<br>when PS
 Config_139_Name#0,"""Tessellation"""
 Config_139_Hint#0,"""Improve the terrain quality by realistically drawing certain effects.<br><br>Disabling will improve performance slightly."""
 Config_140_Name#0,"""V-Sync"""
-Config_140_Hint#0,"""Supresses screen tearing.<br><br>If the frame rate is set lower<br>than your display's refresh rate,<br>this will automatically be disabled."""
+Config_140_Hint#0,"""Suppresses screen tearing.<br><br>If the frame rate is set lower<br>than your display's refresh rate,<br>this will automatically be disabled."""
 Config_141_Name#0,"""Texture Filtering"""
 Config_141_Hint#0,"""Improves the smoothness of textures.<br><br>Game performance can change depending on this setting.<br>Bilinear will improve performance slightly.<br><br><yellow>※Changes will take effect at next login.<c>"""
 Config_141_Choices_0#0,"""Bilinear"""
