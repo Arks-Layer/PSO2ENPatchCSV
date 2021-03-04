@@ -1286,7 +1286,7 @@ Config_130_Hint#0,"""You can select whether or not to automatically send items t
 Config_132_Name#0,"""Screen Space Reflection"""
 Config_132_Hint#0,"""Improves the quality of<br>reflections on some terrain.<br><br>Disabling will improve performance slightly."""
 Config_133_Name#0,"""Effect Distortion Expression"""
-Config_133_Hint#0,"""Sets the quality of<br>distortions on effects.<br><br>Disabling will improve performance slightly."""
+Config_133_Hint#0,"""Sets the quality of distortions on effects.<br><br>Disabling will improve performance slightly."""
 Config_134_Name#0,"""3D Rendering Resolution"""
 Config_134_Hint#0,"""Sets the resolution of 3D effects.<br><br>Lowering this setting will improve performance slightly."""
 Config_134_Choices_0#0,"""Low"""
