@@ -1,39 +1,38 @@
 <p align="center">
-  <img src="http://i.imgur.com/OD8QlFQ.png" alt="PSO2 Logo"/>
+  <img src="https://imgur.com/a/8uOoCPV" alt="Logo PSO2"/>
 </p>
 
 # PSO2 English Patch 
-Welcome to the PSO2 English Patch CSV Repository.
+Bem vindo ao Repositório CSV do Patch Português de PSO2.
 
-Current status of tests and checks: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN)
+Estado atual após a última checagem: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/PT.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/PT)
 
-This repository is dedicated to translating PSO2 game texts from Japanese to English. Our goal is to complete the English translations first, so that it can be used to translate the game to other non-English languages.
+Este repositório é dedicado para a tradução de textos do PSO2 do Inglês para o Português Brasileiro. A meta principal é completar a tradução para o português. Para outras traduções, visite o [Repositório em Inglês] para traduzir o jogo para outros idiomas.
 
-We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native languages in the future.
+Esperamos que a disseminação de textos de jogo e a abertura deste repositório sejam uma maneira mais rápida para que ARKS que não falam japonês ou inglês desfrutem do jogo em suas línguas nativas no futuro.
 
-<i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit translations to RAW JP files.</i>
+## Contribuições
+### Como Começar
+Para ajudar no projeto e receber as devidas instruções, entre no [Discord do PROJETO ORACLE]. No servidor, receberá todo o suporte necessário para contribuir com o projeto de tradução. Além disso, tenha um editor de textos instalado (por exemplo, Notepad++) e certifique-se que os textos estejam formatado em UTF-8.
 
-ありがとう～ (*＾▽＾)／
+### Para Fazer
+Qualquer arquivo CSV localizado em [Arquivos] ainda será traduzido, enquanto arquivos CSV em outras pastas estão pelo menos parcialmente traduzidos.
 
-## Contributions
-### Getting Started/Helping Out
-A full guide on how to get started is [available here].
+### Não sabe Japonês, mas ainda gostaria de contribuir?
+Se você não sabe Japonês, mas ainda quer ajudar, você pode checar arquivos já traduzidos do ramo em inglês e garantir que a gramática e ortografia está correta. (Português Brasileiro, por gentileza!)
 
-### To-Do
-Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
+### Notas
+* Se você quer traduzir um arquivo que esteja no diretório "/Files/" você **DEVE** [mover o arquivo para outro diretório](https://github.com/blog/1436-moving-and-renaming-files-on-github) antes de traduzir. O diretório /Files/ **DEVE CONTER APENAS** arquivos não traduzidos.
+* Para ter acesso aos canais de tradução, entre em contato por mensagem privada com .tv/BadHowst#0001 no **[Discord do PROJETO ORACLE]**. Após entrar em contato, você receberá o cargo @Equipe de Tradução PT/BR e terá acesso a todos os canais específicos do projeto. 
+* Os arquivos a serem traduzidos serão enviados no canal #projeto-tradução. Após a tradução, devem ser enviados no canal #entrega-tarefas-tradução. Você só receberá novos arquivos após traduzir todos os recebidos previamente.
+* Não altere o nome do arquivo, apenas o seu conteúdo. Os arquivos, após entregue, serão revisados.
 
-### Don't know Japanese but still want to contribute?
-If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct. (US English, please!)
+* Mantenha as aspas triplas e edite apenas o texto dentro delas.
+* Discussões sobre o projeto, como nomenclaturas ou dúvidas, devem ser feitas no canal #tradução-discussão.
 
-### Notice
-* If you want to translate a file that's in the "/Files/" directory then you **MUST** [move the file into another directory](https://github.com/blog/1436-moving-and-renaming-files-on-github) before you translate it. The /Files/ directory **MUST** only contain untranslated files.
-* You can find stuff to translate by using the Meka bot in the #translations-reporting room on the **[PSO2 Discord Server]**. Usage will be in the pinned messages.
+### Notas Adicionais
+* Infelizmente o PSO2 não aceita acentos nem "ç", portanto palavras com acentos devem ignorá-los e palavras com "ç" devem ser substituídas por sinônimos.
 
-* Maintain the triple quotes and only edit the text inside the quotes.
-* Be sure to take a look at the **[Wiki]** page for guides and reminders before sending us your translations.
-* You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
-
-[Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN/Files
-[PSO2 Discord Server]: https://discord.gg/PSO2
-[Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
-[available here]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki/How-to-contribute
+[Repositório em Inglês]: https://github.com/Arks-Layer/PSO2ENPatchCSV
+[Arquivos]: https://github.com/BadHowst/PSO2ENPatchCSV
+[Discord do PROJETO ORACLE]: https://discord.gg/vtjsdyh
