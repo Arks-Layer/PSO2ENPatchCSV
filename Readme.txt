@@ -2,7 +2,7 @@
   <img src="https://imgur.com/a/8uOoCPV" alt="Logo PSO2"/>
 </p>
 
-# PSO2 English Patch 
+# Patch de Tradução PT/BR PSO2 
 Bem vindo ao Repositório CSV do Patch Português de PSO2.
 
 Estado atual após a última checagem: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/PT.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/PT)
