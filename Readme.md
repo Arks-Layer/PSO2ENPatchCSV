@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/8uOoCPV" alt="Logo PSO2"/>
+  <img src="https://i.imgur.com/jL1g2Le.png" alt="Logo PSO2"/>
 </p>
 
 # Patch de Tradução PT/BR PSO2 
