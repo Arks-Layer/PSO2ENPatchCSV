@@ -373,7 +373,7 @@ MultiCheckMessage_v#0,"""Hay objetos que <yellow>aumentarán<c> la capacidad de 
 HistoryItem#0,"""Nombre del objeto"""
 HistoryMoney#0,"""Costo"""
 TimesaleTitle#1,"""Venta de tiempo limitado!"""
-TimesaleBuyCheck#0,"""Compraras los siguientes objetos<s>$(3)</s> <red>$(2)<c>$(0) por <br>¿Seguro que quieres?<br><br>(actual AC: $ ​​(1)）"""
+TimesaleBuyCheck#0,"""Compraras los siguientes objetos<s>$(3)</s> <red>$(2)<c>$(0) por <br>¿Seguro que quieres?<br><br>(actual AC: $(1)）"""
 TimesalePrice#0,"""<red>$(0)<c>"""
 TimesaleErrorTitle#0,"""La alineación ha cambiado"""
 TimesaleErrorMessage#0,"""<red>El precio del artículo ha cambiado.<c><br><br>Actualizar la pantalla."""
