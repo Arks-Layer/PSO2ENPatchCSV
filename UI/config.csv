@@ -1261,7 +1261,7 @@ Config_117_Hint_PS4#0,"""オブジェクトの周囲にかかる光量を調整�
 Config_117_Hint_Switch#0,"""Adjust amount of light applied to objects' edges."""
 Config_117_Hint_PCCloud#0,"""Adjust amount of light applied to objects' edges."""
 Config_118_Name#0,"""Dynamic Resolution Adjustment"""
-Config_118_Hint#0,"""高負荷になったときに解像度を縮小して<br>高フレームレートを保つ機能です。<br><br>ＯＦＦにすると処理負荷の高い場面で<br>低フレームレートになることが予想されます。"""
+Config_118_Hint#0,"""This will reduce the resolution in order to<br>maintain a high frame rate if the frame rate drops<br>due to a high processing load.<br><br>When turned off, the frame rate may be low in<br>situations where the processing load is high."""
 Config_118_Hint_PS4#0,"""高負荷になったときに解像度を縮小して<br>高フレームレートを保つ機能です。<br><br>ＯＦＦにすると戦闘中などで<br>低フレームレートになることが予想されます。"""
 Config_119_Hint#0,"""Set how many player characters to <br>display in full detail, such as showing equipment.<br>Lowering the count will improve performance."""
 Config_120_Hint#0,"""Set how many Photon Blasts to display.<br>Displaying fewer will ease processing."""
