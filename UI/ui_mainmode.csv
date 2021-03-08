@@ -2928,7 +2928,7 @@ VillainChaseMarkBoost#1,"""Provides a Marker Accumulation Bonus when attacking e
 PrimalTimePlus#1,"""May inflict Jellen when an attack hits during Phantom Time while using Phantom Weapons. <yellow>Main Class only"""
 AnotherTimePlus#1,"""アナザータイムプラス"""
 BrankingTimePlus#1,"""ブランキングタイムプラス"""
-VillainTecShortCharge#1,"""Reduces Technic charging time and PP consumption, but also lowers the power."""
+VillainTecShortCharge#1,"""Reduces Technique charging time and PP consumption, but also lowers the power."""
 VillainMag#1,"""Redistributes your Mag's attack levels based on your Mag's DEX levels."""
 VillainPhotonStream1#1,"""Increases damage based on your maximum PP."""
 VillainStepDash#1,"""Enter into a Dash by pressing the dodge button during Step."""
