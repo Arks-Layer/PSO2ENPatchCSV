@@ -1109,6 +1109,12 @@ def setupfont():
 	cmap.add(0xbe)      	# ¾
 	cmap.add(0xbf)      	# ¿
 	cmap.add(0xd7)      	# ×
+	cmap.add(0xc9)          # É
+	cmap.add(0xe1)          # á
+	cmap.add(0xe3)          # ã
+	cmap.add(0xe7)          # ç
+	cmap.add(0xe9)          # é
+	cmap.add(0xf5)          # õ
 	cmap.add(0xf7)      	# ÷
 	# Letterlike Symbols
 	cmap.add(0x2122)    	# ™
@@ -1120,6 +1126,11 @@ def setupfont():
 	cmap.remove(0xA0)   	# Space
 	cmap.remove(0xA9)   	# full opacity cube on PSO2
 	cmap.remove(0x3c2)  	# As Space
+	# Hangul Syllables  | https://unicode.org/charts/PDF/UAC00.pdf
+	cmap.update(range(0xAC00,0xD7A3))
+	# Hangul Jamo  | https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block)
+	cmap.update(range(0x3130,0x318F))
+	cmap.remove(0xBDC1)
 	return cmap
 
 
