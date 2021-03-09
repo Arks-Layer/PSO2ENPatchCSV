@@ -9414,7 +9414,7 @@ StarMenuGuide#0,"""<c f0df60>Puedes comprar artículos usando Star. Seleccione l
 StarDenomination#0,"""Star"""
 StarCashTitle#0,"""Stars Actuales"""
 StarTotalCashTitle#0,"""Stars Total"""
-StarInsufficient#0,"""Insuficuentes Stars"""
+StarInsufficient#0,"""Stars Insuficientes"""
 NoChangeItemMsg#0,"""No hay artículos disponibles para comprar."""
 NoEventMsg#0,"""No se pudo continuar con la compra. El período de la tienda de premios ha pasado."""
 EtcErrorMsg#0,"""Se ha producido un error. Intente comprar de nuevo."""
