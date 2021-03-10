@@ -15,7 +15,7 @@ RescueMethod#0,"""The fires have been extinguished. Ensure the safety of the vic
 NpcComOnBegin#1,"""There's people in need of assistance all across the city areas. Please perform an emergency rescue."""
 NpcComOnSuccess#1,"""The transfer of all the people has been confirmed. Well done."""
 NpcComOnFailure#1,"""There's still some people left. The risk is very high, but I will have to force their transfer."""
-NotifyPos#1,"""I've checked the position of people who need help and marked them in your minimap. Hurry."""
+NotifyPos#1,"""I've checked the position of people who need help and marked them on your minimap. Hurry."""
 NotifyMethod#1,"""The exact coordinates of the people are extremely important to ensure a safe transfer. Check on them personally after you're done with the fire."""
 FirstTrans#1,"""The coordinates have been sent, the transfer is complete. Keep going."""
 RescueeFound#1,"""Victim found. Put out the fire to eliminate the transfer risk. Once it's done, continue."""
