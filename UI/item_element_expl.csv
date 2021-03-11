@@ -109,7 +109,7 @@
 108#0,"""All +15 HP +15<br>PP +4"""
 109#0,"""All +30 HP +30<br>PP +5"""
 110#0,"""DEX +5 R-DEF +10<br>HP +5 PP +1"""
-111#0,"""S-ATK +5 DEX +5<br>HP +10"""
+111#0,"""S-DEF +10 DEX +5<br>HP +10"""
 112#0,"""Boosts Soul-type<br>ability transfer rates.<br>All +10"""
 113#0,"""ATK +40 HP +50"""
 114#0,"""ATK+40 PP +5"""
