@@ -211,7 +211,7 @@ D_Event010_MES#0,"""I've sent my challenge to the Quest Counter! Go! Give it a t
 D_Event011_MES#0,"""Hey, ARKS! Thanks for accepting my challenge! I hope we can do this again!"""
 D_Event012_MES#0,"""Urgent broadcast. An announcement will be made shortly for the participation of all ARKS in a special operation. Please stay tuned."""
 D_Event013_MES#0,"""Urgent mission. A request for the participation of all ARKS in a special operation has been made. Report to the Quest Counter to accept the mission."""
-D_Event014_MES#0,"""Yo ARKS! I'm Polytan! I've borrowed your VR Area and have made a quest! Please join us as soon as there is room!"""
+D_Event014_MES#0,"""Yo ARKS! I'm Polytan! I've borrowed your VR Space and have made a quest! Please join us as soon as there is room!"""
 D_Event015_MES#0,"""There's an opening in Polytanland! You can join us from the Quest Counter!"""
 D_Event016_MES#0,"""Thanks for coming to Polytanland today! Come visit us again!"""
 D_Event017_MES#0,"""All ARKS are instructed to prepare for a special training program in VR Space."""
