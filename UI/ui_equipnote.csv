@@ -74,7 +74,7 @@ EquipNote_ClearCoolTimeSuccessMessage#0,"""<pict $(0)>$(1) Sheet<br>was reset an
 EquipNote_ClearCoolTimeItem#0,"""Sheet Cooldown Reset"""
 EquipNote_TitleSheetInfo#0,"""Sheet Info"""
 EquipNote_TitleTimeInfo#0,"""Distribution Period"""
-EquipNote_CoolTime#0,"""Cool Time"""
+EquipNote_CoolTime#0,"""Cooldown Time"""
 EquipNote_CoolTime_Free#0,"""-"""
 EquipNote_CoolTime_Wait#0,"""This Sheet<br>cannot be acquired until<br><red>$(0)<c>.<br>(Can be reset by using Star Gems.)"""
 EquipNote_CoolTime_None#0,"""No Sheet."""
