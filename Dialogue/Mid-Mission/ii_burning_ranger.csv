@@ -29,7 +29,7 @@ NpcComOnFailure#2,"""/face4 You did your best...<br>It could be dangerous, but I
 NotifyPos#2,"""I've found more people that couldn't<br>escape! Look at your minimap, please!"""
 NotifyMethod#2,"""To ensure the transfer of the<br>victims, we need their exact<br>coordinates. Please check on them<br>yourself after the fire is gone!"""
 FirstTrans#2,"""/face2 The coordinates are confirmed.<br>The transfer is complete!<br>Please continue with your mission!"""
-RescueeFound#2,"""It's too risky to transfer them<br>whilethey're surrounded by<br>flames! Extinguish the fires first!"""
+RescueeFound#2,"""It's too risky to transfer them<br>while they're surrounded by<br>flames! Extinguish the fires first!"""
 GeneratorAdd#2,"""W-What?! More victims are<br>appearing everywhere! Please,<br>give them the help they need!"""
 TimeLimitNear#2,"""Hurry! Please hurry!"""
 TimeLimitHurry#2,"""/face4 Almost out of time!<br>Faster! Faster!"""
