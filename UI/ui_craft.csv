@@ -423,7 +423,7 @@ CraftAnalyzeDisable#0,"""Item Desynthesis failed. Would exceed<br>item stack lim
 CraftAnalyzeLock#0,"""Since this item is locked, it cannot be used."""
 CraftAnalyzeEquip#0,"""Since this item is equipped, it cannot be used."""
 CraftAnalyzeComError#0,"""Because of a communication error, the item cannot be desynthesized."""
-CraftAnalyzeNoItem#0,"""Item cannot be selected."""
+CraftAnalyzeNoItem#0,"""No items selected."""
 CraftAnalyzeItemInfo#0,"""\u3000× $(0)"""
 CraftAnalyzeTogetherSelectItem#0,"""Selected Items"""
 CraftAnalyzeTogetherSlash#0,"""/"""
