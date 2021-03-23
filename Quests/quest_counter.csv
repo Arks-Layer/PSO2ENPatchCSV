@@ -805,7 +805,7 @@ Quest_Explain_Basnet#0,"""버스터 퀘스트 선택 화면을 엽니다.<br><br
 Quest_Explain_Omnibus_FreeField#0,"""프리 필드 선택 화면을 엽니다.<br><br>프리 필드를 클리어하면<br>캠프 쉽으로 귀환합니다."""
 Sub_Window_change#0,"""<pict Sign_TRIANGLE> 전환"""
 Quest_Title_Confirm#0,"""퀘스트 수주 확인"""
-Quest_Title_Msg#0,"""메세지"""
+Quest_Title_Msg#0,"""메시지"""
 Quest_Msg_Confirm#0,"""버스터 퀘스트 【스토리】를 수주합니다.<br>그레이드:$(0) (자동 능력 조정:Lv.$(1))<br><br>※혼자서도 진행 가능하지만<br>\u3000다른 플레이어와 합류할 수도 있습니다.<br>※계정당 한 번만 클리어할 수 있습니다."""
 Quest_NoMsg_Party#0,"""・이벤트 퀘스트<br>・스토리 퀘스트<br>・버스터 퀘스트【스토리】<br>\u3000는 파티를 한 상태로는<br>\u3000수주할 수 없습니다."""
 Quest_NoMsg_Account#0,"""버스터 퀘스트 【스토리】는 한 계정당<br>한 번만 클리어할 수 있는 퀘스트입니다.<br><yellow>※이 계정으로는 이미 클리어했으므로<br>다시 수주할 수 없습니다.<c>"""
