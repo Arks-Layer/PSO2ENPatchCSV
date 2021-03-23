@@ -263,7 +263,7 @@ IncidentJsApcBegin#3,"""/toge /ci3 1 ……まったく、見てられない！<
 IncidentJsApcFailure#3,"""むぅ……あたしもまだ未熟、か。<br>ごめんなさい、先に退くわ。"""
 IncidentJsApcSuccess#3,"""/ci2 2 一丁上がり、っと。<br>……あたし、もう行くから<br>あんまり無理しないようにね。"""
 IncidentJsApcBeginEvo#3,"""/ci1 1 ん……？\u3000やれやれ<br>どうやらまだ終わりって<br>わけにはいかなそうね。"""
-EnemyWeak#4,"""낙승 낙승!"""
+EnemyWeak#4,"""쉽네 쉬워!"""
 EnemyLarge#4,"""꽤 큰 녀석이네"""
 EnemyBoss#4,"""만만치 않은 녀석 같네"""
 EnemyRare#4,"""저건 드문 녀석이네"""
