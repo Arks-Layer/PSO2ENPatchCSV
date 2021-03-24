@@ -49,7 +49,7 @@ GroupChatTost_MemberInvite#0,"""선택한 프렌드에게 초대를 보냈습니
 GroupChatTost_MemberJoin#0,"""「$(0)」 그룹을 등록했습니다."""
 GroupChatTost_MemberBanish#0,"""$(0) 유저를 제명했습니다"""
 GroupChatTost_GroupActive#0,"""「$(0)」 그룹을 표시합니다."""
-GroupChatTost_GroupInactive#0,"""표시된 그룹이 없습니다."""
+GroupChatTost_GroupInactive#0,"""표시할 그룹이 없습니다."""
 GroupChatTost_NameChange#0,"""그룹 설정을 변경했습니다."""
 GroupChatTost_MoveTop#0,"""맨 위로 이동"""
 GroupChatTost_LeaderSuccess#0,"""$(0)에게 리더를 넘겼습니다."""
