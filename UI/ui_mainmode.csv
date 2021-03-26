@@ -546,7 +546,7 @@ BlackList_Error_Default#0,"""문제가 발생하여,<br>처리를 실행하지 �
 BlackList_Result_Add#0,"""$(0)님을 블랙리스트에 등록했습니다."""
 BlackList_Result_Remove#0,"""$(0)님을 블랙리스트에서 해제하였습니다."""
 BlackList_Add_Title#0,"""블랙리스트 등록"""
-BlackList_Add_Exp#0,"""블랙리스트에 등록하면,<br>파티 초대 외 각종 초대, 메일, 채팅 등<br>상대방으로부터의 각종 커뮤니케이션이 차단됩니다.<br><br>※「블랙리스트 등록 해제」로 언제든지 해제 가능합니다.<br><br>정말 블랙리스트에 등록하시겠습니까?"""
+BlackList_Add_Exp#0,"""블랙리스트에 등록하면<br>파티 초대 외 여러 초대, 메일, 채팅 등<br>상대방의 각종 커뮤니케이션이 차단됩니다.<br><br>※「블랙리스트 등록 해제」로 언제든지 해제 가능합니다.<br><br>정말 블랙리스트에 등록하시겠습니까?"""
 BlackList_Result_Unknown#0,"""문제가 발생하여,<br>처리를 실행하지 못했습니다.<br><br>[No.1025]"""
 BlackList_Error_TooMany#0,"""블랙리스트 등록 가능 건수를 초과하였습니다."""
 FriendList_Error_MailErr#0,"""문제가 발생하여,<br>처리를 실행하지 못했습니다.<br><br>[No.1026]"""
