@@ -3276,7 +3276,7 @@ OtherFashion_ServerError01#0,"""서버에 문제가 발생하여<br>처리를 �
 OtherFashion_ServerError02#0,"""데이터베이스에 문제가 발생하여<br>처리를 진행하지 못했습니다.<br><br>잠시 후 다시 시도해 주십시오."""
 OtherFashion_ServerError03#0,"""서버에 예기치 못한 문제가 발생하여<br>처리를 진행하지 못했습니다.<br><br>잠시 후 다시 시도해 주십시오."""
 OtherFashion_ServerError04#0,"""서버에 예기치 못한 문제가 발생하여<br>처리를 진행하지 못했습니다.<br><br>잠시 후 다시 시도해 주십시오."""
-MyFashion_NotApplicable#0,"""このマイファッションは現在の体型タイプ・顔タイプが異なるため適用できません。"""
+MyFashion_NotApplicable#0,"""해당 마이 패션은 현재 체형타입, 얼굴타입이 달라 적용할 수 없습니다."""
 Title#1,"""검색"""
 Message#2,"""검색할 문자열 입력"""
 SearchPrev#0,"""이전으로 검색"""
