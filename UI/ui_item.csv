@@ -1406,7 +1406,7 @@ Explanation20#0,"""<c f0df60>전환하고싶은 잠재 능력을 선택해주십
 Explanation21#0,"""<c f0df60>잠재 능력 전환 최종 확인 화면입니다. 전환에 필요한 메세타와 아이템을 확인해주십시오.<c>"""
 RegisterOwnerShipConfirmMessage#0,"""※레어리티 $(0)이상은 <yellow>오너 등록<c>되며<br>다른 플레이어와 거래가 불가능하게됩니다."""
 RegisterOwnerShipResultMessage#0,"""<yellow>오너 등록이 완료<c>되었습니다."""
-CategoryNewWeapon#0,"""무기 / 방어구를 강화한다"""
+CategoryNewWeapon#0,"""무기/방어구를 강화한다"""
 CategoryOldWeapon#0,"""구식 전용"""
 CategoryOther#0,"""그 외"""
 Explanation22#0,"""<c f0df60>외형을 변경하고싶은 무기를 선택해주십시오. 최대치까지 강화된 무기가 대상입니다.<c>"""
