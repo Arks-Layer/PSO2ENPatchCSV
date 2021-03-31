@@ -3276,6 +3276,7 @@ OtherFashion_ServerError01#0,"""サーバーに問題が発生したため、<br
 OtherFashion_ServerError02#0,"""データベースに問題が発生したため、<br>処理を実行できませんでした。<br><br>しばらく時間をおいてから、<br>再度お試しください。"""
 OtherFashion_ServerError03#0,"""サーバーに予期せぬ問題が発生したため、<br>処理を実行できませんでした。<br><br>しばらく時間をおいてから、<br>再度お試しください。"""
 OtherFashion_ServerError04#0,"""サーバーに予期せぬ問題が発生したため、<br>処理を実行できませんでした。<br><br>しばらく時間をおいてから、<br>再度お試しください。"""
+MyFashion_NotApplicable#0,"""このマイファッションは現在の体型タイプ・顔タイプが異なるため適用できません。"""
 Title#1,"""検索"""
 Message#2,"""検索する文字列を入力"""
 SearchPrev#0,"""前を検索"""
