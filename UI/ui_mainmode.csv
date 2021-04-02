@@ -2883,7 +2883,7 @@ WpnmanWill#1,"""Grants a one-time survival of a fatal blow if activated. Applies
 WpnmanJustReversal#1,"""Jump when knocked down or blown away to quickly recover."""
 WpnmanNextJump#1,"""When you have a Sword, Talis or Twin Machinegun equipped, you can jump mid-air!"""
 WpnmanOneMoreJump#1,"""If you land on an enemy's head during Next Jump, you can jump again."""
-WpnmanComeAgain#1,"""Allows you to travel to the marking shot twice."""
+WpnmanComeAgain#1,"""Allows you to warp to the marking shot twice."""
 WpnmanChargeKeep#1,"""With a Talis equipped, temporarily keep a charged Weapon Action or Tech while dodging."""
 WpnmanTMGAttackPPSave#1,"""Reduces the PP consumption of Twin Machineguns Normal Attacks."""
 WpnmanGearTimeGain#1,"""When a quest has started, slowly increases Hero's gauge gear rate."""
