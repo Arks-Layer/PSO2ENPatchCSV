@@ -6088,7 +6088,7 @@ RewardMessage#0,"""Because the Star Gem gauge has<br>reached its max, you can ge
 RewardGetFailed#0,"""Could not obtain Star Gems."""
 EventChronicle_Title#0,"""移動確認"""
 EventChronicle_Message#0,"""マイルームに移動して<br>イベントクロニクルを閲覧します。<br><br>よろしいですか？"""
-ToastTriggerQuestReorderFinish#0,"""The grace period for this trigger quest has ended."""
+ToastTriggerQuestReorderFinish#0,"""The grace period for this Trigger Quest has ended."""
 ToastTriggerQuestReorderNum#0,"""This quest can be re-made $(0) times."""
 ToastTriggerQuestReorderNumZero#0,"""You cannot remake this quest again."""
 ToastTriggerQuestCreateUserOnly#0,"""Only the trigger owner can use this."""
