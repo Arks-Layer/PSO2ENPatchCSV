@@ -1724,7 +1724,7 @@ EditTreeComment_Text#0,"""선택하고 있는 트리의 코멘트를 변경해�
 sp#0,"""SP"""
 Tutorial#0,"""튜토리얼"""
 Lock#0,"""전제스킬의 필요레벨을 보여주고 있습니다"""
-ClassLevelLock#0,"""습득에 필요한 클레스 레벨입니다"""
+ClassLevelLock#0,"""습득에 필요한 클래스 레벨입니다"""
 Precondition#0,"""전제조건"""
 TreeCheck#0,"""스킬트리 확인"""
 TreeReset#0,"""스킬트리 교체"""
