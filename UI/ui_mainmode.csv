@@ -3057,7 +3057,7 @@ SlayerDownLift#1,"""Gunslash: Jump after using any attack action without inputti
 SlayerDodgeCounter#1,"""Gunslash: Step Attacks become stronger after a successful dodge using Step. <yellow>Main Class only."""
 SlayerStepGuard#1,"""Gunslash: Step forwards or backwards through a locked-on target's attack to perform a special counterattack. <yellow>Main Class only."""
 SlayerStepSlide#1,"""Gunslash: During a Step, use Step again to consume PP and move a set distance while shooting. <yellow>Main Class only."""
-SlayerBlink#1,"""Gunslash: Use a normal attack at the correct timing to approach the target at high speed. <yellow>Main Class only."""
+SlayerBlink#1,"""Gunslash: Use a normal attack at the correct timing to warp to the target at high speed. <yellow>Main Class only."""
 SlayerBackStep#1,"""Gunslash: Using Step Slide towards or away from a locked-on target performs a special attack. <yellow>Main Class only."""
 SlayerStylePurge#1,"""Gunslash: Use Weapon Action twice to discard your current Style with a powerful explosion attack. <yellow>Main Class only."""
 SlayerStepAdvance#1,"""Extends invincibility during Step and Dive Roll."""
