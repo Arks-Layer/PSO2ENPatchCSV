@@ -18,7 +18,7 @@ NpcComOnBegin#2,"""판다지 비트 출현입니다!<br>다른 에너미가 영�
 NpcComOnSuccess#2,"""됐다! 됐다! 해냈어요!<br>판다지 비트의 파괴 확인!<br>여러분 수고하셨습니다!"""
 NpcComOnFailure#2,"""판다지 비트 반응 없음.<br>아무래도 도망친 것 같아요.<br>통상 임무로 돌아가주세요."""
 NpcComOnRemainTimeNotice#2,"""서둘러 주세요!<br>시간이 끝나버릴 거에요!"""
-NpcComOnLastOne#2,"""판다지 비트의 반응은<br>앞으로 하나에요!<br>힘내주세요-!"""
+NpcComOnLastOne#2,"""판다지 비트의 반응은<br>앞으로 하나에요!<br>힘내주세요!"""
 NpcComOnPreBegin#3,"""……이상 반응을 계측.<br>경계를 늦추지 말아주세요."""
 NpcComOnBegin#3,"""판다지 비트의 출현을 확인.<br>주변 에너미에게 영향 있음.<br>조속한 대처를 요구합니다."""
 NpcComOnSuccess#3,"""판다지 비트 파괴 확인.<br>돌발 현상에 대한 대응 훌륭했습니다."""
