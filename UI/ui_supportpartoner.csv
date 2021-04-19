@@ -84,7 +84,7 @@ PartnerChangeEquipError7#0,"""Due to class change restrictions<br>equipment can'
 PartnerChangeEquipError8#0,"""Support Partner's<br>Class change failed."""
 PartnerChangeEquipError9#0,"""Support Partner's<br>equipment change failed."""
 PartnerChangeEquipError10#0,"""Support Partner's<br>equipment change process<br>failed."""
-PartnerChangeEquipError11#0,"""Unidentified items can not be given."""
+PartnerChangeEquipError11#0,"""Unidentified items cannot be given."""
 PartnerChangeEquipError12#0,"""Inventory is full. Cannot retrieve equipped item."""
 PartnerChangeSubclassSuccess#0,"""Subclass changed."""
 PartnerChangeSubclassError#0,"""Failed to change subclass for<br>Support Partner."""
