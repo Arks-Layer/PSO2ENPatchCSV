@@ -3067,7 +3067,7 @@ LoadInvalidPartsExist#0,"""크리에이트 데이터를 불러왔지만<br>이�
 SaveFailed_ps4#0,"""저장에 실패했습니다."""
 SaveConfirmMessage2#0,"""이미 같은 이름의 파일이 존재합니다.<br><br>작성하신 크리에이트 데이터를<br>덮어쓰기 해서 저장합니다.<br>덮어쓰게 되면 원래 파일이 삭제됩니다<br>괜찮으십니까?"""
 SaveConfirmMessage2_ps4#0,"""이미 데이터가 존재하는 슬롯입니다.<br><br>작성하신 크리에이트 데이터를<br>슬롯에 덮어쓰기 해서 저장합니다.<br>덮어쓰게 되면 원래 데이터는 삭제됩니다<br>괜찮으십니까?"""
-TwoToneColorNotice#0,"""헤어 컬러 설정의 컬러2 설정이 변경되었습니다.<br><br>변경 내용에<c ff4f3f>SG소모 컨텐츠<c>가 포함되어있습니다.<br>변경을 취소하시려면<br>「편집 내용 확인」에서 변경을 취소해주십시오."""
+TwoToneColorNotice#0,"""헤어 컬러 설정의 컬러2 설정이 변경되었습니다.<br><br>변경 내용에 <c ff4f3f>SG소모 컨텐츠<c>가 포함되어있습니다.<br>변경을 취소하시려면<br>「편집 내용 확인」에서 변경을 취소해주십시오."""
 TwoToneColorNotice2#0,"""헤어 컬러 설정의 컬러2가 변경되었습니다."""
 IllegalHeightTitle#0,"""신장 오류"""
 IllegalHeightBody#0,"""캐릭터 신장이 탈의 상태로<br>하한을 넘어 변경을 확정할 수 없습니다.<br>탈의 상태 신장을 $(0)cm이상으로 설정해주십시오.<br><yellow>※<c><%WeaponAction><yellow>을 누르는 것으로 탈의 상태 신장을 확인할 수 있습니다.<c>"""
