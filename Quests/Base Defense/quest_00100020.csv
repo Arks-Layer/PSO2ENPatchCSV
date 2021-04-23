@@ -1,5 +1,5 @@
 Title#0,"""Base Defense: Incursion"""
-Explanation#0,"""This is an emergency message for all ARKS.<br>Mass Darker readings have been detected<br>at the mining base on planet Lillipa.<br>The newly installed fortifications can keep<br>them away from our bases, but they can<br>only take so much punishment.<br>All ARKS, sortie to repel the Darker assault.<br><br>――――――――――――――――――――<br>Clear 6 waves<br>Fail: All bases lost"""
+Explanation#0,"""This is an emergency message for all ARKS.<br>Mass Darker readings have been detected<br>at the mining base on planet Lillipa.<br>The newly installed fortifications can keep<br>them away from our bases, but they can<br>only take so much punishment.<br>All ARKS, sortie to repel the Darker assault.<br>――――――――――――――――――――<br>Clear 6 waves<br>Fail: All bases lost"""
 SimpleExplanation#0,"""Defend the Mining Base!"""
 Wave1_Talk#0,"""Darkers have appeared! It's still<br>unclear which base they will attack.<br>Work together to defend the base!"""
 Wave2_Talk#0,"""Here comes the next Darker<br>attack! Everyone, work<br>together to defend the base!"""
