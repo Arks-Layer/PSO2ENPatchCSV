@@ -1,5 +1,5 @@
 Title#0,"""The Profound Invasion"""
-Explanation#0,"""アークス各員に緊急連絡。<br>ダークファルス【巨躯】による<br>アークスシップへの襲撃が開始された。<br>また、侵食された旧マザーシップ内からも<br>強大なダーカー反応が確認されている。<br>事態は深刻だ。各員、準備が出来次第<br>【巨躯】の襲撃を速やかに阻止し<br>旧マザーシップに現れた敵を迎撃せよ。<br>――――――――――――――――――――<br>Fail: Fail objective, time limit expires."""
+Explanation#0,"""This is an emergency message for all ARKS.<br>Dark Falz [Elder] has begun an attack on<br>the ARKS fleet.<br>We are also detecting readings from within<br>the corrupted Mothership.<br>This is a grave situation. All members, repel<br>[Elder] then move to intercept the enemies<br>within the corrupted Mothership.<br>――――――――――――――――――――<br>Fail: Fail objective, time limit expires."""
 SimpleExplanation#0,"""Defeat both Dark Falz manifestations!"""
 Area0S#0,"""ARKS Ship Wreckage """
 Area0L#0,"""ARKS Ship Wreckage - Deck Area 1 """
