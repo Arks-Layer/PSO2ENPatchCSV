@@ -21,7 +21,7 @@ NpcCom04#0,"""Operation complete. You took<br>a lot of damage, but at least<br>y
 NpcCom05#0,"""The operation is complete.<br>Next time, let's try to do<br>a little better on defense."""
 NpcCom06#0,"""I'm picking up a powerful enemy<br>reading. Be careful, everyone!"""
 NpcCom07#0,"""The $(0) Base is being<br>attacked! Please defend it!"""
-NpcCom08#0,"""The $(0) Base is on the verge of<br>destruction! Please head over there<br>and defend it before it's too late!""""""
+NpcCom08#0,"""The $(0) Base is on the verge of<br>destruction! Please head over there<br>and defend it before it's too late!"""
 NpcCom09#0,"""These readings...!<br>Watch out! The Darkers<br>have been strengthened!"""
 NpcCom10#0,"""Enemy readings are fading! Keep it up!"""
 NpcCom11#0,"""There's only a few enemies<br>left! Hang in there!"""
