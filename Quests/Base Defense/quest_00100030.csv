@@ -1,5 +1,5 @@
 Title#0,"""Base Defense: Despair"""
-Explanation#0,"""This is an emergency message for all ARKS.<br>Mass Darker readings have been detected<br>at the mining base on planet Lillipa.<br>Corruption of the base has already begun.<br>The situation is becoming desperate.<br>Use the newly-developed A.I.S. defense<br>system to intercept the Darkers.<br>――――――――――――――――――――<br>Clear 8 waves<br>Failure: All bases lost"""
+Explanation#0,"""This is an emergency message for all ARKS.<br>Mass Darker readings have been detected<br>at the mining base on planet Lillipa.<br>Corruption of the base has already begun.<br>The situation is becoming desperate.<br>Use the newly-developed A.I.S. defense<br>system to intercept the Darkers.<br>――――――――――――――――――――<br>Clear 8 waves<br>Failure: All Bases lost"""
 SimpleExplanation#0,"""Defend the Mining Base!"""
 Wave1_Talk#0,"""The Darkers have arrived! They're<br>corrupting the Defense Sockets too...<br>Please, work together to defeat them!"""
 Wave2_Talk#0,"""Presence of Darker Cannons is<br>confirmed! Activate your A.I.S.<br>and force the enemy to retreat!"""
