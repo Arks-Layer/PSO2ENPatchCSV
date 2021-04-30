@@ -410,7 +410,7 @@ Menu_WeaponDisplay#0,"""<c f0df60>You can display a hologram of a weapon you own
 Menu_WeaponDisplayInfo#0,"""<c f0df60>View the details of the displayed weapon.<c>"""
 Menu_WeaponAvatarDisplay#0,"""<c f0df60>You can display hologram of a weapon camo that you own. Please select a weapon camo to be displayed.<c>"""
 Menu_WeaponAvatarDisplayInfo#0,"""<c f0df60>View the details of the displayed weapon camo.<c>"""
-Menu_RoomGoodsAccess#0,"""<c f0df60>You can use the features of Your Room. Furthermore, the owner of the room can move or remove items.<c>"""
+Menu_RoomGoodsAccess#0,"""<c f0df60>You can use the features of Room Goods. Furthermore, the owner of the room can move or remove Room Goods.<c>"""
 Menu_RoomGoodsAccess_v#0,"""<c f0df61>ルームグッズの機能を利用できます。マイルームの持ち主は移動、撤去を行うことができます。<c>"""
 Menu_DecoGoods#0,"""<c f0df60>Selected room item can hold a decoration. Please select the decoration you wish to install.<c>"""
 Menu_DecoGoods_v#0,"""<c f0df60>選択した箇所に1×2のルームグッズを設置できます。ルームグッズを選択してください。<c>"""
