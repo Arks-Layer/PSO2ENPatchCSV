@@ -1,5 +1,5 @@
 Title#0,"""Area Survey: Remnants of Other Worlds"""
-Explanation#0,"""From the depths where Omega existed,<br>a spacial distortion has been detected. An<br>entity with similar patterns to that of the<br>[Profound Darkness] and Ephimera has<br>been detected from within. Please<br>investigate the matter immediately.<br>――――――――――――――――――――<br>Scape & Half Dolls are disabled<br>Damage Limit: 999999<br>Failure: If time elapses or if incapacitated"""
+Explanation#0,"""From the depths where Omega existed,<br>a spacial distortion has been detected. An<br>entity with similar patterns to that of the<br>[Profound Darkness] and Ephimera has<br>been detected from within. Please<br>investigate the matter immediately.<br>――――――――――――――――――――<br>Scape & Half Dolls are disabled<br>Max Damage Cap: 999999<br>Failure: If time elapses or if incapacitated"""
 SimpleExplanation#0,"""Defeat the entity from the distortion!"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
