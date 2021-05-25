@@ -1,6 +1,6 @@
 WINDOW_TITLE#0,"""What?"""
 CLOSE_MENU#0,"""Back"""
-START_CLIENT_ORDER#0,"""Client Orders"""
+START_CLIENT_ORDER#0,"""Client Orders """
 START_TALK#0,"""Talk"""
 MB_ACCEPT#0,"""Accept"""
 MB_REPORT#0,"""Report"""
