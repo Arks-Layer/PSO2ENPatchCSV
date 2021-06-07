@@ -103,7 +103,7 @@ Error3#0,"""Presently, this Team has<br>temporarily suspended the Team's functio
 ErrorOther#0,"""Could not resign from the Team."""
 Title#1,"""Team Commands"""
 Setting#0,"""Team Settings"""
-Order#0,"""Team Orders"""
+Order#0,"""Team Orders """
 Extend#0,"""Team Expansion"""
 RoomExtend#0,"""Team Room Expansion"""
 Suits#0,"""Receive Team Fashion Suits"""
