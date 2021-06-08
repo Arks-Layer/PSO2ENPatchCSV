@@ -1,0 +1,4 @@
+VoiceChatOn#0,"""Голосовой чат включён."""
+VoiceChatOff#0,"""Голосовой чат выключен."""
+MicrophoneMuteOn#0,"""Микрофон включён."""
+MicrophoneMuteOff#0,"""Микрофон выключен."""
