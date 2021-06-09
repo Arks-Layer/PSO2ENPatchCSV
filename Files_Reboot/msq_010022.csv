@@ -1,0 +1,8 @@
+Text_DashJump#0,"""ダッシュジャンプ："""
+Button_DashJump#0,"""ダッシュ中に<pict 4space><%Jump>"""
+Text_DoubleJump#0,"""二段ジャンプ："""
+Button_DoubleJump#0,"""<%Jump><pict 4space>の後に再度<pict 4space><%Jump>"""
+name010#0,"""アイナ"""
+text010#0,"""さて、この崖を登らないといけないんだけど……。"""
+text020#0,"""助走をつけてからジャンプすれば、<br>高く飛べるから。"""
+text030#0,"""やってみて。"""

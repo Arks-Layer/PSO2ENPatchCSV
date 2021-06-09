@@ -1,0 +1,5 @@
+Title#0,"""ウォールキック"""
+text0001#0,"""二段ジャンプ：<br>\u3000ジャンプ中に<pict 4space><%Jump><br>ウォールキック：<br>\u3000ジャンプ中、壁に接触し<br>\u3000<%LStick><pict 4space>の入力維持"""
+text0001_pad#0,"""二段ジャンプ：<br>\u3000ジャンプ中に<pict 4space><%Jump><br>ウォールキック：<br>\u3000ジャンプ中、<swguidetype T_Moveguide_l>を<br>\u3000押したまま壁面に接触"""
+text0001_manual#0,"""二段ジャンプ：<br>\u3000ジャンプ中に<pict 4space><%Jump><br>ウォールキック：<br>\u3000ジャンプ中、<pict 4space><swguidetype T_Moveguide_l>を<br>\u3000押したまま壁面に接触して<pict 4space><%Jump>"""
+text0001_key#0,"""二段ジャンプ：<br>\u3000ジャンプ中に<pict 4space><%Jump><br>ウォールキック：<br>\u3000ジャンプ中、<swguidetype T_Moveguide_l>を<br>\u3000押したまま壁面に接触"""
