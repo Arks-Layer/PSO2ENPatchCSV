@@ -1,0 +1,3 @@
+Title#0,"""Main Task"""
+text0001#0,"""“メインタスク”は、<br>メインストーリーを進めるための“タスク”です。<br><br>この<yellow>メインタスクを達成<c>すると、<br>新たな“タスク”が発生し、<yellow>ストーリーが進みます。<c>"""
+text0002#0,"""The next Task destination is indicated by an orange \""Guide Marker\"". If you're feeling lost, check the marker."""
