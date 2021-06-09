@@ -10543,7 +10543,7 @@ ring_ResistPanic#1,"""패닉 가드<br>상태 이상 「패닉」에 대한<br>�
 ring_BulletBowHoming#1,"""불릿 보우 호밍<br>불릿 보우의 차지 통상 공격에<br>유도 기능이 추가된다."""
 ring_JBElementalKeep#1,"""제트 부츠 엘리멘탈 킵<br>무기 액션을 사용해도 속성이 없어지지 않으며<br>「엘리멘탈 버스트」도 발동하지 않는다."""
 ring_StandingSigne#1,"""스탠딩 사인<br>정지한 상태일 경우<br>발밑에 이펙트가 표시된다."""
-ring_ClassicLauncherStyle#1,"""어나더 런처 모드<br>런처의 일반 공격이 탄도가 변화하며<br>위력이 상승한다. 공격 범위 또한 넓어진다."""
+ring_ClassicLauncherStyle#1,"""어나더 런처 모드<br>런처의 통상 공격이 탄도가 변화하며<br>위력이 상승한다. 공격 범위 또한 넓어진다."""
 ring_ShortMirage#1,"""숏 미라쥬<br>미라쥬 이스케이프가 짧아진다"""
 ring_WandElementChange#1,"""완드 엘리멘탈 체인지<br>완드 기어 게이지가 쌓여있을 때 완드의 속성이<br>일부 충전한 기술과 같은 속성으로 변화한다."""
 ring_SuperRecover#1,"""메이트 러버즈<br>메이트 계열 아이템을 빠르게 사용할 수 있으며<br>회복량도 상승한다."""
