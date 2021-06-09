@@ -1,4 +1,4 @@
-Title#0,"""Techniques"""
-text0001#0,"""Techniques are actions that can be used by several kinds of weapon, such as Rods and Wands.<br>Techniques come in several different Attributes. For example, Fire Techniques include \""Foie\"" and \""Gifoie\"". All Techniques change significantly in behaviour when charged."""
-text0002#0,"""<yellow>Ice Attribute<c> Techniques include \""Barta\"" and \""Gibarta\"". When you have learned the Class Skill \""Barta Blot\"", hitting enemies with uncharged Ice Techniques will place an \""Ice Crest\"" on them. Once an enemy has an Ice Crest, hitting it with a charged Ice Technique will detonate the Ice Crest, removing it and dealing massive damage."""
-text0003#0,"""<yellow>Lighting Attribute<c> Techniques include \""Zonde\"" and \""Gizonde\"". When you have learned the Class Skill \""Zonde Clad\"", hitting enemies with uncharged Lightning Techniques will put you into a \""Charged\"" state. which boosts the power of your next charged Lightning Technique."""
+Title#0,"""テクニック"""
+text0001#0,"""テクニックは、<br>“ロッド”や“ウォンド”など一部武器で使用できるアクションです。<br>このテクニックには、いくつかの属性があり、<br>たとえば<yellow>炎属性<c>のテクニックには、<br>“フォイエ”や“ギ・フォイエ”などあります。<br>いずれもチャージすることで、性質が大きく変わるのが特徴です。"""
+text0002#0,"""<yellow>氷属性<c>のテクニックには、<br>“バータ”や“ギ・バータ”などがあります。<br>クラススキル“バータブロット”は、<br>氷属性テクニックでエネミーに氷の紋章”を付着させ、<br>さらに同属性のテクニックを命中させることで、<br>その紋章を起爆して大きなダメージを与えることができます。"""
+text0003#0,"""<yellow>雷属性<c>のテクニックには、<br>“ゾンデ”や“ギ・ゾンデ”などがあります。<br>クラススキル“ゾンデクラッド”は、<br>雷属性テクニックでエネミーを攻撃することで、<br>自分自身を“帯電状態”にし、その状態で同属性のテクニックを放つと<br>通常よりも大きなダメージを与えることができます。"""

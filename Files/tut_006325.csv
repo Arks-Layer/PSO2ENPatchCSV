@@ -1,3 +1,3 @@
-Title#0,"""Rare Enemies"""
-text0001#0,"""Some enemies have special rare variants with altered appearances, such as a different color scheme.<br><br><yellow>The higher the PSE Level in the area, the more likely it is that rare enemies will appear<c>."""
-text0002#0,"""Rare enemies award more EXP when defeated than their normal equivalents."""
+Title#0,"""レアエネミー"""
+text0001#0,"""エネミーのなかには、通常の個体とは違う色などの<br>外見が異なる“レアエネミー”が存在します。<br><br>レアエネミーは、フィールド上の<br><yellow>“PSEレベル”が上がるにつれて、出現確率が上昇<c>します。"""
+text0002#0,"""レアエネミーは、<br>通常の個体よりも倒した際に獲得できる経験値が多くなります。"""

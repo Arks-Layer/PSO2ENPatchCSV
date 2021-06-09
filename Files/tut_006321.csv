@@ -1,3 +1,3 @@
-Title#0,"""Combat Sections"""
-text0001#0,"""Combat Sections are dangerous areas where you can expect many enemies to appear.<br><br>When entering a Combat Section, a <yellow>red icon<c> will appear next to the section name to show what type it is."""
-text0002#0,"""In Combat Sections, an <yellow>\""Enemy Marker\""<c> will be displayed at enemy locations.<br><br>If you head for an Enemy Marker, you are likely to meet other players heading for the same Enemy Marker."""
+Title#0,"""戦闘セクション"""
+text0001#0,"""“戦闘セクション”は、<br>多数のエネミーが出現する危険な場所です。<br><br>戦闘セクションに移動するときは、目印として、<br>セクション名の隣に<yellow>赤色のアイコン<c>が表示されます。"""
+text0002#0,"""戦闘セクションでは、エネミーが出現した場所に、<br><yellow>“Ｅマーカー（エネミーマーカー）”<c>が表示されます。<br><br>Ｅマーカーが表示された地点に向かうことで、<br>同じＥマーカーに向かっているほかのプレイヤーと合流できます。"""

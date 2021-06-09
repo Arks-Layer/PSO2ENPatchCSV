@@ -1,3 +1,3 @@
-Title#0,"""Assault Rifle"""
-text0001#0,"""An Assault Rifle is a long-range weapon that you can use to shoot enemies from a distance while staying on the move.<br><br>The damage you deal varies depending on your distance to the enemy. If you're too close or too far, you will deal less damage, so try to <yellow>maintain the optimal distance from the enemy<c> to deal maximum damage."""
-text0002#0,"""The PA \""Raging Shot\"" fires an explosive round that damages a single enemy.<br><br>When charged, the shot is able to pierce through multiple enemies, so keep an eye on enemy positioning when deciding which variant to use."""
+Title#0,"""長銃（アサルトライフル）"""
+text0001#0,"""“長銃（アサルトライフル）”は、<br>移動しつつ、遠くからエネミーを攻撃できる遠距離武器です。<br><br>エネミーとの距離によって与えるダメージが変化しますが、<br>近すぎず遠すぎない、<yellow>最適な距離を保ちながら攻撃する<c>ことで<br>効果的にダメージを与えられます。"""
+text0002#0,"""PA“レイジングショット”は、<br>単体のエネミーに対して、爆発弾を放ちます。<br><br>チャージすると貫通性能が追加されるので、<br>エネミーとの位置関係に応じて使い分けができます。"""
