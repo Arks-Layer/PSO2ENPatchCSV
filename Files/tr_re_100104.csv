@@ -1,0 +1,4 @@
+train_title#0,"""課題４：<yellow>ツインマシンガンのリロードを２秒成功させる"""
+tut_title#0,"""リロードについて"""
+text100#0,"""・<%WeaponAction>で武器アクションを２秒行う"""
+text100_3b#0,"""・<%MainPaletteC>で武器アクションを２秒行う"""

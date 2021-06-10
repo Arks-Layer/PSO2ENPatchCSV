@@ -1,0 +1,4 @@
+train_title#0,"""課題４：<yellow>派生攻撃を発動する"""
+tut_title#0,"""派生攻撃について"""
+text100#0,"""・<%NormalAttack>で通常攻撃をする<br>・通常攻撃中に<%WeaponAction>で<br>\u3000武器アクションをする"""
+text100_3b#0,"""・<%NormalAttack>で通常攻撃をする<br>・通常攻撃中に<%MainPaletteC>で<br>\u3000武器アクションをする"""

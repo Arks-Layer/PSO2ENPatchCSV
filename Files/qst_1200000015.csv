@@ -1,7 +1,0 @@
-Text_NormalAttack#0,"""通常攻撃"""
-Button_NormalAttack#0,"""<%NormalAttack>"""
-Text_Avoid#0,"""回避"""
-Button_Avoid_Pad#0,"""<%Avoid>"""
-Button_Avoid_Key#0,"""移動キーを２回押す"""
-name010#0,"""アイナ"""
-text010#0,"""高い段差は<br>助走をつけてジャンプするか<br>二段ジャンプを使ってみて。"""
