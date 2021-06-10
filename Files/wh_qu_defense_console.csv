@@ -1,0 +1,3 @@
+name01#0,"""採掘基地端末について"""
+whelp_qu_defense_console01#0,"""<yellow>【拠点端末について】<c><br><br>\u3000正結晶を集めることで、拠点を守るための機能を<br>\u3000使用することができます。<br><br>\u3000対応した拠点が破壊されるとアクセスが出来なく<br>\u3000なってしまいます。"""
+whelp_qu_defense_console02#0,"""<yellow>【防衛ソケットについて】<c><br><br>\u3000正結晶を集めることでエネミーを倒すための機能を<br>\u3000使用することができます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_quest_basedefense>"""
