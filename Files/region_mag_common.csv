@@ -1,8 +1,0 @@
-BuffToast_Prefix#0,"""の“Ｒマグブースト[全体]”により"""
-BuffToast_Suffix#0,"""が付与されました。"""
-RegionMag:AttackBuff#0,"""与ダメージ増加"""
-RegionMag:QuestDropRareUp#0,"""レアドロップ倍率増加"""
-RegionMag:ExpUp#0,"""獲得経験値増加"""
-MagName_1#0,"""常勝のリージョンマグ"""
-MagName_2#0,"""練達のリージョンマグ"""
-MagName_3#0,"""千金のリージョンマグ"""
