@@ -1,5 +1,0 @@
-Title#0,"""Wall Kick"""
-text0001#0,"""While jumping, if you touch a wall and hold <%LStick> in the direction of the wall, you will automatically perform a Wall Kick.<br><br>This allows you to <yellow>climb sheer surfaces<c> to reach heights you wouldn't be able to reach with your normal jump."""
-text0001_auto#0,"""ジャンプ中、<pict 4space><swguidetype T_Moveguide_l>を入力したまま<br>壁面に接触すると、自動的に“ウォールキック”を行います。<br><br>これにより、通常のジャンプでは<br>届かない高さの<yellow>崖を登る<c>ことができます。"""
-text0001_manual#0,"""ジャンプ中、<pict 4space><swguidetype T_Moveguide_l>を入力したまま<br>壁面に接触して<pict 4space><%Jump>を押すと、“ウォールキック”を行います。<br><br>これにより、通常のジャンプでは<br>届かない高さの<yellow>崖を登る<c>ことができます。"""
-text0002#0,"""If you combine a Wall Kick with a Photon Dash Jump, you can get <yellow>even higher<c>."""
