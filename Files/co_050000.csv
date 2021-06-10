@@ -1,0 +1,4 @@
+linewindow001#0,"""【EPISODE5】が解放されました。<br><br>現在、【EPISODE4】をプレイ中ですが、<br>【EPISODE5】を始めますか？<br><yellow>※後から【EPISODE4】に戻すことも可能です。<c>"""
+linewindow001#1,"""【EPISODE5】が解放されました。<br><br>現在、【EPISODE4】をプレイ中ですが、<br>【EPISODE5】を始めますか？<br><yellow>※シエラから【EPISODE4】に戻ることも可能です。<c>"""
+window_message_0010#0,"""【EPISODE5】を始める"""
+window_message_0020#0,"""【EPISODE4】を続ける"""

@@ -1,0 +1,4 @@
+IncidentName#0,"""$(0)討伐"""
+TrialBeginMsg#0,"""障壁開放のため$(0)を$(1)体倒せ！"""
+DestroyDoorMsg#0,"""$(0)の方向の障壁が壊された！"""
+TrialAbstract#0,"""$(0)を一定数討伐し障壁を解除せよ！"""
