@@ -1,9 +1,0 @@
-# Unix EOL
-*.sh text eol=lf
-*.py text eol=lf
-/.circleci/config.yml eol=lf
-#native EOL
-*.csv text
-/_aspell/PSO2.dict.BASE text
-/_aspell/*.dict text
-/release.sed text
