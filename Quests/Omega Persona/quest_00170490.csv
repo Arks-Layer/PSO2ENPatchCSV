@@ -5,7 +5,7 @@ NpcComMsg1#0,"""The operation begins here.<br>Our objective is to re-enter<br>th
 NpcComMsg2#0,"""It aims to destroy the entire universe.<br>Don't get complacent - when the fight<br>seems like it's almost over, that's<br>when it'll be at its most dangerous!"""
 NpcComMsg3#0,"""Give it everything you've got!<br>Destroy this thing for good...<br>And come back safely afterwards!"""
 Area0S#0,"""Near [Persona]'s Location"""
-Area0L#0,"""Oracle: Near [Persona]'s Location"""
+Area0L#0,"""Oracle Universe: Near [Persona]'s Location"""
 a1#0,"""Complete a certain Client Order."""
 a2#0,"""Complete a certain Client Order."""
 a3#0,"""Possess a Super Hard License."""
