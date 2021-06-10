@@ -1,0 +1,4 @@
+Title#0,"""Resta Sign"""
+text0001#0,"""A Resta Sign can be obtained out in the wild. By registering them on your Subpalette, you can use them to recover your HP.<br>"""
+text0002#0,"""サブパレットには、レスタサイン以外にも<br>回復アイテムや、クラススキルなども登録できます。<br><br>サブパレットへの登録（カスタマイズ）機能は、<br>ストーリーを進めることで解放されます。"""
+text0003#0,"""<%SubPaletteLeft>、<%SubPaletteRight>でカーソルを左右に移動し<%SubPalette>で実行します。<br>キーボード利用時は、[1]～[0]キーを押すことで直接使用できます。"""
