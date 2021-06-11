@@ -195,7 +195,7 @@ VITA_LobbyActionText#0,"""<pict Sign_select><yellow>즐겨찾기 등록/편집<c
 VITA_FavoritesSwitching#0,"""<pict Sign_select>모두 / 즐겨찾기 전환"""
 LobbyAction_TypeA#0,"""<%MultiSelect>+<%Decide><yellow>다른 타입 액션<c>"""
 LobbyAction_TypeB#0,"""<%MultiSelect>+<%Decide><yellow>다른 타입 액션<c>"""
-LobbyAction_TypeC#0,""""""<%MultiSelect>+<%Decide><yellow>다른 타입 액션<c>"""
+LobbyAction_TypeC#0,"""<%MultiSelect>+<%Decide><yellow>다른 타입 액션<c>"""
 MapCommand_Item2_1#0,"""에어리어 맵 숨김"""
 MapCommand_Item2_2#0,"""에어리어 맵 표시"""
 Installation#0,"""파티 메이커를 설치"""
