@@ -103,7 +103,7 @@ Menu_Matching_Blockade#0,"""緊急クエストのマッチング中は使用で�
 HealTank#0,"""Recovers 50% of your maximum HP."""
 RecoveryMoonAtomizer#0,"""Revives nearby incapacitated players."""
 HunterWarCry#0,"""<yellow>[Active Skill]<c><br>Draws the attention of all nearby enemies,<br>and makes your attacks get enemy<br>attention more easily for a set time.<br><yellow>※Main Class only.<c>"""
-HunterIronWill#0,"""Allows you to survive damage that<br>would incapacitate you with 1 HP.<br>Makes you temporarily invulnerable<br>after activating.<br><yellow>※Main Class only.<c>"""
+HunterIronWill#0,"""Allows you to survive damage that<br>would incapacitate you with 1 HP.<br>Makes you temporarily invincible<br>after activating.<br><yellow>※Main Class only.<c>"""
 HunterMassiveHunter#0,"""<yellow>[Active Skill]<c><br>For a set time, reduces damage taken<br>and makes you immune to knockback<br>and flinching from enemy attacks."""
 HunterParryingPa#0,"""Boosts the damage of PAs if you are<br>hit by an attack immediately after<br>activating them.<br><yellow>※Hunter weapons only.<c>"""
 HunterSwordGuardCounterPlus#0,"""When you successfully perform a Sword<br>Guard Counter, you can input a normal<br>attack for an additional counterattack."""
