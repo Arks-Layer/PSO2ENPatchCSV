@@ -107,7 +107,7 @@ HunterIronWill#0,"""Allows you to survive damage that<br>would incapacitate you 
 HunterMassiveHunter#0,"""<yellow>[Active Skill]<c><br>For a set time, reduces damage taken<br>and makes you immune to knockback<br>and flinching from enemy attacks."""
 HunterParryingPa#0,"""Boosts the damage of PAs if you are<br>hit by an attack immediately after<br>activating them.<br><yellow>※Hunter weapons only.<c>"""
 HunterSwordGuardCounterPlus#0,"""When you successfully perform a Sword<br>Guard Counter, you can input a normal<br>attack for an additional counterattack."""
-HunterSwordNormalAttackPlus#0,"""Increases the number of steps in your<br>Sword normal attack combo to 5."""
+HunterSwordNormalAttackPlus#0,"""ソードによる通常攻撃段数が、<br>最大５段階に増加する。"""
 HunterSwordAttackExtra#0,"""Increases the number of steps in<br>your normal attack combo to 5.<br><yellow>※Sword only.<c>"""
 HunterWeakHitAdvance#0,"""仮テキスト"""
 HunterParryingCritical#0,"""仮テキスト"""
