@@ -1,0 +1,8 @@
+BuffToast_Prefix#0,"""'S """
+BuffToast_Suffix#0,"""se le concedió."""
+RegionMag:AttackBuff#0,""" Aumento de daño de ataque """
+RegionMag:QuestDropRareUp#0,""" Rare Drop Impulso multiplicador """
+RegionMag:ExpUp#0,""" Aumento de ganancia de EXP """
+MagName_1#0,"""Invencible Mag Regional"""
+MagName_2#0,"""El habilidoso Mag Regional"""
+MagName_3#0,"""El próspero Mag Regional"""

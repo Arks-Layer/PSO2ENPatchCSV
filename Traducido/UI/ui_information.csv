@@ -1,0 +1,5 @@
+WindowTitle_Banner#0,"""Enlace de página WEB"""
+Guide_Focus#0,"""<%ChangeCtrlWindowForward><yellow> Seleccione Banner<c>"""
+Banner_ON#0,"""<pict bnr_on>"""
+Banner_OFF#0,"""<pict bnr_off>"""
+MenuLockMessage#0,"""Las funciones estaran disponible a medida que avanzas en el juego."""
