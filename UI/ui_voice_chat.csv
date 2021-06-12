@@ -1,0 +1,4 @@
+VoiceChatOn#0,"""보이스 채팅이 ON으로 되어있습니다."""
+VoiceChatOff#0,"""보이스 채팅이 OFF으로 되어있습니다.。"""
+MicrophoneMuteOn#0,"""마이크를 음소거 했습니다."""
+MicrophoneMuteOff#0,"""마이크 음소거를 해제했습니다."""
