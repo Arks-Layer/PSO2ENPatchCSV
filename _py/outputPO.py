@@ -45,7 +45,7 @@ def badcheck(en, wc, powcf, poen, powc):
 
 ENcheckForce = False
 err = 0
-if sys.argv[1] == "en":
+if sys.argv[1] == "en_reboot":
 	ENcheckForce = True
 itemlist = ["ui_accessories_text", "ui_charamake_parts"]
 for i in sys.argv[2:]:
