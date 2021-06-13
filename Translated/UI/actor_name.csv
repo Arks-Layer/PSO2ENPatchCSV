@@ -140,7 +140,7 @@ Ice02#1,"""氷属性のテクニック。<br>前方に、氷の刃を発生さ�
 Thunder01#1,"""雷属性のテクニック。<br>前方に、雷を落とす。<br>チャージすることで、威力が上昇する。"""
 Thunder02#1,"""雷属性のテクニック。<br>空中に、球状のエネルギー体を放ち、<br>範囲内のエネミー単体に断続的に雷撃を行う。<br>チャージすることで、攻撃の挙動が変化する。"""
 WandPA01#1,"""A Wand Photon Art.<br>Dash at the enemy for a single powerful strike. <br>Charging increases the power of the attack."""
-WandPA02#1,"""“短杖（ウォンド）”用のフォトンアーツ。<br>武器を地面に叩きつけ、衝撃波で広範囲を攻撃する。"""
+WandPA02#1,"""A Wand Photon Art.<br>Strike the ground, creating a shockwave<br>that damages enemies within a wide area."""
 TalisPA01#1,"""“導具”（タリス）用のフォトンアーツ。<br>前方に、フォトン弾を放った後、タリスを展開する。<br>タリス展開中は、テクニックの挙動が変化する。"""
 TalisPA02#1,"""“導具”（タリス）用のフォトンアーツ。<br>フォトンの波動で、周囲のエネミーを<br>複数回薙ぎ払った後、タリスを展開する。<br>攻撃の段数によって、タリスの展開形態が変化する。<br>また、タリス展開中は、テクニックの挙動が変化する。"""
 TypeNon#0,"""None"""
