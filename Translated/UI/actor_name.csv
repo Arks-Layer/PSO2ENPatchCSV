@@ -133,7 +133,7 @@ LauncherPA03#1,"""A Launcher Photon Art.<br>Fire explosive homing shots repeated
 MachinegunPA01#1,"""“双機銃（ツインマシンガン）”用のフォトンアーツ。<br>断続的に連射を行った後、強力な集束弾を放つ。<br>チャージすることで、威力が上昇する。"""
 MachinegunPA02#1,"""“双機銃（ツインマシンガン）”用のフォトンアーツ。<br>激しく回転しながら、<br>周囲のエネミーに弾丸を浴びせかける。<br>チャージすることで、威力が上昇する。"""
 MachinegunPA03#1,"""“双機銃（ツインマシンガン）”用のフォトンアーツ。<br>素早くエネミーに接近し、強力な弾丸を叩き込む。<br>チャージすることで、威力が上昇する。"""
-Fire01#1,"""A Fire-Attribute Technique.<br>Launches a fireball forwards. Charged,<br> creates an explosion at the target."""
+Fire01#1,"""A Fire-Attribute Technique.<br>Launches a fireball forwards. Charged,<br>creates an explosion at the target."""
 Fire02#1,"""A Fire-Attribute Technique.<br>Creates a vortex of fire around yourself.<br>Charged, creates a pillar of flame under<br>the target."""
 Ice01#1,"""氷属性のテクニック。<br>前方に、氷弾を放つ。<br>チャージすることで、威力が上昇する。"""
 Ice02#1,"""氷属性のテクニック。<br>前方に、氷の刃を発生させる。<br>チャージすることで、威力が上昇する。"""
