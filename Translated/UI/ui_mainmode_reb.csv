@@ -165,7 +165,7 @@ ForceTalisSetRevok#0,"""Pressing and holding the Weapon Action<br>button will re
 ForcePpRestorate#0,"""Makes PP regenerate faster."""
 ForceSlowFallCharge#0,"""Makes you fall more slowly while<br>charging a Technique.<br><yellow>※Force weapons only.<c>"""
 ForceBartaBlot#0,"""Hitting enemies with uncharged Ice<br>Techniques enough times engraves<br>an Ice Crest on them. Hitting an enemy<br>with an Ice Crest with a charged Ice<br>Technique detonates the Ice Crest."""
-ForceZondeClad#0,"""Hitting enemies with uncharged Lightning<br>Techniques enough times puts you into an<br>energized state. Your next charged<br>Lightning Technique will deal more damage<br>and remove the energized state."""
+ForceZondeClad#0,"""Hitting enemies with uncharged Lightning<br>Techniques enough times puts you into<br>an energized state. Your next charged<br>Lightning Technique will deal more damage<br>and remove the energized state."""
 FighterLimitBreak#0,"""<yellow>[Active Skill]<c><br>Boosts weapon power for a set time,<br>but also increases how much damage<br>you take from enemies.<br><yellow>※Main Class/Fighter weapons only.<c>"""
 FighterLimitBreakPhotonCharge#0,"""リミットブレイク終了時に、<br>PPが回復する。<br><yellow>このスキルはメインクラスのみ適用される。"""
 FighterLimitBreakInsurance#0,"""During Limit Break, if you would be<br>incapacitated by damage, you survive<br>with 1 HP and become temporarily<br>invincible, but Limit Break ends.<br><yellow>※Main Class only.<c>"""
