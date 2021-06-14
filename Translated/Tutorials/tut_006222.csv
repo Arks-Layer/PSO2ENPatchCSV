@@ -1,3 +1,2 @@
-Title#0,"""Item Pack"""
-text0001#0,"""
-By selecting \""Item Pack\"" from the Item menu, you can check, use and organize the items you own. The \""Item Details\"" window shows details for whatever item you currently have selected.<br><br>You can switch to viewing items you have in Storage with アイテムメニュー上部の“アイテムパック”にカーソルを合わせて、<br><pict Alpha_rightleft>で、表示内容を各倉庫に切り替えることができます。"""
+Title#0,"""The Item Pack"""
+text0001#0,"""By selecting \""Item Pack\"" from the Item menu, you can check, use and organize the items you own. The \""Item Details\"" window shows details for whatever item you currently have selected.<br><br>If you move your cursor to the \""Item Pack\"" bar at the top of the list, you can use <pict Alpha_rightleft> to switch to viewing items you have in Storage."""
