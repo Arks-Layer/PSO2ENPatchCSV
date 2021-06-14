@@ -1595,7 +1595,7 @@ ForceExplanation#0,"""<yellow>원거리 전투용 클래스<c><br>원거리에�
 FighterExplanation#0,"""<yellow>초근거리 전투용 클래스<c><br>에너미와 육박하는 거리에서의 전투를 장기로 한다.<br>방어력을 희생한 강력한 맹공격으로 에너미를 분쇄한다."""
 GunnerExplanation#0,"""<yellow>근거리 전투용 클래스<c><br>사격 무기를 이용한 근접 전투를 장기로 한다.<br>엄청난 탄막과 뛰어난 기동력으로 에너미를 농락한다."""
 TecherExplanation#0,"""<yellow>근거리 및 원거리 전투용 클래스<c><br>“테크닉”에 능하여 다른 플레이어를 지원한다.<br>일시적인 능력 강화나 회복 등으로 전투를 유리하게 진행한다."""
-NoaMessage#0,"""포톤 아츠가 없습니다."""
+NoPaMessage#0,"""포톤 아츠가 없습니다."""
 NoTechnicMessage#1,"""테크닉이 없습니다."""
 NoOverloadMessage#1,"""복합테크닉이 없습니다."""
 NoClassSkillMessage#0,"""클래스 스킬이 없습니다."""
