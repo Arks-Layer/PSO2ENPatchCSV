@@ -1,0 +1,7 @@
+name010#0,"""Манон"""
+text010#0,"""У этого врага твёрдое тело.<br>Останови его с помощью “атаки в парении”."""
+Text_dash#0,"""Атака в рывке """
+Button_dash#0,"""Во время рывка <pict 4space><%NormalAttack>"""
+Text_dive#0,"""Атака в парении"""
+Button_dive#0,"""В воздухе <pict 4space><%Jump><pict 4space> и удерживайте <pict 4space><%NormalAttack>"""
+Button_dive2#0,"""-"""
