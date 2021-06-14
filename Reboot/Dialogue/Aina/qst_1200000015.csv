@@ -1,0 +1,7 @@
+Text_NormalAttack#0,"""Обычная атака"""
+Button_NormalAttack#0,"""<%NormalAttack>"""
+Text_Avoid#0,"""Уворот"""
+Button_Avoid_Pad#0,"""<%Avoid>"""
+Button_Avoid_Key#0,"""Нажмите клавишу перемещения дважды."""
+name010#0,"""Аина"""
+text010#0,"""Для более высокого прыжка<br>прыгай с разбега или попробуй<br>использовать двойной прыжок."""

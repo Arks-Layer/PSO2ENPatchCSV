@@ -1,0 +1,2 @@
+Title#0,"""Цикличное переключение по под-палитрам"""
+text0001#0,"""Можно использовать несколько “под-палитр”.<br>Их можно переключать с помощью:<br>・Отображение цикла основной палитры: <%PaletteReverse><pict 4space> или <pict 4space><%PaletteForce><br>・Отображение цикла под-палитры: <%SubPaletteLeft><pict 4space> или <pict 4space><%SubPaletteRight><br>・Цикличное переключение между под-палитрами: <%PaletteReverse><pict 4space> или <pict 4space><%PaletteForce><pict 4space><br>・Подтверждение под-палитры (смена): <%Decide>"""
