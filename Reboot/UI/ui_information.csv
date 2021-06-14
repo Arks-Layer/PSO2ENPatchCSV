@@ -1,0 +1,5 @@
+WindowTitle_Banner#0,"""Web-страница"""
+Guide_Focus#0,"""<%ChangeCtrlWindowForward><yellow>Выберите баннер<c>"""
+Banner_ON#0,"""<pict bnr_on>"""
+Banner_OFF#0,"""<pict bnr_off>"""
+MenuLockMessage#0,"""Эта функция становится доступной по мере накопления прогресса в игре."""
