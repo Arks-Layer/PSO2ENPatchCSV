@@ -1,0 +1,6 @@
+TrialName#0,"""스텔라 기프트 회수"""
+TrialBeginMsg#0,"""떨어지는 스텔라 기프트를 회수하라!"""
+TrialAbstract#0,"""에너미를 쓰러뜨리기"""
+NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_000 상공에 비행물체 확인!<br>주변에 떨어질 거 같아요. 주의하세요!"""
+NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_007 스텔라 기프트를 회수해주세요."""
+NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_072 프로텍트 해제의 리미트보다 늦은 것 같습니다.<br>스텔라 기프트 회수에 실패했습니다. 그 자리에서 철수해 주세요."""
