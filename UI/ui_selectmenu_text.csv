@@ -3,7 +3,7 @@ ActiveStatus_Info#0,"""다른사람의 프렌드 리스트에 표시할 메시�
 ActiveStatus_Comment#0,"""프렌드 메시지"""
 ActiveStatus_Send#0,"""결정"""
 ActiveStatus_Cancell#0,"""취소"""
-ActiveStatus_PartyNum#0,"""$(0)/$(1)"""
+ActiveStatus_PartyNum#0,"""$(0)／$(1)"""
 ActiveStatus_ApcNum#0,"""(<pict apc_icon> $(0)인)"""
 ActiveStatus_Connecting#0,"""통신 중…"""
 ActiveStatus_Error#0,"""메시지에<br>사용할 수 없는 문자가 포함되어 있습니다."""
