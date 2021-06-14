@@ -1,3 +1,3 @@
-Title#0,"""Dual Sword(Double Saber)"""
-text0001#0,"""\""Dual Sword\"" (Double Saber),<br>due to its wide melee attack range, is a weapon that can be used in a variety of situations.<br><br>When using a PA,\""Kamaitachi\"" will occur,<br>causing surrounding enemies to be damaged for a certain time.<br>Kamaitachi has varying stages of power that can be strengethed by continued use of PAs."""
-text0002#0,"""PA\""Julien Dance\"",<br>after attacking an enemy from the rear,<br>will cause a continuous attack on the spot.<br><br>If attacking from the rear, another attack could be launched before beginning the continuous attack,<br>allowing for movement around the target."""
+Title#0,"""Double Saber"""
+text0001#0,"""A Double Saber is a melee weapon with a wide attack range that's suited for a variety of situations.<br><br>Its PAs automatically generate a \""Kamaitachi\"" whirlwind when used, which will damage nearby enemies for a short time. The Kamaitachi has multiple levels, and it can be raised to higher levels by landing more hits with PAs."""
+text0002#0,"""The PA \""Julienne Dance\"" lets you approach the enemy before performing a string of consecutive strikes on the spot.<br><br>After the approach, you have a chance to switch to a different attack, so you can switch up your moves based on the situation."""

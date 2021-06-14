@@ -1,0 +1,7 @@
+name010#0,"""Guiden"""
+name020#0,"""Bruder"""
+text010#0,"""Use your Photon Blast on that training target in the back."""
+Text_SubPallet1#0,"""Select from Subpalette:"""
+Text_SubPallet2#0,"""Activate from Subpalette:"""
+Button_SubPallet1#0,"""<%SubPaletteLeft>/<%SubPaletteRight>"""
+Button_SubPallet2#0,"""<%SubPalette>"""
