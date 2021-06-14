@@ -1,6 +1,0 @@
-TrialName#0,"""ステラーギフト回収"""
-TrialBeginMsg#0,"""付近のエネミーを討伐し、落下したステラーギフトを回収せよ！"""
-TrialAbstract#0,"""エネミーを倒す"""
-NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_000 上空に飛翔体を確認！<br>近くに落下しそうです。注意してください！"""
-NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_007 エネミーの殲滅を確認しました。<br>ステラーギフトを回収してください。"""
-NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_072 プロテクト解除のリミットに間に合わなかったようです。<br>ステラーギフトの回収に失敗しました。その場から撤収してください。"""
