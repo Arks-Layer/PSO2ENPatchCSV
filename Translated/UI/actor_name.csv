@@ -139,7 +139,7 @@ Ice01#1,"""An Ice-Attribute Technique.<br>Fires a bullet of ice forwards.<br>Cha
 Ice02#1,"""An Ice-Attribute Technique.<br>Creates a wall of ice blades in front of<br>you. Charging makes it more powerful."""
 Thunder01#1,"""A Lightning-Attribute Technique.<br>Calls lightning down ahead of you.<br>Charging makes it stronger, but prevents<br>it from arcing to other nearby enemies."""
 Thunder02#1,"""A Lightning-Attribute Technique.<br>Creates an energy sphere that regularly<br>strikes a single enemy in range with lightning.<br>Charged, the sphere rapidly strikes all<br>nearby enemies then disappears."""
-WandPA01#1,"""A Wand Photon Art.<br>Dash at the enemy for a single powerful strike. <br>Charging increases the power of the attack."""
+WandPA01#1,"""A Wand Photon Art.<br>Dash at the enemy for a single powerful strike. Charging increases the power of the attack."""
 WandPA02#1,"""A Wand Photon Art.<br>Strike the ground, creating a shockwave<br>that damages enemies within a wide area."""
 TalisPA01#1,"""A Talis Photon Art.<br>Fire a Photon Bullet forwards, then<br>deploy the Talis. While the Talis is<br>deployed, Technique behavior changes."""
 TalisPA02#1,"""A Talis Photon Art.<br>Attack multiple times, then deploy the<br>Talis. Form depends on how many attack<br>steps the PA went through. While the Talis<br>is deployed, Technique behavior changes."""
