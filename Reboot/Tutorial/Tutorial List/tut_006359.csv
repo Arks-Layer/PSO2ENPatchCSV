@@ -1,0 +1,4 @@
+Title#0,"""Действия атаки"""
+text0001#0,"""Обычная атака: <%NormalAttack><br>PA (Фотон Арт)/ Техника: <%PhotonArts><br>Зарядка Фотон Арта: Зажмите <%PhotonArts><pict 4space><br>Обратная палитра оружия: <%NormalAttack><pict 4space> во время удержания <pict 4space><%WeaponAction_2>"""
+text0002#0,"""Взять в прицел (Lock-on): <%LockOn><br>Смена взятой в прицел цели: <%LockOn>"""
+text0003#0,"""Атака в рывке: Во время рывка <pict 4space><%NormalAttack><br>Step Attack: <%Avoid><pict 4space> следом <pict 4space><%NormalAttack><br>Атака в парении: В воздухе <pict 4space><%Jump><pict 4space> удерживайте <pict 4space><%NormalAttack>"""
