@@ -1283,7 +1283,7 @@ FlagTicketAllRegistedCaption_10#0,"""사용 상황:<yellow>미사용<c><br>\u300
 TraceAlreadyIconText#0,"""이하 기능을 사용해 거래 불가<br>무기 폼 변경<br>유닛 스킬 추가"""
 NGS_NotUseItem#0,"""『PSO2:NGS』사용 불가 아이템"""
 MesetaDenomination#0,"""<pict reb_meseta>메세타"""
-AcDenomination#0,"""AC"""
+AcDenomination#0,"""ＡＣ"""
 CpDenomination#1,"""FUN"""
 Cash#0,"""소지금"""
 CashAC_Vita#0,"""보유 AC"""
