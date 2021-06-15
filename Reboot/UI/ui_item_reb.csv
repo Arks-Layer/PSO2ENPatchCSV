@@ -449,7 +449,7 @@ AddSupportMessage1#0,"""У вас имеются капсулы для<br>доб
 LockConfirm#0,"""Выбран заблокированный предмет.<br>Вы уверены?"""
 SetValueInputNumberMessage#0,"""Введите желаемую цену.<br>※Цена не может быть ниже минимальной.<br>※Определённая сума будет вычтена в качестве налога."""
 SetValueInputNumberMessage_2#0,"""(Листинговые сборы: """
-SetValueInputNumberMessage_3#0,"""$(1)<pict 4space>$(0))"""
+SetValueInputNumberMessage_3#0,"""$(1)<pict 4space>$(0)）"""
 SetValueInputNumberMessage_4#0,"""(С учётом налога: """
 ManageExhibitItem#0,"""Предметы на продажу<pict 4space><pict Arcscash>"""
 ManageWithdrawItem#0,"""Забрать предметы"""
