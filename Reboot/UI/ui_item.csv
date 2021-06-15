@@ -1,4 +1,4 @@
-MenuTitle#0,"""交換ショップ"""
+MenuTitle#0,"""Магазин обмена"""
 MenuGuide#0,"""<c f0df60>商品リストにあるアイテムを、指定のアイテムと交換できます。<c>"""
 ButtonChange#0,"""交換"""
 SuccessMessage#0,"""交換に成功しました。"""
