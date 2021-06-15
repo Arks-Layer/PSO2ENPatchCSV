@@ -1,0 +1,8 @@
+TransferMultiStart#0,"""Comenzando la transferencia en $(0) segundos."""
+TransferMultiStartLaunch#0,"""La transferencia comenzará después de $(0) segundos, o cuando todos los jugadores se hayan reunido."""
+TransferMultiStop#0,"""La transferencia ha sido cancelada."""
+RestaSignLimit#0,"""No puede llevar más, excedió la capacidad máxima para este artículo."""
+ReverserSignLimit#0,"""No puede llevar más, excedió la capacidad máxima para este artículo."""
+Levelup#0,"""El Drome controlado ha subido de nivel."""
+Join#0,"""Tuvo éxito en piratear el hostil Drome. Se une a esta acción de combate."""
+Renounced#0,"""El drome que lo acompaña se ha retirado porque está fuera de control."""
