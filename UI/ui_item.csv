@@ -2293,7 +2293,7 @@ PrevSearch#0,"""이전 검색"""
 Title#17,"""마이 샵 정보"""
 Owner#0,"""오너 이름"""
 Comment#0,"""광고"""
-Recent_transaction_status#0,
+Recent_transaction_status#0,"""최근 거래 상황"""
 Title#18,"""출품 예정 리스트"""
 NoSlotMessage#0,"""출품 할 수 있는 칸이 없습니다"""
 NewSlot#0,"""신규 등록"""
