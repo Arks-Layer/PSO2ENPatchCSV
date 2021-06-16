@@ -60,7 +60,7 @@ Category_ACShop#0,"""<pict ba_acshop><pict 4space>AC / SG샵<pict 4space><pict A
 Category_SGShop#0,"""<pict ba_sgshop>SG 샵<pict StarGem>"""
 Category_MyShop#0,"""마이샵"""
 Category_RecycleShop#0,"""<pict ba_recycle><pict 4space>아이템 리사이클"""
-Category_BuyHistory#0,"""<pict ba_history><pict 4space>구입위력/유효기한"""
+Category_BuyHistory#0,"""<pict ba_history><pict 4space>구입이력/유효기한"""
 Category_Shop#0,"""샵"""
 Popup_ItemPack#0,"""<pict ba_task><pict 4space>아이템 팩"""
 Popup_FriendList#0,"""<pict ba_friend><pict 4space>프렌드 리스트"""
