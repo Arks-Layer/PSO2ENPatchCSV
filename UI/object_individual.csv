@@ -1,0 +1,8 @@
+TransferMultiStart#0,"""$(0)초 후에 전송을 시작합니다."""
+TransferMultiStartLaunch#0,"""플레이어 전원이 모이거나 $(0)초가 지나면 전송을 시작합니다."""
+TransferMultiStop#0,"""전송을 중단했습니다."""
+RestaSignLimit#0,"""취득 상한을 초과하기 때문에 더 이상 얻을 수 없습니다."""
+ReverserSignLimit#0,"""취득 상한을 초과하기 때문에 더 이상 얻을 수 없습니다."""
+Levelup#0,"""제어 중인 드롬의 레벨이 올랐습니다."""
+Join#0,"""적성 드롬 해킹 성공. 아군의 전투 행동에 참가했습니다."""
+Renounced#0,"""제어 범위에서 벗어나 동반 드롬이 이탈했습니다."""
