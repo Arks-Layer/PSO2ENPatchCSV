@@ -12,7 +12,7 @@ W_Trial_Gold_Notice#0,"""Emergency Alert: We're detecting a lot of objects in th
 W_Trial_Gold_Open#0,"""Notifying all ARKS, a mission to recover the fallen Stellar Grace is underway. All ARKS are requested to participate in this mission."""
 W_Trial_Gold_End#0,"""The operation to recover the Stellar Grace is now complete. Thank you for your cooperation in this mission."""
 E_eario_Dolls_1120001_Notice#0,"""Emergency Alert: We have detected strong DOLLS energy readings in the Aerio Region. All ARKS Members, please prepare to sortie. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
-E_eario_Dolls_1120001_Open#0,"""Notifying all ARKS members: We will begin a mission to subdue the DOLLS that have appeared in the Aerio Region. All ARKS are requested to participate in this mission. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
+E_eario_Dolls_1120001_Open#0,"""Notifying all ARKS members: We are beginning a mission to subdue the DOLLS that have appeared in the Aerio Region. All ARKS are requested to participate in this mission. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
 Title_Quest_Info_1#0,"""Simple Quest Information"""
 Title_Quest_Info_2#0,"""Quest Name"""
 Title_Quest_Info_3#0,"""Participants"""
