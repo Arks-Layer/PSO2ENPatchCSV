@@ -227,7 +227,7 @@ TechterElementWeakBonus#0,"""Makes the Photon Blast gauge fill faster when attac
 TechterAwakeYell#0,"""Makes the Photon Blast gauge fill faster when boss enemies are nearby."""
 TechterReverseBonus#0,"""Applies the effect of Shifta-Deband to revived allies.<br><yellow>※Main Class only.<c>"""
 TechterWandGuardCounterEdge#0,"""Generates a shockwave when Wand Parry Counter activates."""
-TechterFallSlowCharge#0,"""Makes you descend more slowly in the air while charging a PA or Technique.<br><yellow>※Techter only.<c>"""
+TechterFallSlowCharge#0,"""Makes you descend more slowly in the air while charging a PA or Technique.<br><yellow>※Techter Weapons only.<c>"""
 TechterBartaBlot#0,"""Hitting enemies with uncharged Ice Techniques enough times engraves an Ice Crest on them. Hitting an enemy with an Ice Crest with a charged Ice Technique detonates the Ice Crest."""
 TechterZondeClad#0,"""Hitting enemies with uncharged Lightning Techniques enough times puts you into an energized state. Your next charged Lightning Technique will deal more damage and remove the energized state."""
 FighterKnuckleAttackExtra#0,"""Increases the number of steps in your Knuckles normal attack combo to 5."""
