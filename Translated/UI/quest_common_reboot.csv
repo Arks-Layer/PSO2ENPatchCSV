@@ -18,7 +18,7 @@ Cocoon_Sub_Damage#0,"""%(Damage)以上のダメージを$(0)%(num)回以上与�
 Cocoon_Sub_Hit#0,"""Clear in under $(0)%(num) damage attempts"""
 Cocoon_Sub_Coin#0,"""Clear after obtaining $(0)%(num) Point Cubes"""
 Cocoon_Sub_Down#0,"""エネミーを%(num)回$(0)ダウンさせてクリア"""
-Cocoon_Sub_Action#0,"""Clear while using no more than $(0)%(num) %(action)"""
+Cocoon_Sub_Action#0,"""Clear while using fewer than $(0)%(num) %(action)"""
 Cocoon_Sub_TargetVolumeLimit#0,"""Defeat less than $(0)%(num) enemies"""
 Action_Name_Jump#0,"""Jump(s)"""
 Action_Name_Step#0,"""Step(s)"""
