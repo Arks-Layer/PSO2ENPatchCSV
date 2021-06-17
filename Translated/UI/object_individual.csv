@@ -3,6 +3,6 @@ TransferMultiStartLaunch#0,"""Starting the transfer in $(0) seconds, or when all
 TransferMultiStop#0,"""Transfer has been cancelled."""
 RestaSignLimit#0,"""Cannot carry any more of this item."""
 ReverserSignLimit#0,"""Cannot carry any more of this item."""
-Levelup#0,"""Allied Drome has levelled up."""
+Levelup#0,"""Allied Drome has leveled up."""
 Join#0,"""Hostile Drome successfully hacked.<br>It will now fight by your side."""
 Renounced#0,"""Control over allied Drome has expired.<br>The Drome has left you."""
