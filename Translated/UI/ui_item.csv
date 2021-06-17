@@ -10988,7 +10988,7 @@ SendMenu_WarehouseAdditionOTP#0,"""<pict wh_otp_icon>Send to OTP Storage ($(1)/$
 SendMenu_GuildWarehouse#0,"""<pict wh_icon_team>Send to Team Storage"""
 Title_Convert#0,"""Convert to Meseta"""
 Message_ConvertInputNumber#0,"""Number to convert"""
-Message_ConvertReady#0,"""Converting the following items.<br><Yellow>Total Meseta:<c>$(0)<br>Proceed?"""
+Message_ConvertReady#0,"""Converting the following items.<br><yellow>Total Meseta:<c> <pict reb_meseta>$(0)<br>Proceed?"""
 Message_ConvertSuccess#0,"""Converted item(s) to <pict reb_meseta>$(0) meseta."""
 Message_ConvertSuccessZero#0,"""Items disposed of for 0 meseta."""
 Message_ConvertPartiallySuccess#0,"""Some items could not be converted."""
