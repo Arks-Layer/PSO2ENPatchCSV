@@ -1,4 +1,4 @@
-VoiceChatOn#0,"""Voice Chat has been enabled."""
-VoiceChatOff#0,"""Voice Chat has been disabled."""
-MicrophoneMuteOn#0,"""Microphone muted."""
-MicrophoneMuteOff#0,"""Microphone unmuted."""
+VoiceChatOn#0,"""ボイスチャットはONになっています。"""
+VoiceChatOff#0,"""ボイスチャットはOFFになっています。"""
+MicrophoneMuteOn#0,"""マイクをミュートにしました。"""
+MicrophoneMuteOff#0,"""マイクのミュートを解除しました。"""
