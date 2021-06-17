@@ -10,4 +10,4 @@ NpcComOnBegin#0,"""/voice11_voice_navi001_trial_0001_004 작전 중인 아크스
 NpcComOnHp50#0,"""/voice11_voice_navi001_trial_0001_057 방어 대상의 피해가 커지고 있습니다!<br>다가오는 에너미를 제거해주세요!"""
 NpcComOnHp20#0,"""/voice11_voice_navi001_trial_0001_037 방어 대상의 피해가 막심합니다!<br>이대로는 파괴되고 맙니다! 어떻게든 지켜내 주세요!"""
 NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_009 주변 에너미 반응 소멸!<br>이제 괜찮습니다. 협조해 주셔서 감사합니다!"""
-NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_010 대상을 방어하는데 실패했습니다…<br>작전에 참여한 아크스는 그 자리에서 철수하세요."""
+NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_010 대상을 방어하는데 실패했습니다…<br>작전에 참가한 아크스는 그 자리에서 철수하세요."""
