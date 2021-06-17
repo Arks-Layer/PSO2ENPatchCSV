@@ -1,0 +1,3 @@
+Title#0,"""Lock-On/Lock-On Switching."""
+text0001_pad#0,"""Lock-On: <%LockOn><br>Cancelar Lock-On: Presiona <%LockOn> mientras está marcando<br>Mantener Lock-On: <swguidetype T_Moveguide_r> while locked-on<br><br><yellow>※No disponible cuando \""Switch Lock-On by Using Right Stick\"" se ajusta a<br>\u3000\""No utilice\"".<br>\u3000En este caso, tendrás que cancelar tu bloqueo y bloquearte en otro<br>\u3000objetivo.<c>"""
+text0001_key#0,"""Lock-On: <%LockOn><br>Cancelar Lock-On: Presiona <%LockOn> mientras está marcando<br>Mantener Lock-On: usa <%LockOn> para cancelar Lock-On, entonces usa <%LockOn> de nuevo para seleccionar otro objetivo"""

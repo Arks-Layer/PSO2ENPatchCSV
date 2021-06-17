@@ -1,0 +1,6 @@
+TrialName#0,"""Colección de regalos estelares"""
+TrialBeginMsg#0,"""Recoge el Regalo Estelar Caído!"""
+TrialAbstract#0,"""Derrota a los enemigos"""
+NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_000 ¡Tenemos una imagen de algo cayendo del cielo! <br>¡Cuidado, impactará cerca!"""
+NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_007 Recoge el Regalo Estelar."""
+NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_072 No pudimos llegar a tiempo.<br>Abandona la zona, no pudimos recogerlo a tiempo."""

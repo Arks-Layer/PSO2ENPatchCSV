@@ -1,0 +1,8 @@
+TrialName#0,"""Interceptar el $(0)"""
+TrialBeginMsg#0,"""Destruye el $(0)!"""
+TrialAbstract#0,"""Destruye el $(0)"""
+NpcComOnForetaste#0,"""/voice11_voice_navi003_trial_0001_013 ¡Tenemos los ojos puestos en la nave de control de los DOLLS!"""
+NpcComOnBegin#0,"""/voice11_voice_navi003_trial_0001_020 En la parte superior de la Nave, está su punto débil, el núcleo. Tendrás que encontrar la manera de subirte a él."""
+NpcComOnSuccess#0,"""/voice11_voice_navi003_trial_0001_064 La nave de control ha sido destruida. Gran trabajo, ¡nos vemos de nuevo!"""
+NpcComOnFailure#0,"""/voice11_voice_navi003_trial_0001_074 Parece que se han retirado... No te preocupes, ¡los atraparemos la próxima vez!"""
+NpcComOnBigLaser#0,"""/voice11_voice_navi003_trial_0001_045 ¡Calienta el suelo con su ataque! ¡Usa el aire para saltar encima de él!"""

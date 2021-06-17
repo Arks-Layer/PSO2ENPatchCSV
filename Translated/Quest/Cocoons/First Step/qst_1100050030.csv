@@ -1,0 +1,8 @@
+name010#0,"""Guiden."""
+name020#0,"""Bruder."""
+text010#0,"""Lo estás haciendo bien. A continuación, intentemos ir de un lugar alto a otro con Photon Glide."""
+Text_Glide#0,"""Glide;"""
+Text_Glide_Release#0,"""End Glide;"""
+Button_Glide_01#0,"""Durante un salto doble, presione <%Jump>"""
+Button_Glide_02#0,"""O mantén presionado <%Jump>"""
+Button_Glide_Release#0,"""Mientras se desliza, presione <%Jump>"""

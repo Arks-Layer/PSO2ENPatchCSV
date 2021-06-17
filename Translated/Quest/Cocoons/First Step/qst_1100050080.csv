@@ -1,0 +1,8 @@
+name010#0,"""Guiden."""
+name020#0,"""Bruder."""
+text010#0,"""Y ahora, tu tarea final: usar un Photon Blast."""
+text020#0,"""Primero tendrás que prepararlo."""
+Text_SubPallet1#0,"""Seleccionar de la subpaleta:"""
+Text_SubPallet2#0,"""Activar desde subpaleta:"""
+Button_SubPallet1#0,"""<%SubPaletteLeft>/<%SubPaletteRight>"""
+Button_SubPallet2#0,"""<%SubPalette>"""

@@ -1,0 +1,7 @@
+name010#0,"""Guiden."""
+name020#0,"""Bruder."""
+text010#0,"""Establezca su Photon Blast."""
+Text_SubPallet1#0,"""Seleccionar en la subpaleta:"""
+Text_SubPallet2#0,"""Activar desde la Subpalette:"""
+Button_SubPallet1#0,"""<%SubPaletteLeft>/<%SubPaletteRight>"""
+Button_SubPallet2#0,"""<%SubPalette>"""

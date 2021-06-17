@@ -1,0 +1,5 @@
+Title#0,"""Patada en la pared"""
+text0001#0,"""Mientras saltas, si tocas una pared y mantienes <%LStick> en dirección a la pared, realizarás automáticamente una Patada de pared.<br><br>Esto te permite <yellow>escalar superficies escarpadas<br> para alcanzar alturas que no podrías alcanzar con tu salto normal."""
+text0001_auto#0,"""Mientras saltas, si tocas una pared y mantienes <swguidetype T_Moveguide_l> en la dirección de la pared, realizarás automáticamente una Patada de pared.<br><br>Esto te permite <yellow>escalar superficies escarpadas<br> para alcanzar alturas que no podrías alcanzar con tu salto normal."""
+text0001_manual#0,"""Mientras saltas, toca una pared, mantén <swguidetype T_Moveguide_l> en la dirección de la pared y pulsa <%Jump> para realizar una Patada de pared.<br><br>Esto te permite <yellow>escalar superficies escarpadas<br> para alcanzar alturas que no podrías alcanzar con tu salto normal."""
+text0002#0,"""Si combinas una Patada en la pared con un Photon Dash Jump, puedes llegar <yellow>aún más alto<c>."""
