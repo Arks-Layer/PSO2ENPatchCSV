@@ -1,4 +1,4 @@
-Text_DashJump#0,"""Dash Jump:"""
+Text_DashJump#0,"""Dash Jump;"""
 Button_DashJump#0,"""<pict 4space><%Jump> mientras que se desplaza"""
 Text_DoubleJump#0,"""Double Jump;"""
 Button_DoubleJump#0,"""Después de pulsar <%Jump><pict 4space>, preciona <pict 4space><%Jump>"""
