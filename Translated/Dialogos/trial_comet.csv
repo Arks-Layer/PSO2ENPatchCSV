@@ -1,0 +1,6 @@
+TrialName#0,"""Colección de regalos estelares"""
+TrialBeginMsg#0,"""Derrota a los enemigos cercanos y recoge los regalos estelares!"""
+TrialAbstract#0,"""Derrota a los enemigos"""
+NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_000 ¡Tenemos una imagen de algo cayendo del cielo!<br>¡Cuidado, impactará cerca!"""
+NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_007 No detectamos más enemigos en la zona. Por favor, recupera el Regalo Estelar."""
+NpcComOnFailure#0,"""No pudimos llegar a tiempo.<br>Abandona la zona, no pudimos recogerla a tiempo."""

@@ -1,0 +1,4 @@
+Title#0,"""Photon Blasts."""
+text0001#0,"""Un Photon Blast es una poderosa acción que puedes activar cuando tu medidor de Photon Blast está lleno.<br><br>Tu medidor se llena realizando acciones en la batalla, como golpear a los enemigos con ataques."""
+text0002#0,"""Una vez que hayas utilizado un Photon Blast, no podrás utilizar otra hasta que haya pasado un tiempo determinado."""
+text0003#0,"""Puedes ajustar tu Photon Blast a la Subpaleta seleccionando <yellow>\""Equipo/Paleta\""<c> en el menú principal, y luego seleccionando <yellow>\""Subpaleta\""<c>.<br><br>Cuando el medidor de Photon Blast se llene durante la batalla, utiliza <%SubPaletteLeft> y <%SubPaletteRight> para situar el cursor de la Subpaleta en el icono de Photon Blast, y luego utiliza <%SubPalette> para activarla.<br>Si juegas con un teclado, puedes utilizar las teclas numéricas para activar las ranuras de la Subpaleta directamente."""

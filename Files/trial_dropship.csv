@@ -1,8 +1,0 @@
-TrialName#0,"""$(0)迎撃"""
-TrialBeginMsg#0,"""$(0)を撃墜せよ！"""
-TrialAbstract#0,"""$(0)を破壊する"""
-NpcComOnForetaste#0,"""/voice11_voice_navi003_trial_0001_013 ドールズ管制機の出現を確認した！"""
-NpcComOnBegin#0,"""/voice11_voice_navi003_trial_0001_020 管制機の上部にはコアがある。<br>そこが弱点だ。飛び乗る方法を探してくれ！"""
-NpcComOnSuccess#0,"""/voice11_voice_navi003_trial_0001_064 ドールズ管制機の撃墜を確認！<br>その調子で次も頼むぜ！"""
-NpcComOnFailure#0,"""/voice11_voice_navi003_trial_0001_074 消耗した残敵が撤退。<br>……ドンマイ、次は全部倒そうぜ！"""
-NpcComOnBigLaser#0,"""/voice11_voice_navi003_trial_0001_045 管制機の攻撃で、地表が熱くなってるな。<br>そこの気流で飛び上がれ！"""
