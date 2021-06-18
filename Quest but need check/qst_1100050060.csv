@@ -1,0 +1,5 @@
+Text_Glide#0,"""グライド："""
+Text_Glide_Release#0,"""グライド解除："""
+Button_Glide_01#0,"""2단 점프 중에 <pict 4space><%Jump>"""
+Button_Glide_02#0,"""または<pict 4space><%Jump><pict 4space> 길게 누르기"""
+Button_Glide_Release#0,"""グライド中に<pict 4space><%Jump>"""
