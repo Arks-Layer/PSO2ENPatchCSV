@@ -1,0 +1,5 @@
+Title#0,"""Wall Kick."""
+text0001#0,"""Double-Jump:<br>\u3000Pulsa <%Jump> mientras estas saltando.<br>Wall Kick:<br>\u3000Mientras saltas, toca una pared<br>\u3000y mantener <%LStick> en su dirección.<br>"""
+text0001_pad#0,"""Double-Jump:<br>\u3000Mientras salta, pulse <%Jump> otra vez.<br>Wall Kick:<br>\u3000Mientras salta y toca una pared,<br>\u3000manten <swguidetype T_Moveguide_l> en dirección a la pared."""
+text0001_manual#0,"""Double-Jump:<br>\u3000Mientras salta, pulse <%Jump> otra vez.<br>Wall Kick:<br>\u3000Mientras salta y toca una pared,<br>\u3000presiona <%Jump> de nuevo"""
+text0001_key#0,"""Double-Jump:<br>\u3000Mientras salta, pulse <%Jump> otra vez.<br>Wall Kick:<br>\u3000Mientras salta y toca una pared,<br>\u3000manten <swguidetype T_Moveguide_l> en dirección a la pared."""

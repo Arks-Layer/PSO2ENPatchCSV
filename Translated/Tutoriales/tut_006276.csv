@@ -1,0 +1,5 @@
+Title#0,"""El menú rápido"""
+text0001_pad#0,"""Presione <%SelectMenu> para abrir el \""Menú rápido\"".<br><br>El Menú Rápido le permite acceder rápidamente a varias funciones, como la configuración de un Grupo o la realización de Lobby Actions"""
+text0001_key#0,"""Presione <pict btn_key_f2> para abrir el \""Menú rápido\"".<br><br>El Menú Rápido le permite acceder rápidamente a varias funciones, como la configuración de un Grupo o la realización de Lobby Actions"""
+text0002#0,"""Seleccione <yellow>\""Location Notification\""<c> de la sección de comunicación para mostrar tu ubicación en los mapas de radar de los miembros de tu grupo.<br>La visualización durará poco tiempo antes de desaparecer."""
+text0003#0,"""Seleccione <yellow>\""Mostrar/Ocultar mapa de la zona\""<c> desde la sección del menú de comandos para que aparezca un mapa detallado de su ubicación actual.<br><br>Además, mientras esté en Ciudad Central, este mapa mostrará las ubicaciones de los NPCs."""

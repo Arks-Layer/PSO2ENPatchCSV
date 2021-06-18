@@ -1,0 +1,3 @@
+Title#0,"""Cambio de la paleta principal"""
+text0001#0,"""La \""Main Palette\"" es el sistema que te permite registrar un arma y un conjunto de PAs/Técnicas juntos para que puedas cambiar entre ellos fácilmente.<br><br>Si registras varias armas diferentes en tu Paleta Principal, puedes cambiar de arma rápidamente en medio de la batalla."""
+text0002#0,"""Para cambiar su Paleta Principal, siga estos pasos:<br><br>・Cambie a la Paleta Principal anterior: <%PaletteReverse><br>・Pasar a la siguiente paleta principal: <%PaletteForce><br>・Cambiar a la paleta seleccionada: <%Decide>"""
