@@ -1,3 +1,5 @@
+# This language branch requires a maintainer before any future translation work can be accepted. If you are interested then contact Aida Enna#0001 on the **[PSO2 Discord Server]**.
+
 <p align="center">
   <img src="https://i.imgur.com/jL1g2Le.png" alt="Logo PSO2"/>
 </p>
