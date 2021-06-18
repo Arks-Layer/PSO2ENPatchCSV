@@ -38,3 +38,4 @@ Se você não sabe Japonês, mas ainda quer ajudar, você pode checar arquivos j
 [Repositório em Inglês]: https://github.com/Arks-Layer/PSO2ENPatchCSV
 [Arquivos]: https://github.com/BadHowst/PSO2ENPatchCSV
 [Discord do PROJETO ORACLE]: https://discord.gg/vtjsdyh
+[PSO2 Discord Server]: https://discord.gg/PSO2
