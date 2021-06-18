@@ -1,0 +1,7 @@
+Text_NormalAttack#0,"""通常攻撃"""
+Button_NormalAttack#0,"""<%NormalAttack>"""
+Text_Avoid#0,"""回避"""
+Button_Avoid_Pad#0,"""<%Avoid>"""
+Button_Avoid_Key#0,"""이동 키를 2번 押す"""
+name010#0,"""아이나"""
+text010#0,"""高い段差は<br>助走をつけてジャンプするか<br>2단 ジャンプを使ってみて。"""
