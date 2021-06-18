@@ -1,0 +1,3 @@
+Title#0,"""Autowords."""
+text0001#0,"""\""Autowords\"" son un sistema que te permite pre-registrar frases para que tu personaje las diga automáticamente en determinadas situaciones, como cuando subes de nivel.<br><br>Para registrar un conjunto de Autowords, selecciona <yellow>\""Chat\""<c> en el menú principal, y luego selecciona <yellow>\""Configuracion Autoword\""<c>."""
+text0002#0,"""Si registra varias frases para la misma situación, se seleccionará una al azar cuando se cumpla esa condición.<br><br>Puede registrar hasta 3 frases para cada situación.<br>"""

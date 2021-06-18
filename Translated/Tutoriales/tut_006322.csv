@@ -1,0 +1,4 @@
+Title#0,"""Sub Clases"""
+text0001#0,"""La función de cambio de clase del contador de clases no sólo se utiliza para cambiar tu clase principal. También puedes establecer una Subclase allí.<br><br>Configurar una Subclase te permite usar las armas de esa Clase. Además, podrás utilizar las Artes Fotónicas de esa Clase, las Técnicas y algunas Habilidades de Clase, pero serán más débiles que cuando se utilizan como Clase Principal."""
+text0002#0,"""Por ejemplo, si tu clase principal es Hunter y tu subclase es Force, podrás equipar Rods además de tus armas de Hunter.<br><br>Mientras estés equipado con un Rod, podrás lanzar Técnicas."""
+text0003#0,"""Mientras tengas una Subclase establecida, esa Subclase ganará EXP igual a una porción de la EXP que gana tu Clase Principal.<br><br>Sin embargo, tu Subclase no puede ganar EXP si está dentro de <yellow>5 niveles de tu tope de nivel actual<c>."""

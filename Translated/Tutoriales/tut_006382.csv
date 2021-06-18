@@ -1,0 +1,7 @@
+Title#0,"""Acciones de armas"""
+text0001_hunter#0,"""Sword Guard:<br>Presiona <%MainPaletteC> mientras se empuña una Sword.<br>Utiliza la espada como escudo para reducir el daño.<br>Si se sincroniza correctamente, se convierte en un \""Just Guard\"" (JG) y bloquea todo el daño de un ataque.<br>"""
+text0001_ranger#0,"""Slide Shot:<br>Presiona <%MainPaletteC> mientras se usa un Rifle.<br><br>Adopta una postura de bajo perfil y se mueve mientras dispara rápidamente.<br>"""
+text0001_force#0,"""Rod Shield:<br>Presiona <%MainPaletteC> mientras se empuña un Rod.<br><br>Crea un escudo para bloquear los ataques enemigos. Recupera PP cuando un ataque es bloqueado con éxito.<br>"""
+text0001_fighter#0,"""Knuckle Sway:<br>Presiona <%MainPaletteC> mientras se usan Knuckles.<br><br>Gira la parte superior de su cuerpo en el acto para evadir los ataques del enemigo y luego devuelve el golpe.<br>"""
+text0001_gunner#0,"""Stylish Roll:<br>Presiona <%MainPaletteC> mientras se usan Twin Machineguns.<br><br>Evade los ataques enemigos con un máximo de estilo. Puedes atacar mientras evades.<br>"""
+text0001_techter#0,"""Wand Parry:<br>Presiona <%MainPaletteC> mientras se empuña un Wand.<br><br>Bloquea los ataques enemigos. Puedes moverte mientras parrying.<br>"""

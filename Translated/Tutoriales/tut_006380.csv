@@ -1,0 +1,5 @@
+Title#0,"""Cómo utilizar un Photon Blast"""
+text0001#0,"""Un \""Photon Blast\"" es un poderoso ataque que se puede registrar y activar desde la Subpaleta.<br><br>El medidor de Photon Blast se llena a medida que realizas acciones en la batalla. Cuando el medidor está lleno, puedes usar tu Photon Blast."""
+text0002#0,"""Puede registrar su Photon Blast en la Subpaleta seleccionando <yellow>\""Equipo/Paleta\""<c> en el menú principal, y luego selecciona <yellow>\""Subpalette\""<c>."""
+text0003#0,"""Seleccione la ranura que desea utilizar, y aparecerá la lista de opciones para esa ranura.<br>Seleccione <yellow>\""Usar Photon Blast\""<c> para registrarlo.<br><br>Una vez registrado, cierra el menú con <%Cancel>, y estás listo para ir."""
+text0004#0,"""Cuando el Photon Blast se llene durante la batalla, usa <%SubPaletteLeft> y <%SubPaletteRight> para situar el cursor de la Subpaleta en el icono de la Explosión de Fotones y, a continuación, utiliza <%SubPalette> para activarla.<br>Si juegas con un teclado, también puedes utilizar las teclas numéricas para activar directamente las ranuras de la Subpaleta."""

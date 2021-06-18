@@ -1,0 +1,2 @@
+Title#0,"""Cambio de subpaletas"""
+text0001#0,"""Tiene acceso a múltiples Subpaletas entre las que puede cambiar cuando quiera.<br>Para cambiar de Subpaleta, abra la lista de la Paleta Principal con <%PaletteReverse>/<%PaletteForce>, a continuación, siga los siguientes pasos:<br>・Pasar a la lista de subpaletas (<%SubPaletteLeft>/<%SubPaletteRight>)<br>・Pasar a la subpaletas (<%PaletteReverse>/<%PaletteForce>)<br>・Seleccione una subpaleta para usar (<%Decide>)"""
