@@ -1,0 +1,8 @@
+Text_DashJump#0,"""대쉬 점프:"""
+Button_DashJump#0,"""대쉬 도중 <%Jump>"""
+Text_DoubleJump#0,"""2단 점프:"""
+Button_DoubleJump#0,"""<%Jump> 후에 한번 더 <%Jump>"""
+name010#0,"""아이나"""
+text010#0,"""자 그럼, 이 절벽을 올라가야 하는데…."""
+text020#0,"""도움닫기 후에 점프하면,<br>평소보다 높이 뛸 수 있어."""
+text030#0,"""한 번 해봐."""
