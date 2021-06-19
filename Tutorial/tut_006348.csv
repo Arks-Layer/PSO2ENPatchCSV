@@ -1,0 +1,5 @@
+Title#0,"""월 킥"""
+text0001#0,"""이단 점프 : <br> 점프 중<pict 4space><%Jump><br>월 킥 : <br> 점프 중, 벽에 접촉 시<br> <%LStick><pict 4space>키 입력 유지"""
+text0001_pad#0,"""이단 점프 : <br> 점프 중<pict 4space><%Jump><br>월 킥 : <br> 점프 중, <swguidetype T_Moveguide_l>를<br> 누른 채 벽면에 접촉"""
+text0001_manual#0,"""이단 점프 : <br> 점프 중<pict 4space><%Jump><br>월 킥 : <br> 점프 중, <pict 4space><swguidetype T_Moveguide_l>を<br> 누른 채 벽면에 접촉하여<pict 4space><%Jump>"""
+text0001_key#0,"""이단 점프 : <br> 점프 중<pict 4space><%Jump><br>월 킥 : <br> 점프 중, <swguidetype T_Moveguide_l>を<br> 누른 채 벽면에 접촉"""

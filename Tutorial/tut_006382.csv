@@ -1,0 +1,6 @@
+Title#0,"""무기액션"""
+text0001_hunter#0,"""소드 가드 :<br> 소드 장비 중 <pict 4space><%WeaponAction><pict 4space>로<br> 소드를 방패처럼 사용해 데미지 경감<br> 가드 타이밍에 따라<br>저스트가드(JG)가 되어<br> 에너미의 공격을 완벽하게 방어<br>"""
+text0001_ranger#0,"""슬라이드 샷 :<br> 라이플 장비 중 <pict 4space><%WeaponAction><pict 4space>로<br> 자세를 낮추고 크게 이동하며<br> 빠르게 사격<br>"""
+text0001_fighter#0,"""너클 스웨이 :<br> 너클 장비 중<pict 4space><%WeaponAction><pict 4space>로<br> 제자리에서 상체를 크게 흔들어<br> 적의 공격을 회피하며 공격<br>"""
+text0001_gunner#0,"""스타일리쉬 롤 :<br> 트윈머신건 장비 중<pict 4space><%WeaponAction><pict 4space>로<br> 화려한 움직임으로 적의 공격을 회피<br> 회피와 동시에<br> 적을 공격하는 것도 가능<br>"""
+text0001_techter#0,"""완드 패리 :<br> 완드 장비 중<pict 4space><%WeaponAction><pict 4space>로<br> 적의 공격을 흘려보내며<br> 이동 중에도 패리 가능<br>"""

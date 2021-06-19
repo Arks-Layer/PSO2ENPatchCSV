@@ -1,0 +1,2 @@
+Title#0,"""서브 팔레트의 전환"""
+text0001#0,"""“서브 팔레트” 역시 여러 팔레트를 전환할 수 있습니다.<br>다음 단계로 전환할 수 있습니다.<br> · 메인 팔레트의 전환을 표시하기 : <% PaletteReverse> <pict 4space> 또는 < pict 4space> <% PaletteForce><br> · 서브 팔레트 전환을 표시하기 : <% SubPaletteLeft> <pict 4space> 또는 <pict 4space> <% SubPaletteRight><br> · 서브 팔레트 전환하기 : <% PaletteReverse> <pict 4space > 또는 <pict 4space> <% PaletteForce> <pict 4space>로 이동<br> · 서브 팔레트 결정하기 : 결정 (전환완료) : <% Decide>"""
