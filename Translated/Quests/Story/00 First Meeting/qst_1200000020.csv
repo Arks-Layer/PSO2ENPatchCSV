@@ -1,5 +1,5 @@
-name010#0,"""マノン"""
+name010#0,"""Manon"""
 text010#0,"""“レスタサイン”は、回復薬の代わりになるわ。"""
 text020#0,"""戦いで傷ついたときのために、<br>あなたも集めておくといいわね。"""
-Text_Access#0,"""レスタサインをとる："""
+Text_Access#0,"""Collect a Resta Sign: """
 Button_Access#0,"""<%Access>"""
