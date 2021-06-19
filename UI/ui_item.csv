@@ -1205,7 +1205,7 @@ FlagTicketAllRegistedCaption_2_1#0,"""Status: <yellow>Used on this character<c><
 FlagTicketAllRegistedCaption_3#0,"""Status: <yellow>Registered to your account<c><br>Can be used on all characters on this account."""
 FlagTicketAllRegistedCaption_10#0,"""Status: <yellow>Unused<c><br>When used, applies to all characters on this account."""
 TraceAlreadyIconText#0,"""Cannot be traded because it has been used with one of the following functions:<br>・Weapon Form change<br>・Unit Skill Addition"""
-RebootItemDetailsMessage#0,"""『ＰＳＯ２：ＮＧＳ』専用のアイテム。<br>『ＰＳＯ２：ＮＧＳ』のブロックに<br>移動すると使用可能になる。"""
+RebootItemDetailsMessage#0,"""This item is a [PSO2: NGS] exclusive<br>item. You can use this when you<br>move to a [PSO2: NGS] block."""
 MesetaDenomination#0,"""Meseta"""
 AcDenomination#0,""" AC"""
 CpDenomination#1,""" FUN"""
