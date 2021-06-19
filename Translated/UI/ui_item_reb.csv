@@ -308,7 +308,7 @@ ResultMessage2#0,"""The Grind of the $(2) was <c ff007f>Greatly Successful<c>.<b
 ResultMessage3#0,"""The $(3) was successfully Grinded.<br>The Grind Level increased from +$(2) to +$(1).<br><br>With the Grind Level exceeding $(0), the Special<br>Ability Slots were increased from $(5) to $(4)."""
 ResultMessage4#0,"""The Grind of the $(3) was <c ff007f>Greatly Successful<c>.<br><br>The Grind Level increased from +$(2) to +$(1).<br><br>With the Grind Level exceeding $(0), the Special<br>Ability Slots were increased from $(5) to $(4)."""
 ConfirmationAttentionMessage#0,"""You have selected material items that meet one of the below criteria. Are you sure you wish to continue?<br><br>・Items of rarity ★4 or higher<br>・Items that have reached their Grind Limit"""
-ConfirmationMessage#0,""This will begin the Grind process. Continue?<br><br>※You can use support items to increase the chances of a <red>Great Success<c>.<br>※If the Grind EXP gained exceeds the base item's maximum, the excess will be lost."""
+ConfirmationMessage#0,"""This will begin the Grind process. Continue?<br><br>※You can use support items to increase the chances of a <red>Great Success<c>.<br>※If the Grind EXP gained exceeds the base item's maximum, the excess will be lost."""
 Title#0,"""Item Lab"""
 LaboListTitle#0,"""Lab Menu"""
 Explanation1#1,"""Grind weapons and units, release potentials, add Special Abilities and more."""
