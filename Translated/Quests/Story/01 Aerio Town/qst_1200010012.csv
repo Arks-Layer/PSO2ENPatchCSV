@@ -1,6 +1,6 @@
 name010#0,"""Ral"""
-text010#0,"""問題なさそうだね。"""
-text020#0,"""今度は、Lock-Onするターゲットを切り替えてみて。<br>訓練標的を追加するから。"""
+text010#0,"""Nice, looking good."""
+text020#0,"""Now, try swapping to a different Lock-On target. I'll add more targets for you."""
 Text_Lock#0,"""Lock-On: """
 Button_Lock#0,"""<%LockOn>"""
 Text_Lock2#0,"""Switch Lock-On target: """
