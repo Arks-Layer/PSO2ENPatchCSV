@@ -369,7 +369,7 @@ ConfirmationAttentionMessage#1,"""Create Food with the following ingredients?<br
 ResultTitle#0,"""Boost Effect"""
 ResultMessage#0,"""The following Boost has been applied:"""
 RecipeMenuTitle#0,"""Recipe Selection"""
-RecipeSetNull#0,"""Save"""
+RecipeSetNull#0,"""New Recipe"""
 RecipeSet#0,"""Save Recipe"""
 RecipeMenu1#0,"""Use Recipe"""
 RecipeMenu2#0,"""Edit Recipe Name"""
