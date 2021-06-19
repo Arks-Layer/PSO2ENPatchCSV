@@ -1,7 +1,0 @@
-name010#0,"""マノン"""
-text010#0,"""あれは体表の硬いエネミーね。<br>“ダイブアタック”で動きを止めましょう。"""
-Text_dash#0,"""ダッシュアタック"""
-Button_dash#0,"""ダッシュ中に<pict 4space><%NormalAttack>"""
-Text_dive#0,"""ダイブアタック"""
-Button_dive#0,"""空中で<pict 4space><%Jump><pict 4space>を押しながら<pict 4space><%NormalAttack>"""
-Button_dive2#0,"""-"""
