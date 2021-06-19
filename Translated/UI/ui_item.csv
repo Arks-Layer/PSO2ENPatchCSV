@@ -2374,7 +2374,7 @@ CollectErrorMessage1#0,"""Could not collect earnings,<br>as you are carrying too
 CollectTitle#0,"""Collect Earnings"""
 CollectMessage#0,"""Collect the <pict reb_meseta> $(1) $(0)<br>you've earned from the Shop?"""
 ProceedsTitle#0,"""Total Earnings"""
-Blockade_name#0,"""-"""
+Blockade_name#0,"""$(0)"""
 Cash#3,"""Meseta"""
 Cost#1,"""Cost"""
 Title#22,"""Item Tekker"""
