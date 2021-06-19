@@ -1,6 +1,6 @@
 name010#0,"""Ral"""
-text010#0,"""ふむ……しっかり狙えているね。じゃあ、\""Step Attack\""はできるかな？"""
-text020#0,"""回避しながら、攻撃をしてみて。"""
+text010#0,"""Hm... nice, you're aiming right at it. Okay, can you do a \""Step Attack\""?"""
+text020#0,"""Try to attack while evading."""
 Text_Lock#0,"""Lock-On: """
 Button_Lock#0,"""<%LockOn>"""
 Text_Avoid#0,"""Evade: """

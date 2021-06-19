@@ -1,6 +1,6 @@
 name010#0,"""Aina"""
-text010#0,"""あたしたちの町に案内するね。<br>詳しい話はそこで。"""
-text020#0,"""向こうの崖まで、歩いて行けるかな？"""
+text010#0,"""I'll lead you to our village. We'll try to explain everything there."""
+text020#0,"""Are you able to walk? Just try to head towards the cliff in the distance."""
 Text_Move_Pad#0,"""Move: """
 Text_Move_Key#0,"""Move forward/backward: """
 Text_Move_Key2#0,"""Move left/right: """
