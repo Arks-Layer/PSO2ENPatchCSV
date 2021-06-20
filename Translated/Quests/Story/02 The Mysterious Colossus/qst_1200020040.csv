@@ -1,7 +1,7 @@
 name010#0,"""Manon"""
 text010#0,"""The cave entrance is up this hill. Let's go!"""
 Text_Dash#0,"""Dash: """
-Button_Dash_Pad#0,"""Press and hold <%Avoid> while moving"""
+Button_Dash_Pad#0,"""Press and hold <%Avoid><br>while moving"""
 Button_Dash_Key#0,"""Press a movement key twice """
 Button_Dash_Key2#0,"""and hold the second time"""
 Text_DashJump#0,"""Evade: """
