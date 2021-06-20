@@ -4,4 +4,3 @@ text101#0,"""4-я задача: <yellow>Выполните Just Reload в Just A
 train_title#0,"""4-я задача: <yellow>Выполнить Just Reload в Just Attack и удерживать 2 секунды"""
 tut_title#0,"""ジャストリロードについて"""
 text100#0,"""・Обычная атака <%NormalAttack><br>・В момент Just Attack<br>выполните Just Reload <%WeaponAction>"""
-text100_3b#0,"""・Обычная атака <%NormalAttack><br>・В момент Just Attack<br>выполните Just Reload <%MainPaletteC>"""
