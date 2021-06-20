@@ -1,5 +1,5 @@
-Text_DashJump#0,"""대쉬 점프:"""
-Button_DashJump#0,"""대쉬 도중 <%Jump>"""
+Text_DashJump#0,"""대시 점프:"""
+Button_DashJump#0,"""대시 도중 <%Jump>"""
 Text_DoubleJump#0,"""2단 점프:"""
 Button_DoubleJump#0,"""<%Jump> 후에 한번 더 <%Jump>"""
 name010#0,"""아이나"""
