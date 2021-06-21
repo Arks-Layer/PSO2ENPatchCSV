@@ -559,7 +559,7 @@ MenuMoveWarehouseAdditionOTP#0,"""<pict wh_otp_icon>Deposit in OTP Storage ($(1)
 MenuSendGuildWarehouse#0,"""<pict wh_icon_team>Deposit in Team Storage"""
 MenuTakeGuildWarehouse#0,"""Withdraw ($(1)/$(0))"""
 MenuMoveGuildWarehouse#0,"""<pict wh_icon_team>Deposit in Team Storage"""
-MenuMoveClassicItemPac#0,"""Deposit in PSO2 Item Pack（$(1)/$(0)）"""
+MenuMoveClassicItemPac#0,"""Deposit in PSO2 Inventory ($(1)/$(0))"""
 MenuSendWishList#0,"""ウィッシュリストに入れる"""
 MenuSendPresentList#0,"""プレゼントリストに入れる"""
 MenuHide#0,"""ステルス化"""
