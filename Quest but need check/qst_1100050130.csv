@@ -1,6 +1,6 @@
 name010#0,"""グイーデン"""
 name020#0,"""브루더"""
-text010#0,"""좋아 준비가 된 듯 하군.<br>포톤 블레스트를 훈련 목표에 발사해보게."""
+text010#0,"""좋아 준비가 된 듯 하군.<br>\""포톤 블레스트\""를 훈련 목표에 발사해보게."""
 Text_SubPallet1#0,"""서브 팔레트 선택: """
 Text_SubPallet2#0,"""서브 팔레트 사용: """
 Button_SubPallet1#0,"""<%SubPaletteLeft><pict 4space><%SubPaletteRight>"""
