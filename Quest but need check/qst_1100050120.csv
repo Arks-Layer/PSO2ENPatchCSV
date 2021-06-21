@@ -1,6 +1,6 @@
 name010#0,"""グイーデン"""
 name020#0,"""브루더"""
-text010#0,"""\'"포톤 블래스트\""를 사용해 보게."""
+text010#0,"""\""포톤 블래스트\""를 사용해 보게."""
 Text_SubPallet1#0,"""서브팔레트 선택: """
 Text_SubPallet2#0,"""서브팔레트 실행: """
 Button_SubPallet1#0,"""<%SubPaletteLeft><pict 4space><%SubPaletteRight>"""
