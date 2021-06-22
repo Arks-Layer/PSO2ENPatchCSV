@@ -63,7 +63,7 @@ Error_ImproperDataSaveMyFashion#0,"""現在の外見データに問題がある�
 Error_ImproperData_TypeNone#0,"""その他"""
 Error_ImproperData_TypeSelect#0,"""選択項目"""
 Error_ImproperData_TypeRace#0,"""種族"""
-Error_ImproperData_TypeSex#0,"""性別"""
+Error_ImproperData_TypeSex#0,"""タイプ"""
 Error_ImproperData_TypeVoice#0,"""ボイス選択"""
 Error_ImproperData_TypeSkinColor#0,"""肌カラー設定"""
 Error_ImproperData_SelectType_MainParts#0,"""コスチュームまたはボディ"""
