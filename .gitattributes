@@ -7,3 +7,4 @@
 /_aspell/PSO2.dict.BASE text
 /_aspell/*.dict text
 /release.sed text
+/filelist.txt text
