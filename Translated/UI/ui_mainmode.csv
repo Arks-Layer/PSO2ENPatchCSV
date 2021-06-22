@@ -3554,7 +3554,7 @@ SubClassChangeMessage#0,"""$(0) Lv.$(1)をサブクラスに選択します。<b
 SubClassChangeMessageVillain#0,"""$(0) Lv.$(1)をサブクラスに選択します。<br>サブクラスに選択すると、そのクラスの……<br> <br>\u3000・ステータスの能力値が少し加算されます。<br>\u3000・スキルが使用可能になります。<br>\u3000・テクニックが使用可能になります。<br>\u3000<yellow>※$(0)のPAは使用できません。<c><br><br>よろしいですか？"""
 SubClassChangeMessageMaster#0,"""$(0) Lv.$(1)をサブクラスに選択します。<br>サブクラスに選択すると、そのクラスの……<br> <br>\u3000・ステータスの能力値が少し加算されます。<br>\u3000・スキルが使用可能になります。<br>\u3000<yellow>※$(0)のPAは使用できません。<c><br><br>よろしいですか？"""
 SubClassChangeMessageSlayer#0,"""$(0) Lv.$(1)をサブクラスに選択します。<br>サブクラスに選択すると、そのクラスの……<br> <br>\u3000・ステータスの能力値が少し加算されます。<br>\u3000・スキルが使用可能になります。<br>\u3000<yellow>※$(0)のPAは使用できません。<c><br><br>よろしいですか？"""
-SubClassChangeSuccess#0,"""You have changed your Subclass."""
+SubClassChangeSuccess#0,"""You have changed your Sub Class."""
 ClassChangeMessage#0,"""Change your Class to $(0) Lv.$(1)?"""
 ClassChangeSuccess#0,"""Your Class has been changed."""
 ClassChangeFailed#0,"""現在クラスを変更することはできません。"""
