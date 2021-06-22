@@ -1001,7 +1001,7 @@ HandoverAddon1#0,"""<c ff9c70>ベースのアイテムから下記を引き継�
 HandoverAddon2#0,"""特殊能力は<br>ベースのアイテムから<br>引き継がれます。"""
 AcceptType#0,"""Supported"""
 ValueZero#0,"""(+0)"""
-ValueZeroNaked#0,"""+0"""
+ValueZeroNaked#0,"""＋0"""
 ValueZeroPercent#0,"""+0%"""
 PresetName#0,"""<c ff8750>$(0)<c>"""
 Default#0,"""Default Sort"""
