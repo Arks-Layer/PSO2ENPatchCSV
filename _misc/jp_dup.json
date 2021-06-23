@@ -4070,12 +4070,7 @@
   ],
   "\"お気に入り\"": [
     "ui_equip.csv::AccessoryTab_Favorite#0",
-    "ui_equip.csv::FashionTab_Favorite#0",
-    "ui_mainmode.csv::Mag_ModelSort2#0"
-  ],
-  "\"お気に入りに登録\"": [
-    "ui_equip.csv::Favorite_Add#0",
-    "ui_mainmode.csv::Mag_MenuPopup2#0"
+    "ui_equip.csv::FashionTab_Favorite#0"
   ],
   "\"お気をつけて。\"": [
     "np_npc_7619_001.csv::HELLO_BYE#0",
@@ -11954,11 +11949,6 @@
     "ui_item.csv::item_MagTAProb_4#1",
     "ui_item.csv::item_MagTAProb_5#1"
   ],
-  "\"マグの設定\"": [
-    "ui_mainmode.csv::Mag_ListTitle#0",
-    "ui_mainmode.csv::Menu_Mag#0",
-    "ui_mainmode.csv::Title#15"
-  ],
   "\"マグデバイス\"": [
     "ui_item.csv::Device#0",
     "ui_item.csv::SubCategoryOtherDevice#0"
@@ -11997,10 +11987,6 @@
     "quest_01200040.csv::Title#0",
     "quest_01200050.csv::SimpleExplanation#0",
     "quest_01200050.csv::Title#0"
-  ],
-  "\"マグメニュー\"": [
-    "ui_mainmode.csv::MainMenu_MugMenu#0",
-    "ui_mainmode.csv::Menu_MagTitle#0"
   ],
   "\"マザーシップ\"": [
     "ui_item.csv::RangeArea_022#0",
@@ -14447,8 +14433,7 @@
   ],
   "\"名前順\"": [
     "ui_item.csv::CharacterCode#0",
-    "ui_mainmode.csv::FriendList_Sort_Name#0",
-    "ui_mainmode.csv::Mag_ModelSort3#0"
+    "ui_mainmode.csv::FriendList_Sort_Name#0"
   ],
   "\"名称未設定潜在能力\"": [
     "ui_item.csv::item_BreakAttack_1#0",
@@ -16897,7 +16882,6 @@
   "\"標準ソート\"": [
     "ui_item.csv::CraftTypeNormal#0",
     "ui_item.csv::Default#0",
-    "ui_mainmode.csv::Mag_ModelSort1#0",
     "ui_mainmode.csv::SortAsDefault#0",
     "ui_mainmode.csv::Window_FasttravelTerminal_8_16#0",
     "ui_rebops.csv::SORT_NORMAL#0"
@@ -18416,7 +18400,6 @@
     "config.csv::Config_Reb_092_Select_0#0",
     "config.csv::RadioButtonButtonResetOff#0",
     "config.csv::RadioButtonHide#0",
-    "ui_mainmode.csv::Mag_ShowType1#0",
     "ui_selectmenu_text.csv::OnlineStatus_1#0"
   ],
   "\"表示する\"": [
@@ -18442,8 +18425,7 @@
     "config.csv::Config_Reb_091_Select_1#0",
     "config.csv::Config_Reb_092_Select_1#0",
     "config.csv::RadioButtonButtonResetOn#0",
-    "config.csv::RadioButtonShow#0",
-    "ui_mainmode.csv::Mag_ShowType0#0"
+    "config.csv::RadioButtonShow#0"
   ],
   "\"表示なし\"": [
     "config.csv::Config_085_Choices_2#0",
@@ -18469,10 +18451,6 @@
   "\"表示形式の切り替え\"": [
     "ui_mainmode.csv::CharaMenu_TypeChange#0",
     "ui_mainmode_reb.csv::CharaMenu_TypeChange#0"
-  ],
-  "\"表示設定\"": [
-    "config.csv::MenuButtonDrawDisplay#0",
-    "ui_mainmode.csv::Mag_SubTitle1#0"
   ],
   "\"被ダメージ率\"": [
     "ui_mainmode.csv::AISResistdown#0",
