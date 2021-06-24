@@ -1,0 +1,8 @@
+Title#0,"""플레이 실적"""
+TitleQuestTotal#0,"""퀘스트 클리어 횟수"""
+TitleMissCount#0,"""전투 불능 횟수"""
+TitlePlayTimeTotal#0,"""총 플레이 시간"""
+Count#0,"""$(0)회"""
+PlayTime#0,"""$(0)시간 $(1)분"""
+TitlePlayTime_Classic#0,"""『PSO2』 플레이 시간"""
+TitlePlayTime_Reboot#0,"""『PSO2：NGS』 플레이 시간"""
