@@ -1,7 +1,7 @@
 Cocoon_Fail_None#0,"""None"""
 Cocoon_Fail_Time#0,"""Time Limit: $(0)"""
 Cocoon_Fail_Fall#0,"""Failures: $(0)"""
-Cocoon_Fail_Dead#0,"""Incapacities: $(0)"""
+Cocoon_Fail_Dead#0,"""Incapacitations: $(0)"""
 Cocoon_Main_Goal#0,"""Reach the Finish Point"""
 Cocoon_Main_Target#0,"""Defeat: $(0)"""
 Cocoon_Main_TargetVolume#0,"""$(0)を$(1)体倒す"""
