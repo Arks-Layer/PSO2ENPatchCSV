@@ -17,7 +17,7 @@ subobjective_progress_fifty_percent#0,"""Reached 50% progress for the goal: \""$
 subobjective_progress_eighty_percent#0,"""Reached 80% progress for the goal: \""$(0)\"""""
 subobjective_appeared#0,"""New Goal: \""$(0)\""."""
 subobjective_achieved#0,"""Completed the New Goal: \""$(0)\""."""
-multi_tasks_accepted#0,"""Received multiple Task Orders"""
+multi_tasks_accepted#0,"""Received multiple Task Orders."""
 task_accepted#0,"""Accepted the Task: \""$(0)\""."""
 focused_task#0,"""Displaying Guide Info for the Task: \""$(0)\""."""
 focused_task_error#0,"""Failed to display Guide Info for the Task: \""$(0)\""."""
