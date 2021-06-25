@@ -820,7 +820,7 @@ EnterConfirmMessage6#0,"""You cannot chat while in the Beauty Salon.<br>※Any c
 FightingPower#0,"""Power Level"""
 AttackPower#0,"""Attack Power"""
 DefencePower#0,"""Defense Power"""
-Label_WeaponRise#0,"""Weapon Upgrades"""
+Label_WeaponRise#0,"""Weapon Boosts"""
 Labal_Resist_Condition#0,"""Status Resists"""
 ValueZeroPercent#0,"""+0%"""
 Param_ComparePlus_Percent#0,"""<light_orange2>+$(0)%<c>"""
