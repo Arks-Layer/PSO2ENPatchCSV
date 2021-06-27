@@ -1,4 +1,4 @@
 Title#0,"""공격 액션 조작"""
-text0001#0,"""일반 공격 : <%NormalAttack><br>PA（포톤 아츠） / 테크닉 : <%PhotonArts><br>차지PA : <%PhotonArts><pict 4space>길게 누르기<br>뒷면 팔레트 PA : <%WeaponAction_2><pict 4space>를 누르면서<pict 4space><%NormalAttack>"""
+text0001#0,"""통상 공격 : <%NormalAttack><br>PA（포톤 아츠） / 테크닉 : <%PhotonArts><br>차지PA : <%PhotonArts><pict 4space>길게 누르기<br>뒷면 팔레트 PA : <%WeaponAction_2><pict 4space>를 누르면서<pict 4space><%NormalAttack>"""
 text0002#0,"""록온 : <%LockOn><br>록온 변경 : <%LockOn>"""
 text0003#0,"""대시어택 : 대시 중<pict 4space><%NormalAttack><br>스텝어택 : <%Avoid><pict 4space> 직후 <pict 4space><%NormalAttack><br>다이브어택 : 공중에서<pict 4space><%Jump><pict 4space>를 누르면서<pict 4space><%NormalAttack>"""

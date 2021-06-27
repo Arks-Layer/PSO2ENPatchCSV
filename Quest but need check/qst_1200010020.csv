@@ -1,7 +1,7 @@
 name010#0,"""랄"""
 text010#0,"""음… 정확하게 조준하고 있네. 그럼 \""스텝 어택\""은 할 수 있어?"""
 text020#0,"""피하면서 공격을 해봐."""
-Text_Lock#0,"""록 온: """
+Text_Lock#0,"""록온: """
 Button_Lock#0,"""<%LockOn>"""
 Text_Avoid#0,"""회피: """
 Button_Avoid_Pad#0,"""<%Avoid>"""
