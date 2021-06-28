@@ -1368,7 +1368,7 @@ BuyMessage1#0,"""「$(1)」を$(2)$(0)で購入します。<br>よろしいで�
 BuyMessage2#0,"""「$(1)×$(2)」を$(3)$(0)で購入します。<br>よろしいですか？"""
 BuyMessage3#0,"""Item(s) will cost $(1)<pict 4space>$(0)<br>Continue?"""
 EquipableCheck#0,"""Can Equip"""
-CarryNumber#0,"""現在の所持数：$(0)"""
+CarryNumber#0,"""Number owned: $(0)"""
 Discount#0,"""-$(0)%"""
 NameNumber#0,"""$(0)×$(1)"""
 TotalNumberInventoryTitle#0,"""Inventory"""
