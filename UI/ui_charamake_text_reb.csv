@@ -115,7 +115,7 @@ Operation_CategoryMenu#0,"""Select: <%Decide>\u3000Cancel: <%Cancel>\u3000Change
 Key_Category_Preset#0,"""Manage Creation Data"""
 Help_Category_Preset#0,"""Save and Load Creation Data."""
 Key_Category_Face#0,"""Edit Head"""
-Help_Category_Face#0,"""Change your Hairstyle and alter your eyes."""
+Help_Category_Face#0,"""Change your hairstyle and alter your eyes."""
 Key_Category_Body#0,"""Edit Body"""
 Help_Category_Body#0,"""Alter your Body Shape and your skin color."""
 Key_Category_Fashion#0,"""Edit Fashion"""
