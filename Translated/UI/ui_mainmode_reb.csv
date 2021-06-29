@@ -830,7 +830,7 @@ PartyMenuText06#0,"""$(0)から、集合の要請がありました。<br>$(1)�
 PartyConfigLabel25#0,"""<pict icon_voice_chat> Voice Chat Recommended"""
 PartyConfigLabel26#0,"""Party Settings"""
 PartyConfigLabel27#0,"""Current Settings"""
-Block_help_ClassicBlock#0,"""Go back to the PSO2 Blocks."""
+Block_help_ClassicBlock#0,"""Go back to the [PSO2] Blocks."""
 Block_help_Beginner#0,"""ビギナーの方が楽しむためのブロックです。<br>手助けしてくれるベテランプレイヤーも大歓迎！<br>※マッチングはビギナーブロック限定で行なわれます。"""
 Block_help_Normal#0,"""$(0)リージョンで冒険をしたい方どうしが<br>集まるためのブロックです。<br>※マッチングは同一リージョンのブロック間で行なわれます。"""
 Block_help_Stream#0,"""$(0)リージョンで撮影・配信を行う場合に利用を推奨。<br>プレイ中のキャラクターがメディアで公開される場合があります。<br>※マッチングは撮影推奨ブロック限定で行なわれます。"""
