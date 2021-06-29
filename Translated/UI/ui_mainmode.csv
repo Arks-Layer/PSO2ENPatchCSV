@@ -2642,7 +2642,7 @@ ShowTimeStar#1,"""During Showtime, boosts your maximum PP when twin machineguns 
 HighTime#1,"""Grants a power bonus during Showtime, over time. Resets upon taking a damage in a short time. <yellow>Main Class only.<c>"""
 GunnerZeroRangeCritical#1,"""Boosts critical rates for shots fired at close range."""
 TwiceChain#1,"""Double chain accumulation for Twin Machinegun attacks."""
-ChainFinishBonus#1,"""Reduce Chain Trigger cooldown based on chain count upon activating Chain Finish."""
+ChainFinishBonus#1,"""Reduce Chain Trigger cooldown based on Chain Count upon activating Chain Finish."""
 OnemoreTime#1,"""When Showtime expires without being hit, Showtime will be reactivated up to one more time."""
 GunnerDiverollShoot#1,"""Enables attack actions during Dive Roll."""
 MasteryTwinmachinegun#1,"""Increases PP regeneration and critical hit damage while using Twin Machineguns. <yellow>Main Class only.<c>"""
