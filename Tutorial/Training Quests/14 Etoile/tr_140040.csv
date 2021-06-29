@@ -1,5 +1,5 @@
 name01#0,"""Xiera"""
-text01#0,"""Some class skills <red>change the Double Saber's actions<c> when you learn them!"""
+text01#0,"""Some Class Skills <red>change the Double Saber's actions<c> when you learn them!"""
 text02#0,"""One of them is <red>\""Skip Arts\""<c>."""
 text03#0,"""When you learn Skip Arts, you can <red>skip the first half of a PA<c> to quickly get to the second half!"""
 text04#0,"""After learning Skip Arts, you will only perform the first half of a PA if you use it while entering movement input."""
