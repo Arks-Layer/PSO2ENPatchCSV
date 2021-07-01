@@ -41,7 +41,7 @@
 01_MainLobby_041#0,"""Make sure to check for Client Orders before you go on a quest, they might reward you with extra experience."""
 01_MainLobby_042#0,"""Even during quests, you can send items to your Storage via the item menu."""
 01_MainLobby_043#0,"""By using [Alt]+[←]/[→], you can change the desired chat channel quickly."""
-01_MainLobby_044#0,"""By using [Ctrl]+[←]/[→], you can change which channels you'll see in the log window."""
+01_MainLobby_044#0,"""By using [Ctrl]+[←]/[→], you can change which channels you'll see in the Log Window."""
 01_MainLobby_045#0,"""Using the keyboard, you can recall past sent messages using [Ctrl]+[↑]/[↓] while in the chat box."""
 01_MainLobby_046#0,"""Using the keyboard, you can send your message with a cut-in by pressing [Shift] + [Enter]."""
 01_MainLobby_047#0,"""Using the keyboard, you can send your message with a cartoon/balloon shape by pressing [Ctrl] + [Enter]."""
