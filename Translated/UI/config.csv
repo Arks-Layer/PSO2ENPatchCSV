@@ -736,7 +736,7 @@ Config_074_Hint#0,"""Filters the type of Autowords are allowed to be displayed o
 Config_075_Name#0,"""Member"""
 Config_076_Name#0,"""Action"""
 Config_077_Name#0,"""Public"""
-Config_077_Hint#0,"""Filters the type of Chat that is allowed to be shown under the Show All display tab in the log window."""
+Config_077_Hint#0,"""Filters the type of Chat that is allowed to be shown under the Show All display tab in the Log Window."""
 Config_078_Name#0,"""Party"""
 Config_079_Name#0,"""Team"""
 Config_080_Name#0,"""Whisper"""
