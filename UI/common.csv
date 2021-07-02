@@ -1476,7 +1476,7 @@ BlockForm_ToBattleLobby_Exp#0,"""You will be automatically withdrawn from your<b
 BlockForm_BattleLobbyToBattleLobby_Exp#0,"""Matchmaking will be canceled<br>if you move to a Battle Block.<br><br>Change blocks?"""
 BlockForm_BattleLobbyToBattleLobby_Exp_NoMatching#0,"""This will move you to another Battle Block.<br>Continue?<br><br><c c0c0c0>※Matchmaking in the Battle Arena uses all blocks,<br>so moving to a different block will not change<br>the matchmaking results.<c>"""
 AreaForm_BridgeArea_Exp#0,"""Transfer to the Bridge?"""
-AreaForm_CafeArea_Exp#0,"""Do you want to go to Franka's Cafe?"""
+AreaForm_CafeArea_Exp#0,"""Do you want to go to Franca's Cafe?"""
 Bond_message#0,"""$(0)<br><br>$(1)"""
 InPublicShipToast#0,"""Temporarily switched to common ship use."""
 InChallengeShipToast#0,"""Temporarily changed to Challenge Ship settings."""
