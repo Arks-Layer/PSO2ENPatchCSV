@@ -1,4 +1,4 @@
 train_title#0,"""Task 1: <yellow>Just Attack a Technique"""
 tut_title#0,"""Techniques"""
-text100#0,"""・Use a normal attack with <%NormalAttack><br>・When you see the red circle,<br>\u3000cast a Technique with <%PhotonArts>"""
-text100_3b#0,"""・Use a normal attack with <%NormalAttack><br>・When you see the red circle,<br>\u3000cast a Technique with <%PhotonArts> or <%MainPaletteC>"""
+text100#0,"""・Use a Normal Attack with <%NormalAttack><br>・When you see the red circle,<br>\u3000cast a Technique with <%PhotonArts>"""
+text100_3b#0,"""・Use a Normal Attack with <%NormalAttack><br>・When you see the red circle,<br>\u3000cast a Technique with <%PhotonArts> or <%MainPaletteC>"""

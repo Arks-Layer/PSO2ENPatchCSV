@@ -1,4 +1,4 @@
 train_title#0,"""Task 4: <yellow>Activate a Shift Action"""
 tut_title#0,"""Shift Actions"""
-text100#0,"""・Use a normal attack with <%NormalAttack><br>・Activate a Shift Action by<br>\u3000pressing <%WeaponAction> during a normal<br>\u3000attack"""
-text100_3b#0,"""・Use a normal attack with <%NormalAttack><br>・Activate a Shift Action by<br>\u3000pressing <%MainPaletteC> during a normal<br>\u3000attack"""
+text100#0,"""・Use a Normal Attack with <%NormalAttack><br>・Activate a Shift Action by<br>\u3000pressing <%WeaponAction> during a normal<br>\u3000attack"""
+text100_3b#0,"""・Use a Normal Attack with <%NormalAttack><br>・Activate a Shift Action by<br>\u3000pressing <%MainPaletteC> during a normal<br>\u3000attack"""
