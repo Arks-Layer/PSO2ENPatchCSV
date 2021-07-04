@@ -191,7 +191,7 @@ CraftAchievementMessage#0,"""$(0) Achievements<br>$(1) unlocked.<br><br>You can 
 CraftLevelUpMessage#0,"""<yellow>$(0)<c> leveled up! It is now <yellow>Lv.$(1)<c>."""
 GetCraftRecipeMessage#0,"""The following recipes have been learned:"""
 Rarity#0,"""Rarity"""
-Element#0,"""Special abilities"""
+Element#0,"""Special Abilities"""
 ReviseParameter#0,"""Stat modifier"""
 FullSizeTitleExtend#0,"""Extend Equipment"""
 FullSizeTitleTechnicCustomize#0,"""Customize Technique"""
