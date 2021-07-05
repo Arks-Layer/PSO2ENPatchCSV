@@ -750,7 +750,7 @@ SendWarehouseErrorMessage11#0,"""PSO2esとの連動を確認できなかった�
 SendWarehouseErrorMessage12#0,"""移動先のExtra Storage が読み込まれていません。<br>移動先のExtra Storage を読み込んでから、<br>移動してください。"""
 SendWarehouseErrorMessage13#0,"""Extra Storage 間のアイテム移動はできません。<br>アイテムパックや他の倉庫を中継して<br>移動してください。"""
 SendWarehouseErrorMessage14#0,"""These items cannot be deposited in Material Storage."""
-AllSendWarehouseDishErrorMessage#0,"""「素材倉庫」が利用可能な状態ではありません。<br>「素材倉庫利用チケット」を使用して、<br>利用可能な状態にしてください。"""
+AllSendWarehouseDishErrorMessage#0,"""Material Storage is not available for use.<br>Please use a Material Storage Ticket to make it available."""
 MoveWarehouseErrorMessage7#0,"""このアイテムを素材倉庫に移動させることはできません。"""
 MoveWarehouseErrorMessage8#0,"""素材倉庫から他の倉庫に<br>直接アイテムを移動することはできません。<br>一度アイテムパックに取り出してから<br>移動してください。<br><yellow>※今後のアップデートで対応予定です。<c>"""
 MoveWarehouseErrorMessage9#0,"""他の倉庫から素材倉庫に<br>直接アイテムを移動することはできません。<br>一度アイテムパックに取り出してから<br>移動してください。<br><yellow>※今後のアップデートで対応予定です。<c>"""
