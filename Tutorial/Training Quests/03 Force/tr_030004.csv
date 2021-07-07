@@ -5,5 +5,5 @@ text03#0,"""When you see the Just Attack circle, start charging a Technique, the
 text101#0,"""Task 3: <yellow>Just Attack with a charged Technique"""
 train_title#0,"""Task 3: <yellow>Just Attack with a charged Technique"""
 tut_title#0,"""Charged Techniques"""
-text100#0,"""・Use a normal attack with <%NormalAttack><br>・When you see the red circle,<br>\u3000charge a Technique with <%PhotonArts>,<br>\u3000then cast it"""
-text100_3b#0,"""・Use a normal attack with <%NormalAttack><br>・When you see the red circle, charge<br>\u3000a Technique with <%PhotonArts> or <%MainPaletteC>, then cast it"""
+text100#0,"""・Use a Normal Attack with <%NormalAttack><br>・When you see the red circle,<br>\u3000charge a Technique with <%PhotonArts>,<br>\u3000then cast it"""
+text100_3b#0,"""・Use a Normal Attack with <%NormalAttack><br>・When you see the red circle, charge<br>\u3000a Technique with <%PhotonArts> or <%MainPaletteC>, then cast it"""

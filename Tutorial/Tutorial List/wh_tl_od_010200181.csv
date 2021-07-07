@@ -1,4 +1,4 @@
 name01#0,"""Wands"""
-text01#0,"""Wands are tech weapons with strong normal attacks.<br><br>They can quickly recover PP to cast Techniques by striking enemies with powerful area of effect attacks.<br><br><%WeaponActionText>: Switch palettes."""
+text01#0,"""Wands are tech weapons with strong Normal Attacks.<br><br>They can quickly recover PP to cast Techniques by striking enemies with powerful area of effect attacks.<br><br><%WeaponActionText>: Switch palettes."""
 text02#0,"""This explains the Wand Gear system.<br><br>When you learn the skill \""Wand Gear\"", a Gear Gauge is added to the top of your Weapon Palette.<br><br>You can fill the Gear Gauge by hitting enemies with charged Techniques."""
-text03#0,"""As the Gear Gauge fills, a damaging elemental explosion is added to your normal attacks, giving you an advantage in battle.<br><br>The Wand Gear Gauge empties slowly over time, so keep casting charged Techniques while you fight."""
+text03#0,"""As the Gear Gauge fills, a damaging elemental explosion is added to your Normal Attacks, giving you an advantage in battle.<br><br>The Wand Gear Gauge empties slowly over time, so keep casting charged Techniques while you fight."""
