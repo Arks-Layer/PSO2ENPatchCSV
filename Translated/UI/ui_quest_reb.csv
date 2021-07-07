@@ -70,7 +70,7 @@ Mes_Matching_Election_Error1#0,"""クエスト即時開始の再提案が可能�
 Mes_Matching_Election_Error2#0,"""一度投票を否決されたプレーヤーは<br>再度投票を開始できません。"""
 Mes_Matching_Election_Error3#0,"""この機能はパーティーリーダーのみが使用できます。"""
 Mes_Matching_Election_Com3#0,"""Depart Immediately"""
-Mes_Matching_Election_Countdown1#0,""":(0) second(s) left"""
+Mes_Matching_Election_Countdown1#0,""": $(0) second(s) left"""
 Mes_Matching_Election_Title#0,"""クエスト即時開始の同意"""
 Mes_Matching_Election_Msg2#0,"""最大参加人数に満たない状態ですが、<br>クエストの即時開始に同意しますか？<br>あと$(0)回反対すると、マッチングから離脱します。<br>"""
 Mes_Matching_Election_Countdown2#0,"""<center>Time Remaining: $(0) second(s)</center>"""
