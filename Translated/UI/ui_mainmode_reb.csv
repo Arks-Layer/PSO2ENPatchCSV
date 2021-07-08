@@ -132,7 +132,7 @@ RangerGaugeShotGunAway#0,"""Adds invincibility time when you activate Spread Sho
 RangerWeakBullet#0,"""<yellow>[Active Skill]<c><br>Fires a bullet that temporarily boosts damage dealt to the part it hits.<br><yellow>※Main Class/Assault Rifle only.<c>"""
 RangerWeakBulletParse#0,"""Hiting a part affected by Weak Bullet enough times boosts damage dealt to that part even more and extends the duration of the effect.<br><yellow>※Main Class only.<c>"""
 RangerWeaponActionAvoid#0,"""Grants temporary invincibility when you activate your Weapon Action.<br><yellow>※Assault Rifle only.<c>"""
-RangerGrenadeTrap#0,"""Hold the Weapon Action button to attack with a grenade. If you input a direction, you fire the grenade. Otherwise, you set it as a mine.<br><yellow>※Assault Rifle only.<c>"""
+RangerGrenadeTrap#0,"""Hold the Weapon Action button to attack with a grenade. If you input a direction, you throw the grenade. Otherwise, you set it as a mine.<br><yellow>※Assault Rifle only.<c>"""
 RangerRangeBonus#0,"""仮テキスト"""
 RangerDownChain#0,"""仮テキスト"""
 RangerWeakHitAdvance#0,"""仮テキスト"""
