@@ -919,7 +919,7 @@
     "trial_apc_7908001.csv::Begin_v2#1",
     "trial_apc_7908001.csv::Begin_v2#2"
   ],
-  "\"/ci1 2 なんで、こんなにエネミーが……。\"": [
+  "\"/ci1 2 Uh-oh. This isn't what I expected...\"": [
     "trial_apc_7001001.csv::Begin_7002001_v3#0",
     "trial_apc_7903001.csv::Begin_7002001#0",
     "trial_apc_7903001.csv::Begin_7002001_v3#0",
@@ -946,7 +946,7 @@
     "trial_apc_7908001.csv::Begin_7002001_v3#1",
     "trial_apc_7908001.csv::Begin_7002001_v3#2"
   ],
-  "\"/ci2 1 ……ありがとう。助かったわ。<br>これからもよろしく。\"": [
+  "\"/ci2 1 ...Thanks for the help. Good luck out there.\"": [
     "trial_apc_7001001.csv::Success#0",
     "trial_apc_7001001.csv::Success_v2#0",
     "trial_apc_7903001.csv::Success#0",
@@ -974,7 +974,7 @@
     "trial_apc_7908001.csv::Success_v2#1",
     "trial_apc_7908001.csv::Success_v2#2"
   ],
-  "\"/ci2 1 ふう……、なんとかなったわね。\"": [
+  "\"/ci2 1 Phew... Looks like we made it.\"": [
     "trial_apc_7001001.csv::Success_7002001_v3#0",
     "trial_apc_7903001.csv::Success_7002001#0",
     "trial_apc_7903001.csv::Success_7002001_v3#0",
@@ -1005,7 +1005,7 @@
     "ui_mainmode.csv::Tu_003#0",
     "ui_mainmode.csv::Tu_010#0"
   ],
-  "\"/ci4 3 ……こ、こんなところで……。\"": [
+  "\"/ci4 3 No... not here...\"": [
     "trial_apc_7001001.csv::BuddyDead_7002001#0",
     "trial_apc_7001001.csv::BuddyDead_7002001_v3#0",
     "trial_apc_7001001.csv::Dead_7002001#0",
@@ -1085,13 +1085,13 @@
     "trial_apc_7908001.csv::Dead_7904001#0",
     "trial_apc_7908001.csv::Dead_7904001#1"
   ],
-  "\"/ci4 3 うぅ……こんなはずでは……。\"": [
+  "\"/ci4 3 No... Not like this...\"": [
     "trial_apc_7002001.csv::BuddyDead_7001001#0",
     "trial_apc_7002001.csv::BuddyDead_7001001_v3#0",
     "trial_apc_7002001.csv::Dead_7001001#0",
     "trial_apc_7002001.csv::Dead_7001001_v3#0"
   ],
-  "\"/ci4 3 くっ……少し攻撃を受けすぎたわ……。<br>ここは、後退せてもらうわね。\"": [
+  "\"/ci4 3 Ngh... I think I might have broke something... I'm just gonna make my way back to the City, okay?\"": [
     "trial_apc_7001001.csv::Failure_7002001#0",
     "trial_apc_7001001.csv::Failure_7002001_v3#0",
     "trial_apc_7903001.csv::Failure_7002001#0",
@@ -1119,7 +1119,7 @@
     "trial_apc_7908001.csv::Failure_7002001_v3#1",
     "trial_apc_7908001.csv::Failure_7002001_v3#2"
   ],
-  "\"/ci4 3 これ以上は危険よ！<br>ごめんなさい、先に撤退するわね。\"": [
+  "\"/ci4 3 Things are looking bad! Sorry, I have to retreat.\"": [
     "trial_apc_7001001.csv::Failure#0",
     "trial_apc_7001001.csv::Failure_v2#0",
     "trial_apc_7903001.csv::Failure#0",
@@ -1147,7 +1147,7 @@
     "trial_apc_7908001.csv::Failure_v2#1",
     "trial_apc_7908001.csv::Failure_v2#2"
   ],
-  "\"/ci5 3 うぅ……こんなはずでは……。\"": [
+  "\"/ci5 3 No... Not like this...\"": [
     "trial_apc_7001001.csv::Dead#0",
     "trial_apc_7001001.csv::Dead_v2#0",
     "trial_apc_7903001.csv::Dead#0",
