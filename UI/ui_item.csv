@@ -1816,7 +1816,7 @@ ItemError_NoAwakening#0,"""No items that support S-Class Special Abilities found
 ItemError_Locked#0,"""Locked items cannot be selected."""
 ItemError_UnmatchElement#0,"""付与されている特殊能力のタイプが<br>1つ目のアイテムに対応していないため<br>選択できません。"""
 ButtonText_1st#0,"""Next Item"""
-ButtonText_2nd#0,"""Decide"""
+ButtonText_2nd#0,"""Confirm"""
 Message_Confirm#0,"""Now beginning S-Class Special Ability Transfer.<br>Is this OK?<br><br>※Special Abilities not added to items will be <c ff4f3f>lost<c>."""
 Message_ConfirmOwner#0,"""※When you transfer abilities, <yellow>ownership of the items will be registered<c>, making them unable to be traded with other players."""
 ResultMessage1#0,"""S-Class Special Abilities <green>successfully<c> transferred."""
