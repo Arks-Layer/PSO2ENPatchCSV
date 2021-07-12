@@ -1716,7 +1716,7 @@ AccessConfirm_Vita#0,"""Webページへ移動します。<br>ログアウトし�
 AccessConfirmTitle_Vita#0,"""ブラウザー起動確認"""
 Yes#0,"""Yes"""
 No#0,"""No"""
-Decide#0,"""Accept"""
+Decide#0,"""Confirm"""
 Cancel#0,"""Cancel"""
 Next#0,"""Next"""
 Prev#0,"""Prev."""
