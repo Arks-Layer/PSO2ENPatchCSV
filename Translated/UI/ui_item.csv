@@ -1690,7 +1690,7 @@ SupportConfirmMessage#0,"""補助アイテムで追加した特殊能力が<br>�
 CheckLockMessage#1,"""Hide Locked Items"""
 CheckLockMessage_VITA#1,"""Hide Locked: <pict Sign_SQUARE>"""
 ComposeMessage3#0,"""Adding Special Abilities. Is that okay?<br><yellow>※Success rate is lower due to use of the extra slot.<c><br><br>※You may increase the success rate<br>\u3000or protect your items in case of<br>\u3000failure by using support items.<br>(Support items will be consumed <yellow>even if synthesis is successful<c>.)"""
-ComposeSupport2#0,"""Protection items"""
+ComposeSupport2#0,"""Protection Items"""
 ExtraSlotMixMessage#0,"""You've used an extra slot, so success rates are lowered."""
 Switch_Vita#1,"""<pict Sign_SQUARE> switch"""
 ComposeResultObject#0,"""Items to be added with Special Abilities"""
