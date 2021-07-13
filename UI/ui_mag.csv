@@ -60,7 +60,7 @@ ChangeLooksMsg1#0,"""マグに進化デバイスを与えて<br>以下のよう�
 UseDeviceMsg#0,"""Used \""$(0)\""."""
 ResetDeviceMsg#0,"""This will restore the Mag to its basic state. <br>Do you really want to use this?"""
 Error#0,"""Unable to use \""$(0)\""."""
-ErrorHT#0,"""Cannot use until Mag is Lv. 100."""
+ErrorHT#0,"""Cannot use until Mag is Lv.100."""
 ErrorCraftDevice#0,"""Only one production device can be set."""
 ErrorLevelCap#0,"""You have reached the level limit, so<br>this cannot be used."""
 ErrorAddTA#0,"""This device cannot be used any further."""
