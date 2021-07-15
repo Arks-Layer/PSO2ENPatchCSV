@@ -459,7 +459,7 @@ Explanation2_v#0,"""<c f0df60>Search for items that other players are selling.<c
 Explanation3_v#0,"""<c f0df60>When you select an item, you will be taken to the shop in which that item is listed.<c>"""
 Explanation4_v#0,"""<c f0df60>購入したいアイテムを<%Decide><c f0df60>で選びます。「購入」ボタンで精算が行われます。<c>"""
 Explanation5#0,"""<c f0df60>プレイヤーIDネーム、キャラクター名、広告文からキーワード検索ができます。検索先を選択後、キーワードを入力してください。<c>"""
-Label_Item_Num#0,"""No. of Items Selected"""
+Label_Item_Num#0,"""Current Possession"""
 Label_Item_Capacity#0,"""Inventory Capacity"""
 SubCategoryLayeringCostumeBaseWear#0,"""Basewear & Setwear"""
 SubCategoryConsumeMouthTeeth#0,"""Mouth & Teeth"""
