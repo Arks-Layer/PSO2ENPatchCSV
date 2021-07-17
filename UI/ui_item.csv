@@ -1266,7 +1266,7 @@ Explanation5_v#0,"""<c f0df60>Select the items you wish to sell with <%Decide>. 
 Explanation6#1,"""<c f0df60>Select Storage, then select items to sell with up/down, then quantity with left/right. Once all are selected, press <%Decide><c f0df60> to sell.<c>"""
 Explanation6_v#0,"""<c f0df60>Select Storage, then select the items you wish to sell with <%Decide>. Then press \""Sell\"" when finished.<c><c>"""
 Explanation7#0,"""<c f0df60>Select items to repurchase with up/down, then quantity with left/right. Once all are selected, press <%Decide><c f0df60> to repurchase.<c>"""
-Explanation7_v#0,"""<c f0df60>Select items to buy back with <%Decide>. Then press \""Buy Back\"" when finished.<c>"""
+Explanation7_v#0,"""<c f0df60>Select items to buyback with <%Decide>. Then press \""Buyback\"" when finished.<c>"""
 Explanation8#0,"""<c f0df60>You can purchase special items.<c>"""
 Back#1,"""Return"""
 NanonBadge#0,"""Exchange Badges"""
