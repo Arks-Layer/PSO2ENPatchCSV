@@ -125,7 +125,7 @@ WarehouseAddition06_sell#0,"""<pict wh_extend6_icon> Sell from Expansion Storage
 WarehouseDrop_sell#0,"""Sell from Quest Storage"""
 Bay#0,"""Purchase"""
 Sell#0,"""Sell"""
-BayBuck#0,"""Buy Back"""
+BayBuck#0,"""Buyback"""
 Buck#0,"""Return"""
 Decision#0,"""Confirm"""
 Recommended#0,"""Recommendation"""
