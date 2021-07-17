@@ -1486,7 +1486,7 @@ BlockForm_PublicShip_Exp_HighLevelQuest#0,"""<red>受注中のクエストは<br
 BlockForm_MyShip_Exp_HighLevelQuest#0,"""<red>受注中のクエストは<br>「破棄ペナルティー」対象です！<c><br><br>破棄すると他のプレイヤーに迷惑がかかるため、<br>発生中の緊急クエストを再受注できなくなります。<br>また、強制的に別ブロックへの移動が行われます。<br><br>所属シップに移動すると、パーティーから<br>自動的に脱退して、受注中のクエストが破棄されます。<br><br>「破棄ペナルティー」を受け、所属シップに移動します。<br>よろしいですか？"""
 BlockForm_RebootBlock#0,"""Move to a [PSO2: NGS] Block"""
 BlockForm_Reboot_Exp#0,"""When moving Blocks, you'll automatically leave the Party you're in and any Quests you're queuing up for will be cancelled.<br><br>Any Effects or Boosts obtained from a Quest will also be cancelled."""
-BlockForm_Reboot_Que#0,"""Proceed with moving into a [PSO2: NGS] Block?"""
+BlockForm_Reboot_Que#0,"""Proceed with moving to a [PSO2: NGS] Block?"""
 Master#0,"""Team Master"""
 Manager#0,"""Manager"""
 Common#0,"""Common Member"""
