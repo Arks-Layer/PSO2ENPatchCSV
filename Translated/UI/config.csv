@@ -1281,7 +1281,7 @@ Config_Reb_113_Hint#0,"""Sets the resolution of 3D effects.<br><br>Lowering this
 Config_Reb_113_Select_0#0,"""Low"""
 Config_Reb_113_Select_1#0,"""Medium"""
 Config_Reb_113_Select_2#0,"""High (Normal)"""
-Config_Reb_115_Name#0,"""PSO2 & NGS Body Synchronization"""
+Config_Reb_115_Name#0,"""NGS & PSO2 Body Synchronization"""
 Config_Reb_115_Choices_0#0,"""Synchronize Body"""
 Config_Reb_115_Choices_1#0,"""Don't Synchronize"""
 Config_Reb_115_Hint#0,"""NGS/PSO2 Body Shapes are automatically synchronized, but if you want to edit them individually, please select \""Edit Body Shapes Individually\"". (Only available within the Salon)"""
