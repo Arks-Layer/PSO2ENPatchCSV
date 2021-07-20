@@ -78,7 +78,7 @@ PaidShop_Top_BannerWebOperation#0,"""<%NextTabDetails> to view details via web p
 PaidShop_Top_OperationHelp#0,"""Accept：<%Decide>\u3000\u3000Return：<%Cancel>\u3000Switch Notifications：<%TabForward><pict 4space><%TabBack>\u3000\u3000Open Webpage：<%NextTabDetails>"""
 PaidShop_LimitedItemTitle01#0,"""Product Information"""
 PaidShop_LimitedItemTitle02#0,"""<yellow>Limited Time Item<c>"""
-PaidShop_LimitedItemTitle03#0,"""<yellow>Limited Time Item<c>"""
+PaidShop_LimitedItemTitle03#0,"""<yellow>Limited Quantity Item<c>"""
 LimitedItemText1#0,"""$(0) purchasable"""
 LimitedItemText2#0,"""$(0) remaining"""
 LimitedTime#0,"""$(0) Max"""
