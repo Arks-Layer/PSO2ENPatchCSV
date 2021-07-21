@@ -1,7 +1,7 @@
 Common#0,"""Acceder"""
 Npc#0,"""Hablar"""
 Gather#0,"""Tomar"""
-Sit#0,"""座る"""
+Sit#0,"""Sentarse"""
 TransferSingle#0,"""Teletransportarse"""
 TransferMultiStart#0,"""Activar teletransportador"""
 TransferMultiStop#0,"""Detener teletransportador"""
