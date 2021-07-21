@@ -1464,13 +1464,13 @@ NewTitleFriend#0,"""Responder a la solicitud de amistad"""
 NewTitleTeam#0,"""Responder a la solicitud de alianza"""
 NewTitleTrade#0,"""Responder a la solicitud de comercio"""
 NewCheckMail#0,"""Indefinido"""
-NewCheckFriendList#0,"""Has recibido una solicitud de amistad de<br>$(0). <br>¿Quieres abrir una ventana de respuesta?<br><br>*Si seleccionas 'No', también puedes enviar una respuesta <br>más tarde seleccionando 'Lista de amigos' en el menú principal.
-NewCheckParty#0,"""Has recibido una invitación a una fiesta de <br>$(0).<br>¿Quieres abrir una ventana de respuesta?<br><br>*Si seleccionas 'No', también puedes enviar una respuesta más tarde <br>seleccionando 'Comandos de la fiesta' en el menú principal.
-NewCheckTrade#0,"""Ha recibido una solicitud de operación de<br>$(0).<br>¿Desea abrir una ventana de respuesta?
-NewCheckTeam#0,"""Has recibido una invitación de exploración de alianza <br>de $(0).<br>¿Quieres abrir una ventana de respuesta?<br><br>*Si seleccionas 'No', también puedes enviar una respuesta más tarde <br>seleccionando 'Comandos de Alianza' en el Menú Principal.
-PremiumEnd#0,"""Tu estado Premium está a punto de expirar.
-NewQuest#0,"""Confirmar la aceptación de la misión
-NewExpQuest#0,"""Has sido invitado a participar en una búsqueda.
+NewCheckFriendList#0,"""Has recibido una solicitud de amistad de<br>$(0). <br>¿Quieres abrir una ventana de respuesta?<br><br>*Si seleccionas 'No', también puedes enviar una respuesta <br>más tarde seleccionando 'Lista de amigos' en el menú principal."""
+NewCheckParty#0,"""Has recibido una invitación a una fiesta de <br>$(0).<br>¿Quieres abrir una ventana de respuesta?<br><br>*Si seleccionas 'No', también puedes enviar una respuesta más tarde <br>seleccionando 'Comandos de la fiesta' en el menú principal."""
+NewCheckTrade#0,"""Ha recibido una solicitud de operación de<br>$(0).<br>¿Desea abrir una ventana de respuesta?"""
+NewCheckTeam#0,"""Has recibido una invitación de exploración de alianza <br>de $(0).<br>¿Quieres abrir una ventana de respuesta?<br><br>*Si seleccionas 'No', también puedes enviar una respuesta más tarde <br>seleccionando 'Comandos de Alianza' en el Menú Principal."""
+PremiumEnd#0,"""Tu estado Premium está a punto de expirar."""
+NewQuest#0,"""Confirmar la aceptación de la misión"""
+NewExpQuest#0,"""Has sido invitado a participar en una búsqueda."""
 PremiumEnd_Inventry#0,"""オプションで「入手アイテムの格納先」に設定された<br>プレミアム倉庫の有効期限が切れています。"""
 PetKind00001#0,"""Wanda"""
 PetKind00002#0,"""Trim"""
