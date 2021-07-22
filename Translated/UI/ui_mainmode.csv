@@ -3930,7 +3930,7 @@ CharaSaveDataSave#0,"""La ranura actual ya contiene datos existentes, por lo que
 CharaSaveFailureMessage01#0,"""No se puede guardar en la tarjeta de memoria actual<br>ya que los datos que se están guardando pueden ser fraudulentos."""
 CharaSaveFailureMessage02#0,"""No se ha podido guardar el personaje, el Compañero,<br>y los datos adicionales de los emoticonos, porque no hay<br> suficiente espacio disponible en la tarjeta de memoria actual.<br><br>Asegúrate de que hay al menos <$capacidad> kb de espacio libre<br> en la tarjeta de memoria actual e inténtalo de nuevo."""
 CharaSaveFailureMessage03#0,"""No se ha podido guardar el personaje, el compañero,<br>y los datos adicionales de los emoticonos.<br>Intenta pulsar de nuevo [Guardar datos del retrato]."""
-CharaSaveSucsessMessage01#0,"""Se han guardado y actualizado los datos del personaje, del compañero y de los emotes adicionales.<br><br>Tus personajes, compañeros y emotes adicionales guardados pueden usarse a través del menú [Retratos de personajes].<br><br>Para usarlo, selecciona [Retratos de personajes] en el menú del título."""CharaSaveTitle#0,"""Portrait Data Storage"""
+CharaSaveSucsessMessage01#0,"""Se han guardado y actualizado los datos del personaje, del compañero y de los emotes adicionales.<br><br>Tus personajes, compañeros y emotes adicionales guardados pueden usarse a través del menú [Retratos de personajes].<br><br>Para usarlo, selecciona [Retratos de personajes] en el menú del título."""
 CharaSaveTitle#0,"""Portrait Data Storage"""
 CharaSaveHelp#0,"""<c f0df60>Guarda los datos de tu Retrato de Personaje.<c>"""
 RecruitSearchSelect#0,"""Ver selección"""
