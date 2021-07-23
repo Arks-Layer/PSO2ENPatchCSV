@@ -6322,7 +6322,7 @@ SeasonEvent_Reb_Exchange_2lineguide#0,"""Exchange the Seasonal Points you've ear
 Title_BuyData#0,"""Purchase Info"""
 SeasonEvent_Reb_Exchange_1#0,"""Points Owned"""
 SeasonEvent_Reb_Exchange_2#0,"""Points Required"""
-Label_AfterClosing#0,"""After"""
+Label_AfterClosing#0,"""After Payment"""
 SeasonEvent_Reb_BuyMessage3#0,"""Exchanging item(s) for $(1)<pict 4space>$(0)<pict event_point>.<br>Proceed with the exchange?"""
 SeasonEvent_BuyErrorMessage1#0,"""Not enough Points."""
 MackInfo#0,"""ディバイドクエスト情報を確認する"""
