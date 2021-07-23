@@ -178,7 +178,7 @@ FighterTecArtsJABonus#0,"""仮テキスト"""
 FighterPPSlayer#0,"""仮テキスト"""
 FighterKnuckleSwayCounter#0,"""Contraataca automáticamente cuando evades con éxito un ataque con tu Acción de Armas.<br><yellow>※Sólo Knuckles.<c>"""
 FighterChaseAdvance#0,"""Aumenta el daño infligido a los enemigos derribados."""
-FighterChaseAdvancePPRecovery#0,"""Aumenta la recuperación de PP al atacar a los enemigos derribados.""
+FighterChaseAdvancePPRecovery#0,"""Aumenta la recuperación de PP al atacar a los enemigos derribados."""
 FighterTecArtsSkipAttack#0,"""Usar diferentes PAs de la misma arma en una fila hace que tu combo de Ataque Normal se salte al 4º paso, o al último paso si la longitud de tu combo de Ataque Normal es de 3 o menos.<br><yellow>※Sólo armas de Fighter.<c>"""
 FighterSameArtsSkipAttack#0,"""Usar un PA varias veces seguidas hace que tu combo de Ataque Normal se salte al 3er paso.<br><yellow>※Sólo armas de Fighter.<c>"""
 FighterSkipArts#0,"""Si se utiliza un PA sin introducir una dirección, se pasará a la segunda mitad del PA.<br><yellow>※Sólo armas de Fighter.<c>"""
@@ -393,11 +393,11 @@ SimplePreview#0,"""Vista previa simple"""
 Skip#0,"""¿Estás seguro de que quieres saltarte la escena del evento e ir <br>a la siguiente serie de opciones o al final?"""
 SkipMovie#0,"""La reproducción de la escena actual terminará.<br><br>¿Estás seguro?"""
 SymbolArt_BANtext#0,"""Actualmente no se puede guardar ese Symbol Art."""
-TimeText#0,"""$(0) minute(s), $(1) second(s) $(2)
-NumItem#0,"""$(1) $(0)(s)
-NumItem2#0,"""$(0) × $(1)
-Bracket#0,"""($(0))
-SquareBracket#0,"""[$(0)]
+TimeText#0,"""$(0) minute(s), $(1) second(s) $(2)"""
+NumItem#0,"""$(1) $(0)(s)"""
+NumItem2#0,"""$(0) × $(1)"""
+Bracket#0,"""($(0))"""
+SquareBracket#0,"""[$(0)]"""
 SkipNaviKey#0,"""Presione la <yellow>[Tecla Esc]<c> para saltar."""
 SkipNaviButton#0,"""Pulse el botón <yellow>[<c><%AllWindowClose><yellow> Button]<c> para saltar"""
 PreviewZoom#0,"""Alternar <%Exception> Modo: (<c cfcfcf> Giro y zoom <c>/<yellow>Movimiento lateral<c>)"""
@@ -772,13 +772,13 @@ SkillTreeTotal#0,"""No. de árboles de hab adicionales"""
 TreeListCaption#0,"""Árbol ($(0))"""
 TreeListPoint#0,"""SP restante"""
 MoreDetails#0,"""<pict Sign_SELECT>Detalles"""
-MySetExplain#0,"""<c f0df60>Puedes guardar tu Loadout para usarlo más tarde.<c>
-MySetExplain2button#0,"""<c f0df60>Puedes guardar tu Loadout para usarlo más tarde.<c><red>Nota: Tu tipo de control actual está establecido en una configuración de 2 botones.<c>
-MySetExplain3button#0,"""<c f0df60>Puedes guardar tu Loadout para usarlo más tarde.<c><red>Nota: Tu tipo de control actual está establecido en una configuración de 3 botones.<c>
+MySetExplain#0,"""<c f0df60>Puedes guardar tu Loadout para usarlo más tarde.<c>"""
+MySetExplain2button#0,"""<c f0df60>Puedes guardar tu Loadout para usarlo más tarde.<c><red>Nota: Tu tipo de control actual está establecido en una configuración de 2 botones.<c>"""
+MySetExplain3button#0,"""<c f0df60>Puedes guardar tu Loadout para usarlo más tarde.<c><red>Nota: Tu tipo de control actual está establecido en una configuración de 3 botones.<c>"""
 ManualSkillTreeGet#0,"""Configuración personalizada"""
 AutoSkillTreeGet#0,"""Configuración recomendada"""
-AutoSkillTreeAsk#0,"""Tus puntos de habilidad se reasignarán automáticamente.<br>¿Estás seguro de que deseas continuar?<br><amarillo>Nota: Tu árbol de habilidades existente se sobrescribirá,<br>incluyendo las habilidades aprendidas.<c>
-AutoSkillTreeList#0,"""Se sobrescribirán las siguientes habilidades configuradas en base a<br>una Configuración recomendada.<br>¿Estás seguro de que deseas continuar?<br><br>Nota: se requiere un [Pase de restablecimiento de todos los árboles de habilidades] si<br>quieres reasignar los puntos de habilidad tú mismo.<c>
+AutoSkillTreeAsk#0,"""Tus puntos de habilidad se reasignarán automáticamente.<br>¿Estás seguro de que deseas continuar?<br><amarillo>Nota: Tu árbol de habilidades existente se sobrescribirá,<br>incluyendo las habilidades aprendidas.<c>"""
+AutoSkillTreeList#0,"""Se sobrescribirán las siguientes habilidades configuradas en base a<br>una Configuración recomendada.<br>¿Estás seguro de que deseas continuar?<br><br>Nota: se requiere un [Pase de restablecimiento de todos los árboles de habilidades] si<br>quieres reasignar los puntos de habilidad tú mismo.<c>"""
 AutoSkillTreeListVita#0,"""Las siguientes habilidades que se configuraron en base a<br>una configuración recomendada se sobrescribirán.<br>¿Está seguro de que desea proceder?<br><red>Nota: se requiere un [Reset All Skill Trees Pass].<c>"""
 AutoSkillTreeSuccess#0,"""Habilidades recomendadas sobrescritas."""
 AutoSkillTreeFailed#0,"""No se han podido sobrescribir las habilidades recomendadas."""
