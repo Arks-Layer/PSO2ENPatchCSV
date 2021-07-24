@@ -1,0 +1,7 @@
+name010#0,"""Manon"""
+text010#0,"""Ese enemigo tiene un caparazón duro. Intenta usar un Ataque en picada para inmovilizarlo."""
+Text_dash#0,"""Dash Attack"""
+Button_dash#0,"""Pulsa <%NormalAttack> mientras te precipitas"""
+Text_dive#0,"""Ataque en picada"""
+Button_dive#0,"""Mantenga pulsado <%Jump> y pulse <%NormalAttack>"""
+Button_dive2#0,"""-"""

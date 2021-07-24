@@ -1,0 +1,7 @@
+Text_NormalAttack#0,"""Normal Attack"""
+Button_NormalAttack#0,"""<%NormalAttack>"""
+Text_Avoid#0,"""Evadir"""
+Button_Avoid_Pad#0,"""<%Avoid>"""
+Button_Avoid_Key#0,"""Pulsar dos veces una tecla de movimiento"""
+name010#0,"""Aina"""
+text010#0,"""Para los acantilados altos, prueba a hacer un Photon Dash Jump o un Double Jump."""

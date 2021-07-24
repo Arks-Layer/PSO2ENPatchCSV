@@ -1,0 +1,5 @@
+Text_Glide#0,"""Deslizamiento: """
+Text_Glide_Release#0,"""Deslizamiento final: """
+Button_Glide_01#0,"""Pulsa <%Jump> durante un doble salto"""
+Button_Glide_02#0,"""Mantén pulsado <%Jump> en el aire"""
+Button_Glide_Release#0,"""Pulsa <%Jump> mientras te deslizas"""
