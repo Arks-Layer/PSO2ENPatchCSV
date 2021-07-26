@@ -312,7 +312,7 @@ ConfirmationMessage#0,"""This will begin the Grind process. Continue?<br><br>※
 Title#0,"""Item Lab"""
 LaboListTitle#0,"""Lab Menu"""
 Explanation1#1,"""Grind weapons and units, release Potentials, add Special Abilities and more."""
-Grind#0,"""Enhance Items / Units"""
+Grind#0,"""Enhance Items/Units"""
 Grind_Title#0,"""Enhance Item"""
 ElementCompose#0,"""Add Special Abilities"""
 ElementCompose_Title#0,"""Add Special Abilities"""
