@@ -1,0 +1,8 @@
+Title#0,"""Play Records"""
+TitleQuestTotal#0,"""Misiones completadas"""
+TitleMissCount#0,"""Incapacidades"""
+TitlePlayTimeTotal#0,"""Tiempo total de juego"""
+Count#0,"""$(0) time(s)"""
+PlayTime#0,"""$(0) Hora(s) $(1) Minuto(s)"""
+TitlePlayTime_Classic#0,"""Phantasy Star Online 2 horas jugadas"""
+TitlePlayTime_Reboot#0,"""New Genesis horas jugadas"""
