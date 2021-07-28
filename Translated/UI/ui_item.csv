@@ -10772,7 +10772,7 @@ InviteReward_Message#0,"""$(0)<br>will be exchanged for the items below.<br>Is t
 InviteReward_Success#0,"""Exchange successful."""
 InviteReward_Failure01#0,"""Unexpected error has occurred."""
 InviteReward_Failure02#0,"""Insufficient exchange items."""
-InviteReward_Failure03#0,"""Your level is too low.<br><yellow>※Cannot exchange item if main class level is too low.<c>"""
+InviteReward_Failure03#0,"""Your level is too low.<br><yellow>※Cannot exchange item if Main Class level is too low.<c>"""
 InviteReward_Failure04#0,"""Failed to access database."""
 InviteReward_Failure05#0,"""This reward has already been collected."""
 InviteReward_Failure06#0,"""Invitation not received."""

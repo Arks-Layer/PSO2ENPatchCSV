@@ -2839,7 +2839,7 @@ ElementalStanceCritical#1,"""Boosts critical hit rate during Element Stance when
 BreakStance#1,"""Active Stance Skill. Boosts damage dealt to breakable targets. Deactivates Element Stance."""
 BreakStanceUp1#1,"""During Break Stance, further boosts damage dealt to breakable targets."""
 BreakStanceCritical#1,"""During Break Stance, increases critical hit rate against breakable targets."""
-JetBootsStrike#1,"""Switch between using S-ATK and T-ATK for Jet Boot attacks. <yellow>Only allowed if main class.<c>"""
+JetBootsStrike#1,"""Switch between using S-ATK and T-ATK for Jet Boot attacks. <yellow>Main Class only.<c>"""
 BreakStanceDualBonus#1,"""When using Dual Blades, the effects of Break Stance apply to non-breakable targets. <yellow>Main Class only.<c>"""
 FieldRemain#1,"""Briefly maintains field effects for characters who leave a field. Only applies to strengthening fields."""
 JetBootsEscape#1,"""When using Jet Boots, makes you invincible during PA and Normal Attack Shift Actions. <yellow>Main Class only.<c>"""
