@@ -137,7 +137,7 @@ Fire01#1,"""A Fire-Attribute Technique.<br>Launches a fireball forwards. Charged
 Fire02#1,"""A Fire-Attribute Technique.<br>Creates a vortex of fire around yourself. Charged, creates a pillar of flame under the target."""
 Ice01#1,"""An Ice-Attribute Technique.<br>Fires a bullet of ice forwards. Charging makes it more powerful."""
 Ice02#1,"""An Ice-Attribute Technique.<br>Creates a wall of ice blades in front of you. Charging makes it more powerful."""
-Thunder01#1,"""A Lightning-Attribute Technique.<br>Calls lightning down ahead of you. Charging makes it stronger, but prevents it from arcing to other nearby enemies."""
+Thunder01#1,"""A Lightning-Attribute Technique.<br>Calls lightning down ahead of you. Charging makes it stronger but prevents it from arcing to other nearby enemies."""
 Thunder02#1,"""A Lightning-Attribute Technique.<br>Creates an energy sphere that regularly strikes a single enemy in range with lightning. Charged, the sphere rapidly strikes all nearby enemies then disappears."""
 WandPA01#1,"""A Wand Photon Art.<br>Dash at the enemy for a single powerful strike. Charging increases the power of the attack."""
 WandPA02#1,"""A Wand Photon Art.<br>Strike the ground, creating a shockwave that damages enemies within a wide area."""
