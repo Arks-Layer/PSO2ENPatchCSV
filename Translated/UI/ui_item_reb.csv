@@ -444,7 +444,7 @@ Decrease_Msg#0,"""The following Special Abilities that<br>were not passed down w
 SlotDecrease_Title#0,"""Downslot Confirmation"""
 SlotDecrease_Msg#0,"""This will <c ff4f3f>downslot<c> $(0) Slots.<br>Proceed?"""
 MaxMessage#0,"""最大追加数を超えたため、入れ替えました。"""
-CategoryMessege#0,"""すでに同じタイプの特殊能力が指定されていたため、入れ替えました。"""
+CategoryMessege#0,"""Replaced a previously-selected Special Ability from the same Category."""
 AddSupportMessage1#0,"""You have Support Items that<br>can add specific Abilities.<br>Select the one you wish to use."""
 LockConfirm#0,"""A locked item has been selected. Do you wish to proceed?"""
 SetValueInputNumberMessage#0,"""Set the value of the item<br>you wish to sell.<br><br>※You cannot set a value lower<br>than the minimum.<br>※A list fee will be deducted from<br>your final sale value."""
