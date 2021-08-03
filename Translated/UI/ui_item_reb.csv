@@ -168,7 +168,7 @@ item_PbGaugeUp2_2#0,"""Damage +21%<br>Boosts Photon Blast charge<br>rate when at
 item_PbGaugeUp2_3#0,"""Damage +24%<br>Boosts Photon Blast charge<br>rate when attacking by 20%."""
 item_PbGaugeUp2_4#0,"""Damage +25%<br>Boosts Photon Blast charge<br>rate when attacking by 20%."""
 item_PbGaugeUp2_5#0,"""Damage +26%<br>Boosts Photon Blast charge<br>rate when attacking by 20%."""
-item_ElementPpBonus_1#0,"""Damage +8%<br>When you attack an enemy<br>twice within 10 seconds,<br>an extra attack that can<br>inflict Attribute Down<br>occurs. 20 second cooldown."""
+item_ElementPpBonus_1#0,"""Damage +8%<br>Attacking an enemy twice in<br>10 seconds generates an extra<br>attack that inflicts Attribute<br>Down. 20 second cooldown."""
 item_ElementPpBonus_2#0,"""Damage +10%<br>When you attack an enemy<br>twice within 10 seconds,<br>an extra attack that can<br>inflict Attribute Down<br>occurs. 20 second cooldown."""
 item_ElementPpBonus_3#0,"""Damage +13%<br>When you attack an enemy<br>twice within 10 seconds,<br>an extra attack that can<br>inflict Attribute Down<br>occurs. 20 second cooldown."""
 item_ElementPpBonus_4#0,"""Damage +14%<br>When you attack an enemy<br>twice within 10 seconds,<br>an extra attack that can<br>inflict Attribute Down<br>occurs. 20 second cooldown."""
