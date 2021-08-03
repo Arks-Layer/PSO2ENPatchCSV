@@ -4,5 +4,5 @@ TrialAbstract#0,"""Destruye todos los coches fugitivos dentro del limite de tiem
 NpcComOnBegin#0,"""¡Algunos coches se han formado a partir del ether y estan fuera de control! Utiliza los Dash Panel para alcanzarlos y deshacerse de ellos!"""
 NpcComOnSuccess#0,"""Parece que la formación de esos coches fantasmas de ether se ha dispersado!, Gracias!"""
 NpcComOnFailure#0,"""No sabemos a donde pudieron haber ido esos coches fantasma... Bueno, de todos modos, puedes volver a tu misión actual."""
-NpcComOnHalf#0,"""Ciertamente hay menos de esos coches fantasma! ¡Lo estas haciendo genial!"""
-NpcComOnLastOne#0,"""Ya casi no quedan coches fantasmas! No dejes que se escapen!"""
+NpcComOnHalf#0,"""Ciertamente hay menos de esos coches fantasma!, ¡Lo estas haciendo genial!"""
+NpcComOnLastOne#0,"""¡Ya casi no quedan coches fantasmas!, ¡No dejes que se escapen!"""

@@ -1,0 +1,8 @@
+skit01#0,"""Whaa! Este enemigo es enorme!"""
+skit02#0,"""Kohri, no te preocupes!, ¡Incluso en esta grave situación, protegeremos este lugar juntos!"""
+name01#0,"""コオリ"""
+name02#0,"""ヒツギ"""
+name01#1,"""シエラ"""
+text01#0,"""通信"""
+skit01#1,"""/ci1 2 Whaa! Este enemigo es enorme!"""
+skit02#1,"""/ci1 2 Kohri, no te preocupes!, ¡Incluso en esta grave situación, protegeremos este lugar juntos!"""

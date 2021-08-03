@@ -26,7 +26,7 @@ NpcComOnCorrect#1,"""Las lecturas de estas bombas se han debilitado.<br>Parece q
 NpcComOnIncorrect#1,"""Algo salio mal...<br>Parece que vas a tener que esperar<br>un poco antes de probar otra coneccion<br>para desactivarla."""
 NpcComOnRemain30#1,"""¡Date prisa! Solo quedan 30 segundos<br>para que las bombas exploten."""
 NpcComOnJoin#1,"""Ah, has llegado en el momento perfecto.<br>Actualmente estamos tratando con unas<br>bombas. ¿Creo que podrías dar una mano?"""
-NpcComOnBegin#2,"""¡Peligro! ¡Estamos recibiendo algunas lecturas peligrosas!<br>parece que tenemos algunas bombas<br>en nuestro alcance... ¡Y muchas de ellas!"""
+NpcComOnBegin#2,"""¡Peligro!, ¡Estamos recibiendo algunas lecturas peligrosas!<br>parece que tenemos algunas bombas<br>en nuestro alcance... ¡Y muchas de ellas!"""
 NpcComOnBegin2#2,"""¡Pe-Pero no entres en panico! Puedes detener estas cosas<br>antes de que exploten. Inspeccionalas de cerca y busca<br>la manera de desactivarlas!"""
 NpcComOnSuccess#2,"""/face2 ¡Muy bien! A cada bomba de tiempo se le<br>detubo el conteo. Excelente trabajo!"""
 NpcComOnFailure#2,"""Esa exploción llego hasta las nubes!<br>¡¿E-Estas bien?!"""

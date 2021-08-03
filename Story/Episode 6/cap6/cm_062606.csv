@@ -1,0 +1,4 @@
+line01#0,"""Detectado por sensores láser<yellow><%skit_text><c>/6 veces.<br>Nivel de alerta final: 1<br>¡Lecturas de Dissolsaber detectadas!"""
+line02#0,"""Detectado por sensores láser<yellow><%skit_text><c>/6 veces.<br>Nivel de alerta final: 2<br>¡Se han detectado lecturas mejoradas de Luminmech!"""
+line03#0,"""Detectado por sensores láser<yellow><%skit_text><c>/6 veces.<br>Nivel de alerta final: 3<br><yellow>¡Advertencia!, ¡Múltiples lecturas enemigas poderosas entrantes!<c>"""
+line04#0,"""Detectado por sensores láser<yellow><%skit_text><c>/6 veces.<br>Nivel de alerta final: 4<br><light_red>¡Peligro!, ¡Se han detectado refuerzos enemigos y lecturas de armas Photoner!<c>"""

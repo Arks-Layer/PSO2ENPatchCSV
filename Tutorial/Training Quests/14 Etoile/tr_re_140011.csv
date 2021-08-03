@@ -1,4 +1,4 @@
 train_title#0,"""Tarea 2: <yellow>Golpea a un enemigo con un contraataque después de un Just Guard<c>"""
 tut_title#0,"""ガードカウンター攻撃について"""
-text100#0,"""・Justo antes de que un ataque enemigo te golpee:<br> Usa la acción de arma con <%WeaponAction><br>・Usa la acción de arma nuevamente con <%WeaponAction>"""
-text100_3b#0,"""・Justo antes de que un ataque enemigo te golpee:<br> Usa la acción de arma con <%WeaponAction><br>・Usa la acción de arma nuevamente con <%MainPaletteC>"""
+text100#0,"""・Justo antes de que un ataque enemigo te golpee:<br>Usa la acción de arma con <%WeaponAction><br>・Usa la acción de arma nuevamente con <%WeaponAction>"""
+text100_3b#0,"""・Justo antes de que un ataque enemigo te golpee:<br>Usa la acción de arma con <%WeaponAction><br>・Usa la acción de arma nuevamente con <%MainPaletteC>"""

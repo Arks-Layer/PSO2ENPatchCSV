@@ -4,5 +4,5 @@ text02#0,"""Para activar Connect, <red>usa tu WA durante Step Edge<c>. En otras 
 text101#0,"""Tarea 2: <yellow>Utilice Connect en el enemigo<c>"""
 train_title#0,"""Tarea 2: <yellow>Utilice Connect en el enemigo<c>"""
 tut_title#0,"""コネクトについて"""
-text100#0,"""・ Usa tu WA después de Step Edge <br>   （Step → <% WeaponAction> → <% WeaponAction>）"""
-text100_3b#0,"""・ Usa tu WA después de Step Edge <br>   （Step →  <%MainPaletteC> → <%MainPaletteC>）"""
+text100#0,"""・ Usa tu WA después de Step Edge<br> （Step → <% WeaponAction> → <% WeaponAction>）"""
+text100_3b#0,"""・ Usa tu WA después de Step Edge<br> （Step →  <%MainPaletteC> → <%MainPaletteC>）"""

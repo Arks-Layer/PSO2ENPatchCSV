@@ -5,7 +5,7 @@ NpcComOnBegin#0,"""Se confirmaron lecturas de,<br>$(0)! Todos los Arks,<br>por f
 NpcComOnSuccess#0,"""/face2 Estoy confirmando que las<br>lecturas del objetivo han desaparecido!<br>se levanto la ley marcial."""
 NpcComOnBegin#1,"""Se confirmaron lecturas de,<br>$(0) en los alrededores.<br>No bajen la guardia."""
 NpcComOnSuccess#1,"""Se ha neutralizado la amenaza.<br>Muy bien hecho."""
-NpcComOnBegin#2,"""¡Ah! ¡Aaah! $(0)<br>¡Se acerca! ¡Ten cuidado!"""
+NpcComOnBegin#2,"""¡Ah!, ¡Aaah! $(0)<br>¡Se acerca!, ¡Ten cuidado!"""
 NpcComOnSuccess#2,"""/face2 ¡Las lecturas han desaparecido!.<br>Buen trabajo, ¡Gracias! """
 NpcComOnBegin#3,"""Se ha detectado en las proximidades $(0) ten cuidado"""
 NpcComOnSuccess#3,"""La reacción desaparecio por completo. Por favor, vuelve a la misión<br>principal."""

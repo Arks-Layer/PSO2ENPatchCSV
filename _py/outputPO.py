@@ -120,4 +120,4 @@ for i in sys.argv[2:]:
 				#msgstr translated-string
 				print("msgstr \"{}\"".format(POWC))
 
-sys.exit(err)
+sys.exit(0)

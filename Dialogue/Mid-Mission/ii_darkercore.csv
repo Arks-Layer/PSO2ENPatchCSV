@@ -5,7 +5,7 @@ NpcComOnBegin#0,"""¿Esta es la presencia de un Darker? Deben de haber tomado po
 NpcComOnBeginAtRareCase#0,"""Se ha detectado una reacción Darker anormal. Parece que está tratando de pasar a otra área, no lo dejes ir!"""
 NpcComOnSuccess#0,"""Se confirmó la destrucción de la torre de control. La infección en el luchador ha desaparecido tambien. Parece que la situación está bajo control."""
 NpcComOnFailure#0,"""/face6 Propagación de infección en una nave ARKS confirmada. Eliminela, ya no es posible recuperarla. y retoma tu misión."""
-AppearHeli#0,"""¿Una nave ARKS? ¿Qué hace aquí?, Algo parece estar mal."""
+AppearHeli#0,"""¿Una nave ARKS?, ¿Qué hace aquí?, Algo parece estar mal."""
 BreakHeli#0,"""Parece que todo está bajo control, pero ten cuidado."""
 RespawnHeli#0,"""Parece que han aparecido mas..."""
 UrgesFindCore#0,"""¡No tiene sentido atacar a la nave! Busca la torre de control, y, ¡Destruyela!."""

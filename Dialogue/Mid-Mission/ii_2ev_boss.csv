@@ -14,7 +14,7 @@ NpcComOnPreBegin#3,"""周囲への警戒を強めてください。<br>強力な
 NpcComOnBegin#3,"""緊急通達。<br>新たな敵性反応が接近。<br>撃破してください。"""
 NpcComOnSuccess#3,"""目標を撃破。<br>見事な対応でした。"""
 NpcComOnPreBegin#4,"""周辺、警戒してください！<br>不審な反応があります！"""
-NpcComOnBegin#4,"""¡Aviso de emergencia! ¡Se confirmó una fuerte presencia enemiga!<br>¡Date prisa por favor!."""
+NpcComOnBegin#4,"""¡Aviso de emergencia!, ¡Se confirmó una fuerte presencia enemiga!<br>¡Date prisa por favor!."""
 NpcComOnSuccess#4,"""敵性反応、消失確認！<br>お見事です！"""
 NpcComOnPreBegin#5,"""周辺、警戒してください！<br>不審な反応があります！"""
 NpcComOnBegin#5,"""緊急通達です！<br>強力な敵性反応を確認しました！<br>急ぎ対処をお願いします！"""

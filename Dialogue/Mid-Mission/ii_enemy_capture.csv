@@ -12,7 +12,7 @@ NpcComOnCaptureSwitch#0,"""タイミングはいいですよー。<br>あとは�
 NpcComOnDisableCapture#0,"""/face4 今は捕獲装置が使えないんですー！<br>まずは対象を範囲内に<br>誘導しましょうー！"""
 NpcComOnSuccessCapture#0,"""/face2 対象の捕獲、成功です－！<br>転送してしまいますからねー！"""
 NpcComOnFailedCapture#0,"""/face4 ¡Oh no! Fallo la captura!<br>Por favor ten cuidado, el dispositivo de<br>captura tiene un rango de efectividad"""
-NpcComOnAttackTarget#0,"""/face4 ¡No!, ¡Por favor para! ¡Se<br>supone que solo estas para capturarlo!<br>por favor evita atacar a el objetivo"""
+NpcComOnAttackTarget#0,"""/face4 ¡No!, ¡Por favor para!, ¡Se<br>supone que solo estas para capturarlo!<br>por favor evita atacar a el objetivo"""
 NpcComOnDeadTarget#0,"""/face6 Las lecturas biológicas del objetivo,<br>desaparición... ...Bueno, será en<br>una próxima oportunidad."""
 NpcComOnLastCapture#0,"""El dispositivo de transferencia ahora<br>tiene bajo poder... Solo queda una oportunidad más<br>¡Por favor ten cuidado!"""
 NpcComOnBegin#1,"""$(0)の<br>出現を確認しました。<br>目標の捕獲をお願いします。"""

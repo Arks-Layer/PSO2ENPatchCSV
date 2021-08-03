@@ -1,4 +1,4 @@
 train_title#0,"""Tarea 1: <yellow>Just Attack y Photon Art"""
 tut_title#0,"""[Just Attacks]"""
-text100#0,"""・Usa un ataque normal con <%NormalAttack><br> · Cuando veas el círculo rojo,<br>usa un Photon Art con <%PhotonArts>."""
+text100#0,"""・Usa un ataque normal con <%NormalAttack><br>· Cuando veas el círculo rojo,<br>usa un Photon Art con <%PhotonArts>."""
 text100_3b#0,"""・<%NormalAttack>で通常攻撃をする<br>・赤い円が表示されたタイミングで<br><%PhotonArts>でフォトンアーツを発動する。"""

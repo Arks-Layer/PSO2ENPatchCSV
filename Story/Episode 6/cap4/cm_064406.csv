@@ -1,0 +1,8 @@
+skit01#0,"""¡Qué es eso!, ¡Es tan rápido que no puedo golpearlo!"""
+skit02#0,"""¡Apunta a sus pies!, ¡Eso debería frenarlo!"""
+name01#0,"""リナ"""
+name02#0,"""アイカ"""
+name01#1,"""シエラ"""
+text01#0,"""通信"""
+skit01#1,"""/ci1 2 ¡Qué es eso!, ¡Es tan rápido que no puedo golpearlo!"""
+skit02#1,"""/ci1 ¡Apunta a sus pies!, ¡Eso debería frenarlo!"""

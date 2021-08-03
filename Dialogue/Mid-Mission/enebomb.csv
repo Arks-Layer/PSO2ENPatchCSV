@@ -2,7 +2,7 @@ EnebombAppearance#0,"""Hemos detectado lecturas de Baize.<br>¡Alerta para todos
 EnebombGrow2#0,"""El estado de corrupcion del Baize está aumentando.<br>Tratar con él, rápido."""
 EnebombGrow3#0,"""El estado de corrupcion de Baize sigue creciendo.<br>Date prisa"""
 EnebombGrow4#0,"""¡La corrupcion del Baize es crítica! Esto no es bueno... ¡Destruyelo de inmediato!"""
-EnebombExplosion#0,"""La corrupcion del Baize ha alcanzado una etapa crítica... ¡Está explotando! ¡Ten cuidado!"""
+EnebombExplosion#0,"""La corrupcion del Baize ha alcanzado una etapa crítica... ¡Está explotando!, ¡Ten cuidado!"""
 SuccessEnebomb#0,"""Destrucción del Baize confirmado.<br>Eso fue un trabajo duro, chicos y chicas."""
 FailureEnebomb#0,"""Confirmando niveles graves de lluvia tóxica después de la explosión de Baize.<br>¡Todos los ARKS, encuentre un lugar seguro, tan pronto como sea posible!"""
 EnebombAdvice1#0,"""El Baize seguirá creciendo<br>rápidamente al alimentarse de los enemigos que lo rodean. Detenerlo a toda costa."""
