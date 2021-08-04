@@ -28,3 +28,5 @@ accepted_task_error#0,"""タスク“$(0)”は受注出来ませんでした。
 quest_focus_task_cannot#0,"""クエスト進行中は、ガイド情報の表示設定が切り替えられません。"""
 task_unknown_error#0,"""不明なエラーです。"""
 task_order_expired#0,"""タスクの達成期限が切れているので実行できません。"""
+task_order_restrictions_error#0,"""受注上限を超えているので受注できません。"""
+task_order_unfulfilled#0,"""未達成の期間限定タスクが残っています。"""
