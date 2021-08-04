@@ -28,3 +28,5 @@ accepted_task_error#0,"""Не удалось выполнить задачу “
 quest_focus_task_cannot#0,"""Нельзя переключить информацию о задании во время квеста."""
 task_unknown_error#0,"""Неизвестная ошибка."""
 task_order_expired#0,"""Нельзя продолжить так как срок действия задачи истёк."""
+task_order_restrictions_error#0,"""受注上限を超えているので受注できません。"""
+task_order_unfulfilled#0,"""未達成の期間限定タスクが残っています。"""
