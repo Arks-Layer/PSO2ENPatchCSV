@@ -3,3 +3,4 @@ text0001#0,"""\""HP\"" is a numerical representation of your character's physica
 text0002#0,"""\""PP\"" (Photon Points) are consumed when using a PA or a Technique.<br><br>PP <yellow>regenerates over time<c>, and you can recover some by hitting an enemy with a Normal Attack."""
 text0003#0,"""\""Attack Power\"" is a parameter which measures your ability to deal damage.<br>You can increase it by levelling up and by strengthening your weapons."""
 text0004#0,"""\""Defense Power\"" is a parameter which measures how little damage you take from enemies.<br>You can increase it by levelling up and by strengthening your armor."""
+text0005#0,"""\""Attribute resistance\"" is a set of parameters which each reduce damage from attacks of a specific Attribute. They can be increased by equipping certain armor and adding certain Special Abilities to your equipment."""
