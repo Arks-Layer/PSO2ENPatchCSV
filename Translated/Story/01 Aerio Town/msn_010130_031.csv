@@ -10,3 +10,5 @@ text060#0,"""Listen! I know this is supposed to be the other way around, but can
 text010_B#0,"""What do you say? Think you can find it?"""
 text010_C#0,"""Finished your tour around the village? If so, you should probably head back to Garoa's place."""
 text010_D#0,"""Alright, go ahead and try equipping it!"""
+textR01#0,"""……って、あれ？<br>なんだ、もう持ってるじゃないか！"""
+textR02#0,"""渡したかったのはその防具だよ！<br>さっそく装備してみてくれよ。"""
