@@ -1,6 +1,0 @@
-IncidentName#0,"""ステージオーダーをクリアせよ！"""
-TrialBeginMsg#0,"""ステージオーダーをクリアせよ！"""
-TrialAbstract#0,"""ステージオーダーをクリアせよ！"""
-NpcComOnBegin#0,"""/face2 じゃじゃーん！<br>ステージオーダーの内容発表です！"""
-NpcComOnSuccess#0,"""/face2 よしよしよしよしとてもよし！<br>すっばらしいデータが取れました！"""
-NpcComOnFailure#0,"""/face6 あれー、ちょっと難しすぎたのかなー？<br>まあいいか！"""
