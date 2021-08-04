@@ -1,5 +1,0 @@
-train_title#0,"""課題７：<yellow>アサルトライフルのシフトPAから基本PAへの<br>連続攻撃を3回繰り返す"""
-tut_title#0,"""シフトPAを使った連続攻撃"""
-text100#0,"""・<%PhotonArts>で武器アクションを使い<br>\u3000<%WeaponAction>と<%PhotonArts>でPAを発動<br>\u3000その後続けてPAを発動させる"""
-text100_3b#0,"""・<%MainPaletteC>で武器アクションを使い<br>\u3000<%PhotonArts>でPAを発動<br>\u3000その後続けてPAを発動させる"""
-tut_win_text100#0,"""***について説明します。"""
