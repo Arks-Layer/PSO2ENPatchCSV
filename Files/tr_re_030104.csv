@@ -1,0 +1,4 @@
+train_title#0,"""課題４：<yellow>タリスの設置"""
+tut_title#0,"""タリスについて"""
+text100#0,"""・<%NormalAttack>で通常攻撃をする<br>・<%PhotonArts>でテクニックを<br>\u3000チャージして発動する"""
+text100_3b#0,"""・<%NormalAttack>で通常攻撃を出す<br>・<%PhotonArts>もしくは<%MainPaletteC>でテクニックを<br>\u3000チャージして発動する"""
