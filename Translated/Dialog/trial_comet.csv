@@ -1,6 +1,0 @@
-TrialName#0,"""Stellar Gift Collection"""
-TrialBeginMsg#0,"""Defeat the nearby enemies & collect the Stellar Gifts!"""
-TrialAbstract#0,"""Defeat enemies"""
-NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_000 We've got a visual on something falling from the sky!<br>Be careful, it'll impact close by!"""
-NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_007 We aren't detecting any more enemies in the area. Please retrieve the Stellar Gift."""
-NpcComOnFailure#0,"""We weren't able to make it in time.<br>Leave the area, this collection was a failure."""

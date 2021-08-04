@@ -1,8 +1,0 @@
-Text_DashJump#0,"""Dash Jump: """
-Button_DashJump#0,"""<%Jump> while Dashing"""
-Text_DoubleJump#0,"""Double Jump: """
-Button_DoubleJump#0,"""Press <%Jump> twice"""
-name010#0,"""Aina"""
-text010#0,"""Oh yeah, we gotta get over this cliff to get where we're going..."""
-text020#0,"""If you Dash towards it, you should be able to jump higher."""
-text030#0,"""Give it a try."""
