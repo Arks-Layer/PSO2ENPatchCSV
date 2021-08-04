@@ -1,0 +1,7 @@
+Title#0,"""Weapon Actions"""
+text0001_hunter#0,"""Sword Guard:<br>Press <%MainPaletteC> while wielding a Sword.<br>Uses the sword as a shield to reduce damage.<br>If timed correctly, becomes a \""Just Guard\"" (JG) and blocks all damage from an attack.<br>"""
+text0001_ranger#0,"""Slide Shot:<br>Press <%MainPaletteC> while wielding a Rifle.<br><br>Adopts a low-profile stance and moves while rapid-firing.<br>"""
+text0001_force#0,"""Rod Shield:<br>Press <%MainPaletteC> while wielding a Rod.<br><br>Creates a shield to block enemy attacks. Recovers PP when an attack is successfully blocked.<br>"""
+text0001_fighter#0,"""Knuckle Sway:<br>Press <%MainPaletteC> while wielding Knuckles.<br><br>Twists your upper body on the spot to evade enemy attacks, then strikes back.<br>"""
+text0001_gunner#0,"""Stylish Roll:<br>Press <%MainPaletteC> while wielding Twin Machineguns.<br><br>Evades enemy attacks with a maximum of style. You can attack while evading.<br>"""
+text0001_techter#0,"""Wand Parry:<br>Press <%MainPaletteC> while wielding a Wand.<br><br>Parries enemy attacks. You can move while parrying.<br>"""

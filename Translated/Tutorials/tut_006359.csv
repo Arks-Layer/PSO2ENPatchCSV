@@ -1,0 +1,4 @@
+Title#0,"""Combat Controls"""
+text0001#0,"""Normal Attack: <%NormalAttack><br>PA (Photon Art)/Technique: <%PhotonArts><br>Charged PA: Press and hold <%PhotonArts><br>Back palette PA: Hold <%WeaponAction_2> and press <%NormalAttack>"""
+text0002#0,"""Lock-on: <%LockOn><br>Switch Lock-on target: <%LockOn>"""
+text0003#0,"""Dash Attack: <%NormalAttack> while Dashing<br>Step Attack: <%Avoid> then <%NormalAttack><br>Dive Attack: Hold <%Jump> in mid-air and press <%NormalAttack>"""
