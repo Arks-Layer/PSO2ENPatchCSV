@@ -246,7 +246,7 @@ Katana:LockonChase#0,"""브레이브 컴뱃 중<br>록 온 상태에서의 통�
 BraverCompoundbowPaArmor#0,"""브레이브 컴뱃 중<br>PA에 의한 공격 발동 시 특정 타이밍에<br>에너미의 공격에 의해 뜨거나<br>날아가는 것을 방지하는 효과를 추가한다.<br><yellow>※불릿 보우 전용<c>"""
 BraverKatanaGuardCounter#0,"""무기 액션을 이용한<br>저스트 가드 성공 시<br>자동으로 카운터가 발생한다.<br><yellow>※카타나 전용<c>"""
 Katana:CounterEdge#0,"""카타나 가드 카운터 발동 시<br>충격파를 추가한다."""
-Katana:ComboCountSkill#0,"""다른 PA를 사용해도<br>가카타나 PA의 콤보 단계 수가<br>유지하게 된다.<br><yellow>※카타나 전용<c>"""
+Katana:ComboCountSkill#0,"""다른 PA를 사용해도<br>카타나 PA의 콤보 단계 수가<br>유지하게 된다.<br><yellow>※카타나 전용<c>"""
 Katana:Ambition#0,"""통상 공격 후나 PA 발동 후 특정 타이밍에<br>전방에 있는 에너미의 공격을 무효로 하고<br>자동으로 카운터가 발생한다.<br><yellow>※카타나 전용<c>"""
 BraverCounterArrow#0,"""무기 액션을 이용한 회피 성공 시<br>통상 공격을 함으로써<br>카운터가 발생한다.<br><yellow>※불릿 보우 전용<c>"""
 BraverCompoundbowHoming#0,"""통상 공격으로 쏘는 화살이<br>에너미를 추적하게 된다.<br><yellow>※불릿 보우 전용<c>"""
