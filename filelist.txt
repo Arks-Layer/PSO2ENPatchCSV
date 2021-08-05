@@ -1,4 +1,3 @@
-List of NGS text files and the ICE files they are in:
 0c\0017f7118b0eb2b2e12892760126c1\1,wh_missionpass.text
 7a\00293c0184b605a5d6d637db2055fc\1,ssn_011151.text
 8a\0033414611f293d37fe55f2a0b3827\1,ssn_013010.text
