@@ -156,7 +156,7 @@ WandPA02#1,"""A Wand Photon Art.<br>Strike the ground, creating a shockwave that
 TalisPA01#1,"""A Talis Photon Art.<br>Fire a Photon Bullet forwards, then deploy the Talis. While the Talis is deployed, Technique behavior changes."""
 TalisPA02#1,"""A Talis Photon Art.<br>Attack multiple times, then deploy the Talis. Form depends on how many attack steps the PA went through. While the Talis is deployed, Technique behavior changes."""
 KatanaPA01#1,"""A Katana Photon Art.<br>Action changes when used continuously.<br>Draw your blade and slash.<br>Twice ahead, and then twice more.<br>Then, one final strike."""
-KatanaPA02#1,"""A Katana Photon Art.<br>A Katana Photon Art.<br>Action changes when used continuously.<br>Slash around yourself,<br>blowing enemies away.<br>Cut the air to shreds."""
+KatanaPA02#1,"""A Katana Photon Art.<br>Action changes when used continuously.<br>Slash around yourself,<br>blowing enemies away.<br>Cut the air to shreds."""
 KatanaPA03#1,"""A Katana Photon Art.<br>Action changes when used continuously.<br>Gather your power.<br>Then unleash a great shockwave,<br>slashing all ahead."""
 CompoundBowPA01#1,"""A Bullet Bow Photon Art.<br>Fire a homing shot. Charge one level for a slower, piercing shot. Charge two levels for a mighty greatarrow."""
 CompoundBowPA02#1,"""A Bullet Bow Photon Art.<br>Fire an arrow that detonates when it hits an enemy. Charge to make it detonate as soon as you fire."""
