@@ -10,3 +10,5 @@ text060#0,"""¡Escucha! Sé que se supone que esto es al revés, pero ¿me puede
 text010_B#0,"""¿Qué dices? ¿Crees que puedes encontrarlo?"""
 text010_C#0,"""¿Has terminado tu recorrido por el pueblo? Si es así, probablemente deberías volver a casa de Garoa."""
 text010_D#0,"""De acuerdo, ¡intenta equiparlo!"""
+textR01#0,"""……って、あれ？<br>なんだ、もう持ってるじゃないか！"""
+textR02#0,"""渡したかったのはその防具だよ！<br>さっそく装備してみてくれよ。"""
