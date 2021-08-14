@@ -127,7 +127,7 @@ Help_Category_CreateData#0,"""크리에이트 보존과 불러오기를 할 수 
 Key_Category_Test#0,"""각종 테스트"""
 Help_Category_Test#0,"""모션 테스트나 필드 테스트를 할 수 있습니다."""
 Operation_Category_Test#0,"""각종 테스트 메뉴 헬프입니다. <%Decide>결정\u3000<%Cancel>취소"""
-Operation_EditItem#0,"""결정：<%Decide>\u3000취소：<%Cancel>\u3000카메라 거리 변경：<swguidetype CameraLength>\u3000카메라 회정：<swguidetype CameraTurn>\u3000카메라 상하 이동：<swguidetype CameraUpDown>\u3000코스튬 탈착：<%TabForward>\u3000원래대로 돌린다：<swguidetype Undo>"""
+Operation_EditItem#0,"""결정：<%Decide>\u3000취소：<%Cancel>\u3000카메라 거리 변경：<swguidetype CameraLength>\u3000카메라 회전：<swguidetype CameraTurn>\u3000카메라 상하 이동：<swguidetype CameraUpDown>\u3000코스튬 탈착：<%TabForward>\u3000원래대로 돌린다：<swguidetype Undo>"""
 Key_Item_FacePreset#0,"""간단 편집"""
 Help_Item_FacePreset#0,"""준비되어있는 얼굴 패턴을 선택할 수 있습니다. 또한 세부 조절이 가능합니다."""
 Key_Item_BodyPreset#0,"""간단 편집"""
