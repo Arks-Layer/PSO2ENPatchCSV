@@ -314,7 +314,7 @@ T_Event002_MES#0,"""Team Ranking results have updated. Please check the details 
 R_Event007_MES#0,"""We are currently holding Time Attack Rankings. The current quest is [<%TSE_TA_Quset_Name> - <%TSE_TA_Quset_Difficulty>]. The competition will end at <%TSE_EndTime>. The target quest will give out bonus clear Meseta!"""
 P_Event001_MES#0,"""Battle Rankings have been tallied. Please collect your ranking rewards from Mimi, your ship's ARKS League Administrator."""
 P_Event002_MES#0,"""Battle Rankings are being tallied. Please wait for this to complete."""
-P_Event003_MES#0,"""The Battle Ranking period has started. Please check the Battle Ranking information from the main menu."""
+P_Event003_MES#0,"""The Battle Ranking period has started. Please check the Battle Ranking information from the Main Menu."""
 TimeBomb_Title#0,"""Deactivate the Time Bombs"""
 TimeBomb_Message#0,"""Please select a connection point to <br>disable the detonator."""
 TimeBomb_1#0,"""Upper"""
