@@ -165,7 +165,7 @@ Toast_October_1#0,"""The Logout button, which was there until I set my title, ha
 Toast_October_2#0,"""I'm sure that you've noticed by now, that the Logout button has disappeared."""
 Toast_October_3#0,"""This is not an error. Repeat, this is not an error. This is an intended function of setting your title."""
 Toast_October_4#0,"""You will no longer be allowed to Logout from the game until you have removed the title which you have set."""
-MainMenu_Shop_Window_Title#0,"""ショップ情報"""
+MainMenu_Shop_Window_Title#0,"""Shop Information"""
 Confirm_Title#0,"""Ship Transfer Confirmation"""
 Confirm_Message#0,"""The following conditions will take effect<br>while in a shared ship battle block.<br>  ・[Battle Warrior] class only<br>  ・PAs, Techniques, Class Skills unlearned<br>  ・No Meseta, CC or on-hand items allowed<br>  ・Usage of Storage, My Room and Team Room not allowed<br>  ・Emergency Quest notifications are hidden<br>  ・Dedicated Friend List, Mail and Symbol Arts<br>  ・Friendship gauge hidden<br><red>※All conditions will return to normal upon leaving the shared ship.<c><br><red>※NetCafe Premium effect Additional Team Points not applied.<c><br><red>※Your character may appear in live<br>broadcasts.<c><br><br>Go to Shared Ship Battle Lobby?"""
 Confirm_Title_InBlock#0,"""Block Transfer Confirmation"""
