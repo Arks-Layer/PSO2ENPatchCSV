@@ -1744,7 +1744,7 @@ BuckToField_CheckMessage#0,"""Would you like to return to the field?<br><br><yel
 BuckToField_CheckMessage_GetOutMyself#0,"""Would you like to return to the field?<br><br>Members of your Party will not be transfered out, <yellow>just you<c>."""
 RetryMessage2#0,"""Would you like to retry the Quest?<br><red>※If you retry, the Quest's contents will be reset.<c>"""
 LevelUp_Ask#0,"""Using $(0) SP to level up.<br>Are you sure?<br><br>(Current Skill Points: $(1) SP)"""
-LevelUp_AskNoCost#0,"""<yellow>Levelling up without using SP.<br>Are you sure?"""
+LevelUp_AskNoCost#0,"""<yellow>Leveling up without using SP.<br>Are you sure?"""
 LevelUp_Success#0,"""Leveled up."""
 LevelUp_Lack#0,"""You lack the skill points necessary to level up this skill.<br><br>You can view the skill's details with <%NextTabDetails>.<br><br>($(0) SP required.)"""
 LevelUp_Lack_v#0,"""You lack the skill points needed to level up this skill.<br><br>You can view the skill's details with <pict Sign_SELECT>.<br><br>($(0) SP required.)"""
