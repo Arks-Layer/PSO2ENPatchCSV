@@ -3617,7 +3617,7 @@ SkillTreeResetExplainSG_v#0,"""<c f0df61>“N-追加スキルツリー振り替�
 SkillTreeReset2Explain#0,"""<c f0df60>選択したツリーを、<yellow>別のクラス用に振り替えることも可能です。<c f0df60>どのクラス用に振り替えるか選択してください。<c>"""
 SkillTreeReset2Explain_v#0,"""<c f0df60>選択したツリーを、<yellow>別のクラス用に振り替えることも可能です。<c f0df61>クラスを選択してください。<c>"""
 ClassCounterExplain#0,"""<c f0df60>クラスを変更したり、スキルツリーでクラススキルを習得したりできます。<c>"""
-SkillTreeAddNum#0,""" Addable Number of Skill Trees"""
+SkillTreeAddNum#0,"""Number of Added Skill Trees"""
 Check#0,"""Confirm"""
 SkillTreeInfoTitle#0,"""Class & Skill Tree Info"""
 SkillTreeTotal#0,"""Total Skill Trees"""
