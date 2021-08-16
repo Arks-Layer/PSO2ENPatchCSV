@@ -62,7 +62,7 @@ Button_Item_Search_Myshop_NG#0,"""This item cannot be displayed on the Player Sh
 Recyclebadge_ac#0,"""Target AC Scratch Items"""
 Recyclebadge_sg#0,"""Target SG Scratch Items"""
 PaidShop_Top_Title#0,"""AC & SG Shop"""
-PaidShop_Top_Help#0,"""AC、SGで便利なアイテムやファッションアイテムを購入できます。"""
+PaidShop_Top_Help#0,"""Use AC and SG to purchase fashion items and other useful items."""
 PaidShop_Top_MenuTitle#0,"""Shop Menu"""
 PaidShop_Top_MenuItem01#0,"""AC Shop<pict 4space><pict Arcscash>"""
 PaidShop_Top_MenuItem02#0,"""SG Shop<pict 4space><pict StarGem>"""
