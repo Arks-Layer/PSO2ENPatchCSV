@@ -5,7 +5,7 @@ CompressMessage_v#0,"""This will start the strengthening process.<br>Is that OK?
 CompressResultMessage1#0,"""Compression <green>successful<c>."""
 CompressResultMessage2#0,"""Compression <red>failed<c>."""
 CompressSize#0,"""Size"""
-CompressSizeNumber#0,"""$(0) x $(1)"""
+CompressSizeNumber#0,"""$(0)x$(1)"""
 CompressItemCandy#0,"""Compress from Inventory"""
 CompressCandyBoxCandy#0,"""Compress from Candy Box"""
 CompressCompareTitle#0,"""Candy Compression Details"""
