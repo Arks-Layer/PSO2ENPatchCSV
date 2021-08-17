@@ -1425,7 +1425,7 @@ ToastEnterIntervalClient#1,"""You've arrived at the Interval Area! Time has been
 ProgIATitle#0,"""Until next area"""
 ProgIAForceMoveTitle#0,"""Until the Interval Area"""
 FirstClearBonus#0,"""First Break Bonus"""
-ItemNumberLevelNum#0,"""$(0)×$(1)"""
+ItemNumberLevelNum#0,"""$(0) x$(1)"""
 ItemNumberLevel#0,"""$(0)"""
 ToastClearCount#0,"""Can clear up to $(0) more times"""
 ToastClearCountZero#0,"""Cannot clear any more times today"""

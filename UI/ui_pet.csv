@@ -52,7 +52,7 @@ AllRemoverMessage#0,"""All Candies in this Candy Box<br>will be returned to the 
 AllRemoverResultMessage#0,"""All Candies<br>returned to Inventory."""
 ItemPackErrorMessage#0,"""Insufficient space in Inventory to receive items."""
 ConfirmTitle#0,"""Confirm Item Usage"""
-CandySize#0,"""$(0) x $(1)"""
+CandySize#0,"""$(0)x$(1)"""
 StatusTitle#0,"""Status"""
 Attribute#0,"""Attr. resists"""
 StatusNumber#0,"""$(0)<c ff9c70> (+$(1))<c>"""
