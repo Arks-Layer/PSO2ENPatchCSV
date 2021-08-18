@@ -1,8 +1,0 @@
-Life_Recovery#0,"""仮想装置<yellow>$(0)個<c>停止。報酬：<yellow>ライフポイント回復<c>"""
-Point_Gift#0,"""仮想装置<yellow>$(0)個<c>停止。報酬：<yellow>$(1)ポイント入手<c>"""
-Condition_Power#0,"""仮想装置<yellow>$(0)個<c>停止。報酬：<yellow>攻撃力上昇<c>(現在:$(1))"""
-Condition_PpRegene#0,"""仮想装置<yellow>$(0)個<c>停止。報酬：<yellow>ＰＰ回復量上昇<c>(現在:$(1))"""
-Condition_Toughness#0,"""仮想装置<yellow>$(0)個<c>停止。報酬：<yellow>ＨＰ最大値上昇<c>(現在:$(1))"""
-Condition_Photon#0,"""仮想装置<yellow>$(0)個<c>停止。報酬：<yellow>ＰＰ最大値上昇<c>(現在:$(1))"""
-Condition_Level_Default#0,"""<yellow>LV.$(0)<c>"""
-Condition_Level_Maximum#0,"""<pure_orange>LV.MAX<c>"""
