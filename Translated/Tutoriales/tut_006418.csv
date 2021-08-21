@@ -1,0 +1,4 @@
+Title#0,"""Cañones móviles"""
+text0001#0,"""<yellow>Los Cañones Móviles<c> son un poderoso equipo especial que puedes llamar a través de<br>Dispositivos de Entrega.<br><br>Mientras estén equipados, no podrás usar tus armas normales, y las acciones de tu<br>personaje están restringidas."""
+text0002#0,"""El cañón móvil puede realizar las siguientes acciones:<br><br>Disparo rápido<br>: Ataque normal de disparo rápido.<br><yellow>Ráfaga cargada<c>: Potente disparo cargado con usos limitados.<br><yellow>Deslizamiento potenciado<c>: Movimiento de alta velocidad que utiliza PP.<br><yellow>Sidestep Bash<c>: Realiza un ataque mientras esquiva."""
+text0003#0,"""El cañón móvil tiene un <yellow>límite de tiempo<c> en su uso, y cuando el tiempo se agota, se<br><yellow>desequipa automáticamente<c>.<br><br>Seleccionar [Desequipar] en la subpaleta o quedar incapacitado también<br>hará que se desequipe."""
