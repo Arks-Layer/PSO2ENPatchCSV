@@ -89,7 +89,7 @@ Mes_Matching_Election_End4#0,"""Comienzo inmediato de mision cancelado, un jugad
 Mes_Matching_Election_End5#0,"""Debido a un voto inválido, el inicio de la mision fue rechazado."""
 Mes_Matching_Election_End6#0,"""Hay demasiadas personas"""
 Mes_Matching_Number_Limit#0,"""Esta mision puede completarse $(0) veces"""
-Mes_Matching_Start#0,""""""
+Mes_Matching_Start#0,"""Iniciando emparejamiento para [$(0)]."""
 Mes_Quest_Desorption#0,"""$(0) para regresar """
 Mes_Matching_Election_non#0,"""---"""
 Mes_Matching_Election_Desp1#0,"""Puedes solicitar comenzar la mision automaticamente<br>con el numero de participantes actual selecionando<br>[Comenzar Inmediatamente] desde [Menu de Mision]"""

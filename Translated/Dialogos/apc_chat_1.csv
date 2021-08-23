@@ -28,7 +28,7 @@ EnemyLargeRareW#2,"""(Temporal) Aparecen enemigos grandes cuando se equipan con 
 EnemyBossRareW#2,"""(Temporal) Aparece un jefe cuando se equipa con un arma rara."""
 EnemyRareRareW#2,"""(Temporal) Aparecen enemigos raros cuando se equipan con armas raras."""
 EnemyBoostRareW#2,"""(Temporal) Aparece el impulso E cuando se equipa con un arma rara."""
-PartyJoin#3,"""/ci1 1 por favor, trátame bien"""
+PartyJoin#3,"""/toge /ci2 1 por favor, trátame bien"""
 IncidentJsApcBegin#3,"""/ci2 3 /toge おっ、あんた、いいところに！<br>ちょっと敵が多すぎるから<br>手伝ってくれっ！"""
 IncidentJsApcFailure#3,"""……ううっ、くそっ！<br>わり、先に撤退するっ！"""
 IncidentJsApcSuccess#3,"""/mn15 /ci2 1 よーっしゃよっしゃー！\u3000<br>終わったー！<br>協力してくれてありがとな！"""
