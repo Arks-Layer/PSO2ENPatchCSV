@@ -5691,7 +5691,7 @@ Block_help_Message_248#0,"""A block for finding parties to do Ultra<br>Hard leve
 Block_help_Message_250#0,"""ヘルプメッセージ250"""
 Block_help_Message_251#0,"""ヘルプメッセージ251"""
 Block_help_Message_252#0,"""ヘルプメッセージ252"""
-Block_help_RebootBlock#0,"""Go back to the [PSO2: NGS] Blocks."""
+Block_help_RebootBlock#0,"""Go to the [PSO2: NGS] Blocks."""
 Error_Title#0,"""Message"""
 Error_InstalledItem#0,"""Cannot install selected item."""
 Error_UsedItem#0,"""Cannot use selected item."""
