@@ -154,7 +154,7 @@ StarLimitMessage#0,"""Has alcanzado el número máximo de estrellas permitido en
 Date#0,"""$(0)/$(1) $(2) o más horas"""
 Date_v#0,"""$(0)/$(1) $(2) o más horas"""
 StarMoney#0,"""$(0)<pict sb_star_icon>"""
-GroupPoint#0,"""$(0) pt"""
+GroupPoint#1,"""$(0) pt"""
 GroupPoint2#0,"""$(0)/$(1) pt"""
 GroupPoint3#0,"""<c ffa800>$(0)/$(1) pt<c>"""
 PlayPoint#0,"""$(0)/$(1)"""
