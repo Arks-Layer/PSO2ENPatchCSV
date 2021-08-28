@@ -1448,7 +1448,7 @@ LobbyAction_TypeC#0,"""<pict Sign_TRIANGLE>+<pict Sign_CIRCLE><yellow>Acciónes 
 LobbyActionLogWindow_TypeC#0,"""<pict Sign_TRIANGLE>+<pict Sign_CIRCLE><yellow>異性アクション<c>"""
 ChangeCtrWindow#0,"""<%ChangeCtrlWindowForward><pict 4space><yellow>Ventana de control de cambios<c>"""
 LobbyAction_Disable_Toast#0,"""Este emote no se puede utilizar en el Salón."""
-0LobbyAction_EmotionType_Display#0,"""$(0)（$(1)）"""
+LobbyAction_EmotionType_Display#0,"""$(0)（$(1)）"""
 Term_Area#0,"""$(0)/$(1)"""
 Term_Positon#0,"""($(0),$(1),$(2))"""
 Term_Hp#0,"""$(0)/$(1)"""
