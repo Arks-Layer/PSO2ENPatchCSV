@@ -16,7 +16,7 @@ E_eario_Dolls_1120001_Open#0,"""Notifying all ARKS: We are beginning a mission t
 E_defense_Common_End#0,"""All DOLLS have been annihilated, and the defense target's safety is confirmed. Thank you for your cooperation in this mission."""
 E_eario_defense_1120003_Notice#0,"""Emergency Alert: A large number of DOLLS have appeared in the Aerio region. Defense preparations are now underway. All ARKS, please prepare to sortie. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
 E_eario_defense_1120003_Open#0,"""Notifying all ARKS: We are now beginning operations to defend ourselves against the large number of DOLLS that have appeared in the Aerio region. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
-Title_Quest_Info_1#0,"""Simple Quest Information"""
+Title_Quest_Info_1#0,"""Basic Quest Information"""
 Title_Quest_Info_2#0,"""Quest Name"""
 Title_Quest_Info_3#0,"""Participants"""
 Title_Quest_Info_4#0,"""Quest Objective"""
