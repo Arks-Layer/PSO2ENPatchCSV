@@ -1,0 +1,3 @@
+train_title#0,"""課題２：<yellow>ペットのオートアタックでエネミーを攻撃する"""
+tut_title#0,"""オートアタックについて"""
+text100#0,"""・エネミーをターゲットする<br>・<%NormalAttack>や<%PhotonArts>でペットに攻撃を命令する"""
