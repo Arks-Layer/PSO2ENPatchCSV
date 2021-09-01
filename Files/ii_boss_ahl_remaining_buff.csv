@@ -1,0 +1,7 @@
+IncidentName#0,"""共振エネミー討伐"""
+TrialBeginMsg#0,"""指定エネミーを同時に討伐せよ！"""
+TrialAbstract#0,"""指定エネミーを同時に討伐せよ！"""
+NpcComOnBegin#0,"""エネミー同士の共振反応を確認。<br>嫌な予感がします……。<br>可能な限り同時に撃破を！"""
+NpcComOnSuccess#0,"""敵性反応、すべて消失！<br>目標、達成です！"""
+NpcComOnDefeatedFirstOne#0,"""一方の目標の反応消失を確認。<br>すみやかに残りを撃破してください！"""
+NpcComOnAddCondition#0,"""残存目標の反応増大！<br>ご注意を！"""
