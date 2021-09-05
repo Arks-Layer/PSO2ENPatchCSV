@@ -1,6 +1,6 @@
 TrialName#0,"""$(0) Defense"""
-TrialBeginMsg#0,"""Defend $(0) from enemy attacks!"""
-TrialAbstract#0,"""Defend $(0)"""
+TrialBeginMsg#0,"""Defend the $(0) from enemy attacks!"""
+TrialAbstract#0,"""Defend the $(0)"""
 Wave1Msg#0,"""The first wave of enemies are approaching!<br>Defend the $(0)!!"""
 Wave2Msg#0,"""The second wave of enemies are approaching!<br>Defend the $(0)!!"""
 Wave3Msg#0,"""The third wave of enemies are approaching!<br>Defend the $(0)!!"""
