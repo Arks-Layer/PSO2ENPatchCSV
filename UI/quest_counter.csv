@@ -785,7 +785,7 @@ Quest_Explain_Continue_Main_NormalEnd#0,"""Has llegado al final normal del EPISO
 Quest_Explain_Continue_Main_TrueEnd#0,"""EPISODIO 6<br>Gran final liberado."""
 Quest_Explain_Continue_Sub_End#0,"""EPISODIO 6<br>todas las subhistorias completadas"""
 Quest_Name_Continue#0,"""\u3000\u3000\u3000Hasta la próxima actualización..."""
-Quest_Name_Continue_Sub#0,"""　　　Has completado la subhistoria del episodio 5."""
+Quest_Name_Continue_Sub#0,"""\u3000\u3000\u3000Has completado la subhistoria del episodio 5."""
 Quest_Name_Continue_1#0,"""\u3000\u3000\u3000EPISODIO 1 completado"""
 Quest_Name_Continue_2#0,"""\u3000\u3000\u3000Hasta la próxima actualización..."""
 Quest_Name_Continue_3#0,"""\u3000\u3000\u3000Hasta la próxima actualización..."""
