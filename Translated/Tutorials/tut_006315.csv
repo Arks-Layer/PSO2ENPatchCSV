@@ -1,3 +1,3 @@
 Title#0,"""Your Mag"""
-text0001#0,"""Your Mag is a reliable little buddy that supports you in your ARKS activities.<br><br>You can set whether you want it to be visible or not by selecting <yellow>\""Equipment/Palette\""<c> from the Main Menu, then selecting <yellow>\""Mag\""<c>."""
-text0002#0,"""また、同じマグのメニューから、<br>各種デバイスを使用することで、マグの見た目を変更できます。<br><br>・新フォルムの登録：マグの新しいフォルムを登録します。<br><yellow>※追加したフォルムは“マグのフォルム変更”から変更できます。<c>"""
+text0001#0,"""Your Mag is a reliable little buddy that supports you in your ARKS activities.<br><br>For instance, its \""Active Sonar\"" feature helps you detect undiscovered Cocoons and Towers.<br><br>You can show or hide your Mag by selecting <yellow>\""Equipment/Palette\""<c> from the Main Menu, then selecting <yellow>\""Mag\""<c>."""
+text0002#0,"""On this menu, you can also use special devices to change the appearance of your Mag.<br><br>Use the Register New Form button to register a new appearance for your Mag.<br><yellow>※Once registered, you can switch to the new Form by selecting \""Change Mag Form\"".<c>"""
