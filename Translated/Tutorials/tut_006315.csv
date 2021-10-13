@@ -1,2 +1,3 @@
 Title#0,"""Your Mag"""
 text0001#0,"""Your Mag is a reliable little buddy that supports you in your ARKS activities.<br><br>You can set whether you want it to be visible or not by selecting <yellow>\""Equipment/Palette\""<c> from the Main Menu, then selecting <yellow>\""Mag\""<c>."""
+text0002#0,"""また、同じマグのメニューから、<br>各種デバイスを使用することで、マグの見た目を変更できます。<br><br>・新フォルムの登録：マグの新しいフォルムを登録します。<br><yellow>※追加したフォルムは“マグのフォルム変更”から変更できます。<c>"""
