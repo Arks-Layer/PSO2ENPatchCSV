@@ -1,2 +1,5 @@
 HELLO_ALLDAYS#0,"""몸은 좀 어때?"""
+HELLO_MORNING#0,"""やあ！"""
+HELLO_AFTERNOON#0,"""やあ！"""
+HELLO_NIGHT#0,"""やあ！"""
 HELLO_BYE#0,"""잘 가."""
