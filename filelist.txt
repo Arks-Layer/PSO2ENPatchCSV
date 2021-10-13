@@ -18625,3 +18625,4 @@ ffbd1eb7b2608d5a21b7ea9963dbd1d4,wh_dailyshop_na.text
 ffdb6b705ba92251f3c83833d2cd9136,od_030500577.text
 ffe6abc7a91ef7f930861d37e73a5222,st_010520_om.text
 c80b24e950216592cedcaf18ebddda,trial_god2.text
+a0c4ca863f9d3f3366348304461904,ui_battle_trigger.text
