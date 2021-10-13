@@ -3,4 +3,4 @@ text0001#0,"""\""HP\"" is a numerical representation of your character's physica
 text0002#0,"""\""PP\"" (Photon Points) are consumed when using a PA or a Technique.<br><br>PP <yellow>regenerates over time<c>, and you can recover some by hitting an enemy with a Normal Attack."""
 text0003#0,"""\""Attack Power\"" is a parameter which measures your ability to deal damage.<br>You can increase it by leveling up and by strengthening your weapons."""
 text0004#0,"""\""Defense Power\"" is a parameter which measures how little damage you take from enemies.<br>You can increase it by leveling up and by strengthening your armor."""
-text0005#0,"""\""状態異常耐性\""は、<br>バーンやフリーズといった<yellow>“状態異常”<c>に対する<br>プレイヤーキャラクターの<yellow>“かかりにくさ”<c>を表すパラメーターです。<br><br>この状態異常耐性の値は、<br>武器や防具の特殊能力などによって上昇させることができます。"""
+text0005#0,"""\""Status Resistance\"" is a parameter which measures how difficult it is for enemies to inflict <yellow>Status Effects<c> such as Burn and Freeze on you.<br><br>You can increases this parameter by adding specific Special Abilities to your weapons and armor."""
