@@ -1,5 +1,5 @@
 HELLO_ALLDAYS#0,"""What's up?"""
-HELLO_MORNING#0,"""おはようございます。"""
-HELLO_AFTERNOON#0,"""こんにちは。"""
-HELLO_NIGHT#0,"""こんばんは。"""
+HELLO_MORNING#0,"""Good morning."""
+HELLO_AFTERNOON#0,"""Hello."""
+HELLO_NIGHT#0,"""Good evening."""
 HELLO_BYE#0,"""Later."""
