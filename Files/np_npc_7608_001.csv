@@ -1,2 +1,5 @@
 HELLO_ALLDAYS#0,"""よう。"""
+HELLO_MORNING#0,"""歓迎するよ"""
+HELLO_AFTERNOON#0,"""歓迎するよ"""
+HELLO_NIGHT#0,"""歓迎するよ"""
 HELLO_BYE#0,"""またな。"""
