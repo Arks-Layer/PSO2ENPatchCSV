@@ -233,7 +233,7 @@
 126#0,"""PP+5"""
 0#4,"""Deal 2.5% more <br>damage to enemies <br>that are weak to <br>\""Lightning\"". """
 1#4,"""Deal 2.5% more <br>damage to enemies <br>that are weak to <br>\""Ice\"". """
-2#4,"""弱点属性が“炎”の<br>エネミーに対して<br>威力＋2.5%"""
+2#4,"""Deal 2.5% more <br>damage to enemies <br>that are weak to <br>\""Fire\"". """
 0#5,"""Damage+1.0% """
 1#5,"""Damage+1.0% """
 2#5,"""Damage+1.0% """
