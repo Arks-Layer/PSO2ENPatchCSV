@@ -1,0 +1,6 @@
+TrialName_1Enemy#0,"""Subdue $(0)"""
+TrialBeginMsg_1Enemy#0,"""Defeat $(0)!"""
+TrialAbstract_1Enemy#0,"""Defeat $(0)"""
+TrialName_Multi#0,"""Enemy Subjugation"""
+TrialBeginMsg_Multi#0,"""Defeat the enemies that have spawned!"""
+TrialAbstract_Multi#0,"""Defeat the enemies!"""
