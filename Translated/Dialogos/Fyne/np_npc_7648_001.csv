@@ -1,2 +1,5 @@
 HELLO_ALLDAYS#0,"""¿Va todo bien?"""
+HELLO_MORNING#0,"""やあ！"""
+HELLO_AFTERNOON#0,"""やあ！"""
+HELLO_NIGHT#0,"""やあ！"""
 HELLO_BYE#0,"""Pues más tarde."""
