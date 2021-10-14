@@ -1,0 +1,5 @@
+Title#0,"""The Quick Menu"""
+text0001_pad#0,"""Press <%SelectMenu> to open the \""Quick Menu\"".<br><br>The Quick Menu gives you quick access to various functions, such as setting up a Party or performing Lobby Actions."""
+text0001_key#0,"""Press <pict btn_key_f2> to open the \""Quick Menu\"".<br><br>The Quick Menu gives you quick access to various functions, such as setting up a Party or performing Lobby Actions."""
+text0002#0,"""Select <yellow>\""Location Notification\""<c> from the Communication section to display your location on your Party members' Radar Maps.<br>The display will last for a short time before disappearing."""
+text0003#0,"""Select <yellow>\""Show/Hide Area Map\""<c> from the Command Menu section to bring up a detailed map of your current location.<br><br>In addition, while you are in Central City, this map will show the locations of NPCs."""
