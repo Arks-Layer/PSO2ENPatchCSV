@@ -111,6 +111,8 @@ Mes_Matching_AutoStart_Sub3#0,"""Осталось времени до присе
 Mes_Matching_AutoStart_Mes3#0,"""Вы пожелали присоединиться."""
 Mes_Matching_AutoStart_Mes4#0,"""Лидер группы пожелал присоединиться."""
 Mes_Matching_AutoStart_Mes5#0,"""Вы исключены из подбора."""
+Mes_Matching_Election_Start4#0,"""現メンバーでのクエスト即時開始が提案されました。<br>回答はパーティーリーダーのみ行うことができます。<br><yellow>※マッチングに未参加のメンバーがいるパーティーは、投票に参加できません。<c>"""
+Mes_Matching_Election_Error4#0,"""マッチングに未参加のパーティーメンバーがいるため、<br>クエストの即時開始ができません。"""
 DefenseTerminal_Title#0,"""Установка для добычи ресурсов"""
 DefenseTerminal_Title_BLUEFULL#0,"""Установка для добычи [Синяя]"""
 DefenseTerminal_Title_WHITILL#0,"""Установка для добычи [Белая]"""
