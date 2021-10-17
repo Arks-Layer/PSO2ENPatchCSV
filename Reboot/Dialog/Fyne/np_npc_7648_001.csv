@@ -1,2 +1,5 @@
 HELLO_ALLDAYS#0,"""Как ваши дела?"""
+HELLO_MORNING#0,"""Эй!"""
+HELLO_AFTERNOON#0,"""Эй!"""
+HELLO_NIGHT#0,"""Эй!"""
 HELLO_BYE#0,"""До встречи."""
