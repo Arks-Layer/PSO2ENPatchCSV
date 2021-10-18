@@ -1,0 +1,6 @@
+TrialName_1Enemy#0,"""Одолеть $(0)"""
+TrialBeginMsg_1Enemy#0,"""Одолейте $(0)!"""
+TrialAbstract_1Enemy#0,"""Одолеть $(0)"""
+TrialName_Multi#0,"""Одолеть врагов"""
+TrialBeginMsg_Multi#0,"""Одолейте врагов!"""
+TrialAbstract_Multi#0,"""Одолеть врагов"""
