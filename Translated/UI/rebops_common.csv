@@ -29,4 +29,4 @@ quest_focus_task_cannot#0,"""Guide Info Display settings cannot be switched whil
 task_unknown_error#0,"""Unknown error."""
 task_order_expired#0,"""This Task has expired."""
 task_order_restrictions_error#0,"""受注上限を超えているので受注できません。"""
-task_order_unfulfilled#0,"""未達成の期間限定タスクが残っています。"""
+task_order_unfulfilled#0,"""You have unfinished Limited Time Tasks."""
