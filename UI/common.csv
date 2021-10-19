@@ -1461,7 +1461,7 @@ LobbyActionLogWindow_TypeC#0,"""<pict Sign_TRIANGLE>+<pict Sign_CIRCLE><yellow>�
 ChangeCtrWindow#0,"""<%ChangeCtrlWindowForward><yellow>조작 창 전환<c>"""
 LobbyAction_Disable_Toast#0,"""이 로비 액션은 에스테 안에서 사용할 수 없습니다."""
 LobbyAction_EmotionType_Display#0,"""$(0)（$(1)）"""
-LobbyAction_Unsupported_Toast#0,"""実行したロビーアクションは『PSO2』ブロック非対応です。"""
+LobbyAction_Unsupported_Toast#0,"""사용하신 로비 액션은『PSO2』에선 사용할 수 없습니다."""
 Term_Area#0,"""$(0)/$(1)"""
 Term_Positon#0,"""($(0),$(1),$(2))"""
 Term_Hp#0,"""$(0)/$(1)"""
