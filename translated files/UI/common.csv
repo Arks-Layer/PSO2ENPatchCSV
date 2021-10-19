@@ -1461,7 +1461,7 @@ LobbyActionLogWindow_TypeC#0,"""<pict Sign_TRIANGLE>+<pict Sign_CIRCLE><yellow>�
 ChangeCtrWindow#0,"""<%ChangeCtrlWindowForward><yellow>Смена раб-го окна<c>"""
 LobbyAction_Disable_Toast#0,"""Этот лобби-экшн нельзя использовать в салоне."""
 LobbyAction_EmotionType_Display#0,"""$(0)（$(1)）"""
-LobbyAction_Unsupported_Toast#0,"""実行したロビーアクションは『PSO2』ブロック非対応です。"""
+LobbyAction_Unsupported_Toast#0,"""Данный лобби-экшн не совместим с блоком PSO2."""
 Term_Area#0,"""$(0)/$(1)"""
 Term_Positon#0,"""($(0),$(1),$(2))"""
 Term_Hp#0,"""$(0)/$(1)"""
