@@ -265,7 +265,7 @@ BouncerJetBootsElementChange#0,"""에너미에게 PA를 적중했을 때<br>마�
 BouncerJetBootsAttackExtra#0,"""통상 공격이 최대 4단계로 증가한다.<br><yellow>※제트 부츠 전용<c>"""
 BouncerJetBootsJetAttack#0,"""일정 거리 내에 에너미가 있을 때<br>일반 공격을 길게 누르면<br>서서히 공격 속도가 증가하는<br>연속 공격이 발생한다.<br><yellow>※제트 부츠 전용<c>"""
 BouncerJetBootsEnhancePA#0,"""PA 버튼을 길게 누르면<br>공격 동작이 변화하게 된다.<br><yellow>※제트 부츠 전용<c>"""
-BouncerJetBootsWeaponActionCounter#0,"""우기 액션을 통한 회피 성공 시<br>자동으로 카운터가 발생한다.<br>또한 통상 공격을 하면<br>추가적으로 카운터가 발생한다<br><yellow>※제트 부츠 전용<c>"""
+BouncerJetBootsWeaponActionCounter#0,"""무기 액션을 통한 회피 성공 시<br>자동으로 카운터가 발생한다.<br>또한 통상 공격을 하면<br>추가적으로 카운터가 발생한다<br><yellow>※제트 부츠 전용<c>"""
 BouncerJetBootsBlink#0,"""테크닉 발동 후 특정 타이밍에<br>통상 공격을 누름으로써<br>에너미에게 돌격한다.<br><yellow>※제트 부츠 전용<c>"""
 BouncerBartaBlot#0,"""차지하지 않은 빙속성 테크닉을<br>일정 횟수 에너미에게 맞춤으로써<br>얼음 문장을 새긴다. 게다가 같은<br>속성의 테크닉을 차지하여 적중시키면<br>문장이 기폭해 추가 피해를 입힌다."""
 BouncerZondeClad#0,"""차지하지 않은 뇌속성 테크닉을<br>일정 횟수 에너미에게 맞춤으로써 스스로가<br>전기를 띈 상태가 된다. 게다가 같은<br>속성의 테크닉을 차지하여 적중시키면 대전이<br>해제되고 그 테크닉을 강화한다."""
