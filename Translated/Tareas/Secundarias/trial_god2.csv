@@ -1,0 +1,6 @@
+TrialName_1Enemy#0,"""Someta a $(0)"""
+TrialBeginMsg_1Enemy#0,"""Derrota $(0)!"""
+TrialAbstract_1Enemy#0,"""Derrota $(0)"""
+TrialName_Multi#0,"""Subyugación del enemigo"""
+TrialBeginMsg_Multi#0,"""¡Derrota a los enemigos que han aparecido!"""
+TrialAbstract_Multi#0,"""¡Derrota a los enemigos!"""
