@@ -28,7 +28,7 @@ EnemyLargeRareW#2,"""(Temporal) Aparecen enemigos grandes cuando se equipan con 
 EnemyBossRareW#2,"""(Temporal) Aparece un jefe cuando se equipa con un arma rara."""
 EnemyRareRareW#2,"""(Temporal) Aparecen enemigos raros cuando se equipan con armas raras."""
 EnemyBoostRareW#2,"""(Temporal) Aparece el impulso E cuando se equipa con un arma rara."""
-PartyJoin#3,"""/ci1 3 /toge Estoy deseando trabajar con usted."""
+PartyJoin#3,"""/ci1 3 Estoy deseando trabajar con usted."""
 IncidentJsApcBegin#3,"""/ci2 3 /toge ¡Oh, estás en el lugar correcto! <br>Hay demasiados enemigos, así que <br>¡ayúdame!"""
 IncidentJsApcFailure#3,"""¡Uf, maldita sea! <br> ¡Bueno, yo me retiro primero!"""
 IncidentJsApcSuccess#3,"""/mn15 /ci2 1 ¡Sí, sí, sí! <br> ¡Está hecho! <br>¡Gracias por ayudarme!"""
