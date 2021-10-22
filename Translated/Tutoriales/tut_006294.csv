@@ -3,3 +3,4 @@ text0001#0,"""\""HP\"" es una representación numérica de la resistencia físic
 text0002#0,"""\""PP\"" (Photon Points) se consumen al usar un PA o una Técnica.<br><br>El PP <yellow>se regenera con el tiempo<c>, y puedes recuperar algunos golpeando a un enemigo con un ataque normal."""
 text0003#0,"""\""Attack Power\"" es un parámetro que mide tu capacidad de infligir daño.<br>Puedes aumentarlo subiendo de nivel y reforzando tus armas."""
 text0004#0,"""\""Defense Power\"" es un parámetro que mide el poco daño que recibes de los enemigos.<br>Puedes aumentarlo subiendo de nivel y reforzando tu armadura."""
+text0005#0,"""\""状態異常耐性\""は、<br>バーンやフリーズといった<yellow>“状態異常”<c>に対する<br>プレイヤーキャラクターの<yellow>“かかりにくさ”<c>を表すパラメーターです。<br><br>この状態異常耐性の値は、<br>武器や防具の特殊能力などによって上昇させることができます。"""
