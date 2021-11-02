@@ -254,7 +254,7 @@ BraverCompoundbowSlideDodge#0,"""Inputting a direction and using your Weapon Act
 BouncerDownRateUp#0,"""Boosts the duration of all types of Down inflicted on Enemies."""
 BouncerNakedKiller#0,"""Boosts damage dealt to & reduces damage taken from enemies, based on the number of destroyed parts those enemies have."""
 BouncerDefeatPpGain#0,"""Recovers PP when an enemy is Downed near you.<br><yellow>※Main Class only.<c>"""
-BouncerFrailPointUp#0,"""Boosts Physical & Elemental Decline's Down durations.<br><yellow>※Main Class only.<c>"""
+BouncerFrailPointUp#0,"""Boosts Physical & Elemental Decline's Down rate.<br><yellow>※Main Class only.<c>"""
 BouncerPhysicFrail#0,"""Makes it easier for Photon Arts to inflict Physical Down on Enemies. Further PA hits can boost the effect, up to 3 stages.<br><yellow>※Main Class/Dual Blades only.<c>"""
 BouncerElementFrail#0,"""Makes it easier for Photon Arts to inflict Attribute Down on Enemies. Further PA hits can boost the effect, up to 3 stages.<br><yellow>※Main Class/Jet Boots only.<c>"""
 BouncerPhotonBladeFever#0,"""<yellow>[Active Skill]<c><br>Boosts the damage and rate of fire of your Photon Blades for a set time.<br><yellow>※Dual Blades only.<c>"""
