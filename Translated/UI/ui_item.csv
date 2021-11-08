@@ -11340,7 +11340,7 @@ Explanation3#9,"""Select Special Abilities to add. If you do not select a Specia
 Explanation4#7,"""This is the final confirmation for adding Special Abilities. Check what you are doing and select \""Yes\"" if there are no problems."""
 Title#26,"""Select Item to Limit Break"""
 Explanation1#13,"""Select a weapon or armor to Limit Break. <c fodf60>Items that have reached their final Grind Limit cannot be selected.<c>"""
-Explanation2#12,"""This is the final confirmation for LImit Breaking. Check the details carefully, and select \""Yes\"" if there are no problems."""
+Explanation2#12,"""This is the final confirmation for Limit Breaking. Check the details carefully, and select \""Yes\"" if there are no problems."""
 LimitMax#0,"""$(0) has reached its maximum limit."""
 CompareTitle#5,"""Limit Break Details"""
 SupportTitle#1,"""Limit Break Support Item"""
