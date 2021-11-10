@@ -944,8 +944,6 @@ Mes_Loginbonus#0,"""Aquí hay una descripción de la bonificación por inicio de
 ItemDetail_Title#0,"""Detalles del artículo"""
 LoginBonusTabName_Normal#0,"""Normal $(0)"""
 LoginBonusTabName_Limited#0,"""Por tiempo limitado $(0)"""
-LoginBonusTabName_Beginner#0,"""Principiante $(0)"""
-LoginBonusTabName_Comeback#0,"""Retornado$(0)"""
 LoginBonusTabName_Inherit#0,"""引き継ぎ$(0)"""
 AutoWordTypeTrialStart#0,"""Comienza el Trial"""
 AutoWordTypeTrialSuccess#0,"""Completas el Trial"""
