@@ -2476,7 +2476,7 @@ SetValueInputNumberMessage#0,"""Please set a price for this item.<br>※Cannot u
 SetValueInputNumberMessage_2#0,"""(Listing Fees: """
 SetValueInputNumberMessage_3#0,"""$(1)<pict 4space>$(0))"""
 SetValueInputNumberMessage_4#0,"""(Price w/ Tax: """
-SetValueInputNumberMessage_5#0,"""Please enter the price you wish to set.<br>※"Endorsed!" items must meet the minimum price."""
+SetValueInputNumberMessage_5#0,"""Please enter the price you wish to set.<br>※\""Endorsed!\"" items must meet the minimum price."""
 SetValueInputNumberMessage_6#0,"""(Minimum price: """
 SetValueInputNumberMessage_7#0,"""※A list fee will be deducted from your final sale value."""
 CancelTitle#9,"""Cancel Putting Items Up for Sale"""
