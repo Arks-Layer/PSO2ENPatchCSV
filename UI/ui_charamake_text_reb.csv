@@ -658,4 +658,4 @@ Message#0,"""Do you want to skip the <yellow>Prologue<c>?<br><br>If you have alr
 Message_Playgo#0,"""Do you want to skip the <yellow>Prologue<c>?<br><br>If you have already completed the Prologue story quest with <br>a different character, you can start the game from the <br><yellow>Main Task \""The First Trial\""<c>.<br><br><yellow>Note: You will return to the Title Screen <br>if the download hasn't been completed.<c>"""
 Label_Type1#0,"""Prioritize Type 1"""
 Label_Type2#0,"""Prioritize Type 2"""
-Label_Notice#2,"""ロビーアクションやモーションなどで、<br>タイプ１とタイプ２のどちらを<br>優先して再生するかを選択します。<br><br><yellow>※すべてのロビーアクションや<br>\u3000モーションの優先度が変わります。<c>"""
+Label_Notice#2,"""Select whether to prioritize using the Type 1 or Type 2 versions of Lobby Actions.<br><br><yellow>※This will affect all Lobby Actions and motions.<c>"""
