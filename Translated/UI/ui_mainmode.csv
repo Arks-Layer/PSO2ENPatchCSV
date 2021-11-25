@@ -1724,7 +1724,7 @@ FighterExplanation#0,"""<yellow>Ultra Close Ranged Class<c><br>A class whose val
 GunnerExplanation#0,"""<yellow>Close Ranged Class<c><br>A class whose value lies in wielding ranged weapons at close range. They make light work of enemies with their great mobility and a relentless torrent of bullets."""
 TecherExplanation#0,"""<yellow>Close & Long Ranged Class<c><br>A class whose value lies in supporting other players through Techniques. With temporal ability enhancement and healing, they can stack any battle in their favor."""
 BraverExplanation#0,"""<yellow>Close & Long Ranged Class<c><br>A class whose value lies in its ability to flexibly fight at any range by choosing the right weapon for the job. Its attacks are simple, but have hidden depths."""
-BouncerExplanation#0,"""<yellow>近距離および中距離戦闘向きのクラス<c><br>機動力が高く、空中戦を得意とする。<br>物理ダウンや属性ダウンを誘発して、戦闘を有利に進める。"""
+BouncerExplanation#0,"""<yellow>Close & Mid Ranged Class<c><br>A class whose value lies in its high mobility and aerial combat skills. They can inflict Physical and Element Down on enemies to turn the battle in their favour."""
 NoPaMessage#0,"""No Photon Arts"""
 NoTechnicMessage#1,"""No Techniques"""
 NoOverloadMessage#1,"""No Compound Techniques"""
