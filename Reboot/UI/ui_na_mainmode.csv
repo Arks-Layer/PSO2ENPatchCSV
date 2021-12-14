@@ -1,6 +1,6 @@
 DetailsFormTitle#0,"""Подробности Mission Pass"""
-GoToArksMission#0,"""<%Function>: ARKS миссии"""
-GoToArksMission_Key#0,"""<%MultiSelect>: ARKS миссии"""
+GoToArksMission#0,"""<%Function>: Задачи"""
+GoToArksMission_Key#0,"""<%MultiSelect>: Задачи"""
 GoToReward#0,"""<%Function>: Подробности награды"""
 GoToReward_Key#0,"""[Ctrl]＋[Tab]: Подробности награды"""
 EndDateAndTime#0,"""Конец: <utcymdt>$(0)</utcymdt>"""
