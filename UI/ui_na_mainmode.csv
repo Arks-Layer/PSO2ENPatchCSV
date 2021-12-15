@@ -78,6 +78,7 @@ MP_ControlGuide#0,"""결정: <%Decide>\u3000\u3000취소: <%Cancel>\u3000\u3000�
 MP_RewardList_Header#0,"""보수 목록"""
 MP_RewardList_Issue#0,"""아래의 보수를 받았습니다."""
 MP_RewardList_Close#0,"""닫기"""
+Title#0,"""アイテム詳細"""
 MainMenu_EveryMP#0,"""미션패스"""
 StatusLabel_EveryMp_Title#0,"""간이 미션패스 정보"""
 MissionPassOpen#0,"""<%Exception>키로 미션패스로"""
