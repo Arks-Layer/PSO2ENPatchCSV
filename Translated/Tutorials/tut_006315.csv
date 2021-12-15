@@ -1,3 +1,4 @@
 Title#0,"""Your Mag"""
 text0001#0,"""Your Mag is a reliable little buddy that supports you in your ARKS activities.<br><br>For instance, its \""Active Sonar\"" feature helps you detect undiscovered Cocoons and Towers.<br><br>You can show or hide your Mag by selecting <yellow>\""Equipment/Palette\""<c> from the Main Menu, then selecting <yellow>\""Mag\""<c>."""
 text0002#0,"""On this menu, you can also use special devices to change the appearance of your Mag.<br><br>Use the Register New Form button to register a new appearance for your Mag.<br><yellow>※Once registered, you can switch to the new Form by selecting \""Change Mag Form\"".<c>"""
+text0003#0,"""“アクティブソナー”の拡張機能として、<br>“ソナーサポート設定”の“アクティブソナーの目標設定”から、<br>探知する目標を追加することができます。<br><br>探知を有効にした場合、フィールド上にある未発見の対象物の位置を、<br>マグの反応する間隔や、走査線の方向などで示します。"""
