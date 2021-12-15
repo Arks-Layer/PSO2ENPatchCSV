@@ -1,2 +1,3 @@
 Title#0,"""Cambio de movimiento"""
 text0001#0,"""El cambio de movimiento te permite cambiar las animaciones de tu personaje para acciones específicas, como saltar o correr.<br><br>Puedes obtener animaciones adicionales para utilizarlas a partir de los artículos del ticket."""
+text0002#0,"""変更したモーションは、“メインメニュー”の<br>“装備/サブパレット”のなかにある“ファッション編集”から、<br><yellow>“マイファッション”<c>に登録できます。<br><br>登録した内容は、同じく“メインメニュー”の<br>“パーソナル”のなかにある“キャラクター情報”から、<br><yellow>“ファッション情報”<c>を選択することで確認できます。"""

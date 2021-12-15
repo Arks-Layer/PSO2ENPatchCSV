@@ -78,6 +78,7 @@ MP_ControlGuide#0,"""決定：<%Decide>\u3000\u3000キャンセル：<%Cancel>\u
 MP_RewardList_Header#0,"""報酬一覧"""
 MP_RewardList_Issue#0,"""以下の報酬を受け取りました。"""
 MP_RewardList_Close#0,"""閉じる"""
+Title#0,"""アイテム詳細"""
 MainMenu_EveryMP#0,"""Mission Pass"""
 StatusLabel_EveryMp_Title#0,"""Información básica sobre Mission Pass"""
 MissionPassOpen#0,"""<%Exception>: Mission Pass"""

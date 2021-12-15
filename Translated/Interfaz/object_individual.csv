@@ -6,3 +6,4 @@ ReverserSignLimit#0,"""No puede llevar más, excedió la capacidad máxima para 
 Levelup#0,"""El Drome controlado ha subido de nivel."""
 Join#0,"""Tuvo éxito en piratear el hostil Drome. Se une a esta acción de combate."""
 Renounced#0,"""El drome que lo acompaña se ha retirado porque está fuera de control."""
+GetBlastChargeSign#0,"""フォトンブラストが発動可能な状態です。"""

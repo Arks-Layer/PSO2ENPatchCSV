@@ -1,3 +1,4 @@
 Title#0,"""Tu Mag"""
 text0001#0,"""Tu Mag es un pequeño compañero de confianza que te apoya en tus actividades ARKS.<br><br>Puedes utilizar un \""Mag Device\"" para cambiar su apariencia."""
 text0002#0,"""また、同じマグのメニューから、<br>各種デバイスを使用することで、マグの見た目を変更できます。<br><br>・新フォルムの登録：マグの新しいフォルムを登録します。<br><yellow>※追加したフォルムは“マグのフォルム変更”から変更できます。<c>"""
+text0003#0,"""“アクティブソナー”の拡張機能として、<br>“ソナーサポート設定”の“アクティブソナーの目標設定”から、<br>探知する目標を追加することができます。<br><br>探知を有効にした場合、フィールド上にある未発見の対象物の位置を、<br>マグの反応する間隔や、走査線の方向などで示します。"""
