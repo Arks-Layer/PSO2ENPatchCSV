@@ -118,6 +118,6 @@ BattleTrigger_Deactivate_QuestDrop#0,"""트리거 포탈 기동에 필요한 배
 BattleTrigger_Deactivate_Worldmap#0,"""다른 트리거 포탈이 기동하여 기동 중이던 포탈이 중지됐습니다."""
 BattleTrigger_Activate_Marge#0,"""트리거 포탈 가동 상황이 참가한 파티 측의 상태로 갱신되었습니다."""
 BlockMoveFailed#0,"""블록 이동에 실패했습니다."""
-RegionMoveConfirm#0,"""$(0) 리전의 블록으로 이동합니다.<br><br>퀘스트 매칭은 취소되고<br>수주 중인 퀘스트는 파기됩니다.<br>괜찮습니까?"""
-RegionCityMoveConfirm#0,"""$(0) 시티로 이동합니다.<br>괜찮습니까?"""
+RegionMoveConfirm#0,"""$(0) 리전의 블록으로 이동합니다.<br><br>퀘스트 매칭은 취소되고<br>수주 중인 퀘스트는 파기됩니다.<br>괜찮으시겠습니까?"""
+RegionCityMoveConfirm#0,"""$(0) 시티로 이동합니다.<br>괜찮으시겠습니까?"""
 RegionMoving#0,"""$(0) 리전으로 이동 중입니다."""
