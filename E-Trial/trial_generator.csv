@@ -1,0 +1,8 @@
+TrialName#0,"""트랜저브 파괴"""
+TrialBeginMsg#0,"""출현한 에너미를 토벌하고 발생원을 파괴하라!"""
+TrialAbstract#0,"""에너미 토벌"""
+NpcComOnForetaste#0,"""/voice11_voice_navi002_trial_0001_011 에너미의 발생원이 근처에 있는 것 같아요.<br>적 증원이 오기 전에 파괴해 주세요."""
+NpcComOnBegin#0,"""/voice11_voice_navi002_trial_0001_020 “트랜저브”는 에너미를 전송할 때<br>실드를 해제해서 무방비 상태가 돼요. 그 틈에 공격해 주세요."""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_069 에너미 섬멸을 확인.<br>대응해 주셔서 감사합니다."""
+NpcComOnFailure#0,"""/voice11_voice_navi002_trial_0001_073 에너미 철수…….<br>평시 감시체제로 이행합니다."""
+NpcComOnCoreOpen#0,"""/voice11_voice_navi002_trial_0001_040 “트랜저브”가 에너미 전송을 개시.<br>이 틈에 코어를 공격해 주세요."""

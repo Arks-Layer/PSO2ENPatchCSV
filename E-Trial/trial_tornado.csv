@@ -1,0 +1,7 @@
+TrialName#0,"""폭풍역 에너미 토벌"""
+TrialBeginMsg#0,"""특이 기상 하에서 에너미를 격파하라!"""
+TrialAbstract#0,"""에너미 토벌"""
+NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_001 근처에 대형 에너미 반응이 있습니다!<br>그리고, 국지적으로 대기 상태가 불안정한 듯 해요. 경계를!"""
+NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_009 에너미 섬멸을 확인했습니다!<br>협력해 주셔서 감사합니다."""
+NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_072 에너미가 철수했습니다.<br>……깊게 쫓지 말고다른 목표를 찾도록 해요."""
+NpcComOnBegin#0,"""회오리 주변에 떠다니는 블래스트 차지 사인을 회수해서<br>전투를 유리하게 이끌어 주세요!"""
