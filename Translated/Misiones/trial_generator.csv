@@ -1,0 +1,8 @@
+TrialName#0,"""Transorve Destruction"""
+TrialBeginMsg#0,"""¡Suprime a los enemigos que aparecen y destruye su punto de aparición!"""
+TrialAbstract#0,"""Derrota a los enemigos"""
+NpcComOnForetaste#0,"""/voice11_voice_navi002_trial_0001_011 El punto de aparición del enemigo está cerca.<br>Destrúyelo antes de que aparescan más."""
+NpcComOnBegin#0,"""/voice11_voice_navi002_trial_0001_020 Los Transorves dejan caer sus escudos y son vulnerables cuando<br>teleportan a los enemigos. Ese es el momento de atacar."""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_069 Erradicación del enemigo confirmada.<br>Gracias por su apoyo"""
+NpcComOnFailure#0,"""/voice11_voice_navi002_trial_0001_073 Enemigo en retirada.<br>Cambiando a seguimiento estándar"""
+NpcComOnCoreOpen#0,"""/voice11_voice_navi002_trial_0001_040 Los Transorves han comenzado a teletransportar enemigos. Apunta al núcleo ahora"""

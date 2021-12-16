@@ -1,0 +1,7 @@
+TrialName#0,"""Supresión de enemigos en la zona de tormentas"""
+TrialBeginMsg#0,"""¡Derrota a los enemigos en condiciones meteorológicas anómalas!"""
+TrialAbstract#0,"""Derrota a los enemigos"""
+NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_001 ¡Hay una gran lectura enemiga cerca de su ubicación! Las condiciones atmosféricas locales también parecen desestabilizarse. ¡Cuidado!"""
+NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_009 ¡Erradicación del enemigo confirmada! <br>Su apoyo es apreciado."""
+NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_072 El enemigo se ha retirado. <br>Por favor, no lo persigan. Diríjanse a otro objetivo."""
+NpcComOnBegin#0,"""Recoge las Blastisigne esparcidas por el tornado para ganar la partida."""
