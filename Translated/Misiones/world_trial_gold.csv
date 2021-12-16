@@ -10,7 +10,7 @@ ViewGuide#0,"""Por favor, confirme los detalles a través del menú principal"""
 ViewPersonalScoreTitle#0,"""Stellar Grace en este Sector"""
 ViewPersonalBoostTitle#0,"""Aumento de S Grace [Personal]"""
 NpcComOnBegin#0,"""¡Numerosos proyectiles detectados sobre la cabeza!<br>Parece que están soltando Stellar Grace."""
-NpcComOnBegin2#0,"""Pedimos a todos los defensores de ARKS que recuperen los<br>contenedores piramidales repartidos por cada zona.
+NpcComOnBegin2#0,"""Pedimos a todos los defensores de ARKS que recuperen los<br>contenedores piramidales repartidos por cada zona."""
 NpcComOnSuccess#0,"""¡Gracias al duro trabajo de todos los defensores de ARKS,<br>hemos conseguido el número de contenedores previsto!"""
 NpcComOnSuccess2#0,"""Misión completada. ¡Gran trabajo!"""
 NpcComOnFailure#0,"""No hemos podido obtener el número de contenedores deseado. <br>Extender la operación más allá hará mella en nuestras defensas."""
