@@ -23,7 +23,7 @@ ScratchChoice__ScratchCategory_NoCharge#0,"""Бесплатная лотерея
 ScratchChoice__ScratchCategory_StepUp#0,"""Шаг вперёд"""
 ScratchChoice_ConfirmationAC#0,"""Необходима оплата <pict Arcscash>AC.<br>Вы купите $(1)<br>за $(0) AC.<br>Вы уверены?"""
 ScratchChoice_ConfirmationSG#0,"""<pict StarGem>Необходима оплата <pict StarGem>SG.<br>Вы купите $(1)<br>за $(0) SG.<br>Вы уверены?"""
-ScratchChoice_ConfirmationTicket#0,"""Чтобы сыграть $(1) раз(а) вам<br>понадобится Билет особой лотереи:<br>$(0) шт<br>Вы уверены?"""
+ScratchChoice_ConfirmationTicket#0,"""Чтобы сыграть $(0) раз(а) вам<br>понадобится Билет особой лотереи:<br>$(1) шт<br>Вы уверены?"""
 ScratchChoice_ConfirmationNoCharge#0,"""Сыграйте $(0)<br>один раз бесплатно.<br>※Бесплатные ежедневные попытки в <utc>15:00</utc>.<br>Вы уверены?"""
 ScratchChoice_ConfirmationACre#0,"""Необходима оплата <pict Arcscash>AC.<br>Продолжить приобретение $(1)<br>за $(0) AC.<br>Вы уверены?"""
 ScratchChoice_ConfirmationSGre#0,"""Необходима оплата <pict StarGem>SG.<br>Продолжить приобретение $(1)<br>за $(0) SG.<br>Вы уверены?"""
