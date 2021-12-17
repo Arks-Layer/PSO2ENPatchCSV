@@ -1,7 +1,0 @@
-TrialName#0,"""暴風域エネミー討伐"""
-TrialBeginMsg#0,"""特異天候下でエネミーを撃破せよ！"""
-TrialAbstract#0,"""エネミーを倒す"""
-NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_001 その付近に大型エネミーの反応があります！<br>それと、局所的に大気の状態が不安定なようです。警戒を！"""
-NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_009 エネミーの殲滅を確認しました！<br>協力いただき、ありがとうございます。"""
-NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_072 エネミーが撤退しました。<br>……深追いせず、別の目標を探しましょう。"""
-NpcComOnBegin#0,"""竜巻の周囲をただようブラストチャージサインを回収し、<br>戦いを有利に進めてください！"""
