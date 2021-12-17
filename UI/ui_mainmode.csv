@@ -3710,7 +3710,7 @@ FighterLimitBreakInsurance#1,"""리미티 브레이크 사용 중<br>남은 HP �
 KnuckleDodgeHeatRevenge#1,"""너클 장비 중<br>무기 액션을 통한회피 성공 시 <br>다음 통상 공격이 5단계로 변화한다."""
 FighterKnuckleSwayCounterPlus#1,"""너클 장비 중<br>무기 액션을 통한 회피 성공 시<br>다시 무기 액션을 사용함으로써<br>카운터가 발생한다."""
 FighterKnuckleNormalAttackPlus#1,"""너클을 이용한 공격 단계가<br>최대 5단계로 변화한다."""
-GunnerChainTrigger#1,"""트윈 머신 건의 차지 PA 발동 후<br>공격으로 “체인 수”를 증가시키고<br>다시 차지 PA를 맞힘으로써 강력한<br>""체인 피니쉬\""가 발생한다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
+GunnerChainTrigger#1,"""트윈 머신 건의 차지 PA 발동 후<br>공격으로 “체인 수”를 증가시키고<br>다시 차지 PA를 맞힘으로써 강력한<br>\""체인 피니쉬\""가 발생한다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
 GunnerChainFinishTimeBonus#1,"""체인 피니쉬 발생 후<br>체인 트리거의 체인 수에 따라<br>재사용 대기 시간을<br>단축시킨다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
 GunnerSRollArts#1,"""트윈 머신 건 장비 시<br>무기 액션 중에<br>PA 버튼을 눌러<br>PP를 소비하여 위력이 높은 공격을 사용한다."""
 GunnerChainBoost#1,"""체인 피니쉬 발생 후 일정시간<br>트윈 머신 건 무기 액션의<br>동작이 변화하고 체인 수에 따라<br>트윈 머신 건의 공격 속도가 상승한다.<br><yellow>이 기술은 메인 클래스만 적용된다"""
