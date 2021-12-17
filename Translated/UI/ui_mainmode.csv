@@ -3722,7 +3722,7 @@ TechterWandElementChange#1,"""ウォンド装備中、<br>チャージテクニ�
 TechterWandElementDiscard#1,"""ウォンド装備中、<br>武器アクションボタンを長押しすることで、ウォンドエレメントチェンジによって<br>変化した法撃爆発の属性を元に戻す。"""
 TechterHeal#1,"""レスタサイン使用時の回復量が増加し、<br>周囲のキャラクターも回復する。<br><yellow>このスキルはメインクラスのみ適用される。"""
 TechterWandGuardCounter#1,"""ウォンド装備中、<br>武器アクションによるガード成功時に、<br>通常攻撃を行うことで<br>カウンターが発生する。"""
-FighterKnuckleAttackExtra#1,"""ナックルによる通常攻撃段数が、<br>最大５段階に増加する。"""
+FighterKnuckleAttackExtra#1,"""Increases the number of steps in your Normal Attack combo to 5.<br><yellow>※Knuckles only.<c>"""
 Duration#0,"""Duration"""
 Recast#0,"""Cooldown"""
 AtpRate#0,"""Power"""
