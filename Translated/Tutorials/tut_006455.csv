@@ -1,0 +1,4 @@
+Title#0,"""Room Matching Settings"""
+text0001#0,"""Room Matching Settings allow you to set a password for a Room in your Section, in order to only match with players who have set the same password."""
+text0002#0,"""If you want to set a Room Password, open the Main Menu, select \""Communication\"", then select \""Room Matching Settings\"" and set a Room Password.<br><br>Opening Room Matching Settings again and deleting the Room Password will change the Room back to normal matching."""
+text0003#0,"""If you want to join a Room that has a Password set, go to the Section where the Room is located, open Room Matching Settings and enter the Room Password.<br><br><yellow>※If another Party Member has set a different Password, you will not be able to join the same Room as each other.<br>※You cannot move to a Room with a Password set within ARKS bases.<c>"""
