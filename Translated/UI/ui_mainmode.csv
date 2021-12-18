@@ -3106,7 +3106,7 @@ TechterDebandPpReStraight#1,"""Gives Shifta-Deband an additional effect that boo
 TechterExtendAssist#1,"""Extends the duration of Shifta-Deband.<br><yellow>※Main Class only.<c>"""
 TechterElementWeakBonus#1,"""Makes the Photon Blast gauge fill faster when attacking enemies with their Attribute weakness."""
 TechterAwakeYell#1,"""Makes the Photon Blast gauge fill faster when boss enemies are nearby."""
-TechterReverseBonus#1,"""Applies the effect of Shifta-Deband to revived allies.<br><yellow>※Main Class only.<c>"""
+TechterReverseBonus#1,"""Applies the effect of Shifta-Deband to your revived allies.<br><yellow>※Main Class only.<c>"""
 TechterWandGuardCounterEdge#1,"""Generates a shockwave when Wand Parry Counter activates."""
 TechterFallSlowCharge#1,"""Makes you descend more slowly in the air while charging a PA or Technique.<br><yellow>※Techter Weapons only.<c>"""
 TechterBartaBlot#1,"""Hitting enemies with uncharged Ice Techniques enough times engraves an Ice Crest on them. Hitting an enemy with an Ice Crest with a charged Ice Technique detonates the Ice Crest."""
