@@ -1077,7 +1077,7 @@ Config_Reb_051_Hint#0,"""메일 답장 시<br>상대방의 문장을 인용할�
 Config_Reb_051_Select_0#0,"""인용 안함"""
 Config_Reb_051_Select_1#0,"""인용"""
 Config_Reb_052_Name#0,"""드랍 연출 표시의 레어리티 설정"""
-Config_Reb_052_Hint#0,"""레어 아이템의 드롭 연출을<br>레어리티 몇부터 표시할지 설정합니다."""
+Config_Reb_052_Hint#0,"""레어 아이템의 드랍 연출을<br>레어리티 몇부터 표시할지 설정합니다."""
 Config_Reb_053_Name#0,"""다른 플레이어의 팀 채팅 표시"""
 Config_Reb_053_Hint#0,"""다른 플레이어의 팀 채팅을<br>표시할지 설정합니다."""
 Config_Reb_053_Select_0#0,"""전부 표시"""

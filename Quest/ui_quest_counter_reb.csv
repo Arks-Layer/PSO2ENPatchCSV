@@ -103,7 +103,7 @@ EnemyLvATTENTION2#0,"""퀘스트에 출현하는 에너미보다<br>레벨이 $(
 BoostInfo_Title#0,"""캠페인 부스트"""
 CampaignBoost_Experience#0,"""<pict exp_icon><pict 4space>획득 경험치＋$(0)％"""
 CampaignBoost_MesetaDrop#0,"""<pict meseta_icon2><pict 4space>획득 메세타＋$(0)％"""
-CampaignBoost_RareDrop#0,"""<pict rare_drop_icon><pict 4space>레어 드롭 배율＋$(0)％"""
+CampaignBoost_RareDrop#0,"""<pict rare_drop_icon><pict 4space>레어 드랍 배율＋$(0)％"""
 Quest_Conditions_Possible#0,"""$(0)"""
 Quest_Conditions_Impossible#0,"""<yellow>$(0)<c>"""
 Quest_Conditions_None#0,"""---"""
