@@ -112,7 +112,7 @@ NoticeDestroyAllBase#0,"""모든 자원 채굴 리그 피해 막심!<br>적 세�
 BattleTrigger_ConsumeItem#0,"""$(0) 아이템을 소비했습니다."""
 BattleTrigger_Activate_Success#0,"""$(0)님께서 트리거 포탈을 기동했습니다."""
 BattleTrigger_Activate_Error_PartyMember#0,"""트리거 포탈은 파티 리더만 실행할 수 있습니다."""
-BattleTrigger_Deactivate#0,"""배틀 트리거 사용자가 해당 섹션에서 이동하여 트리고거 포탈이 중지됐습니다."""
+BattleTrigger_Deactivate#0,"""배틀 트리거 사용자가 해당 섹션에서 이동하여 트리거 포탈이 중지됐습니다."""
 BattleTrigger_Deactivate_LostItem#0,"""트리거 포탈 기동에 필요한 배틀 트리거 갯수가 부족하여 기능이 중지됐습니다."""
 BattleTrigger_Deactivate_QuestDrop#0,"""트리거 포탈 기동에 필요한 배틀 트리거 갯수가 부족하여 기능이 중지됐습니다."""
 BattleTrigger_Deactivate_Worldmap#0,"""다른 트리거 포탈이 기동하여 기동 중이던 포탈이 중지됐습니다."""
