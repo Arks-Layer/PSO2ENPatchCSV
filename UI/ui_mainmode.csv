@@ -3706,7 +3706,7 @@ ForceHeal#1,"""레스타 사인 사용 시<br>주변 캐릭터도 회복한다.<
 ForceReflectCounterShot#1,"""무기 액션을 통한<br>가드 성공 후의 테크닉 발동 시<br>같은 속성의 포격탄 공격을 추가한다.<br><yellow>※로드 전용<c>"""
 FighterLimitBreak#1,"""<yellow>【액티브 스킬】<c><br>일정시간 <br>받는 데미지가 증가하는 대신<br>파이터 무기의 위력이 상승한다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
 FighterLimitBreakPhotonCharge#1,"""리미트 브레이크 종료 시<br>PP가 회복된다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
-FighterLimitBreakInsurance#1,"""리미티 브레이크 사용 중<br>남은 HP 이상의 피해를 입었을 때<br>리미트 브레이크가 끝나고 남은 HP가 1이 된다.<br>발동 시 무적 시간이 발생한다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
+FighterLimitBreakInsurance#1,"""리미터 브레이크 사용 중<br>남은 HP 이상의 피해를 입었을 때<br>리미트 브레이크가 끝나고 남은 HP가 1이 된다.<br>발동 시 무적 시간이 발생한다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
 KnuckleDodgeHeatRevenge#1,"""너클 장비 중<br>무기 액션을 통한회피 성공 시 <br>다음 통상 공격이 5단계로 변화한다."""
 FighterKnuckleSwayCounterPlus#1,"""너클 장비 중<br>무기 액션을 통한 회피 성공 시<br>다시 무기 액션을 사용함으로써<br>카운터가 발생한다."""
 FighterKnuckleNormalAttackPlus#1,"""너클을 이용한 공격 단계가<br>최대 5단계로 변화한다."""
