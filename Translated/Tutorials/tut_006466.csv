@@ -1,0 +1,4 @@
+Title#0,"""Mag Color Settings"""
+text0001#0,"""Some Mag Forms can have their color changed.<br><br>When you have a recolorable Mag Form selected, you can change its color by opening the Main Menu, selecting \""Mag\"", then selecting \""Mag Color Settings\"".<br><br><yellow>※To change a Mag's color, you need a special consumable item.<c>"""
+text0002#0,"""You can change your Mag to any color you choose by using an \""N-Mag Color Change Device\"" in Mag Color Settings.<br><br>In addition, you can use an N-Mag Color Sync Device to synchronize the color of your Mag with that of your costume."""
+text0003#0,"""If you set \""Use Form Default Color\"" to ON, your Mag will ignore its color setting and use its Form's default color.<br><br><yellow>※The \""Use Form Default Color\"" option is only available for Forms introduced in NGS.<c>"""

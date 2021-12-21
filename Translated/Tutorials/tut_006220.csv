@@ -1,2 +1,2 @@
 Title#0,"""Equipping Armor"""
-text0001#0,"""To equip armor:<br>\u3000From the main menu<br>\u3000select <yellow>\""Equipment/Palette\""<c><br>\u3000then <yellow>\""Armor\""<c>.<br>\u3000Choose a slot, and pick the armor<br>\u3000to equip to it from the list."""
+text0001#0,"""To equip armor:<br>\u3000From the <swguidetype T_MainMenu> Main Menu<br>\u3000select <yellow>\""Equipment/Palette\""<c><br>\u3000then <yellow>\""Equip Armor\""<c>.<br>\u3000Choose a slot, and pick the armor<br>\u3000to equip to it from the list."""

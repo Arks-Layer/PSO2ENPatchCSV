@@ -1,3 +1,3 @@
 Title#0,"""Depart Immediately"""
-text0001#0,"""When matchmaking for a Quest, the Quest will start immediately as soon as you reach the required number of people.<br><br>However, if you select \""Depart Immediately\"" from the Quest menu, you can propose starting the quest with just the people who have arrived so far."""
-text0002#0,"""When you select \""Depart Immediately\"", the proposal will be put to other players so they can confirm whether they want to start the Quest now or not.<br><br>If everyone agrees, the Quest will begin.<br>※Non-answers will be treated as agreement."""
+text0001#0,"""When matching for a Quest, the Quest will start immediately as soon as you reach the required number of people.<br><br>However, if you select \""Depart Immediately\"" from the Quest Menu, you can propose starting the quest with just the people who have arrived so far."""
+text0002#0,"""When you select \""Depart Immediately\"", the proposal will be put to other players so they can confirm whether they want to start the Quest now or not.<br><br>If everyone agrees, the Quest will begin.<br><yellow>※Non-answers will be treated as agreement.<c>"""
