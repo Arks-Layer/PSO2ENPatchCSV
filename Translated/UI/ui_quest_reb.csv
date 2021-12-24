@@ -17,7 +17,7 @@ E_eario_Dolls_1120001_Open#0,"""Notifying all ARKS: We are beginning a mission t
 E_defense_Common_End#0,"""All DOLLS have been annihilated, and the defense target's safety is confirmed. Thank you for your cooperation in this mission."""
 E_eario_defense_1120003_Notice#0,"""Emergency Alert: A large number of DOLLS have appeared in the Aelio region. Defense preparations are now underway. All ARKS, please prepare to sortie. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
 E_eario_defense_1120003_Open#0,"""Notifying all ARKS: We are now beginning operations to defend ourselves against the large number of DOLLS that have appeared in the Aelio region. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
-E_ritemu_Dolls_1120030_Notice#0,"""Emergency Alert: A large number of DOLLS have appeared in the  Retem region. All ARKS are to prepare for sortie. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
+E_ritemu_Dolls_1120030_Notice#0,"""Emergency Alert: A large number of DOLLS have appeared in the Retem region. All ARKS are to prepare for sortie. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
 E_ritemu_Dolls_1120030_Open#0,"""Notifying all ARKS: We are now beginning operations to defend ourselves against the large number of DOLLS that have appeared in the Retem region. All ARKS are requested to join this operation. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
 Title_Quest_Info_1#0,"""Simple Quest Information"""
 Title_Quest_Info_2#0,"""Quest Name"""
