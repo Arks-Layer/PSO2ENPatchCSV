@@ -1295,7 +1295,7 @@ Explanation_Unreadable_FavoriteSettable#0,"""<c f0df60>現在、$(1)を読み込
 Explanation_Unreadable_FavoriteSettable_v#0,"""<c f0df60>現在、$(1)を読み込むことができません。<c>$(0)<c f0df60>を押すと「お気に入り倉庫」に設定できます。<c>"""
 Explanation_Unreadable#0,"""現在、$(1)を読み込むことができません。$(0)を押すと「お気に入り倉庫」に設定できます。"""
 Explanation_Unreadable_v#0,"""現在、$(0)を読み込むことができません。"""
-Confirm_MoveAll#0,"""Move all Material and Tool items to your Material Storage?<br><br><yellow>※Favorited Storage will be loaded first.<c>"""
+Confirm_MoveAll#0,"""Move all Material and Tool items to your Material Storage?"""
 WarehouseCharacter#0,"""Character Storage"""
 WarehouseEs#0,"""PSO2es Storage"""
 WarehouseDish#0,"""Material Storage"""
