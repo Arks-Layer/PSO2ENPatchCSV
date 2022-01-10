@@ -1,0 +1,5 @@
+WindowTitle_Banner#0,"""WEB 페이지 링크"""
+Guide_Focus#0,"""<%ChangeCtrlWindowForward><yellow>로 WEB 페이지 링크 선택으로<c>"""
+Banner_ON#0,"""<pict bnr_on>"""
+Banner_OFF#0,"""<pict bnr_off>"""
+MenuLockMessage#0,"""이 기능은 게임을 진행하면 이용할 수 있습니다."""
