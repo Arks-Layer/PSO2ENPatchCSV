@@ -1,4 +1,4 @@
-exit_confirm_title#0,"""終了確認"""
+exit_confirm_title#0,"""종료 확인"""
 exit_confirm_message#0,"""キャラクターポートレートを終了し<br>タイトルに戻ります。<br>정말 괜찮으시겠습니까?"""
 slash#0,"""/"""
 button1#0,"""ポーズ設定"""
