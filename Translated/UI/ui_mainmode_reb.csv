@@ -190,7 +190,7 @@ FighterDSDodgeWindCounter#0,"""Pressing the Normal Attack button after successfu
 FighterDSDodgeWindWACounter#0,"""Using your Weapon Action again after successfully blocking an attack with your Weapon Action will generate a special counterattack.<br><yellow>※Double Saber only.<c>"""
 FighterDSDeadlyArcher#0,"""Holding the Weapon Action button with a stage 2 Kamaitachi active will transfer all of the Kamaitachi's energy into your weapon and throw it at the enemy.<br><yellow>※Double Saber only.<c>"""
 FighterDSEnhanceAttack#0,"""Holding the Normal Attack button with a stage 2 Kamaitachi active will use all of the Kamaitachi's energy to generate a whirlwind.<br><yellow>※Double Saber only.<c>"""
-GunnerChainTrigger#0,"""Activates when you hit with a charged PA. \""Chain Count\"" increases by hitting Normal Attacks. Hit with a charged PA again for a powerful \""Chain Finish\""<br><yellow>※Main Class/Twin Machineguns only.<c>"""
+GunnerChainTrigger#0,"""Activates when you hit with a charged PA. \""Chain Count\"" increases by hitting Normal Attacks. Hit with a charged PA again for a powerful \""Chain Finish\"."<br><yellow>※Main Class/Twin Machineguns only.<c>"""
 GunnerChainFinish#0,"""チェインフィニッシュ発生後に、<br>チェイントリガー中のチェイン数に応じて、<br>再発動が可能になるまでの<br>時間が短縮される。<br><yellow>このスキルはメインクラスのみ適用される。"""
 GunnerChainFinishTimeBonus#0,"""Reduces Chain Trigger's cooldown time based on your Chain Count when you perform a Chain Finish.<br><yellow>※Main Class only.<c>"""
 GunnerSRollArts#0,"""Press the PA button while performing your Weapon Action to consume PP and perform a very powerful attack.<br><yellow>※Twin Machineguns only.<c>"""
