@@ -3710,7 +3710,7 @@ FighterLimitBreakInsurance#1,"""During Limit Break, if you would be incapacitate
 KnuckleDodgeHeatRevenge#1,"""When you successfully evade an attack with your Weapon Action, your Normal Attack combo skips to its fifth step.<br><yellow>※Knuckles only.<c>"""
 FighterKnuckleSwayCounterPlus#1,"""Using your Weapon Action after Knuckle Sway Counter activates will generate an additional counterattack."""
 FighterKnuckleNormalAttackPlus#1,"""ナックルによる通常攻撃段数が、<br>最大５段階に増加する。"""
-GunnerChainTrigger#1,"""Activates when you hit with a charged PA. \""Chain Count\"" increases by hitting Normal Attacks. Hit with a charged PA again for a powerful \""Chain Finish\""<br><yellow>※Main Class/Twin Machineguns only.<c>"""
+GunnerChainTrigger#1,"""Activates when you hit with a charged PA. \""Chain Count\"" increases by hitting Normal Attacks. Hit with a charged PA again for a powerful \""Chain Finish\"".<br><yellow>※Main Class/Twin Machineguns only.<c>"""
 GunnerChainFinishTimeBonus#1,"""Reduces Chain Trigger's cooldown time based on your Chain Count when you perform a Chain Finish.<br><yellow>※Main Class only.<c>"""
 GunnerSRollArts#1,"""Press the PA button while performing your Weapon Action to consume PP and perform a very powerful attack.<br><yellow>※Twin Machineguns only.<c>"""
 GunnerChainBoost#1,"""When Chain Finish activates, the behavior of attacks during your Weapon Action change and your attack speed increases for a set time.<br><yellow>※Main Class/Twin Machineguns only.<c>"""
