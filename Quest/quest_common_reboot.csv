@@ -108,7 +108,7 @@ DiscriptionAccidentWall#0,"""【SUDDEN INCIDENT!!】<br>저지벽 <yellow>바리
 DiscriptionAccidentErosionCoreRush#0,"""【SUDDEN INCIDENT!!】<br>거점 습격기<yellow>백 핵<c>이 출현! 자원 채굴 리그에게서 배제하라!"""
 DiscriptionAccidentErosionGunRush#0,"""【SUDDEN INCIDENT!!】<br>중거리 중포<yellow>멜드람<c>이 출현! 공격 개시 전에 격파하라!"""
 DiscriptionAccidentBoostEnemy#0,"""【SUDDEN INCIDENT!!】<br>인핸스드 에너미 한 무리를 확인! 강력한 공격에 주의하라!"""
-NoticeDestroyAllBase#0,"""모든 자원 채굴 리그 피해 막심!<br>적 세력이 공새를 정지… …차례차례 철퇴하는 모양……!"""
+NoticeDestroyAllBase#0,"""모든 자원 채굴 리그 피해 막심!<br>적 세력이 공세를 정지… …차례차례 철퇴하는 모양……!"""
 BattleTrigger_ConsumeItem#0,"""$(0) 아이템을 소비했습니다."""
 BattleTrigger_Activate_Success#0,"""$(0)님께서 트리거 포탈을 기동했습니다."""
 BattleTrigger_Activate_Error_PartyMember#0,"""트리거 포탈은 파티 리더만 실행할 수 있습니다."""
