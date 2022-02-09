@@ -1208,6 +1208,7 @@ FlagTicketAllRegistedCaption_3#0,"""사용 상황:<yellow>계정에 등록됨<c>
 FlagTicketAllRegistedCaption_10#0,"""사용 상황:<yellow>미사용<c><br>\u3000사용하면 계정 내의 모든 캐릭터로<br>\u3000선택 가능하게됩니다."""
 TraceAlreadyIconText#0,"""이하 기능을 사용해 거래 불가<br>무기 폼 변경<br>유닛 스킬 추가"""
 RebootItemDetailsMessage#0,"""『PSO2 : NGS』전용 아이템.<br>『PSO2 : NGS』 블록으로<br>이동하면 사용할 수 있다."""
+Musicdisc_Note003#0,"""このアイテムは『PSO2：NGS』ブロック専用です。<br>『PSO2：NGS』の“メインメニュー”にある<br>“装備/サブパレッド”から“マグ”の項目を<br>選択することで登録・再生ができます。"""
 MesetaDenomination#0,"""메세타"""
 AcDenomination#0,"""AC"""
 CpDenomination#1,"""FUN"""

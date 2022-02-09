@@ -3583,6 +3583,7 @@ AutoSkillTreeList#0,"""추천 설정으로 이하의 스킬을 덮어씌웁니�
 AutoSkillTreeListVita#0,"""추천 설정으로 이하의 스킬을 덮어씌웁니다.<br>괜찮으십니까?<br><red>※임의로 분배하고싶을 경우는<br>모든 스킬 트리 초기화 패스가 필요하게됩니다. <c>"""
 AutoSkillTreeSuccess#0,"""추천 스킬을 덮어 썼습니다."""
 AutoSkillTreeFailed#0,"""추천 스킬 덮어쓰기에 실패했습니다."""
+SkillTreeName#0,"""$(0)($(1))"""
 LibraryMenu_Title#0,"""도감 리스트"""
 LibraryMenuType_Weapon#0,"""무기도감"""
 LibraryMenuType_Unit#0,"""유닛도감"""
