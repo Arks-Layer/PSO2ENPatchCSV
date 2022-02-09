@@ -3583,6 +3583,7 @@ AutoSkillTreeList#0,"""The following skills will be distributed.<br>Do you wish 
 AutoSkillTreeListVita#0,"""The following skills will be distributed.<br>Do you wish to continue?<br><red>※If you want to manually assign skill points,<br>[All Skill Tree Reset Pass] will be required.<c>"""
 AutoSkillTreeSuccess#0,"""Recommended skills have been assigned."""
 AutoSkillTreeFailed#0,"""Failed to assign recommended skills."""
+SkillTreeName#0,"""$(0)($(1))"""
 LibraryMenu_Title#0,"""Library List"""
 LibraryMenuType_Weapon#0,"""Weapon Library"""
 LibraryMenuType_Unit#0,"""Unit Library"""
