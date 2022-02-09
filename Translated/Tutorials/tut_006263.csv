@@ -1,2 +1,3 @@
 Title#0,"""Equipping Weapons"""
 text0001#0,"""You can equip a weapon by selecting <yellow>\""Equipment/Palette\""<c> on the Main Menu, then selecting <yellow>\""Equip Weapon\""<c> and choosing the weapon you want to equip from the list.<br><br>If you want to remove your weapon, press the \""Remove\"" button at the bottom of the list."""
+text0002#0,"""武器は打撃・射撃・法撃に分類されます。<br>武器の分類は、武器アイコンの背景色に対応しています。<br><br><pict attack_shock>：打撃<br><pict attack_shooting>：射撃<br><pict attack_magic>：法撃"""
