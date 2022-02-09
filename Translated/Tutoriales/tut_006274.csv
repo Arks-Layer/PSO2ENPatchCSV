@@ -1,2 +1,3 @@
 Title#0,"""Comida rápida"""
 text0001#0,"""Puedes utilizar la fruta y la verdura obtenida en la recolección para crear comida rápida, que <yellow>mejora temporalmente tus habilidades<br>.<br><br>La comida rápida puede crearse en el puesto de comida o en cualquier dispositivo Ryuker."""
+text0002#0,"""“クイックフード”を作る時に、現在地と同じリージョンで<br>採取可能な野菜や果物などを“フード素材”に選択すると、<br>“リージョン一致効果”が発生します。<br><br>素材の採取可能リージョンは、アイテム詳細で確認可能です。"""

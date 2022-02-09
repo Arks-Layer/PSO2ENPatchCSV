@@ -1,2 +1,3 @@
 Title#0,"""Equipar armas"""
 text0001#0,"""Puedes equipar un arma seleccionando <yellow>\""Equipo/Paleta\""<c> en el menú principal, luego seleccionando la opción <yellow>\""Equipar Arma\""<c> y eligiendo el arma que quieres equipar de la lista.<br><br>Si quieres quitar tu arma, pulsa el botón \""Remover\"" en la parte inferior de la lista."""
+text0002#0,"""武器は打撃・射撃・法撃に分類されます。<br>武器の分類は、武器アイコンの背景色に対応しています。<br><br><pict attack_shock>：打撃<br><pict attack_shooting>：射撃<br><pict attack_magic>：法撃"""

@@ -1,3 +1,6 @@
 Title#0,"""My Shop."""
 text0001#0,"""Puedes utilizar el sistema de \""Mi tienda\"" para vender los artículos que no quieras y comprar los artículos de otros jugadores.<br><br>Cuando quieras comprar un artículo, puedes filtrar la lista por condiciones específicas en el menú \""Búsqueda de productos\"".<br>Debes tener un conjunto Premium o un pase de Mi tienda activo para poder poner a la venta los artículos."""
 text0002#0,"""El menú de gestión de mi tienda te permite poner a la venta artículos y cobrar las ganancias de los artículos que se han vendido a otros jugadores.<br><br>Ten en cuenta que hay un precio mínimo que puedes establecer para los artículos, y que al comprador se le cobrará un impuesto adicional en el momento de la compra."""
+text0003#0,"""また、称号<yellow>“マイショップマスター”<c>を獲得すると、<br>以下の機能が解放されます。<br><br>・“マイショップ管理”での広告編集"""
+text0004#0,"""称号<yellow>“マイショップバイヤー”<c>を獲得すると、<br>以下の機能が解放されます。<br><br>・各種ショップの検索<br><br>この検索結果には、称号<yellow>“マイショップマスター”<c>を<br>所持した出品者のみ表示されます。"""
+text0005#0,"""さらに、出品者が称号<yellow>“マイショップマスター”<c>を所持し、<br>マイショップ利用者が称号<yellow>“マイショップバイヤー”<c>を<br>所持していることで以下の機能が解放されます。<br><br>・商品検索時の“マイショップ詳細”表示<br>・“売り上げ金確認”のプレイヤーIDネーム閲覧<br>・商品購入時の出品者へのグッジョブ送信"""
