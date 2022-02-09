@@ -3583,6 +3583,7 @@ AutoSkillTreeList#0,"""Следующие умения будут распред
 AutoSkillTreeListVita#0,"""Следующие умения будут распределены.<br>Желаете продолжить?<br><red>※Если хотите вручную назначить очки умений,<br>тогда вам потребуется [All Skill Tree Reset Pass]<c>"""
 AutoSkillTreeSuccess#0,"""Выбраны рекомендуемые умения."""
 AutoSkillTreeFailed#0,"""Не удалось выбрать рекомендуемые умения."""
+SkillTreeName#0,"""$(0)($(1))"""
 LibraryMenu_Title#0,"""Список библиотек"""
 LibraryMenuType_Weapon#0,"""Библиотека оружия"""
 LibraryMenuType_Unit#0,"""Библиотека юнитов"""
