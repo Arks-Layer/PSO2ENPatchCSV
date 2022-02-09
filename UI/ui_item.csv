@@ -1208,6 +1208,7 @@ FlagTicketAllRegistedCaption_3#0,"""Estado: <yellow>registrado en tu cuenta <c><
 FlagTicketAllRegistedCaption_10#0,"""Estado: <yellow>Sin usar<c><br>Cuando se usa, se aplica a todos los personajes de esta cuenta."""
 TraceAlreadyIconText#0,"""No se puede intercambiar porque se ha utilizado con una de las siguientes funciones: <br>・Weapon Form change<br>・Unit Skill Addition"""
 RebootItemDetailsMessage#0,"""Este objeto es para usar en [PSO2:NGS].<br>Transferir a un bloque de [PSO2:NGS]<br>te permitirá usar el objeto."""
+Musicdisc_Note003#0,"""このアイテムは『PSO2：NGS』ブロック専用です。<br>『PSO2：NGS』の“メインメニュー”にある<br>“装備/サブパレッド”から“マグ”の項目を<br>選択することで登録・再生ができます。"""
 MesetaDenomination#0,""" Mesetas"""
 AcDenomination#0,"""ＡＣ"""
 CpDenomination#1,"""FUN"""

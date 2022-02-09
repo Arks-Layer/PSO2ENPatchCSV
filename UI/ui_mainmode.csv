@@ -3583,6 +3583,7 @@ AutoSkillTreeList#0,"""Las siguientes habilidades serán distribuidas.<br>¿Dese
 AutoSkillTreeListVita#0,"""Las siguientes habilidades serán distribuidas.<br>¿Deseas continuar?<br><red>※ Si desea asignar manualmente puntos de habilidad<br>será necesario un [All Skill Tree Reset Pass] .<c>"""
 AutoSkillTreeSuccess#0,"""Las habilidades recomendadas han sido asignadas"""
 AutoSkillTreeFailed#0,"""Error al asignar las habilidades recomendadas."""
+SkillTreeName#0,"""$(0)($(1))"""
 LibraryMenu_Title#0,"""Lista de la biblioteca"""
 LibraryMenuType_Weapon#0,"""Biblioteca de armas"""
 LibraryMenuType_Unit#0,"""Biblioteca de Units"""
