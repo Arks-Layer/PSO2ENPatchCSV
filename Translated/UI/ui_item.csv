@@ -2157,7 +2157,7 @@ Explanation12#1,"""<c f0df60>Please select all the items you would like to withd
 Explanation13#1,"""<c f0df60>Please enter a shop ad. This will be used to promote your shop in the search list.<c>"""
 Explanation14#1,"""<c f0df60>Here you may confirm and collect your earnings.<c>"""
 Explanation15#1,"""マイショップの出店利用期限の確認や、期限を延長するためのアイテムの購入ができます。"""
-ManageWithRightsBuy_Supplemental#0,"""<yellow>アイテム出品<c>は、下記のいずれかの利用権が有効なときに<br>利用できます。項目を選択すると利用権が購入できます。"""
+ManageWithRightsBuy_Supplemental#0,"""You can <yellow>put items up for sale<c> if you possess the permission to use<br>either one of below. Select the title to purchase the permission."""
 Title#15,"""Item Search"""
 ResultTitle#1,"""Item Search Results"""
 NoItemMessage#6,"""No items matched your search criteria"""
