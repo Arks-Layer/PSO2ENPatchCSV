@@ -2130,7 +2130,7 @@ ShopListTitle_Blockade_message_2#0,"""You cannot use this feature until you have
 ManageWithdrawItemWarehouse#0,"""Withdraw Items to Storage"""
 ManageEditCm#0,"""Edit Advertisement"""
 ManageConfirmRecord#0,"""Confirm Shop Earnings"""
-ManageWithRightsBuy#0,"""出店利用期限確認"""
+ManageWithRightsBuy#0,"""Confirm Shop Expiration"""
 ManageBack#0,"""Return"""
 Explanation1#8,"""List items that you don't need for sale, or purchase items others have listed. <c f0df60>※You can only trade items obtained in [PSO2: NGS] here.<c>"""
 Explanation1_v#0,"""<c f0df61>自分でアイテムを販売するショップを開いたり、他のプレイヤーショップで買い物ができます。<c>"""
