@@ -1,0 +1,7 @@
+IncidentName#0,"""Defeat the $(0)!"""
+TrialBeginMsg#0,"""Defeat the $(0)!"""
+TrialAbstract#0,"""Use the icicles to clear the barrier and<br>suppress the $(0)!"""
+NpcComOnBegin#0,"""U-urgent orders! Powerful <br>enemy readings confirmed! <br>Please, defeat it quickly!"""
+NpcComOnSuccess#0,"""Enemy readings<br>have disappeared!<br>Thank you, everyone!"""
+NpcComOnFailure#0,"""You've been completely stalled!<br>This is exactly what the enemy<br>wanted to happen! There's<br>nothing we can do about it<br>now, hurry and move on!"""
+NpcComOnHint#0,"""The barrier doesn't go all the way<br>up! You can go over the top of it!<br>Is there anything you can climb...?"""

@@ -1,0 +1,4 @@
+name01#0,"""Combo & Combo Fever"""
+text01#0,"""<c 00ffff>Combos<c><br>When you Harvest or Fish continuously, a combo will start.<br><br>As you continuously increase your combo, a chance for a Fever will also increase.<br><br>Fishing or Harvesting at a gathering spot until it's depleted will also increase your combo."""
+text02#0,"""<c 00ffff>Fever<c><br>While you are Harvesting and/or Fishing, a Fever may occur.<br><br>During a Fever, chances of getting rare material increases, as well as the amount of materials gained.<br>Additionally, the gathering spot will have unlimited attempts for the duration of the Fever."""
+text03#0,"""When the Fever or Combo ends, you will be awarded EXP based on the number of combos achieved.<br><yellow>※There is a limit to how much EXP is awarded.<c>"""

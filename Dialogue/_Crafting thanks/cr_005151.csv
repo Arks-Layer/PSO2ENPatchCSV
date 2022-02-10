@@ -1,0 +1,7 @@
+name01#0,"""Saga"""
+text00#0,"""It's as I requested.<br>Item present and correct."""
+text01#0,"""I've received the item.<br>Request complete."""
+text02#0,"""Looks like you're finished.<br>This is the item I asked for.<br>I thank you."""
+text00#1,"""It's better than I anticipated.<br>I didn't think you'd go this far.<br>My thanks."""
+text01#1,"""Good work.<br>This is a superior item.<br>I'll ask you if I need anything else."""
+text02#1,"""This is more than I asked for.<br>Excellent craftsmanship.<br>I thank you."""

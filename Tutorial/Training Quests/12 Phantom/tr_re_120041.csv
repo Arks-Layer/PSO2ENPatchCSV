@@ -1,0 +1,6 @@
+train_title#0,"""Task 2: <yellow>Hit an enemy with a Rod's Weapon Action"""
+tut_title#0,"""Rod's Weapon Action"""
+text100#0,"""・Use <%PhotonArts> to hit enemies with the<br>Rod Weapon Action"""
+text100_3b#0,"""・Use <%MainPaletteC> to hit enemies with the<br>Rod Weapon Action"""
+tut_win_title#0,"""The Phantom Rod Weapon Action"""
+tut_win_text100#0,"""Phantom Rod's Weapon Action fires a \""Photon Bullet\"", which can inflict damage and recover PP at a distance.<br><br>Its charged Weapon Action is a wide-area attack, which is particularly effective against groups of enemies."""

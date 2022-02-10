@@ -1,0 +1,7 @@
+PreBegin#0,"""何か来そうな気がするニャ！"""
+Begin#0,"""/toge /ci1 1 ねぇねぇ、なんでこの子は<br>トロとクロの格好をしてるの？"""
+Success#0,"""/toge /mn37 /ci2 4 Kyehehe! We won! Mewsic to Toro's ears!"""
+Failure#0,"""/mn2 /ci4 1 Hissss! What a catastrophe!"""
+Dead#0,"""Nyaaaah... Time for a little cat nap..."""
+BuddyDead#0,"""うわ～ん！\u3000クロが<br>いなくなったら イヤなのニャ～"""
+TargetDead#0,"""ふぅ、今の子は誰だったのかニャ～？<br>次に会う時は<br>お友達になれるといいニャ～"""

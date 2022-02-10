@@ -1,0 +1,8 @@
+Life_Recovery#0,"""Virtual Device <yellow>$(0)<c> halted. Reward: <yellow>Life Recovery<c>"""
+Point_Gift#0,"""Virtual Device <yellow>$(0)<c> halted. Reward: <yellow>Earned $(1) Points<c>"""
+Condition_Power#0,"""Virtual Device <yellow>$(0)<c> halted. Reward: <yellow>ATK up<c> (Current: $(1))"""
+Condition_PpRegene#0,"""Virtual Device <yellow>$(0)<c> halted. Reward: <yellow>PP recovery up<c> (Current: $(1))"""
+Condition_Toughness#0,"""Virtual Device <yellow>$(0)<c> halted. Reward: <yellow>Maximum HP up<c> (Current: $(1))"""
+Condition_Photon#0,"""Virtual Device <yellow>$(0)<c> halted. Reward: <yellow>Maximum PP up<c> (Current: $(1))"""
+Condition_Level_Default#0,"""<yellow>Lv.$(0)<c>"""
+Condition_Level_Maximum#0,"""<pure_orange>Lv.MAX<c>"""

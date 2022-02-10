@@ -1,0 +1,5 @@
+name01#0,"""Status Effects"""
+text01#0,"""This will explain Status Ailments.<br><br>A change in your status, called a status ailment, can occur when either an individual or hostile is hit during an attack. """
+text02#0,"""For example: If a character is under the effect of 'Burn'; that player will be on fire and will take damage over time for a set period. On top of that, Burn can spread to other players if they are touching.<br><br>Other Status Effects include 'Freeze', 'Shock', 'Mirage', 'Panic', and 'Poison'."""
+text03#0,"""The following icons correspond to each Status Effect: <br><br><pict ac_burn>: Burn <br><pict ac_frieze>: Freeze <br><pict ac_shock>: Shock <br><pict ac_mirage>: Mirage <br><pict ac_panic>: Panic <br><pict ac_poison>: Poison """
+text04#0,"""Generally, status ailments are automatically removed after a certain amount of time has passed. The item, 'Sol Atomizer' can quickly restore you and your allies to health. """

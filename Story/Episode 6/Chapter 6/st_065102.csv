@@ -1,0 +1,3 @@
+window_message_0000#0,"""Progress from the previous session was saved.<br>Would you like to continue?<br><br>Saved progress will not be erased if 'From the beginning' is selected."""
+window_message_0010#0,"""Continue"""
+window_message_0020#0,"""From the beginning"""

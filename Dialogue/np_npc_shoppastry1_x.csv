@@ -1,0 +1,8 @@
+GREET_RANGE#0,"""What?"""
+GREET_SHOP_OPEN#0,"""Want some cake?"""
+GREET_SHOP_DISABLE#0,"""Other than saving us, no thank you."""
+GREET_SHOP_CLOSE#0,"""See you next time."""
+00_01#0,"""Option 1"""
+00_02#0,"""Option 2"""
+TALK_ST#0,"""Talk"""
+C_ORDER_ST#0,"""Listen to details"""

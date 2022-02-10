@@ -1,0 +1,8 @@
+11_voice_NPC_5050_101#0,"""Okay, now that I have your report, you've cleared all the conditions and passed the test."""
+text02#0,"""I hereby grant you, <%me>, permission to select the Techter class."""
+text03#0,"""Now then, let me give you some advice. The use of a new class gives you more options in combat, it's true."""
+text04#0,"""But don't get cocky. All it really means is there's more that you can do. It doesn't mean that you've become more formidable."""
+text05#0,"""Don't forget that. After all, there's only one of you, and we'd hate to lose you."""
+text100#0,"""Techters"""
+text101#0,"""Techters are a class skilled in support actions. While the techs of the Force class are more attack-oriented, those of the Techter class tend to be more for supporting roles."""
+text102#0,"""This class features enhanced effect and range for support and recovery Techniques, including improved Heal recovery and an added critical effect to Shifta."""

@@ -1,0 +1,8 @@
+skit01#0,"""Whaa! More lasers!"""
+skit02#0,"""Same as before! Let's defeat these enemies!"""
+name01#0,"""Kohri"""
+name02#0,"""Hitsugi"""
+name01#1,"""Xiera"""
+text01#0,"""通信"""
+skit01#1,"""/ci1 2 Whaa! More lasers!"""
+skit02#1,"""/ci1 2 Same as before! Let's defeat these enemies!"""

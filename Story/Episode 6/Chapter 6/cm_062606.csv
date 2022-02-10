@@ -1,0 +1,4 @@
+line01#0,"""Detected by laser sensors <yellow><%skit_text><c>/6 times.<br>Final alert level: 1<br>Dissolsaber readings detected!"""
+line02#0,"""Detected by laser sensors <yellow><%skit_text><c>/6 times.<br>Final alert level: 2<br>Enhanced Luminmech readings detected!"""
+line03#0,"""Detected by laser sensors <yellow><%skit_text><c>/6 times.<br>Final alert level: 3<br><yellow>Warning! Multiple powerful enemy readings inbound!<c>"""
+line04#0,"""Detected by laser sensors <yellow><%skit_text><c>/6 times.<br>Final alert level: 4<br><light_red>Danger! Enemy reinforcements and Photoner weapon readings detected!<c>"""
