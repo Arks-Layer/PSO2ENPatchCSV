@@ -2126,7 +2126,7 @@ ManageExhibitItem#0,"""Place Items on Sale from Inventory <pict 4space><pict Arc
 ManageExhibitItemWarehouse#0,"""Place Items on Sale from Storage <pict Arcscash>"""
 ManageWithdrawItem#0,"""Withdraw Items to Inventory"""
 ShopListTitle_Blockade_message#0,"""称号「$(0)」の取得で開放されます。"""
-ShopListTitle_Blockade_message_2#0,"""称号“マイショップマスター”を獲得することで使用可能になります。"""
+ShopListTitle_Blockade_message_2#0,"""You cannot use this feature until you have obtained the Title \""My Shop Master\""."""
 ManageWithdrawItemWarehouse#0,"""Withdraw Items to Storage"""
 ManageEditCm#0,"""Edit Advertisement"""
 ManageConfirmRecord#0,"""Confirm Shop Earnings"""
