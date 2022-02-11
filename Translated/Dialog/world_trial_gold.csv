@@ -1,6 +1,6 @@
 WorldTrialName#0,"""Stellar Grace Collection"""
 WorldTrialExplain#0,"""Collect as many Stellar Graces across the world as you can.<br>The more you collect, the higher your Rare Drop Rate multiplier."""
-WorldTrialExplain02#0,"""ステラーグレイスを、時間内により多く収集する。収集数に応じて、<br>レアドロップ倍率とシーズナルポイント獲得倍率が上昇する。"""
+WorldTrialExplain02#0,"""Cpllect as many Stellar Graces as you can within the time limit.<br>The more you collect, the higher your Rare Drop Rate multiplier and Seasonal Points multiplier."""
 WorldTrialAbstract#0,"""Stellar Grace Collection"""
 MessageRemainingTreasure1#0,"""This Section: $(0) remaining"""
 MessageRemainingTreasure2#0,"""This Section: $(0) remaining"""
