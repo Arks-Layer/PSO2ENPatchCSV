@@ -7670,7 +7670,7 @@ Window_FasttravelTerminal_9_3#0,"""Enter a Password for the Room then click \""S
 Window_FasttravelTerminal_9_4#0,"""Set"""
 Window_FasttravelTerminal_9_5#0,"""Return"""
 Window_FasttravelTerminal_9_6#0,"""Reset"""
-Window_FasttravelTerminal_9_7#0,"""Hide Room Password"""
+Window_FasttravelTerminal_9_7#0,"""Show Room Password"""
 Window_FasttravelTerminal_9_8#0,"""Join Room With Password"""
 Window_FasttravelTerminal_9_9#0,"""This will join a Room that has a Password set.<br>Continue?"""
 Window_FasttravelTerminal_9_10#0,"""The selected Room was full, so a new Room has been created. Multi-Party matching in this Section will be limited."""
