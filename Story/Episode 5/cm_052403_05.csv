@@ -1,7 +1,0 @@
-skit01#0,"""/ci1 2 Look, the ARKS have come!"""
-skit02#0,"""/ci1 2 Please, help us!"""
-skit03#0,"""/ci1 2 Come with us, we'll take you to a safe place!"""
-skit01#1,"""Look, the ARKS have come!"""
-skit02#1,"""Please, help us!"""
-skit03#1,"""Come with us, we'll take you to a safe place!"""
-LineWindow#0,"""<c ffff00>Failure if any citizens are incapacitated.<c>"""

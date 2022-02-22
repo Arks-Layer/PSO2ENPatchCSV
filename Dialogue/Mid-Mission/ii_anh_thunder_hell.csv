@@ -1,5 +1,0 @@
-IncidentName#0,"""Defeat the $(0)!"""
-TrialBeginMsg#0,"""Defeat the $(0)!"""
-TrialAbstract#0,"""Defeat the $(0)!"""
-NpcComOnBegin#0,"""It seems you've been dragged<br>into the enemy's battle enclosure.<br>Destroy the enemy as quickly<br>as possible and try to escape."""
-NpcComOnSuccess#0,"""Hostile readings have disappeared.<br>Thank you for your efforts."""

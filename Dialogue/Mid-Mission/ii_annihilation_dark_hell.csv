@@ -1,7 +1,0 @@
-IncidentName#0,"""Defeat the $(0)!"""
-TrialBeginMsg#0,"""Defeat the $(0)!"""
-TrialAbstract#0,"""Dispel the magic and<br>suppress the $(0)!"""
-NpcComOnBegin#0,"""Confirming a strong hostile<br>reading. The light levels in that<br>area have dropped. Your range<br>of vision will be low. Be careful."""
-NpcComOnSuccess#0,"""Hostile readings have<br>disappeared. Thank you<br>for your efforts, everyone."""
-NpcComOnHint#0,"""There must be some entity<br>absorbing light nearby. Find it<br>and eliminate it immediately."""
-NpcComOnChance#0,"""Light levels have returned to<br>normal. Now attack the enemy!"""

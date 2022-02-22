@@ -1,8 +1,0 @@
-11_voice_NPC_5050_100#0,"""So, you want to obtain a Mag license. According to the ARKS regulations, I must first explain Mags to you."""
-text02#0,"""A Mag is a machine lifeform that you can equip. In addition to helping you in combat, it can support you in various ways, such as strengthening you physically."""
-text03#0,"""You can give it items to make it grow, raising its parameters and giving it new abilities. Its form may also change."""
-text04#0,"""You can change your Mag's appearance and abilities by using items called \""Mag Devices\"", which can be obtained from some exchange shops."""
-text05#0,"""That's all from me. If you think you understand what you've learned, turn in the Client Order."""
-text00#0,"""Mags"""
-text01#0,"""\""Mags\"" are support machines that players can equip.<br><br>When a Mag is equipped, the player's parameters will increase, and the Mag will be able to provide attack and recovery assistance, charge and unleash a Photon Blast, as well as additional support effects such as occasionally producing healing items.<br><br>As you improve your Mag, your own abilities will also improve."""
-text02#1,"""A Mag cannot act without energy.<br><br>A Mag's energy is recovered when <c ffff00>it is given an item<c>. In addition, when a Mag's <c ffff00>total parameters reach a high enough level<c>, it will evolve into a new form, gaining new actions and support abilities."""

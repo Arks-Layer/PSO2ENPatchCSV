@@ -1,8 +1,0 @@
-11_voice_NPC_5050_101#0,"""Okay, now that I have your report, you've cleared all the conditions and passed the test."""
-text02#0,"""I hereby grant you, <%me>, permission to select the Gunner class."""
-text03#0,"""Now then, let me give you some advice. The use of a new class gives you more options in combat, it's true."""
-text04#0,"""But don't get cocky. All it really means is there's more that you can do. It doesn't mean that you've become more formidable."""
-text05#0,"""Don't forget that. After all, there's only one of you, and we'd hate to lose you."""
-text100#0,"""Gunners"""
-text101#0,"""Gunners are a class skilled in close-range combat using firearms. They overwhelm the enemy with superior mobility and rapid-fire capabilities."""
-text102#0,"""They can even attack while taking evasive action, allowing them to keep up a steady barrage of fire while on the move."""

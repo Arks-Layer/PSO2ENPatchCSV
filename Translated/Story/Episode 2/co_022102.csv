@@ -1,6 +1,0 @@
-name01#0,"""Aki"""
-name02#0,"""Quna"""
-skit01#0,"""<%me>. It seems the door in C-3 has opened."""
-skit02#0,"""Does that mean that's the right path?"""
-skit01#1,"""/ci1 1 <%me>. It seems the door in C-3 has opened."""
-skit02#1,"""/ci1 2 Does that mean that's the right path?"""

@@ -1,7 +1,0 @@
-text01#0,"""If I were to pick one weapon that fits the Hunter perfectly, it'd have to be the Sword."""
-text02#0,"""Big and sturdy, yet still easy to wield. It's a great all-around weapon."""
-text03#0,"""But even a simple weapon like the Sword takes time to get used to. You really need to use one in the field to get a feel for it."""
-text04#0,"""It just so happens I have a spare Sword lying around. Take it and go practice a bit."""
-text05#0,"""Swords"""
-text06#0,"""Swords are standard striking weapons that are easy for beginners to handle."""
-text07#0,"""Try basic Sword attacks and Photon Arts for yourself. Compared to other melee weapons, Swords have a long reach and are straightforward to use, making them perfect for learning the basics of combat.<br><br><%WeaponActionText>: Guard, reducing damage taken from frontal attacks. Guard just before an attack hits you to prevent all damage from that attack."""
