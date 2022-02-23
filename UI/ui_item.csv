@@ -1340,7 +1340,7 @@ WarehouseQuest_Receiving_Auto_Sell#0,"""퀘스트 창고 아이템을 전부 팔
 WarehouseQuest_Receiving_Guidance_Window_title#0,"""クエスト倉庫の残アイテム確認"""
 WarehouseQuest_Receiving_Guidance_Window_mes#0,"""クエスト倉庫のアイテムは<br>次のクエスト開始時に<yellow>自動的に売却<c>されます。<br>クエスト倉庫を開いて整理しますか？"""
 WarehouseQuest_Receiving_Warning_Message#0,"""<yellow>퀘스트 창고<c>에 아이템이 남아 있는<br>파티 멤버가 있어 퀘스트를 시작할 수 없습니다."""
-WarehouseQuest_Receiving_Confirm_MoveAll#0,"""クエスト倉庫から素材倉庫に一括移動합니다.<br>괜찮으시겠습니까?"""
+WarehouseQuest_Receiving_Confirm_MoveAll#0,"""퀘스트 창고에서 소재 창고로 일괄 이동합니다.<br>괜찮으시겠습니까?"""
 Title#3,"""휴지통"""
 DropTrashbox#0,"""아이템 버리기"""
 Title#4,"""아이템 상세"""
