@@ -1,6 +1,6 @@
 TrialName#0,"""$(0) 요격"""
 TrialBeginMsg#0,"""$(0) 격추시키기!"""
-TrialAbstract#0,"""$(0) 파과하기"""
+TrialAbstract#0,"""$(0) 파괴하기"""
 NpcComOnForetaste#0,"""/voice11_voice_navi003_trial_0001_013 돌즈 관제기의 출현을 확인했어."""
 NpcComOnBegin#0,"""/voice11_voice_navi003_trial_0001_020 관제기 상부에는 코어가 있어.<br>그게 약점이야. 올라탈 방법을 찾아줘!"""
 NpcComOnSuccess#0,"""/voice11_voice_navi003_trial_0001_064 돌즈 관제기 격추 확인!<br>그 느낌으로 다음에도 부탁해!"""
