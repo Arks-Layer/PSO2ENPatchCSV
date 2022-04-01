@@ -800,7 +800,7 @@ UseTicketUpgrade_UsedNormal_UsePlus#0,"""通常版『$(0)』を<br>プラス版�
 UseTicketUpgrade_UsedPlus_UseNormal#0,"""プラス版『$(1)』を<br>既に登録済みのため<br>通常版『$(0)』は<br><yellow>以下の方法でのみ実行できます。<c><br><br>・チャットコマンド<br>・キーボードショートカット<br><br>使用してもよろしいですか？"""
 CostumeRemoveError#0,"""アイテムパックの空き容量不足のため、<br>ファッションアイテムを取り外せません。"""
 MoveWarehouseErrorMessage10#0,"""『PSO2』アイテムパックの空き容量不足、<br>または個々のアイテムの最大所持数を<br>超えるため、移動できません。"""
-Param_Value#0,"""$(0)"""
+Param_Value#0,"""$(0)0"""
 Param_Percent#0,"""$(0)%"""
 Param_MaxValue#0,"""(MAX. $(0))"""
 Param_MaxValue_Limit#0,"""<bright_orange>(MAX. $(0))<c>"""
