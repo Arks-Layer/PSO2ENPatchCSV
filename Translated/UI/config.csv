@@ -700,7 +700,7 @@ Config_058_Hint#0,"""Set whether to display a notification at login when your Pr
 Config_059_Name#0,"""Allow Login Calls from Friends"""
 Config_059_Choices_0#0,"""Allow"""
 Config_059_Choices_1#0,"""Disallow"""
-Config_059_Hint#0,"""When you log in, send Login Call to friends."""
+Config_059_Hint#0,"""Set whether to send a Login Call to Friends when you log in."""
 Config_060_Name#0,"""Party Death Indicators"""
 Config_060_Hint#0,"""Choose whether to display indicators for incapacitated party members.<br>Does not apply to Friend/Support/Free Partners."""
 Config_061_Name#0,"""Other Player Death Indicators"""
