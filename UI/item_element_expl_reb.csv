@@ -349,7 +349,7 @@
 2#4,"""Deal 2.5% more <br>damage to enemies <br>that are weak to <br>\""Fire\"". """
 3#2,"""Deal 2.5% more <br>damage to enemies <br>that are weak to <br>\""Wind\"". """
 4#2,"""Deal 2.5% more <br>damage to enemies <br>that are weak to <br>\""Light\"". """
-5#3,"""弱点属性が“闇”の<br>エネミーに対して<br>威力＋2.5%"""
+5#3,"""Deal 2.5% more <br>damage to enemies <br>that are weak to <br>\""Dark\"". """
 0#5,"""Damage+1.0% """
 1#5,"""Damage+1.0% """
 2#5,"""Damage+1.0% """
