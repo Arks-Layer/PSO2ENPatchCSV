@@ -277,7 +277,7 @@ DsaberPA04#1,"""A Double Saber Photon Art.<br>Generates a Kamaitachi when used.<
 KnucklePA04#1,"""A Knuckles Photon Art.<br>Quickly deflect an enemy attack, then strike with a powerful backhand blow.<br>Power is boosted if you successfully deflect an enemy attack."""
 RiflePA04#1,"""An Assault Rifle Photon Art.<br>Targets a specific location to be detonated. Hold the PA button to designate a location, release it to attack."""
 LauncherPA04#1,"""A Launcher Photon Art.<br>Fire a powerful blast in front of you that blows you backwards.<br>Charging fires the blast as a grenade shot."""
-MachinegunPA04#1,"""“双機銃（ツインマシンガン）”用のフォトンアーツ。<br>華麗に舞いながら、前方に跳ね返る弾丸を放つ。<br>チャージすることで、威力が上昇する。"""
+MachinegunPA04#1,"""A Twin Machineguns Photon Art.<br>Fire off several bullets which bounce around the area in front of you repeatedly. Charging boosts power."""
 KatanaPA04#1,"""“抜剣（カタナ）”用のフォトンアーツ。<br>高速で目標を斬り抜ける。<br>連続して発動すると、挙動が変化する。"""
 CompoundBowPA04#1,"""“強弓（バレットボウ）”用のフォトンアーツ。<br>大きく移動しながら、前方に矢を放つ。<br>チャージすることで、<br>フォトンでできた弓矢との連続攻撃に変化する。"""
 JetBootsPA04#1,"""“魔装脚（ジェットブーツ）”用のフォトンアーツ。<br>素早くエネミーに接近し、強力な蹴撃を見舞う。<br>PAボタンを長押しすると、追加でPPを消費するかわりに、<br>一定回数ダメージを与えるフォトンの刃を、<br>自分の周囲に展開する。"""
