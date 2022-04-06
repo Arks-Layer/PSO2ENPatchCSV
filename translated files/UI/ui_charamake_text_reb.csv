@@ -222,7 +222,7 @@ Help_Item_CreateData_LoadFace#0,"""Считывает лицо и создаёт
 Key_Item_FaceEditMain_Simple#0,"""Голова"""
 Help_Item_FaceEditMain_Simple#0,"""Можете выбрать варианты лица, причёмки, части головы и т.д."""
 Key_Item_FaceEditSub_Simple#0,"""Прочее"""
-Help_Item_FaceEditSub_Simple#0,"""Можете выбрать уши, зубы, язык, а также цвет волос.""
+Help_Item_FaceEditSub_Simple#0,"""Можете выбрать уши, зубы, язык, а также цвет волос."""
 Key_Item_ArmAndHand_Simple#0,"""Руки"""
 Help_Item_ArmAndHand_Simple#0,"""Позволяет отрегулировать баланс между рукой и кистью."""
 Key_Item_BodyEditSub_Simple#0,"""Прочее"""
