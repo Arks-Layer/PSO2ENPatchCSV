@@ -1259,7 +1259,7 @@ TrigerBluePartyJoinDiscardMenuText#0,"""クエストを破棄しますか？<br>
 TrigerBluePartyJoinMenuText#0,"""パーティーから脱退しますか？<br><br>クエスト進行中にパーティーから脱退すると、<br><yellow>“自分だけ”<c>が<br>フィールドに戻ります。<br><br>また、クエスト進行中に得た<br>能力上昇などの効果もすべて失われます。<br><br><yellow>※一度クエストを出ると、<br>\u3000進行中のクエストに再度参加することはできません。<c>"""
 Shootingroom_Info#0,"""Photography Room"""
 Shootingroom_Command_Guide#0,"""“コミュニケーション”の“パーティーコマンド”、または<br>専用のチャットコマンドを使って、天候や時間を変更できます。"""
-LeaderMenuLabel07#0,"""Photography Room"""
+LeaderMenuLabel07#0,"""Photography Room Settings"""
 Shootingroom_Command_Label_Preference#0,"""Field Settings"""
 Shootingroom_Command_Label_Weather#0,"""Weather Settings"""
 Shootingroom_Command_Label_TimePreference#0,"""Time Settings"""
