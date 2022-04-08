@@ -280,7 +280,7 @@ LauncherPA04#1,"""A Launcher Photon Art.<br>Fire a powerful blast in front of yo
 MachinegunPA04#1,"""A Twin Machineguns Photon Art.<br>Fire off several bullets which bounce around the area in front of you repeatedly. Charging boosts power."""
 KatanaPA04#1,"""A Katana Photon Art.<br>Action changes when used continuously.<br>Strike ahead at speed.<br>When used three times in a row,<br>power is enhanced."""
 CompoundBowPA04#1,"""A Bullet Bow Photon Art.<br>Move a great distance, then fire an arrow.<br>Charged, fire off a series of giant Photon bow-and-arrows."""
-JetBootsPA04#1,"""A Jet Boots Photon Art.<br>Hold the button for an alternate action that costs more PP.<br>[Nprmal] Dash in to strike the target with a powerful kick.<br>[Held] Perform a spinning kick that deploys a Photon Blade around you, which strikes all nearby targets repeatedly."""
+JetBootsPA04#1,"""A Jet Boots Photon Art.<br>Hold the button for an alternate action that costs more PP.<br>[Normal] Dash in to strike the target with a powerful kick.<br>[Held] Perform a spinning kick that deploys a Photon Blade around you, which strikes all nearby targets repeatedly."""
 DbladePA04#1,"""A Dual Blades Photon Art.<br>Hold/press the PA button mid-action for an alternate action.<br>Perform a series of attacks that fire off shockwaves.<br>Alternatively, dash in and strike with both blades at once."""
 TypeNon#0,"""None"""
 TypeNoUse#0,"""Photon Blast """
