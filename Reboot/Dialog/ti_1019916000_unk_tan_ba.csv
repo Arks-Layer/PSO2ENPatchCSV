@@ -1,6 +1,6 @@
 TrialName_1Enemy#0,"""Подавление $(0)"""
 TrialBeginMsg_1Enemy#0,"""Одолейте $(0)!"""
-TrialAbstract_1Enemy#0,"""$(0)を倒す"""
+TrialAbstract_1Enemy#0,"""Одолеть $(0)"""
 TrialName_Multi#0,"""エネミー討伐"""
 TrialBeginMsg_Multi#0,"""出現したエネミーを倒せ！"""
 TrialAbstract_Multi#0,"""エネミーを倒す"""
