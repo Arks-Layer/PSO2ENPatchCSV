@@ -345,7 +345,7 @@ DescRandomSetB1_detail#0,"""-30% к зарядке PB на некоторых э
 RandomSetB2_detail#0,"""Случайный вызов B"""
 DescRandomSetB2_detail#0,"""-30% к восстановлению РР<br>на некоторых этажах"""
 RandomSetC1_detail#0,"""Случайный вызов C"""
-DescRandomSetC1_detail#0,""＋40％ к получаемому урону<br>на некоторых этажах"""
+DescRandomSetC1_detail#0,"""＋40％ к получаемому урону<br>на некоторых этажах"""
 RandomSetC2_detail#0,"""Случайный вызов C"""
 DescRandomSetC2_detail#0,"""НР снижается на 4ед. в секунду<br>на некоторых этажах"""
 BuffFirstLineMsg_1#0,"""Настройка испытания<br>$(0)"""
