@@ -1,4 +1,4 @@
-Title#0,"""攻撃アクションの操作"""
-text0001#0,"""通常攻撃：<%NormalAttack><br>PA（フォトンアーツ）／テクニック：<%PhotonArts><br>チャージPA：<%PhotonArts><pict 4space>を長押し<br>裏パレットPA：<%WeaponAction_2><pict 4space>を押しながら<pict 4space><%NormalAttack>"""
-text0002#0,"""ロックオン：<%LockOn><br>ロックオン切り替え：<%LockOn>"""
-text0003#0,"""ダッシュアタック：ダッシュ中に<pict 4space><%NormalAttack><br>ステップアタック：<%Avoid><pict 4space>の後に<pict 4space><%NormalAttack><br>ダイブアタック：空中で<pict 4space><%Jump><pict 4space>を押しながら<pict 4space><%NormalAttack>"""
+Title#0,"""攻擊動作的操作"""
+text0001#0,"""普通攻擊：<%NormalAttack><br>PA（光子技能）／法術：<%PhotonArts><br>蓄力PA：長按<pict 4space><%PhotonArts><br>快捷列內頁PA：按<pict 4space><%WeaponAction_2><pict 4space>的同時按<pict 4space><%NormalAttack>"""
+text0002#0,"""鎖定：<%LockOn><br>切換鎖定：<%LockOn>"""
+text0003#0,"""衝刺攻擊：衝刺中按<pict 4space><%NormalAttack><br>滑步攻擊：<%Avoid><pict 4space>後按<pict 4space><%NormalAttack><br>下墜攻擊：在空中按<pict 4space><%WeaponAction_2><pict 4space>的同時按<pict 4space><%NormalAttack>"""

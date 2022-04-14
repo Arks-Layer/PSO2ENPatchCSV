@@ -1,2 +1,2 @@
-Title#0,"""メインパレットのカスタマイズ"""
-text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<br><yellow>“装備/サブパレット”<c>から<br><yellow>“武器装備”<c>を選択すると、<br>武器パレットに<yellow>武器やPA、テクニック、<br>クラススキルなどを登録<c>できます。<br><br>それぞれのパレットには、<yellow>６つのアクションを登録<c>できます。"""
+Title#0,"""自定義武器快捷列"""
+text0001#0,"""按<swguidetype T_MainMenu>打開主菜單，<br>從<yellow>“裝備/快捷列”<c>中選擇<yellow>“武器裝備”<c>，<br>便可在武器快捷列中<yellow>登錄武器、PA、法術、<br>以及職業技能等項目<c>。<br><br>每個欄列中，可以<yellow>登錄六個動作<c>。"""

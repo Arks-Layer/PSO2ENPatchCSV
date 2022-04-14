@@ -1,3 +1,3 @@
-Title#0,"""ロックオン／ロックオン切り替え"""
-text0001_pad#0,"""ロックオン：<%LockOn><br>ロックオン解除：ロックオン状態で<%LockOn><br>ロックオン切替：ロックオン中に<pict 4space><swguidetype T_Moveguide_r><br><br><yellow>※オプションで“右スティックによるロックオン対象の切り替え”を<br>\u3000“使用しない”にしている場合はこの機能を使用できません。<br>\u3000ロックオンを解除してから、別の対象をロックオンしてください。<c>"""
-text0001_key#0,"""ロックオン：<%LockOn><br>ロックオン解除：ロックオン状態で<%LockOn><br>ロックオン切り替え：<%LockOn>でロックオンを外し、別の対象を再度<%LockOn>"""
+Title#0,"""鎖定／切換鎖定"""
+text0001_pad#0,"""鎖定：<%LockOn><br>解除鎖定：在鎖定狀態下按<%LockOn><br>切換鎖定：在鎖定中按<pict 4space><swguidetype T_Moveguide_r><br><br><yellow>※在設置中將“使用右搖桿切換鎖定目标”選項<br>　設置為了“不使用”時，將無法使用該功能。<br>　請在解除鎖定後，再鎖定其他對象。<c>"""
+text0001_key#0,"""鎖定：<%LockOn><br>解除鎖定：在鎖定狀態下按<%LockOn><br>切換鎖定：按<%LockOn>解除鎖定，再對其他對象進行<%LockOn>"""

@@ -1,3 +1,3 @@
-Title#0,"""フォトンダッシュ"""
-text0001_Pad#0,"""ダッシュ開始：<br>\u3000移動しながら<pict 4space><%Avoid><pict 4space>長押し<br>"""
-text0001_Key#0,"""ダッシュ開始：<br>\u3000移動キーを２回押す<br>\u3000（２回目を長押し）<br>"""
+Title#0,"""光子衝刺"""
+text0001_Pad#0,"""開始衝刺：<br>　在移動時長按<pict 4space><%Avoid><pict 4space><br>"""
+text0001_Key#0,"""開始衝刺：<br>　連按兩次移動鍵<br>　（第二次長按）<br>"""

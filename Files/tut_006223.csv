@@ -1,2 +1,2 @@
-Title#0,"""防具装備"""
-text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<br><yellow>“装備/サブパレット”<c>から<br><yellow>“防具装備”<c>を選択すると、<br>防具パレットに防具を装備できます。<br><br>防具を外したい場合は、<br>最下段の“外す”を選択してください。"""
+Title#0,"""防具裝備"""
+text0001#0,"""按<swguidetype T_MainMenu>打開主菜單，<br>從<yellow>“裝備/快捷列”<c>中選擇<yellow>“防具裝備”<c>，<br>便可裝備防具。<br><br>若想要取下防具，<br>請選擇最下方的“取下”。"""
