@@ -124,7 +124,7 @@ Mes_Matching_Election_End4#0,"""由於匹配中的一部分成員退出，立刻
 Mes_Matching_Election_End5#0,"""由於存在無效票，開始任務的提議被否決了。"""
 Mes_Matching_Election_End6#0,"""超過了最大人數上限。"""
 Mes_Matching_Number_Limit#0,"""本任務還可以通關$(0)次。"""
-Mes_Matching_Start#0,"""開始了任務"$(0)"的匹配。"""
+Mes_Matching_Start#0,"""開始了任務\""$(0)\""的匹配。"""
 Mes_Quest_Desorption#0,"""即將返回$(0)。"""
 Mes_Matching_Election_non#0,"""---"""
 Mes_Matching_Election_Desp1#0,"""從接受任務菜單選擇“提議立刻開始任務”<br>可以以現在的成員開始任務。"""
