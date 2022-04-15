@@ -1,0 +1,5 @@
+Title#0,"""蹬墻跳"""
+text0001#0,"""二段跳躍：<br>　在跳躍中按<pict 4space><%Jump><br>蹬墻跳：<br>　在跳躍中，接觸墻壁<br>　保持按住<pict 4space><%LStick>"""
+text0001_pad#0,"""二段跳躍：<br>　在跳躍中按<pict 4space><%Jump><br>蹬墻跳：<br>　在跳躍中，按住<swguidetype T_Moveguide_l><br>　接觸墻壁"""
+text0001_manual#0,"""二段跳躍：<br>　在跳躍中按<pict 4space><%Jump><br>蹬墻跳：<br>　在跳躍中，按住<pict 4space><swguidetype T_Moveguide_l><br>　接觸墻面並按<pict 4space><%Jump>"""
+text0001_key#0,"""二段跳躍：<br>　在跳躍中按<pict 4space><%Jump><br>蹬墻跳：<br>　在跳躍中，按住<swguidetype T_Moveguide_l><br>　接觸墻壁"""

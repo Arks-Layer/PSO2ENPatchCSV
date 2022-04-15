@@ -1,0 +1,8 @@
+name010#0,"""格伊登|グイーデン"""
+name020#0,"""布魯達|ブルーダー"""
+text010#0,"""終於到最後的課題，“光子爆發”了。"""
+text020#0,"""先準備一下。"""
+Text_SubPallet1#0,"""快捷列選擇："""
+Text_SubPallet2#0,"""快捷列執行："""
+Button_SubPallet1#0,"""<%SubPaletteLeft><pict 4space><%SubPaletteRight>"""
+Button_SubPallet2#0,"""<%SubPalette>"""

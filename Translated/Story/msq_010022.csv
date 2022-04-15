@@ -1,0 +1,8 @@
+Text_DashJump#0,"""衝刺跳躍："""
+Button_DashJump#0,"""衝刺中按<pict 4space><%Jump>"""
+Text_DoubleJump#0,"""二段跳躍："""
+Button_DoubleJump#0,"""<%Jump><pict 4space>后再按一次<pict 4space><%Jump>"""
+name010#0,"""愛娜|アイナ"""
+text010#0,"""然後要登上這個崖邊……"""
+text020#0,"""衝刺的時候跳躍，<br>就能跳得更高。"""
+text030#0,"""試試看吧。"""

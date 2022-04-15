@@ -1,0 +1,5 @@
+Title#0,"""蹬墻跳"""
+text0001#0,"""在跳躍中，按住<%LStick>的狀態下<br>接觸到墻壁等物體，將會自動實行“蹬墻跳”。<br><br>如此一來，便能以通常跳躍時無法到達的高度<yellow>攀登懸崖<c>。"""
+text0001_auto#0,"""在跳躍中，按住<pict 4space><swguidetype T_Moveguide_l><br>接觸墻面後，將會自動實行“蹬墻跳”。<br><br>如此一來，便能以通常跳躍時無法到達的高度<yellow>攀登懸崖<c>。"""
+text0001_manual#0,"""在跳躍中，按住<pict 4space><swguidetype T_Moveguide_l><br>接觸墻面按<pict 4space><%Jump>後，將會實行“蹬墻跳”。<br><br>如此一來，便能以通常跳躍時無法到達的高度<yellow>攀登懸崖<c>。"""
+text0002#0,"""光子衝刺跳後的蹬墻跳<br>將會<yellow>到達更高的地方<c>。"""

@@ -1,0 +1,7 @@
+TrialName#0,"""暴風域敵人討伐"""
+TrialBeginMsg#0,"""在特殊天氣下擊敗敵人！"""
+TrialAbstract#0,"""打倒敵人"""
+NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_001 在這附近偵測到了大型敵人的反應！<br>而且局部的大氣狀況似乎也不穩定。請保持警戒！"""
+NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_009 偵測到敵人已被殲滅！<br>感謝協助。"""
+NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_072 敵人撤退了。<br>……就不要窮追不捨了，去尋找其他目標吧。"""
+NpcComOnBegin#0,"""回收漂浮在龍捲風周圍的“爆發充能光晶”，<br>使戰局朝有利的一面發展吧！"""

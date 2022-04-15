@@ -1,0 +1,8 @@
+TrialName#0,"""迎擊$(0)"""
+TrialBeginMsg#0,"""擊落$(0)！"""
+TrialAbstract#0,"""破壞$(0)"""
+NpcComOnForetaste#0,"""/voice11_voice_navi003_trial_0001_013 確認到DOLLS管制機的出現！"""
+NpcComOnBegin#0,"""/voice11_voice_navi003_trial_0001_020 管制機頂部有一個核心。<br>那就是弱點。想辦法跳上去！"""
+NpcComOnSuccess#0,"""/voice11_voice_navi003_trial_0001_064 DOLLS管制機被擊落了！<br>就像這樣，下次也拜托你了！"""
+NpcComOnFailure#0,"""/voice11_voice_navi003_trial_0001_074 受到損傷的殘存敵人撤退。<br>……不要在意，下次再全部打倒吧！"""
+NpcComOnBigLaser#0,"""/voice11_voice_navi003_trial_0001_045 由於管制機的攻擊，地表變熱了。<br>用那邊的氣流飛上去！"""

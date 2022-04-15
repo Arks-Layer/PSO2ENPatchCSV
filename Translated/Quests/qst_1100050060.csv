@@ -1,0 +1,5 @@
+Text_Glide#0,"""滑翔："""
+Text_Glide_Release#0,"""解除滑翔："""
+Button_Glide_01#0,"""在二段跳躍中按<pict 4space><%Jump>"""
+Button_Glide_02#0,"""或者長按<pict 4space><%Jump><pict 4space>"""
+Button_Glide_Release#0,"""在滑翔中按<pict 4space><%Jump>"""

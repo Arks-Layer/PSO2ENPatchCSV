@@ -1,0 +1,7 @@
+Text_NormalAttack#0,"""普通攻擊"""
+Button_NormalAttack#0,"""<%NormalAttack>"""
+Text_Avoid#0,"""回避"""
+Button_Avoid_Pad#0,"""<%Avoid>"""
+Button_Avoid_Key#0,"""連按2次移動鍵"""
+name010#0,"""愛娜|アイナ"""
+text010#0,"""高的臺階，可以用衝刺跳躍<br>或者用二段跳躍試試看。"""

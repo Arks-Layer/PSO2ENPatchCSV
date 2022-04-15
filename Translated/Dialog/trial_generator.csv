@@ -1,0 +1,8 @@
+TrialName#0,"""破壞招妖匣"""
+TrialBeginMsg#0,"""討伐出現的敵人，破壞其發生源！"""
+TrialAbstract#0,"""打倒敵人"""
+NpcComOnForetaste#0,"""/voice11_voice_navi002_trial_0001_011 敵人的發生源似乎就在附近。<br>請在增援出現前將其破壞。"""
+NpcComOnBegin#0,"""/voice11_voice_navi002_trial_0001_020 “招妖匣”在傳送敵人時會解除護盾，<br>陷入毫無防備的狀態。請趁機進行攻擊。"""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_069 偵測到敵人已被殲滅。<br>感謝參與。"""
+NpcComOnFailure#0,"""/voice11_voice_navi002_trial_0001_073 敵人撤退了……<br>轉至平時的監控模式。"""
+NpcComOnCoreOpen#0,"""/voice11_voice_navi002_trial_0001_040 “招妖匣”開始傳送敵人了。<br>請趁現在瞄準核心。"""

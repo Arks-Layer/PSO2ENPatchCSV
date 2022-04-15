@@ -1,0 +1,2 @@
+Title#0,"""切換快捷列"""
+text0001#0,"""“快捷列”也可以切換多個欄列進行使用。<br>在將武器快捷列（按<pict 4space><%PaletteReverse><pict 4space>或<pict 4space><%PaletteForce>）調出後，<br>可以通過以下操作進行切換。<br><br>・調出快捷列：按<pict 4space><%SubPaletteLeft><pict 4space>或<pict 4space><%SubPaletteRight><br>・切換快捷列：按<pict 4space><%PaletteReverse><pict 4space>或<pict 4space><%PaletteForce><pict 4space>進行移動<br>・確定快捷列：確定（切換）：<%Decide>"""

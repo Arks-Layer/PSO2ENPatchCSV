@@ -1,0 +1,7 @@
+name010#0,"""瑪儂|マノン"""
+text010#0,"""那是體表堅硬的敵人呢。<br>用“下墜攻擊”打斷敵人的動作吧。"""
+Text_dash#0,"""衝刺攻擊"""
+Button_dash#0,"""在衝刺中按<pict 4space><%NormalAttack>"""
+Text_dive#0,"""下墜攻擊"""
+Button_dive#0,"""在空中按<pict 4space><%WeaponAction_2><pict 4space>的同時按<pict 4space><%NormalAttack>"""
+Button_dive2#0,"""-"""

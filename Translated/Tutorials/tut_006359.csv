@@ -1,0 +1,4 @@
+Title#0,"""攻擊動作的操作"""
+text0001#0,"""普通攻擊：<%NormalAttack><br>PA（光子技能）／法術：<%PhotonArts><br>蓄力PA：長按<pict 4space><%PhotonArts><br>快捷列內頁PA：按<pict 4space><%WeaponAction_2><pict 4space>的同時按<pict 4space><%NormalAttack>"""
+text0002#0,"""鎖定：<%LockOn><br>切換鎖定：<%LockOn>"""
+text0003#0,"""衝刺攻擊：衝刺中按<pict 4space><%NormalAttack><br>滑步攻擊：<%Avoid><pict 4space>後按<pict 4space><%NormalAttack><br>下墜攻擊：在空中按<pict 4space><%WeaponAction_2><pict 4space>的同時按<pict 4space><%NormalAttack>"""

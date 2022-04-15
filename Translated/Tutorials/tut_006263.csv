@@ -1,0 +1,3 @@
+Title#0,"""武器裝備"""
+text0001#0,"""按<swguidetype T_MainMenu>打開主菜單，從<yellow>“裝備/快捷列”<c>中選擇<br><yellow>“武器裝備”<c>，便可裝備武器。<br>請從列表中選擇想要裝備的武器。<br><br>若想要取下武器，<br>請選擇最下方的“取下”。"""
+text0002#0,"""武器分為打擊・射擊・法擊三種類別。<br>武器圖標的背景色，分別對應著不同武器種類。<br><br><pict attack_shock>：打擊<br><pict attack_shooting>：射擊<br><pict attack_magic>：法擊"""

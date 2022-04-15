@@ -1,0 +1,6 @@
+TrialName#0,"""回收星辰贈禮"""
+TrialBeginMsg#0,"""討伐附近的敵人，回收落下的星辰贈禮！"""
+TrialAbstract#0,"""打倒敵人"""
+NpcComOnForetaste#0,"""/voice11_voice_navi001_trial_0001_000 上空發現飛行物體！<br>看上去似乎會落在附近。請注意！"""
+NpcComOnSuccess#0,"""/voice11_voice_navi001_trial_0001_007 偵測到敵人已被殲滅。<br>請回收星辰贈禮。"""
+NpcComOnFailure#0,"""/voice11_voice_navi001_trial_0001_072 似乎趕不上解除保護的時限了。<br>星辰贈禮的回收失敗。請從現場撤離。"""
