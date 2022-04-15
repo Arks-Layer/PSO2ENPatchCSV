@@ -1,4 +1,4 @@
-VoiceChatOn#0,"""ボイスチャットはONになっています。"""
-VoiceChatOff#0,"""ボイスチャットはOFFになっています。"""
-MicrophoneMuteOn#0,"""マイクをミュートにしました。"""
-MicrophoneMuteOff#0,"""マイクのミュートを解除しました。"""
+VoiceChatOn#0,"""語音聊天開啓。"""
+VoiceChatOff#0,"""語音聊天關閉。"""
+MicrophoneMuteOn#0,"""麥克風靜音。"""
+MicrophoneMuteOff#0,"""解除麥克風靜音。"""

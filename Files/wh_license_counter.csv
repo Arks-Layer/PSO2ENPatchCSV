@@ -1,2 +1,2 @@
-name01#0,"""称号カウンターについて"""
-text01#0,"""<yellow>【称号カウンターについて】<c><br><br>\u3000称号の取得と報酬の受け取りを行うカウンターです。<br><br>\u3000リストから称号を選択すると、報酬を受け取ることが<br>\u3000できます。文字がオレンジ色になっている称号が、<br>\u3000まだ報酬を受け取っていないものです。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_gatearea>"""
+name01#0,"""關於稱號櫃台"""
+text01#0,"""<yellow>【關於稱號櫃台】<c><br><br>　從事取得稱號與領取報酬的櫃台。<br><br>　從列表中選擇稱號，即可領取報酬。<br>　文字顯示橘色的稱號，<br>　為尚未領取報酬的項目。<br><br>　詳情請確認遊戲百科。<br>　點擊（決定）以下的連結，即可打開瀏覽器。<br>　<&URL pso2_players_manual_preparations_arkslobby_gatearea>"""

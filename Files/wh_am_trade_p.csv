@@ -1,2 +1,2 @@
-name01#0,"""限定景品と交換について"""
-whelp_am_trade_p01#0,"""<yellow>【限定景品と交換について】<c><br><br>\u3000カジノコインを消費してアイテムと交換することができます。<br>\u3000限定景品のアイテムは、ひとつのアイテムにつき、<br>\u3000１週間で交換できる回数に上限があります。<br><br>\u3000アイテムの交換回数は、毎週<utcdow>水曜日4:00</utcdow>にリセットされます。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_arkslobby_casinoarea>"""
+name01#0,"""關於道具交易"""
+whelp_am_trade_p01#0,"""<yellow>【關於道具交易】<c><br><br>　可和其他玩家交換道具或梅賽塔。<br>　1次交易中最多可交換10個道具。<br>　每週存在可交換上線。<br><br>　道具的交換次數，會在每週<utcdow>星期三4:00</utcdow>重置。<br><br>　交易中，自己或對方呈現無法交易的狀態時<br>　（因為距離遠，或移動中等），<br>　交易會被中斷，敬請注意。<br><br>　同時，也請確認線上指南。<br>　點擊（決定）以下的URL，即可打開瀏覽器。<br>　<&URL pso2_players_manual_communication_trade>"""

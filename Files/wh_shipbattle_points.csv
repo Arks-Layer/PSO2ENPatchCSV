@@ -1,2 +1,2 @@
-name01#0,"""累計勝ち点について"""
-whelp_shipbattle_points01#0,"""<yellow>【累計勝ち点について】<c><br><br>\u3000「累計勝ち点」は、全ラウンドの「勝ち点」を合計したものです。<br>\u3000この「累計勝ち点」により、<yellow>最終順位<c>が決まります。<br><br>\u3000【オンラインマニュアル説明ページURL】<br>\u3000<&URL pso2_players_manual_preparations_info_arksshipcompetition>"""
+name01#0,"""累計勝利點"""
+whelp_shipbattle_points01#0,"""<yellow>【關於累計得分】<c><br><br>　「累計得分」是將所有回合獲得的點數加總的結果。<br>　根據「累計得分」的結果，將會決定<yellow>最終排名<c>。<br><br>　排名越高，活動結束後在賞品商店<br>　追加的「最終排名獎品」將會越好，<br>　以高排名為目標努力吧！"""

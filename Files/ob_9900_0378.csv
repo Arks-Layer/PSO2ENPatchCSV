@@ -1,2 +1,2 @@
-GuidePad#0,"""<%LStick>で向き変更 <%Access>で照射 <%Jump>で終了"""
-GuideKeyboard#0,"""<%MoveLeft><%MoveRight>で向き変更 <%Access>で照射 <%Jump>で終了"""
+GuidePad#0,"""使用<%LStick>改變<%Access>照射方向後，以<%Jump>結束"""
+GuideKeyboard#0,"""使用<%MoveLeft><%MoveRight>改變<%Access>照射方向後，以<%Jump>結束"""
