@@ -2518,7 +2518,7 @@ StackExhibitInputNumberMessage#0,"""Пожалуйста, выберите ко�
 SetValueInputNumberTitle#0,"""Установить цену"""
 SetValueInputNumberMessage#0,"""Пожалуйста, установите цену.<br>※Цена не может быть ниже минимальной.<br>"""
 SetValueInputNumberMessage_2#0,"""(После вычета: """
-SetValueInputNumberMessage_3#0,"""$(1)<pict 4space>$(0))"""
+SetValueInputNumberMessage_3#0,"""$(1)<pict 4space>$(0)）"""
 SetValueInputNumberMessage_4#0,"""(С учётом налога: """
 SetValueInputNumberMessage_5#0,"""Пожалуйста, установите цену.<br>※У рекомендованных предметов минимальная цена выше."""
 SetValueInputNumberMessage_6#0,"""(Мин. цена: """
