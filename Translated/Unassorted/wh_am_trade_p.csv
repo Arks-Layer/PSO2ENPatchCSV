@@ -1,0 +1,2 @@
+name01#0,"""關於道具交易"""
+whelp_am_trade_p01#0,"""<yellow>【關於道具交易】<c><br><br>　可和其他玩家交換道具或梅賽塔。<br>　1次交易中最多可交換10個道具。<br>　每週存在可交換上線。<br><br>　道具的交換次數，會在每週<utcdow>星期三4:00</utcdow>重置。<br><br>　交易中，自己或對方呈現無法交易的狀態時<br>　（因為距離遠，或移動中等），<br>　交易會被中斷，敬請注意。<br><br>　同時，也請確認線上指南。<br>　點擊（決定）以下的URL，即可打開瀏覽器。<br>　<&URL pso2_players_manual_communication_trade>"""

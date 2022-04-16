@@ -1,0 +1,6 @@
+IncidentName#0,"""完成舞台委託！"""
+TrialBeginMsg#0,"""完成舞台委託！"""
+TrialAbstract#0,"""完成舞台委託！"""
+NpcComOnBegin#0,"""/face2 登登！<br>現在發表舞台委託的內容！"""
+NpcComOnSuccess#0,"""/face2 很好很好很好很好非常好！<br>取得了超超超棒的資料啦！"""
+NpcComOnFailure#0,"""/face6 咦，是不是難度有點太高了？<br>算了沒差！"""

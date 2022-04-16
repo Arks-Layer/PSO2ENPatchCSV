@@ -1,0 +1,7 @@
+IncidentName#0,"""防衛戰鬥機"""
+TrialBeginMsg#0,"""防衛戰鬥機直到修理完畢！"""
+EnemyAppearMsg#0,"""$(0)方向出現敵人！"""
+TrialEvolutionBeginMsg_ReLanding#0,"""在修理完畢之前，請再次防衛戰鬥機！"""
+TrialEvolutionBeginMsg_Rescue#0,"""防衛戰鬥機 發展：開始救助駕駛員！"""
+TrialEvolutionBeginMsg_Combat#0,"""防衛戰鬥機 發展：開始聯手戰鬥！"""
+TrialAbstract#0,"""抵禦敵方攻勢直到戰鬥機修理完成！"""

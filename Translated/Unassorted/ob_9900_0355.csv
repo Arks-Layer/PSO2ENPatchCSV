@@ -1,0 +1,3 @@
+GetBullet#0,"""確保彈夾內彈藥"""
+GetBulletMiss#0,"""彈夾內彈藥已達裝填上限"""
+ChargeBullet#0,"""補給彈夾內彈藥"""

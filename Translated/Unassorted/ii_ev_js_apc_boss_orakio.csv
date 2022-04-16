@@ -1,0 +1,6 @@
+IncidentName#0,"""擊敗$(0)"""
+TrialBeginMsg#0,"""擊敗$(0)"""
+TrialAbstract#0,"""擊敗$(0)"""
+NpcComOnBegin#0,"""擊敗$(0)"""
+NpcComOnSuccess#0,"""擊敗$(0)"""
+NpcComOnFailure#0,"""擊敗$(0)"""

@@ -1,0 +1,3 @@
+name01#0,"""關於角色資訊"""
+whelp_charainfo01#0,"""<yellow>【關於角色資訊】<c><br><br>　可確認角色現在的狀態和<br>　已學會的技能等的畫面。<br><br>　數值表示的含義如下。<br><br>　<green>【 HP 】<c> 體力。如果變成0就會無法戰鬥<br>　<green>【 PP 】<c> 使用PA和法術時需要的怪物<br>　<yellow>【打擊力】<c> 打擊武器的攻擊力（針對獵人）<br>　<yellow>【射擊力】<c> 射擊武器的攻擊力（針對遊俠）<br>　<yellow>【法擊力】<c> 法術的攻擊力（針對法師）"""
+whelp_charainfo02#0,"""<yellow>【關於其他數值意義】<c><br><br>　<yellow>【技量】<c> 影響給予的傷害量<br>　<yellow>【打擊防禦】<c> 減輕敵人打擊的防禦<br>　<yellow>【射擊防禦】<c> 減輕敵人射擊的防禦<br>　<yellow>【法擊防禦】<c> 輕減敵人法擊的防禦<br>　<yellow>【屬性抗性】<c> 減輕炎/冰/雷/風/光/暗屬性傷害的比例<br><br>　也可確認遊戲百科。<br>　點擊以下的連結擊可打開網頁。<br>　<&URL pso2_players_manual_preparations_info_character>"""

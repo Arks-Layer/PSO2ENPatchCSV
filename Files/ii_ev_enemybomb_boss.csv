@@ -1,5 +1,0 @@
-IncidentName#0,"""$(0)討伐"""
-TrialBeginMsg#0,"""$(0)を倒せ！"""
-TrialAbstract#0,"""$(0)を討伐せよ！"""
-NpcComOnBegin#0,"""ベイゼから強力な敵性反応を確認した。<br>アークス各員は速やかにこれを殲滅せよ。"""
-NpcComOnSuccess#0,"""敵性反応の消失を確認。<br>よくやったな。"""

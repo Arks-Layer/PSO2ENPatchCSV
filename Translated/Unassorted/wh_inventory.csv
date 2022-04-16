@@ -1,0 +1,2 @@
+name01#0,"""關於道具背包"""
+whelp_inventory01#0,"""<yellow>【關於道具背包】<c><br><br>　可尋找、使用、丟棄所持有的道具。<br><br><br><yellow>【關於道具詳細視窗】<c><br><br>　顯示選中道具相關的詳細資訊。<br>　關於武器與配件，詳細資料會存在3頁，<br>　按<%NextTabDetails>，可顯示下個頁面。<br><br>　同時，也可確認遊戲百科。<br>　點擊（決定）以下的連結，即可打開瀏覽器。<br>　<&URL pso2_players_manual_preparations_equipment>"""

@@ -1,0 +1,8 @@
+name01#0,"""關於任務櫃台"""
+whelp_questcounter01#0,"""<yellow>【關於任務櫃台】<c><br><br>　「任務櫃台」當中，<br>　可挑戰各式任務副本。"""
+whelp_questcounter02#0,"""-"""
+whelp_questcounter03#0,"""-"""
+whelp_questcounter04#0,"""-"""
+whelp_questcounter05#0,"""<yellow>【參加任務的方法】<c><br><br>　從任務列表選擇任一項任務選擇時，可選擇下面的參加方法。<br><br>　【馬上出發】<br>　　以現在的隊伍開始任務。<br><br>　【加入目前所在分流的隊伍】<br>　　現在的隊伍整隊參加相同分流內執行任務中的隊伍。<br><br>　【尋找其他分流的隊伍】<br>　　尋找其他分流中，執行任務中的隊伍。"""
+whelp_questcounter06#0,"""<yellow>【找不到任務隊伍時】<c><br><br>　　一開始，先選擇「參加任務中的隊伍」，<br>　　　↓<br>　　選擇有好友或公會成員所在的隊伍，<br>　　　↓<br>　　從隊伍列表選擇任一隊伍<br><br>　　請依上述順序來選擇。"""
+whelp_questcounter07#0,"""<yellow>【參加其他隊伍】<c><br><br>　選擇參加多重隊伍任務<br>　的其他隊伍時，會顯示選項。<br><br>　選擇「以其他隊伍名義加入」時，<br>　此隊伍就會視為其他的隊伍，<br>　可一起挑戰任務。<br><br>　詳情請確認遊戲百科。<br>　點擊（決定）以下的連結，即可打開瀏覽器。<br>　<&URL pso2_players_manual_preparations_quest_counter>"""

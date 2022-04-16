@@ -1,0 +1,5 @@
+IncidentName#0,"""$(0)討伐"""
+TrialBeginMsg#0,"""打倒$(0)！"""
+TrialAbstract#0,"""討伐$(0)！"""
+NpcComOnBegin#0,"""從黑暗爆彈身上確認到強烈的敵意反應。<br>ARKS所有人員請立刻加以殲滅。"""
+NpcComOnSuccess#0,"""確認敵意反應已消失。<br>做得很好。"""
