@@ -4981,7 +4981,7 @@ RunOutAutoDoll#0,"""使用了自動人偶復活。今天已經無法再自動復
 PetPALearn#0,"""$(1)學會了$(0)。"""
 PetPALevelUp#0,"""$(2)的$(1)的等級提高到了$(0)。"""
 PetUnequipped#0,"""未設定寵物。"""
-ObjectName#0,"""$(1)　<pict basnet_point>Lv.$(0)"""
+ObjectName#0,"""$(1)\u3000<pict basnet_point>Lv.$(0)"""
 ObjectExGuide#0,"""$(0) + (<pict Beginners>$(1))"""
 ObjectExGuideCanHeal#0,"""剩餘$(0)次 (還剩<pict basnet_point>Lv.$(1)提昇以恢復一次使用次數)"""
 WeakResistRegion#0,"""<yellow>對弱点部位的攻擊"""

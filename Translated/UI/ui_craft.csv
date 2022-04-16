@@ -112,7 +112,7 @@ ExplainSbSelectCm#0,"""<c f0df60>請設定廣告文、個人廣告塗鴉和可�
 ExplainReceive#0,"""<c f0df60>可以確認向發包的委託内容，並進行鍛造。<c>"""
 ExplainRcvSelectLine#0,"""<c f0df60>執行鍛造需要使用一條「生產線」，最多可以使用9條生產線。<c>"""
 ExplainRcvConfirmExtend#0,"""<c f0df60>這是武裝擴張的最終確認界面。<c>"""
-ExplainRcvFinishExtend#0,"""<c f0df60>　<c>"""
+ExplainRcvFinishExtend#0,"""<c f0df60>\u3000<c>"""
 ExplainRcvConfirmCustomize#0,"""<c f0df60>這是法術自定義的最終確認界面。<c>"""
 ExplainRcvConfirmEnchant#0,"""<c f0df60>這是時限能力安裝的最終確認界面。<c>"""
 ExplainPlace#0,"""<c f0df60>進行發包成品的領取或取消等方面的「鍛造」相關操作。<c>"""
