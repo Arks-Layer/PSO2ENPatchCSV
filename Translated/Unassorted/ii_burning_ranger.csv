@@ -33,4 +33,4 @@ RescueeFound#2,"""被火焰包圍的狀態下<br>傳送會具有高度風險！<
 GeneratorAdd#2,"""哇哇！<br>收到另一批等待救援者的信號！<br>請救出所有人員！"""
 TimeLimitNear#2,"""快點！　請加快腳步！"""
 TimeLimitHurry#2,"""/face4 已經是極限了！<br>快！　快！"""
-RescueMethod#2,"""火勢撲滅了！<br>請調查等待救援者<br>將正確座標傳給我。"""
+RescueMethod#2,"""/face2 火勢撲滅了！<br>請調查等待救援者<br>將正確座標傳給我。"""

@@ -7,7 +7,7 @@ NpcComOnSuccess#0,"""/face2 達成目標解析率。<br>這次的資料收集成
 NpcComOnFailure#0,"""/face4 周圍反應完全消失。<br>無法再進行資料解析。<br>請回到平時任務。"""
 NpcComOnDanger#0,"""發光的個體，是即將爆炸的徵兆<br>其包含了在解析上非常重要的資料。<br>請盡速破壞。"""
 NpcComOnFirstExplode#0,"""......還好吧？<br>爆裂膠的爆炸，與個體顏色和<br>重疊數量有關。"""
-NpcComOnHalf#0,"""距離達成目標解析率還剩一半。<br>請繼續進行解析。"""
+NpcComOnHalf#0,"""/face2 距離達成目標解析率還剩一半。<br>請繼續進行解析。"""
 NpcComOnFinalNotice#0,"""周圍的反應已經慢慢減少。<br>請慎重地將爆裂膠破壞<br>並收集資料。"""
 NpcComOnBegin#1,"""這裡是爆裂膠的聚集地。<br>將落下的個體破壞<br>並收集資料。"""
 NpcComOnAfterBegin#1,"""這些傢伙們具有一旦重疊就會合體<br>若4枚重疊就會爆炸的特性。<br>小心呀。"""
