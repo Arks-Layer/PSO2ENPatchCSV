@@ -370,7 +370,7 @@ BuffAccidentLineMsg_9#0,"""Random Challenges<br>$(0)<br>$(1)<br>$(2)<br>$(3)<br>
 BuffAccidentLineMsg_10#0,"""Random Challenges<br>$(0)<br>$(1)<br>$(2)<br>$(3)<br>$(4)<br>$(5)<br>$(6)<br>$(7)<br>$(8)<br>$(9)"""
 HPDownLV1#0,"""HP -20％"""
 DescHPDownLV1#0,"""HP -20％"""
-HPDownLV2#0,"""Random Challenge A：HP -50%"""
+HPDownLV2#0,"""Random Challenge A: HP -50%"""
 DescHPDownLV2#0,"""Your HP is reduced by 50% on some floors."""
 HPDownLV3#0,"""HP -60％"""
 DescHPDownLV3#0,"""HP -60％"""
