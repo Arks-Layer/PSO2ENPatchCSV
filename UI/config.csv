@@ -1294,7 +1294,7 @@ Config_127_Hint#0,"""Set the option to display other player's accessories.<br><b
 Config_128_Name#0,"""Use Voice Chat"""
 Config_128_Choices_0#0,"""Enable"""
 Config_128_Choices_1#0,"""Disable"""
-Config_128_Hint#0,"""ボイスチャットを利用するかを設定します。<br>利用しない場合は自分の声や他プレイヤーの<br>ボイスが届かない状態になります。<br><br>※設定の反映には時間がかかる場合があります。"""
+Config_128_Hint#0,"""Select whether to enable or disable Voice Chat.<br><br><yellow>※If this is toggled off, you will not be able to hear yourself or other players.<c>"""
 Config_129_Name#0,"""Wish List, Gift List"""
 Config_129_Choices_0#0,"""Hide"""
 Config_129_Choices_1#0,"""Show"""
