@@ -2147,7 +2147,7 @@ Explanation4_v#3,"""<c f0df60>購入したいアイテムを<%Decide><c f0df60>�
 Explanation5#3,"""プレイヤーIDネーム、キャラクター名、広告文からキーワード検索ができます。検索先を選択後、キーワードを入力してください。"""
 Label_Item_Num#0,"""Current Possession"""
 Label_Item_Capacity#0,"""Inventory Capacity After Purchase"""
-Label_Item_Warehouse_Capacity#0,"""取り下げ後の$(0)の容量"""
+Label_Item_Warehouse_Capacity#0,"""$(0) capacity after"""
 Explanation5_v#2,"""<c f0df61>プレイヤーIDネーム、キャラクター名、広告文からキーワード検索ができます。<c>"""
 Explanation6#3,"""ショップを選択してください。カーソルを合わせると、「マイショップ詳細」にオーナーのプレイヤーIDネームと広告文が表示されます。"""
 Explanation6_v#2,"""<c f0df60>ショップを選択してください。カーソルを合わせると、「マイショップ詳細」が表示されます。<c>"""
