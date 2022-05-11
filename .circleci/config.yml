@@ -1,4 +1,4 @@
-version: 3a
+version: 3
 jobs:
   build:
     docker:
