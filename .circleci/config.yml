@@ -1,8 +1,8 @@
-version: 2
+version: 3
 jobs:
   build:
     docker:
-      - image: circleci/python:3-buster-node
+      - image: cimg/python:3.10-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
