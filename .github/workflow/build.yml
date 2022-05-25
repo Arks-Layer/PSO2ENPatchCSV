@@ -1,5 +1,14 @@
 name: build
-on: [push]
+on: 
+  push:
+    branches:
+       - RU_Reboot
+       - RU
+       
+  pull:
+    branches:
+       - RU
+       - RU_Reboot
 
 jobs:
    build:
