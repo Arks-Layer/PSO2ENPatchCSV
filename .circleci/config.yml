@@ -1,0 +1,19 @@
+version: 3
+jobs:
+  build:
+    docker:
+      - image: cimg/python:3.10-node
+        environment:
+          PARALLEL_SHELL: /bin/sh
+          SHELL: /bin/sh
+          PARALLEL: --block 43K --no-notice
+    branches:
+      ignore:
+        - develop
+        - /feature-.*/
+        - JP
+        - /.*_Old/
+    steps:
+      - run:
+          name: Update APT listing
+          command: sudo apt-get -qq update
