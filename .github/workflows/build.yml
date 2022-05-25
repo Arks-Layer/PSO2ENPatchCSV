@@ -10,7 +10,7 @@ jobs:
         - name: Setting up testing environment
           run: |
             apt-get update
-            apt-get install --no-install-recommends -qq -y rsync python-is-python3 git parallel binutils
+            apt-get install -y install ca-certificates rsync python-is-python3 git parallel binutils
             /bin/mkdir -p /tmp/PSO2
       
         - name: Checkout Repo        
