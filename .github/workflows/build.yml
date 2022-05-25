@@ -4,7 +4,7 @@ on: [push]
 jobs:
    build:
       runs-on: ubuntu-latest
-      container: ubuntu:20.04
+      container: node:16
       
       steps:
         - name: Setting up testing environment
@@ -28,6 +28,15 @@ jobs:
             
         - name: Add upstream repos
           run: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
+          
+        - name: Verify CSVs as UTF-8
+          run: ./_sh/UTF8.sh
+          
+        - name: Verify CSVs with an EOL
+          run: ./_sh/EOL.sh
+          
+        - name: Verify CSVs without BOM
+          run: ./_sh/BOM.sh
           
         - name: Verify CSVs
           run: ./_sh/CSV.sh
