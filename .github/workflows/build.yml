@@ -12,6 +12,7 @@ jobs:
             apt-get update
             apt-get install git parallel binutils binutils-common binutils-for-build -y
             /bin/mkdir -p /tmp/PSO2
+            ln -s /usr/bin/python3 /usr/bin/python
       
         - name: Checkout Repo        
           uses: actions/checkout@v3
@@ -55,10 +56,10 @@ jobs:
         - name: Check for dup lines
           run: ./_sh/dupCSV.sh
           
-        - name: verifing CSVs for PSO2 format
+        - name: verifying CSVs for PSO2 format
           run: ./_sh/check.sh
           
-        - name: verifing command usages
+        - name: verifying command usages
           run: ./_sh/command.sh
           
         - name: coverage CSVs
