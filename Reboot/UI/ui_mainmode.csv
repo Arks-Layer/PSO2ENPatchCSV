@@ -7891,3 +7891,4 @@ WorldTrial_Result1_2#0,"""Phase.$(0)/До следующей фазы $(1)"""
 WindowTitle#0,"""Сообщение"""
 DetailWindowTitle#0,"""Информация сообщения"""
 Achievements_Acquire_Info#0,"""Выполнено условие “$(0)”."""
+
