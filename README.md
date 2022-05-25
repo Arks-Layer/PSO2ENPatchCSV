@@ -5,7 +5,8 @@
 # Патч русского перевода PSO2
 Добро пожаловать в хранилище .csv файлов русскоязычного проекта перевода игры PSO2.
 
-[![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/RU.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/RU)
+![Patch Status](https://github.com/Arks-Layer/PSO2ENPatchCSV/actions/workflows/build.yml/badge.svg?branch=RU)
+
 
 Перевод игры производится с английского/японского языка на русский.
 
