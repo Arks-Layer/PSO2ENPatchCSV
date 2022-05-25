@@ -13,7 +13,8 @@ jobs:
         - /feature-.*/
         - JP
         - /.*_Old/
+        - RU_Reboot
     steps:
       - run:
-          name: Update APT listing
-          command: sudo apt-get -qq update
+          name: Stop script
+          command: echo 'stop'
