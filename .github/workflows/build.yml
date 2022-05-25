@@ -55,7 +55,6 @@ jobs:
           
         - name: coverage CSVs
           run: ./_sh/coverage.sh>/tmp/coverage.txt
-          uses: actions/upload-artifact@v3
           with:
             path: /tmp/coverage.txt
           
@@ -64,7 +63,6 @@ jobs:
           
         - name: output in fat CSV
           run: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
-          uses: actions/upload-artifact@v3
           with:
             path: /tmp/PSO2.CSV.gz
             
