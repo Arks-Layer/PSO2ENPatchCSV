@@ -7,6 +7,9 @@ jobs:
       container: ubuntu:20.04
       
       steps:
+        - name: Setting up testing environment
+          run: |
+            /bin/mkdir -p /tmp/PSO2
       
         - name: Checkout Repo        
           uses: actions/checkout@v3
@@ -54,15 +57,16 @@ jobs:
           run: ./_sh/command.sh
           
         - name: coverage CSVs
-          run: ./_sh/coverage.sh>/tmp/coverage.txt
-          with:
-            path: /tmp/coverage.txt
+          run: ./_sh/coverage.sh>/tmp/PSO2/coverage.txt
           
         - name: Verify Font rendering
           run: ./_sh/Fonts.sh
           
         - name: output in fat CSV
-          run: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
+          run: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2/PSO2.CSV.gz
+          
+        - name: Store artifacts
+          uses: actions/upload-artifact@v3
           with:
-            path: /tmp/PSO2.CSV.gz
+            path: /tmp/PSO2/
             
