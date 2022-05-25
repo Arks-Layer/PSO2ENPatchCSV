@@ -51,16 +51,16 @@ jobs:
         - name: Looking for unchanged Files
           run: ./_sh/MovedFiles.sh
           
-        - name: checking CSVs for quote issues
+        - name: Checking CSVs for quote issues
           run: ./_sh/quote.sh
           
         - name: Check for dup lines
           run: ./_sh/dupCSV.sh
           
-        - name: verifying CSVs for PSO2 format
+        - name: Verifying CSVs for PSO2 format
           run: ./_sh/check.sh
           
-        - name: verifying command usages
+        - name: Verifying command usages
           run: ./_sh/command.sh
           
         - name: coverage CSVs
