@@ -9,7 +9,7 @@ jobs:
       steps:
         - name: Setting up testing environment
           run: |
-            apt install binutils
+            apt-get install binutils
             /bin/mkdir -p /tmp/PSO2
       
         - name: Checkout Repo        
