@@ -1,5 +1,5 @@
 name: build
-on: [pull, push]
+on: [pull]
 
 jobs:
    build:
