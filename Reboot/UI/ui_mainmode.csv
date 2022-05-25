@@ -62,6 +62,7 @@ CantStartQuestTimeLimitOver#0,"""クエストの受注可能期間が過ぎて�
 CautionQuestReleaseNG#0,"""このクエストには参加できません。"""
 CautionRoomDelete#0,"""ルームが存在しないため参加できません。"""
 CautionBlockMoveNG#0,"""ブロックの移動に失敗しました。"""
+CautionUnknown#0,"""不明なエラーです。"""
 Non_Text#0,"""Нет отображаемого текста"""
 Menu_Main#0,"""Главное меню"""
 Menu_Sub#0,"""Подменю"""
