@@ -4,7 +4,7 @@ on: [push]
 jobs:
    build:
       runs-on: ubuntu-latest
-      container: node:16
+      container: ubuntu:20.04
       
       steps:
         - name: Setting up testing environment
@@ -12,7 +12,6 @@ jobs:
             apt-get update
             apt-get install git parallel binutils binutils-common binutils-for-build -y
             /bin/mkdir -p /tmp/PSO2
-            ln -s /usr/bin/python3 /usr/bin/python
       
         - name: Checkout Repo        
           uses: actions/checkout@v3
