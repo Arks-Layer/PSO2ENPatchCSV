@@ -21,6 +21,9 @@ jobs:
             
         - name: Checking DUP files
           run: ./_sh/dupfiles.sh
+          
+        - name: Work around permission issue
+          run: git config --global --add safe.directory /__w/PSO2ENPatchCSV/PSO2ENPatchCSV
             
         - name: Add upstream repos
           run: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
