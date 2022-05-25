@@ -28,6 +28,21 @@ jobs:
         - name: Add upstream repos
           run: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
           
+        - name: Verify CSVs as UTF-8
+          run: ./_sh/UTF8.sh
+          
+        - name: Verify CSVs with an EOL
+          run: ./_sh/EOL.sh
+          
+        - name: Verify CSVs without BOM
+          run: ./_sh/BOM.sh
+          
+        - name: Verify CSVs
+          run: ./_sh/CSV.sh
+          
+        - name: Check ODD strings in NPC names
+          run: ./_sh/ODD.sh
+          
         - name: Verify folder layout
           run: ./_sh/checkFiles.sh
           
