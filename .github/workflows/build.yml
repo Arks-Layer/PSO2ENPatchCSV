@@ -10,7 +10,7 @@ jobs:
         - name: Setting up testing environment
           run: |
             apt-get update
-            apt-get install python3.8 git parallel binutils binutils-common binutils-for-build -y
+            apt-get install python-is-python3 git parallel binutils -y
             /bin/mkdir -p /tmp/PSO2
       
         - name: Checkout Repo        
