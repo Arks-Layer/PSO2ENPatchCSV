@@ -10,7 +10,7 @@ jobs:
         - name: Setting up testing environment
           run: |
             apt-get update
-            apt-get install binutils binutils-common binutils-for-build -y
+            apt-get install parallel binutils binutils-common binutils-for-build -y
             /bin/mkdir -p /tmp/PSO2
       
         - name: Checkout Repo        
