@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./_misc/ngs_title.png" alt="PSO2:NGS Logo"/>
+  <img src="./_misc/ngs_title.jpg" alt="PSO2:NGS Logo"/>
 </p>
 
 # NGS English Patch 
