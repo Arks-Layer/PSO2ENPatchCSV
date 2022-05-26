@@ -7,7 +7,7 @@ Welcome to the New Genesis English Patch CSV Repository.
 
 Current status of tests and checks: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN_Reboot.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN_Reboot)
 
-This repository is dedicated to translating NGS game texts from Japanese to English. Our goal is to complete the English translations first, so that it can be used to translate the game to other non-English languages.
+This repository is dedicated to translating NGS game texts from Japanese to English. Our goal is to provide a way for existing players of the Japanese version of NGS to play in a language that is the most comfortable for them, or for players who do not agree with the Global version of the game (be it policies or general playerbase).
 
 We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native languages in the future.
 
@@ -18,6 +18,13 @@ We hope our disclosing of game texts and opening this repository will pave a qui
 ## Contributions
 ### Getting Started/Helping Out
 A full guide on how to get started is [available here].
+
+### Reporting translation issues
+You can report a translation issue either by submitting an issue via GitHub or from our Discord server. 
+
+We ask for those submitting an issue via GitHub to prefix the issue title with the branch you're referring to, such as `EN_Reboot: Issue Title` for NGS and `EN: Issue Title #2` for the base game.
+
+Those using Discord can join via the [Phantasy Star Fleet Discord Server], and report issues directly in our `#translation-reporting` channel. (JP role required)
 
 ### To-Do
 Any CSV files located in [Files] are still to be translated, while the CSV files in other folders are at least partly translated.
@@ -42,8 +49,8 @@ This patch wouldn't be possible if it wasn't for the dedicated volunteers below:
 
 And everyone else in Arks-Layer.
 
-
 [Files]: https://github.com/Arks-Layer/PSO2ENPatchCSV/tree/EN_Reboot/Files
 [PSO2 Discord Server]: https://discord.gg/PSO2
+[Phantasy Star Fleet Discord Server]: https://discord.gg/pso2
 [Wiki]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki
 [available here]: https://github.com/Arks-Layer/PSO2ENPatchCSV/wiki/How-to-contribute
