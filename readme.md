@@ -33,7 +33,7 @@ If you don't understand Japanese, but still want to help out, you can look over 
 * Be sure to take a look at the **[Wiki]** page for guides and reminders before sending us your translations.
 * You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
 
-# Special Thanks
+## Special Thanks
 This patch wouldn't be possible if it wasn't for the dedicated volunteers below:
 
 - CAAAAAAAAAAAW
