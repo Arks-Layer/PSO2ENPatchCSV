@@ -32,4 +32,4 @@ Achievements_Details_Unselected#0,"""칭호 태스크가 선택되지 않았습�
 Achievements_Detial_Tilte_Unselected#0,"""칭호 태스크 상세"""
 Achievements_Detial_ItemName#0,"""칭호명 “$(0)”"""
 Achievements_Reward_Quantity_Num#0,"""×$(0)"""
-Achievements_Period#0,"""<yellow>※取得可能期間：<br>\u3000$(0)まで<c>"""
+Achievements_Period#0,"""<yellow>※취득 가능 기간: <br>\u3000$(0)까지<c>"""
