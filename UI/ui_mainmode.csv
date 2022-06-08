@@ -49,7 +49,7 @@ FreeSgScratch#0,"""오늘의 무료 SG 스크래치를 하실 수 있습니다.<
 BlockMoveFailure#0,"""블록 이동에 실패했습니다."""
 BlockadeMsg_Title1#0,"""인포메이션"""
 BlockadeMsg_Text1#0,"""현재 이 오브젝트에는 액세스할 수 없습니다.<br>자세한 내용은 플레이어즈 사이트를 확인해 주세요."""
-SimpleTimeText#0,"""$(0): $(1)"""
+SimpleTimeText#0,"""$(0)：$(1)"""
 Lupe_TextStart#0,"""최대화 모드를 시작했습니다."""
 Lupe_TextEnd#0,"""최대회 모드를 종료했습니다."""
 Lupe_ControlGuide#0,"""표시 범위 이동: <swguidetype CursorMove>\u3000\u3000줌: <swguidetype Zoom>\u3000\u3000돋보기 모드 종료: $(0)+$(1)"""
