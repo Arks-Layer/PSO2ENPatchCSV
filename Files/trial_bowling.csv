@@ -1,6 +1,0 @@
-TrialName#0,"""寒冷地エネミー討伐"""
-TrialBeginMsg#0,"""フローティングボードを活用し、出現したエネミーを倒せ！"""
-TrialAbstract#0,"""エネミーを倒す"""
-NpcComOnBegin#0,"""/voice11_voice_navi002_trial_0001_012 周囲にエネミー群の反応あり。<br>周囲のボードターミナルから、フローティングボードが使えそうです。"""
-NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_064 エネミーの殲滅を確認。<br>対応、ありがとうございます。"""
-NpcComOnFailure#0,"""/voice11_voice_navi002_trial_0001_072 エネミーの撤退を確認。<br>次の目標に向かってください。"""
