@@ -108,3 +108,4 @@ jobs:
       - store_artifacts:
           path: /tmp/PSO2.CSV.gz
           destination: PSO2.CSV.gz
+          resource_class: large
