@@ -3862,7 +3862,7 @@ HunterSwordOverCharge#1,"""Charging PAs for longer will boost their power even m
 HunterWLanceWAStrikeBack#1,"""If you have learned Wired Anchor Just Parry, the first PA you use after blocking an attack with your Weapon Action will have Hunter Art Avenge applied to it.<br><yellow>※Main Class/Wired Lance only.<c>"""
 RangerWeakBulletWideRange#1,"""<yellow>[Active Skill]<c><br>Fires a wide-area shot that temporarily boosts damage dealt to any parts it hits.<br>Shares cooldown and number of stocks with regular Weak Bullet.<br><yellow>※Main Class/Assault Rifle only.<c>"""
 RangerGaugeShotGunAutoCharge#1,"""Automatically fills the Spread Shot gauge over time."""
-RangerGrenadeQuickReload#1,"""Reduces the cooldown on Rifle Grenadier when you successfully evade an attack with your Weapon Action.<br><yellow>※Assault Rifle only.<c>"""
+RangerGrenadeQuickReload#1,"""Reduces the cooldown of Rifle Grenadier when you successfully evade an attack with your Weapon Action.<br><yellow>※Assault Rifle only.<c>"""
 RangerLauncherAttackShortCharge#1,"""Reduces the power of charged Normal Attacks, but also reduces their charge time.<br><yellow>※Launcher only.<c>"""
 FighterLimitBreakShortCycle#1,"""Reduces the duration of Limit Break, and makes you take more damage while it's active, but also reduces its cooldown.<br><yellow>※Main Class only.<c>"""
 FighterTDHitCountPpGain#1,"""Recovers PP each time you land enough hits with PAs and Photon Blasts.<br><yellow>※Twin Daggers only.<c>"""
