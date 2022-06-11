@@ -1,0 +1,7 @@
+TrialName#0,"""A Song of Ice and Snow"""
+TrialBeginMsg#0,"""Defeat enemies amidst the unusual weather!"""
+TrialAbstract#0,"""Defeat enemies"""
+NpcComOnForetaste#0,"""/voice11_voice_navi004_trial_0001_012 付近に大型エネミーの反応があります！<br>局所的に大気の状態も不安定になっているみたい。警戒してください。"""
+NpcComOnSuccess#0,"""/voice11_voice_navi004_trial_0001_069 エネミーの殲滅を確認！<br>ありがとうございます。"""
+NpcComOnFailure#0,"""/voice11_voice_navi004_trial_0001_074 あらら……エネミーが撤退。<br>気を取り直して、別の目標を探しましょう。"""
+NpcComOnBegin#0,"""/voice11_voice_navi004_trial_0001_019 竜巻の周囲にブラストチャージサインがただよっています。<br>回収して戦いを有利に進めてください。"""
