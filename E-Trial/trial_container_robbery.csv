@@ -1,4 +1,4 @@
-TrialName#0,"""돌즈 수송물자 탈취"""
+TrialName#0,"""돌즈 수송 물자 탈취"""
 TrialBeginMsg#0,"""플로팅 보드를 활용하여 돌즈 수송기에서 물자를 탈취하라!"""
 TrialAbstract#0,"""플로팅 보드로 컨테이너 파괴"""
 NpcComOnBegin#0,"""/voice11_voice_navi003_trial_0001_019 돌즈 수송기가 접근중!<br>플로팅 보드로 추적해서 수하물을 빼앗아라!"""
