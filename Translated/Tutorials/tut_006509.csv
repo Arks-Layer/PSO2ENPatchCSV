@@ -1,0 +1,3 @@
+Title#0,"""Magnifier Mode"""
+text0001#0,"""When you are out in the field, pressing $(0) + $(1) will enter \""Magnifier Mode\"", which enlarges a portion of the screen to make it easier to see."""
+text0002#0,"""In Magnifier Mode, you have the following options:<br><br>・<swguidetype CursorMove>: Scroll the screen<br>・<swguidetype Zoom>: Zoom in on the screen<br>・$(0) + $(1): Exit Magnifier Mode"""
