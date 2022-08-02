@@ -8,7 +8,7 @@ NpcComOnForetaste#0,"""＊＊＊その付近に要警戒エネミーがいるよ
 NpcComOnBegin#0,"""＊＊＊"""
 NpcComOnSuccess#0,"""＊＊＊エネミーの殲滅を確認しました！<br>即応、ありがとうございます。"""
 NpcComOnFailure#0,"""＊＊＊エネミーが撤退しました。<br>……ひとまず、脅威は去りましたね。"""
-NpcComOnForetaste#1,"""/voice11_voice_navi003_trial_0001_011 $(0) signal confirmed! Go give it the ol' smackdown!"""
+NpcComOnForetaste#1,"""/voice11_voice_navi003_trial_0001_011 $(0) signal confirmed! Go give it the smackdown!"""
 NpcComOnBegin#1,"""/voice11_voice_navi003_trial_0001_046 Remember to use a Dive Attack to make sure it ain't gonna scurry around."""
 NpcComOnSuccess#1,"""/voice11_voice_navi003_trial_0001_070 Alright! You did it!"""
 NpcComOnFailure#1,"""/voice11_voice_navi003_trial_0001_074 Aww, it ran away. We'll get it next time!"""
