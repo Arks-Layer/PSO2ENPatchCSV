@@ -3899,7 +3899,7 @@ TechterTalisTecBurstWeakChargeUp#1,"""Increases the rate that the Tricky Capacit
 ForceFoieBrand#1,"""Hitting enemies with Fire Techniques enough times engraves a Fire Crest on them. Hitting an enemy with a Fire Crest with a Fire Technique detonates the Fire Crest, dealing damage and recovering PP."""
 TechterFoieBrand#1,"""Hitting enemies with Fire Techniques enough times engraves a Fire Crest on them. Hitting an enemy with a Fire Crest with a Fire Technique detonates the Fire Crest, dealing damage and recovering PP."""
 BouncerFoieBrand#1,"""Hitting enemies with Fire Techniques enough times engraves a Fire Crest on them. Hitting an enemy with a Fire Crest with a Fire Technique detonates the Fire Crest, dealing damage and recovering PP."""
-SummonerTwoPlatoons#1,"""<yellow>【アクティブスキル】<c><br>“フレドラン”と“ヴォルファー”の<br>タクトギアゲージを<br>それぞれ消費することで、<br>２体のファミリアによる<br>連携攻撃を行う。<br><yellow>※タクト専用<c>"""
+SummonerTwoPlatoons#1,"""<yellow>[Active Skill]<c><br>Enables the use of a combined coordinated attack by consuming the Takt Gear Gauges of both Wulfer & Fredran respectively. <yellow>Takt only.<c>"""
 SummonerSuperParry#1,"""<yellow>【アクティブスキル】<c><br>自身の攻撃を中断することなく、<br>エネミーからの攻撃を無効化する。<br><yellow>※メインクラス／タクト専用<c>"""
 SummonerStockZeroPPSave#1,"""ファミリアのギアゲージのストックが<br>なくなったときに、一定時間、<br>そのファミリアを呼び出すPAの<br>PP消費量が減少する。<br><yellow>※タクト専用<c>"""
 SummonerForest#1,"""攻撃を複数回エネミーに当てることで、<br>エネミーをマーキング状態にする。<br>マーキング状態のエネミーは、<br>PAで与えるダメージとダウン値が増加する。<br><yellow>※タクト専用<c>"""
