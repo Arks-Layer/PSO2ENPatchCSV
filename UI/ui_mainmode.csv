@@ -3871,7 +3871,7 @@ BraverBraveCombatSpirit#1,"""브레이브 컴뱃 발동 시<br>브레이브 스�
 BraverKatanaPaComboExAttack#1,"""카타나 PA를 3단 사용 후<br>통상 공격이 강력한 공격으로 변화한다.<br><yellow>※카타나 전용<c>"""
 BraverKatanaCounterExAttack#1,"""카타나 가드 카운터 발동 시<br>통상 공격을 하여<br>추가 카운터가 발생한다.<br><yellow>※카타나 전용<c>"""
 BraverAnotherArtsPPSave#1,"""서로 다른 PA를 연속으로 발동했을 때의<br>PP 소비량이 감소한다.<br><yellow>※불릿 보우 전용<c>"""
-BraverCompoundBowFallSlow#1,"""통상 공격과 PA 차지 중<br>속도가 완만해진다.<br><yellow>※불릿 보우 전용<c>"""
+BraverCompoundBowFallSlow#1,"""통상 공격과 PA 차지 중<br>낙하 속도가 완만해진다.<br><yellow>※불릿 보우 전용<c>"""
 BouncerPhotonBladeParry#1,"""무기 액션 발동 시<br>에너미의 공격을 무효화 한다.<br><yellow>※듀얼 블레이드 전용<c>"""
 BouncerPhotonBladeGuardCounterShot#1,"""블레이드 아츠 패리를 이용한<br>공격 무효화 성공 시<br>동시에 카운터가 발생한다<br><yellow>※메인 클래스／듀얼 블레이드 전용<c>"""
 BouncerJetBootsBlinkSkipAttack#1,"""스러스트 드라이브를 사용한 후의<br>통상 공격이 4단계로 변화한다<br><yellow>※제트 부츠 전용<c>"""
