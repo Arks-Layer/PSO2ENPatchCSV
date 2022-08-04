@@ -1,6 +1,6 @@
 Title#0,"""Party Member Recruitment"""
-text0001#0,"""Party Member Recruitment is a feature that lets you invite other players in your Room to join your Party.<br><br>パーティーを組むことにより、<yellow>パーティーブースト<c>が発生します。<br>パーティーブーストは、パーティーの人数に応じて効果が上昇します。"""
+text0001#0,"""Party Member Recruitment is a feature that lets you invite other players in your Room to join your Party.<br><br>Forming a Party will grant you a <yellow>Party Boost<c>. The more Party Members you have, the stronger the effect of the boost."""
 text0002#0,"""Open the Main Menu with <swguidetype T_MainMenu>, then select \""Communication\"", then \""Party Commands\"", then \""Party Member Recruitment\"", and set your Party's purpose and conditions for joining.<br><br>An icon will appear over your head while Party Member Recruitment is active."""
 text0003#0,"""Recruitment will end immediately if any of the following occurs:<br><br>・The Party becomes full<br>・You transfer the Party Leader role to another player<br>・You enter the Beauty Salon"""
 text0004#0,"""If you want to join a Party which is recruiting members, select the character whose Party you want to join from the Character Menu or by opening the Main Menu, selecting Communication and selecting Nearby Characters. Then select the \""Join Party\"" option."""
-text0005#0,"""メンバー募集中のパーティーを検索したい場合は、<br>“メインメニュー”の“コミュニケーション”から、<br>“メンバー募集中のパーティー検索”で検索してください。"""
+text0005#0,"""To find Parties that are looking for members, open the Main Menu, then select \""Communication\"", then \""Currently Recruiting Party Search\""."""
