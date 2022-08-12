@@ -3889,7 +3889,7 @@ FighterTDHitCountPpGain#1,"""Recovers PP each time you land enough hits with PAs
 FighterDSAttackExtra#1,"""Increases the number of steps in your Normal Attack combo to 4.<br><yellow>※Double Saber only.<c>"""
 FighterKnucklePARushBonus#1,"""Boosts the PP consumption reduction from Knuckle Art Combo PP Save when you use the first half of a PA.<br><yellow>※Main Class／Knuckles only.<c>"""
 ForcePhotonFlareShortCycle#1,"""Reduces the duration of Photon Flare, but also reduces its cooldown.<br><yellow>※Main Class only.<c>"""
-ForceRodTechnicPpWellup#1,"""Your natural PP regeneration is slowed, but PP regenerates while using Techniques.<br><yellow>※Main Class/Rod only.<c>"""
+ForceRodTechnicPpWellup#1,"""While invoking a Technique, your passive PP regeneration will remain active at a decreased rate.<br><yellow>※Main Class/Rod only.<c>"""
 ForceTalisBloomAfterPpGain#1,"""Recovers PP when Talis deployment from a PA ends, based on how many Techniques you cast while it was deployed.<br><yellow>※Main Class/Talis only.<c>"""
 ForceTalisTecBurstWeakChargeUp#1,"""Increases the rate that the Tricky Capacitor gauge fills when hitting enemies with weakness Attribute Techniques while the Talis is deployed from a PA.<br><yellow>※Main Class/Talis only.<c>"""
 TechterWandAttackExtra#1,"""Increases the number of steps in your Normal Attack combo to 4.<br><yellow>※Wand only.<c>"""
