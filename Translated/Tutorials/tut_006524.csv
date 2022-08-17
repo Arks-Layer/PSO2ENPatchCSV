@@ -1,0 +1,4 @@
+Title#0,"""Bunker Type 1"""
+text0001#0,"""Bunker Type 1 is a type of training facility known as an <yellow>Advanced Trainia<c>.<br><br>In the Quests \""Cannonball Strike\"" and \""Cannonball Rumble\"", your objective is to destroy the specified number of targets within the time limit by throwing Cannonballs at them."""
+text0002#0,"""Cannonballs appear when you defeat enemies.<br><br>When thrown, they destroy Standard Targets or Extra Targets in one hit, but they deal very little damage to enemies."""
+text0003#0,"""There are two kinds of Target. Standard Targets will spawn small enemies when destroyed, while Extra Targets will spawn medium- and large-sized targets.<br><br><yellow>※Targets cannot be destroyed by non-Cannonball attacks.<c>"""
