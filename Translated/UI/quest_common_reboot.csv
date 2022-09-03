@@ -211,7 +211,7 @@ DescCbPlayerRecoveryGauge3#0,"""Reduces the number of Resta Signs<br>and Reverse
 CbPlayerRecoveryGauge4#0,"""Maximum Sign Reduction: Lv.4"""
 DescCbPlayerRecoveryGauge4#0,"""Reduces the number of Resta Signs<br>and Reverser Signs you can hold by 4."""
 CbPlayerPbGuageReduction2#0,"""Random Challenge B: PB Gauge Boost -90%"""
-DescCbPlayerPbGuageReduction2#0,"""Boosts the time required to<br>charge the Photon Blast Gauge by 90% on some floors."""
+DescCbPlayerPbGuageReduction2#0,"""Increases the time required to charge the<br>Photon Blast Gauge by 90% on some floors."""
 CbPlayerPpDecrease2#0,"""Random Challenge B: PP Consumption +30%"""
 DescCbPlayerPpDecrease2#0,"""Increases your PP consumption by 30% on some floors."""
 CbPlayerContinuousDamage2#0,"""Random Challenge C: HP drain: 20 per 10 seconds"""
