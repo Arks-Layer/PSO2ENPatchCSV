@@ -89,7 +89,7 @@ Error_ShaderSetting#0,"""커스텀 조명 설정은 쉐이더 품질이<br>「�
 Message_DiscardLightSettings#0,"""변경한 내용을 반영하지 않고 종료합니다.<br>괜찮으시겠습니까?"""
 SelectMenuType_CommunicationMenu1#0,"""숏컷 워드 실행"""
 SelectMenuType_CommunicationMenu2#0,"""로비 액션 실행"""
-SelectMenuType_CommunicationMenu3#0,"""캐릭터 머리 위 표시 전환"""
+SelectMenuType_CommunicationMenu3#0,"""캐릭터 상단 표시 전환"""
 SelectMenuType_CommunicationMenu4#0,"""온라인 상태 변경"""
 SelectMenuType_CommunicationMenu5#0,"""숏 로그 표시 ON/OFF"""
 SelectMenuType_ExecuteMenu1#0,"""스크린샷 촬영"""
