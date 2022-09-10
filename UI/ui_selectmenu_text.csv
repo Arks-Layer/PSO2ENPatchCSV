@@ -1,6 +1,6 @@
 SelectMenuType_CommunicationMenu1#0,"""숏컷 워드 실행"""
 SelectMenuType_CommunicationMenu2#0,"""로비 액션 실행"""
-SelectMenuType_CommunicationMenu3#0,"""캐릭터 머리 위 표시 전환"""
+SelectMenuType_CommunicationMenu3#0,"""캐릭터 상단 표시 전환"""
 SelectMenuType_CommunicationMenu4#0,"""온라인 상태 변경"""
 SelectMenuType_CommunicationMenu5#0,"""숏 로그 표시 ON/OFF"""
 SelectMenuType_ExecuteMenu1#0,"""스크린샷 촬영"""
