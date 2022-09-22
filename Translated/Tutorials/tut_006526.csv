@@ -1,0 +1,6 @@
+Title#0,"""Add-On Skills"""
+text0001#0,"""Add-On Skills are special Skills that strengthen your character.<br><br>You can generate and set Add-On Skills at the Class Counter, at the cost of N-Meseta and N-Class Excubes."""
+text0002#0,"""Each Add-On Skill is based on one particular Class. To generate an Add-On Skill, you need an appropriate N-Class Excube, such as an N-Hu Excube.<br><br>Each Add-On Skill has one fixed Main Effect based on the Class chosen, and two randomly-generated Sub Effects. The strength of the Sub Effects depends on the Skill's randomly-generated \""Effect Level\""."""
+text0003#0,"""Add-On Skills set to a Class at the Class Counter are always active, regardless of which Class you are currently playing.<br><br>Set Add-On Skills on as many Classes as possible to power your character up."""
+text0004#0,"""You can generate the same Add-On Skill multiple times. Each subsequent generation will cost more N-Meseta to create, but will have an increased minimum Effect Level."""
+text0005#0,"""Each time you generate an Add-On Skill for the first time for a given class, you will receive an <yellow>Add-On Skill Boost<c>, which boosts your EXP gained, your N-Meseta earned and your Rare Drop Rate.<br><br>This boost is <yellow>permanent<c>, and the boosts received from each Class stack."""
