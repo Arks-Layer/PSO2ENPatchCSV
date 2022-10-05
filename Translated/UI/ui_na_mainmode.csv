@@ -25,7 +25,7 @@ RewardReceiptFormAcceptanceMessage#0,"""You will receive the item(s) below.<br>A
 RewardReceiptFormPurchaseTitle#0,"""Purchase Confirmation"""
 RewardReceiptFormPurchaseMessage#0,"""Purchasing the below items for $(2)$(0).<br>Are you sure?<br><br>(SG Owned: $(1))"""
 RewardReceiptFormTierPurchaseMessage#0,"""Purchase Tier: $(2)$(0).<br>Are you sure?<br><br>(SG Owned: $(1))<br><br>Before Purchase: $(3)\u3000→\u3000After Purchase: $(4)"""
-LimitedTimeMessage#0,"""$(0)<br>\u3000<br>販売期限：<utcymdt>$(1)</utcymdt>"""
+LimitedTimeMessage#0,"""$(0)<br>\u3000<br>Ends:<utcymdt>$(1)</utcymdt>"""
 RewardUpTicketFormTitle#0,"""Item Purchase Confirmation"""
 RewardUpTicketFormMessage#0,"""<pict StarGem><c 1dedd7>SG payment required<c><br>Either you lack permission to use the selected function, or your access has expired.<br><br>You can purchase a <yellow>\""N-Mission Gold Pass\""<c> to enable this function immediately.<br>Proceed to purchase?<br><br><red>※Items that unlock individual features can be purchased from the AC/SG Shop.<c>"""
 RewardGetEffectTitle#0,"""Reward Received"""
