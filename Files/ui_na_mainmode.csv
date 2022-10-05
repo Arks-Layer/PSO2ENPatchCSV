@@ -25,6 +25,7 @@ RewardReceiptFormAcceptanceMessage#0,"""以下のアイテムを受け取りま�
 RewardReceiptFormPurchaseTitle#0,"""購入確認"""
 RewardReceiptFormPurchaseMessage#0,"""以下のアイテムを$(2)$(0)で購入します。<br>よろしいですか？<br><br>（所持SG：$(1)）"""
 RewardReceiptFormTierPurchaseMessage#0,"""ティアを$(2)$(0)で購入します。<br>よろしいですか？<br><br>（所持SG：$(1)）<br><br>購入前ティア：$(3)\u3000→\u3000購入後ティア：$(4)"""
+LimitedTimeMessage#0,"""$(0)<br>\u3000<br>販売期限：<utcymdt>$(1)</utcymdt>"""
 RewardUpTicketFormTitle#0,"""アイテム購入確認"""
 RewardUpTicketFormMessage#0,"""<pict StarGem><c 1dedd7>SG消費コンテンツ<c><br>選択した機能の利用権をお持ちでないか、<br>利用期限が切れています。<br><br><yellow>“N-ミッションゴールドパス”<c>を購入し、<br>この機能を有効にしますか？<br><br><red>※個別にアイテムを購入する場合は、<br>\u3000“メインメニュー”からショップを選択し、<br>\u3000“AC・SGショップ”でお買い求めください。<c>"""
 RewardGetEffectTitle#0,"""報酬を受け取りました"""
