@@ -267,7 +267,7 @@ QuickMenu_Cancel_Text1#0,"""편집을 취소합니다. 괜찮으시겠습니까?
 QuickMenu_SaveError_Text1#0,"""패턴이 공백이므로 저장할 수 없습니다."""
 QuickMenu_SaveError_Text2#0,"""\""분류\""이외의 항목이 가장 위에 설정되어 있습니다.<br><br>저장하려면 목록의 맨 위를<br>\""분류\""의 항목으로 해주세요."""
 QuickMenu_SaveError_Text3#0,"""\""분류\""의 항목이 2개 이상 나열되어있거나<br>가장 아래에 설정되어 있습니다.<br><br>저장하려면<br>\""분류\""의 항목을 정렬해 주세요."""
-QuickMenu_SaveError_Text4#0,""\""분류\""만 있는 상태에선 저장할 수 없습니다.<br><br>\""분류\''외의 항목을 추가하신 후<br>저장해 주세요."""
+QuickMenu_SaveError_Text4#0,"""\""분류\""만 있는 상태에선 저장할 수 없습니다.<br><br>\""분류\''외의 항목을 추가하신 후<br>저장해 주세요."""
 QuickMenu_SaveConfirm_Text1#0,"""같은 항목이 포함되어있습니다. 괜찮으시겠습니까?"""
 QuickMenu_SaveConfirm_Text2#0,"""\""$(0)\""은(는)<br>해당 플랫폼에서는 지원하지 않으므로<br>퀵 메뉴에 추가해도 사용할 수 없습니다.<br><br>추가해도 괜찮으시겠습니까?"""
 QuickMenu_SaveConfirm_Text3#0,"""\""$(0)\""을(를)<br>퀵 메뉴에 적용하시겠습니까?"""
