@@ -27,7 +27,7 @@ ScratchChoice_ConfirmationTicket#0,"""$(1)를<br>스크래치 권 $(0)장으로 
 ScratchChoice_ConfirmationNoCharge#0,"""$(1)의<br>무료 뽑기가 $(0)회 가능합니다.<br>※매일 <utc>15:00</utc>에 뽑을 수 있습니다.<br>괜찮으시겠습니까?"""
 ScratchChoice_ConfirmationACre#0,"""<pict Arcscash>AC 소비 컨텐츠<br>계속해서 $(1)를<br>$(0)AC로 구매합니다.<br>괜찮으시겠습니까?"""
 ScratchChoice_ConfirmationSGre#0,"""<pict StarGem>SG 소비 컨텐츠<br>계속해서 $(1)를<br>$(0)SG로 구매합니다.<br>괜찮으시겠습니까?"""
-ScratchChoice_ConfirmationTicketRe#0,"""계속해서 $(3)를<br><pict $(0)>$(1)  $(2)장으로 구매합니다.<br>괜찮으시겠습니까?"""
+ScratchChoice_ConfirmationTicketRe#0,"""계속해서 $(1)를<br>스크레치 티켓 $(0)장으로 구매합니다.<br>괜찮으시겠습니까?"""
 ScratchChoice_ConfirmationNoChargeRe#0,"""계속해서 $(0)를<br>한 번 무료로 뽑습니다.<br>※매일 <utc>15:00</utc>에 뽑을 수 있습니다.<br>괜찮으시겠습니까?"""
 ScratchResult_Title#0,"""스크래치 결과"""
 ScratchResult_Explanation#0,"""아래의 경품이 당첨됐습니다!<br>「스크래치 창고」에서 받으시면 됩니다.<br><yellow>※수령에 유효기간이 있으니<br> 주의해 세요.<c>"""

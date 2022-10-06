@@ -7,3 +7,4 @@ desktop.ini
 *.kate-swp
 *~
 .DS_Store
+/.vs
