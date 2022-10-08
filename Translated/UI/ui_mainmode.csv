@@ -7973,7 +7973,7 @@ Mag_Jukebox_Play_028#0,"""Cannot start BGM playback as a BGM with a higher prior
 Mag_Jukebox_Play_029#0,"""Preview with <%Function><pict 4space><c><br><yellow>You can adjust which part of the song to play.<c><br><gray>The tune cannot be changed.<c>"""
 Mag_Jukebox_Play_030#0,"""Preview with <%Function><pict 4space><c><br><yellow>You can change the tune.<c><br><gray>You cannot adjust which part of the song to play.<c>"""
 Mag_Jukebox_Play_031#0,"""Playing"""
-Mag_Jukebox_Play_032#0,"""※Music has stopped because BGM takes priority."""
+Mag_Jukebox_Play_032#0,"""※Music has stopped as BGM has priority."""
 Mag_Jukebox_Play_033#0,"""--:-- / --:--"""
 Mag_Jukebox_Play_034#0,"""$(2):$(3) / $(0):$(1)"""
 Mag_Jukebox_Play_035#0,"""Cancelling editing and returning to previous menu.<br>Continue?"""
