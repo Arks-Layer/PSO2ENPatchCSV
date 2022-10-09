@@ -3942,7 +3942,7 @@ FighterDSDodgeWindCounter#1,"""Pressing the Normal Attack button after successfu
 FighterDSDodgeWindWACounter#1,"""Using your Weapon Action again after successfully blocking an attack with your Weapon Action will generate a special counterattack.<br><yellow>※Double Saber only.<c>"""
 ForceRodCounterTechnic#1,"""Any Technique used immediately after successfully blocking an attack with a Guard or evading one with Step gains invincibility time.<br><yellow>※Rod only.<c>"""
 ForceReflectCounterShot#1,"""Any Technique used immediately after successfully blocking an attack with a Guard also fires a Tech bullet of the same Attribute.<br><yellow>※Rod only.<c>"""
-TechterWandCounterReflection#1,"""Generates a Tech Explosion when you successfully block an enemy attack with your Weapon Action.<br><yellow>※Wand only.<c>"""
+TechterWandCounterReflection#1,"""Generates a Tech Explosion when you successfully block an enemy attack with your Weapon Action or other guard points.<br><yellow>※Wand only.<c>"""
 TechterWandGuardCounter#1,"""Pressing the Normal Attack button after successfully blocking an attack with your Weapon Action generates a counterattack.<br><yellow>※Wand only.<c>"""
 Duration#0,"""Duration"""
 Recast#0,"""Cooldown"""
