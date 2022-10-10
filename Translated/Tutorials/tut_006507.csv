@@ -1,4 +1,4 @@
 Title#0,"""Auto Sell Drop Items"""
 text0001#0,"""This is a function which allows you to automatically sell some items when dropped by enemies, based on rules you set.<br><br>You can access it by opening the Main Menu, then selecting \""System\""."""
 text0002#0,"""Some items are not eligible to be automatically sold. You can select \""Detailed Information\"" to learn which items these are."""
-text0003#0,"""The Auto Sell Drop Items function is only available if you have an active Premium Set, or if you have the purchased Auto Sell Usage rights.<br><br>Premium Sets can be purchased from the AC Shop, while Auto Sell Usage can be purchased from the SG Shop."""
+text0003#0,"""The Auto Sell Drop Items function is only available to you if you have an active Premium Set, or if you have the purchased Auto Sell Usage rights.<br><br>Premium Sets can be purchased from the AC Shop, while Auto Sell Usage can be purchased from the SG Shop."""
