@@ -20,7 +20,7 @@ Generic_019#0,"""During a PSE Burst, enemies will keep appearing as long as the<
 Generic_020#0,"""Using Gold Prim Swords and similar items as material<br>will help you save N-Grinders when upgrading weapons."""
 Generic_021#0,"""You can adjust optional graphical effects, such<br>as motion blur and bloom, from the Options menu."""
 Generic_022#0,"""Holding <%Decide> allows you to navigate menus and sliders much faster."""
-Generic_023#0,"""If you enable Magnifier Mode in Options, you can<br>press <swguidetype ShiftTrigger>+<swguidetype EscMenu> to enlarge certain text and images."""
+Generic_023#0,"""If you enable Magnifier Mode in Options, you can<br>press <swguidetype ShiftTrigger> + <swguidetype EscMenu> to enlarge text and images."""
 Generic_024#0,"""Environmental resistance decreases the rate at which the weather<br>damages you, as well as your chances of receiving abnormal status effects."""
 Generic_025#0,"""<pict resistance_cold><pict 4space>Cold Resistance reduces the continuous<br>damage received while in Rayjord Gorge."""
 Generic_026#0,"""While in Rayjord Gorge's northern cavern, the effectiveness<br>of <pict debuff_resta><pict 4space>Resta Signs and other HP recovery is reduced."""
