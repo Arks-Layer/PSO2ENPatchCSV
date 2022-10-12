@@ -1,0 +1,2 @@
+Title#0,"""Undoing and Redoing Actions"""
+text0001#0,"""In Character Creation and the Beauty Salon, you can undo your previous action to return to the state you were in before you made it.<br><br>・Undo<br>\u3000Each time you press <swguidetype Undo>, one action will be undone, in reverse order.<br>・Redo<br>\u3000Each time you press <swguidetype Redo>, an undone action will be redone, in the order you previously did them."""
