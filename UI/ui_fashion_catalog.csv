@@ -21,7 +21,7 @@ Message#0,"""<pict like_icon>좋아요!<br><pict cute_icon>귀여워요!<br><pic
 Message_rb#0,"""<pict like_icon>좋아요!<br><pict cute_icon>귀여워요!<br><pict cool_icon>멋져요!<br><pict funny_icon>재미있어요!<br><br>4개의 메시지 중 1개를 선택하여<br>「코멘트 있는 굿잡」으로<br>상대에게 보낼 수 있습니다.<br>"""
 ReceiveMessage#0,"""仮テキスト (いいね！送信完了文)"""
 Point#0,"""기본 포인트"""
-FrendPoint#0,"""프랜드 포인트"""
+FrendPoint#0,"""프렌드 포인트"""
 PremiumPoint#0,"""프리미엄 포인트"""
 Sum#0,"""합계"""
 Plus#0,"""＋"""
