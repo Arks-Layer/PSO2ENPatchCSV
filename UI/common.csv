@@ -1,4 +1,4 @@
-TEST#0,"""テストです。"""
+TEST#0,"""테스트입니다."""
 ConnectErrorLabel#0,"""통신 오류"""
 ConnectErrorText#0,"""서버와 통신이 끊어졌습니다. 타이틀로 돌아갑니다."""
 InvalidPasswordText#0,"""SEGA ID나 패스워드가 틀렸습니다."""
