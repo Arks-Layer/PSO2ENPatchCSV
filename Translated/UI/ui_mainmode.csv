@@ -1302,7 +1302,7 @@ PartyPasswordError01#0,"""You may only use alphanumeric characters as part of a 
 TrigerBluePartyJoinDiscardMenuText#0,"""Are you sure you wish to abandon this Quest?<br><br>If you abandon this Quest, <yellow>only you<c> will be teleported back to the field.<br><br>In addition, you will lose any effects, such as power boosts, that you received during the Quest.<br><br><yellow>※Once you leave the Quest, you cannot return to the Quest in progress.<c>"""
 TrigerBluePartyJoinMenuText#0,"""Are you sure you wish to leave the Party?<br><br>When you leave the Party while a Quest is in progress, <yellow>only you<c> will be teleported back to the field.<br><br>In addition, you will lose any effects, such as power boosts, that you received during the Quest.<br><br><yellow>※Once you leave the Quest, you cannot return to the Quest in progress.<c>"""
 Shootingroom_Info#0,"""Photography Room"""
-Shootingroom_Command_Guide#0,"""You can change the time and the weather from Party Commands on the Communication menu, or by using special chat commands."""
+Shootingroom_Command_Guide#0,"""You can change the time and the weather from Party Commands<br>on the Communication menu, or by using special chat commands."""
 LeaderMenuLabel07#0,"""Photography Room Settings"""
 Shootingroom_Command_Label_Preference#0,"""Field Settings"""
 Shootingroom_Command_Label_Weather#0,"""Weather Settings"""
