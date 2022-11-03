@@ -1,4 +1,4 @@
 Title#0,"""Mag Jukebox"""
-text0001#0,"""\""Mag Jukebox\"" is a system that allows you to register music and play it wherever you like.<br><br>To register and play music, open the Main Menu with <swguidetype T_MainMenu>, select <yellow>\""Equipment/Subpalette\""<c>, then <yellow>\""Mag\""<c>, then select <br>\""Mag Jukebox\"".<br><yellow>※This feature may be unavailable during some Emergency Quests.<c>"""
+text0001#0,"""\""Mag Jukebox\"" is a system that allows you to register music and play it wherever you like.<br><br>To register and play music, open the Main Menu with <swguidetype T_MainMenu>, then select <yellow>\""Equipment/Subpalette\""<c>, then <yellow>\""Mag\""<c>, then select \""Mag Jukebox\"".<br><yellow>※This feature may be unavailable during some Emergency Quests.<c>"""
 text0002#0,"""To register music, you need a Music Disc.<br><br><yellow>※Some Music Discs contain multiple tracks. This will be indicated in their Item Details.<c>"""
 text0003#0,"""Music you have previously registered in PSO2 will also be available in your Mag Jukebox in NGS.<br><br><yellow>※Music from discs specific to NGS cannot be played in PSO2 blocks.<c>"""
