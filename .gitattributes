@@ -8,3 +8,4 @@
 /_aspell/*.dict text
 /release.sed text
 /filelist.txt text
+smut_filter.csv filter=lfs diff=lfs merge=lfs -text lockable
