@@ -86,5 +86,5 @@ WeeklyRanking_Title_FieldRace_AelioCenter#0,"""中央エアリオ板操（Stage.
 WeeklyRanking_Title_FieldRace_RetemCenter#0,"""中央リテム板操（Stage.1）：<br>ソロ"""
 WeeklyRanking_Title_OrdinalTower_Solo#0,"""オーディナルタワー（Rank.7）：<br>ソロ"""
 WeeklyRanking_Title_OrdinalTower_Party#0,"""オーディナルタワー（Rank.7）：<br>パーティー"""
-WeeklyRanking_Description_OrdinalTower_Solo#0,"""オーディナルタワーの対象クエストを<br>ソロでクリアする。"""
-WeeklyRanking_Description_OrdinalTower_Party#0,"""オーディナルタワーの対象クエストを<br>パーティーでクリアする。"""
+WeeklyRanking_Description_OrdinalTower_Solo#0,"""トレイニアアドバンス・バンカーType.2の<br>対象クエストを１人でクリアする。"""
+WeeklyRanking_Description_OrdinalTower_Party#0,"""トレイニアアドバンス・バンカーType.2の<br>対象クエストを２人以上でクリアする。"""
