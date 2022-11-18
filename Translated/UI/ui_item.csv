@@ -804,7 +804,7 @@ UseTicketUpgrade_UsedNormal_UsePlus#0,"""Upgrading \""$(0)\"" to \""$(1)\"".<br>
 UseTicketUpgrade_UsedPlus_UseNormal#0,"""Since \""$(1)\"" has already been registered, <br><yellow>you can only perform<c> \""$(0)\""<br><yellow>using the methods below:<c><br><br>- Chat Commands<br>- Keyboard Shortcuts<br><br>Are you sure you wish to use it anyway?"""
 CostumeRemoveError#0,"""アイテムパックの空き容量不足のため、<br>ファッションアイテムを取り外せません。"""
 MoveWarehouseErrorMessage10#0,"""『PSO2』アイテムパックの空き容量不足、<br>または個々のアイテムの最大所持数を<br>超えるため、移動できません。"""
-Missionpass_ReceiveMessage1#0,"""There are unclaimed rewards in the Mission Pass."""
+Missionpass_ReceiveMessage1#0,"""There are unclaimed rewards in<br>the Mission Pass."""
 BoostCaveatMessage1#0,"""Use a Boost Item?<br><br><yellow>※When using a Boost Item with the same effect,<br>only the effect will be extended.<br>The name displayed will remain unchanged.<c>"""
 Param_Value#0,"""$(0)"""
 Param_Percent#0,"""$(0)%"""
