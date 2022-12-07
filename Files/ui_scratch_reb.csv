@@ -71,6 +71,7 @@ useitem_message#0,"""使用可能な獲得チケットアイテムを、すべ�
 Tags01#0,"""イチオシ！"""
 Tags02#0,"""人気！"""
 Tags03#0,"""ボーナス！"""
+Tags04#0,"""陳列終了予定"""
 GachaBonusCommentNothing_re#0,"""このスクラッチは<br>回数ボーナスがありません。"""
 GachaBonusCommentAchieved_re#0,"""このスクラッチの<br>回数ボーナスは獲得済みです。"""
 ScratchChoice_LimitedTime#0,"""陳列期限"""
