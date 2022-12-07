@@ -71,7 +71,7 @@ useitem_message#0,"""사용 가능한 획득 티켓 아이템을 모두 사용�
 Tags01#0,"""추천!"""
 Tags02#0,"""인기!"""
 Tags03#0,"""보너스!"""
-Tags04#0,"""陳列終了予定"""
+Tags04#0,"""진열 종료 예정"""
 GachaBonusCommentNothing_re#0,"""이 스크래치는<br>회차 보너스가 없습니다."""
 GachaBonusCommentAchieved_re#0,"""이 스크래치의<br>회차 보너스를 이미 획득했습니다."""
 ScratchChoice_LimitedTime#0,"""진열 기간"""
