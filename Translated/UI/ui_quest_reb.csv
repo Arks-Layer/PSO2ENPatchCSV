@@ -145,7 +145,7 @@ Mes_Matching_Election_End2#0,"""Not all participants have agreed to start the Qu
 Mes_Matching_Election_End3#0,"""The maximum number of Quest participants have arrived. Vote aborted. Now starting Quest."""
 Mes_Matching_Election_End4#0,"""One or more queued participants have left. Vote aborted."""
 Mes_Matching_Election_End5#0,"""One or more votes invalidated. Immediate departure aborted."""
-Mes_Matching_Election_End6#0,"""There are too many players."""
+Mes_Matching_Election_End6#0,"""Quest cannot start because the Block is full. Please try again later."""
 Mes_Matching_Number_Limit#0,"""You can clear this Quest $(0) more time(s)."""
 Mes_Matching_Start#0,"""Starting queue for the Quest: \""$(0)\""."""
 Mes_Quest_Desorption#0,"""Returning to $(0)."""
