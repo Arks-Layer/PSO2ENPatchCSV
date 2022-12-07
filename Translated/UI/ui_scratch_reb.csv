@@ -71,7 +71,7 @@ useitem_message#0,"""Use all obtained available items?<br>You can also select wh
 Tags01#0,"""Endorsed!"""
 Tags02#0,"""Popular!"""
 Tags03#0,"""Bonus!"""
-Tags04#0,"""陳列終了予定"""
+Tags04#0,"""Expiring Soon"""
 GachaBonusCommentNothing_re#0,"""This Scratch Ticket<br>doesn't have Count Bonus prizes."""
 GachaBonusCommentAchieved_re#0,"""You have earned<br>all count bonus prizes for this Ticket."""
 ScratchChoice_LimitedTime#0,"""Deadline"""
