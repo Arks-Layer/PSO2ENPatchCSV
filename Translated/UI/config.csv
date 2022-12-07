@@ -983,7 +983,7 @@ Config_Reb_024_Hint#0,"""Set the maximum number of visible characters in Explora
 Config_Reb_024_Select_0#0,"""Don't Display"""
 Config_Reb_024_Select_1#0,"""Display"""
 Config_Reb_025_Name#0,"""Login Call Settings"""
-Config_Reb_025_Hint#0,"""When you log in,<br>send Login Call to friends."""
+Config_Reb_025_Hint#0,"""When you log in,<br>send Login Calls to Friends.<br><br><yellow>※Login Calls will only be sent to Friends that<br>have enabled receiving them from you.<br>To enable receiving Login Calls, open the<br>Friend List from the Communication menu,<br>select the player you want to receive Login<br>Calls from, then select \""Receive Login Calls\"".<c>"""
 Config_Reb_025_Select_0#0,"""Don't Show"""
 Config_Reb_025_Select_1#0,"""Show"""
 Config_Reb_026_Name#0,"""Incapacitation Player Indicator"""
