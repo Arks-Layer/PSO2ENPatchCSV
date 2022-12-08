@@ -59,4 +59,4 @@ MRetryMenu_Message_AfterPlaying#0,"""Would you like to return to the $(0) Racing
 MRetryMenu_Yes#0,"""Yes"""
 MRetryMenu_No#0,"""No"""
 MCourse_StiaB#0,"""Dreisen Plant Board Training (Stage 1)"""
-MCourse_StiaA#0,"""Stia Outer Edge Marathon (Stage 1)"""
+MCourse_StiaA#0,"""Stia Fringes Marathon (Stage 1)"""
