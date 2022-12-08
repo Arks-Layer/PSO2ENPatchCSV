@@ -145,7 +145,7 @@ Mes_Matching_Election_End2#0,"""모두의 동의를 얻지 못하였으므로 �
 Mes_Matching_Election_End3#0,"""필요인원이 다 차서 투표를 중지하고 퀘스트를 시작합니다."""
 Mes_Matching_Election_End4#0,"""매칭 중에 일부 멤버가 이탈했으므로 퀘스트 즉시 시작을 중지합니다."""
 Mes_Matching_Election_End5#0,"""무효 표가 있어 퀘스트 개시는 부결됐습니다."""
-Mes_Matching_Election_End6#0,"""정원 초과입니다."""
+Mes_Matching_Election_End6#0,"""블록이 꽉 차서 퀘스트를 시작할 수 없습니다. 잠시 후 다시 시도해 주세요.."""
 Mes_Matching_Number_Limit#0,"""이 퀘스트는 앞으로 $(0)회 클리어할 수 있습니다."""
 Mes_Matching_Start#0,"""\""$(0)\""퀘스트 매칭을 시작했습니다."""
 Mes_Quest_Desorption#0,"""$(0)로 귀환합니다."""
