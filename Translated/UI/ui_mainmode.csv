@@ -3986,7 +3986,7 @@ ForceReflectCounterShot#1,"""Any Technique used immediately after successfully b
 TechterWandCounterReflection#1,"""Generates a Tech Explosion when you successfully block an enemy attack with your Weapon Action or other guard points.<br><yellow>※Wand only.<c>"""
 TechterWandGuardCounter#1,"""Pressing the Normal Attack button after successfully blocking an attack with your Weapon Action generates a counterattack.<br><yellow>※Wand only.<c>"""
 RangerStealthAttack#1,"""Enemies will less likely target you after attacking them."""
-RangerWeakBulletBonus#1,"""Boosts attack damage to enemy parts that are affected by Weak Bullet, not just areas with a Weak Bullet on them. Only applies to your own attacks."""
+RangerWeakBulletBonus#1,"""Boosts damage against non-Weak Bulleted parts of enemies that are affected by Weak Bullet. Only applies to your own attacks."""
 RangerRifleGrenadeEscape#1,"""Grants temporary invincibility when activating Rifle Grenadier. <br><yellow>※Assault Rifle only.<c>"""
 RangerLauncherFanatic#1,"""<yellow>[Active Skill]<c><br>Boosts the power and speed of uncharged Normal Attacks for a set time.<br><yellow>※Main Class/Launcher only.<c>"""
 GunnerChainTriggerFinishEscape#1,"""Grants temporary invincibility when Chain Finish activates.<br><yellow>※Main Class/Twin Machineguns only.<c>"""
