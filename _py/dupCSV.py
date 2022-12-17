@@ -8,23 +8,21 @@ import sys
 
 
 def check(i):
-	err = os.EX_OK
-	with codecs.open(i, encoding="utf-8") as QC:
-		dupid = []
-		for x, row in enumerate(csv.reader(QC, strict=True)):
-			#print("Issue on {}:{}".format(i, x, header))
-			if row:
-				header = row[0]
-				#print("{}:{}:{}".format(i, x, header))
-				if header in dupid:
-					print("{}:{} {}".format(i, x, header))
-					err = 1
-				dupid.append(header)
-			else:
-				print("Issue on {}:{}".format(i, x, header))
-				err = 1
-	return err
-
+    err = os.EX_OK
+    header = ""  # Initialize header to an empty string
+    with codecs.open(i, encoding="utf-8") as QC:
+        dupid = []
+        for x, row in enumerate(csv.reader(QC, strict=True)):
+            if row:  # Only proceed if the row list is non-empty
+                header = row[0]
+                if header in dupid:
+                    print("{}:{} {}".format(i, x, header))
+                    err = 1
+                dupid.append(header)
+            else:
+                print("Issue on {}:{}".format(i, x, header))
+                err = 1
+    return err
 
 if __name__ == '__main__':
 	err = os.EX_OK
