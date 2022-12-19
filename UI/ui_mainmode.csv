@@ -3901,7 +3901,7 @@ GunnerChainFinishTimeBonus#1,"""체인 피니쉬 발생 후<br>체인 트리거�
 GunnerSRollArts#1,"""트윈 머신 건 장비 시<br>무기 액션 중에<br>PA 버튼을 눌러<br>PP를 소비하여 위력이 높은 공격을 사용한다."""
 GunnerChainBoost#1,"""체인 피니쉬 발생 후 일정 시간<br>트윈 머신 건 무기 액션의<br>동작이 변화하고 체인 수에 따라<br>트윈 머신 건의 공격 속도가 상승한다.<br><yellow>이 기술은 메인 클래스만 적용된다"""
 GunnerNeutralDeadApproach#1,"""트윈 머신 건 장비 시<br>방향 입력을 하지 않고 무기 액션을 하면<br>전방에 돌진하는 동작으로 변화한다."""
-GunnerAttackPPRestraint#1,"""통상 공격을 히트시켰을 때 PP 회복량이 증가한다."""
+GunnerAttackPPRestraint#1,"""공격을 히트시켰을 때 PP 회복량이 증가한다."""
 TechterShiftaDeband#1,"""<yellow>【액티브 스킬】<c><br>일정 시간 자신과 주변 캐릭터의<br>에너미에게 주는 데미지가 증가하고<br>받는 데미지가 감소한다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
 TechterPartyAssist#1,"""시프타/데반드 발동 시<br>거리가 먼 같은 파티의<br>캐릭터에게도 효가가 적용된다.<br><yellow>이 스킬은 메인 클래스에만 적용된다."""
 TechterWandElementChange#1,"""완드 장비 중<br>차지 테크닉을 사용하면<br>법격 폭발의 속성이<br>차지한 테크닉의 속성으로 변화한다."""
