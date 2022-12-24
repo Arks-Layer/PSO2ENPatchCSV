@@ -3997,7 +3997,7 @@ BouncerDBladeFullConnect#1,"""<yellow>【액티브 스킬】<c><br>공격에 의
 BouncerFrailJellen#1,"""피지컬 디클라인과<br>엘리멘탈 디클라인에<br>에너미의 공격을<br>약체화 시키는 효과를 추가한다.<br>에너미에게 피지컬, 엘리멘탈<br>두 종류의 디클라인을 부여하면<br>더욱 약화된다.<br><yellow>※메인 클래스/바운서 무기 전용<c>"""
 BouncerElementBurstSpeedBoost#1,"""슈트룸 지커 발동 후에<br>일정 시간 동안PA의 공격 속도가 상승한다.<br><yellow>※메인 클래스/제트 부츠 전용<c>"""
 BouncerOptionChange#1,"""장비 중인 무기와 방어구의 특수 능력 중<br>타격 무기 위력과 법격 무기 위력의 상승치를<br>각각 합산하여 위력이 높은 쪽이<br>타격, 법격 양측 무기 위력에<br>적용된다.<br><yellow>※메인 클래스/바운서 무기 전용<c>"""
-BraverOptionChange#1,"""장비 중인 무기와 방어구의 특수 능력 중<br>타격 무기 위력과 사격 무기 위력의 상승치를<br>각각 합산하여 위력이 높은 쪽이<br>타격, 법격 양측 무기 위력에<br>적용된다.<br><yellow>※메인 클래스/브레이버 무기 전용<c>"""
+BraverOptionChange#1,"""장비 중인 무기와 방어구의 특수 능력 중<br>타격 무기 위력과 사격 무기 위력의 상승치를<br>각각 합산하여 위력이 높은 쪽이<br>타격, 사격 양측 무기 위력에<br>적용된다.<br><yellow>※메인 클래스/브레이버 무기 전용<c>"""
 BraverRestaPPGain#1,"""레스타 사인 사용 시<br>PP가 회복된다."""
 BraverKatanaAmbitionStrikeBack#1,"""페어리스 에티튜드 발동 후에<br>처음으로 사용하는 PA의<br>PP 소비량이 감소한다.<br><yellow>※카타나 전용<c>"""
 BraverCompoundbowSlideDodgeCounter#1,"""불릿 보우 일루드 익스팬드를 이용한<br>회피 성공 시<br>통상 공격을 하면<br>카운터가 발생한다.<br><yellow>※불릿 보우 전용<c>"""
