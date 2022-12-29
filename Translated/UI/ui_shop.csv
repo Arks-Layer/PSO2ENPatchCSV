@@ -74,7 +74,7 @@ RenewConfirmMessage_N_Free#0,"""This will update the $(1) product listings.<br>Y
 RenewConfirmMessage_N_Premium#0,"""<yellow>Premium Set Bonus<c><br><br>Because you have an active Premium Set, you are able to update the $(1) product listing again for free.<br><yellow>※Because the listings are randomized, there's a chance for the same item to appear.<c><br><br>Free Refreshes Available: <yellow>$(0)<c>"""
 RenewBuyTitle#0,"""Update Listings"""
 RenewBuyMessage#0,"""Purchase for $(0)SG (Reg. Price: $(1)SG) and<br>update the list right now?<br><br><yellow>You will receive a discount for the first 1~9 purchases. However, as you keep<br>doing consecutive purchases, your discount<br>will decrease.<c><br>※This discount will reset at<br><utc>20:00</utc> per day.<br>(SG Owned: $(2))"""
-RenewBuyMessage_N_SG#0,"""<pict StarGem><c 1dedd7>SG消費コンテンツ<c><br><br>“$(1)”の商品リストを<br><pict StarGem><yellow>10SGを消費<c>してすぐに更新します。<br>よろしいですか？<br><br><yellow>※商品リストはランダムのため、<br>\u3000同じ商品が陳列される場合があります。<c><br><br>手動で更新：あと <yellow>$(0)回<c><br><pict StarGem>所持SG：$(2)"""
+RenewBuyMessage_N_SG#0,"""<pict StarGem><c 1dedd7>Consuming SG<c><br><br>This will update the $(1) listing immediately at the cost of <pict StarGem><yellow>10SG<c>.<br>Continue?<br><br><yellow>※The product list is randomly chosen, so items from the current list may appear on the new one.<c><br><br>Manual updates remaining: <yellow>$(0)<c><br><pict StarGem>SG owned: $(2)"""
 RenewResultTitle#0,"""Updated Listings Results"""
 RenewResultMessage#0,"""The listings have been updated."""
 RenewResultError#0,"""Failed to update listings."""
