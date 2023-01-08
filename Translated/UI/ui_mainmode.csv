@@ -3953,7 +3953,7 @@ SummonerSuperParry#1,"""<yellow>[Active Skill]<c><br>Blocks enemy attacks withou
 SummonerStockZeroPPSave#1,"""Whenever a Familiar's Gear Gauge stocks are fully consumed, that Familiar's PAs receive reduced PP consumption for a set time.<br><yellow>※Takt only.<c>"""
 SummonerForest#1,"""Hitting an enemy multiple times places a marker on it. Marked enemies take more damage from and are easier to Down by PAs.<br><yellow>※Takt only.<c>"""
 SummonerForestFinish#1,"""Hitting a marked enemy with a held Normal Attack detonates the marker.<br><yellow>※Takt only.<c>"""
-SummonerPetAutoAttack#1,"""Generates a crest when you activate Treble Cleff Ignition, which attacks at regular intervals. The behaviour of the crest depends on which Familiar performed the last PA you used.<br><yellow>※Takt only.<c>"""
+SummonerPetAutoAttack#1,"""Generates a crest when you activate Treble Clef Ignition, which attacks at regular intervals. The behaviour of the crest depends on which Familiar performed the last PA you used.<br><yellow>※Takt only.<c>"""
 SummonerPetGear#1,"""Adds a gauge for each Familiar. Damaging enemies with PAs raises the gauge of the corresponding familiar.<br><yellow>※Takt only.<c>"""
 SummonerInOutBlink#1,"""After using a PA, pressing the Normal Attack button with the correct timing will make you warp forwards and attack. If you input backwards, you will warp backwards instead.<br><yellow>※Takt only.<c>"""
 SummonerInOutBlinkPlus#1,"""After activating Linear Drive, pressing the Normal Attack button again with the correct timing will let you warp forwards or backwards and attack again.<br><yellow>※Takt only.<c>"""
