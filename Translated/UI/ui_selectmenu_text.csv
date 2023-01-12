@@ -1,5 +1,5 @@
 ActiveStatus_Title#0,"""Change Friend Message"""
-ActiveStatus_Info#0,"""This message will be shown on other players' Friend Lists.<br>Press \""OK\"" to register it.<br><br>Your Friend Message will be removed when logged out.<br>To display it again after you log back in, open this menu and press \""OK\"" again."""
+ActiveStatus_Info#0,"""This message will be shown on other players' Friend Lists.<br>Press \""Confirm\"" to register it.<br><br>Your Friend Message will be removed when logged out.<br>To display it again after you log back in, open this menu and press \""Confirm\"" again."""
 ActiveStatus_Comment#0,"""Friend Message"""
 ActiveStatus_Send#0,"""Confirm"""
 ActiveStatus_Cancell#0,"""Cancel"""
