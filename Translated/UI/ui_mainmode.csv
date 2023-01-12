@@ -7229,7 +7229,7 @@ PartyMakerError1#0,"""The recruitment comment<br>contains characters which canno
 PartyMakerError2#0,"""Cannot install additional Party Makers<br>as the maximum quantity allowed has<br>already been placed."""
 WindowTitle3#0,"""Cancel Recruitment"""
 WindowTitle4#0,"""Start Recruitment"""
-PartyMakerMessage4#0,"""Party Maker will be removed.<br><br>Continue?"""
+PartyMakerMessage4#0,"""This will end Party Member recruitment.<br><br>Continue?"""
 PartyMakerMessage5#0,"""Joining<br><yellow>$(0)<c>'s party.<br><yellow>(Party Members: Loading...)<c><br><br>Continue?"""
 PartyMakerMessage6#0,"""Please select an Objective"""
 PartyMakerMessage7#0,"""Lv.$(0)"""
