@@ -1,8 +1,8 @@
-version: 3
+version: 4
 jobs:
   build:
     docker:
-      - image: cimg/python:3.10-node
+      - image: cimg/python:3.11-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -16,7 +16,7 @@ jobs:
     steps:
       - run:
           name: Update APT listing
-          command: sudo apt-get -qq update
+          command: sudo apt-get -qq update && sudo apt upgrade -y
       - run:
           name: Install rsync
           command: sudo apt-get --no-install-recommends -qq -y install rsync
