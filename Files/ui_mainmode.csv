@@ -561,7 +561,7 @@ BlackList_Error_TooMany#0,"""ブロックリストの登録可能件数を超え
 FriendList_Error_MailErr#0,"""問題が発生したため、<br>処理を実行できませんでした。<br><br>[No.1026］"""
 FriendList_Error_Unknown#0,"""問題が発生したため、<br>処理を実行できませんでした。<br><br>[No.1027」］"""
 FriendList_Error_NotOnline#0,"""指定された相手がオンラインではありません。<br><br>[No.1028］"""
-FriendList_Error_Black#0,"""相手がブロックリストに登録されているためフレンド登録の申し込み、または承認ができませんでした。"""
+FriendList_Error_Black#0,"""現在、そのプレイヤーとフレンドになることはできません。"""
 FriendList_Error_Black01#0,"""現在、そのプレイヤーとフレンドになることはできません。"""
 FriendList_Error_Black_send#0,"""現在、相手がフレンド登録の返答を<br>行うことができません。<br><br>[No.1030］"""
 FriendList_Error_Black_reply#0,"""問題が発生したため、<br>処理を実行できませんでした。<br><br>[No.1031］"""
