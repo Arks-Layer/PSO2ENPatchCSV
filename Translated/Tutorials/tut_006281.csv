@@ -1,5 +1,5 @@
 Title#0,"""Daily/Weekly Tasks"""
-text0001#0,"""Daily Tasks are tasks that are available every day. Weekly Tasks are tasks that are available every week.<br><br>Daily Tasks update every day at <utc>19:00</utc>, while Weekly Tasks update every week at <utcdow>Wed 2:00</utcdow>"""
-text0001_na#0,"""Daily Tasks are tasks that are available every day. Weekly Tasks are tasks that are available every week.<br><br>Daily Tasks update every day at <utc>12:00</utc>, while Weekly Tasks update every week at <utcdow>Wed 2:00</utcdow>"""
+text0001#0,"""Daily Tasks are tasks that are available every day. Weekly Tasks are tasks that are available every week.<br><br>Daily Tasks update every day at <utc>19:00</utc>, while Weekly Tasks update every week at <utcdow>Wed 3:00</utcdow>"""
+text0001_na#0,"""Daily Tasks are tasks that are available every day. Weekly Tasks are tasks that are available every week.<br><br>Daily Tasks update every day at <utc>12:00</utc>, while Weekly Tasks update every week at <utcdow>Wed 3:00</utcdow>"""
 text0003#0,"""The exact details of available Daily and Weekly Tasks change as you make progress in the game, such as by raising your highest Class Level."""
 text0002#0,"""Each account can only complete <yellow>each Daily Task once per day and each Weekly Task once per week<c>. Progress cannot be carried over to the next day or next week.<br><br>In addition to regular Tasks, there may be special Tasks that are only available for a limited time."""
