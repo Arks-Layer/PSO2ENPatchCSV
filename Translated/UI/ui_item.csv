@@ -12137,7 +12137,7 @@ ShoppingMemo_Comment#0,"""Select an item to copy its name<br>into the Product Se
 ShoppingMemo_Index#0,"""Item List (Up to $(0) can be registered)"""
 ShoppingMemo_Search#0,"""Search for this item"""
 ShoppingMemo_Delete#0,"""Remove from Wishlist"""
-ShoppingMemo_None#0,"""You can register item names from places like the Fashion Catalog or a Scratch's item listing."""
+ShoppingMemo_None#0,"""You can register item from<br>places like the Fashion Catalog<br>or a Scratch's item listing."""
 Tab_All#0,"""1. Show All"""
 Tab_Favorite#0,"""0. Favorites"""
 Favorite_Add#0,"""Add to Favorites"""
