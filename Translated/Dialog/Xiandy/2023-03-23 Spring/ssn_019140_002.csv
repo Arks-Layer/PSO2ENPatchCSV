@@ -69,7 +69,7 @@ ssn_019140_002_5020#0,"""I want to make sure not to overlook even the smallest o
 npc_menu_0010#0,"""Exchange Seasonal Points (Until $(0))"""
 npc_menu_0020#0,"""Ask about the Seasonal Event"""
 npc_menu_0030#0,"""Close Menu"""
-npc_menu_0040#0,"""Item Recycle (Until April 5th 12:00)"""
+npc_menu_0040#0,"""Item Recycle (Until April 5th, 2023, 12:00 JST)"""
 npc_menu_1010#0,"""About Seasonal Events"""
 npc_menu_1020#0,"""About Seasonal Enemies"""
 npc_menu_1030#0,"""About Mischief Symbols"""
