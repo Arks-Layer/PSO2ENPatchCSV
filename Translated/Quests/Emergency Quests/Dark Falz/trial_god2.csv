@@ -8,7 +8,7 @@ NpcComGod2RanBossAppear01#0,"""/voicessc_012040_0040 A high-energy signal coming
 NpcComGod2RanBossAppear02#0,"""/voicessc_012040_0050 It's Dark Falz..."""
 NpcComGod2RanBossBattleStart01#0,"""/voicessc_012050_0010 /atime0.5 ...Everyone... Please!?\u3000...please respond!\u3000...is... go to th-...!"""
 NpcComGod2RanLaterHalf01#0,"""/voicessc_012060_0010 Communications restored!<br>Checking its vitals. We're now monitoring the situation."""
-NpcComGod2RanLaterHalf02#0,"""/voicessc_012060_0030 /atime0.5 It seems its weaker than when it appeared... Everyone, continue your attacks against Dark Falz!"""
+NpcComGod2RanLaterHalf02#0,"""/voicessc_012060_0030 /atime0.5 It seems it's weaker than when it appeared... Everyone, continue your attacks against Dark Falz!"""
 NpcComGod2RanBrokenAllParts01#0,"""/voicessc_012060_0070 Dark Falz has been weakened, keep going!"""
 NpcComGod2RanReturnFromDown01#0,"""/voicessc_012060_0050 /atime0.5 Preparing to fire the Central Cannon, moving to final stage of firing.<br>Just hang on a little more!"""
 NpcComGod2ManonAndAina02#0,"""/voicessc_012040_0020 Looks like we've arrived at different locations."""
