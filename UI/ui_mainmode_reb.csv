@@ -242,7 +242,7 @@ BraverJustReversalCover#0,"""에너미의 공격에 의해<br>공중에 뜨거�
 BraverCombat#0,"""<yellow>【액티브 스킬】<c><br>일정 시간 PP 소비량이 감소하고 공격 시<br>PP 회복량이 증가한다. 스킬 발동 중에<br>다시 사용하면 강력한 일격을 가한다.<br><yellow>※브레이버 무기 전용<c>"""
 BraverBraveCombatShortTime#0,"""브레이브 컴뱃의<br>효과 시간이 감소하는 대신<br>재사용이 가능해질 때까지의 시간을 단축한다."""
 BraverCombatCountAfterBonus#0,"""브레이브 컴뱃이 끝날 때<br>스킬 발동중의 공격 히트수에 따라<br>HP와 PP가 회복된다.<br><yellow>※메인 클래스/브레이버 무기 전용<c>"""
-Katana:LockonChase#0,"""브레이브 컴뱃 중<br>록 온 상태에서의 통상 공격에<br>일정 범위 내에 있는 에너미에게<br>접근하는 동작을 추가한다.<br><yellow>※카타나 전용<c>"""
+Katana:LockonChase#0,"""브레이브 컴뱃 중<br>록온 상태에서의 통상 공격에<br>일정 범위 내에 있는 에너미에게<br>접근하는 동작을 추가한다.<br><yellow>※카타나 전용<c>"""
 BraverCompoundbowPaArmor#0,"""브레이브 컴뱃 중<br>PA에 의한 공격 발동 시 특정 타이밍에<br>에너미의 공격에 의해 뜨거나<br>날아가는 것을 방지하는 효과를 추가한다.<br><yellow>※불릿 보우 전용<c>"""
 BraverKatanaGuardCounter#0,"""무기 액션을 이용한<br>저스트 가드 성공 시<br>자동으로 카운터가 발생한다.<br><yellow>※카타나 전용<c>"""
 Katana:CounterEdge#0,"""카타나 가드 카운터 발동 시<br>충격파를 추가한다."""
