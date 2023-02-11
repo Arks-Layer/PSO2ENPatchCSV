@@ -149,7 +149,7 @@ ListForm_Illegal_LayerDelete#0,"""부정한 파츠가 사용되고 있었기 때
 ListForm_Error_ServerLoadFailed#0,"""읽기에 실패했습니다.<br><br><br>[No.1200］"""
 ListForm_Error_LoacalLoadFailed#0,"""읽기에 실패했습니다.<br><br>[No.1201］"""
 ListForm_Error_LoacalLoadFailed_Null#0,"""빈 데이터가 요청되었습니다.<br><br>[No.1202］"""
-ListForm_Error_LoacalLoadFailed_Not#0,"""데이터를 찾을 수 없ㅇ었습니다.<br><br>[No.1203］"""
+ListForm_Error_LoacalLoadFailed_Not#0,"""데이터를 찾을 수 없었습니다.<br><br>[No.1203］"""
 ListForm_Error_LoacalLoadFailed_Other#0,"""읽기에 실패했습니다.<br><br>[No.1204］"""
 ListForm_Error_SaveFailed#0,"""저장에 실패했습니다.<br><br>[No.1205］"""
 ListForm_Error_LoacalRemoveFailed#0,"""삭제에 실패했습니다.<br><br>[No.1206］"""
