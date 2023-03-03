@@ -10731,7 +10731,7 @@ BasterMedalShopHelp_QuestMedal#0,"""<c f0df60>艦隊迎撃戦で入手できる�
 BasterMedalShopTitle01_COBALT#0,"""コバルトメダル교환ショップ"""
 BasterMedalShopHelp01_COBALT#0,"""<c f0df60>コバルトメダルを、個数限定景品と교환できます。<c>"""
 BasterMedalShopHelp01_SV#0,"""<c f0df60>ディバイドメダルを、個数限定景品と교환できます。<c>"""
-ShopTitle_jig#1,"""증서 교환 숍"""
+ShopTitle_jig#1,"""증서 교환 샵"""
 BasterMedalShopHelp_Limit_Ce#0,"""<c f0df60>クラスエクスキューブを교환回数制限のある商品と교환できます。<c>"""
 BasterMedalShopHelp_Limit_8th#0,"""<c f0df60>8주년기념 추첨권을 교환횟수 제한이 있는 상품과 교환 할 수 있습니다.<c>"""
 Boost_Title#0,"""덮어쓰기 확인"""
