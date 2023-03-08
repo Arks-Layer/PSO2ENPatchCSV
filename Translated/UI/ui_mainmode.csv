@@ -6500,7 +6500,7 @@ Item_EnterConfirmMessage6#0,"""Would you like to leave your My Room and enter th
 Esthetic_CampaignTimeHead#0,"""Campaign Period"""
 Esthetic_CampaignTime#0,"""Until $(0)"""
 Esthetic_CampaignTitle#0,"""Campaign Information"""
-Esthetic_CampaignText#0,"""You can use Salon as many times as you like without consuming any items.<br><br>[Items No Longer Consumed]<br>- Salon Free Pass<br>・Salon Pass<br>- Salon Pass S"""
+Esthetic_CampaignText#0,"""You can use Salon as many times as you like without consuming<br>any items.<br><br>[Items No Longer Consumed]<br>- Salon Free Pass<br>- Salon Pass<br>- Salon Pass S"""
 LoginCall#0,"""$(0) has logged in."""
 Title#13,"""Title Counter"""
 License#0,"""Collect Title Rewards"""
