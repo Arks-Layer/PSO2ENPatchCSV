@@ -44,6 +44,7 @@ Input#1,"""Mouse over an option to view information, or confirm to go to the nex
 Bouncer#0,"""<c f0df60>Select a class. ※You can change your class later.<c>"""
 Summoner#0,"""<c f0df60>Select a class. ※You can change your class later.<c>"""
 ClassChangeMessage#0,"""-"""
+ClassAddChangeMessage#0,"""以下のクラスは、メインストーリーを進めて、<br>クラスカウンターが利用可能になると、<br>選択できるようになります。<br><br><c f0df60><pict class_braver><pict 4space>ブレイバー/<pict class_bouncer><pict 4space>バウンサー/<br><pict class_summoner><pict 4space>ウェイカー/<pict class_slayer><pict 4space>スレイヤー"""
 HunterExplanation#0,"""[Hunter]<br><c ffff00>Recommended for those who enjoy melee combat.<c><br>A class whose value lies in close-range combat. Has high HP and defense, and is excellent at fighting single targets."""
 RangerExplanation#0,"""[Ranger]<br><c ffff00>Recommended for those who prefer mid-range combat.<c><br>A class that focuses on dealing damage at medium range. Demands high shooting accuracy, but rewards it with high power."""
 ForceExplanation#0,"""[Force]<br><c ffff00>Recommended for those who want to fight with magic.<c><br>A long-range class that specializes in Photon Techniques. The Techniques it can use are both powerful and versatile, and they can be further boosted by using Teching weapons."""
