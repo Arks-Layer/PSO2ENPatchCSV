@@ -3,4 +3,4 @@ text0001#0,"""“撮影専用ルーム”とは、<br>スクリーンショッ�
 text0002#0,"""“探索セクション”と“戦闘セクション”でのみ有効で、<br>エネミーやテイムズが出現せず、トライアルやPSEバーストも<br>発生しません。<br><br>また、“パーティーコマンド”の“撮影専用ルーム内の設定”で<br>撮影用に好きな天候や時間を設定し、固定することができます。"""
 text0003#0,"""“撮影専用ルーム”で遊ぶには、“ルームキーワード”設定時に<br>“撮影専用ルーム”にチェックを入れます。<br><br>また、他のプレイヤーに教えてもらったキーワードを入力すると<br>そのプレイヤーと同じルームで遊ぶことができます。"""
 text0004#0,"""撮影専用ルームではチャットコマンドで天候と時間を変更出来ます。<br>例）エアリオリージョンにて晴れの１０時<br>/pr Fine 10"""
-text0005#0,"""・エアリオの天候名<br>【Fine】【Cloudy】【Rain】【Storm】<br>・リテムの天候名<br>【Fine】【Dust】【Heat】【Meteorshower】【Sandstorm】<br>・クヴァリスの天候名<br>【Fine】【CloudSea】【Snow】【Snowstorm】【Aurora】"""
+text0005#0,"""・エアリオの天候名<br>【Fine】【Cloudy】【Rain】【Storm】<br>・リテムの天候名<br>【Fine】【Dust】【Heat】【Meteorshower】【Sandstorm】<br>・クヴァリスの天候名<br>【Fine】【CloudSea】【Snow】【Snowstorm】【Aurora】<br>・スティアの天候名<br>【Fine】【Ash】【Hot_blast】【Magma】【Phoenix】"""
