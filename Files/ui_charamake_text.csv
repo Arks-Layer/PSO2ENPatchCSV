@@ -44,6 +44,7 @@ Input#1,"""カーソルを項目に合わせると情報が表示されます。
 Bouncer#0,"""<c f0df60>クラス(職業)を選択してください。※クラスは後で変更できます。<c>"""
 Summoner#0,"""<c f0df60>クラス(職業)を選択してください。※クラスは後で変更できます。<c>"""
 ClassChangeMessage#0,"""-"""
+ClassAddChangeMessage#0,"""以下のクラスは、メインストーリーを進めて、<br>クラスカウンターが利用可能になると、<br>選択できるようになります。<br><br><c f0df60><pict class_braver><pict 4space>ブレイバー/<pict class_bouncer><pict 4space>バウンサー/<br><pict class_summoner><pict 4space>ウェイカー/<pict class_slayer><pict 4space>スレイヤー"""
 HunterExplanation#0,"""【ハンター】<br><yellow>近距離戦闘向きのクラス<c><br>エネミーとの接近戦で真価を発揮する。<br>高いHPと防御力を誇り、単独での戦闘が可能。"""
 RangerExplanation#0,"""【レンジャー】<br><yellow>中距離戦闘向きのクラス<c><br>射撃武器により、エネミーと一定の距離を置いて戦う。<br>特殊弾で、他のプレイヤーを支援することもできる。"""
 ForceExplanation#0,"""【フォース】<br><yellow>遠距離戦闘向きのクラス<c><br>遠距離から、“テクニック”でエネミーを攻撃する。<br>多彩なテクニックで、エネミーの弱点属性を巧みに狙う。"""
