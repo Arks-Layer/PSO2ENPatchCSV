@@ -4032,7 +4032,7 @@ ForceRodCounterTechnic#1,"""Any Technique used immediately after successfully bl
 ForceReflectCounterShot#1,"""Any Technique used immediately after successfully blocking an attack with a Guard also fires a Tech bullet of the same Attribute.<br><yellow>※Rod only.<c>"""
 TechterWandCounterReflection#1,"""Generates a Tech Explosion when you successfully block an enemy attack with your Weapon Action or other guard points.<br><yellow>※Wand only.<c>"""
 TechterWandGuardCounter#1,"""Pressing the Normal Attack button after successfully blocking an attack with your Weapon Action generates a counterattack.<br><yellow>※Wand only.<c>"""
-SlayerUnleashAction#1,"""<yellow>[Active Skill]<c><br>Adds a gauge that fills as you use PAs and Slash Attacks. Activate wen the gauge is full to unleash a devastating attack.<br><yellow>※Main Class/Gunslash Only.<c>"""
+SlayerUnleashAction#1,"""<yellow>[Active Skill]<c><br>Adds a gauge that fills as you use PAs and Slash Attacks. Activate when the gauge is full to unleash a devastating attack.<br><yellow>※Main Class/Gunslash Only.<c>"""
 SlayerUnleashActionCriticalBonus#1,"""Boosts Critical Rate for a set time after activating Unleash Rage.<br><yellow>※Main Class/Gunslash Only.<c>"""
 SlayerGear#1,"""Build Gear by attacking enemies. For each Gauge Level: boosts Attack Damage, decreases PP Consumption, & boosts attack PP recovery. Gauge is reset following a period of inactivity after not attacking enemies.<br><yellow>※Gunslash only.<c>"""
 SlayerGearOverTime#1,"""<yellow>[Active Skill]<c><br>Upon activating at maximum Gear: All Gear is consumed to boost the effect of Gunslash Gear for a limited time. Unleashes a powerful attack if used again during skill activation.<br><yellow>※Main Class/Gunslash Only.<c>"""
