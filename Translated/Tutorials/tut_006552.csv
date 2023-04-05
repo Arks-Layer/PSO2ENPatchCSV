@@ -1,0 +1,4 @@
+Title#0,"""My Set"""
+text0001#0,"""My Set is a system that lets you save your current Class combination and equipment as a set, which you can easily switch to at a later time.<br><br>You can register My Sets and switch between them at the Class Counter."""
+text0002#0,"""If any registered equipment is not present in your Inventory, it will be moved there from your Storage.<br><br><yellow>If your Inventory is full<c>, some equipment may not be changed."""
+text0003#0,"""You can also link a My Set and a My Fashion together with the \""Link with My Fashion\"" function.<br><br>Once a My Fashion and a My Set are linked, switching to that My Set will also switch to that My Fashion."""
