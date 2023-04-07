@@ -4047,7 +4047,7 @@ SlayerWeaponActionMoveCounter#1,"""Upon a successful dodge with Moving Slash, pr
 SlayerCriticalUp#1,"""Boosts Critical Hit Rate."""
 SlayerStrongEnemyCriticalUp#1,"""Boosts Critical Hit Rate while attacking Boss Enemies."""
 SlayerWeaponActionStayCounter#1,"""Upon nullifying an attack via the Weapon Action, pressing the Normal Attack button or Weapon Action will perform a counter. The behavior differs between Normal Attacks and the Weapon Action.<br><yellow>※Gunslash Only.<c>"""
-SlayerZeroRangeAABonus#1,"""Boosts Damage upon attacking enemies at close range.<br><yellow>※Gunslash Only.<c>"""
+SlayerZeroRangeAABonus#1,"""Boosts Normal Attack damage upon attacking enemies at close range.<br><yellow>※Gunslash Only.<c>"""
 SlayerQuickShot#1,"""Pressing the Normal Attack button after using a PA without a directional input will perform a close-ranged burst.<br><yellow>※Gunslash Only.<c>"""
 SlayerCriticalPpGain#1,"""Upon a Critical Hit, there is a chance that PP is recovered."""
 RangerStealthAttack#1,"""Enemies will less likely target you after attacking them."""
