@@ -1,6 +1,6 @@
 TransferMultiStart#0,"""Starting the transfer in $(0) second(s)."""
 TransferMultiStartLaunch#0,"""Starting the transfer in $(0) second(s), or when all players have gathered."""
-TransferMultiStop#0,"""Transfer has been cancelled."""
+TransferMultiStop#0,"""Transfer has been canceled."""
 RestaSignLimit#0,"""Cannot carry any more of this item."""
 ReverserSignLimit#0,"""Cannot carry any more of this item."""
 Levelup#0,"""Allied Drome has leveled up."""
