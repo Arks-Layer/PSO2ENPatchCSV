@@ -579,7 +579,7 @@ DBladeWeaponAction#0,"""Dual Blades' Weapon Action.<br>Attack by throwing Photon
 TaktAttack#0,"""Takt's Normal Attack.<br>Swing your baton to generate a Photon burst for a 3-stage combo.<br>Hold the button to follow up your attack with a larger burst."""
 TaktWeaponAction#0,"""Takt's Weapon Action.<br>Summon the Familiar Marmelo to block attacks for you."""
 GunSlashAttack#0,"""“Gunslash's Normal Attack.<br>Fire Photon Bullets for a 3-stage combo.<br>Hold the button on the first stage to charge up to two levels. Each charge level performs a different attack.<br>Charge level 1: Fire a 5-shot burst.<br>Charge level 2: Fire a powerful Photon Bullet."""
-GunSlashWeaponAction#0,"""“Gunslash's Weapon Action.<br>Performs up to three slashes by swinging the Gunslash. Slashing will blcok attacks from all directions."""
+GunSlashWeaponAction#0,"""“Gunslash's Weapon Action.<br>Performs up to three slashes by swinging the Gunslash. Slashing will block attacks from all directions."""
 ClassNGS#0,"""Class"""
 MainNGS#0,"""Main Class"""
 SubNGS#0,"""Sub Class"""
