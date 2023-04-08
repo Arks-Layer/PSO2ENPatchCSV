@@ -141,7 +141,7 @@ BattleTrigger_Deactivate_LostItem#0,"""The amount of Triggers are insufficient t
 BattleTrigger_Deactivate_QuestDrop#0,"""The amount of Triggers are insufficient to activate the Portal."""
 BattleTrigger_Deactivate_Worldmap#0,"""A different Portal has been activated, deactivating the current Portal."""
 BattleTrigger_Activate_Marge#0,"""The Portal's status has been updated with the Party that has joined."""
-Questcounter_Deactivate_QuestDrop#0,"""Quest cancelled due to the insufficient number of triggers."""
+Questcounter_Deactivate_QuestDrop#0,"""Quest canceled due to the insufficient number of triggers."""
 BlockMoveFailed#0,"""Block movement failed."""
 RegionMoveConfirm#0,"""You are about to move to a $(0) Region block.<br><br>You will be removed from Quest Matching, and any Quests in progress will be abandoned.<br>Continue?"""
 RegionCityMoveConfirm#0,"""You are about to move to $(0) City.<br>Do you wish to continue?"""
