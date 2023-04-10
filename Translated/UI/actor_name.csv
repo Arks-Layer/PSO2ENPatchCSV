@@ -465,7 +465,7 @@ TaktPA03#1,"""A Takt Photon Art.<br>Summon the Familiar Wulfer, who unleashes a 
 TaktPA04#1,"""A Takt Photon Art.<br>Summon the familiar Wulfer, who charges forward and unleashes an uppercut. Hold the PA button to have it attack continuously, at the cost of additional PP."""
 GunslashPA01#1,"""“A Gunslash Photon Art.<br>Slash ahead, then fire a close-range Photon Bullet.<br>If used while inputting a direction:<br>Approach the enemy at high speed for a piercing slash, then fire a close-range Photon Bullet."""
 GunslashPA02#1,"""“A Gunslash Photon Art.<br>Slash ahead continuously. Becomes more powerful when used repeatedly.<br>If used while inputting a direction:<br>Attack a wide area while moving."""
-GunslashPA03#1,"""“A Gunslash Photon Art.<br>Throw a Photon Bomb and retreat as it explodes.<br>If used while inputting a direction:<br>Kick a Photon Bomb forward. The bomb explodes after travelling far enough."""
+GunslashPA03#1,"""“A Gunslash Photon Art.<br>Throw a Photon Bomb and retreat as it explodes.<br>If used while inputting a direction:<br>Kick a Photon Bomb forward. The bomb explodes after traveling far enough."""
 GunslashPA04#1,"""“A Gunslash Photon Art.<br>Thrust your weapon into the ground, producing a shockwave.<br>When used in the air, you will plunge to the ground before attacking.<br>If used while inputting a direction:<br>Attack around you while rising into the air."""
 TypeNon#0,"""None"""
 TypeNoUse#0,"""Photon Blast """
