@@ -4088,7 +4088,7 @@ ForceTalisTecBurst#1,"""<yellow>[Active Skill]<c><br>Adds a gauge that fills as 
 TechterTalisTecBurst#1,"""<yellow>[Active Skill]<c><br>Adds a gauge that fills as you attack enemies. Activate when the gauge is full for a special ranged attack.<br><yellow>※Talis only.<c>"""
 RangerGaugeShotGun#1,"""<yellow>[Active Skill]<c><br>Adds a gauge that fills up when you deal damage with a Rifle. Activate to consume the gauge and fire a short-range blast.<br><yellow>※Assault Rifle only.<c>"""
 GunnerGaugeShotGun#1,"""<yellow>[Active Skill]<c><br>Adds a gauge that fills up when you deal damage with a rifle. Activate to consume the gauge and fire a short-range blast.<br><yellow>※Assault Rifle only.<c>"""
-SlayerBlink#1,"""After a charged Normal Attack, perform a Weapon Action with the correct timing to warp to the target at high speed. <yellow>Gunslash only."""
+SlayerBlink#1,"""After a charged Normal Attack, perform a Weapon Action with the correct timing to warp to the target at high speed.<br><yellow>※Gunslash only.<c>"""
 SummonerPetGearExtra#1,"""Increases the number of stocks Takt Gear can hold to 3.<br><yellow>※Takt only.<c>"""
 SummonerWeaponActionChargeGuard#1,"""While the Weapon Action is held, prevents Launching/Knockback & reduces damage received. In addition, Marmelo's gauge is filled upon receiving damage.<br><yellow>※Main Class/Takt only.<c>"""
 Duration#0,"""Duration"""
