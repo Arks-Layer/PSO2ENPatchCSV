@@ -4040,7 +4040,7 @@ SlayerGearHungry#1,"""Boosts Gear Gauge accumulation until the Gauge Level reach
 SlayerGearResetBonus#1,"""Restores PP based on the Gear Gauge Level upon Gunslash Gear reset.<br><yellow>※Gunslash only.<c>"""
 SlayerGearCritical#1,"""Boosts Critical Hit Rate based on the Gear Gauge Level. It has the same effect as maximum Gear Gauge during Gunslash Gear Overdrive.<br><yellow>※Main Class/Gunslash Only.<c>"""
 SlayerGearHeat#1,"""Upon maximum Gear Level or during Gunslash Gear Overdrive: Boosts Unleash Rage Gauge accumulation & reduces recast time.<br><yellow>※Main Class/Gunslash Only.<c>"""
-SlayerHysteric#1,"""Upon pressing the Normal Attack button at a specific time during a PA, additional atttacks will occur.<br><yellow>※Gunslash only.<c>"""
+SlayerHysteric#1,"""Upon pressing the Normal Attack button at a specific time during a PA, additional attacks will occur.<br><yellow>※Gunslash only.<c>"""
 SlayerHystericEnhance#1,"""Boosts the power of Slash Pursuit.<br><yellow>※Main Class/Gunslash Only<c>"""
 SlayerWeaponActionMove#1,"""Upon using the Weapon Action while performing a directional input, gain invincibility frames & changes the behavior of attacks while moving.<br><yellow>※Gunslash only.<c>"""
 SlayerWeaponActionMoveCounter#1,"""Upon a successful dodge with Moving Slash, pressing the Normal Attack button or Weapon Action will perform a counter. The behavior differs between Normal Attacks and the Weapon Action.<br><yellow>※Gunslash Only.<c>"""
