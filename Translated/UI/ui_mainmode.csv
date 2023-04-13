@@ -4037,7 +4037,7 @@ SlayerUnleashActionCriticalBonus#1,"""Boosts Critical Rate for a set time after 
 SlayerGear#1,"""Adds a Gear Gauge which fills as you attack enemies. Each Gauge Level boosts damage, decreases PP Consumption and boosts attack PP recovery. Gear Gauge resets when enough time passes without attacking enemies.<br><yellow>※Gunslash only.<c>"""
 SlayerGearOverTime#1,"""<yellow>[Active Skill]<c><br>Activate at maximum Gear to consume all Gear and boost the effect of Gunslash Gear for a set time. Activate again while under this effect to unleash a powerful attack.<br><yellow>※Main Class/Gunslash only.<c>"""
 SlayerGearHungry#1,"""Boosts Gear Gauge accumulation until your Gear Gauge Level reaches Level 1.<br><yellow>※Gunslash only.<c>"""
-SlayerGearResetBonus#1,"""Recovers PP when Gunslash Gear resets, based its level before reset.<br><yellow>※Gunslash only.<c>"""
+SlayerGearResetBonus#1,"""Recovers PP when Gunslash Gear resets, based on its level before reset.<br><yellow>※Gunslash only.<c>"""
 SlayerGearCritical#1,"""Boosts Critical Hit Rate based on your Gear Gauge Level. During Gunslash Gear Overdrive, boosts Critical Hit Rate as if you were at maximum Gear.<br><yellow>※Main Class/Gunslash only.<c>"""
 SlayerGearHeat#1,"""When your Gunslash Gear is at maximum, or during the effect of Gunslash Gear Overdrive, Unleash Rage's gauge fills faster and its cooldown is reduced.<br><yellow>※Main Class/Gunslash only.<c>"""
 SlayerHysteric#1,"""While using a PA, pressing the Normal Attack button with the correct timing performs an additional attack.<br><yellow>※Gunslash only.<c>"""
