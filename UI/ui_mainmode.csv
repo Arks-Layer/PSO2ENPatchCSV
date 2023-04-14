@@ -4032,7 +4032,7 @@ ForceRodCounterTechnic#1,"""무기 액션을 통한 가드<br>혹은 스텝으�
 ForceReflectCounterShot#1,"""무기 액션을 통한<br>가드 성공 후의 테크닉 발동 시<br>같은 속성의 포격탄 공격을 추가한다.<br><yellow>※로드 전용<c>"""
 TechterWandCounterReflection#1,"""무기 액션 등을 이용한 가드 성공 시<br>법격 폭발이 발생한다.<br><yellow>※완드 전용<c>"""
 TechterWandGuardCounter#1,"""완드 장비 중<br>무기 액션으로 가드 성공 시<br>통상 공격을 실시함으로써<br>카운터가 발생한다."""
-SlayerUnleashAction#1,"""<yellow>【액티브 스킬】<c><br>PA나 슬래시 퍼슈트의 공격으로<br>축적된 게이지르 소모하여<br>강력한 일격을 날린다.<br><yellow>※메인클래스/건슬래시 전용<c>"""
+SlayerUnleashAction#1,"""<yellow>【액티브 스킬】<c><br>PA나 슬래시 퍼슈트의 공격으로<br>축적된 게이지를 소모하여<br>강력한 일격을 날린다.<br><yellow>※메인클래스/건슬래시 전용<c>"""
 SlayerUnleashActionCriticalBonus#1,"""언리쉬 레이지 발동 후<br>일정 시간 동안 크리티컬 발생률이 상승한다.<br><yellow>※메인클래스/건슬래시 전용<c>"""
 SlayerGear#1,"""적에게 공격을 적중시키면<br>기어 게이지를 축적한다.<br>게이지 단계에 따라,<br>공격 위력이 상승하고, PP 소모량이 감소하며<br>공격 시 PP 회복량이 증가한다.<br>일정 시간 동안 적에게 공격을 가하지 않으면<br>기어의 축적은 초기화된다.<br><yellow>※건슬래시 전용<c>"""
 SlayerGearOverTime#1,"""<yellow>【액티브 스킬】<c><br>기어 게이지가 최대일 때<br>발동하면 기어를 모두 소모하며<br>일정 시간 동안 건슬래시 기어의<br>효과를 증가시킨다.<br>스킬 발동 중에 다시 사용하면<br>강력한 일격을 날린다.<br><yellow>※메인클래스/건슬래시 전용<c>"""
