@@ -1867,7 +1867,7 @@ TecherExplanation#0,"""<yellow>근거리 및 원거리 전투용 클래스<c><br
 BraverExplanation#0,"""<yellow>근거리 및 원거리 전투에 적합한 클래스<c><br>근/원거리 무기를 이용해 임기응변으로 싸울 수 있다.<br>공격이 하나하나 심플하면서도 깊이가 깊다."""
 BouncerExplanation#0,"""<yellow>근거리 및 중거리 전투에 적합한 클래스<c><br>기동력이 높고, 공중전을 장기로 한다.<br>물리 다운이나 속성 다운을 유발해, 전투를 유리하게 진행한다."""
 SummonerExplanation#0,"""<yellow>근거리 및 원거리 전투용 클래스<c><br>\""패밀리어\""를 사역하여 함께 에너미와 싸운다.<br>상황에 따라 패밀리어를 이용해<br>진가를 발휘한다."""
-SlayerExplanation#0,"""<yellow>근거리 전투에 적합한 클래스<c><br>높은 기동력으로 근접 전투에 강하다.<br>총격과 베기로 적을 처친한다."""
+SlayerExplanation#0,"""<yellow>근거리 전투에 적합한 클래스<c><br>높은 기동력으로 근접 전투에 강하다.<br>총격과 베기로 적을 처치한다."""
 NoPaMessage#0,"""포톤 아츠가 없습니다."""
 NoTechnicMessage#1,"""테크닉이 없습니다."""
 NoOverloadMessage#1,"""복합테크닉이 없습니다."""
