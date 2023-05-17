@@ -44,7 +44,7 @@ Input#1,"""커서를 항목에 놓을시 정보를 표시합니다. 결정시 �
 Bouncer#0,"""<c f0df60>클래스를 선택해 주십시오. ※클래스는 나중에 변경할 수 있습니다.<c>"""
 Summoner#0,"""<c f0df60>클래스를 선택해 주십시오. ※클래스는 나중에 변경할 수 있습니다.<c>"""
 ClassChangeMessage#0,"""-"""
-ClassAddChangeMessage#0,"""以下のクラスは、メインストーリーを進めて、<br>クラスカウンターが利用可能になると、<br>選択できるようになります。<br><br><c f0df60><pict class_braver><pict 4space>ブレイバー/<pict class_bouncer><pict 4space>バウンサー/<br><pict class_summoner><pict 4space>ウェイカー/<pict class_slayer><pict 4space>スレイヤー"""
+ClassAddChangeMessage#0,"""다음 클래스는 메인 스토리를 진행하여<br>클래스 카운터의 이용이 가능해지면<br>선택할 수 있습니다.<br><br><c f0df60><pict class_braver><pict 4space>브레이버/<pict class_bouncer><pict 4space>바운서/<br><pict class_summoner><pict 4space>웨이커/<pict class_slayer><pict 4space>슬레이어"""
 HunterExplanation#0,"""【헌터】<br><c ffff00>【근거리 전투로 싸우고 싶은 분에게 추천】<c><br>\u3000근거리 전투에서 진가를 발휘하는 클래스.<br>\u3000높은 체력과 방어력이 특징이며<br>\u3000단신으로도 전투 능력이 뛰어나다."""
 RangerExplanation#0,"""【레인저】<br><c ffff00>【원거리 전투로 싸우고 싶은 분에게 추천】<c><br>\u3000사격 무기를 이용한 중거리 전투에 특화된 클래스.<br>\u3000높은 사격 능력을 바탕으로 정밀한 사격 공격이 가능하다."""
 ForceExplanation#0,"""【포스】<br><c ffff00>【마법으로 싸우고 싶은 분에게 추천】<c><br>\u3000포톤을 이용한 테크닉 사용이 뛰어난 원거리 전투용 클래스.<br>\u3000높은 법격력을 바탕으로 사용하는 테크닉은 다양하고 강력하다<br>\u3000또한 법격 무기를 사용하는 것으로 한층 더 강력해진다."""
