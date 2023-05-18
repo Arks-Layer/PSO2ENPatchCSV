@@ -506,7 +506,7 @@ MenuMoveWarehouseAddition02#0,"""<pict wh_extend2_icon>Deposit in Expansion Stor
 MenuMoveWarehouseAddition03#0,"""<pict wh_extend3_icon>Deposit in Expansion Storage 3 <pict Arcscash> ($(1)/$(0))"""
 MenuMoveWarehouseAddition04#0,"""<pict wh_extend4_icon>Deposit in Expansion Storage 4 <pict Arcscash> ($(1)/$(0))"""
 MenuMoveWarehouseAddition05#0,"""<pict wh_extend5_icon>Deposit in Expansion Storage 5 <pict Arcscash> ($(1)/$(0))"""
-MenuMoveWarehouseAddition06#0,"""<pict wh_extend5_icon>Deposit in Expansion Storage 6 <pict Arcscash> ($(1)/$(0))"""
+MenuMoveWarehouseAddition06#0,"""<pict wh_extend6_icon>Deposit in Expansion Storage 6 <pict Arcscash> ($(1)/$(0))"""
 MenuMoveWarehouseAddition07#0,"""<pict wh_extend7_icon>Deposit in Expansion Storage 7 <pict Arcscash> ($(1)/$(0))"""
 MenuMoveWarehouseAdditionOTP#0,"""<pict wh_otp_icon>Deposit in OTP Storage ($(1)/$(0))"""
 MenuMoveWarehouseAdditionGlobal#0,"""<pict wh_global_icon>Deposit in Mission Pass Storage （$(1)/$(0)）"""
