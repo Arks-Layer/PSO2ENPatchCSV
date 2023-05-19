@@ -129,7 +129,7 @@ MasterAuthorityCheck#0,"""팀 마스터 권한을 획득합니다.<br>계속하�
 MasterAuthoritySuccess#0,"""팀 마스터 권한을 획득했습니다."""
 MasterAuthorityError#0,"""팀 마스터 권한을 획득하지 못했습니다."""
 Help3#0,"""희망하는 팀에 입단 신청을 하거나 직접 설립할 수 있습니다"""
-Comment#0,"""팀 마스터 커맨드"""
+Comment#0,"""팀 마스터 코멘트"""
 Search1#0,"""팀 검색 설정"""
 Search2#0,"""공개 (비지폰을 통해 팀을 검색할 수 있습니다)"""
 Search2_Reb#0,"""公開する"""
