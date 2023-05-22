@@ -159,7 +159,7 @@ ListForm_Error_RemoveImport#0,"""삭제에 실패했습니다.<br><br>[No.1209�
 ListForm_Error_Illegaldata#0,"""부정한 심볼 데이터이기 때문에<br>저장하지 못했습니다.<br><br>[No.1210］"""
 ListForm_Error_IllegalNotSay#0,"""부정한 파츠가 사용되고 있기 때문에<br>발언할 수 없었습니다.<br><br>[No.1211]"""
 SelectedForm_Title#0,"""심볼 아트 리스트"""
-SelectedForm_Exp#0,"""<c f0df60>편집 또는 발언할 심볼 아트를 선택해주세요. 빈칸에서 「편집」을 선택하면 새로  작성할 수 있습니다.<c>"""
+SelectedForm_Exp#0,"""<c f0df60>편집 또는 발언할 심볼 아트를 선택해주세요. 빈칸에서 「편집」을 선택하면 새로 작성할 수 있습니다.<c>"""
 SelectedForm_Exp_v#0,"""<c f0df60>편집 또는 발언할 심볼 아트를 선택해주세요.<c>"""
 ListForm_Exp#0,"""<c f0df60>저장할 슬롯을 선택해주세요.<c>"""
 EditForm_Exp#0,"""<c f0df60>「파츠 추가」버튼으로 추가한 파츠를 편집해 심볼 아트를 작성합니다.(? 버튼으로 조작 설명)<c>"""
