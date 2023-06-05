@@ -6649,7 +6649,7 @@ item_DamageBarrier_2#1,"""Damage +20%<br>Grants a barrier that provides<br>Damag
 item_DamageBarrier_3#1,"""Damage +23%<br>Grants a barrier that provides<br>Damage Resist +40%<br>when at max HP."""
 item_DamageBarrier_4#1,"""Damage +24%<br>Grants a barrier that provides<br>Damage Resist +50%<br>when at max HP."""
 item_DamageBarrier_5#1,"""Damage +25%<br>Grants a barrier that provides<br>Damage Resist +50%<br>when at 80% or more HP."""
-item_DamageBarrier_6#1,"""Damage +45%<<br>Grants a barrier that provides<br>Damage Resist +50%<br>when at 80% or more HP."""
+item_DamageBarrier_6#1,"""Damage +45%<br>Grants a barrier that provides<br>Damage Resist +50%<br>when at 80% or more HP."""
 item_EscapeCritical_1#1,"""Damage +16%<br>Upon a successful Step:<br>Critical Hit Rate +15% for<br>30 seconds."""
 item_EscapeCritical_2#1,"""Damage +18%<br>Upon a successful Step:<br>Critical Hit Rate +15% for<br>30 seconds."""
 item_EscapeCritical_3#1,"""Damage +21%<br>Upon a successful Step:<br>Critical Hit Rate +15% for<br>30 seconds."""
