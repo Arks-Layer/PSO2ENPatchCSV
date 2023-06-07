@@ -41,6 +41,7 @@ Task_TwolineGuide_2#0,"""受注可能なタスクを確認できます。それ�
 LoopTask_Count#0,"""周回数"""
 Reward_Tier#0,"""TIER"""
 Reward_SeasonalPoint#0,"""SEASON"""
+Reward_GenesisPoint#0,"""GP"""
 FORM_TITLE#0,"""$(0)の詳細"""
 REWIND_CONDITION#0,"""再受注"""
 TASK_OVERVIEW#0,"""概要"""
