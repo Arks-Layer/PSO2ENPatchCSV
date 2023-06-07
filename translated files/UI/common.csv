@@ -238,7 +238,7 @@ Code815_Message#0,"""Вам запрещён доступ к данному се
 Code911_Title#0,"""Подтверждение"""
 Code911_Code#0,"""Возникла непредвиденная ошибка"""
 Code911_Message#0,"""ファンタシースターオンライン2の動作環境と、<br>お客様のプレイ環境を再度ご確認いただき、<br>不明な点がありましたら、<br>ご使用のPCのメーカーや販売元にお問い合わせください。"""
-SignOut_PS4#0,"""“PlayStation Network”からサインアウトしました。<br>タイトルへ戻ります。"""
+SignOut_PS4#0,"""“PlayStation™Network”からサインアウトしました。<br>タイトルへ戻ります。"""
 TokuteiURL#0,"""<&URL pso2_players_support_rule_tokutei>"""
 TokuteiURL_v#0,"""<&URL pso2_players_support_rule_tokutei_vita>"""
 TokuteiURL_c#0,"""<&URL pso2_players_support_rule_tokutei_cloud>"""
