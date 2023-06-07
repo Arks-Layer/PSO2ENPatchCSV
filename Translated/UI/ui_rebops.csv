@@ -41,6 +41,7 @@ Task_TwolineGuide_2#0,"""Here, you can view the Tasks that are available to acce
 LoopTask_Count#0,"""Loop"""
 Reward_Tier#0,"""TIER"""
 Reward_SeasonalPoint#0,"""SEASON"""
+Reward_GenesisPoint#0,"""GP"""
 FORM_TITLE#0,"""Details of $(0)"""
 REWIND_CONDITION#0,"""Reorder Cond."""
 TASK_OVERVIEW#0,"""Overview"""
