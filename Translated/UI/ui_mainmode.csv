@@ -8999,7 +8999,7 @@ MySpaceBlueprintThumbnailTableText_Yellow#0,"""設置制限を超えるため、
 MySpaceBlueprintThumbnailTableText_Empty#0,"""No Parts"""
 MySpaceBlueprintThumbnailTableText_Limit#0,"""Maximum amount of Parts ($(0)) in the Blueprint have exceeded the limit."""
 MySpaceGpShopTitle#0,"""Genesis Points Exchange Shop"""
-MySpaceGpShopTitle_Guide#0,"""獲得したジェネシスポイントでアイテムと交換できます。"""
+MySpaceGpShopTitle_Guide#0,"""Here, you can exchange Genesis Points for items."""
 MainMenu_MySpace_CSpaceNenu#0,"""Creative Spaces"""
 MainMenu_MySpace_IndexHome#0,"""MySpace"""
 MainMenu_MySpace_IndexTrend#0,"""Trending"""
