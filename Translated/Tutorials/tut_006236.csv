@@ -1,3 +1,3 @@
 Title#0,"""The Class Counter"""
 text0001#0,"""The Class Counter's \""Change Class\"" function lets you change your Class (aka job).<br><br>You can use the \""My Set\"" system to register a combination of Classes, weapons, armor etc as a set, which you can switch to easily at any time."""
-text0002#0,"""The \""Obtain Class Skills\"" function allows you to spend Skill Points to learn new Class Skills."""
+text0002#0,"""“クラススキル習得”では、<br>入手したスキルポイントを割り振ることで、<br>クラススキルを習得できます。<br><br>※スキルポイントは何度でも振り直すことができます。<br>※“SP 0”と表示されるクラススキルは、<br>\u3000<yellow>スキルポイントを消費せずに習得できます。<c>"""

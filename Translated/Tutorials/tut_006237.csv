@@ -1,3 +1,3 @@
 Title#0,"""The Skill Tree"""
-text0001#0,"""The Skill Tree is a system for learning Class Skills.<br><br>If two Class Skills are connected by a line, you must learn the one above before you can learn the one below."""
-text0002#0,"""Some Class Skills have certain pre-conditions that must be met before they can be learned. For instance, some may require you to reach a certain Class Level."""
+text0001#0,"""“スキルツリー”は、<br>“スキルポイント”を割り振って、<br>“クラススキル”を習得するためのシステムです。<br><br>※スキルポイントは何度でも振り直すことができます。<br>※“SP 0”と表示されるクラススキルは、<br>\u3000<yellow>スキルポイントを消費せずに習得できます。<c>"""
+text0002#0,"""線でつながっているクラススキルを習得するには、<br>ひとつ前のスキルを習得する必要があります。"""
