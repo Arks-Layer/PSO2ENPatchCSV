@@ -3,4 +3,4 @@ text0001#0,"""The \""Matching Password/Photography Setup\"" feature allows you t
 text0002#0,"""If you want to set a Room Password, open the Main Menu with <swguidetype T_MainMenu>, select \""Communication\"", then select \""Matching Password/Photography Setup\""."""
 text0003#0,"""If you select \""Make this Room a Photography Room\"", the Room will be created as a Photography Room suitable for taking screenshots and recording videos."""
 text0004#0,"""To join a Room that has a Password set, you must first go to the Section where the Room is located.<br><br><yellow>※The \""Matching Password/Photography Setup\"" setting cannot be used in ARKS bases such as Central City.<c>"""
-text0005#0,"""セントラルシティ等、各アークス拠点では<br>“撮影専用ルーム”のみ利用できますが、以下の制限があります。<br><br>・NPCにアクセス不可<br>・“ルームの参加人数上限”を設定不可<br>・パーティー全員でのルーム移動不可"""
+text0005#0,"""You can create a Photography Room at ARKS Bases such as Central City, but with the following restrictions:<br><br>・NPCs will not be available<br>・You cannot set a limit on the Room's participants<br>・You cannot have your entire Party move Rooms"""
