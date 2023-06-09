@@ -490,7 +490,7 @@ Enquete_Thanks_mes#0,"""Thank you for your response.<br>We will award you 10 SG 
 Comeback_Thanks_Title#0,"""Message"""
 Comeback_Thanks_mes#0,"""Thank you for returning.<br>Please accept $(0) SG as thanks.<br><br>We hope you continue to enjoy [PSO2]!"""
 Comeback_IconConfig_Title#0,"""Icon Display Confirmation"""
-Comeback_IconConfig_mes#0,"""自分が復帰プレイヤーであることを周囲に知らせる<br>“復帰プレイヤーアイコン<pict Comeback>”を表示しますか？<br><br>このアイコンは、キャラクター名の左側に表示されます。<br><br><yellow>※オプションの“ゲームプレイ”から、<br>\u3000アイコンの表示/非表示を切り替えられます。<c>"""
+Comeback_IconConfig_mes#0,"""Would you like to turn on the Returning Player Icon <pict Comeback> to let other players know you've returned after a break from the game?<br><br>This icon will be displayed to the left of your character name.<br><br><yellow>※You can toggle whether to display this icon from the Options, under \""Gameplay\"".<c>"""
 ButtonReset_Title#0,"""Confirm Button Assignments"""
 ButtonReset_Text#0,"""ゲームパッドの操作設定のうち<br>“決定”や“キャンセル”など<br>重要な機能の割り当てに問題があるため、<br>正常に操作ができなくなる場合があります。<br><br>割り当ての自動修復を行いますか？<br><br><yellow>※未回答の場合、10秒後に自動修復が行われます。<c>"""
 ButtonReset_Check#0,"""Do not ask again"""
