@@ -1498,7 +1498,7 @@ Config_Reb_173_Hint#0,"""Sets whether to automatically Lock-On to another enemy 
 Config_Reb_173_Select_0#0,"""Disable"""
 Config_Reb_173_Select_1#0,"""Enable"""
 Config_Reb_174_Name#0,"""Show Other Players' Portable Holograms"""
-Config_Reb_174_Hint#0,"""Sets whether to display Portable Holograms placed by other players.<br><br><yellow>※If you selet \""Show\"", the number of Portable Holograms shown will vary based on the Detailed Model Count setting.<br><br><yellow>※If you switch this setting from \""Do not show\"" to \""Show\"", other players' Portable Holograms will begin to appear after you move Sections.<c>"""
+Config_Reb_174_Hint#0,"""Sets whether to display Portable Holograms placed by other players.<br><br><yellow>※If you select \""Show\"", the number of Portable Holograms shown will vary based on the Detailed Model Count setting.<br><br><yellow>※If you switch this setting from \""Do not show\"" to \""Show\"", other players' Portable Holograms will begin to appear after you move Sections.<c>"""
 Config_Reb_174_Select_0#0,"""Show"""
 Config_Reb_174_Select_1#0,"""Do not show"""
 Config_Reb_175_Name#0,"""Reduce Enemy & Character Graphical Drawing Frequency"""
