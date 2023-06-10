@@ -4140,7 +4140,6 @@ BouncerDBladeStepCounterExtend#1,"""Step Counter becomes a speedy attack that sw
 BouncerTecArtsSkipAttack#1,"""After using different PAs in succession, your Normal Attack will skip to its 3rd stage and become more powerful.<br><yellow>※Jet Boots Only<c>"""
 SummonerTwoPlatoonsMarmeloPlus#1,"""If Marmelo's gauge is level 1 or higher when Familiar Unison is activated, 1 stock will be consumed and Marmelo will perform an additional attack.<br><yellow>※Main Class/Takt Only<c>"""
 SlayerGearOverTimeAfterAmplify#1,"""After Gunslash Gear Overdrive's effect ends, Gunslash Gear's accumulation rate will temporarily increase.<br><yellow>※Main Class/Gunslash Only<c>"""
-
 Duration#0,"""Duration"""
 Recast#0,"""Cooldown"""
 AtpRate#0,"""Power"""
