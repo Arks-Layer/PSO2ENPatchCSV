@@ -1,2 +1,2 @@
 Title#0,"""Resizing Build Parts"""
-text0001#0,"""If you want to rotate a Build Part, hold <%WeaponAction_2> and use <%SubPaletteLeft><%SubPaletteRight> to select <yellow>Resize<c>.<br><br>You can then resize the Build Part with <swguidetype T_Moveguide_l> while holding <%WeaponAction_2>."""
+text0001#0,"""If you want to resize a Build Part, hold <%WeaponAction_2> and use <%SubPaletteLeft><%SubPaletteRight> to select <yellow>Resize<c>.<br><br>You can then resize the Build Part with <swguidetype T_Moveguide_l> while holding <%WeaponAction_2>."""
