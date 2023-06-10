@@ -1,3 +1,3 @@
 Title#0,"""The Skill Tree"""
-text0001#0,"""The Skill Tree is a system for learning Class Skills.<br><br>If two Class Skills are connected by a line, you must learn the one above before you can learn the one below."""
-text0002#0,"""Some Class Skills have certain pre-conditions that must be met before they can be learned. For instance, some may require you to reach a certain Class Level."""
+text0001#0,"""The Skill Tree is a system in which you assign Skill Points to learn Class Skills.<br><br>※Skill Points can be reassigned an unlimited number of times.<br>※Class Skills indicated with \""SP 0\"" can be learned without assigning any Skill Points to them.<c>"""
+text0002#0,"""If two Class Skills are connected by a line, you cannot learn the Class Skill at the bottom of the line until you have learned the one above it."""
