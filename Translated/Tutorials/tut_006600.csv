@@ -1,0 +1,2 @@
+Title#0,"""Maximum Installation Distance"""
+text0001#0,"""Build Parts cannot be placed more than a certain distance from you. To change this distance, hold <%WeaponAction_2> and use <%SubPaletteLeft><%SubPaletteRight> to select <yellow>Maximum Installation Distance<c>.<br><br>Increasing the <yellow>Maximum Installation Distance<c> will let you place Build Parts further away from you in the air."""
