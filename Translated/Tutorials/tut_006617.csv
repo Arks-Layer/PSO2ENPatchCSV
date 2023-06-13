@@ -1,0 +1,5 @@
+Title#0,"""Event Collab Item Display Settings"""
+text0001#0,"""On occasion, we hold events such as the <yellow>Screenshot Submission Campaign<c>. Some items are not <yellow>permitted to be used during these events<c>.<br><br>You can show that your current costume, accessories and so on are all permitted by displaying the <yellow>special icon<c>."""
+text0002#0,"""To display this icon, open the Main Menu, select \""System\"", then select \""Event Collab Item Display Settings\"" and set \""Confirm Item Event Permission\"" to \""Display\""."""
+text0003#0,"""When submitting screenshots for the event, be sure to <yellow>display this icon<c> before taking a screenshot.<br><br>[Displayed Icons]<br>・<pict collab_photo_ok>: All items permitted<br>・<pict collab_photo_ng>: Some items are not permitted"""
+text0004#0,"""if you see the second icon, please check if the <pict collab_icon> Collab Icon can be seen on any of the following:<br><br>・Your weapon<br>・Your weapon camouflage<br>・Your My Fashion<br>・The Lobby Action you are performing"""
