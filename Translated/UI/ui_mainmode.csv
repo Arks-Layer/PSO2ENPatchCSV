@@ -4135,7 +4135,7 @@ ForceTalisTecBurstBloomFlourish#1,"""Tricky Capacitor's attack will change depen
 TechterWandTechSkipAttack#1,"""After casting a Charged Technique, your Normal Attack will become a powerful 3-stage attack.<br><yellow>※Wand Only<c>"""
 TechterTalisTecBurstBloomFlourish#1,"""Tricky Capacitor's attack will change depending on which Talis deployment is currently active.<br><yellow>※Talis Only<c>"""
 BraverKatanaSkipArts#1,"""PAs used after successfully Step Countering will skip to their 3rd attack and become more powerful.<br><yellow>※Main Class/Katana Only<c>"""
-BraverBowReinForce#1,"""Successfully hitting enemies with PAs fills a gauge. When this gauge is full, your next Normal Attack will become more powerful. Afterwards, the first Charged PA used (except Dimensional Ray) will become more powerful.<br><yellow>※Bullet Bow Only<c>"""
+BraverBowReinForce#1,"""Successfully hitting enemies with PAs fills a gauge. When this gauge is full, your next Normal Attack will become more powerful. Afterwards, the first PA used (except Charged Dimensional Ray) will become more powerful.<br><yellow>※Bullet Bow Only<c>"""
 BouncerDBladeStepCounterExtend#1,"""Step Counter becomes a speedy attack that closes the gap between you and your target.<br><yellow>※Dual Blades Only<c>"""
 BouncerTecArtsSkipAttack#1,"""After using different PAs in succession, your Normal Attack will skip to its 3rd stage and become more powerful.<br><yellow>※Jet Boots Only<c>"""
 SummonerTwoPlatoonsMarmeloPlus#1,"""If Marmelo's gauge is level 1 or higher when Familiar Unison is activated, 1 stock will be consumed and Marmelo will perform an additional attack.<br><yellow>※Main Class/Takt Only<c>"""
