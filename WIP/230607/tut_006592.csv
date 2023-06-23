@@ -1,2 +1,2 @@
-Title#0,"""ビルドパーツのスケール"""
-text0001#0,"""ビルドパーツの大きさを変えたい時は、選択中に<br><%WeaponAction_2>を押しながら<%SubPaletteLeft><%SubPaletteRight>で<yellow>\""スケール\""<c>を選択します。<br><br>その後、<%WeaponAction_2>を押しながら<swguidetype T_Moveguide_l>で<br>ビルドパーツのスケール(大きさ)を拡大・縮小できます。"""
+Title#0,"""빌드 파츠 스케일"""
+text0001#0,"""빌드 파츠의 크기를 변경하고 싶을 때, 선택 중에<br><%WeaponAction_2> 버튼을 누른 상태로 <%SubPaletteLeft><%SubPaletteRight>で<yellow>\""스케일\""<c>を選択します。<br><br>그 이후 <%WeaponAction_2> 버튼을 누른 상태로 <swguidetype T_Moveguide_l> 버튼으로<br>빌드 파츠 스케일(크기)을 확대/축소할 수 있습니다."""
