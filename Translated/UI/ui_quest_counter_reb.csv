@@ -145,7 +145,7 @@ WeeklyRanking_Message_Notice#0,"""The event will begin in $(0).<br>※For more d
 WeeklyRanking_Message_Notice_Soon#0,"""The event will begin very soon.<br>※For more details, please check \""ARKS Records\""."""
 SeasonQuest_Detail_Description#0,"""Achieving the following objectives will earn you bonus Quest Points.<br>You will also earn additional rewards based on your Rank when the<br>Quest is cleared."""
 SeasonQuest_Detail_Label1#0,"""Quest Clear Ranking Rewards"""
-SeasonQuest_Detail_Label2#0,"""Quest Point Bonus"""
+SeasonQuest_Detail_Label2#0,"""Quest Point Bonuses"""
 SeasonQuest_Rank_1_3#0,"""$(0)"""
 SeasonQuest_Rank_4#0,"""4th or below"""
 SeasonQuest_SeasonalPoint#0,"""+$(0)"""
