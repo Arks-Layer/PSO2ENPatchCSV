@@ -9,7 +9,7 @@ text060#0,"""That will conclude the \""Who's That Enemy?\"" quiz. Let's move to 
 countdown_3#0,"""3"""
 countdown_2#0,"""2"""
 countdown_1#0,"""1"""
-quiz00_01#0,"""なし"""
+quiz00_01#0,"""N/A"""
 quiz01_01#0,"""Who's That Enemy"""
 quiz_correct#0,"""Congratulations!"""
 quiz_incorrect#0,"""Bad luck..."""
