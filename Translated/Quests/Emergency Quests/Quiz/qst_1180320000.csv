@@ -14,7 +14,7 @@ text080#0,"""That will be all for the \""YES or NO\"" quiz. Let's move to the ne
 Textobj_Yes#0,"""YES"""
 Textobj_No#0,"""NO"""
 quiz01#0,"""Question:<br><yellow>The West Gate of Central City<br>is guarded by Seyward.<c><br>YES or NO?"""
-quiz00_1#0,"""なし"""
+quiz00_1#0,"""N/A"""
 quiz01_1#0,"""The West Gate of Central City"""
 quiz01_2#0,"""is guarded by Seyward."""
 quiz02#0,"""Question:<br><yellow>The Retem City Beauty Salon clerk<br>is named Catalina.<c><br>YES or NO?"""
