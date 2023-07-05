@@ -1,4 +1,4 @@
-Title#0,"""Mag Jukebox"""
-text0001#0,"""\""Mag Jukebox\"" is a system that allows you to register music and play it wherever you like.<br><br>To register and play music, open the Main Menu with <swguidetype T_MainMenu>, then select <yellow>\""Equipment/Subpalette\""<c>, then <yellow>\""Mag\""<c>, then select \""Mag Jukebox\"".<br><yellow>※This feature may be unavailable during some Emergency Quests.<c>"""
-text0002#0,"""To register music, you need a Music Disc.<br><br><yellow>※Some Music Discs contain multiple tracks. This will be indicated in their Item Details.<c>"""
-text0003#0,"""Music you have previously registered in PSO2 will also be available in your Mag Jukebox in NGS.<br><br><yellow>※Music from discs specific to NGS cannot be played in PSO2 blocks.<c>"""
+Title#0,"""マグジュークボックス"""
+text0001#0,"""“マグジュークボックス”は、BGMの登録や再生ができる機能です。 <br><br><swguidetype T_MainMenu>でメインメニューを開き、<br><yellow>“装備/サブパレット”<c>から<yellow>“マグ”<c>を選択して、<br>“マグジュークボックス”から登録や再生ができます。<br><yellow>※緊急クエスト中など、再生できない場合もあります。<c>"""
+text0002#0,"""BGMを登録するには、“ミュージックディスク”が必要です。<br><br><yellow>※曲調を変更できるBGMの場合は、アイテム詳細で確認できます。<c>"""
+text0003#0,"""過去に『PSO2』で登録したBGMは、<br>『NGS』の“マグジュークボックス”にも登録されています。<br><br><yellow>※『NGS』専用のミュージックディスクは、<br>\u3000『PSO2』ブロックでは再生できません。<c>"""

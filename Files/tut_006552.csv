@@ -1,4 +1,4 @@
-Title#0,"""My Set"""
-text0001#0,"""My Set is a system that lets you save your current Class combination and equipment as a set, which you can easily switch to at a later time.<br><br>You can register My Sets and switch between them at the Class Counter."""
-text0002#0,"""If any registered equipment is not present in your Inventory, it will be moved there from your Storage.<br><br><yellow>If your Inventory is full<c>, some equipment may not be changed."""
-text0003#0,"""You can also link a My Set and a My Fashion together with the \""Link with My Fashion\"" function.<br><br>Once a My Fashion and a My Set are linked, switching to that My Set will also switch to that My Fashion."""
+Title#0,"""マイセット"""
+text0001#0,"""“マイセット”は、<br>現在のクラスと装備品をセットで保存しておき、<br>あとで手軽に切り替えができる機能です。<br><br>マイセットの登録と変更は、<br>クラスカウンターで行うことができます。"""
+text0002#0,"""登録した装備品が、アイテムパックにないときは、<br>倉庫から取り出します。<br><br><yellow>アイテムパックの空き容量が不足している<c>場合、<br>装備品が正しく変更されない場合があります。"""
+text0003#0,"""“マイファッションと関連付け”により、<br>マイセットとマイファッションを組み合わせることもできます。<br><br>関連付けを行うと、マイセットの適用時に、<br>ファッションも指定したものに変更できます。"""

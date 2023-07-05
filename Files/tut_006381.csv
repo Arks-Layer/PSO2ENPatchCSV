@@ -1,4 +1,4 @@
-Title#0,"""Resta Signs"""
-text0001#0,"""Resta Signs are items you can find out in the field. If you register them to your Subpalette, you can use them to recover HP."""
-text0002#0,"""Resta Signs aren't the only things you can register to your Subpalette. You can also register other recovery items, as well as Class Skills.<br><br>You can unlock the ability to customize your Subpalette by progressing through the main story."""
-text0003#0,"""Use <%SubPaletteLeft> and <%SubPaletteRight> to move the Subpalette cursor, then use <%SubPalette> to activate the selected slot.<br>If playing with a keyboard, you can also use the number keys to activate Subpalette slots directly."""
+Title#0,"""レスタサイン"""
+text0001#0,"""フィールド上で入手した“レスタサイン”を<br>“サブパレット”に登録して使用することで、<br>減少したHPを回復できます。<br>"""
+text0002#0,"""サブパレットには、レスタサイン以外にも<br>回復アイテムや、クラススキルなども登録できます。<br><br>サブパレットへの登録（カスタマイズ）機能は、<br>ストーリーを進めることで解放されます。"""
+text0003#0,"""<%SubPaletteLeft>、<%SubPaletteRight>でカーソルを左右に移動し<%SubPalette>で実行します。<br>キーボード利用時は、[1]～[0]キーを押すことで直接使用できます。"""

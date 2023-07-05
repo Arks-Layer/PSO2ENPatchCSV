@@ -1,2 +1,2 @@
-Title#0,"""Section Information"""
-text0001#0,"""If you press <%NextWidget> on the World Map, <yellow>Section Information<c> for the section you have selected will be displayed.<br><br>Section Information tells a number of things about that Section, such as how many Trainia in that section you have cleared, how many collectables you have found, and so on.<br><br>These will be totalled up and shown as your <yellow>Completion rate<c> for that Section."""
+Title#0,"""セクション情報"""
+text0001#0,"""“ワールドマップ”で、<%NextWidget>を押下することで<br><yellow>“セクション情報”<c>が表示されます。<br><br>“セクション情報”からは、各セクションのトレイニアのクリア状況、<br>コレクタブルやその他オブジェクトの発見数などが確認できます。<br><br>これらの達成度を合計したものが、<br>そのセクションの<yellow>“踏破率”<c>として数値化されます。"""

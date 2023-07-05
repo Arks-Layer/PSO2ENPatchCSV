@@ -1,3 +1,3 @@
-Title#0,"""Observe a PSE Burst"""
-Summary#0,"""Defeat enemies to raise the PSE Level and<br>generate a PSE Burst.<br><br><yellow>※PSE Bursts can only occur in Combat Sections.<c>"""
-text0101#0,"""Generate a PSE Burst"""
+Title#0,"""PSEバーストの観測"""
+Summary#0,"""エネミーを倒してPSEゲージを上昇させ、<br>PSEバーストを発生させる。<br><br><yellow>※PSEバーストは戦闘セクションでのみ観測可能<c>"""
+text0101#0,"""PSEバーストを発生させる"""

@@ -1,4 +1,4 @@
-name010#0,"""Ral"""
-text010#0,"""First, do you know how to \""Lock-On\""? It's how you take aim at something."""
-Text_Lock#0,"""Lock-On: """
+name010#0,"""ラル"""
+text010#0,"""まず、的への“ロックオン”はわかるかい？<br>それで狙いを定めるんだ。"""
+Text_Lock#0,"""ロックオン："""
 Button_Lock#0,"""<%LockOn>"""

@@ -1,4 +1,4 @@
-Title#0,"""Fighter"""
-text0001#0,"""Fighter is a class that tailors its moves to whatever situation it finds itself in to deal high damage."""
-text0002#0,"""Each PA can be fluidly connected to another attack action if timed properly, allowing you to respond flexibly to any combat scenario.<br>It may take some getting used to, but once you master switching up your fighting style to counter whatever enemies you face, you will be able to deal top-tier damage."""
-text0003#0,"""<yellow>\""Limit Break\""<c> is an Active Skill that boosts both damage dealt and damage taken for a set time when activated.<br><br>Using it comes with a great deal of risk, but if you use it at the right time, such as when your enemy is Downed, you will be able to reap the rewards."""
+Title#0,"""ファイター"""
+text0001#0,"""“ファイター”は、<br>状況に応じて様々なアクションを使い分け、<br>高いダメージを与えていくクラスです。"""
+text0002#0,"""各PAは特定タイミングで別の攻撃アクションに繋げることができ、<br>状況に応じて臨機応変な対応が可能です。<br>使いこなすには慣れが必要ですが、状況に合わせた戦い方を<br>極めることで、トップクラスのダメージを出すことができます。<br><br>習得可能なクラススキルのうち、一部をご紹介します。"""
+text0003#0,"""クラススキル<yellow>“リミットブレイク”<c>は、<br>“サブパレット”に登録して使用することで、一定時間、<br>与えるダメージと受けるダメージの両方が増加します。<br><br>リスクは大きいですが、エネミーのダウン中など<br>状況に応じて発動することで、真価を発揮します。"""

@@ -1,2 +1,2 @@
-Title#0,"""The Inventory"""
-text0001#0,"""By selecting \""Inventory\"" from the Items Menu, you can check, use and organize the items you own. The \""Item Details\"" window shows details for whatever item you currently have selected.<br><br>If you move your cursor to the \""Inventory\"" bar at the top of the list, you can switch to viewing items you have in <swguidetype T_ItemWarehouse> Storage."""
+Title#0,"""アイテムパック"""
+text0001#0,"""“アイテム”のメニュー内にある“アイテムパック”では、<br>持っているアイテムの使用や確認、整理ができます。<br>また、“アイテム詳細”のウィンドウで<br>そのアイテムの使用方法や性能などが確認できます。<br><br>アイテムメニュー上部の“アイテムパック”にカーソルを合わせて、<br><swguidetype T_ItemWarehouse>で、表示内容を各倉庫に切り替えることができます。"""

@@ -1,3 +1,3 @@
-Title#0,"""The Incapacitation Menu"""
-text0001#0,"""When your HP reaches 0, you will become incapacitated.<br>While incapacitated, you are unable to move or attack.<br>You are only able to use the Incapacitation Menu, which is displayed to incapacitated players.<br><br>※After you have been incapacitated for too long, enemies defeated nearby will not award you EXP or drop items for you until you are revived."""
-text0002#0,"""The Incapacitation Menu gives you a number of options. You can return to the nearest Ryuker Device, use an N-Scape Doll to revive on the spot, or stay where you are and chat with other players."""
+Title#0,"""戦闘不能メニュー"""
+text0001#0,"""HPが０になると、戦闘不能になります。<br>戦闘不能中は、移動や攻撃などが行えなくなり、<br>表示される戦闘不能メニューのみが操作可能となります。<br><br>※戦闘不能のまましばらく経つと、周囲の戦闘による経験値や<br>\u3000アイテムなどが入手できなくなります。"""
+text0002#0,"""戦闘不能メニューでは、<br>最寄りのリューカーデバイスに戻る、<br>N-スケープドールを使用して復活する、<br>チャットなどを行うことができます。"""

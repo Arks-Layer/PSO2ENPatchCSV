@@ -1,2 +1,2 @@
-Title#0,"""Rotating Build Parts"""
-text0001#0,"""If you want to rotate a Build Part, hold <%WeaponAction_2> and use <%SubPaletteLeft><%SubPaletteRight> to select <yellow>Rotate<c>.<br><br>You can then rotate the Build Part with <swguidetype T_Moveguide_l> while holding <%WeaponAction_2>."""
+Title#0,"""ビルドパーツの回転"""
+text0001#0,"""ビルドパーツの向きを回転させたい時は、選択中に<br><%WeaponAction_2>を押しながら<%SubPaletteLeft><%SubPaletteRight>で、<yellow>“回転”<c>を選択します。<br><br>その後、<%WeaponAction_2>を押しながら<swguidetype T_Moveguide_l>で<br>ビルドパーツを回転できます。"""

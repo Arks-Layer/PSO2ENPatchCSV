@@ -1,3 +1,3 @@
-Title#0,"""Equipping Weapons"""
-text0001#0,"""You can equip a weapon by opening the Main Menu with <swguidetype T_MainMenu>, selecting <yellow>\""Equipment/Palette\""<c>, then selecting <yellow>\""Equip Weapon\""<c> and choosing the weapon you want to equip from the list.<br><br>If you want to remove your weapon, press the \""Remove\"" button at the bottom of the list."""
-text0002#0,"""Weapons fall into one of three categories: Striking, Shooting and Tech. You can tell which category a weapon falls into by the color of its icon:<br><br><pict attack_shock>: Striking<br><pict attack_shooting>: Shooting<br><pict attack_magic>: Tech"""
+Title#0,"""武器装備"""
+text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<yellow>“装備/サブパレット”<c>から<br><yellow>“武器装備”<c>を選択すると、武器を装備できます。<br>リストから、装備したい武器を選択してください。<br><br>武器を外したい場合は、<br>最下段の“外す”を選択してください。"""
+text0002#0,"""武器は打撃・射撃・法撃に分類されます。<br>武器の分類は、武器アイコンの背景色に対応しています。<br><br><pict attack_shock>：打撃<br><pict attack_shooting>：射撃<br><pict attack_magic>：法撃"""

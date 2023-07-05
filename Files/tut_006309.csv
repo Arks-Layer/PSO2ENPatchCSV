@@ -1,3 +1,3 @@
-Title#0,"""Group Chat"""
-text0001#0,"""A Group Chat is a communication function that creates an invite-only chat for up to 100 people.<br><br>To create a Group Chat, open the Main Menu with <swguidetype T_MainMenu>, select <yellow>\""Chat\""<c>, then select <yellow>\""Group Chat Settings\""<c> and choose people to invite."""
-text0002#0,"""In addition to your own Group Chat, you can join up to five others by being invited to them.<br><br>Group Chats record everything said while you were logged out, so you can catch up on the conversation when you log back in."""
+Title#0,"""グループチャット"""
+text0001#0,"""“グループチャット”とは、<br>招待したフレンドと小さなグループを作り、<br>最大100人でメッセージをやり取りできる機能です。<br><br><swguidetype T_MainMenu>でメインメニューを開き、<br><yellow>“チャット”<c>から<yellow>“グループチャット設定”<c>で、<br>メンバーを選んでチャットのグループを作成できます。"""
+text0002#0,"""また、フレンドが作成したグループに招待してもらうことで、<br>最大５つのグループに参加できます。<br><br>グループチャットでは、自分がログアウト中の発言も記録されていて、<br>ログインした後に、さかのぼって読むことができます。"""

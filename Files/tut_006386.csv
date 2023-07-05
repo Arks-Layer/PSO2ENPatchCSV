@@ -1,3 +1,3 @@
-Title#0,"""Tasks"""
-text0001#0,"""You are now able to accept and complete Tasks.<br>Tasks can be assigned through story progression or accepted from NPCs. Completing them may progress the story, or give other rewards.<br><br>There are various different types of Tasks, such as Main Tasks, which progress the story, and Daily Tasks, which are replaced every day whether you complete them or not."""
-text0002#0,"""You can check your assigned and completed Tasks by selecting \""Tasks/Quest\"" from the Main Menu.<br><br>You can select a Task from this list to display a Guide for it on-screen, showing the Task's intended location and your progress towards completing it."""
+Title#0,"""タスク"""
+text0001#0,"""“タスク”が受注可能になりました。<br>タスクは、ストーリー進行や人からの依頼で受注することができ、<br>目的を達成するとストーリーが進展したり、報酬を入手できます。<br><br>タスクには、達成するとストーリーが進展する“メインタスク”や<br>毎日更新される“デイリータスク”など、様々な種類が存在します。"""
+text0002#0,"""受注していたり、達成済みになっているタスクは、<br>メインメニューの“タスク／クエスト”で確認できます。<br><br>注目したいタスクをメニューから選択すると、<br>画面に“ジャーナル”や“ガイド”が表示されるようになり、<br>目的の場所や、タスクの進行度を知ることができます。"""

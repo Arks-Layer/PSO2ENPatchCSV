@@ -1,4 +1,4 @@
-Title#0,"""Matching"""
-text0001#0,"""For Quests in which you fight alongside other players, such as Emergency Quests, the process by which you find other players is called Matching.<br><br>You can view the <yellow>time spent Matching<c> and the <yellow>number of participants<c> under \""Matching Status\"" in the Matching window.<br><br>When the number of participants reaches the Quest's maximum limit, the Quest will start automatically."""
-text0002#0,"""You can check whether your Party Members are participating under <yellow>\""Party Status\""<c>.<br><br><vivid_green>Can Participate<c>: Matching was successful.<br><pure_red>Not Participating<c>: They are temporarily unavailable for some reason.<br><pure_red>Cannot Participate<c>: They are in the Beauty Salon or in another Section."""
-text0003#0,"""If anyone proposes starting the Quest immediately, then the \""Depart Immediately\"" button will be displayed, along with the <yellow>number of players who have accepted<c> and the <yellow>time remaining<c>.<br><br>If all participating players agree in time, the Quest will begin.<br><yellow>※Not answering is treated as agreement.<c>"""
+Title#0,"""マッチング"""
+text0001#0,"""緊急クエストなど、複数のプレイヤーと共闘するクエストでは、<br>ほかのプレイヤーとのマッチングが行われます。<br><br>“マッチング中”ウィンドウ内の、<br>“マッチング状況”では、現在の<yellow>“参加人数”<c>と<br><yellow>“マッチング経過時間”<c>が確認できます。<br><br>参加人数が上限に達すると、自動的にクエストが開始されます。"""
+text0002#0,"""<yellow>“パーティー状況”<c>では、<br>パーティーメンバーの参加状況が確認できます。<br><br><vivid_green>参加中<c>：マッチングが成立済み<br><pure_red>未参加<c>：イベントシーンの再生中などで参加できない<br><pure_red>参加不可<c>：別のセクションやエステなどにいる"""
+text0003#0,"""“クエスト即時開始の提案”がなされた場合は、<br><yellow>“クエスト即時開始の同意”<c>に、<br><yellow>“同意人数”<c>と<yellow>“残り時間”<c>が表示されます。<br><br>時間内に、参加中のメンバー全員の同意を得ることで、<br>クエストが開始されます。<br><yellow>※未回答は“同意”したものとして扱われます。<c>"""

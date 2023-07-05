@@ -1,3 +1,3 @@
-Title#0,"""Autowords"""
-text0001#0,"""\""Autowords\"" are a system that lets you pre-register phrases for your character to automatically say in certain situations, such as when you level up.<br><br>To register a set of Autowords, open the Main Menu with <swguidetype T_MainMenu>, select <yellow>\""Chat\""<c>, then select <yellow>\""Autoword Settings\""<c>."""
-text0002#0,"""If you register multiple phrases for the same situation, one will be selected randomly when that condition is met.<br><br>You can register up to 3 phrases for each situation.<br>"""
+Title#0,"""オートワード"""
+text0001#0,"""“オートワード”とは、レベルアップした時など特定の状況で<br>自動的に発言したい内容を、あらかじめ登録しておける機能です。<br><br><swguidetype T_MainMenu>でメインメニューを開き、<br><yellow>“チャット”<c>から<yellow>“オートワード設定”<c>で、<br>さまざまな条件を満たした時に自動的に発言するチャットの内容を<br>登録できます。"""
+text0002#0,"""同じ条件に対し、複数のチャット内容を登録しておくと、<br>その中からランダムで発言します。<br><br>チャット内容は、条件ごとに、最大３つまで登録できます。<br>"""

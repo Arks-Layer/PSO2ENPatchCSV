@@ -1,4 +1,4 @@
-Title#0,"""Genesis Points"""
-text0001#0,"""Genesis Points are a currency that can be used to purchase Build Parts or exchange for items.<br><br>It can be obtained from a variety of sources, such as Tasks and GP Trees."""
-text0002#0,"""You can obtain Genesis Points by accessing the <yellow>GP Tree<c> Build Part.<br><br>You can also earn Genesis Points from GP Trees in other players' Creative Spaces, so visiting other players' Spaces will boost your GP income."""
-text0003#0,"""The appearance of the GP Tree changes every day, and the Genesis Points you earn from it changes accordingly.<br><br>※You can obtain Genesis Points <yellow>once per day per Creative Space<c>.<br><br>※There is a limit to the total amount of Genesis Points you can obtain per day."""
+Title#0,"""ジェネシスポイント"""
+text0001#0,"""ジェネシスポイントとは、<br>ビルドパーツの購入やアイテムとの交換ができるポイントです。<br><br>“GPツリー”やタスクなどで入手できます。"""
+text0002#0,"""ビルドパーツの<yellow>“GPツリー”<c>にアクセスすると、<br>ジェネシスポイントを獲得できます。<br><br>ジェネシスポイントは、ほかのプレイヤーの<br>クリエイティブスペースにあるGPツリーからも獲得できるため、<br>ほかのプレイヤーのクリエイティブスペースを訪れると<br>より多くのジェネシスポイントを貯めることができます。"""
+text0003#0,"""また、GPツリーの外見は毎日変化して、<br>獲得できるジェネシスポイントが変わります。<br><br>※獲得できるジェネシスポイントは、<br>\u3000<yellow>各プレイヤーのクリエイティブスペースごとに1日1回まで<c>です。<br><br>※ジェネシスポイントは、その日の獲得上限に達すると、<br>\u3000それ以上獲得できなくなります。"""

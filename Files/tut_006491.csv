@@ -1,4 +1,4 @@
-Title#0,"""Compound Techniques"""
-text0001#0,"""Compound Techniques are special attacks that can be performed with Force and Techter weapons.<br><br>To use them, you must first learn the Force or Techter Class Skill \""United Technique\"". No Skill Points are needed to learn this Class Skill."""
-text0002#0,"""There are three types of Compound Technique: Fomelgion, Barantsion and Zandion. All three cost a stock of the Compound Technique gauge to use.<br><br>The Compound Technique gauge fills as you hit enemies with Techniques and Tech Explosions."""
-text0003#0,"""Compound Technique damage is not affected by enemy Attribute weaknesses, or by Class Skills that apply to Techniques."""
+Title#0,"""複合属性テクニック"""
+text0001#0,"""“複合属性テクニック”は、<br>フォースとテクターの武器で使用できる特殊なアクションです。<br><br>フォースまたはテクターのクラススキル<br>“ユナイトテクニック”の習得で使用が可能になります。<br>このクラススキルの習得にはスキルポイントは不要です。"""
+text0002#0,"""複合属性テクニックには、<br>“フォメルギオン”“バーランツィオン”<br>“ザンディオン”の３種類が存在し、<br>いずれも共通の複合属性テクニックゲージを<br>消費することで発動します。<br><br>複合属性テクニックゲージは、<br>エネミーなどにテクニックや法撃爆発を当てることで溜まります。"""
+text0003#0,"""複合属性テクニックは、<br>エネミーの弱点属性によってはダメージが変化せず、<br>テクニックを対象としたクラススキルなども適用されません。"""

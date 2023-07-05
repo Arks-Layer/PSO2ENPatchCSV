@@ -1,3 +1,3 @@
-Title#0,"""Switching the Main Palette"""
-text0001#0,"""The \""Main Palette\"" is the system that lets you register a weapon and a set of PAs/Techniques together so that you can switch between them easily.<br><br>If you register multiple different weapons on your Main Palette, you can switch weapons quickly in the middle of battle."""
-text0002#0,"""To switch your Main Palette, follow these steps:<br><br>・Cycle to previous Main Palette: <%PaletteReverse><br>・Cycle to next Main Palette: <%PaletteForce><br>・Switch to selected palette: <%Decide>"""
+Title#0,"""メインパレットの切り替え"""
+text0001#0,"""“メインパレット”とは、武器および、その武器で使用可能な<br>PAやテクニックなどをパレット（１つのセット）として登録しておき、<br>戦闘中、すぐに切り替えられるようにした機能です。<br><br>メインパレットに複数のパレットを登録しておくと、<br>簡単に武器を持ち替えることができます。"""
+text0002#0,"""以下の操作でメインパレットの切り替えができます。<br><br>・メインパレットを１つ上へ：<%PaletteReverse><br>・メインパレットを１つ下へ：<%PaletteForce><br>・決定（切り替える）：<%Decide>"""

@@ -1,3 +1,3 @@
-Title#0,"""The Treasure Shop<pict StarGem>"""
-text0001#0,"""The Treasure Shop<pict StarGem> is a place where you can spend <pict StarGem>SG on a variety of items.<br><br>Its lineup includes items that are useful for your adventure, but also some rarer products. <yellow>There is a limit to the number of each item you can purchase at any one time<c>.<br><br>In addition, some products can only be purchased while you have an active Premium Set."""
-text0002#0,"""The product lineup is automatically updated once per day, but if you want to see other products right away, you can update it manually.<br><br>Manual updates are subject to the following limits:<br><br>・One free update per day<br>・One additional free update per day if you have an active Premium Set<br>・Three additional updates per day, each of which costs <pict StarGem>Star Gems"""
+Title#0,"""トレジャーショップ<pict 4space><pict StarGem>"""
+text0001#0,"""“トレジャーショップ<pict 4space><pict StarGem>”の商品は、<br>SG<pict 4space><pict StarGem>で購入できます。<br><br>それぞれ、冒険に役立つアイテムのほか、<br>めずらしい商品が陳列される場合がありますが、<br><yellow>購入できる個数<c>には限りがあります。<br><br>また、プレミアムセット有効時のみ購入可能な商品もあります。"""
+text0002#0,"""商品ラインナップは、１日１回、自動で更新されますが、<br>手動ですぐに更新することもできます。<br><br>手動による更新には、以下の回数制限があります。<br><br>・１日１回無料<br>・“プレミアムセット”有効期間内なら、追加で１日１回無料<br>・“SG<pict 4space><pict StarGem>”消費で、追加で１日３回更新可能"""
