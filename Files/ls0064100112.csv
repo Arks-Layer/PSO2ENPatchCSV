@@ -1,4 +1,4 @@
-Title#0,"""フィールドレースへの挑戦"""
-Summary#0,"""フィールドレース（走破）と、<br>フィールドレース（板操）を、<br>スコア1000以上でクリアする。"""
-text0101#0,"""指定の条件でフィールドレース（走破）を<br>クリアする"""
-text0102#0,"""指定の条件でフィールドレース（板操）を<br>クリアする"""
+Title#0,"""Field Race Challenge"""
+Summary#0,"""Clear any Field Race (Marathon) and Field Race (Board Training) with a score of 1000 or higher."""
+text0101#0,"""Clear any Field Race (Marathon)<br>under the given conditions"""
+text0102#0,"""Clear any Field Race (Board Training)<br>under the given conditions"""

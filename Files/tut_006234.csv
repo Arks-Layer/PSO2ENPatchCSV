@@ -1,4 +1,4 @@
-Title#0,"""フォトンブラスト"""
-text0001#0,"""“フォトンブラスト”は、<br>ゲージを最大まで溜めることで発動できる特殊なアクションです。<br><br>ゲージは、エネミーなどに攻撃を当てることで溜まります。<br><br>一度フォトンブラストを使用すると、<br>一定時間が経過するまで再使用できなくなります。"""
-text0002#0,"""フォトンブラストは、<br>装備中の武器種に応じてアクションが変化します。<br><br>なお、マルチウェポン化するなどして、<br>装備できるようになった武器ではフォトンブラストは使用できません。"""
-text0003#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<br><yellow>“装備/サブパレット”<c>から、<br><yellow>“サブパレット”<c>を選択することで、サブパレットにセットできます。<br><br><%SubPaletteLeft><pict 4space><%SubPaletteRight><pict 4space>でカーソルを左右に移動し、<br>セットしたフォトンブラストを選択して<pict 4space><%SubPalette><pict 4space>で実行します。<br>キーボード利用時は、[1]～[0]キーを押すことで直接使用できます。"""
+Title#0,"""Photon Blasts"""
+text0001#0,"""A Photon Blast is a powerful action that you can activate when your Photon Blast gauge is full.<br><br>Your gauge fills by taking actions in battle, such as hitting enemies with attacks. Once you have used a Photon Blast, you cannot use another one until a set amount of time has passed."""
+text0002#0,"""Your Photon Blast changes depending on the type of weapon you have equipped.<br><br>However, your Main Class or Sub Class must be able to equip that weapon type. If you create a Multi-Weapon using a weapon type you would not normally be able to equip, you will not be able to perform that weapon type's Photon Blast."""
+text0003#0,"""You can set your Photon Blast to the Subpalette by selecting <yellow>\""Equipment/Palette\""<c> from the <swguidetype T_MainMenu> Main Menu, then selecting <yellow>\""Subpalette\""<c>.<br><br>When the Photon Blast gauge fills during battle, use <%SubPaletteLeft> and <%SubPaletteRight> to position the Subpalette cursor on the Photon Blast icon, then use <%SubPalette> to activate it.<br>If playing with a keyboard, you can use the number keys to activate Subpalette slots directly."""

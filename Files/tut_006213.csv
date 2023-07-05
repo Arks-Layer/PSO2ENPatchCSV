@@ -1,3 +1,3 @@
-Title#0,"""ロックオン／ロックオン切り替え"""
-text0001_pad#0,"""ロックオン：<%LockOn><br>ロックオン解除：ロックオン状態で<%LockOn><br>ロックオン切替：ロックオン中に<pict 4space><swguidetype T_Moveguide_r><br><br><yellow>※オプションで“右スティックによるロックオン対象の切り替え”を<br>\u3000“使用しない”にしている場合はこの機能を使用できません。<br>\u3000ロックオンを解除してから、別の対象をロックオンしてください。<c>"""
-text0001_key#0,"""ロックオン：<%LockOn><br>ロックオン解除：ロックオン状態で<%LockOn><br>ロックオン切り替え：<%LockOn>でロックオンを外し、別の対象を再度<%LockOn>"""
+Title#0,"""Lock-On/Lock-On Switching"""
+text0001_pad#0,"""Lock-On: <%LockOn><br>Cancel Lock-On: Press <%LockOn> while locked-on<br>Switch Lock-On: <swguidetype T_Moveguide_r> while locked-on<br><br><yellow>※Not available when \""Switch Lock-On by Using Right Stick\"" is set to<br>\u3000\""Don't use\"".<br>\u3000In this case, you will have to cancel your lock-on and lock-on to another<br>\u3000target.<c>"""
+text0001_key#0,"""Lock-On: <%LockOn><br>Cancel Lock-On: Press <%LockOn> while locked-on<br>Switch Lock-On: Use <%LockOn> to cancel Lock-On, then use <%LockOn> again to select another target"""

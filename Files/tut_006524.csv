@@ -1,4 +1,4 @@
-Title#0,"""バンカーType.1"""
-text0001#0,"""“バンカーType.1”は、<br><yellow>トレイニアアドバンス<c>とよばれる訓練施設の一種です。<br><br>対象となるクエストの“キャノンボールランブル”、<br>および“キャノンボールストライク”は、<br>“キャノンボール”をターゲットに投げて<br>制限時間内に規定数を破壊するのが目的となります。"""
-text0002#0,"""“キャノンボール”は、エネミーを撃破すると出現します。<br><br>“スタンダードターゲット”や“エクストラターゲット”に<br>投げ当てることで破壊できますが、エネミーに対しては<br>あまりダメージを与えられません。"""
-text0003#0,"""ターゲットには2種類あり、<br>“スタンダードターゲット”からは小型のエネミーが、<br>“エクストラターゲット”からは中型・大型のエネミーが<br>多く出現します。<br><br><yellow>※ターゲットは、“キャノンボール”以外の攻撃では<br>\u3000破壊できません。<c>"""
+Title#0,"""Bunker Type 1"""
+text0001#0,"""Bunker Type 1 is a type of training facility known as an <yellow>Advanced Trainia<c>.<br><br>In the Quests \""Cannonball Strike\"" and \""Cannonball Rumble\"", your objective is to destroy the specified number of targets within the time limit by throwing Cannonballs at them."""
+text0002#0,"""Cannonballs appear when you defeat enemies.<br><br>When thrown, they destroy Standard Targets or Extra Targets in one hit, but they deal very little damage to enemies."""
+text0003#0,"""There are two kinds of Target. Standard Targets will spawn small enemies when destroyed, while Extra Targets will spawn medium- and large-sized targets.<br><br><yellow>※Targets cannot be destroyed by non-Cannonball attacks.<c>"""

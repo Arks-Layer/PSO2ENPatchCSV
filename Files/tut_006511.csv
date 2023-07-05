@@ -1,4 +1,4 @@
-Title#0,"""パーティーメンバー集合"""
-text0001#0,"""“パーティーメンバー集合”は、<br>他のルームにいるパーティーメンバーに対して、<br>自分がいるルームに集合するように呼びかける機能です。<br><br>この機能は、パーティーリーダーのみが利用できます。"""
-text0002#0,"""リューカーデバイスにアクセスし、<br>“パーティーメンバー集合”を選択すると、<br>他のメンバーがいる場所や状況を確認できます。<br><br>“パーティーメンバー集合要請”で、<br>メンバーに対して集合するように呼びかけられます。"""
-text0003#0,"""集合が要請されると、パーティーメンバーの画面に、<br>メッセージと新着通知が表示されます。<br><br>新着通知から“はい”を選択すると、集合場所に移動できます。<br><br>対象のリューカーデバイスが未開放であるなどの理由で、<br>集合場所に移動できないメンバーには、通知されないため、<br>チャットなどで状況を確認するようにしてください。"""
+Title#0,"""Assemble Party"""
+text0001#0,"""Assemble Party is a feature that lets you call your Party Members to gather in your current Room.<br><br>This feature is only available to the Party Leader."""
+text0002#0,"""If you access a Ryuker Device and select \""Assemble Party\"", you can view the status and current locations of your Party Members.<br><br>Selecting \""Party Assembly Request\"" will invite all of your Party Members to assemble."""
+text0003#0,"""When assembly is requested, a message and a notification will be displayed on the other players' screens.<br><br>If they select \""Yes\"" from the notification, they will be transferred to the assembly area.<br><br>Members who cannot be transferred to the assembly area for whatever reason, such as not having unlocked the relevant Ryuker Device, will not be notified, so be sure to check on people via Chat as well."""

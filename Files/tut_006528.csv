@@ -1,3 +1,3 @@
-Title#0,"""アークスレコード"""
-text0001#0,"""<yellow>“アークスレコード”<c>は、<br>一定期間、対象コンテンツの様々なプレイ記録を集計し、<br>最終的な記録に応じて参加報酬を獲得できるイベントです。"""
-text0002#0,"""アークスレコードには、以下の２種類があります。<br>・定期的に開催される<yellow>“アトランダムイベントレコード”<c><br>・毎週開催される<yellow>“チームタスクレコード”<c><br><br>“メインメニュー”の“パーソナル”から“アークスレコード”に<br>アクセスすることで確認できます。"""
+Title#0,"""ARKS Record"""
+text0001#0,"""The <yellow>ARKS Record<c> is a system where playing a specific type of content during a specific period will earn you points. At the end of the period, you earn rewards based on the points you earned."""
+text0002#0,"""There are 2 kinds of ARKS Record:<br>・The regular <yellow>At-Random Event Record<c><br>・The weekly <yellow>Team Task Record<c><br><br>You can check on the status of ARKS Records by opening the Main Menu and selecting \""Personal\"", then \""ARKS Records\""."""

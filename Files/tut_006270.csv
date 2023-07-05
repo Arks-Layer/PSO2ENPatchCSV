@@ -1,2 +1,2 @@
-Title#0,"""ワールドマップ"""
-text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<yellow>“ワールド”<c>を選択すると、<br>ワールド全体のマップを確認できます。<br><br>“コクーン”や“リューカーデバイス”など発見した場所には<br>アイコンが表示され、カーソルを合わせると情報が表示されます。"""
+Title#0,"""The World Map"""
+text0001#0,"""You can view a map of the whole world by opening the Main Menu with <swguidetype T_MainMenu>, then selecting <yellow>\""World\""<c>.<br><br>Points of interest that you've discovered, such as Cocoons and Ryuker Devices, will have an icon on the map.<br>You can hover the cursor over these icons to view details about them."""

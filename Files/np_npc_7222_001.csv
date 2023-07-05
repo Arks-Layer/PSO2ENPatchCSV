@@ -1,3 +1,3 @@
-HELLO_ALLDAYS#0,"""申し訳ありません。<br>ただいま商品の入れ替え中です。"""
-HELLO_ALLDAYS_002#0,"""いらっしゃいませ。"""
-HELLO_BYE#0,"""またのお越しを。"""
+HELLO_ALLDAYS#0,"""Sorry! We're still stocking up right now."""
+HELLO_ALLDAYS_002#0,"""Can I help you?"""
+HELLO_BYE#0,"""Come again!"""

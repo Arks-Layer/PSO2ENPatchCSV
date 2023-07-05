@@ -1,4 +1,4 @@
-Title#0,"""マルチウェポン"""
-text0001#0,"""“マルチウェポン”は、ソードとライフルといった<br>２種類の異なる武器の性能を併せもった装備です。<br><br>ひとつの武器パレットに、<br>それぞれの武器のアクションを自由に登録できます。"""
-text0002#0,"""マルチウェポンを装備した状態で、<br>該当する武器のアクションを使用すると、<br>即座にその武器に切り替えてアクションを行います。<br><br>また、“フォトンブラスト”などは、<br>表示されている武器に対応したものが発生します。"""
-text0003#0,"""マルチウェポンは“アイテムラボ”で作成でき、<br>プリムソードとプリムライフルのような<br><yellow>同一シリーズの武器のみ<c>を合成することができます。"""
+Title#0,"""Multi-Weapon"""
+text0001#0,"""\""Multi-Weapon\"" is a system that lets you combine the abilities of two different weapons, such as a Sword and a Rifle.<br><br>You can register actions from both weapons on the same weapon palette."""
+text0002#0,"""When you use an action, your Multi-Weapon will immediately switch to the appropriate form and perform the action.<br><br>When performing shared actions, such as your Photon Blast, the action that occurs is based on the weapon's current form."""
+text0003#0,"""Multi-Weapons can be created at the Item Lab.<br>You can only combine weapons from the <yellow>same series<c>, such as a Prim Sword and a Prim Rifle."""

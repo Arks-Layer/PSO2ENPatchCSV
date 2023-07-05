@@ -1,4 +1,4 @@
-Title#0,"""スレイヤー"""
-text0001#0,"""“スレイヤー”は、<br>ガンスラッシュによる様々なアクションを使い分け、<br>高い機動力を駆使した戦闘を得意とするクラスです。<br><br>習得可能なクラススキルのうち、一部をご紹介します。"""
-text0002#0,"""クラススキル<yellow>“ガンスラッシュギア”<c>は、<br>メインパレット上部に、ギアゲージが表示されます。<br><br>ギアゲージは攻撃を当てることで蓄積し、ギア段階が上昇します。<br>ギア段階に応じてPP消費量が減少し、<br>威力と攻撃時のPP回復量が増加します。"""
-text0003#0,"""クラススキル<yellow>“ガンスラッシュギアオーバードライブ”<c>は、<br><yellow>“ガンスラッシュギア”<c>のギア段階が最大のとき、<br>ギア段階を全て消費して発動可能なスキルです。<br>一定時間、PP消費量が大きく減少し、<br>威力と攻撃時のPP回復量が大きく増加します。<br><br>また、スキルの発動中に再度使用することで、<br>強力なフィニッシュ攻撃が発生します。"""
+Title#0,"""Slayer"""
+text0001#0,"""Slayer is a Class which specializes in close-range, high-mobility combat, using their Gunslashes to perform a variety of attacks.<br><br>This tutorial explains some of the Class Skills you can learn."""
+text0002#0,"""The Class Skill <yellow>Gunslash Gear<c> adds a Gear Gauge to the top of your Main Palette.<br><br>The Gear Gauge fills as you land attacks, raising your Gear level. At higher Gear levels, you gain reduced PP consumption, boosted attack power and increased attack PP recovery."""
+text0003#0,"""The Class Skill <yellow>Gunslash Gear Overdrive<c> is an Active Skill which can be used when the <yellow>Gear Gauge<c> is at maximum. It consumes your entire Gear Gauge when activated. For a set time after activating it, you gain greatly reduced PP consumption, greatly boosted attack power and greatly increased attack PP recovery.<br><br>In addition, activating the Skill again while under its effects will perform a powerful finishing move."""

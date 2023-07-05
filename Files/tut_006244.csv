@@ -1,3 +1,3 @@
-Title#0,"""テクター"""
-text0001#0,"""“テクター”は、<br>味方の補助が得意なクラスです。ウォンドでの近接攻撃が主体ですが、<br>エネミーに攻撃を当てると、武器属性に応じた“法撃爆発”が発生し、<br>“属性ダウン”を狙うことができます。<br><br>習得可能なクラススキルのうち、一部をご紹介します。"""
-text0002#0,"""クラススキル<yellow>“シフタ・デバンド”<c>は、<br><yellow>“シフタ（エネミーに与えるダメージが増加）”<c>と<br><yellow>“デバンド（エネミーから受けるダメージ減少）”<c>の<br>効果を、周囲にいる味方全員に付与するスキルです。<br>交戦開始時に使用したり、長期戦で継続的に使用することで<br>ほかのプレイヤーが戦いやすくなります。"""
+Title#0,"""Techter"""
+text0001#0,"""Techter is a class that specializes in assisting allies. Techter's primary weapon, the Wand, is a melee weapon, but when you strike an enemy with it, it creates an Attribute-based \""Tech Explosion\"", allowing you to force enemies into an \""Attribute Down\"" state."""
+text0002#0,"""The Class Skill <yellow>\""Shifta-Deband\""<c> <yellow>boosts damage dealt to enemies (\""Shifta\"")<c> and <yellow>reduces damage taken from enemies (\""Deband\"")<c> for a set time when activated. Its effect is applied to all nearby allies.<br>If you use it at the beginning of a battle, or keep applying it during a longer battle, you will give your allies an easier time in combat."""

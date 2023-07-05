@@ -1,4 +1,4 @@
-Title#0,"""未知なる敵性存在"""
-Summary#0,"""偵察隊からの緊急要請を受け、<br><%me>は、<br>アイナやブルーダーたちとともに、<br>レゾルの森に向かう。"""
-text0101#0,"""レゾルの森の入口でアイナと話す"""
-text0102#0,"""エネミーを倒す"""
+Title#0,"""Unknown Hostile Entity"""
+Summary#0,"""Having received an urgent message from a recon team, <%me>, Aina and Bruder head for Resol Forest."""
+text0101#0,"""Talk to Aina at the<br>entrance to Resol Forest"""
+text0102#0,"""Defeat the enemy"""

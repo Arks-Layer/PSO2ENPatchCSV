@@ -1,3 +1,3 @@
-Title#0,"""緊急クエスト（マッチングワード設定）"""
-text0001#0,"""<yellow>“マッチングワード”<c>を設定すると、<br>同じ“マッチングワード”を設定したプレイヤーと<br>一緒にクエストを受注できます。<br><br><yellow>“クエスト情報”<c>から<yellow>“マッチング設定をして開始する”<c>を選択し、<br><yellow>“マッチングワード”<c>を設定してください。"""
-text0002#0,"""“マッチングワード”の変更は、<br><yellow>“クエスト情報”<c>から<yellow>“マッチング設定の変更”<c>を選択し、<br><yellow>“マッチングワード設定”<c>から変更できます。<br><br>また、“マッチングワード”を削除した状態で再設定することで、<br>通常のマッチングに変更できます。"""
+Title#0,"""Emergency Quests (Matching Passwords)"""
+text0001#0,"""If you have a <yellow>Matching Password<c> set, you can join a Quest alongside other players using the same Matching Password<br><br>To <yellow>set a Matching Password<c>, select <yellow>\""Open Quest Info\""<c>, then <yellow>\""Set Matching Settings & Start\""<c>"""
+text0002#0,"""To change a Matching Password, select <yellow>\""Open Quest Info\""<c>, then <yellow>\""Change Settings\""<c>, then <yellow>\""Matching Password Settings\""<c>.<br><br>You can return to normal matching by deleting your Matching Password."""

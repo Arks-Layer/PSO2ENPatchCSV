@@ -1,3 +1,3 @@
-Title#0,"""ブルーポータル：バリアブル"""
-text0001#0,"""<yellow>“ブルーポータル”<c>は、<br>特定の期間にのみ配置される、特別なトリガーポータルです。<br><br>使用できるバトルトリガーや、受注できるクエストは、<br>期間によって異なります。"""
-text0002#0,"""<yellow>“ブルーポータル”<c>は、<br>特定の期間にのみ配置される、特別なトリガーポータルです。<br>バトルトリガーがなくても、クエストを受注することができます。<br><br>受注できるクエストは期間によって異なります。"""
+Title#0,"""Blue Portal: Variable"""
+text0001#0,"""<yellow>Blue Portals<c> are special Trigger Portals that are only active during certain time periods.<br><br>The Battle Triggers you can use and the Quests you can accept from them change depending on the time period."""
+text0002#0,"""<yellow>Blue Portals<c> are special Trigger Portals that are only active during certain time periods.<br>They do not require Battle Triggers to access.<br><br>The Quests you can accept from them change depending on the time period."""

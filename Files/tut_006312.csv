@@ -1,3 +1,3 @@
-Title#0,"""クエストの破棄"""
-text0001#0,"""現在進行中のクエストを破棄したい場合は、<br><swguidetype T_MainMenu>でメインメニューを開き、<yellow>“タスク / クエスト”<c>から<br><yellow>“クエスト情報”<c>を選択し、<br>“クエストの破棄”で実行できます。"""
-text0002#0,"""クエストを破棄すると、<br>現在遊んでいるクエストは即座に終了し、<br>クエストを受注した場所へ戻ります。<br><br><yellow>クエストを破棄した際、報酬などは一切獲得できません。<br>また、パーティーメンバーもクエストを破棄したことになります。<c>"""
+Title#0,"""Abandoning Quests"""
+text0001#0,"""If you want to abandon a Quest in progress, open the Main Menu with <swguidetype T_MainMenu>, select <yellow>\""Tasks/Quest\""<c>, then select <yellow>\""Quest Information\""<c>, then <yellow>\""Abandon Quest\""<c>."""
+text0002#0,"""When you abandon a Quest, the Quest ends immediately and you are returned to the place where you accepted it.<br><br><yellow>You receive no rewards for an abandoned Quest. All party members automatically abandon the Quest at the same time as you do.<c>"""

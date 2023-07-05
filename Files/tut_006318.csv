@@ -1,4 +1,4 @@
-Title#0,"""スクラッチを引く"""
-text0001#0,"""“スクラッチ”では、AC<pict Arcscash>やSG<pict 4space><pict StarGem>を消費して、<br>１回につき<yellow>ランダムで１つ<c>、<br>コスチュームやロビーアクションなど、<br>キャラクターの見た目を変更できるアイテムや、<br>冒険に役立つアイテムなどを入手できます。<br><br>各スクラッチのラインナップは、定期的に更新されます。<br>入手できるアイテムは、<yellow>“景品リスト”<c>で確認できます。"""
-text0002#0,"""スクラッチの景品のなかには、<yellow>“マイショップ”<c>で、<br>高額で売買できるものがあります。<br>出品時に、<yellow>“アイテムの相場を見る”<c>を選択すると、<br>取引価格を確認できます。<br><br><yellow>※マイショップに出品するには、“プレミアムセット”もしくは<br>\u3000“マイショップ出店”が、有効期間内である必要があります。<br>※アイテムの出品の可否は、“アイテム詳細”から確認できます。<c>"""
-text0003#0,"""毎日１回、“無料SGスクラッチ”を引くことができます。<br><br>コスチュームやロビーアクションなどを獲得できる場合もあるので、<br>ログインしたら、忘れずに引きましょう。"""
+Title#0,"""Drawing Scratches"""
+text0001#0,"""Scratches are a system that lets you trade <pict Arcscash>AC or <pict StarGem>SG for randomly-chosen items, including both cosmetic items, such as Costumes and Lobby Actions, and items that will be useful to you on your adventure.<br><br>Scratch lineups are updated regularly. You can check which items are available from the <yellow>List of Items<c>."""
+text0002#0,"""Some Scratch items can be sold for a high price at <yellow>My Shop<c>. When listing items, you can use the <yellow>View Item Prices<c> option to see what prices other copies of the item are being sold for.<br><br><yellow>※In order to list items in My Shop, you must have an active Premium Set or Shop License.<br>※You can check whether an item can be sold or not from its Item Details.<c>"""
+text0003#0,"""You can draw from the SG Free Scratch one per day.<br><br>You can obtain Costumes and Lobby Actions, so don't forget to log in and draw!"""

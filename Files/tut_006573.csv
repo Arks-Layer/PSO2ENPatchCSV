@@ -1,2 +1,2 @@
-Title#0,"""プラズマトラップ"""
-text0001#0,"""<yellow>“プラズマトラップ”<c>は、<br>一定間隔で爆発し、プレイヤーにダメージを与えるオブジェクトです。<br><br><%Avoid>で<yellow>“プラズマトラップ”<c>の爆発を回避することで、<br>付近のエネミーに、強力なダメージを与えられます。"""
+Title#0,"""Plasma Traps"""
+text0001#0,"""<yellow>Plasma Traps<c> are objects which explode at regular intervals, damaging nearby players.<br><br>Using <%Avoid> to dodge the <yellow>Plasma Traps<c> explosion will deal massive damage to nearby enemies."""

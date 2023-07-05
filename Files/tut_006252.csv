@@ -1,3 +1,3 @@
-Title#0,"""大砲（ランチャー）"""
-text0001#0,"""“大砲（ランチャー）”は、<br>広い攻撃範囲と長い射程距離を持つ、ダイナミックな遠距離武器です。<br><br>武器アクション“スティッキーボム”は、<br>一定時間で爆発する爆弾をエネミーに貼り付けます。<br>また、貼り付けた場所に攻撃を当てると、爆発時にPPが回復します。"""
-text0002#0,"""PA“フォールンインパクト”は、<br>発動から一定時間後に、ロックオン地点に爆発弾を降り注がせます。<br><br>時間差で攻撃が発生するのを利用して、<br>ほかの攻撃とタイミングを合わせて、攻撃を一点に集中させれば、<br>スティッキーボムのPP回復効果を最大限に得ることができます。"""
+Title#0,"""Launcher"""
+text0001#0,"""A Launcher is a powerful long-range weapon capable of bombarding a wide area with every shot.<br><br>Its Weapon Action, \""Sticky Bomb\"", attaches a bomb to the target which explodes after a short delay. When it explodes, you recover PP. The more hits you deal to the enemy after attaching the bomb, the more PP you recover.<br>"""
+text0002#0,"""The PA \""Fallen Impact\"" locks on to a target location, then bombards it with explosive shots a short time afterwards.<br><br>You can use this delay to help maximize PP recovery from Sticky Bomb. Simply use Fallen Impact on a target before attaching Sticky Bomb to that same target. Fallen Impact will hit the target during Sticky Bomb's countdown, and you will still be able to focus fire on that target with other moves during the entire countdown."""

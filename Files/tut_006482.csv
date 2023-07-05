@@ -1,3 +1,3 @@
-Title#0,"""ハイランクセクションの追加"""
-text0001#0,"""リテムリージョンの“ハイランクセクション”に<br>新たなランクが追加されました。<br><br>出現するエネミーのレベルが高い分、より良い報酬を<br>狙うことができますが、参加には高い戦闘力が必要です。"""
-text0002#0,"""新たなハイランクセクションには<br>“イコライザー”が付与されたエネミーが出現します。<br><br>このエネミーは周囲のエネミーの防御力を大幅に強化しますが、<br>倒すことで、逆に周囲のエネミーが大幅に弱体化します。<br>優先して倒しましょう。"""
+Title#0,"""Extra High Rank Sections"""
+text0001#0,"""A new rank has been added to High Rank Sections in the Retem Region.<br><br>Higher level enemies means better rewards, but your Power Level needs to be higher before you can enter."""
+text0002#0,"""In this new rank, you will begin encountering enemies with an \""Equalizer\"" attached.<br><br>These enemies will greatly boost the defense of nearby enemies, but defeating them will drastically weaken those enemies. Defeating Equalizing Enemies should be your highest priority."""

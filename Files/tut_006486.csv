@@ -1,3 +1,3 @@
-Title#0,"""トリニテス"""
-text0001#0,"""“トリニテス”は、リテムに存在する訓練施設の一種です。<br><br>“トレイニア”よりも難度が高く、<br>パーティーメンバーの中で最もレベルの高いプレイヤーのレベルに応じて<br>出現エネミーのレベルが変化します。"""
-text0002#0,"""“トリニテス”は複数のエリアで構成され、<br>クリアした階層数とサイドミッション数に応じてスコアが上がり、<br>クエスト終了時に、スコアに応じた報酬が得られます。<br><br>各エリアに設定されたサイドミッションを規定回数以上失敗すると<br>その時点でクエスト失敗となります。"""
+Title#0,"""Trinitas"""
+text0001#0,"""Trinitas is a kind of training facility that exists in Retem.<br><br>It is more difficult to complete than a Trainia, and the level of the enemies inside is based on the level of the highest-levelled Party Member."""
+text0002#0,"""The Trinitas consists of multiple areas. You earn points for each level you clear and each side mission you complete, and at the end of the Quest, you earn rewards based on your total score.<br><br>If you fail an area's side missions too many times, you will fail the Quest immediately."""

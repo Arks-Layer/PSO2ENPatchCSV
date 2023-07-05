@@ -1,4 +1,4 @@
-Title#0,"""バトルディア：イエロー"""
-text0001#0,"""“バトルディア”は、“トリガーポータル”と呼ばれる特殊な端末に、<br>専用のカギ<yellow>“バトルトリガー”<c>をセットすることでアクセスできる<br>訓練施設の一種です。<br><br>それぞれの訓練メニューにアクセスするには、<br>専用のトリガーが必要で、黄色い<yellow>“イエローポータル”<c>には、<br><yellow>“Bトリガー/コモンイエロー”<c>などが対応しています。"""
-text0002#0,"""セットしたトリガーは、<yellow>クエストクリア時に消費<c>されます。<br>また、バトルディアに出現するエネミーを撃破した際の経験値は、<br><yellow>クエストクリア時にまとめて獲得<c>できます。<br><br>※このバトルディアでは、一部のブースト効果が無効になる、<br>\u3000レベルが低いエネミーでも獲得経験値減衰がない、などの<br>\u3000特徴があります。"""
-text0003#0,"""“バトルトリガー”は、エネミー撃破時のドロップアイテムや<br>マイショップから購入するなどで、入手できます。"""
+Title#0,"""Battledia: Yellow"""
+text0001#0,"""Battledias are training facilities that you can access by using <yellow>Battle Triggers<c> at special terminals called \""Trigger Portals\"".<br><br>To access each training menu, you need to bring a specific type of trigger to its matching terminal. For example, you can access <yellow>Yellow Terminals<c> with <yellow>\""B. Trigger/Common Yellow\""<c>."""
+text0002#0,"""The triggers <yellow>will be consumed when you clear the Quest<c>. At this time, you will also receive <yellow>all the EXP you earned from defeating enemies throughout the Battledia as one lump sum<c>.<br><br>※During Battledia Quests, some boost effects will be nullified, and EXP earned from defeating low-level enemies will not be reduced."""
+text0003#0,"""Battle Triggers can be obtained as drops from enemies, and can also be purchased from My Shops."""

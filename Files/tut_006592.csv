@@ -1,2 +1,2 @@
-Title#0,"""ビルドパーツのスケール"""
-text0001#0,"""ビルドパーツの大きさを変えたい時は、選択中に<br><%WeaponAction_2>を押しながら<%SubPaletteLeft><%SubPaletteRight>で<yellow>“スケール”<c>を選択します。<br><br>その後、<%WeaponAction_2>を押しながら<swguidetype T_Moveguide_l>で<br>ビルドパーツのスケール（大きさ）を拡大・縮小できます。"""
+Title#0,"""Resizing Build Parts"""
+text0001#0,"""If you want to resize a Build Part, hold <%WeaponAction_2> and use <%SubPaletteLeft><%SubPaletteRight> to select <yellow>Resize<c>.<br><br>You can then resize the Build Part with <swguidetype T_Moveguide_l> while holding <%WeaponAction_2>."""

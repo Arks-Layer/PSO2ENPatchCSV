@@ -1,4 +1,4 @@
-Title#0,"""戦闘力の上げ方・１"""
-text0001#0,"""“戦闘力”は、プレイヤーのステータスや<br>装備品の性能を、総合的に数値化したものです。<br><br>一部のクエストやセクションでは、必要戦闘力を満たしていないと<br>参加や進入ができないものがあります。"""
-text0002#0,"""“戦闘力”を上げるには、<br><yellow>・エネミーの撃破やサイドタスクの達成などで、<br>\u3000経験値を得てレベルを上げる<br>・強化するなどした高性能な武器や防具を装備する<br>・防具を３つ装備する<c><br>などの方法があります。"""
-text0003#0,"""武器や防具が不足している場合は、<br>各リージョンのアークス拠点にある<yellow>“アイテムショップ”<c>で購入可能です。<br> <br>購入にはN-メセタが必要です。"""
+Title#0,"""Raising your Power Level: Part 1"""
+text0001#0,"""\""Power Level\"" is a way to quantify a player's combat ability based on their status and their equipment.<br><br>You may not be able to participate in some quests or enter some areas until you meet their minimum Power Level requirement."""
+text0002#0,"""If you want to raise your Power Level, you have several options:<br><yellow>・Defeat enemies, clear Side Tasks etc. to gain EXP and raise your class level<br>・Equip more powerful weapons and armor,<c> or make the ones you already have stronger, for instance by Grinding them<c><br><yellow>・Make sure you have all 3 armor slots filled<c>"""
+text0003#0,"""If you are short on weapons or armor, you can buy more at the <yellow>Item Shop<c> at the ARKS base in each region.<br><br>To buy items, you will need N-Meseta."""

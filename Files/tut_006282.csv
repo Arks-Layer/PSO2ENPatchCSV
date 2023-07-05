@@ -1,4 +1,4 @@
-Title#0,"""その他のタスク"""
-text0001#0,"""“デイリータスク”、“ウィークリータスク”が開放されました。<br><br>デイリータスクは、毎日<utc>19:00</utc>に更新される<br>日替わりのタスクです。<br><br>ウィークリータスクは、毎週<utcdow>水曜日3:00</utcdow>に更新される<br>週替わりのタスクです。"""
-text0002#0,"""１アカウントにつき、<yellow>デイリータスクは１日に１回、<br>ウィークリータスクは１週間に１回のみ<c>達成でき、<yellow><br>進行状況を翌日・翌週に持ち越すことはできません。<c><br><br>また、デイリータスク、ウィークリータスクのほかに、<br>特定の期間中にのみ発生する“期間限定タスク”もあります。"""
-text0003#0,"""“デイリータスク”と“ウィークリータスク”の中には、<br>達成すると“スター”を獲得できるものがあります。<br>スターが一定数たまると、“ミッションパス”の<br>“ティア”が進行し、その段階に応じて報酬が獲得できます。<br><br>ティアの進行状況と報酬情報は、<br>メインメニューの“タスク / クエスト”から<br>“ミッションパス”を選択すると確認できます。"""
+Title#0,"""Other Tasks"""
+text0001#0,"""Daily and Weekly Tasks are now available.<br><br>Daily Tasks update every day at <utc>19:00</utc>, while Weekly Tasks update every week at <utcdow>Wed 3:00</utcdow>"""
+text0002#0,"""Each account can only complete <yellow>each Daily Task once per day and each Weekly Task once per week<c>. Progress cannot be carried over to the next day or next week.<br><br>In addition to regular Tasks, there may be special Tasks that are only available for a limited time."""
+text0003#0,"""Some Daily and Weekly Tasks will award you Stars when completed. When you receive enough Stars, you will advance to the next Tier of your Mission Pass, allowing you to earn rewards from that Tier.<br><br>You can check your progress and Tier rewards by opening the Main Menu, selecting \""Tasks/Quests\"", then selection \""Mission Pass\""."""

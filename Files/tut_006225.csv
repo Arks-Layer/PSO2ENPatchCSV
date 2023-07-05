@@ -1,3 +1,3 @@
-Title#0,"""弱点属性"""
-text0001#0,"""すべてのテクニックと、一部の武器には、<br>“炎・氷・雷・風・光・闇”のいずれかの“属性”があります。<br><br>また、エネミーにはそれぞれ“弱点属性”が存在し、<br>弱点属性に一致する属性の武器やテクニックで攻撃すると<br>より高いダメージを与えることができます。"""
-text0002#0,"""一部のエネミーは、弱点属性で攻撃し続けることで、<br>“属性ダウン”という特殊なダウン状態になります。<br><br>武器の属性は、<br><yellow>“装備/サブパレット”<c>から<yellow>“武器装備”<c>を選び、“アイテム詳細”で、<br>テクニックの属性は、“テクニック詳細”で確認できます。"""
+Title#0,"""Attribute Weaknesses"""
+text0001#0,"""All Techniques, and some weapons, have one of the six Attributes:<br>Fire, Ice, Lightning, Wind, Light or Dark.<br><br>In addition, each enemy has one or more Attribute weaknesses. If you attack an enemy with a weapon or Technique that matches their weakness, you can deal more damage than normal."""
+text0002#0,"""Some enemies will enter a special Down phase called \""Attribute Down\"" if continually attacked with their weakness Attribute.<br><br>To check what your weapon's Attribute is, open the Main Menu, select <yellow>\""Equipment/Subpalette\""<c>, select <yellow>\""Equip Weapon\""<c>, then check \""Item Details\"".<br>Techniques' Attributes are shown under \""Technique Details\""."""

@@ -1,3 +1,3 @@
-Title#0,"""ドローム"""
-text0001#0,"""ヴァンフォード研究所跡には“ドローム”と<br>呼ばれる特殊なエネミーが出現します。<br><br>ドロームは倒すと味方になり、<br>一定時間プレイヤーに追従して共に戦います。"""
-text0002#0,"""ドロームが追従しているときに、<br>さらに別のドロームを倒すことで形態が変化していきます。<br><br>形態が変化すると、ドロームが範囲攻撃を行うようになったり、<br>プレイヤーを強化するスキルを使用するようになります。"""
+Title#0,"""Dromes"""
+text0001#0,"""The Vanford Laboratory area contains a special type of enemy called \""Dromes\"".<br><br>When defeated, a Drome will join you as an ally and fight alongside you for a set time."""
+text0002#0,"""When you defeat another Drome while you have a Drome following you, your follower Drome's form will change.<br><br>As a Drome's form changes, it gains new ranged attacks and support skills that it can use to assist you."""

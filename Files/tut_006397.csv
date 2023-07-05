@@ -1,3 +1,3 @@
-Title#0,"""クラススキル"""
-text0001#0,"""“クラススキル”は、<br>特定コンテンツで入手した“スキルポイント”を消費して習得する、<br>戦闘を有利にするためのさまざまな能力（スキル）です。<br><br>クラスの特性を活かしたスキルが多数用意されており、<br>自分の戦い方に合わせたスキル構成にすることができます。"""
-text0002#0,"""習得するだけで自動的に効果を発揮する<yellow>“パッシブスキル”<c>と、<br>サブパレットやメインパレットにセットすることで使用できる<br><yellow>“アクティブスキル”<c>の、２種類があります。"""
+Title#0,"""Class Skills"""
+text0001#0,"""Class Skills are the special skills which give each Class a unique advantage in battle.<br>You can acquire them by spending Skill Points.<br><br>Each Class has a wide variety of skills which take advantage of its unique characteristics. You can take whatever skills you want to customize your Class as you see fit."""
+text0002#0,"""There are 2 types of Class Skill: <yellow>\""Passive Skills\""<c>, which always apply their effect once learned, and <yellow>\""Active Skills\""<c>, which must be registered to the Subpalette or Main Palette and activated."""

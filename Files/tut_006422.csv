@@ -1,3 +1,3 @@
-Title#0,"""抜剣（カタナ）"""
-text0001#0,"""“抜剣（カタナ）”は、<br>俊敏な動きで連続攻撃をしつつ、<br>武器アクションの“カタナガード”で<br>被ダメージを軽減できる近接武器です。<br><br>同じカタナPAを連続で使用すると攻撃の挙動が変化する<br><yellow>“カタナPAコンボ”<c>を駆使することで、<br>最大３回までコンボが繋がり、多彩な攻撃を繰り出すことができます。"""
-text0002#0,"""PA“ハヤテツワブキ”は、<br>エネミー単体に素早く攻撃を行います。<br>隙が小さく、攻撃直前に移動が可能で、<br>エネミーとの間合いをはかりながら戦うことができます。"""
+Title#0,"""Katana"""
+text0001#0,"""A Katana is a melee weapon that performs quick, agile attacks while using its \""Katana Guard\"" Weapon Action to block damage.<br><br>Its PAs all share the \""Katana PA Combo\"" feature, which lets you access a wider variety of moves by using the same PA up to three times in a row."""
+text0002#0,"""The PA \""Hayate-tsuwabuki\"" is a quick strike against a single enemy. It has very little downtime, and it lets you move right before you strike, so it's a good attack for staying close to your target."""

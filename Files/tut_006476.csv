@@ -1,4 +1,4 @@
-Title#0,"""戦闘力・２"""
-text0001#0,"""戦闘力の増加値は、各項目ごとに異なります。<br>Lv.25時点で加算される戦闘力は、おおむね以下のとおりです。<br><br><yellow>・レベルが1上がると戦闘力が13～20程度上がる<br>\u3000（レベルが高いほど上がり幅も増加します）<br>・クラススキルはメインクラス/サブクラスを問わず、<br>\u30001つ習得すると戦闘力が3上がる<c>"""
-text0002#0,"""<yellow>・武器の潜在能力を1レベル上げるごとに戦闘力が10上がる<br>・特殊能力を装備に1つ追加するごとに戦闘力が2～10程度上がる<br>\u3000（追加する特殊能力ごとに増加値に振れ幅があります）<br>・武器の攻撃力が1上がると、戦闘力が約1上がる<br>・防具の防御力が1上がると、戦闘力が約0.5上がる<c>"""
-text0003#0,"""武器強化に必要なN-グラインダーや、N-メセタは、<br>以下のような方法で入手できます。<br><br><yellow>・N-グラインダー：<br>\u3000フィールド上のアイテムコンテナ[緑]の中など<br>・N-メセタ：<br>\u3000フィールド上のアルファリアクターなどの換金や、<br>\u3000ウィークリータスクの達成など<c>"""
+Title#0,"""Power Level: Part 2"""
+text0001#0,"""Each item raises your Power Level by a different amount. This is how Power Level breaks down at Lv.25:<br><br><yellow>・Each level you gain increases your Power Level by about 13-20<br>\u3000(Higher levels raise Power Level more)<br>・Each Class Skill you learn, from your Main Class or your Sub Class, increases your Power Level by 3<c>"""
+text0002#0,"""<yellow>・Each level of your weapon's Potential raises your Power Level by 10<br>・Each Special Ability added to your equipment increases your Power Level by about 2-10<br>\u3000(Different Special Abilities increase by different amounts)<br>・Every 1 point of ATP your weapon gains increases your Power Level by about 1<br>・Every 1 point of DFP your armor gains increases your Power Level by about 0.5<c>"""
+text0003#0,"""The N-Grinders and N-Meseta you need to upgrade your weapons and armor can be obtained in the following ways:<br><br><yellow>・N-Grinders:<br>\u3000Destroying the Item Containers [Green] that you find in the field<br>・N-Meseta:<br>\u3000Selling Alpha Reactors found in the field, completing Weekly Tasks, etc.<c>"""

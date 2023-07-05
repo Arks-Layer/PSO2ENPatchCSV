@@ -1,4 +1,4 @@
-Title#0,"""期間限定クエスト"""
-text0001#0,"""シーズナルイベント期間中は、期間限定の緊急クエストが発生します。<br>この期間限定クエストには、通常とは異なるエネミーが出現します。"""
-text0002#0,"""また、期間限定クエストは専用のトリガーポータルからも、<br>受注することができます。<br><br>専用のバトルトリガーは、シーズンシンボル付きのエネミーを倒したり、<br>アイテム交換ショップで交換することで入手できます。"""
-text0003#0,"""緊急クエストは、専用のトリガーポータルにアクセスするだけで<br>何度でも受注が可能です。"""
+Title#0,"""Limited Time Quests"""
+text0001#0,"""This Seasonal Event featuers Limited Time Emergency Quests.<br>These Limited Time Quests feature appearances from unusual enemies."""
+text0002#0,"""Limited Time Quests can also be started from special Trigger Portals.<br><br>The Battle Triggers required to start them drop from Season Symbol-marked enemies, and can also be traded for at the Item Exchange Shop."""
+text0003#0,"""Emergency Quests can be accepted as many times as you like, simply by using their specific Trigger Portal."""

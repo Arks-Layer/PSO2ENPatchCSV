@@ -1,3 +1,3 @@
-Title#0,"""両剣（ダブルセイバー）"""
-text0001#0,"""“両剣（ダブルセイバー）”は、<br>広い攻撃範囲を持ち、さまざまな状況で活躍できる近接武器です。<br><br>PAを使用すると、自動的に“カマイタチ”が発生し、<br>一定時間、周囲のエネミーにダメージを与えます。<br>カマイタチには段階があり、攻撃を当て続けることで強化されます。"""
-text0002#0,"""PA“ジュリーエンダンス”は、<br>エネミーに接近した後、<br>その場で連続攻撃を行います。<br><br>接近後、連続攻撃に移る前に別の攻撃を出すこともできるため、<br>状況に応じた立ち回りが可能です。"""
+Title#0,"""Double Saber"""
+text0001#0,"""A Double Saber is a melee weapon with a wide attack range that's suited for a variety of situations.<br><br>Its PAs automatically generate a \""Kamaitachi\"" whirlwind when used, which will damage nearby enemies for a short time. The Kamaitachi has multiple levels, and it can be raised to higher levels by landing more hits with PAs."""
+text0002#0,"""The PA \""Julienne Dance\"" lets you approach the enemy before performing a string of consecutive strikes on the spot.<br><br>After the approach, you have a chance to switch to a different attack, so you can switch up your moves based on the situation."""
