@@ -104,7 +104,7 @@ Selfie_OperationGuide_Camera_Rotate_Key_Guide#0,"""<%MultiSelect> + <%MoveLeft>/
 Selfie_OperationGuide_Camera_Zoom_Key_Guide#0,"""<%PaletteForce>/<%PaletteReverse>"""
 Selfie_OperationGuide_Camera_Reset_Key_Guide#0,"""<%Exception>"""
 Selfie_FacialConfigWindow_Title#0,"""Expression Change"""
-Selfie_FacialConfigWindow_Detail#0,"""Each facial expression can be adjusted in detail in the Beauty Salon."""
+Selfie_FacialConfigWindow_Detail#0,"""Each facial expression can be adjusted in detail<br>in the Beauty Salon."""
 Selfie_FacialConfigWindow_Item1#0,"""Normal"""
 Selfie_FacialConfigWindow_Item2#0,"""Smiling"""
 Selfie_FacialConfigWindow_Item3#0,"""Angry"""
