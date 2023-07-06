@@ -56,7 +56,7 @@ ssn_019160_002_4010#0,"""There are still countless things we still don't know ab
 ssn_019160_002_4020#0,"""It's our job as researchers to unravel those mysteries, one by one."""
 ssn_019160_002_5010#0,"""...I can barely see out of this costume..."""
 ssn_019160_002_5020#0,"""But, if it can help us learn even a little bit about the Lillipans, then... I'll give it my best."""
-npc_menu_0010#0,"""Exchange Seasonal Points(Until $(0))"""
+npc_menu_0010#0,"""Exchange Seasonal Points (Until $(0))"""
 npc_menu_0030#0,"""Recycle Items (Until $(0))"""
 npc_menu_0040#0,"""Ask about the Seasonal Event"""
 npc_menu_0050#0,"""Close Menu"""
