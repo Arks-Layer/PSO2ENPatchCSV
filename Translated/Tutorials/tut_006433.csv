@@ -1,4 +1,4 @@
-Title#0,"""Dual Blades"""
-text0001#0,"""Dual Blades are melee weapons that use their two physical blades and their conjured Photon Blades to perform a wide variety of attacks.<br><br>While using a Dual Blades PA, you can press the PA button again to perform an alternative action specific to that PA. You have a wide window of timing to perform these alternative actions, giving you a great deal of control over how you attack and your aerial positioning."""
-text0002#0,"""Its Weapon Action, \""Photon Blade\"", creates floating blades out of Photons to perform long-range attacks.<br><br>Photon Blades will embed into enemies and remain in them for a long time. If you have learned the Class Skill \""Photon Blade Recovery\"", hitting embedded enemies with Normal Attacks will recover extra PP."""
-text0003#0,"""The PA \""Stork Distraction\"" sweeps enemies around you away, then generates Photon Blades to perform an additional attack.<br><br>For its alternative attack, you jump into the air and perform a pair of long-range vertical attacks."""
+Title#0,"""飛翔剣（デュアルブレード）"""
+text0001#0,"""“飛翔剣（デュアルブレード）”は、<br>２本の剣とフォトンブレードにより多彩な攻撃ができる近接武器です。<br><br>各PA中に再度PAボタンを押すことで、攻撃の挙動が変化します。<br>この派生攻撃は、発動中に移動が可能で、<br>空中でも位置の調整がしやすいなど、さまざまな状況に対応できます。"""
+text0002#0,"""武器アクション“フォトンブレード”は、<br>フォトンでできた剣を発生させて遠距離攻撃を行います。<br><br>フォトンブレードは、<br>クラススキル“フォトンブレードPPリカバリー”を習得すると<br>命中したエネミーに一定時間刺さり続けるようになります。<br>そのエネミーに通常攻撃を当てると、PPの回復量が増加します。"""
+text0003#0,"""PA“ストークディストラクション”は、<br>周囲のエネミーを薙ぎ払った後、<br>フォトンの刃を発生させて追加攻撃を行います。<br><br>派生攻撃では、その場で飛び上がり、<br>縦方向にリーチの長い攻撃を行います。"""

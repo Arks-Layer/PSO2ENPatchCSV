@@ -1,3 +1,3 @@
-Title#0,"""Shortcut Words"""
-text0001#0,"""\""Shortcut Words\"" are a system that allow you to pre-register useful common phrases so you can say them at-will quickly and easily.<br><br>To register Shortcut Words, open the Main Menu with <swguidetype T_MainMenu>, select \""Chat\"", then select \""Shortcut Word Settings\""."""
-text0002#0,"""Once registered, you can access your Shortcut Words from the Quick Menu, or by using the designated Shortcut Word keys on your keyboard."""
+Title#0,"""ショートカットワード"""
+text0001#0,"""“ショートカットワード”とは、よく使う発言を<br>あらかじめ登録しておき、すぐに発言できる機能です。<br><br>登録は<swguidetype T_MainMenu>でメインメニューを開き、“チャット”から、<br>“ショートカットワード設定”で行います。"""
+text0002#0,"""登録したチャットは、クイックメニューのショートカットか、<br>キーボードの“ショートカット設定”に応じたキー入力で、<br>発言することができます。"""

@@ -1,3 +1,3 @@
-Title#0,"""ARKS Search"""
-text0001#0,"""You can search for other players by opening the Main Menu with <swguidetype T_MainMenu>, then selecting <yellow>ARKS Search<c> from the <yellow>Communication<c> tab."""
-text0002#0,"""Filter your search by Player ID name, character name, or Team name. You can also send whisper messages and Friend Requests from the search results."""
+Title#0,"""アークスサーチ"""
+text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<yellow>“コミュニケーション”<c>から<br><yellow>“アークスサーチ”<c>を選択すると、<br>他のプレイヤーや、そのキャラクターを検索できます。"""
+text0002#0,"""プレイヤーIDネーム、キャラクターネーム、チーム名で<br>検索が可能です。<br><br>検索結果から、ウィスパーチャットやフレンド申請などを<br>行うこともできます。"""

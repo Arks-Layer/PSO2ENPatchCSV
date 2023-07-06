@@ -1,2 +1,2 @@
-Title#0,"""Control Settings"""
-text0001#0,"""You can edit your controls for both keyboard and <%GamePad> by opening the Main Menu with <swguidetype T_MainMenu>, selecting <yellow>\""System\""<c>, then selecting <yellow>\""Control Settings\""<c>.<br><br>You can also edit other game options, such as graphics, sound and other settings, by selecting <yellow>\""System\""<c>, then selecting <yellow>\""Options\""<c>."""
+Title#0,"""操作設定"""
+text0001#0,"""メインメニューの<yellow>“システム”<c>から<yellow>“操作設定”<c>を選択すると、<br>“キーボード＆マウス”や“<%GamePad>”における、<br>操作の割り当てなどが設定できます。<br><br>また、<swguidetype T_MainMenu>でメインメニューを開き、<br>“システム”から“オプション”を選択し、<br>コントロール、グラフィック、サウンドなどを詳細に設定できます。"""

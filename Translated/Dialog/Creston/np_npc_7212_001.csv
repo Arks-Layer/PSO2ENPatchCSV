@@ -1,3 +1,3 @@
-HELLO_ALLDAYS#0,"""We're still organizing our materials. Please come back later."""
-HELLO_ALLDAYS_002#0,"""Hi."""
-HELLO_BYE#0,"""Come back any time."""
+HELLO_ALLDAYS#0,"""ただいま資料の整理中です。<br>少しだけ、お待ちください。"""
+HELLO_ALLDAYS_002#0,"""やあ。"""
+HELLO_BYE#0,"""いつでも来てくださいね。"""

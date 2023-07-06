@@ -1,4 +1,4 @@
-Title#0,"""Joining Other Players"""
-text0001#0,"""You can use the game's communication features to travel to the locations of your Friends and Party Members.<br><br>Open the Party Member list, the Friend List or the Team Member list and select the person you want to join. From the menu that appears, select \""Transfer to This Location\""."""
-text0002#0,"""If the other player is in an ARKS Base, you will transfer to the entrance of that base.<br><br>If they are in an Exploration or Combat Section, you will transfer to the nearest Ryuker Device."""
-text0003#0,"""If the other player is in a location where you cannot join them, you will transfer to the nearest ARKS Base.<br><br>If you cannot find the person you're looking for after you arrive at their location, use Chat to coordinate with them."""
+Title#0,"""他プレイヤーとの合流機能"""
+text0001#0,"""コミュニケーション機能により、<br>フレンドや、パーティーメンバーなどがいる場所に移動できます。<br><br>“パーティーメンバー”や“フレンドリスト”、<br>“チームメンバー一覧”から合流したい相手を選択し、<br>表示されるメニューから“この場所に移動”で、<br>その相手がいるブロックやルームに移動します。"""
+text0002#0,"""相手がアークス拠点にいる場合は、その拠点に移動します。<br><br>相手が探索セクションや戦闘セクションにいる場合は、<br>リューカーデバイス前に移動します。"""
+text0003#0,"""相手が合流できない場所にいる場合は、<br>最寄りのアークス拠点に移動します。<br><br>移動先で、相手が見つけられない場合は、<br>チャットなどを利用して居場所を確認してください。"""

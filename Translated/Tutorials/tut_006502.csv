@@ -1,4 +1,4 @@
-Title#0,"""Team Tasks"""
-text0001#0,"""Team Tasks are Side Tasks that can only be accepted if you belong to a Team. They can be accepted from the Team Support Staff Member, Tim.<br><br>Team Tasks are updated <yellow>every <utcdow>Wed. 3:00</utcdow><c>.<br><br>The number of Team Tasks you can accept at once will be increased by 2 if your Team has 10 or more Members, and by a further 2 if you have 20 or more Members."""
-text0002#0,"""Completing Team Tasks will reward you with <yellow>Team Badges<c>.<br><br>You can trade Team Badges for Battle Triggers, special Accessories and so on by talking to Tim and selecting \""Exchange for Team Badges\""."""
-text0003#0,"""Tim appears at the ARKS Bases in each Region, such as Central City."""
+Title#0,"""チームタスク"""
+text0001#0,"""“チームタスク”は、チームに所属している場合のみ、<br>“チーム活動支援員・ティム”から受注できるサイドタスクです。<br><br>チームタスクは、<yellow>毎週<utcdow>水曜日3:00</utcdow>に更新<c>されます。<br><br>受注可能なタスク数は、所属しているチームのメンバー数が<br>10人以上なら2件追加、20人以上ならさらに2件追加されます。"""
+text0002#0,"""チームタスクを達成することで、<br>“<yellow>チームバッヂ<c>”を入手できます。<br><br>入手したチームバッヂは、ティムに話しかけて<br>“チームバッヂと交換する”を選ぶことで、<br>バトルトリガーや専用アクセサリーなどの<br>アイテムと交換できます。"""
+text0003#0,"""“チーム活動支援員・ティム”には、<br>セントラルシティなど各リージョンのアークス拠点で<br>会うことができます。"""

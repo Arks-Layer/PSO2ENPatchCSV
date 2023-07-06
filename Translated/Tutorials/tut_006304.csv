@@ -1,3 +1,3 @@
-Title#0,"""Motion Change"""
-text0001#0,"""Motion Change allows you to change your character's animations for specific actions, such as running or jumping.<br><br>You can obtain additional animations to use from ticket items."""
-text0002#0,"""You can <yellow>register changed motions to your My Fashion<c> by opening the Main Menu, selecting <yellow>\""Equipment/Subpalette\""<c>, then selecting <yellow>\""My Fashion\""<c>.<br><br>To view the motions you have registered, open the Main Menu, select <yellow>\""Personal\""<c>, then <yellow>\""Character Information\""<c>, then select <yellow>\""Fashion Info\""<c>."""
+Title#0,"""モーション変更"""
+text0001#0,"""“モーション変更”では、<br>移動やジャンプなどのモーション（動き）を<br>別のモーションに変更できます。<br><br>変更可能なモーションの種類は、<br>専用のチケットアイテムを使うことで追加できます。"""
+text0002#0,"""変更したモーションは、“メインメニュー”の<br>“装備/サブパレット”のなかにある“ファッション編集”から、<br><yellow>“マイファッション”<c>に登録できます。<br><br>登録した内容は、同じく“メインメニュー”の<br>“パーソナル”のなかにある“キャラクター情報”から、<br><yellow>“ファッション情報”<c>を選択することで確認できます。"""

@@ -1,4 +1,4 @@
-Title#0,"""Combat Controls"""
-text0001#0,"""Normal Attack: <%NormalAttack><br>PA (Photon Art)/Technique: <%PhotonArts><br>Charged PA: Press and hold <%PhotonArts><br>Back palette PA: Hold <%WeaponAction_2> and press <%NormalAttack>"""
-text0002#0,"""Lock-on: <%LockOn><br>Switch Lock-on target: <%LockOn>"""
-text0003#0,"""Dash Attack: <%NormalAttack> while Dashing<br>Step Attack: <%Avoid> then <%NormalAttack><br>Dive Attack: Hold <%Jump> in mid-air and press <%NormalAttack>"""
+Title#0,"""攻撃アクションの操作"""
+text0001#0,"""通常攻撃：<%NormalAttack><br>PA（フォトンアーツ）／テクニック：<%PhotonArts><br>チャージPA：<%PhotonArts><pict 4space>を長押し<br>裏パレットPA：<%WeaponAction_2><pict 4space>を押しながら<pict 4space><%NormalAttack>"""
+text0002#0,"""ロックオン：<%LockOn><br>ロックオン切り替え：<%LockOn>"""
+text0003#0,"""ダッシュアタック：ダッシュ中に<pict 4space><%NormalAttack><br>ステップアタック：<%Avoid><pict 4space>の後に<pict 4space><%NormalAttack><br>ダイブアタック：空中で<pict 4space><%Jump><pict 4space>を押しながら<pict 4space><%NormalAttack>"""

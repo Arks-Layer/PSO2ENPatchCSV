@@ -1,2 +1,2 @@
-Title#0,"""The Subpalette"""
-text0001#0,"""The \""Subpalette\"" is a system that lets you register items and Class Skills in advance, then use them quickly and easily when you need them. You can register up to 10 things per Subpalette.<br><br>Use <%SubPaletteLeft> and <%SubPaletteRight> to move the Subpalette cursor left and right, then use <%SubPalette> to use whatever is in the currently selected slot.<br>If playing with a keyboard, you can also use the number keys to activate Subpalette slots directly."""
+Title#0,"""サブパレット"""
+text0001#0,"""“サブパレット”とは、アイテムやクラススキルなどを事前に登録し、<br>簡単な操作ですぐに使うことができる機能です。<br>ひとつのパレットには、最大10種類まで登録できます。<br><br><%SubPaletteLeft><pict 4space><%SubPaletteRight><pict 4space>でカーソルを左右に移動し<pict 4space><%SubPalette><pict 4space>で実行します。<br>キーボード利用時は、[1]～[0]キーを押すと直接実行できます。"""

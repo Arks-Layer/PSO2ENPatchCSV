@@ -1,3 +1,3 @@
-Title#0,"""Menu Reorganization"""
-text0001#0,"""When a window from the Main Menu is open, you can rearrange its location in the Menu.<br><br>Related windows: Equipment, Personal, System, Task/Quest, Communication, Chat, Shop"""
-text0002#0,"""While a window is open, press <%MultiSelect> to freely rearrange its location in the Main Menu.<br><br>To reset the menu to its original state, press <%ChangeCtrlWindowForward>."""
+Title#0,"""メニューの並び替え機能"""
+text0001#0,"""メインメニューから開く一部のウィンドウで、<br>メニューの配置を並び替える機能が利用できます。<br><br>対象ウィンドウ：<br>装備メニュー、パーソナル、システム、タスク/クエスト、<br>コミュニケーション、チャット、ショップ"""
+text0002#0,"""対象のウィンドウを開いた状態で、<%MultiSelect>を押すと<br>自由にメニューを並び替えることができます。<br><br>並び替えたメニューは、<br><%ChangeCtrlWindowForward>で、初期状態に戻すことができます。"""

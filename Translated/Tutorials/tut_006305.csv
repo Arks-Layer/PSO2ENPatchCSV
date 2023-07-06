@@ -1,3 +1,3 @@
-Title#0,"""The Friend List"""
-text0001#0,"""You can access a list of players who have become your Friends by opening the Main Menu with <swguidetype T_MainMenu>, selecting <yellow>\""Communication\""<c>, then selecting <yellow>\""Friend List\""<c>. From here, you can check their login status and send them whisper chat."""
-text0002#0,"""To invite someone to be your Friend, select \""Communication\"" from the Main Menu, then \""Nearby Players\"", select the player you wish to invite, then select \""Send Friend Request\""."""
+Title#0,"""フレンドリスト"""
+text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<yellow>“コミュニケーション”<c>から<br><yellow>“フレンドリスト”<c>を選択すると、<br>フレンドになったプレイヤーが表示されます。<br>ログイン状態の確認や、ウィスパーチャットを送ることができます。"""
+text0002#0,"""フレンドになるには、“コミュニケーション”から<br>“周囲のプレイヤー”選択後、<br>フレンドになりたいプレイヤーを選択して、<br>“フレンド申請を送る”を選んでください。"""

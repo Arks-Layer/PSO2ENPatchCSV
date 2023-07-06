@@ -1,4 +1,4 @@
-Title#0,"""ARKS Cards"""
-text0001#0,"""Your ARKS Card is a card which you can use to give other players a little information about yourself.<br>To view and edit your ARKS Card, open the Main Menu, select <yellow>\""Personal\""<c>, then select <yellow>\""ARKS Card\""<c>."""
-text0002#0,"""On the Edit screen, you can set a comment, show off your character's appearance, display a Symbol Art or a Stamp and assemble a Title for yourself.<br><br>If you set your ARKS Card's visibility to Public, other players will be able to view it.<br><yellow>※You can change your ARKS Card's visibility from the Edit screen.<c>"""
-text0003#0,"""To view another player's ARKS Card, either select them directly, or open the Main Menu and select \""Communication\"", then use your Friends List or the Nearby Characters menu to select the player. On the menu that appears, select \""View ARKS Card\""."""
+Title#0,"""アークスカード"""
+text0001#0,"""“アークスカード”は、自分のプロフィールを登録できるカードです。<br>メインメニューの<yellow>“パーソナル”<c>から<yellow>“アークスカード”<c>を<br>選択すると、プロフィールの編集と確認ができます。"""
+text0002#0,"""編集画面では、コメントや、キャラクターの見た目、<br>シンボルアートやスタンプ、獲得した称号などを<br>組み合わせてアークスカードを編集できます。<br><br>公開設定をすることで、ほかのプレイヤーが閲覧可能になります。<br><br><yellow>※公開範囲は、編集画面で設定できます。<c>"""
+text0003#0,"""他のプレイヤーのアークスカードを見たい時は、<br>メインメニューを開き、“コミュニケーション”の<br>“フレンドリスト”や“周囲のキャラクター”から<br>対象のプレイヤーを選ぶと表示されるメニューから<br>“アークスカードを見る”を選択してください。"""

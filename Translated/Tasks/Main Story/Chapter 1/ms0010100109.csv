@@ -1,4 +1,4 @@
-Title#0,"""Head to the Command Room Again"""
-Summary#0,"""After being guided through the Cocoon by Bruder, <%me> receives another call from Crawford and returns to the Command Room in Central City."""
-text0101#0,"""Head to the Command Room"""
-text0102#0,"""Talk to Crawford"""
+Title#0,"""再び指令室へ"""
+Summary#0,"""アークスの教導官であるブルーダーから、<br>コクーンでの指南を受けた<br><%me>は、<br>クロフォードに呼ばれ、<br>再びセントラルシティの指令室に向かう。"""
+text0101#0,"""指令室に向かう"""
+text0102#0,"""クロフォードと話す"""

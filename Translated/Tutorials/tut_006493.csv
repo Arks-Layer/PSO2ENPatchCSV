@@ -1,4 +1,4 @@
-Title#0,"""Throwing"""
-text0001#0,"""Destroying some objects or attacking some enemies can create throwable objects.<br><br>You can pick these objects up by Accessing them, then throw them with the Throw action.<br><br>Throwable objects disappear when thrown, or will vanish after enough time passes."""
-text0002#0,"""Thrown objects have a variety of effects. You can use them to bring enemies down, or to make rapid progress in Trials."""
-text0003#0,"""If you attack and destroy the glowing yellow Photonic crystals known as Crystal Ice, Crystal Ice Fragments will appear nearby.<br><br>Thrown Crystal Ice Fragments explode on impact, damaging nearby enemies."""
+Title#0,"""投擲アクション"""
+text0001#0,"""オブジェクトを破壊したり、エネミーの攻撃によって、<br>“投げられるオブジェクト”が出現する場合があります。<br><br>このオブジェクトにアクセスすると、“投擲アクション”で<br>オブジェクトを“投げる”ことができます。<br><br>投げるか、時間が経つと、オブジェクトは消滅します。"""
+text0002#0,"""投げられるオブジェクトは様々な効果があり、<br>上手く利用することでエネミーをダウンさせたり、<br>トライアルを有利に進めたりすることができます。"""
+text0003#0,"""フィールド上で黄色く光る<br>フォトンの結晶“水晶氷”を攻撃して破壊すると、<br>“水晶氷片”が周囲に出現します。<br><br>水晶氷片を“投げる”と、衝突時に爆発して<br>周囲のエネミーにダメージを与えられます。"""

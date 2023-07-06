@@ -1,2 +1,2 @@
-Title#0,"""Explosive Decoys"""
-text0001#0,"""Explosive Decoys:<br>Pick up with <%Access> and throw with <%NormalAttack>.<br>Once thrown, they deploy and distract nearby enemies. After a set time, they explode."""
+Title#0,"""エクスプローシブデコイ"""
+text0001#0,"""エクスプローシブデコイ：<br>\u3000<pict 4space><%Access>で“拾う”<br>\u3000<pict 4space><%NormalAttack>で“投げる”<br>\u3000設置後、エネミーの注意を引きつけ、<br>\u3000一定時間経過後に爆発"""

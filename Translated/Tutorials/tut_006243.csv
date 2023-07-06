@@ -1,4 +1,4 @@
-Title#0,"""Gunner"""
-text0001#0,"""Gunner is a class that has excellent aerial mobility and deals high damage at close and medium ranges."""
-text0002#0,"""<yellow>\""Chain Trigger\""<c> is a skill that counts the number of times you land hits with Normal Attacks & uncharged PAs to deal a massive amount of damage with a Chain Finish.<br><br>A Chain begins when you hit with a charged PA. The Chain Count increases with each hit from your attacks, and your next charged PA becomes a Chain Finish."""
-text0003#0,"""<yellow>Chain Trigger<c> is a very important Class Skill which can be enhanced with a number of other skills.<br>For example, <yellow>\""Chain Boost\""<c> grants you bonus effects, such as increased attack speed, based on your Chain Count when you land a Chain Finish."""
+Title#0,"""ガンナー"""
+text0001#0,"""“ガンナー”は、<br>空中での機動力に優れ、近距離および中距離で<br>高いダメージを与えることができるクラスです。<br><br>習得可能なクラススキルのうち、一部をご紹介します。"""
+text0002#0,"""クラススキル<yellow>“チェイントリガー”<c>は、<br>発動後の攻撃ヒット数によって、最後のチェインフィニッシュ状態で<br>大きなダメージを与えられるスキルです。<br><br>チェインはチャージPAヒットで発動し、攻撃ヒットでチェイン数上昇、<br>再度チャージPAヒットでチェインフィニッシュ状態に移行します。"""
+text0003#0,"""クラススキル<yellow>“チェインブースト”<c>は、<br><yellow>“チェインフィニッシュ”<c>発動時、チェイン数に応じて、<br>一定時間攻撃速度の上昇などのメリットが得られます。<br>クラススキル<yellow>“チェイントリガー”<c>を<br>さらに強化できる重要なスキルです。"""

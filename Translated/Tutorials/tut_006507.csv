@@ -1,4 +1,4 @@
-Title#0,"""Auto Sell Drop Items"""
-text0001#0,"""Auto Sell Drop Items is a function that lets you set rules for items that you want to automatically sell when dropped by enemies.<br><br>You can find this function under System on the Main Menu."""
-text0002#0,"""You can set whether to sell weapons and armor based on their rarity, and on whether or not they have Preset Abilities.<br><br>Additionally, some upgrade material weapons will not be automatically sold, even if they fall under your sale rules.<br>If you want to automatically sell these items, please select \""Detailed Information\"" and add those items to the list of items to be sold."""
-text0003#0,"""This function is only available to you if you have an active Premium Set, or if you have the purchased Auto Sell Usage rights.<br><br>Premium Sets can be purchased from the AC Shop, while Auto Sell Usage can be purchased from the SG Shop."""
+Title#0,"""ドロップアイテムの自動売却設定"""
+text0001#0,"""“ドロップアイテムの自動売却設定”は、<br>エネミーからドロップしたアイテムを、<br>あらかじめ設定したルールに基づいて<br>自動的に売却できる機能です。<br><br>この機能は、<br>“メインメニュー”の“システム”から設定できます。"""
+text0002#0,"""武器や防具は、レアリティやプリセット能力の有無などで、<br>売却対象に含めるかを選択できます。<br><br>なお、一部の強化素材用アイテムは、売却対象に含まれません。<br>これらを、売却対象に含めたい場合は、<br>“詳細情報”の“自動売却の対象に含めるアイテム”から<br>個別に設定してください。"""
+text0003#0,"""この機能は、<br>“プレミアムセット”または“アイテム自動売却利用”利用権の<br>有効時に使用できます。<br><br>“プレミアムセット”利用権は“ACショップ”<br>“アイテム自動売却利用”利用権は“SGショップ”で<br>販売しています。"""

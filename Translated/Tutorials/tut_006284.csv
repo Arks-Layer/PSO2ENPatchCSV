@@ -1,4 +1,4 @@
-Title#0,"""Mission Pass"""
-text0001#0,"""The Mission Pass is a system that allows you to progress through stages, called Tiers, and earn rewards each time you reach a new Tier.<br><br>You can make progress towards your next Tier by collecting Stars. Stars are awarded when you complete certain Daily or Weekly Tasks."""
-text0002#0,"""The Mission Pass has <yellow>Normal Rewards<c> and <yellow>Gold Rewards<c>.<br><br>Gold Rewards can only be obtained after using a <yellow>Premium Set<c> or an <yellow>N-Mission Gold Pass<c>."""
-text0003#0,"""You can access the Mission Pass by opening the Main Menu, selecting <yellow>Tasks/Quests<c>, then selecting <yellow>Mission Pass<c>."""
+Title#0,"""ミッションパス"""
+text0001#0,"""“ミッションパス”は、<br><yellow>“ティア”<c>と呼ばれる段階ごとに報酬を獲得できるコンテンツです。<br>ティアは<yellow>“スター”<c>を集めることで進行します。<br><br>スターは、特定の“デイリータスク”や<br>“ウィークリータスク”を達成することで付与されます。"""
+text0002#0,"""ミッションパスの報酬には、<br><yellow>“ノーマル報酬”<c>と<yellow>“ゴールド報酬”<c>があります。<br><br>それぞれ、ティアの進行に応じて獲得できる報酬で、<br>ゴールド報酬は、<yellow>“プレミアムセット”<c>を有効にするか<br><yellow>“N-ミッションゴールドパス”<c>を使用することで<br>獲得できるようになります。"""
+text0003#0,"""“ミッションパス”は、<br>メインメニューの<yellow>“タスク / クエスト”<c>から<br><yellow>“ミッションパス”<c>を選択すると表示できます。"""

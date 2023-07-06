@@ -1,4 +1,4 @@
-Title#0,"""Play Report"""
-text0001#0,"""Play Report is a system that summarizes each player's performance during a Quest, and shows which player attained the best result in each category."""
-text0002#0,"""The Best Players tab shows the players with the best result in each category.<br><br>Your name will be displayed in <yellow>yellow<c>.<br><br>From here, you can send Good Jobs or Friend Requests to individual players, or to all players at once."""
-text0003#0,"""The Personal Records tab displays your own results.<br><br>Any category for which you are the Best Player will be displayed in <yellow>yellow<c>."""
+Title#0,"""プレイレポート"""
+text0001#0,"""“プレイレポート”は、<br>クエスト中のプレイ内容を集計し、各項目ごとに、<br>最も良い成績を収めたプレイヤーの記録を掲示する機能です。"""
+text0002#0,"""“ベストプレイヤー”のタブには、<br>それぞれの項目で、最も良い成績を収めたプレイヤーが表示されます。<br><br>自分の名前は、<yellow>黄色<c>で表示されます。<br><br>また、表示されたプレイヤーに、１人ずつ、もしくはまとめて、<br>グッジョブを送ったり、フレンド登録を申し込むことができます。"""
+text0003#0,"""“個人記録”のタブには、自分の記録が表示されます。<br><br>全プレイヤーのなかで、最も良い成績を収めた項目は、<br><yellow>黄色<c>で表示されます。"""

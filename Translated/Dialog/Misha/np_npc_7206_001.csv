@@ -1,4 +1,4 @@
-HELLO_ALLDAYS#0,"""Wait a moment. I'm still getting ready."""
-HELLO_ALLDAYS_002#0,"""Welcome."""
-HELLO_ALLDAYS_003#0,"""Welcome."""
-HELLO_BYE#0,"""Goodbye."""
+HELLO_ALLDAYS#0,"""ちょっと待ってね。<br>今、準備中なんだ。"""
+HELLO_ALLDAYS_002#0,"""いらっしゃい。"""
+HELLO_ALLDAYS_003#0,"""いらっしゃい。"""
+HELLO_BYE#0,"""またね。"""

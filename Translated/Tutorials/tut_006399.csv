@@ -1,2 +1,2 @@
-Title#0,"""Simple Command"""
-text0001#0,"""\""Simple Command\"" is a function that automatically selects appropriate actions based on the distance between you and the target.<br><br>You can use it by setting it to the Main Palette or Subpalette."""
+Title#0,"""かんたん操作"""
+text0001#0,"""“かんたん操作”とは、<br>押すだけで、プレイヤーとエネミーの距離に適した<br>アクションが、自動的に発動する機能です。<br><br>メインパレット・サブパレットにセットすることで<br>使用できます。"""

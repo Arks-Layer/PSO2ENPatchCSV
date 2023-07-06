@@ -1,2 +1,2 @@
-Title#0,"""Field Race: Marathon"""
-text0001#0,"""The objective of Field Races with <yellow>\""Marathon\""<c> in the title is to pass all <yellow>Checkpoints<c> within the time limit while collecting as many <yellow>Score Symbols<c> as possible.<br><br>On completing the race, your time and Score Symbols will be added together and recorded as your <yellow>Total Score<c>, which will then be submitted to the rankings."""
+Title#0,"""フィールドレース：走破"""
+text0001#0,"""フィールドレースのなかで、<br>タイトルに<yellow>“走破”<c>とつくものは、<br>すべての<yellow>“チェックポイント”<c>を通過するまでのタイムと、<br><yellow>“スコアシンボル”<c>の獲得数を競います。<br><br>このタイムとスコアシンボルの獲得数を合算した値が、<br><yellow>“トータルスコア”<c>として記録され、順位が確定します。"""

@@ -1,3 +1,3 @@
-Title#0,"""Side Tasks"""
-text0001#0,"""Side Tasks are Tasks that become available as you progress through the main story.<br><br>You can accept these Tasks from ARKS around the City. An icon will appear over their heads when they have Tasks available."""
-text0002#0,"""The ARKS Training Instructor, Liu Mei, has Tasks whose <yellow>clear status is reset every <utcdow>Wed. 2:00</utcdow><c>.<br>A Task's clear status resetting allows you to accept and complete it again."""
+Title#0,"""サイドタスク"""
+text0001#0,"""“サイドタスク”は、<br>メインストーリーを進めることで発生する“タスク”です。<br><br>頭上にアイコンが表示されている、<br>シティにいるアークスなどから、<br>依頼を受けることでタスクが進行します。"""
+text0002#0,"""アークス訓練教官のリアメイから受注できるサイドタスクは、<br><yellow>毎週<utcdow>水曜日2:00</utcdow>にクリア状態がリセットされるタスク<c>です。<br>クリア状態がリセットされたタスクは、再び受注することが可能です。"""

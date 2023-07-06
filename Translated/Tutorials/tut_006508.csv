@@ -1,4 +1,4 @@
-Title#0,"""The Treasure Shop"""
-text0001#0,"""The Treasure Shop is a special shop which sells rare items. Its stock rotates every day.<br><br>You can access the Treasure Shop by opening the Main Menu and selecting Shops. There are two kinds of Treasure Shop:<br><br>・N-Meseta<pict reb_meseta><br>・Star Gems<pict StarGem>"""
-text0002#0,"""The product lineup is automatically updated once per day, but if you want to see other products right away, you can update it manually.<br><br>Manual updates are subject to the following limits:<br><br>・One free update per day<br>・One additional free update per day if you have an active Premium Set<br>・Three additional updates per day, each of which costs <pict StarGem>Star Gems"""
-text0003#0,"""The Treasure Shop's products include valuable items that you can't get anywhere else, so be sure to check it every day."""
+Title#0,"""トレジャーショップ"""
+text0001#0,"""“トレジャーショップ”は、<br>めずらしい商品が日替わりで販売される、特別なショップです。<br><br>“メインメニュー”の“ショップ”からアクセスが可能で、<br>以下のとおり２種類のショップが存在します。<br><br>・“N-メセタ<pict reb_meseta>”で購入可能なショップ<br>・“スタージェム<pict StarGem>”で購入可能なショップ"""
+text0002#0,"""商品ラインナップは、1日1回、自動で更新されますが、<br>ほかの商品をすぐに見たい場合は、手動でも更新可能です。<br><br>手動更新には、以下のように1日あたりの上限があります。<br><br>・1日1回まで無料<br>・“プレミアムセット”有効期間内なら、追加で1日1回無料<br>・“スタージェム<pict StarGem>”消費で、追加で1日3回更新可能"""
+text0003#0,"""トレジャーショップには、ほかでは手に入らない<br>貴重なアイテムがラインナップされることもありますので、<br>毎日のぞいてみましょう。"""

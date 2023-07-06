@@ -1,2 +1,2 @@
-Title#0,"""Equipping Armor"""
-text0001#0,"""To equip armor:<br>\u3000From the <swguidetype T_MainMenu> Main Menu<br>\u3000select <yellow>\""Equipment/Palette\""<c><br>\u3000then <yellow>\""Equip Armor\""<c>.<br>\u3000Choose a slot, and pick the armor<br>\u3000to equip to it from the list."""
+Title#0,"""防具装備"""
+text0001#0,"""防具装備：<br>\u3000<swguidetype T_MainMenu>でメインメニューを開き<br>\u3000<yellow>\""装備/サブパレット\""<c>から<br>\u3000<yellow>\""防具装備\""<c>を選択し<br>\u3000空いている“スロット”に<br>\u3000<yellow>“候補リスト”<c>の防具を装備"""
