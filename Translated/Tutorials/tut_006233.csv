@@ -1,2 +1,2 @@
-Title#0,"""サブパレットのカスタマイズ"""
-text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<br><yellow>“装備/サブパレット”<c>から<yellow>“サブパレット”<c>を<br>選択すると、サブパレットをカスタマイズできます。<br><br>セットしたい“スロット”を選択すると、<br>一覧からアイテムやクラススキルなどを登録できます。"""
+Title#0,"""Subpalette Customization"""
+text0001#0,"""You can customize your Subpalette by opening the Main Menu with <swguidetype T_MainMenu>, selecting <yellow>\""Equipment/Palette\""<c>, then selecting <yellow>\""Subpalette\""<c>.<br><br>Select the slot you want to edit to bring up a list of items, Class Skills and so on that you can register."""

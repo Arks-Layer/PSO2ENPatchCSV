@@ -1,4 +1,4 @@
-Title#0,"""クイックメニューのカスタマイズ"""
-text0001#0,"""“クイックメニューのカスタマイズ”は、<br>クイックメニューに表示する項目を変更できる機能です。<br><br>クイックメニューにて、“<%MultiSelect>でパターン切り替え/編集”を開き、<br>“パターン選択”のメニューから、パターン変更やパターン名編集ができます。"""
-text0002#0,"""“パターン詳細”のメニューから<br>各項目の並び替え、追加、変更ができます。"""
-text0003#0,"""“分類”をリストに追加すると、<br>青い文字で項目を区分けすることができます。<br><br>クイックメニューをより使いやすく、<br>自由にカスタマイズしましょう。"""
+Title#0,"""Quick Menu Customization"""
+text0001#0,"""\""Quick Menu Customization\"" is a feature that allows you to change the options available to you in the Quick Menu.<br><br>With the Quick Menu open, use <%MultiSelect> to access the \""Edit/Change Pattern\"" option. You can then use the \""Select Pattern\"" menu to change your Pattern or edit your Pattern's name."""
+text0002#0,"""You can use the \""Pattern Details\"" menu to add, remove and rearrange items in your Pattern."""
+text0003#0,"""You can also add Categories to the list, which separate your items with blue labels.<br><br>Customize your Quick Menu however you like, and make it as easy as possible to get to the functions you use most."""

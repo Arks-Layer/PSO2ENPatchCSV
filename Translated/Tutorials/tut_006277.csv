@@ -1,2 +1,2 @@
-Title#0,"""メインパレットのカスタマイズ"""
-text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<br><yellow>“装備/サブパレット”<c>から<br><yellow>“武器装備”<c>を選択すると、<br>武器パレットに<yellow>武器やPA、テクニック、<br>クラススキルなどを登録<c>できます。<br><br>それぞれのパレットには、<yellow>６つのアクションを登録<c>できます。"""
+Title#0,"""Main Palette Customization"""
+text0001#0,"""To customize your Main Palette with weapons, PAs, Techniques, Class Skills etc, open the <swguidetype T_MainMenu> Main Menu and select \""Equipment/Palette\"", then \""Equip Weapons\"".<br><br>Each Weapon Palette can have <yellow>6 actions<c> registered to it."""

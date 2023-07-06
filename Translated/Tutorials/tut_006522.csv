@@ -1,3 +1,3 @@
-Title#0,"""トレジャーショップ<pict 4space><pict reb_meseta>"""
-text0001#0,"""“トレジャーショップ<pict 4space><pict reb_meseta>”の商品は、<br>N-メセタ<pict 4space><pict reb_meseta>で購入できます。<br><br>それぞれ、冒険に役立つアイテムのほか、<br>めずらしい商品が陳列される場合がありますが、<br><yellow>購入できる個数<c>には限りがあります。<br><br>また、プレミアムセット有効時のみ購入可能な商品もあります。"""
-text0002#0,"""商品ラインナップは、１日１回、自動で更新されますが、<br>手動ですぐに更新することもできます。<br><br>手動による更新には、以下の回数制限があります。<br><br>・１日１回無料<br>・“プレミアムセット”有効期間内なら、追加で１日１回無料<br>・“SG<pict 4space><pict StarGem>”消費で、追加で１日３回更新可能"""
+Title#0,"""The Treasure Shop<pict reb_meseta>"""
+text0001#0,"""The Treasure Shop<pict reb_meseta> lets you spend <pict reb_meseta>N-Meseta on its products.<br><br>Useful items will be available, and you may also see rare items on sale. However, <yellow>the amount you will be able to purchase is limited<c>.<br><br>Some items can only be purchased if you have an active Premium Set."""
+text0002#0,"""The product lineup is automatically updated once per day, but if you want to see other products right away, you can update it manually.<br><br>Manual updates are subject to the following limits:<br><br>・One free update per day<br>・One additional free update per day if you have an active Premium Set<br>・Three additional updates per day, each of which costs <pict StarGem>Star Gems"""

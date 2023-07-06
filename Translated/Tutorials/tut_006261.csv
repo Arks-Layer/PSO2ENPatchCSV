@@ -1,4 +1,4 @@
-Title#0,"""倉庫"""
-text0001#0,"""“倉庫”は、多くのアイテムを保管できる設備です。<br>アイテムパックに持ちきれないアイテムを収納できます。<br><br>“キャラ倉庫”“プレミアム倉庫”などの<br>利用条件がある倉庫もあります。<br>"""
-text0002#0,"""“倉庫”には、ACまたはSGでの買い切りやレンタルにて<br>利用可能になるタイプのものがあります。<br>詳しくは、各倉庫メニューをご確認ください。<br><br><yellow>※『PSO2』アイテムパックは、<br>セントラルシティ等にある倉庫端末からのみ利用可能です。<c>"""
-text0003#0,"""アイテムパックやドロップ一時倉庫、素材倉庫の<yellow>空き容量がない<c>場合、<br>アイテムを獲得しても、<yellow>自動的に破棄<c>されます。<br><br><yellow>※素材アイテムは、素材倉庫、ドロップ一時倉庫の順に送られ、<br>\u3000それぞれの空き容量がない場合は、自動的に破棄されます。<br>※素材倉庫の利用には、SGショップで購入可能なチケットが必要です。<c>"""
+Title#0,"""Storage"""
+text0001#0,"""Storage is a facility that can hold a large number of items.<br>You can use it to store items that you can't fit in your Inventory.<br><br>Some kinds of Storage have conditions attached to their use, such as Character Storage and Premium Storage.<br>"""
+text0002#0,"""Some kinds of Storage must be rented for an AC or SG cost.<br>For further details, please check the Storage menu.<br><br><yellow>※The [PSO2] Inventory can only be accessed from Storage Terminals in Central City.<c>"""
+text0003#0,"""If there is <yellow>no free space<c> in your Inventory, Drop Storage or Material Storage, then any items you do manage to obtain will be <yellow>automatically destroyed<c>.<br><br><yellow>※Material items are first sent to your Material Storage, then your Drop Storage. If there is no space in either, they are automatically discarded.<br>※To use Material Storage, you will need a ticket, which can be purchased at the SG Shop.<c>"""

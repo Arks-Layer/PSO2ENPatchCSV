@@ -1,2 +1,2 @@
-Title#0,"""サブパレットの切り替え"""
-text0001#0,"""“サブパレット”も、複数のパレットを切り替えて利用できます。<br>メインパレットを（<%PaletteReverse><pict 4space>または<pict 4space><%PaletteForce>）で表示したうえで、<br>以下の操作で切り替えができます。<br><br>・サブパレットを表示する：<%SubPaletteLeft><pict 4space>または<pict 4space><%SubPaletteRight><br>・サブパレットを切り替える：<%PaletteReverse><pict 4space>または<pict 4space><%PaletteForce><pict 4space>で移動<br>・サブパレットを決定する：決定（切り替える）：<%Decide>"""
+Title#0,"""Switching Subpalettes"""
+text0001#0,"""You have access to multiple Subpalettes that you can switch between whenever you like.<br>To switch Subpalette, open the Main Palette list with <%PaletteReverse>/<%PaletteForce>, then follow the following steps:<br>・Switch to the Subpalette list (<%SubPaletteLeft>/<%SubPaletteRight>)<br>・Cycle through your Subpalettes (<%PaletteReverse>/<%PaletteForce>)<br>・Select a Subpalette to use (<%Decide>)"""

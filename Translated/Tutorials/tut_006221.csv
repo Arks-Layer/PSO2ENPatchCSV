@@ -1,3 +1,3 @@
-Title#0,"""コンテナ"""
-text0001#0,"""各地に置かれたアイテムコンテナは、<br>攻撃して破壊すると、格納されたアイテムを入手できます。"""
-text0002#0,"""コンテナには、<br><yellow>“緑”、“金”、“赤”<c>の３種類が存在します。<br><br>“金”、“赤”は希少なコンテナで、<br>特に“赤”は、１アカウントにつき限られた個数のみ出現し、<br>貴重なアイテムを入手できます。"""
+Title#0,"""Containers"""
+text0001#0,"""There are Item Containers placed all over the world.<br>If you attack and destroy them, you can obtain the items contained inside."""
+text0002#0,"""There are 3 types of Containers: <yellow>Green<c>, <yellow>Gold<c> and <yellow>Red<c>.<br><br>Gold and Red Containers are rare Containers.<br>Red is particularly rare, as only a limited number will appear per account.<br>If you break them, you can obtain valuable items."""

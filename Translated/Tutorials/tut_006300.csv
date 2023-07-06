@@ -1,2 +1,2 @@
-Title#0,"""クエスト一時倉庫"""
-text0001#0,"""“クエスト一時倉庫”は、一部のクエストで<br>進行中に獲得したアイテムが送られる倉庫です。<br><br>倉庫に送られたアイテムは、<br>クエストクリア時にまとめて受け取ることができます。"""
+Title#0,"""Quest Storage"""
+text0001#0,"""Quest Storage is a type of Storage to which items you acquire during certain Quests will be sent.<br><br>Items sent to Quest Storage can be received after clearing the Quest."""

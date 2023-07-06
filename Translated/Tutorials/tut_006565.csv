@@ -1,4 +1,4 @@
-Title#0,"""ゾンネル破壊トライアル"""
-text0001#0,"""プレイヤーを攻撃する自動要撃機<yellow>“ゾンネル”<c>を<br>破壊するトライアルです。<br><br>ゾンネルはシールドに護られているため、<br>周囲の<yellow>“ダズルポッド”<c>をすべて破壊してシールドを解除し、<br>ゾンネルを破壊するとクリアになります。"""
-text0002#0,"""ダズルポッドは視認が困難ですが、光と音を発しており、<br>アクティブソナーにも反応します。<br><br><yellow>“コントロールポッド”<c>を破壊するか、<br>一定数のダズルポッドを破壊することで、<br>ダズルポッドの認識阻害機能が解除され、<br>レーダーマップに表示されるようになります。"""
-text0003#0,"""トライアルクリア後は、ゾンネルを攻撃することで<br>鉱石等のアイテムを入手できます。"""
+Title#0,"""Sonner Destruction Trials"""
+text0001#0,"""In these Trials, your objective is to destroy a <yellow>Sonner<c>, an automatic interceptor which targets players.<br><br>The Sonner is protected by a shield. To remove the shield, you must destroy all the <yellow>Dazzle Pods<c> around it. Once the shield is down, destroy the Sonner to clear the Trial."""
+text0002#0,"""Dazzle Pods are difficult to see, but give off strong light and heat, and can also be detected by Active Sonar.<br><br>Destroying a <yellow>Control Pod<c> or enough of the Dazzle Pods will reveal all Dazzle Pods on your radar map."""
+text0003#0,"""After clearing the Trial, you can attack the Sonner to obtain items, such as Ores."""

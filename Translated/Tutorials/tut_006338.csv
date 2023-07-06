@@ -1,3 +1,3 @@
-Title#0,"""エンハンスドエネミー"""
-text0001#0,"""エネミーの中には、<br>“エンハンサー”という自身を強化する部位を持った個体がいます。<br><br>このタイプのエネミーの本体には、攻撃がほとんど効きません。"""
-text0002#0,"""エンハンサーを破壊することでエネミーが弱体化し、<br>本体への攻撃が有効になります。"""
+Title#0,"""Enhanced Enemies"""
+text0001#0,"""Some enemies have a boosting part called an \""Enhancer\"" attached to them.<br><br>The bodies of these enemies are virtually immune to most attacks."""
+text0002#0,"""Destroying the Enhancer will weaken the boosted enemy, and will make its body vulnerable to attacks again."""

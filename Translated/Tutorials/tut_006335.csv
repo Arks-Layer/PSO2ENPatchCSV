@@ -1,3 +1,3 @@
-Title#0,"""チャレンジ設定：コクーン／タワー"""
-text0001#0,"""“チャレンジ設定”は、<br>クエストの難度を任意に調整できる機能です。<br><br>一定の条件を満たした状態で、<br>クエストをクリアすると<yellow>称号<c>が獲得できます。<br><br>このチャレンジ設定は、<br><yellow>一部のコクーン、タワーの一定のランクのみ対応<c>しています。"""
-text0002#0,"""チャレンジ設定はパーティーリーダーが選択したものが、<br>有効となります。"""
+Title#0,"""Challenge Settings: Cocoons/Towers"""
+text0001#0,"""Challenge Settings are a system that allows you to adjust the difficulty of a Quest as you see fit.<br><br>You can obtain <yellow>Titles<c> by clearing certain Quests under specific conditions.<br><br>Challenge Settings are only supported by <yellow>some Cocoons and some Tower Ranks<c>."""
+text0002#0,"""Challenge Settings selected by the Party Leader will apply to everyone."""

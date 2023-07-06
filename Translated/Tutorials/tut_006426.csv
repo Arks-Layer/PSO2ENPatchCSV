@@ -1,3 +1,3 @@
-Title#0,"""シーズンエネミー"""
-text0001#0,"""シーズナルイベント期間中は、<br>特定のセクションに行くと特殊な模様のついた<br>通常とは弱点属性の異なる<yellow>“シーズンエネミー”<c>が出現します。<br><br>これらのエネミーや、<br>通常とは見た目や名前の異なるラッピーを倒すと、<br>期間限定のアイテムや<yellow>“シーズナルポイント”<c>を獲得できます。"""
-text0002#0,"""なお、シャンディーからの依頼にある<yellow>“ナイトシフト”<c>とは、<br><yellow>“アルターズ”<c>と呼ばれるエネミーの<yellow>夜間の状態<c>を指します。<br><br>“アルターズ”は、昼夜で外見や性質が変化し、<br>これらを“デイナイトシフト（デイシフト/ナイトシフト）”と称します。"""
+Title#0,"""Seasonal Enemies"""
+text0001#0,"""During this Seasonal Event, some enemies in some Sections will have a special marking on them, and their Attribute weakness will be different from usual. In addition, all Rappies will have their names and appearances changed. These are known as <yellow>Seasonal Enemies<c>.<br><br>If you defeat them, you can earn <yellow>Seasonal Points<c>, as well as limited-time items."""
+text0002#0,"""The <yellow>\""Night Shift\""<c> Xiandy mentions refers to the <yellow>night-time state<c> of the enemies known as <yellow>\""Alters\""<c>.<br><br>Alters have different appearances and properties between day and night, and this change is known as \""Daynight Shift\"" (separately, Day Shift and Night Shift)."""

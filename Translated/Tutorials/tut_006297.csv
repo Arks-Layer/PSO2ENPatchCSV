@@ -1,2 +1,2 @@
-Title#0,"""天候"""
-text0001#0,"""天候は、時間経過により“晴れ”、“雨”、“雷雨”などに変化します。<br>\u3000<br>そのときの天候によって一部エネミーの強さが変わります。<br>\u3000<br>特に、“雷雨”のような悪天候のときは、<br>とても強力なエネミーが出現することがあります。<br>\u3000<br>特定の天候になると、時刻表示の中央のアイコンが変化します。"""
+Title#0,"""Weather"""
+text0001#0,"""The weather in the field will change over time. You may encounter conditions like sunny weather, rain or even thunderstorms.<br><br>Some enemies are capable of being strengthened by specific weather.<br><br>During particularly bad weather such as thunderstorms, very powerful enemies can appear."""

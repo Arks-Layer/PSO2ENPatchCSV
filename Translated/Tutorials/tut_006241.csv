@@ -1,4 +1,4 @@
-Title#0,"""フォース"""
-text0001#0,"""“フォース”は、<br>遠距離からのテクニック攻撃でエネミーの弱点属性をつき、<br>“属性ダウン”を積極的に狙えるクラスです。"""
-text0002#0,"""また、PPを回復するクラススキルを習得できるため、<br>豊富なPPを活かし、遠距離から攻撃し続けることができます。<br><br>習得可能なクラススキルのうち、一部をご紹介します。"""
-text0003#0,"""クラススキル<yellow>“PPコンバート”<c>は、<br>“サブパレット”に登録して使用することで、<br>発動時に、最大HPを基準とした一定割合のHPを消費するかわりに、<br>一定時間、PPの自然回復量が大きく増加します。<br><br>一時的に最大PPが増加するクラススキル<yellow>“フォトンフレア”<c>と<br>合わせて使うことで、短時間に大きなダメージを与えられます。"""
+Title#0,"""Force"""
+text0001#0,"""Force is a class that focuses on causing \""Attribute Down\"" phases in enemies by targeting their Attribute weaknesses with long-range Techniques."""
+text0002#0,"""Its Class Skills give it additional ways to recover PP, letting it keep its distance from enemies to keep up the pressure with Techniques."""
+text0003#0,"""<yellow>\""PP Convert\""<c> is an Active Skill that consumes HP, but boosts PP regeneration for a set time when activated.<br><br>When used in conjunction with the Class Skill <yellow>\""Photon Flare\""<c>, which temporarily boosts maximum PP, it allows you to deal a large amount of damage in a short period of time."""

@@ -1,2 +1,2 @@
-Title#0,"""フォトンブラスト"""
-text0001#0,"""サブパレット選択：<br>\u3000<%SubPaletteLeft><pict 4space><%SubPaletteRight><br>サブパレット実行：<br>\u3000<%SubPalette><br>"""
+Title#0,"""Photon Blasts"""
+text0001#0,"""Select a Subpalette slot:<br>\u3000<%SubPaletteLeft>/<%SubPaletteRight><br>Activate selected slot:<br>\u3000<%SubPalette><br>"""

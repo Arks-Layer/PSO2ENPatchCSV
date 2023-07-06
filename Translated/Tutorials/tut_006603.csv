@@ -1,4 +1,4 @@
-Title#0,"""シーズナルイベント"""
-text0001#0,"""<yellow>“シーズナルイベント”<c>は、<br>特定の期間に開催されるイベントです。<br><br>期間中は、マップやエネミーの見た目などが変化するほか、<br>期間限定ラッピーが登場します。"""
-text0002#0,"""シーズナルイベント期間中は、<yellow>各アークス拠点<c>に、<br>アークス技術開発部員の<yellow>シェミー<c>が出現します。<br><br>シェミーからは、<yellow>“期間限定タスク”<c>を受注したり、<br><yellow>“シーズナルポイント”<c>などでアイテムを交換することができます。"""
-text0003#0,"""シーズナルイベント期間中は、<br>イベント用の<yellow>“デイリー/ウィークリータスク”<c>が追加されます。<br><br>シーズナルイベントの詳細は、シェミーにアクセスし、<br><yellow>“シーズナルイベントについて聞く”<c>を選択することで<br>確認できます。"""
+Title#0,"""The Seasonal Event"""
+text0001#0,"""<yellow>Seasonal Events<c> are special events that only last for a limited time.<br><br>During these events, the map and the appearance of some enemies will change, and limited-time Rappies will appear."""
+text0002#0,"""During this Seasonal Event, the ARKS Technology R&D Member, <yellow>Xiemmy<c>, appears <yellow>in all ARKS bases<c>.<br><br>Xiemmy will offer you <yellow>Limited Time Tasks<c>, and will also trade items in exchange for <yellow>Seasonal Points<c>."""
+text0003#0,"""During this Seasonal Event, there will be additional Event-related <yellow>Daily/Weekly Tasks<c>.<br><br>To learn more about Seasonal Events, talk to Xiemmy and select <yellow>\""Learn about the Seasonal Event\""<c>."""

@@ -1,4 +1,4 @@
-Title#0,"""特別演習：グリーンヒルスプリント"""
-text0001#0,"""“特別演習：グリーンヒルスプリント”は、“クエストポイント”を<br>より多く獲得して、ボスエネミー討伐を目指すクエストです。<br><br>クエストクリア時に、クエストポイントの総合評価が発表されます。<br>クエストを一緒にプレイしたプレイヤーの中で、順位が高いほど<br>より多くの報酬を獲得できます。"""
-text0002#0,"""“リング”や“カオスエメラルド”は、入手するほどプレイヤー全員に<br>最大HP上昇やクリティカル率上昇、攻撃威力上昇などの有利な効果が<br>発生するほか、入手時にクエストポイントを獲得できます。<br><br>また、カオスエメラルドを入手したプレイヤーは、<br>その数に応じて、以降のクエストポイント獲得量が増加します。"""
-text0003#0,"""クエストポイントは、エネミーに最後の一撃を与えても獲得可能で、<br>金・銀のエネミーは通常より高いポイントを獲得できます。<br>ただし、ボスエネミーの場合は、与えたダメージ量に応じたポイントを<br>撃破時に獲得できます。<br><br>また、遠くにいるエネミーを撃破した場合は、<br>クエストポイント獲得量が減少します。"""
+Title#0,"""Special Exercise: Green Hill Sprint"""
+text0001#0,"""Special Exercise: Green Hill Sprint is a Quest in which your objective is to earn as many Quest Points as possible and defeat the boss at the end.<br><br>When the Quest is cleared, the Quest Points earned by each participant will be announced. The higher you rank amongst the participants, the more rewards you will earn."""
+text0002#0,"""Rings and Chaos Emeralds are given to all players when they're obtained. In addition to giving Quest Points when obtained, they grant various beneficial effects such as increased maximum HP, increased Critical Hit Rate and boosted Attack Power.<br><br>Players who obtain Chaos Emeralds will also receive bonus Quest Points at the end of the Quest based on how many they acquired."""
+text0003#0,"""Quest Points can also be earned by dealing the final hit to an enemy. Gold and Silver enemies reward more Quest Points than normal.<br>However, boss enemies award Quest Points to all players when they're defeated, based on the damage each player dealt.<br><br>Defeating enemies far away from you will earn you reduced Quest Points."""

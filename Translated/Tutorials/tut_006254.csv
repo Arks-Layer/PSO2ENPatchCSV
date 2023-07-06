@@ -1,3 +1,3 @@
-Title#0,"""導具（タリス）"""
-text0001#0,"""“導具（タリス）”は、<br>PA発動後、しばらく空中にタリスの陣形が展開され、その状態で<br>テクニックを発動すると、特殊弾で攻撃できる遠距離武器です。<br><br>展開される陣形は、PAによって変化します。"""
-text0002#0,"""PA“パーフォレイトシュート”は、<br>前方にフォトンの弾を発射し、さらにタリスを展開します。<br><br>タリス展開中にテクニックを使用した場合、<br>そのテクニックと同じ属性のフォトン弾を発射します。"""
+Title#0,"""Talis"""
+text0001#0,"""A Talis is a long-range weapon that you can deploy by using one of its PAs. Once it's deployed, you can fire special bullets by casting Techniques.<br><br>The form it deploys in depends on which PA you use."""
+text0002#0,"""The PA \""Perforated Shoot\"" fires a Photon bullet, then deploys the Talis in a forward-facing form.<br><br>If you cast a Technique with the Talis deployed, the Talis will fire a Photon bullet with the same Attribute as that Technique."""

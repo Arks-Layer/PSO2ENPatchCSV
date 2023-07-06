@@ -1,4 +1,4 @@
-Title#0,"""緊急クエストの受注"""
-text0001#0,"""緊急クエストは、<br>クエストが発生するセクションに移動し、<br><%Access><yellow>を長押し<c>することで受注できます。"""
-text0002#0,"""または、メインメニューの<yellow>“ワールド”<c>から、<br>ワールドマップを開き、<br>赤いマーカーを選択することでも受注できます。"""
-text0003#0,"""<yellow>緊急クエストを受注するには、一定値以上の戦闘力が必要です。<c><br><br>緊急クエストの発生時に、画面上部に流れるアナウンスや、<br>クエスト情報のウィンドウで必要戦闘力を確認できます。"""
+Title#0,"""Starting Emergency Quests"""
+text0001#0,"""You can begin an Emergency Quest by traveling to the Section in which the Quest is located, then <yellow>pressing and holding the <%Access> button<c>."""
+text0002#0,"""Alternatively, you can open the World Map by selecting <yellow>\""World\""<c> from the Main Menu, then select the red marker to begin an Emergency Quest."""
+text0003#0,"""<yellow>Before you can begin an Emergency Quest, your Power Level must be high enough.<c><br><br>When an Emergency Quest occurs, you can see the Power Level needed from the Quest Information window or from the announcement scrolling across the top of the screen."""

@@ -1,3 +1,3 @@
-Title#0,"""ブレイバー"""
-text0001#0,"""“ブレイバー”は、<br>カタナによる近接攻撃とバレットボウによる遠距離攻撃を使い分け、<br>さまざまな局面に対応できる、バランスのとれたクラスです。<br><br>習得可能なクラススキルのうち、一部をご紹介します。"""
-text0002#0,"""クラススキル<yellow>“ブレイブコンバット”<c>は、<br>“サブパレット”に登録して使用することで、<br>一定時間、PP消費量が減少し、攻撃時のPP回復量が増加します。<br><br>また、スキルの発動中に再度使用することで、<br>強力なフィニッシュ攻撃が発生します。"""
+Title#0,"""Braver"""
+text0001#0,"""Braver is a well-balanced class that can handle a wide variety of situations, using its Katana for melee attacks and its Bullet Bow for long-range combat."""
+text0002#0,"""<yellow>\""Brave Combat\""<c> is a Class Skill that can be used by registering it to the Subpalette. When used, it reduces your PP consumption and boosts the PP you recover from attacks for a set time.<br><br>If you use the skill again while it is already active, you will perform a powerful finishing move."""

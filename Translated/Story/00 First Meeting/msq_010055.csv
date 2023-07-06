@@ -1,4 +1,4 @@
-name010#0,"""マノン"""
-text030#0,"""戦いで傷ついたときのために、<br>あなたも集めておくといいわね。"""
-Text_Access#0,"""レスタサインをとる："""
+name010#0,"""Manon"""
+text030#0,"""You should gather some too, they're great for healing your injuries."""
+Text_Access#0,"""Pick up Resta Sign:"""
 Button_Access#0,"""<%Access>"""

@@ -1,4 +1,4 @@
-Title#0,"""ハンター"""
-text0001#0,"""“ハンター”は、<br>“ガード”や“ステップ”などを駆使して敵の攻撃をかいくぐり、<br>“カウンター”によって大ダメージを与えられるクラスです。<br><br>習得可能なクラススキルのうち、一部をご紹介します。"""
-text0002#0,"""クラススキル<yellow>“マッシブハンター”<c>は、<br>一定時間受けるダメージを低減し、吹き飛ばし攻撃も無効化します。<br><br>“サブパレット”に登録し、強力なエネミーと戦う際に使用すると、<br>有利に戦闘できます。"""
-text0003#0,"""また、クラススキル<yellow>“ハンターアーツアヴェンジ”<c>は、<br>“PA（フォトンアーツ）”を放つ瞬間に敵の攻撃を受けると<br>そのPAの威力を上昇させることができます。"""
+Title#0,"""Hunter"""
+text0001#0,"""Hunter is a class that uses \""Guard\"" and \""Step\"" to evade enemy attacks and deal massive damage back to them with \""Counters\""."""
+text0002#0,"""<yellow>\""Massive Hunter\""<c> is an Active Skill that reduces damage taken and nullifies knockback for a set time when used.<br><br>Register it to your Subpalette so you can use it when fighting powerful enemies."""
+text0003#0,"""<yellow>\""Hunter Art Avenge\""<c> boosts the damage of any PA (Photon Art) if you get hit by an enemy attack at the moment that you use it."""

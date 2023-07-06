@@ -1,2 +1,2 @@
-Title#0,"""地形のアップ/ダウン"""
-text0001#0,"""地形を盛り上げたり、掘り下げたりしたい時は、<br>ビルドメニューの“ビルドコマンド”から<yellow>“地形のアップ/ダウン”<c>を<br>選択すると、地形にマーカーが表示されます。<br><br>マーカーが表示されている地形には、以下の操作が可能です。<br><br>・地形を盛り上げる：<%NormalAttack><br>・地形を掘り下げる：<%PhotonArts>"""
+Title#0,"""Terrain Up/Down"""
+text0001#0,"""If you want to raise the earth or dig deep in your Creative Space, open the Build Menu and select <yellow>Terrain Up/Down<c> from the Build Commands at the top.<br><br>A marker will be displayed in front of your character. You can perform the following operations on terrain within the marker:<br><br>・Raise terrain: <%NormalAttack><br>・Lower terrain: <%PhotonArts>"""

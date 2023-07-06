@@ -1,4 +1,4 @@
-Title#0,"""エアリオの遊撃任務"""
-Summary#0,"""セントラルシティ南門の門番ナンデルから、<br>さらに実戦経験を積むために、<br>マグナス山とヴァンフォード研究所跡の<br>ハイランクセクションでの<br>エネミー討伐を勧められる。<br><br><yellow>※対象セクションランク：Rank.2以上<c>"""
-text0101#0,"""マグナス山(Rank.2以上)でエネミーを倒す"""
-text0102#0,"""研究所(Rank.2以上)でエネミーを倒す"""
+Title#0,"""Aelio Blitz"""
+Summary#0,"""The gatekeeper of Central City's Southern Gate, Nandel, recommends you defeat high-ranked enemies at Mt. Magnus and Vanford Laboratory Ruins to gain more field experience.<br><br><yellow>※Target Section Rank: Rank 2 or above<c>"""
+text0101#0,"""Defeat enemies at Mt. Magnus (High Rank)"""
+text0102#0,"""Defeat enemies at Vanford Lab. Ruins (High Rank)"""

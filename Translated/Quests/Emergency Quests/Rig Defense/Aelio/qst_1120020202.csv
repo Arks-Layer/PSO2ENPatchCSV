@@ -1,4 +1,4 @@
-name010#0,"""ラン"""
-text001#0,"""エネミーの第一波を防ぎました。"""
-text002#0,"""激しい戦闘によって励起されたフォトンが<br><pure_red>コレクトサイン<c>として周囲に顕在化します。"""
-text003#0,"""エネミーを殲滅しつつ、回収してください。"""
+name010#0,"""Ran"""
+text001#0,"""You've repelled the first Wave of enemies."""
+text002#0,"""You should have noticed that Photons have become excited by your battle, and are crystallizing in the form of <pure_red>Collect Signs<c>."""
+text003#0,"""Try to collect them as you battle the enemy."""

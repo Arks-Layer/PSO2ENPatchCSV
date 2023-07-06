@@ -1,3 +1,3 @@
-Title#0,"""イコライジングエネミー"""
-text0001#0,"""“イコライジングエネミー”には、<br>周囲のエネミーを強化する能力があります。<br><br>強化されてしまったエネミーには、<br>ダメージをほとんど与えられなくなります。"""
-text0002#0,"""イコライジングエネミーを撃破することで<br>周囲の強化されていたエネミーは弱体化され、<br>大きなダメージを与えられるようになります。"""
+Title#0,"""Equalizing Enemies"""
+text0001#0,"""Equalizing Enemies have the ability to strengthen other nearby enemies.<br><br>Enemies that have been strengthened by Equalizing Enemies will take almost no damage."""
+text0002#0,"""Defeating Equalizing Enemies will weaken all the nearby enemies that they have strengthened, allowing you to deal increased damage to them."""

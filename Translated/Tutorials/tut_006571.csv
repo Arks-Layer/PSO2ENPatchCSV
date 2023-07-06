@@ -1,2 +1,2 @@
-Title#0,"""エクスプローシブデコイ"""
-text0001#0,"""<yellow>“エクスプローシブデコイ”<c>にアクセスすると、“投擲アクション”で<br>オブジェクトを“投げる”ことができます。<br><br>エクスプローシブデコイを投げると、<br>エネミーの注意を引き付けるデコイが前方に設置されます。<br><br>一定時間経過すると、デコイは爆発し、<br>周囲のエネミーに弱点属性のダメージを与えます。"""
+Title#0,"""Explosive Decoys"""
+text0001#0,"""<yellow>Explosive Decoys<c> are devices which can be picked up and thrown by accessing them.<br><br>Throwing an Explosive Decoy will set up a decoy that attracts enemy attention.<br><br>The decoy will explode after a set time, dealing damage to nearby enemies of their Attribute weakness."""

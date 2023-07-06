@@ -1,4 +1,4 @@
-Title#0,"""アークス建築研究員からの依頼"""
-Summary#0,"""<%me>は、<br>アークス建築研究員のアーチェから、<br>通信を受ける。<br><br>彼女は、リューカーデバイスから移動できる<br>誰も知らない場所について、<br>話がしたいという。"""
-text0101#0,"""アーチェと話す"""
-text0102#0,"""自分のクリエイティブスペースに向かう"""
+Title#0,"""A Request from the Architectural Researcher"""
+Summary#0,"""<%me> receives a message from Arche, the ARKS Architectural Researcher.<br><br>She wants to talk about a place she can travel to from the Ryuker device, a place that nobody else knows about."""
+text0101#0,"""Talk to Arche"""
+text0102#0,"""Go to your Creative Space"""

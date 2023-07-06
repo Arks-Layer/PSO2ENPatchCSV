@@ -1,4 +1,4 @@
-Title#0,"""素材倉庫"""
-text0001#0,"""“素材倉庫”は、ギャザリング素材や、<br>“N-グラインダー”、“特殊能力カプセル”などの<br>素材アイテムを保管できる、大容量の倉庫です。"""
-text0002#0,"""素材倉庫は、<yellow>“SGショップ”<c>で販売している<br>チケットアイテムを購入し、使用することで、<br>一定期間利用できます。"""
-text0003#0,"""素材倉庫の利用期間中、入手した素材アイテムは<br>自動的に素材倉庫へ送られます。<br><br>※自動送り機能を使用したくない場合は、<br>\u3000オプションの“ゲームプレイ”タブにある<br>“素材倉庫への自動送り”で“使用しない”を選択してください。<br>※素材アイテムは“素材倉庫”、“ドロップ一時倉庫”の順に送られ、<br>\u3000<yellow>それぞれの空き容量がない場合、獲得しても自動的に破棄されます。<c>"""
+Title#0,"""Material Storage"""
+text0001#0,"""Material Storage is a special high-capacity Storage that can hold things like Gathering Materials, N-Grinders and Special Ability Capsules."""
+text0002#0,"""Material Storage can be accessed for a limited time by purchasing and using a rental ticket from the <yellow>SG Shop<c>."""
+text0003#0,"""While you have access to Material Storage, material items you pick up are automatically sent to it.<br><br>※If you do not want to automatically send items to Material Storage, open the Options, select the Gameplay tab, then set \""Auto Material Storage\"" to \""Do not use\"".<br>※Material items are sent to Material Storage by preference, but are sent to Drop Storage if it is full. If both are full, <yellow>material items you pick up are automatically discarded.<c>"""

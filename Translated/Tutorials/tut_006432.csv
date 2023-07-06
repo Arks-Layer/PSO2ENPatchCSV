@@ -1,4 +1,4 @@
-Title#0,"""魔装脚（ジェットブーツ）"""
-text0001#0,"""“魔装脚（ジェットブーツ）”は、<br>力強い蹴り技と、空中での優れた機動性が特徴の近接武器で、<br>装備中はテクニックも併せて使用できます。<br><br>クラススキル“ジェットブーツエレメントセット”を習得すると、<br>テクニックを使用したときに、ジェットブーツに<br>同属性が付与されます。その状態でエネミーにPAを当てると、<br>属性に応じた追加攻撃が発生します。"""
-text0002#0,"""クラススキル“ジェットインテンシティ”は、<br>通常攻撃ボタンを長押しすることで、<br>徐々に攻撃速度が上昇する連続攻撃が発生するスキルです。<br>全段命中させることで強力なダメージを与えられます。<br><br>攻撃中は、回避などができなくなりますが、<br>エネミーがダウンしたときなどのチャンスに有効です。"""
-text0003#0,"""PA“スピニングガスト”は、<br>縦方向に回転しながら前進し、エネミー単体に攻撃を行います。<br><br>PAボタンを長押しすることで、PPを追加で消費するかわりに、<br>最終段の攻撃の挙動が強力な回し蹴りに変化します。"""
+Title#0,"""Jet Boots"""
+text0001#0,"""Jet Boots are melee weapons notable for their powerful kicks and high aerial maneuverability. You can use Techniques while you have them equipped.<br><br>The Class Skill \""Jet Boots Element Set\"" imbues your Jet Boots with an Attribute when you use a Technique. While imbued with an Attribute, your Jet Boots PAs will trigger an additional attack when striking enemies, based on that Attribute."""
+text0002#0,"""The Class Skill \""Jet Intensity\"" allows you to hold the Normal Attack button to perform a continual series of attacks which get faster over time. If you land every attack, you will deal a tremendous amount of damage.<br><br>You will not be able to evade attacks while using Jet Intensity, so it is best used when enemies are incapable of interrupting you, such as when they've been Downed."""
+text0003#0,"""The PA \""Spinning Gust\"" lets you move forward while spinning vertically, focusing your attack on a single enemy.<br><br>If you hold the PA button, you will consume a little extra PP, but the second half of the PA will become a powerful roundhouse kick."""

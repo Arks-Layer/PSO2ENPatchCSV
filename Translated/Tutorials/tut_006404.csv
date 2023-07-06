@@ -1,3 +1,3 @@
-Title#0,"""ハイランクセクション"""
-text0001#0,"""<yellow>“ハイランクセクション（Rank.2以上のセクション）”<c>は、<br>通常よりも難度の高い戦闘セクションで、<br>必要な“戦闘力”を満たしていることが参加条件となります。<br><br>通常よりもレベルの高いエネミーが出現しますが、<br>その分、良い報酬を狙うことができます。"""
-text0002#0,"""このハイランクセクションは、<br><yellow>メインタスクを進めること<c>でアクセスできるようになります。<br><br>条件を満たしたうえで、特定の戦闘セクションに直接進入するか、<br>リューカーデバイスやワールドマップから、<br><yellow>“Rank.2”以上<c>のセクションを選ぶことで参加できます。"""
+Title#0,"""High Rank Sections"""
+text0001#0,"""<yellow>\""High Rank Sections (Rank 2 and higher Sections)\""<c> are more difficult and dangerous Combat Sections. To enter them, you must meet their minimum Power Level requirement.<br><br>Enemies in High Rank Sections are higher-level than usual, but you can get better rewards for defeating them."""
+text0002#0,"""You can unlock access to High Rank Sections by <yellow>completing Main Tasks<c>.<br><br>You can enter a High Rank Section by either entering the Section after meeting the Power Level requirement, or by selecting it from a Ryuker Device or the World Map."""

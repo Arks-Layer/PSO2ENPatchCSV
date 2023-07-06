@@ -1,3 +1,3 @@
-Title#0,"""タスクのガイド情報"""
-text0001#0,"""<swguidetype T_MainMenu>でメインメニューを開き、<yellow>“タスク / クエスト”<c>から<br><yellow>“タスク”<c>を選択すると、受注しているタスクを確認できます。<br><br>“タスク一覧”からタスクを選択後、“ガイド情報を表示する”を<br>選択すると、目的地やエネミーを示すガイドが表示されます。"""
-text0002#0,"""“ガイド情報を表示する”を選択していない“タスク”でも、<br>条件を満たせば、達成になります。<br><br><yellow>※一部、ガイド情報が表示されないタスクもあります。<c>"""
+Title#0,"""Task Guide Information"""
+text0001#0,"""To check the tasks you have been assigned, open the Main Menu with <swguidetype T_MainMenu>, select <yellow>\""Tasks/Quest\""<c>, then select <yellow>\""Tasks\""<c>.<br><br>After selecting a Task trom the Task List, select \""Display Guide Information\"" to display a guide that shows your destination and any target enemies."""
+text0002#0,"""You do not need to have \""Display Guide Information\"" selected to complete a Task. Completing its listed objectives is enough.<br><br><yellow>※Some tasks have no guide information to display.<c>"""

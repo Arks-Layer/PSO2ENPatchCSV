@@ -1,3 +1,3 @@
-Title#0,"""ノイゼンプラント"""
-text0001#0,"""<yellow>“ノイゼンプラント”<c>は、<br>スティアリージョンにある特殊な戦闘セクションです。<br><br>ランダムにオブジェクト配置が変化するほか、<br><yellow>“PSEクライマックス”<c>に出現するボスエネミーを倒すことで、<br>出現するエネミーやトライアルなどが変化します。"""
-text0002#0,"""PSEクライマックスで出現するボスエネミーを倒すと、<br>プレイヤーの特定アクションを強化する特殊効果が<br>一定時間付与されます。<br><br>特殊効果はノイゼンプラントのみ有効で、<br>それぞれ、3段階まで強化されます。"""
+Title#0,"""Neusen Plant"""
+text0001#0,"""<yellow>Neusen Plant<c> is a special Combat Section in the Stia Region.<br><br>If you defeat a boss enemy that appears from a PSE Climax, the enemies and objects that appear in the Section will change."""
+text0002#0,"""Defeating PSE Climax bosses will apply a special effect to you, strengthening the power of a specific kind of action for a set time.<br><br>Each effect stacks up to 3 times, and only applies while you remain within Neusen Plant."""
