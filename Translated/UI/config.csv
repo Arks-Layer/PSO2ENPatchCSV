@@ -495,7 +495,7 @@ Config_PadInput13#0,"""Set whether controller input is accepted when the game wi
 Config_PadInput17#0,"""Calibrate Controller"""
 Config_PadInput18#0,"""Controller Calibration can only be performed when \""DirectInput\"" is selected."""
 SubCategory_ToonTitle#0,"""Character Toon Display Settings"""
-SubCategory_ToonDetail#0,"""キャラクターやコスチュームなどの表示を、<br>トゥーン（アニメ）調で描写するかを設定します。<br><br><yellow>※『NGS』ブロックでのみ<br>\u3000表示が適用されます。<br><br>※後から“オプション”や“エステ”で、<br>\u3000設定の変更や調整ができます。<c>"""
+SubCategory_ToonDetail#0,"""Choose whether to show characters, costumes etc. in a cartoony visual style.<br><br><yellow>※This applies only while in NGS.<br><br>※You can change this setting later<br>from Options or in the Beauty Salon.<c>"""
 SubCategory_ToonSelect1#0,"""Enable Toon Display"""
 SubCategory_ToonSelect2#0,"""Normal Display"""
 Subject_000#0,"""Action Feature Settings"""
