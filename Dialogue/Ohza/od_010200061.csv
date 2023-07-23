@@ -1,0 +1,7 @@
+11_voice_NPC_5020_104#0,"""When discussing a Fighter's signature weapons, one must not neglect the Twin Daggers."""
+text02#0,"""Their overwhelming speed allows you to unleash a flurry of attacks, leaving your opponent no time to react."""
+text03#0,"""Well, the best way to learn is to dive in head-first and try it for yourself."""
+text04#0,"""I've prepared some basic Twin Daggers for you. Give them a go."""
+text100#0,"""Twin Daggers"""
+text101#0,"""Twin Daggers are striking weapons that seamlessly merge offence and defence."""
+text102#0,"""Although their attack range is short, they have excellent handling. They can easily chase enemies in the air and perform stunning aerial attacks.<br><br><%WeaponActionText>: Perform a Spin."""
