@@ -1,6 +1,6 @@
 IncidentName#0,"""Message to the Lillipans"""
-TrialBeginMsg#0,"""Communicate [Lobby Action] in Lillipan words!"""
-TrialAbstract#0,"""Communicate [Lobby Action] in Lillipan words!"""
+TrialBeginMsg#0,"""Pass on the Lillipan's message with Lobby Actions!"""
+TrialAbstract#0,"""Pass on the Lillipan's message with Lobby Actions!"""
 ToastOnEnableGestureRange#0,"""Communicate your message using Lobby Actions!"""
 NpcComOnBegin#0,"""What's this? The Lillipan wants to send a message. I wonder what it's trying to say...?"""
 NpcComOnSuccess#0,"""/face2 Seems like they got the message!<br>Whew, I feel like we've got that<br>little bit closer to the Lillipans!"""
