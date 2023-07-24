@@ -1,7 +1,7 @@
 text01#0,"""Yes, yes, that's it. Your Mag is really happy now, see? Isn't that cute? Aww!"""
 text02#0,"""Oops, I guess I got a little carried away there. Sorry. Anyway, just keep feeding it like that and your Mag will do just fine."""
 text03#0,"""And make sure to keep in mind how you want your Mag to develop until you have the exact Mag that you want."""
-11_voice_NPC_5002_100#0,"""Well, take good care of your little cutie, okay? I'll see you later!"""
+11_voice_NPC_5002_100#0,"""Take good care of your little cutie, okay? I'll see you later!"""
 text00#0,"""Mag Actions and Mag Devices"""
 text01#1,"""As you give items to your Mag and its level increases, it will learn new <c ffff00>Actions<c>.<br>There are two types of Mag Action.<br><br>・<c ffff00>Auto Actions<c><br>These Mag Actions activate automatically.<br><br>・<c ffff00>Trigger Actions<c><br>These Mag Actions activate in response to player actions.<br><br>Mag Actions cost <c ffff00>Energy<c> to activate. You can recover your Mag's Energy by giving it an item with <c ffff00>Give Items<c>."""
 text02#1,"""You can customize a Mag's abilities, as well as it's appearance, with the <c ffff00>Use Device<c> option. To do this, you will need special consumable items called <c ffff00>Mag Devices<c>.<br><br>You can purchase Mag Devices from the second floor of the Shop Area. They are available at the <c ffff00>Photon Drop Exchange Shop<c> and the <c ffff00>Excube Exchange Shop<c>.<br><br>Use Mag Devices to make your Mag your own."""
