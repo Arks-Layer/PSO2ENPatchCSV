@@ -60,7 +60,7 @@ MeetForm_Error_Terminal#0,"""Could not move as you have not unlocked the nearest
 MeetForm_Error_SamePlace#0,"""Could not move as you are already in the same location as the other player."""
 MeetForm_Error_ClassicBlock#0,"""Could not move as the other player is in a PSO2 Block."""
 MeetForm_Error_Logout#0,"""Could not move as the other player has logged out."""
-MeetForm_Error_CreativeSpace#0,"""この機能では、<br>クリエイティブスペースには移動できません。"""
+MeetForm_Error_CreativeSpace#0,"""This feature cannot be used to move to a Creative Space."""
 Current_Block_Label#0,"""Current Block"""
 Current_Block_BlockName#0,"""$(0)"""
 Current_Section_Label#0,"""Current Location"""
