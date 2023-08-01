@@ -16,7 +16,7 @@ Failure#2,"""リサさん！<br>すみません、帰還します！<br>マト�
 Dead#2,"""うう……これ以上はきついです……"""
 BuddyDead#2,"""わわわ、リサさんが<br>怒っちゃったかも……"""
 Begin#3,"""/ci1 1 I'm here too! Let's take them on together!"""
-Success#3,"""/ci2 1 We'll hold them off here! Shiva's tough, but I know you two can handle her!"""
+Success#3,"""/ci2 1 We'll hold them back here! Shiva's tough, but I know you two can handle her!"""
 Failure#3,"""/mn2 /ci4 1 I did my best for you, little ones...<br>I can't believe this happened..."""
 Dead#3,"""/ci4 1 Sorry...<br>That's it for me...<br>I'm leaving..."""
 BuddyDead#3,"""/ci1 4 Melrondia...!<br>Don't worry, leave the rest to me!"""
