@@ -1,4 +1,4 @@
-TrialName_1Enemy#0,"""Alien: $(0) Subjugation!""
+TrialName_1Enemy#0,"""Alien: $(0) Subjugation!"""
 TrialBeginMsg_1Enemy#0,"""Defeat the $(0)!"""
 TrialAbstract_1Enemy#0,"""Defeat the Alien: $(0)"""
 Growup_EnemyBuff_1#0,"""/atime5 Enemies with the title \""Alien\"" gain the following effects:<br>$(0)"""

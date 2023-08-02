@@ -1,0 +1,3 @@
+Title#0,"""Bombload Enemies"""
+text0001#0,"""Bombload Enemies are enemies which have special parts called Bombloaders, which can attack when the enemy is Downed."""
+text0002#0,"""Destroying the Bombloader will damage the enemy.<br><br>If it's not destroyed before the Down ends, it will explode, damaging all nearby players."""
