@@ -2094,7 +2094,7 @@ Guide_ItemPack_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u30
 Guide_Scratch_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Reset Displayed Preview: <%MultiSelect>"""
 Guide_Shop_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Switch Window: <%ChangeCtrlWindowForward>\u3000\u3000View Item Details: <%NextTabDetails>"""
 Guide_Submenu_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Change Order: <%MultiSelect>\u3000\u3000 Reset Layout: <%ChangeCtrlWindowForward>"""
-Guide_Vitaldesign_01#0,"""決定：<%Decide>\u3000\u3000キャンセル：<%Cancel>\u3000\u3000操作項目の移動：<%NextWidget>\u3000\u3000プレビュー：<%Function>\u3000お気に入り登録/編集：<%NextTabDetails>"""
+Guide_Vitaldesign_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Preview: <%Function>\u3000Add to/Edit Favorites: <%NextTabDetails>"""
 Substitute_Idle_0#0,"""Standard"""
 Substitute_Idle_1#0,"""Simple"""
 Substitute_Idle_2#0,"""Simple 2"""
