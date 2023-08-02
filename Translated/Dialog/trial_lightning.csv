@@ -1,0 +1,7 @@
+TrialName#0,"""Enemy Storm"""
+TrialBeginMsg#0,"""Defeat enemies amidst the unusual weather!<br>To clear: Obtain \""$(0)\"""""
+TrialAbstract#0,"""Defeat $(0)<br>Ability enhancement:<br>Obtain $(1)"""
+NpcComOnBegin#0,"""Picking up atmospheric changes - Gigantix are appearing! Avoid being struck by lightning and subdue the target."""
+NpcComOnBegin2#0,"""The weather is changing, cause unknown. Watch out for lightning!"""
+NpcComOnSuccess#0,"""Enemy subjugation successful! The weather is returning to normal. Congratulations!"""
+NpcComOnFailure#0,"""The enemy signals are retreating...<br>Are you injured?"""
