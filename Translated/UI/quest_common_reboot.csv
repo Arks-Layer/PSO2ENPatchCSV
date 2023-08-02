@@ -627,7 +627,7 @@ EnemyGrowUpQuest_Elementboost_L40#0,"""Attacks gain <yellow>the Light Attribute<
 EnemyGrowUpQuest_Elementboost_L60#0,"""Attacks gain <yellow>the Light Attribute<c>/Panic Rate: High"""
 EnemyGrowUpQuest_ActionPowerUp#0,"""Some attacks change"""
 EnemyGrowUpQuest_AngerToSummon#0,"""Anger: Additional enemies regularly appear"""
-Common:DownBombBoost#0,"""<yellow>Becomes Bomblord Enemy<c>"""
+Common:DownBombBoost#0,"""<yellow>Becomes Bombload Enemy<c>"""
 Common:TimerBuffBoost#0,"""<yellow>Becomes Growther Enemy<c>"""
 EnemyGrowUpQuest_HpToSummon#0,"""Support: Additional enemies regularly appear"""
 EnemyGrowUpQuest_CalcDmageRate_NotWeak_10#0,"""<yellow>Non-Weak Point Damage Resist +10%<c>"""
