@@ -1,6 +1,6 @@
 Title#0,"""How to Join a Team"""
 text0001#0,"""To join a Team, open the Main Menu with <swguidetype T_MainMenu>, select \""Communication\"", then select \""Teams Currently Looking for Members\"" to view a list of Teams currently looking for Members."""
-text0002#0,"""Selecting a Team from the list of results will give you the following options:<br>・チーム詳細確認<br>・チーム管理者確認<br>・チーム管理者に入団申請"""
+text0002#0,"""Selecting a Team from the list of results will give you the following options:<br>・Team Details<br>・Team Managers<br>・Send Application to Team Master"""
 text0003#0,"""Select <yellow>Send Application to Team Master<c> to send a request to join the Team to the Team Master.<br><br>If your application is approved, you will become a Member of the Team.<br><br>In some situations, you may not be able to apply for Team membership, such as if the Team is full."""
 text0004#0,"""Select \""Team Details\"" to view more details about the Team, such as its level and its number of members."""
 text0005#0,"""Select \""Team Managers\"" to view the Player ID Names of the Team Managers and the Team Master."""
