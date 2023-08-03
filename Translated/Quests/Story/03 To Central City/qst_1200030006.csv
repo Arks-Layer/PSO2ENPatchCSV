@@ -1,5 +1,5 @@
 name010#0,"""Manon"""
-text010#0,"""That enemy has a hard carapace. Try using a \""Dive Attack\"" to immobilize it!"""
+text010#0,"""That enemy has a hard carapace. Try using a Dive Attack to immobilize it!"""
 Text_dash#0,"""Dash Attack"""
 Button_dash#0,"""Press <%NormalAttack> while Dashing"""
 Text_dive#0,"""Dive Attack"""
