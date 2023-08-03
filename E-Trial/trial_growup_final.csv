@@ -1,6 +1,6 @@
-TrialName_1Enemy#0,"""기침の$(0) 토벌"""
+TrialName_1Enemy#0,"""기침의 $(0) 토벌"""
 TrialBeginMsg_1Enemy#0,"""출현한 $(0)를 처치하라!"""
-TrialAbstract_1Enemy#0,"""기침の$(0) 처치하기"""
+TrialAbstract_1Enemy#0,"""기침의 $(0) 처치하기"""
 Growup_EnemyBuff_1#0,"""/atime5 이명「기침」이 부여된 적에게는 다음과 같은 효과가 부여됩니다<br>$(0)"""
 Growup_EnemyBuff_2#0,"""/atime5 이명「기침」이 부여된 적에게는 다음과 같은 효과가 부여됩니다<br>$(0)<br>$(1)"""
 Growup_EnemyBuff_3#0,"""/atime5 이명「기침」이 부여된 적에게는 다음과 같은 효과가 부여됩니다<br>$(0)<br>$(1)<br>$(2)"""
