@@ -1,0 +1,8 @@
+a1#0,"""特定のクライアントオーダーのクリア"""
+a2#0,"""特定のクライアントオーダーのクリア"""
+a3#0,"""スーパーハード受注許可証の所持"""
+Title#0,"""Simulation: Caldera Cleanup"""
+Explanation#0,"""This is a training simulation for future battles, reconstructed using archived combat data. This simulation allows one to relive a grand battle that takes place in the northern region of Felusa Ridge. Make use of your combat repertoire to defend the broken down Transport Truck from an onslaught of enemies."""
+f0#0,"""20:00 time limit expires<br>Fail the specified Trial"""
+SimpleExplanation#0,"""Eliminate all enemies!"""
+s0#0,"""Target enemies eliminated"""
