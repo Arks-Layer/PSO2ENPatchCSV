@@ -1,5 +1,5 @@
 TrialName#0,"""Enemy Storm"""
-TrialBeginMsg#0,"""Defeat the enermy amidst the unusual weather!<br>Success earns \""$(0)\"""""
+TrialBeginMsg#0,"""Defeat the enemy amidst the unusual weather!<br>Success earns \""$(0)\"""""
 TrialAbstract#0,"""Defeat $(0)<br>Buff earned for success:<br>$(1)"""
 NpcComOnBegin#0,"""Picking up atmospheric changes - Gigantix are appearing! Avoid being struck by lightning and subdue the target."""
 NpcComOnBegin2#0,"""The weather is changing, cause unknown. Watch out for lightning!"""
