@@ -1,0 +1,6 @@
+Begin_7002001_a#0,"""/ci1 2 Ah, look who it is. Care to show me how your skills have improved?"""
+Success_7002001_a#0,"""/ci2 1 Aye. Your movements were spot-on. Keep up the good work."""
+Failure_7002001_a#0,"""/ci1 3 Hm?<br>Ran off, huh?"""
+Begin_7001004_a#0,"""/ci1 2 Enemy sighted. Let's move!"""
+Success_7001004_a#0,"""/ci2 1 Aye, very good. You put on quite the display."""
+Failure_7001004_a#0,"""/ci1 3 It seems our quarry has fled."""
