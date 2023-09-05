@@ -1368,7 +1368,7 @@ WarehouseQuest_Receiving_Guidance_Window_mes#0,"""Items in your Quest Storage wi
 WarehouseQuest_Receiving_Warning_Message#0,"""Cannot start Quest because one or more Party Members still has items in their <yellow>Quest Storage<c>."""
 WarehouseQuest_Receiving_Confirm_MoveAll#0,"""This will transfer all items from Quest Storage to Material Storage. Continue?"""
 Explanation_AllItems#0,"""Shows all items that you own, except for in the following Storage types:<br><br>Temporary Storage<br>Drop Storage<br>Quest Storage<br>System Storage<br>Expansion Storage<br><br><yellow>※One Expansion Storage can be displayed, if it has been set as your Favorite Storage.<c>"""
-Message_OPTeamStorage_InStock#0,"""There are Items in \""System Storage\"" that you have not claimed."""
+Message_OPTeamStorage_InStock#0,"""You have unclaimed items waiting in System Storage."""
 Title#3,"""Trash Can"""
 DropTrashbox#0,"""Discard item"""
 Title#4,"""Item Details"""
