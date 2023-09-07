@@ -47,7 +47,7 @@ ssn_019110_002_1210#0,"""それじゃ、またなにかあったら、<br>よろ
 ssn_019110_002_5010#0,"""補給は戦いの生命線！"""
 ssn_019110_002_5020#0,"""……でも、その生命線が脅かされることもある。<br>ラッピーのせいで……。"""
 npc_menu_0010#0,"""Trade Seasonal Points ($(0) max.)"""
-npc_menu_0020#0,"""Learn about the Seasonal Event"""
+npc_menu_0020#0,"""Ask about the Seasonal Event"""
 npc_menu_0030#0,"""Close Menu"""
 npc_menu_1010#0,"""About the Seasonal Event"""
 npc_menu_1020#0,"""About the Rappy Gathering"""

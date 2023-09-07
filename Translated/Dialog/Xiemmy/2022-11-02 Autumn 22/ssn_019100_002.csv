@@ -73,7 +73,7 @@ npc_select_0006#0,"""O-Oh, you... I'm sorry, but you don't have enough... Really
 npc_select_0007#0,"""O-Oh... I'll be waiting here, then. Just... waiting here..."""
 npc_menu_0001#0,"""Trade Seasonal Items ($(0) max.)"""
 npc_menu_0002#0,"""Trade Seasonal Points ($(0) max.)"""
-npc_menu_0003#0,"""Learn about the Seasonal Event"""
+npc_menu_0003#0,"""Ask about the Seasonal Event"""
 npc_menu_0004#0,"""Close Menu"""
 npc_menu_0005#0,"""About the Seasonal Event"""
 npc_menu_0006#0,"""About the Seasonal Event Character"""

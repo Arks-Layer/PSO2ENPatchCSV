@@ -22,7 +22,7 @@ ssn_019020_002_0014#0,"""We are carefully investigating the enemy's recent chang
 ssn_019020_002_0015#0,"""Any data you can get would be greatly appreciated, no matter now trivial."""
 npc_menu_0001#0,"""Accept Event Tasks"""
 npc_menu_0002#0,"""Exchange Seasonal Points for Items"""
-npc_menu_0003#0,"""Learn About Seasonal Events"""
+npc_menu_0003#0,"""Ask about the Seasonal Event"""
 npc_menu_0004#0,"""Close Menu"""
 npc_menu_0005#0,"""About Seasonal Events"""
 npc_menu_0006#0,"""About Seasonal Enemies"""

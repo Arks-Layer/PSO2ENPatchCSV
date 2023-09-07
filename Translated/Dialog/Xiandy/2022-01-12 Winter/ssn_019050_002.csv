@@ -23,7 +23,7 @@ ssn_019050_002_0021#0,"""We are eagerly investigating the cause of the temperatu
 ssn_019050_002_0022#0,"""Any small bit of data you can offer will help us."""
 npc_menu_0001#0,"""Accept Event Tasks"""
 npc_menu_0002#0,"""Exchange Seasonal Points for Items"""
-npc_menu_0003#0,"""Learn About Seasonal Events"""
+npc_menu_0003#0,"""Ask about the Seasonal Event"""
 npc_menu_0004#0,"""Close Menu"""
 npc_menu_0005#0,"""About Seasonal Events"""
 npc_menu_0006#0,"""About the Seasonal Event Character"""
