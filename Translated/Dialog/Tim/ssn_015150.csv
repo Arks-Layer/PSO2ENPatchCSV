@@ -20,7 +20,7 @@ ssn_015150_0304#0,"""You could create one yourself, and start recruiting members
 ssn_015150_0305#0,"""I'll be here when you do."""
 ssn_015150_0401#0,"""Hey, how's it going? Is your Team doing well?"""
 ssn_015150_0402#0,"""Now, let me show you what I've got on my program right now."""
-npc_menu_0001#0,"""Order Team Tasks"""
+npc_menu_0001#0,"""Accept Team Tasks"""
 npc_menu_0002#0,"""Exchange Team Badges"""
 npc_menu_0003#0,"""Close Menu"""
 npc_menu_0004#0,"""About Teams"""
