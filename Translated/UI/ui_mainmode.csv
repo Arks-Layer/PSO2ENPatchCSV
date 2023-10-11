@@ -9006,7 +9006,7 @@ PortableHologram_Favorite_Add_ErrorMsg#0,"""登録数上限を超えるため、
 MySpaceName#0,"""Creative Space"""
 MySpaceName_TeamSpace#0,"""Team Space"""
 MySpaceToastText_GeneratePoint_Get#0,"""$(0)GP earned."""
-MySpaceToastText_GeneratePoint_Get_LimitNotice#0,"""$(0)GPを獲得しました。(デイリー上限：$(1)/$(2)<pict 4space><pict myspace_point>)"""
+MySpaceToastText_GeneratePoint_Get_LimitNotice#0,"""$(0) GP earned. (Daily limit: $(1)/$(2)<pict 4space><pict myspace_point>)"""
 MySpaceShopText_BuyMessage#0,"""Purchasing items for $(1)$(0)GP.<br>Continue?"""
 MySpaceShopText_NotPoint#0,"""Insufficient Genesis Points."""
 TimeoutTitle#0,"""Message"""
