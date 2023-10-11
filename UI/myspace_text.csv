@@ -473,7 +473,7 @@ MySpace_Notice_NoReplaceBlueprintPublic#0,"""설계도의 범위 내에 있어 �
 MySpace_Notice_NoEditBlueprintEditing#0,"""설계도의 범위 내에 있어 편집할 수 없습니다."""
 MySpace_Notice_NoEditBlueprintPublic#0,"""설계도의 범위 내에 있어 편집할 수 없습니다."""
 Guide_Brueprint_RangeSet#0,"""이동: <swguidetype ActionLStick>\u3000\u3000점프: <%Jump>\u3000\u3000줌 아웃: <%Function>\u3000\u3000줌 인: <%NextWidget>\u3000\u3000범위 표시 전환: <%TabForward>\u3000\u3000범위 지정 종료: <%MainMenu>"""
-Guide_Brueprint_RangeView#0,"""이동: <swguidetype ActionLStick>\u3000\u3000점프: <%Jump>\u3000\u3000줌 아웃: <%Function>\u3000\u3000줌 인: <%NextWidget>\u3000\u3000범위 표시 전환: <%TabForward>\u3000\u3000공개 범위 확인 완료: <%MainMenu>""""
+Guide_Brueprint_RangeView#0,"""이동: <swguidetype ActionLStick>\u3000\u3000점프: <%Jump>\u3000\u3000줌 아웃: <%Function>\u3000\u3000줌 인: <%NextWidget>\u3000\u3000범위 표시 전환: <%TabForward>\u3000\u3000공개 범위 확인 완료: <%MainMenu>"""
 Guide_Brueprint_Save#0,"""결정: <%Decide>\u3000\u3000삭제: <%Exception>\u3000\u3000취소: <%Cancel>\u3000\u3000조작 항목의 이동: <%NextWidget>\u3000\u3000조작 윈도우 전환: <%ChangeCtrlWindowForward>"""
 MySpaceBlueprintError_InvalidSlotNumber#0,"""설계도가 저장되어 있지 않습니다."""
 MySpaceBlueprintError_ObjectListEmpty#0,"""빌드 파츠를 불러오는 중에 문제가 발생했습니다."""
