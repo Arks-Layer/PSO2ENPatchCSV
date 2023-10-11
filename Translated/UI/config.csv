@@ -495,7 +495,7 @@ Config_PadInput13#0,"""Set whether controller input is accepted when the game wi
 Config_PadInput17#0,"""Calibrate Controller"""
 Config_PadInput18#0,"""Controller Calibration can only be performed when \""DirectInput\"" is selected."""
 SubCategory_ToonTitle#0,"""Character Toon Display Settings"""
-SubCategory_ToonDetail#0,"""Choose whether to show characters, costumes etc. in a cartoony visual style.<br><br><yellow>※This will apply to all characters you create.<br><br>※You can change this setting per character<br>from Options or in the Beauty Salon.<c>"""
+SubCategory_ToonDetail#0,"""Choose whether to show characters, costumes and so on in a cartoony visual style.<br><br><yellow>※This will apply to all characters you create.<br><br>※You can change this setting per character<br>from Options or in the Beauty Salon.<c>"""
 SubCategory_ToonDetail2#0,"""Sets whether characters, costumes, etc. are displayed in a cartoony visual style.<br><br><yellow>※This applies only while in NGS.<br><br>※You can change this setting later<br>from Options or in the Beauty Salon.<c>"""
 SubCategory_ToonSelect1#0,"""Enable Toon Display"""
 SubCategory_ToonSelect2#0,"""No Change"""
