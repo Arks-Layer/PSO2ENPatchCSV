@@ -1,4 +1,5 @@
 ProgressCount#0,"""$(0)/$(1)"""
+ProgressValue#0,"""×$(0)"""
 TrialSuccessMsg#0,"""The Trial \""$(0)\""<br>was a success!"""
 TrialFailureMsg#0,"""Trial \""$(0)\"" Failed"""
 TrialCancelMsg#0,"""Trial \""$(0)\"" Aborted"""
