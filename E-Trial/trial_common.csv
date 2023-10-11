@@ -1,4 +1,5 @@
 ProgressCount#0,"""$(0)/$(1)"""
+ProgressValue#0,"""×$(0)"""
 TrialSuccessMsg#0,"""트라이얼 <br>\""$(0)\""성공"""
 TrialFailureMsg#0,"""트라이얼 <br>\""$(0)\""실패"""
 TrialCancelMsg#0,"""트라이얼 <br>\""$(0)\""에서 이탈"""
