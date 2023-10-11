@@ -134,7 +134,7 @@ CampaignBoost_RareDrop#0,"""<pict rare_drop_icon><pict 4space>Rare Drop Rate Boo
 CampaignBoost_TriggerQuantity#0,"""<pict boost_campaign><pict 4space>Battle Trigger Cost Change"""
 CampaignBoost_Stackitemdropup#0,"""<pict boost_campaign><pict 4space>Certain Items Drop Rate Change"""
 CampaignBoost_SeasonalPoint#0,"""<pict eventpoint_boost><pict 4space>Seasonal Points Earned +$(0)%"""
-CampaignBoost_GenesisPointRate#0,"""<pict myspace_point_b><pict 4space>獲得ジェネシスポイント＋$(0)%"""
+CampaignBoost_GenesisPointRate#0,"""<pict myspace_point_b><pict 4space>Genesis Points Earned ＋$(0)%"""
 CampaignBoost_PresetSkill#0,"""<pict preset_boost><pict 4space>Preset Ability Drop Rate ＋$(0)％"""
 Quest_Conditions_Possible#0,"""$(0)"""
 BoostInfo_SubTitleEnemy#0,"""<pict boost_campaign><pict 4space>Additional Enemy Effect"""
