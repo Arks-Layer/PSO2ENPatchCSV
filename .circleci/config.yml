@@ -21,6 +21,8 @@ jobs:
           name: Install rsync
           command: sudo apt-get --no-install-recommends -qq -y install rsync
       - checkout
+      - setup_remote_docker:
+          docker_layer_caching: true
       - run:
           name: Checking DUP folders
           command: ./_sh/dupfolders.sh
