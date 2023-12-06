@@ -45,7 +45,7 @@ ScratchError_AC_Shortage_Mess#0,"""ACが不足しているため<br>購入でき
 ScratchError_SG_Shortage_Title#0,"""所持SG不足"""
 ScratchError_SG_Shortage_Mess#0,"""SGが不足しているため<br>購入できません。<br><br>SGを購入しますか？"""
 ScratchError_Ticket_Shortage_Title#0,"""所持チケット不足"""
-ScratchError_Ticket_Shortage_Mess#0,"""スペシャルスクラッチ券が不足しているため<br>購入できません。"""
+ScratchError_Ticket_Shortage_Mess#0,"""対象のスクラッチ券が不足しているため<br>購入できません。"""
 ScratchPrizeList_Title#0,"""景品リスト"""
 ScratchPrizeList_PrizeItem#0,"""景品アイテム"""
 ScratchPrizeList_EmissionRate#0,"""排出率"""
