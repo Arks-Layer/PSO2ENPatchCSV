@@ -710,6 +710,7 @@ Erro_Message_OuterWear#0,"""The current outerwear does not support editing this 
 Erro_Message_InnerWear#0,"""The current innerwear does not support editing this item."""
 Erro_Message_CastParts#0,"""The current cast parts do not support editing this item."""
 Erro_Message_Costume#0,"""The current costume does not support editing this item."""
+Erro_Message_Accessory#0,"""現在のヘアスタイル・アクセサリーでは、この編集項目に対応していません。"""
 Change_To_Edit_items#0,"""There is another item linked to this item. Changes have been applied to both."""
 Title_CheckHasEsthePass#0,"""Required Item Check"""
 Error_CheckHasEsthePass#0,"""You do not have the necessary item(s) to change your color(s).<br>To exit, you must undo your color edits."""
