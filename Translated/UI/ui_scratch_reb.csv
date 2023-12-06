@@ -45,7 +45,7 @@ ScratchError_AC_Shortage_Mess#0,"""Unable to purchase due to lack of AC.<br><br>
 ScratchError_SG_Shortage_Title#0,"""Insufficient SG :c"""
 ScratchError_SG_Shortage_Mess#0,"""Unable to purchase due to lack of SG.<br><br>Would you like to buy more SG?"""
 ScratchError_Ticket_Shortage_Title#0,"""Insufficient Tickets"""
-ScratchError_Ticket_Shortage_Mess#0,"""Unable to purchase due to not having enough Special Scratch Tickets."""
+ScratchError_Ticket_Shortage_Mess#0,"""Unable to purchase due to not having enough eligible Scratch Tickets."""
 ScratchPrizeList_Title#0,"""List of Items"""
 ScratchPrizeList_PrizeItem#0,"""Freebie Item"""
 ScratchPrizeList_EmissionRate#0,"""Rate"""
