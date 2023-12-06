@@ -670,7 +670,7 @@ JetBootsPA03_Pattern3#0,"""Pressing Normal Attack button during PA activates Thr
 TaktPA04_Pattern3#0,"""Non-held attack applies Treble Clef Marking buildup<br>PP Consumption <yellow>$(0)<c>"""
 GunslashPA04_Pattern2#0,"""When inputting direction, attack range increased/<br>Vertical travel distance increased<br>PP Consumption <yellow>$(0)<c>"""
 GunslashPA04_Pattern3#0,"""When not inputting direction, shockwave becomes continuous<br>When not inputting direction, damage per hit <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
-TalisPA01_Pattern1#0,"""£While Talis has been deployed for <yellow>$(0) seconds<c> or more, Technique power <yellow>$(1)<c><br>Talis deployment time <yellow>$(2)<c><br>While Talis is deployed, Technique PP Consumption <yellow>$(3)<c>"""
+TalisPA01_Pattern1#0,"""While Talis has been deployed for <yellow>$(0) seconds<c> or more, Technique power <yellow>$(1)<c><br>Talis deployment time <yellow>$(2)<c><br>While Talis is deployed, Technique PP Consumption <yellow>$(3)<c>"""
 TalisPA01_Pattern2#0,"""While Talis is deployed, Techniques hit the target location instantly<br>While Talis is deployed, Technique Attribute Down rate <yellow>$(0)<c><br>While Talis is deployed, Technique PP Consumption <yellow>$(1)<c>"""
 TalisPA01_Pattern3#0,"""While Talis is deployed, Tricky Capacitor Gauge fill rate <yellow>$(0)<c><br>While Talis is deployed, Technique PP Consumption <yellow>$(1)<c>"""
 WandPA01_Pattern2#0,"""Attack that throws a shockwave/Increased attack speed<br>Attack no longer moves you<br>PA attack power <yellow>$(0)<c>/PP Consumption <yellow>$(1)<c>"""
