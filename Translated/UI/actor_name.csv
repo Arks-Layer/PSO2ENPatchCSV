@@ -679,4 +679,4 @@ Fire01_Pattern3#0,"""Attribute Down rate<yellow>$(0)<c><br>Fire Crest accumulati
 Wind01_Pattern1#0,"""Wind Wheel attack range increased/Number of hits reduced<br>PP Consumption <yellow>$(0)<c>"""
 Wind01_Pattern2#0,"""Charged attack range increased/Projectile speed increased<br>PP Consumption <yellow>$(0)<c>"""
 Light01_Pattern1#0,"""Charged and Ring of Light attacks become 1 hit each<br>Charged attack power <yellow>$(0)<c><br>Charge time <yellow>$(1)<c>"""
-Light01_Pattern2#0,"""発動時にエネミーからの攻撃を無効化<br>PP Consumption <yellow>$(0)<c>"""
+Light01_Pattern2#0,"""Guards against enemy attacks while casting<br>PP Consumption <yellow>$(0)<c>"""
