@@ -45,7 +45,7 @@ ScratchError_AC_Shortage_Mess#0,"""AC가 부족하여<br>구매할 수 없습니
 ScratchError_SG_Shortage_Title#0,"""SG 부족"""
 ScratchError_SG_Shortage_Mess#0,"""SG가 부족하여<br>구매할 수 없습니다.<br><br>SG를 구매하시겠습니까?"""
 ScratchError_Ticket_Shortage_Title#0,"""소지 티켓 부족"""
-ScratchError_Ticket_Shortage_Mess#0,"""스페셜 티켓이 부족해<br>구매할 수 없습니다."""
+ScratchError_Ticket_Shortage_Mess#0,"""대상 스크래치 티켓이 부족하여<br>구매할 수 없습니다."""
 ScratchPrizeList_Title#0,"""경품 리스트"""
 ScratchPrizeList_PrizeItem#0,"""경품 아이템"""
 ScratchPrizeList_EmissionRate#0,"""뽑을 확률"""
