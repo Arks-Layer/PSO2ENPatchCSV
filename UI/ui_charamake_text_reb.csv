@@ -710,6 +710,7 @@ Erro_Message_OuterWear#0,"""La chaqueta actual no es compatible con este element
 Erro_Message_InnerWear#0,"""La ropa interior actual no admite este elemento de edición."""
 Erro_Message_CastParts#0,"""Las piezas Cast actuales no admiten este elemento de edición."""
 Erro_Message_Costume#0,"""El traje actual no es compatible con este elemento de edición."""
+Erro_Message_Accessory#0,"""現在のヘアスタイル・アクセサリーでは、この編集項目に対応していません。"""
 Change_To_Edit_items#0,"""Dado que hay elementos que están vinculados a los elementos especificados, el contenido editado se ha modificado en consecuencia."""
 Title_CheckHasEsthePass#0,"""Confirmación de posesión de los artículos necesarios."""
 Error_CheckHasEsthePass#0,"""No tienes el artículo para cambiar el color.<br>Para salir de la tienda, debe deshacer la edición de la configuración de color."""
