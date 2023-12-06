@@ -653,7 +653,7 @@ WlancePA03_Pattern2#0,"""Attack range increased<br>Optimal range damage boost al
 PartisanPA02_Pattern2#0,"""Finishing attack power up/Attack range increased<br>PA attack power <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 PartisanPA02_Pattern3#0,"""While holding PA button, power up/increased attack speed<br>PA attack power <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 TdaggerPA02_Pattern2#0,"""Increased forward movement for PA first half<br>No backwards movement in PA second half/Shockwave range up<br>PP Consumption <yellow>$(0)<c>"""
-TdaggerPA02_Pattern3#0,"""直後に発動する<br>アクセルドライブ威力<yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
+TdaggerPA02_Pattern3#0,"""Follow-up Accelerator Drive power <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 DsaberPA03_Pattern3#0,"""Tornado duration increased<br>Tornado damage per hit <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 KatanaPA03_Pattern2#0,"""Attack speed up during Brave Combat/PA attack power <yellow>$(0)<c><br>Finish Prize hit count <yellow>$(1)<c><br>PP Consumption <yellow>$(2)<c>"""
 RiflePA03_Pattern2#0,"""While holding PA button, attack power up/homing bullets<br>PA attack power <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
