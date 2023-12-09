@@ -4163,7 +4163,7 @@ TechterWandTechSkipAttack#1,"""After casting a Charged Technique, your Normal At
 TechterTalisTecBurstBloomFlourish#1,"""Tricky Capacitor's attack will change depending on which Talis deployment is currently active.<br><yellow>※Talis only.<c>"""
 BraverKatanaSkipArts#1,"""PAs used after successfully Step Countering will skip to their 3rd attack and become more powerful.<br><yellow>※Main Class/Katana only.<c>"""
 BraverBowReinForce#1,"""Successfully hitting enemies with PAs fills a gauge. When this gauge is full, your next Normal Attack will become more powerful. Afterwards, the first PA used (except Charged Dimensional Ray) will become more powerful.<br><yellow>※Bullet Bow only.<c>"""
-BouncerDBladeStepCounterExtend#1,"""After evading an attack with your Weapon Action or a Step, pressing Normal Attack performs a speedy attack that closes the gap between you and your target.<br><yellow>※Dual Blades only.<c>"""
+BouncerDBladeStepCounterExtend#1,"""After evading an attack with a Weapon Action or a Step, pressing Normal Attack performs a speedy attack that closes the gap between you and your target.<br><yellow>※Dual Blades only.<c>"""
 BouncerTecArtsSkipAttack#1,"""After using different PAs in succession, your Normal Attack will skip to its 3rd stage and become more powerful.<br><yellow>※Jet Boots only.<c>"""
 SummonerTwoPlatoonsMarmeloPlus#1,"""If Marmelo's gauge is level 1 or higher when Familiar Unison is activated, 1 stock will be consumed and Marmelo will perform an additional attack.<br><yellow>※Main Class/Takt only.<c>"""
 SlayerGearOverTimeAfterAmplify#1,"""After Gunslash Gear Overdrive's effect ends, Gunslash Gear's accumulation rate will temporarily increase.<br><yellow>※Main Class/Gunslash only.<c>"""
