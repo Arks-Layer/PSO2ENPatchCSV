@@ -710,7 +710,7 @@ Erro_Message_OuterWear#0,"""현재 아우터 웨어에서는 이 편집 항목�
 Erro_Message_InnerWear#0,"""현재 이너 웨어에서는 이 편집 항목을 대응하지 않습니다."""
 Erro_Message_CastParts#0,"""현재 캐스트 파츠에서는 이 편집 항목을 대응하지 않습니다."""
 Erro_Message_Costume#0,"""현재 코스튬에서는 이 편집 항목을 대응하지 않습니다."""
-Erro_Message_Accessory#0,"""現在のヘアスタイル・アクセサリーでは、この編集項目に対応していません。"""
+Erro_Message_Accessory#0,"""현재 헤어 스타일 및 악세서리는 이 편집 항목을 지원하지 않습니다."""
 Change_To_Edit_items#0,"""지정한 항목과 연동하는 항목이 있기에, 맞춰서 편집 내용을 변경했습니다."""
 Title_CheckHasEsthePass#0,"""필요 아이템 소지 확인"""
 Error_CheckHasEsthePass#0,"""컬러 변경에 필요한 아이템을 소지하고 있지 않습니다.<br>퇴점하려면, 컬러 설정 편집을 취소할 필요가 있습니다."""
