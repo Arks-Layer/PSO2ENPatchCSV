@@ -482,7 +482,7 @@ MessageMesetaFull#0,"""메세타 소지 상한을 넘었습니다<br><br>[No. xx
 Premium_Window_Title#0,"""-"""
 Premium_Window_Message1#0,"""-"""
 Premium_Window_Message2#0,"""-"""
-StorySkip_Ticket#0,"""<pict Arcscash><scarlet>AC 소비 콘텐츠<c><br><yellow>메인 스토리를 \""최신 챕터\""<c>의 초반부까지<br>진행할 수 있는 티켓 아이템입니다.<br><br><br><yellow>“$(0)”<c>의<br>구매 화면으로 이동하시겠습니까?<br><br><scarlet>※이 아이템은 \""센트럴 시티\"" 같은<br>\u3000아크스 거점에서만 사용할 수 있습니다.<c><br><br><yellow>※구매 후 아이템을 사용하여<br>\u3000메인 스토리를 완료한 상태로 만듭니다.<c><br><yellow>※사용 후 지금까지의 진행도에 따라,<br>\u3000경험치를 획득할 수 있습니다.<c><br><yellow>※이 아이템의 내용은 향후 업데이트에 따라,<br>\u3000변경될 수 있습니다.<c>"""
+StorySkip_Ticket#0,"""<pict Arcscash><scarlet>AC 소비 컨텐츠<c><br><yellow>메인 스토리를 \""최신 챕터\""<c>의 초반부까지<br>진행할 수 있는 티켓 아이템입니다.<br><br><br><yellow>“$(0)”<c>의<br>구매 화면으로 이동하시겠습니까?<br><br><scarlet>※이 아이템은 \""센트럴 시티\"" 같은<br>\u3000아크스 거점에서만 사용할 수 있습니다.<c><br><br><yellow>※구매 후 아이템을 사용하여<br>\u3000메인 스토리를 완료한 상태로 만듭니다.<c><br><yellow>※사용 후 지금까지의 진행도에 따라,<br>\u3000경험치를 획득할 수 있습니다.<c><br><yellow>※이 아이템의 내용은 향후 업데이트에 따라,<br>\u3000변경될 수 있습니다.<c>"""
 BuyCheck#3,"""이하 아이템을 $(2)$(0)로 구입합니다.<br>괜찮으시겠습니까?<br><br>(보유SG: $(1))"""
 HaveTicket#2,"""<pict StarGem><c ff4f3f>구입한 아이템 추가 구입<c><br><c 5fdf00>이미 구입하신<c>이하 아이템을<br>$(2)$(0)로 추가 구입합니다.<br>괜찮으시겠습니까?<br><br>(보유SG: $(1))"""
 TimesaleBuyCheck#1,"""이하 아이템을<s>$(3)</s> <red>$(2)<c>$(0)로 구입합니다.<br>괜찮으시겠습니까?<br><br>(보유SG: $(1))"""
