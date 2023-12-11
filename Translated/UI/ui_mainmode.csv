@@ -3441,7 +3441,7 @@ BouncerElementFrail#1,"""Makes it easier for Photon Arts to inflict Attribute Do
 BouncerPhotonBladeFever#1,"""<yellow>[Active Skill]<c><br>For a set time, Photon Blade power decreases, but Photon Blades fire automatically while using PAs.<br><yellow>※Main Class/Dual Blades only.<c>"""
 BouncerPhotonBladeFeverUp#1,"""Boosts the number of Photon Blades fired by each Weapon Action use during Fanatic Blade.<br><yellow>※Main Class/Dual Blades only.<c>"""
 BouncerPhotonBladePpGain#1,"""Boosts PP Recovery from Normal Attacks when hitting enemies with a Photon Blade embedded inside of them.<br><yellow>※Dual Blades only.<c>"""
-BouncerElementBurst#1,"""<yellow>[Active Skill]<c><br>Adds a gauge that fills up when you perform Normal Attacks and evade with your Weapon Action. Activate to perform a powerful attack.<br><yellow>※Jet Boots only.<c>"""
+BouncerElementBurst#1,"""<yellow>[Active Skill]<c><br>Adds a gauge that fills up when you attack enemies and evade attacks with your Weapon Action. Activate to perform a powerful attack.<br><yellow>※Jet Boots only.<c>"""
 BouncerJetBootsElementChange#1,"""Adds an extra attack to Photon Arts, based on the Attribute of the last Technique you used.<br><yellow>※Jet Boots only.<c>"""
 BouncerJetBootsAttackExtra#1,"""Increases the number of steps in your Normal Attack combo to 4.<br><yellow>※Jet Boots only.<c>"""
 BouncerJetBootsJetAttack#1,"""When an enemy is within range, holding the Normal Attack button will perform a series of strikes that speed up with each strike.<br><yellow>※Jet Boots only.<c>"""
