@@ -666,7 +666,7 @@ CompoundBowPA03_Pattern3#0,"""Charged stock count <yellow>$(0)<c><br>Charged dam
 DbladePA02_Pattern1#0,"""Can't be moved or flinched during PA<br>Pinion Blade Gauge fill rate <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 DbladePA02_Pattern3#0,"""Regular form attack speed increased<br>Regular form attack power <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 JetBootsPA03_Pattern2#0,"""Shockwave duration increased<br>Shockwave damage per hit <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
-JetBootsPA03_Pattern3#0,"""Pressing Normal Attack button during PA activates Thrust Drive<br>PP Consumption <yellow>$(0)<c>"""
+JetBootsPA03_Pattern3#0,"""Pressing Normal Attack during PA activates Thrust Drive<br>PP Consumption <yellow>$(0)<c>"""
 TaktPA04_Pattern3#0,"""Non-held attack applies Treble Clef Marking buildup<br>PP Consumption <yellow>$(0)<c>"""
 GunslashPA04_Pattern2#0,"""When inputting direction, attack size expanded/<br>Vertical travel distance increased<br>PP Consumption <yellow>$(0)<c>"""
 GunslashPA04_Pattern3#0,"""When not inputting direction, shockwave becomes continuous<br>When not inputting direction, damage per hit <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
