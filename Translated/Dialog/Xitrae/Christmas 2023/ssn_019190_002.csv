@@ -36,7 +36,7 @@ ssn_019190_002_0410#0,"""Our boss would be excellent, if only it weren't for... 
 npc_menu_0010#0,"""Exchange Seasonal Points (Until $(0))"""
 npc_menu_0030#0,"""Item Recycle (Until $(0))"""
 npc_menu_0040#0,"""Ask about the Seasonal Event"""
-npc_menu_0050#0,"""Close Menuメニューを閉じる"""
+npc_menu_0050#0,"""Close Menu"""
 npc_menu_0060#0,"""Item Recycle"""
 npc_menu_1010#0,"""About Seasonal Events"""
 npc_menu_1020#0,"""About Seasonal Enemies"""
