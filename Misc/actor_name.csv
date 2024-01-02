@@ -663,7 +663,7 @@ LauncherPA01_Pattern3#0,"""폭발탄 히트 중인 에너미에게 런처 PA 위
 CompoundBowPA03_Pattern1#0,"""비차지 시의 공격 범위 확대<br>소비 PP <yellow>$(0)<c>"""
 CompoundBowPA03_Pattern2#0,"""비차지 시 공격 지속시간 연장<br>비차지 시의 1히트당 위력 <yellow>$(0)<c><br>소비 PP <yellow>$(1)<c>"""
 CompoundBowPA03_Pattern3#0,"""차지 시 활과 화살의 스톡 수 <yellow>$(0)<c><br>차지 시 1히트당 위력 <yellow>$(1)<c><br>소비 PP<yellow>$(2)<c>"""
-DbladePA02_Pattern1#0,"""PA 발동 중 떠오르거나 날아감 무효화<br>피이넝 블레이드의 게이지 축적량 <yellow>$(0)<c><br>소비 PP <yellow>$(1)<c>"""
+DbladePA02_Pattern1#0,"""PA 발동 중 떠오르거나 날아감 무효화<br>피니언 블레이드의 게이지 축적량 <yellow>$(0)<c><br>소비 PP <yellow>$(1)<c>"""
 DbladePA02_Pattern3#0,"""파생 전 공격 속도 상승<br>파생 전 공격의 위력 <yellow>$(0)<c><br>소비 PP <yellow>$(1)<c>"""
 JetBootsPA03_Pattern2#0,"""충격파의 공격 지속시간 연장<br>충격파의 1히트당 위력 <yellow>$(0)<c><br>소비 PP <yellow>$(1)<c>"""
 JetBootsPA03_Pattern3#0,"""PA 발동 후 통상 공격 버튼을 누르면<br>스러스트 드라이브 발동 가능<br>소비 PP <yellow>$(0)<c>"""
