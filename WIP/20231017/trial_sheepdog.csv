@@ -1,6 +1,6 @@
 TrialName#0,"""테임즈 포획"""
-TrialBeginMsg#0,"""제한 시간 내에 많은 테임지를 잡아라!"""
-TrialAbstract#0,"""제한 시간 내에 많은 테임지를 잡기"""
+TrialBeginMsg#0,"""제한 시간 내에 많은 테임즈를 잡아라!"""
+TrialAbstract#0,"""제한 시간 내에 많은 테임즈를 잡기"""
 RewardGradeUp#0,"""<yellow>트라이얼 클리어 시 보상 등급 상승<c>"""
 NpcComOnBegin#0,"""여긴 리템 보급대 멀린.<br>거기 있는 아크스, 좀 도와주지 않을래?"""
 NpcComOnBegin2#0,"""테임즈용 덫을 설치했는데,<br>거기에 테임즈를 몰아넣어 줬으면 하는데."""
