@@ -40,7 +40,7 @@ MCancelReason_HostChanged#0,"""호스트 플레이어가 매칭을 취소했습�
 MCancelReason_MemberExit#0,"""$(0)에서 이탈했습니다."""
 MCancelReason_Exclusion#0,"""다른 필드 레이스에 참가 중"""
 MNotice_HostChanged#0,"""$(0)님께서 호스트 플레이어가 되었습니다."""
-MNotice_RecruitToast#0,"""가까운 단말기에서 필드 레이스 참가 접소가 시작됐습니다."""
+MNotice_RecruitToast#0,"""가까운 단말기에서 필드 레이스 참가 접수가 시작됐습니다."""
 MCourse_SAerio#0,"""남부 에아리오 주파 (Stage.1)"""
 MCourse_WAerio#0,"""서부 에아리오 주파 (Stage.1)"""
 MCourse_WRitem#0,"""서부 리템 주파 (Stage.1)"""
