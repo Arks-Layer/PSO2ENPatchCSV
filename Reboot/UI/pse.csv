@@ -1,2 +1,5 @@
 Pse_LevelUp#0,"""Повышен уровень PSE!\u3000Увеличена вероятность появления редких врагов!"""
 Pse_EncoreProbUp#0,"""<pict pse_encore_up>PSEバーストアンコールの発生確率が上昇します。"""
+Pse_StockPlus#0,"""次のPSEバースト時に<yellow>$(0)<c>が発生"""
+Pse_Encore#0,"""PSEバーストアンコール"""
+Pse_Forte#0,"""PSEバーストフォルテ"""
