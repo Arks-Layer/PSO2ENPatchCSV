@@ -16,7 +16,7 @@ ProgDefenceWave#0,"""Wave:"""
 ProgNumPlayerDied#0,"""Incapacitations"""
 ProgNumSubCondition#0,"""サイドミッション"""
 ProgSub_DontDie#0,"""戦闘不能回数0回でクリア"""
-ProgSub_NumPlayerDied#0,"""戦闘不能回数$(0)回未満でクリア"""MCourse_SKuvaris#0
+ProgSub_NumPlayerDied#0,"""戦闘不能回数$(0)回未満でクリア"""
 FLineMsg_TimeOver#0,"""Failed the Trial<br>Trial timed out!"""
 FLineMsg_DefenceTarget_Dead#0,"""Failed the Trial<br>Extensive damage was dealt to the target(s)!"""
 FLineMsg_NumPlayerDied#0,"""Maximum incapacitations reached!"""
