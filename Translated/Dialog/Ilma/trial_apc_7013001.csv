@@ -1,3 +1,6 @@
 Begin_7001004_a#0,"""/ci1 5 How nice of you to show up. I'd really appreciate some help fighting here."""
 Success_7001004_a#0,"""/ci1 1 Alright, all done. Thanks. I'm gonna get back to my patrol."""
 Failure_7001004_a#0,"""/ci1 2 Uh oh, I should probably get out of here."""
+Begin_7001028_a#0,"""/ci1 5 やあ、キミか。<br>ちょっと手伝ってもらえないかな？"""
+Success_7001028_a#0,"""/ci1 1 ありがとう！<br>おかげで、いい戦闘データが取れたよ。"""
+Failure_7001028_a#0,"""/ci1 2 うーん、今回はここまでか……。"""

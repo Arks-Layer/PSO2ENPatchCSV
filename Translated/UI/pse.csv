@@ -1,2 +1,5 @@
 Pse_LevelUp#0,"""PSE Level up! Rare enemy spawn rate increased!"""
 Pse_EncoreProbUp#0,"""<pict pse_encore_up> The probability of a PSE Encore has increased!"""
+Pse_StockPlus#0,"""次のPSEバースト時に<yellow>$(0)<c>が発生"""
+Pse_Encore#0,"""PSEバーストアンコール"""
+Pse_Forte#0,"""PSEバーストフォルテ"""
