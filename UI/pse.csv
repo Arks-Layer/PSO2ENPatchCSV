@@ -1,2 +1,5 @@
 Pse_LevelUp#0,"""PSE 레벨 업! 레어 에너미 출현률 상승!"""
 Pse_EncoreProbUp#0,"""<pict pse_encore_up>PSE 버스트 앙코르의 발생 확률이 상승합니다."""
+Pse_StockPlus#0,"""次のPSEバースト時に<yellow>$(0)<c>が発生"""
+Pse_Encore#0,"""PSEバーストアンコール"""
+Pse_Forte#0,"""PSEバーストフォルテ"""

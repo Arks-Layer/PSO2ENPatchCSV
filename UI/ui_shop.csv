@@ -126,6 +126,7 @@ BuyError_Other#0,"""구매할 수 없었습니다.<br>나중에 다시 접속해
 BuyError_N_BuyPremium#0,"""<pict Arcscash><scarlet>AC 소비 컨텐츠<c><br><yellow>\""프리미엄 세트\""<c>의 유효기간이 만료되어,<br>구매할 수 없는 상품이 있습니다.<br><br>\""프리미엄 세트\""를 활성화 하여<br>구매하실 수 있습니다.<br>\""프리미엄 세트\""의 구매 화면으로 이동하시겠습니까?"""
 BuyError_N_UsePremium#0,"""<pict Arcscash><c 5fdf00>이미 구입한 아이템 사용<c><br>\""프리미엄 세트\""의 유효기간이 만료되어,<br>구매할 수 없는 상품이 있습니다.<br><br>소지하고 있는 <yellow>\""프리미엄 세트\""<c>를 사용하여<br>구매할 수 있도록 하시겠습니까?<br><br><yellow>※\""프리미엄 세트\""를 여러 종류 소지하고 있는 경우엔<br>유효기간이 긴 것 부터 우선적으로 사용합니다.<c>"""
 Mark_Premium#0,"""프리미엄"""
+Open_SgShop#0,"""SGショップで期間限定商品販売中！"""
 ShopTitleText#0,"""배틀 코인 교환 샵"""
 NormalShopGuideText#0,"""<c f0df60>배틀 코인을 소비해 아이템과 교환할 수 있습니다. 교환할 아이템을 선택해주세요.<c>"""
 LimitedShopGuideText#0,"""<c f0df60>교환할 아이템을 선택해 주세요(교환 수에는 주 마다 제한이 있으며 매주 <utcdow>수요일 4:00</utcdow>에 리셋됩니다).<c>"""
