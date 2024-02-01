@@ -126,7 +126,7 @@ BuyError_Other#0,"""購入することができませんでした。<br>しば�
 BuyError_N_BuyPremium#0,"""<pict Arcscash><scarlet>AC Content<c><br>One or more items cannot be purchased because you do not have an active <yellow>Premium Set<c>.<br><br>You can purchase them if you activate a Premium Set.<br>Would you like to proceed to the Premium Set purchase screen?"""
 BuyError_N_UsePremium#0,"""<pict Arcscash><c 5fdf00>Using Purchased Items<c><br>One or more items cannot be purchased because you do not have an active Premium Set.<br><br>Would you like to use one of your purchased <yellow>Premium Sets<c>?<br><br><yellow>※If you own multiple types of Premium Set, the one with the longest duration will be used.<c>"""
 Mark_Premium#0,"""Premium"""
-Open_SgShop#0,"""SGショップで期間限定商品販売中！"""
+Open_SgShop#0,"""Limited-time products are on sale at the SG Shop!"""
 ShopTitleText#0,"""Battle Coin Exchange"""
 NormalShopGuideText#0,"""<c f0df60>Exchange Battle Coins for items. Please select an item to exchange for.<c>"""
 LimitedShopGuideText#0,"""<c f0df60>Select an item to exchange for. (Exchange quantities are limited per week and reset at <utcdow>Wed 4:00</utcdow>)<c>"""
