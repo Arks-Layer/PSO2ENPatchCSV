@@ -1,0 +1,79 @@
+name: build
+on: [pull_request, push]
+
+jobs:
+   build:
+      runs-on: ubuntu-latest
+      container: ubuntu:20.04
+      
+      steps:
+        - name: Setting up testing environment
+          run: |
+            apt-get update
+            apt-get install -y ca-certificates rsync python-is-python3 git parallel binutils
+            /bin/mkdir -p /tmp/PSO2
+      
+        - name: Checkout Repo        
+          uses: actions/checkout@v3
+          with:
+            ref: RU_Reboot
+          
+        - name: Checking DUP folders
+          run: ./_sh/dupfolders.sh
+            
+        - name: Checking DUP files
+          run: ./_sh/dupfiles.sh
+          
+        - name: Work around permission issue
+          run: git config --global --add safe.directory /__w/PSO2ENPatchCSV/PSO2ENPatchCSV
+            
+        - name: Add upstream repos
+          run: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
+          
+        - name: Verify CSVs as UTF-8
+          run: ./_sh/UTF8.sh
+          
+        - name: Verify CSVs with an EOL
+          run: ./_sh/EOL.sh
+          
+        - name: Verify CSVs without BOM
+          run: ./_sh/BOM.sh
+          
+        - name: Verify CSVs
+          run: ./_sh/CSV.sh
+          
+        - name: Check ODD strings in NPC names
+          run: ./_sh/ODD.sh
+          
+        - name: Verify folder layout
+          run: ./_sh/checkFiles.sh
+          
+        - name: Looking for unchanged Files
+          run: ./_sh/MovedFiles.sh
+          
+        - name: Checking CSVs for quote issues
+          run: ./_sh/quote.sh
+          
+        - name: Check for dup lines
+          run: ./_sh/dupCSV.sh
+          
+        - name: Verifying CSVs for PSO2 format
+          run: ./_sh/check.sh
+          
+        - name: Verifying command usages
+          run: ./_sh/command.sh
+          
+        - name: coverage CSVs
+          run: ./_sh/coverage.sh>/tmp/PSO2/coverage.txt
+          
+        - name: Verify Font rendering
+          run: ./_sh/Fonts.sh
+          
+        - name: output in fat CSV
+          run: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2/PSO2.CSV.gz
+          
+        - name: Store artifacts
+          uses: actions/upload-artifact@v3
+          with:
+            path: /tmp/PSO2/
+            
