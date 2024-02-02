@@ -1,0 +1,3 @@
+Title#0,"""The Grand Torch Stand/Torch Stands"""
+text0001#0,"""The Grand Torch Stand located within Rayjord Gorge applies the Heat Coating status to players within its area of effect.<br><br>While you have the Heat Coating status, <yellow>all cold weather damage<c> is prevented, and <yellow>additional Fire-Attribute damage is applied to your attacks<c>.<br><br>The Heat Coating status will end after enough time has passed since leaving the area of the Grand Torch Stand."""
+text0002#0,"""You can access a Torch Stand while you have the Heat Coating status to light it, granting it the same effect as the Grand Torch Stand.<br><br>Torch Stands eventually go out, but they can be relit by accessing them again while you have Heat Coating."""
