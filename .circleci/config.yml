@@ -1,114 +1,126 @@
-version: 4
-jobs:
-  build:
-    docker:
-      - image: cimg/python:3.11-node
-        environment:
-          PARALLEL_SHELL: /bin/sh
-          SHELL: /bin/sh
-          PARALLEL: --block 43K --no-notice
-    branches:
-      ignore:
-        - develop
-        - /feature-.*/
-        - JP
-        - /.*_Old/
-    steps:
-      - run:
-          name: Update APT listing
-          command: sudo apt-get -qq update && sudo apt upgrade -y
-      - run:
-          name: Install rsync
-          command: sudo apt-get --no-install-recommends -qq -y install rsync
-      - checkout
-      - setup_remote_docker:
-          docker_layer_caching: true
-      - run:
-          name: Checking DUP folders
-          command: ./_sh/dupfolders.sh
-      - run:
-          name: Checking DUP files
-          command: ./_sh/dupfiles.sh
-      - run:
-          name: Add upstream repos
-          command: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
-      - run:
-          name: Verify CSVs as UTF-8
-          command: ./_sh/UTF8.sh
-      - run:
-          name: Verify CSVs with an EOL
-          command: ./_sh/EOL.sh
-      - run:
-          name: Verify CSVs without BOM
-          command: ./_sh/BOM.sh
-      - run:
-          name: Verify CSVs
-          command: ./_sh/CSV.sh
-      - run:
-          name: Check ODD strings in NPC names
-          command: ./_sh/ODD.sh
-      - run:
-          name: Verify folder layout
-          command: ./_sh/checkFiles.sh
-      - run:
-          name: Looking for unchanged Files
-          command: ./_sh/MovedFiles.sh
-      - run:
-          name: checking CSVs for quote issues
-          command: ./_sh/quote.sh
-      - run:
-          name: Check for dup lines
-          command: ./_sh/dupCSV.sh
-      - run:
-          name: verifing CSVs for PSO2 format
-          command: ./_sh/check.sh
-      - run:
-          name: verifing command usages
-          command: ./_sh/command.sh
-      - run:
-          name: coverage CSVs
-          command: ./_sh/coverage.sh>/tmp/coverage.txt
-      - run:
-          name: Install GNU Aspell spell-checker
-          command: sudo apt-get -qq -y install aspell-en
-      - run:
-          name: spell check CSVs
-          command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt
-      - run:
-          name: sort out spelling mistakes
-          command: cat /tmp/spellcheck.txt|./_tools/sortaspell.sh > /tmp/dict.txt
-      - run:
-          name: output in GetText PO
-          command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
-      - run:
-          name: Verify Font rendering
-          command: ./_sh/Fonts.sh
-      - run:
-          name: output in fat CSV
-          command: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
-      - run:
-          name: Are there any spelling mistakes
-          command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
-      - store_artifacts:
-          path: /tmp/PSO2.po.gz
-          destination: PSO2.po.gz
-      - store_artifacts:
-          path: /tmp/coverage.txt
-          destination: coverage.txt
-      - store_artifacts:
-          path: /tmp/spellcheck.txt
-          destination: spellcheck.txt
-      - store_artifacts:
-          path: /tmp/dict.txt
-          destination: dict.txt
-      - store_artifacts:
-          path: /tmp/mp.log
-          destination: mplog.txt
-      - store_artifacts:
-          path: /tmp/listaspell.txt
-          destination: listaspell.txt
-      - store_artifacts:
-          path: /tmp/PSO2.CSV.gz
-          destination: PSO2.CSV.gz
-          resource_class: large
-resource_class: large
+workflows:
+    version: 2
+    workflow:
+        jobs:
+          build:
+            docker:
+              - image: cimg/python:3.12.1-node
+                environment:
+                  PARALLEL_SHELL: /bin/sh
+                  SHELL: /bin/sh
+                  PARALLEL: --block 43K --no-notice
+            branches:
+              ignore:
+                - develop
+                - /feature-.*/
+                - JP
+                - /.*_Old/
+                - JP_Reboot
+                - EN
+                - EN_Reboot
+                - ES
+                - ES_Reboot
+                - CN
+                - CN_Reboot
+                - KO
+                - KO_Reboot
+            steps:
+              - run:
+                  name: Update APT listing
+                  command: sudo apt-get -qq update && sudo apt upgrade -y
+              - run:
+                  name: Install rsync
+                  command: sudo apt-get --no-install-recommends -qq -y install rsync
+              - checkout
+              - setup_remote_docker:
+                  docker_layer_caching: true
+              - run:
+                  name: Checking DUP folders
+                  command: ./_sh/dupfolders.sh
+              - run:
+                  name: Checking DUP files
+                  command: ./_sh/dupfiles.sh
+              - run:
+                  name: Add upstream repos
+                  command: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
+              - run:
+                  name: Verify CSVs as UTF-8
+                  command: ./_sh/UTF8.sh
+              - run:
+                  name: Verify CSVs with an EOL
+                  command: ./_sh/EOL.sh
+              - run:
+                  name: Verify CSVs without BOM
+                  command: ./_sh/BOM.sh
+              - run:
+                  name: Verify CSVs
+                  command: ./_sh/CSV.sh
+              - run:
+                  name: Check ODD strings in NPC names
+                  command: ./_sh/ODD.sh
+              - run:
+                  name: Verify folder layout
+                  command: ./_sh/checkFiles.sh
+              - run:
+                  name: Looking for unchanged Files
+                  command: ./_sh/MovedFiles.sh
+              - run:
+                  name: checking CSVs for quote issues
+                  command: ./_sh/quote.sh
+              - run:
+                  name: Check for dup lines
+                  command: ./_sh/dupCSV.sh
+              - run:
+                  name: verifing CSVs for PSO2 format
+                  command: ./_sh/check.sh
+              - run:
+                  name: verifing command usages
+                  command: ./_sh/command.sh
+              - run:
+                  name: coverage CSVs
+                  command: ./_sh/coverage.sh>/tmp/coverage.txt
+              - run:
+                  name: Install GNU Aspell spell-checker
+                  command: sudo apt-get -qq -y install aspell-en
+              - run:
+                  name: spell check CSVs
+                  command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt
+              - run:
+                  name: sort out spelling mistakes
+                  command: cat /tmp/spellcheck.txt|./_tools/sortaspell.sh > /tmp/dict.txt
+              - run:
+                  name: output in GetText PO
+                  command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
+              - run:
+                  name: Verify Font rendering
+                  command: ./_sh/Fonts.sh
+              - run:
+                  name: output in fat CSV
+                  command: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
+              - run:
+                  name: Are there any spelling mistakes
+                  command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
+              - store_artifacts:
+                  path: /tmp/PSO2.po.gz
+                  destination: PSO2.po.gz
+              - store_artifacts:
+                  path: /tmp/coverage.txt
+                  destination: coverage.txt
+              - store_artifacts:
+                  path: /tmp/spellcheck.txt
+                  destination: spellcheck.txt
+              - store_artifacts:
+                  path: /tmp/dict.txt
+                  destination: dict.txt
+              - store_artifacts:
+                  path: /tmp/mp.log
+                  destination: mplog.txt
+              - store_artifacts:
+                  path: /tmp/listaspell.txt
+                  destination: listaspell.txt
+              - store_artifacts:
+                  path: /tmp/PSO2.CSV.gz
+                  destination: PSO2.CSV.gz
+                  resource_class: large
+        resource_class: large
+        
