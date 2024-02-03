@@ -25,7 +25,7 @@ RewardReceiptFormAcceptanceMessage#0,"""Вы получите предмет(ы)
 RewardReceiptFormPurchaseTitle#0,"""Подтверждение покупки"""
 RewardReceiptFormPurchaseMessage#0,"""Приобретение следующих предметов:<br>$(2)$(0). Вы уверены?<br><br>(SG в наличии: $(1))"""
 RewardReceiptFormTierPurchaseMessage#0,"""Приобретение следующих предметов:<br>$(2)$(0). Вы уверены?<br><br>(SG в наличии: $(1))<br>Уровень перед покупкой: $(3)<br>Уровень после покупки: $(4)"""
-LimitedTimeMessage#0,"""$(0)<br>\u3000<br>販売期限：<utcymdt>$(1)</utcymdt>"""
+LimitedTimeMessage#0,"""$(0)<br>\u3000<br>Срок: <utcymdt>$(1)</utcymdt>"""
 RewardUpTicketFormTitle#0,"""Подтверждение покупки предмета"""
 RewardUpTicketFormMessage#0,"""<pict StarGem><c 1dedd7>Требуется плата SG<c><br>Либо у вас нет разрешения на использование<br>выбранной функции, либо вам доступ истёк.<br><br>Вы можете приобрести<br><yellow>Билет: Mission Pass Gold<c><br>чтобы немедленно активировать эту функцию.<br>Приступить к покупке?<br><br><red>※Билеты для разблокировки можно приобрести<br>в магазине SG главного меню.<c>"""
 RewardGetEffectTitle#0,"""Награда получена"""

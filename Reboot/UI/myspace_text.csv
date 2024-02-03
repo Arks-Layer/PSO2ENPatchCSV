@@ -1,4 +1,4 @@
-MySpaceCommonLabel_EditMode#0,"""編集モード"""
+MySpaceCommonLabel_EditMode#0,"""Режим редактирования"""
 MySpaceMenuText_OverPeople#0,"""同時に編集できる人数を超えたため、編集モードに移行できません。"""
 MySpaceMenuText_NoEditAuth2#0,"""編集権限がないため、編集モードに移行できません。"""
 MySpace_Notice_Editing#0,"""他のプレイヤーが操作中のため、編集できません。"""
