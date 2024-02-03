@@ -384,7 +384,7 @@ Benefit_FormidableEnemyUp#0,"""Шанс появления гигантикса:
 Benefit_BoostController#0,"""Шанс усиленного врага: $(0)%"""
 Benefit_RareEnemyGUp#0,"""Шанс редкого врага (золото): $(0)%"""
 Benefit_RareEnemySUp#0,"""Шанс редкого врага (серебро): $(0)%"""
-Benefit_LifeUp#0,"""LP +$(0)"""
+Benefit_LifeUp#0,"""LP＋$(0)"""
 Benefit_PointMagnif#0,"""Множитель очков: $(0)x"""
 AreaWait_QuestDetailsGuide#0,"""Эта информация доступна при <yellow>открытии главного меню во время квеста<c> и выборе \""Информация о квесте\""."""
 AreaWait_QuestDetailsTitle#0,"""Подробности о враге"""
