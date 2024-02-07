@@ -1,5 +1,5 @@
 TrialName_1Enemy#0,"""Подавление $(0)"""
-TrialBeginMsg_1Enemy#0,"""Одолейте $(0)""""
+TrialBeginMsg_1Enemy#0,"""Одолейте $(0)"""
 TrialAbstract_1Enemy#0,"""Одолеть $(0)"""
 TrialAbstract_1Enemy_SM_PSE#0,"""Одолейте $(0).<br><yellow>※Завершите доп. миссию, чтобы<br>вызвать PSE Burst<c>"""
 TrialName_Multi#0,"""Подавление врага"""
