@@ -5,7 +5,7 @@ TrialAbstract_1Enemy_SM_PSE#0,"""Defeat $(0)<br><yellow>※Upon completing side 
 TrialName_Multi#0,"""Enemy Subjugation"""
 TrialBeginMsg_Multi#0,"""Defeat the enemies!"""
 TrialAbstract_Multi#0,"""Defeat the enemies"""
-TrialAbstract_Multi_SM_PSE#0,"""Defeat the enemies<br><yellow>※Upon completing side missions,<br>\u3000your next PSE Burst will<br>undergo a Burst Change<c>"""
+TrialAbstract_Multi_SM_PSE#0,"""Defeat the enemies<br><yellow>※Upon completing side missions,<br>your next PSE Burst will<br>undergo a Burst Change<c>"""
 NpcComOnBegin#0,"""A powerful enemy signal has been detected! Please neutralize it at once!"""
 NpcComOnSuccess#0,"""Enemy neutralization confirmed! Thank you for your rapid response."""
 NpcComOnFailure#0,"""The enemy presence has fled the area. The threat has subsided... for now, anyways."""
