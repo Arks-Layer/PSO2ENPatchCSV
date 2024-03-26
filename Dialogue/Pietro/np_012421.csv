@@ -15,4 +15,4 @@ Skit01_050#0,"""I see... You wish to tell them of your love yourself? ...But of 
 Skit01_051#0,"""But I am always willing to assist! When you grow interested in Limit Breaking, you have only to ask me!"""
 Skit01_060#0,"""The Pet's level limit has been increased."""
 Title#0,"""What if a pet reaches level 100?"""
-text01#0,"""After asking Pietro for a \""Limit Break\"",<br>you will be able to further level pets that have<br>reached Lv.100.<br><br><yellow>It's highly recommended to use high rarity eggs<br>to level pets after the Limit Break.<br><c>"""
+text01#0,"""After asking Pietro for a \""Limit Break\"",<br>you will be able to further level Pets that have<br>reached Lv.100.<br><br><yellow>It's highly recommended to use high rarity eggs<br>to level Pets after the Limit Break.<br><c>"""
