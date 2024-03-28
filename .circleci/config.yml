@@ -79,9 +79,6 @@ jobs:
           name: Verify Font rendering
           command: ./_sh/Fonts.sh
       - run:
-          name: output in fat CSV
-          command: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
-      - run:
           name: Are there any spelling mistakes
           command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
