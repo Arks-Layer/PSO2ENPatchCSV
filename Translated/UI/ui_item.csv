@@ -768,7 +768,7 @@ MoveWarehouseErrorMessage7#0,"""You cannot transfer this item to Material Storag
 MoveWarehouseErrorMessage8#0,"""素材倉庫から他の倉庫に<br>直接アイテムを移動することはできません。<br>一度アイテムパックに取り出してから<br>移動してください。<br><yellow>※今後のアップデートで対応予定です。<c>"""
 MoveWarehouseErrorMessage9#0,"""他の倉庫から素材倉庫に<br>直接アイテムを移動することはできません。<br>一度アイテムパックに取り出してから<br>移動してください。<br><yellow>※今後のアップデートで対応予定です。<c>"""
 MoveWarehouseNoticeMessage2#0,"""There were no items that could be moved to Material Storage."""
-MoveWarehouseNoticeMessage3#0,"""素材倉庫に預けているアイテムが、<br>所持数上限に達していて送ることが出来ません。"""
+MoveWarehouseNoticeMessage3#0,"""Your Material Storage already contains the maximum amount of one or more of these items."""
 RequestActionNoExpire#0,"""Expired; could not be used."""
 RequestActionUnlimitedAMCoinErrorTitle#0,"""Message"""
 RequestActionUnlimitedAMCoinErrorMessage#0,"""「CC持ち出し上限の廃止」に伴い、<br>「CC持ち出し上限解除$(0)日」は<br>ご利用いただけなくなりました。<br><br><yellow>お手持ちの「CC持ち出し上限解除$(0)日」は、<br>リサイクルショップにて、対象アイテムとの<br>交換が可能となっております。<c>"""
