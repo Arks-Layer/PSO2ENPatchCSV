@@ -729,7 +729,7 @@ TaktPA02_Pattern3#0,"""Non-held attack applies Treble Clef Marking buildup<br>PP
 Ice01_Pattern1#0,"""Now attacks target's position<br>PP Consumption <yellow>$(0)<c>"""
 Ice01_Pattern2#0,"""Detonating 2nd level Ice Crest engraves 1st level Ice Crest<br>2nd level Ice Crest power <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 Ice01_Pattern3#0,"""Against 2nd level Ice Crest, uncharged attack power <yellow>$(0)<c>/Compound Technique Gauge fill rate <yellow>$(1)<c><br>PP Consumption <yellow>$(2)<c>"""
-Thunder01_Pattern1#0,"""Lightning needed to become Energized <yellow>$(0)<c><br>Arcing lightning doesn't contribute to becoming Energized<br>PP Consumption <yellow>$(1)<c>"""
+Thunder01_Pattern1#0,"""Lightning's contribution to becoming Energized <yellow>$(0)<c><br>Arcing lightning doesn't contribute to becoming Energized<br>PP Consumption <yellow>$(1)<c>"""
 Thunder01_Pattern2#0,"""Lightning arcs more times<br>Charged attack now contributes to becoming Energized<br>PP Consumption <yellow>$(0)<c>"""
 Thunder01_Pattern3#0,"""When Energized, uncharged attack power <yellow>$(0)<c>/<br>Arc lightning power <yellow>$(1)<c>/Compound Technique Gauge fill rate <yellow>$(2)<c><br>PP Consumption <yellow>$(3)<c>"""
 Dark01_Pattern1#0,"""Uncharged explosion expanded/Projectile speed increased<br>PP Consumption <yellow>$(0)<c>"""
