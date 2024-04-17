@@ -31,7 +31,7 @@ ScratchChoice_ConfirmationNoChargeFTAC#0,"""Using $(0) Free Bonus to Draw $(1).<
 ScratchChoice_ConfirmationACre#0,"""<pict Arcscash>AC Content<br>Spending $(0) AC to purchase<br>another $(1).<br>Do you wish to continue?"""
 ScratchChoice_ConfirmationSGre#0,"""<pict StarGem>SG Content<br>Spending $(0) SG to purchase<br>another $(1).<br>Do you wish to continue?"""
 ScratchChoice_ConfirmationTicketRe#0,"""Spending $(0) Scratch Tickets to Draw<br>another $(1).<br>Do you wish to continue?"""
-ScratchChoice_ConfirmationNoChargeRe#0,"""Using $(0) Free Bonuses to draw another $(1). <br>※Resets every <utc>15:00</utc>.<br>Do you wish to continue?"""
+ScratchChoice_ConfirmationNoChargeRe#0,"""Using $(0) Free Bonuses to Draw another $(1). <br>※Resets every <utc>15:00</utc>.<br>Do you wish to continue?"""
 ScratchResult_Title#0,"""Scratch Results"""
 ScratchResult_Explanation#0,"""You have won the following prizes!<br.Please collect them from your Scratch Storage.<br><yellow>※Please note that items have an expiration date,<br>\u3000after which they cannot be collected.<c>"""
 ScratchResult_UseTicket_Title#0,"""Ticket Usage Confirmation"""
