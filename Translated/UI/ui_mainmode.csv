@@ -1342,7 +1342,7 @@ Shootingroom_Command_Label_TimeGuide#0,"""Adv. 1 Hour: Hold <%Decide><swguidetyp
 LeaderMenuLabel08#0,"""Party Member Recruitment"""
 PartyConfigLabel28_AccessTitle#0,"""Hold to enable <pict auto_party><pict 4space>Auto Party Join"""
 PartyConfigLabel28_AccessHint#0,"""Joining a party grants the following boosts:<pict 4space><pict exp_icon><pict 4space><pict meseta_icon2><pict 4space><pict rare_drop_icon>"""
-PartyConfigLabel28_AccessToast#0,"""“<pict 4space><pict auto_party><pict 4space>Auto Party Join enabled. A Party will be formed as soon as another player with matching settings is found."""
+PartyConfigLabel28_AccessToast#0,"""<pict 4space><pict auto_party><pict 4space>Auto Party Join enabled. A Party will be formed as soon as another player with matching settings is found."""
 Title#1,"""Basic Status"""
 StatusLabePower#0,"""Power Level"""
 StatusLabeJob#0,"""$(0) """
