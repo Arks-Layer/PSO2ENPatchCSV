@@ -1584,7 +1584,7 @@ Config_Reb_184_Hint#0,"""Sets whether to display the control guide for the <yell
 Config_Reb_184_Select_0#0,"""Do not display"""
 Config_Reb_184_Select_1#0,"""Display"""
 Config_Reb_185_Name#0,"""Always Enable Auto Party Join"""
-Config_Reb_185_Hint#0,"""パーティー設定の<yellow>“パーティー自動参加”<c>を、<br>常に有効な状態にするかを設定します。<br><br><yellow>※この設定を変更すると、<br>\u3000“パーティー自動参加”のチェックのON/OFFも、<br>\u3000連動して切り替わります。<c><br><yellow>※ただし、パーティー参加中で、<br>\u3000自身がパーティーリーダーでない状態のときは<br>\u3000切り替わりません。<c>"""
+Config_Reb_185_Hint#0,"""Sets whether to always have the <yellow>Auto Party Join<c> setting enabled under Party Settings.<br><br><yellow>※Changing this setting also changes the normal Auto Party Join checkbox.<c><br><yellow>※However, this setting will not affect the Party's settings if you are not the Party Leader.<c>"""
 Config_Reb_185_Select_0#0,"""Set when forming a Party"""
 Config_Reb_185_Select_1#0,"""Always enable"""
 Title#1,"""Action Palette Selection"""
