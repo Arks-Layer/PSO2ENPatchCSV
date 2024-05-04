@@ -734,4 +734,4 @@ Thunder01_Pattern2#0,"""에너미에게 번개 전파 공격 연쇄 횟수 증�
 Thunder01_Pattern3#0,"""대전 상태에서 발동하는 비차지 시의 낙뢰 위력 <yellow>$(0)<c>／<br>전파 위력 <yellow>$(1)<c>／복합 속성 테크닉 게이지 축적량 <yellow>$(2)<c><br>소비 PP <yellow>$(3)<c>"""
 Dark01_Pattern1#0,"""비차지 시의 폭발의 공격 범위 확대／탄속 상승<br>소비 PP <yellow>$(0)<c>"""
 Dark01_Pattern2#0,"""차지 시 공격이 하나의 포톤탄으로 통합／<br>저속으로 여러 번 적중하는 공격으로 변화<br>소비 PP <yellow>$(0)<c>"""
-Dark01_Pattern3#0,"""암흑 구슬의 스톡이 3개인 상태에서 비차지 시<br>威力<yellow>$(0)<c>／복합 속성 테크닉 게이지 축적량 <yellow>$(1)<c><br>소비 PP <yellow>$(2)<c>"""
+Dark01_Pattern3#0,"""암흑 구슬의 스톡이 3개인 상태에서 비차지 시<br>위력<yellow>$(0)<c>／복합 속성 테크닉 게이지 축적량 <yellow>$(1)<c><br>소비 PP <yellow>$(2)<c>"""
