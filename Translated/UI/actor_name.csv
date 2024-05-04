@@ -697,7 +697,7 @@ TalisPA01_Pattern2#0,"""While Talis is deployed, Techniques hit the target insta
 TalisPA01_Pattern3#0,"""While Talis is deployed, Tricky Capacitor Gauge fill rate <yellow>$(0)<c><br>While Talis is deployed, Technique PP Consumption <yellow>$(1)<c>"""
 WandPA01_Pattern2#0,"""Attack that throws a shockwave/Increased attack speed<br>Attack no longer moves you<br>PA attack power <yellow>$(0)<c>/PP Consumption <yellow>$(1)<c>"""
 Fire01_Pattern2#0,"""Increased attack speed<br>Charge time <yellow>$(0)<c><br>Technique attack power <yellow>$(1)<c>"""
-Fire01_Pattern3#0,"""Attribute Down rate<yellow>$(0)<c><br>Fire Crest accumulation rate <yellow>$(1)<c><br>PP Consumption <yellow>$(2)<c>"""
+Fire01_Pattern3#0,"""Attribute Down rate <yellow>$(0)<c><br>Fire Crest accumulation rate <yellow>$(1)<c><br>PP Consumption <yellow>$(2)<c>"""
 Wind01_Pattern1#0,"""Wind Wheel attack size expanded/Number of hits reduced<br>PP Consumption <yellow>$(0)<c>"""
 Wind01_Pattern2#0,"""Charged attack size expanded/Projectile speed increased<br>PP Consumption <yellow>$(0)<c>"""
 Light01_Pattern1#0,"""Charged and Ring of Light attacks become 1 hit each<br>Charged attack power <yellow>$(0)<c><br>Charge time <yellow>$(1)<c>"""
