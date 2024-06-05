@@ -21,3 +21,6 @@ BuffContainerUi_Def_01#0,"""Увеличение сопротивления ур
 BuffContainerOpen_Ex_01#0,"""Временно будет активен эффект <yellow>увеличения естественного восстановления РР<c>."""
 BuffContainerUi_Ex_01#0,"""Увеличение естественного восст. РР"""
 TorchBuff_NotFound#0,"""Нельзя использовать без термопокрытия."""
+RequiredPoints#0,"""<pict quest_point>"""
+LackOfPoints#0,"""探索ポイントが不足しています。"""
+DiscoverBonus#0,"""ワンダリングチェストを発見しました。獲得ポイント：$(0)"""
