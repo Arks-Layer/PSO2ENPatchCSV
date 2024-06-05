@@ -21,3 +21,6 @@ BuffContainerUi_Def_01#0,"""ダメージ耐性上昇/打ち上げや吹き飛ば
 BuffContainerOpen_Ex_01#0,"""一定時間、<yellow>PP自然回復量増加<c>の効果が発生します。"""
 BuffContainerUi_Ex_01#0,"""PP自然回復量増加"""
 TorchBuff_NotFound#0,"""ヒートコーティング状態でないと使用できません。"""
+RequiredPoints#0,"""<pict quest_point>"""
+LackOfPoints#0,"""探索ポイントが不足しています。"""
+DiscoverBonus#0,"""ワンダリングチェストを発見しました。獲得ポイント：$(0)"""
