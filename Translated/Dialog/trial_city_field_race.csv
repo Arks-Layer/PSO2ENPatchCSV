@@ -1,0 +1,6 @@
+TrialName#0,"""Collect Unlock Signs"""
+TrialBeginMsg#0,"""Collect as many Unlock Signs as possible within the time limit!"""
+TrialAbstract#0,"""Collect as many Unlock Signs<br>as possible within the time limit"""
+RewardGradeUp#0,"""<yellow>Trial cleared: Reward grade UP<c>"""
+TrialSuccessPersonalMsg#0,"""Trial \""$(0)\"" successful<br>Points earned: $(1)"""
+TrialSuccessExtendMsg#0,"""Trial \""$(0)\"" successful<br>Points earned: $(1)"""

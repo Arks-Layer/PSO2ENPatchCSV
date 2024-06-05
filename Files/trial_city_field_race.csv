@@ -1,6 +1,0 @@
-TrialName#0,"""アンロックサイン回収"""
-TrialBeginMsg#0,"""制限時間内に多くのアンロックサインを回収せよ！"""
-TrialAbstract#0,"""制限時間内に<br>多くのアンロックサインを回収する"""
-RewardGradeUp#0,"""<yellow>トライアルクリア時の報酬グレードアップ<c>"""
-TrialSuccessPersonalMsg#0,"""トライアル“$(0)”成功<br>獲得ポイント：$(1)"""
-TrialSuccessExtendMsg#0,"""トライアル“$(0)”成功<br>獲得ポイント：$(1)"""
