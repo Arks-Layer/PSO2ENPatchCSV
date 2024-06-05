@@ -21,3 +21,6 @@ BuffContainerUi_Def_01#0,"""데미지 내성 증가 / 뜨거나 날아감 무효
 BuffContainerOpen_Ex_01#0,"""일정 시간 동안 <yellow>PP 자연 회복량 증가<c> 효과가 발생합니다."""
 BuffContainerUi_Ex_01#0,"""PP 자연 회복량 증가"""
 TorchBuff_NotFound#0,"""히트 코팅 상태여야 사용할 수 있습니다."""
+RequiredPoints#0,"""<pict quest_point>"""
+LackOfPoints#0,"""探索ポイントが不足しています。"""
+DiscoverBonus#0,"""ワンダリングチェストを発見しました。獲得ポイント：$(0)"""
