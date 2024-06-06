@@ -93,7 +93,7 @@ Toast_AddTimeLimitSummary#0,"""대상 에너미 격파에 따라 제한 시간�
 ExRewardToast_075#0,"""/atime5 에너미 HP: 75% 남음<br><yellow>보상 업그레이드<c>"""
 ExRewardToast_025#0,"""/atime5 에너미 HP: 25% 남음<br><yellow>보상 업그레이드<c>"""
 ExRewardTitle#0,"""누적 데미지에 따른 보상 업그레이드"""
-ExRewardTitle_Point#0,"""회ㅜ 횟수에 따라 보상 등급 업"""
+ExRewardTitle_Point#0,"""회수 횟수에 따라 보상 등급 업"""
 TrialSuccessByTimeOver#0,"""에너미 철수!"""
 TrialSuccessByannihilation#0,"""에너미 섬멸 완료!"""
 TrialSuccessSideMissionSuccess#0,"""트라이얼 \""$(0)\"" 성공<br>획득 포인트: $(1)<br>사이드 미션 클리어 보너스: $(2)"""
