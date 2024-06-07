@@ -1,6 +1,6 @@
 MySpaceCommonLabel_EditMode#0,"""편집 모드"""
 MySpaceMenuText_OverPeople#0,"""동시에 편집할 수 있는 인원을 초과하여 편집 모드로 전환할 수 없습니다."""
-MySpaceMenuText_NoEditAuth2#0,"""편집 권한이 없기 떄문에 편집 모드로 전환할 수 없습니다."""
+MySpaceMenuText_NoEditAuth2#0,"""편집 권한이 없기 때문에 편집 모드로 전환할 수 없습니다."""
 MySpaceMenuText_NoEditAuth_Expired_EditMode#0,"""크리에이티브 스페이스의 사용 기간이 만료되어 편집 모드로 전환할 수 없습니다."""
 MySpaceMenuText_NoEditAuth_Expired_Menu#0,"""크리에이티브 스페이스의 사용 기간이 만료되어 메뉴를 열 수 없습니다."""
 MySpace_Notice_Editing#0,"""다른 플레이어가 조작 중이므로 편집할 수 없습니다."""
