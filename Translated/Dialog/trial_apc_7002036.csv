@@ -1,0 +1,6 @@
+Begin_7001027_a#0,"""/ci2 1 <%me>! Am I glad to see you!"""
+Success_7001027_a#0,"""/ci8 1 We did it! We work pretty well together."""
+Failure_7001027_a#0,"""/ci4 1 Awww... And I thought were doing so well..."""
+Begin_7005001_b#0,"""/ci1 1 They don't stand a chance against us!"""
+Success_7005001_b#0,"""/ci2 1 I saw some room for improvement there. I'll do even better next time!"""
+Failure_7005001_b#0,"""/ci1 5 W-Wait, what? That wasn't supposed to..."""
