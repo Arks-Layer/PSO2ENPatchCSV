@@ -11,7 +11,7 @@ UnusablePaletteText_BuildParts_Blueprint#0,"""This Build Part is only available 
 UnusablePaletteText_BuildParts_CSpaceOnly#0,"""This Build Part is not available in Team Spaces."""
 UnusablePaletteText_BuildParts_TeamSpaceOnly#0,"""This Build Part is only available in Team Spaces."""
 UnusablePaletteText_Blueprint#0,"""This Blueprint is not available in this Creative Space."""
-MyspaceInfoText_CrowdedPlaces#0,"""You have placed too many of this Build Part too close together. Please move them farther apart."""
+MyspaceInfoText_CrowdedPlaces#0,"""Too many of the same kind of Build Part are placed too close together. Please move them farther apart."""
 MyspaceInfoText_BlueprintNonEditable#0,"""This action cannot be performed on Build Parts placed by a Blueprint."""
 MyspaceInfoText_Outside_Player#0,"""You have been automatically transferred as you left the bounds of the Creative Space."""
 MyspaceInfoText_Outside_BuildParts#0,"""Build Parts cannot be placed at this location."""
