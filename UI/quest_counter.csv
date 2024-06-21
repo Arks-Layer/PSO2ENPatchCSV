@@ -16,7 +16,7 @@ HelpQuestSelect_DailyOrder#0,"""<c f0df60>When you clear a Featured Quest with a
 HelpOrderSelect#0,"""<c f0df60>Please select the Client Orders you wish to undertake.<c>"""
 HelpEpisodeSelect#0,"""<c f0df60>Please select an episode.<c>"""
 HelpBasnetGradeSelect#0,"""<c f0df60>Select your desired Grade.<c>"""
-HelpSubMenu#0,"""<c f0df60>You can change the settings when you select "Client Orders."<c>"""
+HelpSubMenu#0,"""<c f0df60>You can change the settings when you select \""Client Orders\"".<c>"""
 PrismHelpLimitedEventMenu#0,"""-"""
 HelpLimitedEventMenu#0,"""<c f0df60>Select the story you want to view.<c>"""
 HelpMackGradeSelect#0,"""<c f0df60>Choose a Quest Step.<c>"""
