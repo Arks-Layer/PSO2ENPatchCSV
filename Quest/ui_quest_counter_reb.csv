@@ -142,7 +142,7 @@ BoostInfo_SubTitlePlayer#0,"""<pict boost_campaign><pict 4space>플레이어 추
 BoostInfo_SubTitleItemDrop#0,"""<pict boost_camp_drop><pict 4space>아이템 추가 드랍"""
 BoostInfo_SubTitleQuest#0,"""캠페인 부스트"""
 BoostInfo_SubTitleSection#0,"""섹션 내 추가 효과"""
-BoostInfo_SubTitleArksRecordBoost#0,"""아크 레코드 부스트"""
+BoostInfo_SubTitleArksRecordBoost#0,"""아크스 레코드 부스트"""
 Quest_Conditions_Impossible#0,"""<yellow>$(0)<c>"""
 Quest_Conditions_None#0,"""---"""
 Quest_Conditions_Param#0,"""권장 능력치 이상"""
