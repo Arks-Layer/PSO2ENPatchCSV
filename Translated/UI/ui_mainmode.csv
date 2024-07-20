@@ -8947,7 +8947,7 @@ AnswerForm_Message#0,"""$(0)から<br>ラインストライクの“フリーバ
 CharacterNameWithPSNID#0,"""$(0)($(1))"""
 AnswerForm_Accept#0,"""Accept Challenge"""
 AnswerForm_Reject#0,"""Decline Challenge"""
-Matching_Cancel#0,"""Long press to cancel"""
+Matching_Cancel#0,"""Hold to cancel"""
 LineDuel_Matching_Title_Text#0,"""Matchmaking in Progress"""
 LineDuel_Matching_Type#0,"""Matchmaking Category"""
 LineDuel_Matching_Type_Casual#0,"""Unrated Battle"""
