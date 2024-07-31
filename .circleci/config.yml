@@ -55,6 +55,9 @@ jobs:
           name: checking CSVs for quote issues
           command: ./_sh/quote.sh
       - run:
+          name: Check for dup lines
+          command: ./_sh/dupCSV.sh
+      - run:
           name: verifing CSVs for PSO2 format
           command: ./_sh/check.sh
       - run:
