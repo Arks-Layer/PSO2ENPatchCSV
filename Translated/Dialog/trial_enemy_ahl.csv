@@ -10,6 +10,8 @@ NpcComOnFailure#0,"""The enemy has withdrawn.<br>...For the time being, the thre
 NpcComOnForetasteNGS2#0,"""/voice11_voice_navi001_trial_0001_002 Confirmed strong enemy presence! This one normally can't be found in that area. Please be careful!"""
 NpcComOnSuccessNGS2#0,"""/voice11_voice_navi001_trial_0001_069 Enemy defeated! Many thanks for taking care of it."""
 NpcComOnFailureNGS2#0,"""/voice11_voice_navi001_trial_0001_073 The enemy is withdrawing. Don't chase after it; let's focus on other objectives."""
+NpcComOnForetaste_DryverusTrial#0,"""その付近に強力なエネミーがいるようです！<br>至急、対応をお願いします。"""
+NpcComOnSuccess_DryverusTrial#0,"""エネミーへの対応、<br>ありがとうございます。"""
 NpcComOnForetasteNGS2#1,"""Ah... We've detected the presence of some unique enemies. We need more data on them, so please take care of it."""
 NpcComOnSuccessNGS2#1,"""I expected nothing less from you, <%me>. Thanks for your assistance."""
 NpcComOnFailureNGS2#1,"""Enemy withdrawal confirmed... Don't worry about it. Let's just move forward!"""
