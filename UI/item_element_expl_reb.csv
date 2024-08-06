@@ -614,7 +614,7 @@
 623#0,"""HP＋25 PP＋7<br>Damage+4.75%"""
 624#0,"""PP＋2<br>Damage+3.5%<br>Damage Resist+1.0%<br>Down Resistance+5.0%"""
 625#0,"""HP＋25 PP＋7<br>Damage+4.75%"""
-626#0,"""ベースアイテムと<br>同一シリーズの武器でなくても<br>マルチウェポンが作成可能。"""
+626#0,"""A Multi-Weapon can be created<br>even if the weapon isn't the<br>same series as the base item."""
 627#0,"""HP+40 PP+4<br>Damage+3.25%<br>Damage Variance+6.0%<br>Damage Resist+1.0%"""
 628#0,"""PP+2<br>Damage+3.25%<br>Damage Resist+1.0%<br>Down Resistance+5.0%"""
 14#0,"""Strike Weapon Damage+3.5%"""
