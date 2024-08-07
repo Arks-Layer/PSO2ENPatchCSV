@@ -634,7 +634,7 @@ EnemyGrowUpQuest_SendClient_PaTechniqueAtpDownBuff1_80#0,"""<yellow>PA/Tech Dama
 EnemyGrowUpQuest_HPUp50#0,"""<yellow>Maximum HP +50%<c>"""
 EnemyGrowUpQuest_HPUp100#0,"""<yellow>Maximum HP +100%<c>"""
 EnemyGrowUpQuest_HPUp150#0,"""<yellow>Maximum HP +150%<c>"""
-EnemyGrowUpQuest_HPUp180#0,"""<yellow>最大HP＋180%<c>"""
+EnemyGrowUpQuest_HPUp180#0,"""<yellow>Maximum HP +180%<c>"""
 EnemyGrowUpQuest_HPUp200#0,"""<yellow>Maximum HP +200%<c>"""
 EnemyGrowUpQuest_HPUp250#0,"""<yellow>Maximum HP +250%<c>"""
 EnemyGrowUpQuest_HPUp300#0,"""<yellow>Maximum HP +300%<c>"""
