@@ -1,3 +1,3 @@
 Title#0,"""Preset Abilities"""
-text0001#0,"""On rare occasion, weapons and armor dropped from enemies will have a Special Ability with a special effect, called a Preset Ability.<br><br>You can use the \""Transfer Preset Abilities\"" function at the Item Lab to transfer a Preset Ability to an item, or replace one that it already has.<br><br>Preset Abilities come in levels 1-5. The higher the level, the more rarely it drops."""
-text0002#0,"""To transfer a Preset Ability to an item, you need one item of the same name which already has the Preset Ability you want, which will be used as material, as well as N-Meseta."""
+text0001#0,"""On rare occasion, weapons and armor dropped from enemies will have a \""Preset Ability\"", which grants them a bonus special effect.<br><br>The higher the level of a Preset Ability, the more rarely it drops.<br><br>You can transfer Preset Abilities between items, or raise the level of a Preset Ability, at the Item Lab."""
+text0002#0,"""To transfer a Preset Ability to an item, you need another item of the same name which already has the Preset Ability you want, which will be used as material, as well as other material items.."""
