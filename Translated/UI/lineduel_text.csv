@@ -453,7 +453,7 @@
 13#1,"""[Passive Skill]<br>This card can be used for Rewrite Summons of any Attribute."""
 14#1,"""Targets allies.<br>Reduces targets' Power Level.<br>※Cannot target itself."""
 15#1,"""[Passive Skill]<br>Power Level increases by the number of enemies in the target squares x2."""
-16#1,"""[Passive Skill]<br>Power Level increases by the number of Attribtues among allies x2.<br>※Does not consider its own Attribute."""
+16#1,"""[Passive Skill]<br>Power Level increases by the number of Attributes among allies x2.<br>※Does not consider its own Attribute."""
 17#1,"""[Passive Skill]<br>Whenever a Disruption Skill activates, increases the value of allies' \""Weakens Enemies\"" Skills by 1."""
 20#2,"""[Passive Skill]<br>At the start of your turn, moves itself as indicated by the arrows, then increases its own Power Level by 1."""
 21#2,"""Next turn, Summoning to the target square is disabled."""
