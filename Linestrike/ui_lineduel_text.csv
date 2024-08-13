@@ -69,7 +69,7 @@ LineDuel_Rematch_Message#0,"""상대가 재대전을 요청했습니다.<br>다�
 LineDuel_Rematch_Denay_Title#0,"""재대전 확인"""
 LineDuel_Rematch_Denay_Message#0,"""상대가 재대전을 거절했습니다.<br>이 자리에서 나가시겠습니까?"""
 LineDuel_Rematch_Watching_Title#0,"""메시지"""
-LineDuel_Rematch_Watching_Message#0,"""같은 플레이어끼리 대결을 시작했습니다.<br>引き続き観戦しますか？"""
+LineDuel_Rematch_Watching_Message#0,"""같은 플레이어끼리 대결을 시작했습니다.<br>계속 관전하시겠습니까?"""
 LineDuel_Rematch_Watching_Title2#0,"""메시지"""
 LineDuel_Rematch_Watching_Message2#0,"""두 플레이어중 한 명이 퇴장하여,<br>다음 경기는 없습니다.<br>이 자리에서 나가시겠습니까?"""
 LineDuel_Title_Text#0,"""라인 스트라이크"""
