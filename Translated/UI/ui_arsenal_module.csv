@@ -40,7 +40,7 @@ Message_SkillAcquisitionCancel#0,"""Are you sure you want to discard your change
 Message_SkillAcquisitionLack#0,"""Not enough Skill Points."""
 SkillPoint_ToastMessage#0,"""M.A.R.S. Skill Point allocation complete."""
 Sword#0,"""VA-1SRM Garmr"""
-Scythe#0,"""VA-2MRM Nidhogg"""
+Scythe#0,"""VA-2MRM Nidhoggr"""
 Railgun#0,"""VA-3LRM Hydra"""
 Broom#0,"""VA-4XRM Scylla"""
 Sub_HMT#0,"""SA-1HMP Fenrir"""
