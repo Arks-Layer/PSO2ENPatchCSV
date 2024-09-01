@@ -333,7 +333,7 @@ QuickMenu_SaveConfirm_Text3#0,"""Apply the \""$(0)\"" Pattern to your Quick Menu
 QuickMenu_ListTab_Text0#0,"""All"""
 QuickMenu_ListTab_Text1#0,"""Quick Menu Only"""
 QuickMenu_ListTab_Text2#0,"""Tasks/Quests"""
-QuickMenu_ListTab_Text3#0,"""Equipment/Subpalette"""
+QuickMenu_ListTab_Text3#0,"""Equipment/Palette"""
 QuickMenu_ListTab_Text4#0,"""Communication"""
 QuickMenu_ListTab_Text5#0,"""Chat"""
 QuickMenu_ListTab_Text6#0,"""Personal"""
