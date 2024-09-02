@@ -1938,7 +1938,7 @@ TecherExplanation#0,"""<yellow>Close & Long Ranged Class<c><br>A Class whose val
 BraverExplanation#0,"""<yellow>Close & Long Ranged Class<c><br>A Class whose value lies in its ability to flexibly fight at any range by choosing the right weapon for the job. Its attacks are simple, but have hidden depths."""
 BouncerExplanation#0,"""<yellow>Close & Mid Ranged Class<c><br>A Class whose value lies in its high mobility and aerial combat skills. They can inflict Physical and Element Down on enemies to turn the battle in their favor."""
 SummonerExplanation#0,"""<yellow>Close & Long Ranged Class<c><br>Summons Familiars to fight alongside them. A Class whose value lies in summoning different Familiars depending on the situation."""
-SlayerExplanation#0,"""<yellow>Close Ranged Class<c><br>A Class that specializes in high maneuverability close-range combat. Uses both gunfire & slashing attacks to bury its foes."""
+SlayerExplanation#0,"""<yellow>Close Ranged Class<c><br>A Class that specializes in high maneuverability close-range combat. Uses gunfire & slashing attacks to bury its foes."""
 NoPaMessage#0,"""No Photon Arts"""
 NoTechnicMessage#1,"""No Techniques"""
 NoOverloadMessage#1,"""No Compound Techniques"""
