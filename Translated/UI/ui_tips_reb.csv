@@ -134,7 +134,7 @@ Dead_r02_gd_god2_ex_002#0,"""Dark Falz's arms can be broken to produce<br>Resta 
 Dead_r03_nat_bea_ice_001#0,"""When Konigs Yede digs its arms into the ground,<br>beware that it will attack by throwing giant snowballs."""
 Dead_r03_nat_bea_ice_002#0,"""Until Konigs Yede becomes enraged,<br>it will have a weak spot on its backside."""
 Dead_r03_nat_fan_icem_001#0,"""When Ice Banther jumps into the sky, beware that it will<br>slam into the ground for a wide-area explosion of ice."""
-Dead_r03_nat_fan_icem_002#0,"""When all of the Ice Banther's claws are broken, its<br>lunging attacks will cause it to slip and fall."""
+Dead_r03_nat_fan_icem_002#0,"""Ice Banther will fall over after its lunge<br>attack if all of its claws have been destroyed"""
 Dead_r03_nat_fan_icef_001#0,"""If you touch one of the ice balls thrown about by Ice Banshee,<br>there will be a brief period where you can avoid the explosion."""
 Dead_r03_nat_fan_icef_002#0,"""Ice Banshee can be Downed<br>with Fire Attribute attacks."""
 Dead_r03_nat_mam_de_001#0,"""You can stand on Zo Malmoth's back<br>for easy access to its weak point."""
