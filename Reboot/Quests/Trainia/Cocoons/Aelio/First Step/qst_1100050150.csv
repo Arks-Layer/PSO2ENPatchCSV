@@ -1,7 +1,0 @@
-name010#0,"""Гуиден"""
-name020#0,"""Бурудар"""
-text010#0,"""Установи Фотон Бласт."""
-Text_SubPallet1#0,"""Выбор под-палитры: """
-Text_SubPallet2#0,"""Активация по-палитры: """
-Button_SubPallet1#0,"""<%SubPaletteLeft><pict 4space><%SubPaletteRight>"""
-Button_SubPallet2#0,"""<%SubPalette>"""
