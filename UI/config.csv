@@ -1573,7 +1573,7 @@ Config_Reb_183_Hint#0,"""플레이어의<br>이동 시 움직임을 자연스럽
 Config_Reb_183_Select_0#0,"""OFF"""
 Config_Reb_183_Select_1#0,"""ON"""
 Config_Reb_Title_Toon#0,"""<white>툰 표시 설정<c>"""
-Config_CollaboMode_Hint#0,"""현재 캐릭터의 패션과 장비가,<br>\""스크린샷 올리기 캠페인\"" 등의<br>이벤트에 응모할 수 있는지 확인하기 위한<br>아이콘을 표시할지 여부를 설정합니다.<br><br><yellow>※아이콘은 항상 화면 오른쪽 상단에 표시됩니다.<c><br><br>【표시되는 아이콘】<br>・<pict collab_photo_ok>：응모 가능<br>・<pict collab_photo_ng>：응모 불가 (대상 제외 아이템이 포함된 상태)"""
+Config_CollaboMode_Hint#0,"""현재 캐릭터의 패션이나 장비,<br>설치 중인 빌드 파츠나 포터블 홀로그램,<br>C/T스페이스에서 설정한 뮤직 디스크가<br>\""스크린샷 올리기 캠페인\"" 등의<br>이벤트에 응모할 수 있는 내용인지 확인하기 위한<br>아이콘을 표시할 지 설정합니다.<br><br><yellow>※아이콘은 화면 우측 상단에 항상 표시됩니다.<c><br><br>【표시되는 아이콘】<br>・<pict collab_photo_ok>：응모 가능<br>・<pict collab_photo_ng>：(응모 불가 대상 외 아이템이 포함된 상태)"""
 Config_Reb_186_Name#0,"""초당 평균 데미지 (DPS) 표시 위치 설정"""
 Config_Reb_186_Hint#0,"""초당 평균 데미지 (DPS) 표시의<br>위치를 설정합니다."""
 Config_Reb_186_Select_0#0,"""우측 상단"""
