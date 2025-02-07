@@ -1,6 +1,6 @@
 Area0S#0,"""Nameless City Residential Area"""
 Area0L#0,"""Nameless City Residential Area"""
 Title#0,"""The Veil of Stars Descends"""
-Explanation#0,"""An energy reading of unprecedented strength has been detected in Outer Mediola: Sector 2. Under the circumstances, it can only be Dark Falz Vael.<br>All ARKS are to dispatch to the location and eliminate this existential threat.<br>――――――――――――――――――――――――――――――――――――――<br>Clear limit: $(0) time(s) <yellow>(shared among all active Emergency Quests)<c> <yellow>※No assist NPCs<c>"""
+Explanation#0,"""An energy reading of unprecedented strength has been detected in Outer Mediola: Sector 2. Under the circumstances, it can only be Dark Falz Vael. All ARKS are to dispatch to the location and eliminate this existential threat.<br>――――――――――――――――――――――――――――――――――――――<br>Clear limit: $(0) time(s) <yellow>(shared among all simultaneous Emergency Quests)<c> <yellow>※No assist NPCs<c>"""
 SimpleExplanation#0,"""Defeat Dark Falz Vael"""
 s0#0,"""Defeat the target enemy"""
