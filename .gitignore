@@ -6,5 +6,5 @@
 desktop.ini
 *.kate-swp
 *~
-Files/reb_gacha_banner_*.csv
-Files/reb_gacha_banner_s_*.csv
+*/reb_gacha_banner_*.csv
+*/reb_gacha_banner_s_*.csv
