@@ -4238,7 +4238,7 @@ TechterQuickElementChange#1,"""차지하지 않은<br>테크닉 사용 시에도
 TechterWandTechSkipAttack#1,"""테크닉 발동 후의<br>통상 공격이 3단계 상태의<br>강력한 공격으로 변경됩니다.<br><yellow>※완드 전용<c>"""
 ForceRodTechniqueBonus#1,"""테크닉으로<br>주는 데미지와 속성 다운치가 증가한다.<br><yellow>※로드 전용<c>"""
 ForcePhotonFlareExtension#1,"""복합 속성 테크닉<br>또는 포톤 블래스트 발동 시,<br>발동 중인 포톤 플레어의 효과 시간을 연장한다.<br>포톤 플레어가 발동 중이 아닐 경우,<br>효과가 최대 3회까지 누적되며,<br>다음 포톤 플레어 발동 시 된다.<br><yellow>※메인 클래스 전용<c>"""
-ForcePhotonFlareTecShortCharge#1,"""포톤 플레어 발동 중<br>테크닉의 위력이 저하되는 대신<br>차지 시간을 단축한다.<br><yellow>※메인 클래스 / 포스 무기 전용<c>"""
+ForcePhotonFlareTecShortCharge#1,"""포톤 플레어 또는<br>PP 컨버트 발동 중<br>테크닉의 차지 시간을 단축한다.<br><yellow>※메인 클래스 / 포스 무기 전용<c>"""
 ForceTalisShotMarking#1,"""일반 공격이나 무기 액션,<br>또는 스프레드 페더의 2단계를 통해<br>전개한 탈리스의 테크닉을<br>여러 번 에너미에게 적중시킴으로써,<br>적을 마킹 상태로 만든다.<br>마킹 상태의 에너미는 전개 중인 탈리스의<br>테크닉으로 주는 데미지가 상승한다.<br><yellow>※탈리스 전용<c>"""
 TechterTalisShotMarking#1,"""일반 공격이나 무기 액션,<br>또는 스프레드 페더의 2단계를 통해<br>전개한 탈리스의 테크닉을<br>여러 번 에너미에게 적중시킴으로써,<br>적을 마킹 상태로 만든다.<br>마킹 상태의 에너미는 전개 중인 탈리스의<br>테크닉으로 주는 데미지가 상승한다.<br><yellow>※탈리스 전용<c>"""
 HunterParryingPa#1,"""PA 발동부터<br>일정 시간 내에 에너미의 공격을 받으면,<br>해당 PA로 주는 데미지와 다운 값이 증가합니다.<br><yellow>※헌터 무기 전용<c>"""
