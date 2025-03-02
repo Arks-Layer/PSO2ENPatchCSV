@@ -9311,7 +9311,7 @@ MySpaceBlueprintThumbnailTableText_Limit#0,"""Maximum amount of Parts ($(0)) in 
 MySpaceGpShopTitle#0,"""Genesis Points Exchange Shop"""
 MySpaceGpShopTitle_Guide#0,"""Here, you can exchange Genesis Points for items."""
 MainMenu_MySpace_CSpaceNenu#0,"""Creative Spaces"""
-MainMenu_MySpace_IndexHome#0,"""MySpace"""
+MainMenu_MySpace_IndexHome#0,"""Creative Space"""
 MainMenu_MySpace_IndexTrend#0,"""Trending"""
 MainMenu_MySpace_IndexLifestyle#0,"""Community"""
 MainMenu_MySpace_IndexSearch#0,"""Search"""
