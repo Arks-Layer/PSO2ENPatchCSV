@@ -636,7 +636,7 @@ EnemyGrowUpQuest_SendClient_PaTechniqueAtpDownBuff1_50#0,"""<yellow>PA/테크닉
 EnemyGrowUpQuest_SendClient_PaTechniqueAtpDownBuff1_60#0,"""<yellow>PA/테크닉 데미지 내성 +60%<c>"""
 EnemyGrowUpQuest_SendClient_PaTechniqueAtpDownBuff1_70#0,"""<yellow>PA/테크닉 데미지 내성 +70%<c>"""
 EnemyGrowUpQuest_SendClient_PaTechniqueAtpDownBuff1_80#0,"""<yellow>PA/테크닉 데미지 내성 +80%<c>"""
-wxEnemyGrowUpQuest_HPUp20#0,"""<yellow>최대 HP＋20%<c>"""
+EnemyGrowUpQuest_HPUp20#0,"""<yellow>최대 HP＋20%<c>"""
 EnemyGrowUpQuest_HPUp50#0,"""<yellow>최대 HP +50%<c>"""
 EnemyGrowUpQuest_HPUp100#0,"""<yellow>최대 HP +100%<c>"""
 EnemyGrowUpQuest_HPUp150#0,"""<yellow>최대 HP +150%<c>"""
