@@ -1,0 +1,8 @@
+TrialName_1Enemy#0,"""$(0) 토벌"""
+TrialBeginMsg_1Enemy#0,"""출현한 $(0)을 쓰러뜨려라!"""
+TrialAbstract_1Enemy#0,"""$(0)을 쓰러뜨리기"""
+TrialName_Multi#0,"""에너미 토벌"""
+TrialBeginMsg_Multi#0,"""출현한 에너미를 쓰려뜨려라!"""
+TrialAbstract_Multi#0,"""에너미를 쓰러뜨리기"""
+NpcComOnBegin#0,"""위험해요! 이런 곳에서 강력한 에너미가…?<br>조속히 처리해 주시기 바랍니다!"""
+NpcComOnSuccess#0,"""에너미가 철수한 것 같습니다!<br>쫓아가서 처치합시다!"""
