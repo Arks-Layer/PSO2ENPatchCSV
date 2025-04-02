@@ -176,3 +176,4 @@ Shop_Present_Receive1#0,"""Claimed shop gift:<br>$(0)×$(1)<br><br>Thank you for
 Shop_Present_Receive2#0,"""Claimed shop gift:<br>$(0)×$(1)<br><br>Thank you for visiting us!<br><pure_orange>Items are currently on sale.<c><br>Please take a look!"""
 Shop_Present_Message1#0,"""Could not claim the gift as you have already claimed it or the deadline has already passed."""
 Shop_Present_Message2#0,"""Could not claim the gift."""
+SelectLockItemMessage1#0,"""装備中またはロック中のアイテムは選択できません。"""
