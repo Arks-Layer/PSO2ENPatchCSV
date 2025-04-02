@@ -176,3 +176,4 @@ Shop_Present_Receive1#0,"""방문 선물을 받았습니다.<br>$(0)×$(1)<br><b
 Shop_Present_Receive2#0,"""방문 선물을 받았습니다.<br>$(0)×$(1)<br><br>방문해 주셔서 감사합니다!<br><pure_orange>현재 특가 상품을 판매중입니다.<c><br>꼭 한번 둘러보세요."""
 Shop_Present_Message1#0,"""이미 수령했거나, 수령 기간이 지나<br>선물을 받을 수 없습니다."""
 Shop_Present_Message2#0,"""방문 선물 받을 수 없습니다."""
+SelectLockItemMessage1#0,"""装備中またはロック中のアイテムは選択できません。"""
