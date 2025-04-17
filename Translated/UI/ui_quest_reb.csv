@@ -26,7 +26,7 @@ E_eario_raid_1120110_End#0,"""Dark Falz has been repelled. Our military operatio
 E_ritemu_Dolls_1120030_Notice#0,"""Emergency Alert: We have detected strong DOLLS energy readings in the Retem Region. All ARKS are to prepare for sortie. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
 E_ritemu_Dolls_1120030_Open#0,"""Notifying all ARKS: We are beginning a mission to subdue the DOLLS that have appeared in the Retem Region. All ARKS are requested to participate in this mission. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
 SL_Event_End001#0,"""The Stage Live performance has ended. Thank you for participating."""
-SL_Event_Notice002#0,"""A Live Stage performance is scheduled to appear in Retem City. Everyone, please come & join us around the stage soon!"""
+SL_Event_Notice002#0,"""A Live Stage performance is scheduled to appear in Retem City. Everyone, please come and join us around the stage soon!"""
 SL_Event_BeforeOpen002#0,"""A Live Stage performance will be held in Retem City soon. Everyone, please gather around the stage!"""
 SL_Event_Open002#0,"""There's a Live Stage performance being held right now in Retem City!"""
 E_eario_General_Notice#0,"""Emergency Alert: We are preparing for a large-scale operation in the Aelio region. All ARKS are to prepare for sortie. <yellow>(For players with a Power Level of $(0) or higher)<c>"""
