@@ -269,6 +269,7 @@ StartMenu_ClipboardText#0,"""프렌드 초대 시스템を使って『ファン�
 StartMenu_Credit_NGS#0,"""『PSO2:NGS』"""
 StartMenu_Credit_PSO2#0,"""『PSO2』"""
 StartMenu_SegaAccount#0,"""SEGA Account연동"""
+StartMenu_WelcomeBackGift#0,"""ウェルカムバックギフト"""
 StartMenu_CharaSelect#1,"""플레이할 캐릭터를 선택하거나<br>캐릭터를 새로 만들 수 있습니다."""
 StartMenu_Regist#1,"""-"""
 StartMenu_SupportMenu#1,"""옵션 설정 등<br>각종 설정을 하실 수 있습니다"""
