@@ -1,6 +1,6 @@
 TrialName#0,"""$(0)討伐"""
 TrialBeginMsg#0,"""出現した$(0)を倒せ！"""
-TrialAbstract#0,"""$(0)を倒す"""
+TrialAbstract#0,"""$(0)를 쓰러뜨리기"""
 NpcComOnForetaste#0,"""\\空間に巨大なゲートが発生！<br>エネミーが出現する前に、弱体化させましょう！"""
 NpcComOnBegin#0,"""\\強力なエネミーが出現！<br>対処をお願いします！"""
 NpcComOnSuccess#0,"""\\強力なエネミーの撃破を確認！<br>次もよろしくお願いします！"""
