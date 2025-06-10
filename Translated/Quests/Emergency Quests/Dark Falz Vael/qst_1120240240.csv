@@ -1,4 +1,4 @@
 name010#0,"""Bruder"""
-text010#0,"""I've always felt a great strength inside of you. And that strength inspires me to fight!"""
-text020#0,"""Even when apart, our hearts are as one! Now go, \u3000<%me>！"""
+text010#0,"""I've always felt a great strength inside of you,<br>and that strength inspires me to fight!"""
+text020#0,"""Even when apart, our hearts are as one! Now go, <%me>!"""
 Line_HelpEvent#0,"""Battle Support (Bruder)<br>Maximum HP Increase<br>Maximum PP Increase<br>Resta Signs Automatically Replenish"""
