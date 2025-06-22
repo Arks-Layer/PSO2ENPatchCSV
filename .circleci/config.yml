@@ -65,9 +65,6 @@ jobs:
           name: coverage CSVs
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
-          name: Install GNU Aspell spell-checker
-          command: sudo apt-get -qq -y install aspell-en
-      - run:
           name: spell check CSVs
           command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt
       - run:
