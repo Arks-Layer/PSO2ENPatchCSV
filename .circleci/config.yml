@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-        - image: ghcr.io/synthsy/arks-layer-buildimages:sha256-081961237cf552427717c41ec6976e2c08e8a9cd8bc9dde0822d84b7866c5f57.sig
+      - image: ghcr.io/synthsy/arks-layer-buildimages:sha256-081961237cf552427717c41ec6976e2c08e8a9cd8bc9dde0822d84b7866c5f57.sig
       #- image: cimg/python:3.11-node
         environment:
           PARALLEL_SHELL: /bin/sh
