@@ -3,7 +3,6 @@ jobs:
   build:
     docker:
       - image: ghcr.io/synthsy/arks-layer-buildimages:main
-      #- image: cimg/python:3.11-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
