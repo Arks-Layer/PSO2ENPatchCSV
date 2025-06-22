@@ -2,7 +2,8 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cimg/python:3.11-node
+        - image: ghcr.io/synthsy/arks-layer-buildimages:sha256-081961237cf552427717c41ec6976e2c08e8a9cd8bc9dde0822d84b7866c5f57.sig
+      #- image: cimg/python:3.11-node
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -15,12 +16,6 @@ jobs:
         - /.*_Old/
         - JP_Reboot
     steps:
-      - run:
-          name: Update APT listing
-          command: sudo apt-get -qq update && sudo apt upgrade -y
-      - run:
-          name: Install rsync
-          command: sudo apt-get --no-install-recommends -qq -y install rsync
       - checkout
       - setup_remote_docker:
           docker_layer_caching: true
