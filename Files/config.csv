@@ -1573,7 +1573,7 @@ Config_Reb_183_Hint#0,"""プレイヤーの<br>移動時の動きを自然に見
 Config_Reb_183_Select_0#0,"""OFF"""
 Config_Reb_183_Select_1#0,"""ON"""
 Config_Reb_Title_Toon#0,"""<white>トゥーン表示設定<c>"""
-Config_CollaboMode_Hint#0,"""現在のキャラクターのファッションや装備、<br>設置中のビルドパーツやポータブルホログラムが<br>“スクリーンショット投稿キャンペーン”などの<br>イベントに応募できるかを確認するための<br>アイコンを表示するかを設定します。<br><br><yellow>※アイコンは画面右上に常に表示されます。<c><br><br>【表示されるアイコン】<br>・<pict collab_photo_ok>：応募可能<br>・<pict collab_photo_ng>：応募不可（対象外アイテムが含まれた状態）"""
+Config_CollaboMode_Hint#0,"""現在のキャラクターのファッションや装備、<br>設置中のビルドパーツやポータブルホログラム、<br>C/Tスペースで設定したミュージックディスクが<br>“スクリーンショット投稿キャンペーン”などの<br>イベントに応募できる内容かを確認するための<br>アイコンを表示するかを設定します。<br><br><yellow>※アイコンは画面右上に常に表示されます。<c><br><br>【表示されるアイコン】<br>・<pict collab_photo_ok>：応募可能<br>・<pict collab_photo_ng>：応募不可（対象外アイテムが含まれた状態）"""
 Config_Reb_186_Name#0,"""1秒間あたりのダメージ（DPS）表示の位置設定"""
 Config_Reb_186_Hint#0,"""1秒間あたりのダメージ（DPS）表示の<br>位置を設定します。"""
 Config_Reb_186_Select_0#0,"""右上"""
