@@ -2,7 +2,7 @@ version: 4
 jobs:
   build:
     docker:
-      - image: ghcr.io/synthsy/arks-layer-buildimages:main
+      - image: synthsy/alpine-rsync-python-nodejs:alpine
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
