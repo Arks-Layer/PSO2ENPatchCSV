@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: ghcr.io/synthsy/arks-layer-buildimages:main
+      - image: synthsy/alpine-rsync-python-nodejs:alpine
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -17,7 +17,7 @@ jobs:
     steps:
       - checkout
       - setup_remote_docker:
-          docker_layer_caching: false
+          docker_layer_caching: true
       - run:
           name: Checking DUP folders
           command: ./_sh/dupfolders.sh
