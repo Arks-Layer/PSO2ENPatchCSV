@@ -1,4 +1,4 @@
-Title#0,"""オルタレルム探索：迎撃セクション"""
-text0001#0,"""“オルタレルム”は、突然出現した空間で<br>多数のエネミーが出現する危険な場所です。<br><br>“迎撃セクション”では、一定間隔で出現する<br>強力な“ハイエネミー”の撃破を目指します。"""
-text0002#0,"""迎撃セクションでは、<yellow>任意のエネミーを倒す<c>ことで<br>トライアルの発生および一定間隔で出現する<br>ハイエネミーの弱体化を進行させることができます。<br><br>また、セクションに一定確率で出現する<br>“オルタ因子放出エネミー”を倒すことで<br>ハイエネミーの弱体化をより大きく進めることができます。"""
-text0003#0,"""セクション内に出現する“オルタ・ドローム”は<br>破壊することで<yellow>強力な特殊兵装をドロップ<c>します。<br><br>トライアル“広域オルタ因子活性化”の発生中は<br>オルタ因子放出エネミーとオルタ・ドロームが<br>より多く出現します。"""
+Title#0,"""Alter Realm Exploration: Intereception Section"""
+text0001#0,"""\"Alter Realm\" is a treacherous area in another dimension where numerous enemies appear.<br>In the \"Intereception Section\", powerful \"Hi Enemies\" appear at regular intervals. The objective is to defeat them."""
+text0002#0,"""In the \"Interception Section\", <yellow>defeating enemies<c> will cause a trial to occur. Clearing these trials will weaken the Hi enemies that appear at regular intervals.<br><br>In addition, defeating \"Alter Factor-emitting Enemies\" that appear routinely in the section will further weaken the Hi enemies."""
+text0003#0,"""Destroying the \"Alter Dromes\" that appear within the section causes <yellow>powerful special armaments to drop<c>.<br><br>During the trial \"Wide-area Alter Factor Activation\", more Alter Factor-emitting enemies and Alter Dromes will appear."""
