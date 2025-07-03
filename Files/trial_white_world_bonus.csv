@@ -1,4 +1,4 @@
-TrialName#0,"""広域オルタ因子活性化"""
-TrialBeginMsg#0,"""＊＊白色界 ボーナストライアル"""
-TrialAbstract#0,"""オルタ因子放出エネミーを倒す"""
-NpcComOnBegin#0,"""全域で、オルタ因子放出エネミーが発生中！<br>因子濃度を低下させる好機です！"""
+TrialName#0,"""Wide-area Alter Factor Activation"""
+TrialBeginMsg#0,"""＊＊White Realm Bonus Trial"""
+TrialAbstract#0,"""Defeat enemies that release Alter Factor"""
+NpcComOnBegin#0,"""Enemies emitting Alter Factor have appeared throughout the area!<br>Use this opportunity to reduce the Factor concentration!"""
