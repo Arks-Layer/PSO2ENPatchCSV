@@ -6,7 +6,7 @@ NpcComOnHPBuffRemain37_5#0,"""The rift's energy readings have changed drasticall
 NpcComOnHPBuffRemain25#0,"""Factor concentration is dropping further!<br>The rift's energy readings are being disrupted!"""
 NpcComOnHPBuffRemain12_5#0,"""It seems you've had a huge impact on the rift!<br>Please continue to defeat the nearby enemies!"""
 NpcComOnHPBuffRemain0#0,"""Factor concentration is dropping significantly!<br>Seems like we're really putting a dent in them!"""
-NpcComOnForetaste#0,"""A giant rift-like object has appeared! A powerful enemy is expected to emerge!<br>Eliminate the surrounding enemies to get the upperhand!"""
+NpcComOnForetaste#0,"""A giant rift-like object has appeared! A powerful enemy is expected to emerge!<br>Eliminate the surrounding enemies to get the upper hand!"""
 NpcComOnBegin#0,"""A powerful enemy has emerged from the rift!<br>Prepare to intercept!"""
 NpcComOnSuccess#0,"""The powerful enemy has been defeated!<br>Good job! Let's continue our exploration!"""
 BigTimerText#0,"""Defeat enemies to weaken the boss enemies."""
