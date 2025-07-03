@@ -9,5 +9,5 @@ NpcComOnHPBuffRemain0#0,"""Factor concentration is dropping significantly!<br>Se
 NpcComOnForetaste#0,"""A giant rift-like object has appeared! A powerful enemy is expected to emerge!<br>Eliminate the surrounding enemies to get the upper hand!"""
 NpcComOnBegin#0,"""A powerful enemy has emerged from the rift!<br>Prepare to intercept!"""
 NpcComOnSuccess#0,"""The powerful enemy has been defeated!<br>Good job! Let's continue our investigation!"""
-BigTimerText#0,"""Defeat enemies to weaken the boss enemies."""
+BigTimerText#0,"""Defeat enemies to weaken boss enemies."""
 BigTimerText_1#0,"""Defeat the boss enemy that emerges from the rift."""
