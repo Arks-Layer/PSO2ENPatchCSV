@@ -7350,7 +7350,7 @@ item_MultiBonus5_2#1,"""Damage +30%<br>Attack PP Recovery +15%<br>Natural PP Reg
 item_MultiBonus5_3#1,"""Damage +33%<br>Attack PP Recovery +15%<br>Natural PP Regen +15%<br>Damage Resistance +10%<br>PB Gauge gain from<br>attacking +10%"""
 item_MultiBonus5_4#1,"""Damage +36%<br>Attack PP Recovery +15%<br>Natural PP Regen +15%<br>Damage Resistance +10%<br>PB Gauge gain from<br>attacking +10%"""
 item_MultiBonus5_5#1,"""Damage +37%<br>Attack PP Recovery +15%<br>Natural PP Regen +15%<br>Damage Resistance +10%<br>PB Gauge gain from<br>attacking +10%"""
-item_MultiBonus5_6#1,"""Damage +43%／<br>攻撃時PP回復量＋15%／<br>PP自然回復速度＋15%／<br>ダメージ耐性＋10%／<br>攻撃時にフォトンブラスト<br>ゲージ増加＋10%"""
+item_MultiBonus5_6#1,"""Damage +43%<br>Attack PP Recovery +15%<br>Natural PP Regen +15%<br>Damage Resistance +10%<br>PB Gauge gain from<br>attacking +10%"""
 item_GuardStanceUp_1#1,"""Boosts the effect of<br>Guard Stance by 1%."""
 item_GuardStanceUp_2#1,"""Boosts the effect of<br>Guard Stance by 2%."""
 item_GuardStanceUp_3#1,"""Boosts the effect of<br>Guard Stance by 3%."""
