@@ -1,0 +1,7 @@
+Prog_PhotonDensity#0,"""＊＊フォトン濃度"""
+Prog_PlayerBuffTitle#0,"""プレイヤー能力強化"""
+Prog_PlayerDebuffTitle#0,"""＊＊プレイヤー能力減少"""
+Toast_PseLevelUp#0,"""＊＊PSEレベルアップ"""
+Toast_PseLevelDown#0,"""＊＊PSEレベルダウン"""
+Toast_GetDebuff#0,"""＊＊デバフ獲得時＜$(0)＞"""
+Toast_GetBuff#0,"""能力強化＜$(0)＞獲得！"""
