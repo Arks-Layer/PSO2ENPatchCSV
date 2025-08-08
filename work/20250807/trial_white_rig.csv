@@ -1,0 +1,8 @@
+TrialName#0,"""채굴 리그 방어"""
+TrialAbstract#0,"""채굴 리그를 일정 시간 동안 방어하기"""
+NpcComOnSuccess#0,"""/voice11_voice_navi003_trial_0001_068 자원 채굴 성공!<br>협력해줘서 고마워!"""
+NpcComOnFailure#0,"""채굴 리그에 심각한 피해!<br>조사 중단, 철수한다!"""
+NpcComOnBegin#0,"""채굴 리그가 이송됐어!<br>채굴이 완료될 때까지 에너미로부터 방어하라!"""
+NpcComOnDamage#0,"""채굴 리그가 크게 손상됐어!<br>이대로는 위험해…!"""
+NpcComOnSpawnCannon1#0,"""/voice11_voice_navi003_trial_0001_027 얼터 람이 출현했어!<br>가장 먼저 처리해줘!"""
+NpcComOnSpawnCannon2#0,"""/voice11_voice_navi003_trial_0001_028 얼터 람이 또 나타났어!<br>이쪽도 처리해줘!"""

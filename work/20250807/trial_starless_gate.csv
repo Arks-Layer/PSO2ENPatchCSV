@@ -1,0 +1,7 @@
+TrialName#0,"""네메시스 캐리어 격퇴"""
+TrialBeginMsg#0,"""<yellow>다이브 어택<c>으로 <yellow>호밍 퍼니셔<c>를 이용해, 강하 지역 내에서 에너미를 처치하라!"""
+TrialAbstract#0,"""<yellow>다이브 어택<c>으로 <yellow>호밍 퍼니셔<c>를 <br>이용해, 강하 지역 내에서 에너미를 처치하라"""
+NpcComOnForetaste#0,"""적을 운송 중인 네메시스 캐리어 출현!<br>강하하는 에너미를 처치하고, 캐리어를 제거해줘!"""
+NpcComOnSuccess#0,"""네메시스 캐리어 제거 성공!<br>그 기세로 다음에도 부탁할게!"""
+NpcComOnFailure#0,"""제거에 실패한 것 같다…!<br>다음 번엔 제대로 해보자고!"""
+NpcComOnHalf#0,"""네메시스 캐리어의 반응에 혼란이 일어나고 있어!<br>이 기세를 이어가자고!"""
