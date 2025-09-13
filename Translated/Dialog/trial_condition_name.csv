@@ -1,7 +1,7 @@
 PSEWTrial_PaTechniqueBuff#0,"""<yellow>PA/Technique Damage Boost<c>"""
 PSEWTrial_ArsenalModuleDamageBuff#0,"""<yellow>M.A.R.S. Attack Damage/Recharge Rate Boost<c>"""
 PSEWTrial_WeakPointDamageBuff#0,"""<yellow>Weak Point Damage Boost<c>"""
-PSEWTrial_OverRecoveryBuff#0,"""<yellow>10 Second Damage Boosts after Resta Sign<c>"""
+PSEWTrial_OverRecoveryBuff#0,"""<yellow>10 Second Damage Boost after Resta Sign<c>"""
 PSEWTrial_GlideAttackBuff#0,"""<yellow>Dive Attack Damage Boost<c>"""
 PSEWTrial_PbGaugeBuff#0,"""<yellow>Photon Blast Gauge Rate Boost<c>"""
 PSEWTrial_DodgeQuickAttackBuff#0,"""<yellow>Attack Speed Boost for 10 seconds after nullifying damage<c>"""
