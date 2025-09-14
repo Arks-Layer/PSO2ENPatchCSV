@@ -1,6 +1,6 @@
 TrialName#0,"""Subdue the Nemesis Carrier"""
-TrialBeginMsg#0,"""Using <yellow>Dive Attacks & the Homing Punisher<c>, defeat the enemies at the drop zone!"""
-TrialAbstract#0,"""Use <yellow>Dive Attacks & the Homing Punisher<c> to defeat the enemies at the drop zone"""
+TrialBeginMsg#0,"""Using <yellow>Dive Attacks & the Homing Punisher<c>,<br>defeat the enemies at the drop zone!"""
+TrialAbstract#0,"""Use <yellow>Dive Attacks & the Homing Punisher<c><br>to defeat the enemies at the drop zone"""
 NpcComOnForetaste#0,"""A Nemesis Carrier has appeared!<br>Defeat the enemies descending from it at the landing zone, then the carrier!"""
 NpcComOnSuccess#0,"""ネメシス・キャリアーの排除に成功！<br>その調子で次もヨロシクな！"""
 NpcComOnFailure#0,"""排除に失敗したようだ……!<br>次はしっかりやろうぜ！"""
