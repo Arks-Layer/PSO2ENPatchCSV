@@ -1,8 +1,0 @@
-TrialName#0,"""採掘リグ防衛"""
-TrialAbstract#0,"""採掘リグを一定時間守る"""
-NpcComOnSuccess#0,"""/voice11_voice_navi003_trial_0001_068 資源の採掘に成功！<br>協力、ありがとうな！"""
-NpcComOnFailure#0,"""採掘リグに、重大なダメージ！<br>調査中断、撤退する！"""
-NpcComOnBegin#0,"""採掘リグが転送されたぞ！<br>採掘完了まで、エネミーから防衛してくれ！"""
-NpcComOnDamage#0,"""採掘リグが大きく損傷！<br>このままだと危ないぞ……！"""
-NpcComOnSpawnCannon1#0,"""/voice11_voice_navi003_trial_0001_027 オルタ・ラームが出現した！<br>最優先で対処を頼むぜ！"""
-NpcComOnSpawnCannon2#0,"""/voice11_voice_navi003_trial_0001_028 さらにオルタ・ラームが出現！<br>こっちも対処してくれ！"""
