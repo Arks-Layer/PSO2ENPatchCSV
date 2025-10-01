@@ -69,6 +69,7 @@ LineDuel_PlayError_RewriteCost#0,"""消費PPが、上書き前のカードより
 LineDuel_PlayError_Cost#0,"""PPが足りません。"""
 LineDuel_PlayError_AlreadyPlay#0,"""同じターン中に、同じマスにはリライト召喚できません。"""
 LineDuel_PlayError_CellSeal#0,"""“召喚封印”の効果により、召喚できません。"""
+LineDuel_PlayError_AbilityRestrict#0,"""プレイするカードの効果により、召喚できません。"""
 LineDuel_Mulligan_Execute#0,"""手札を引き直しました。"""
 LineDuel_Mulligan_RewriteShortage#0,"""消費PPが、上書き前のカードより少ないためリライト召喚できません。"""
 LineDuel_Rematch_Toast#0,"""対戦相手から再戦のリクエストがありました。"""
