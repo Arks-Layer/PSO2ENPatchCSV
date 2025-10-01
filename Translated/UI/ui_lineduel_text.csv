@@ -69,6 +69,7 @@ LineDuel_PlayError_RewriteCost#0,"""Cannot Rewrite Summon as this card has a low
 LineDuel_PlayError_Cost#0,"""Not enough PP."""
 LineDuel_PlayError_AlreadyPlay#0,"""You cannot Rewrite Summon to one space twice in the same turn."""
 LineDuel_PlayError_CellSeal#0,"""You cannot Summon here due to the effect of Summon Seal."""
+LineDuel_PlayError_AbilityRestrict#0,"""プレイするカードの効果により、召喚できません。"""
 LineDuel_Mulligan_Execute#0,"""Hand redrawn."""
 LineDuel_Mulligan_RewriteShortage#0,"""Cannot Rewrite Summon as this card's PP cost is lower than the card it would be rewriting."""
 LineDuel_Rematch_Toast#0,"""Your opponent has requested a rematch."""
