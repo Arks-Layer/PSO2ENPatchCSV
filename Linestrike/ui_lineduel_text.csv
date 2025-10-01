@@ -69,7 +69,7 @@ LineDuel_PlayError_RewriteCost#0,"""소비 PP가 덮어쓰기 전의 카드보�
 LineDuel_PlayError_Cost#0,"""PP가 부족합니다."""
 LineDuel_PlayError_AlreadyPlay#0,"""같은 턴에,  같은 칸에 리라이트 소환을 할 수 없습니다."""
 LineDuel_PlayError_CellSeal#0,"""\""소환 봉인\""효과로 인해 소환할 수 없습니다."""
-LineDuel_PlayError_AbilityRestrict#0,"""プレイするカードの効果により、召喚できません。"""
+LineDuel_PlayError_AbilityRestrict#0,"""플레이 하는 카드 효과로 인해 소환할 수 없습니다."""
 LineDuel_Mulligan_Execute#0,"""패를 다시 뽑았습니다."""
 LineDuel_Mulligan_RewriteShortage#0,"""소비 PP가 덮어쓰기 전의 카드보다 적기 때문에 리라이트 소환이 불가능합니다.."""
 LineDuel_Rematch_Toast#0,"""상대편에게 재대전 요청이 들어왔습니다."""
