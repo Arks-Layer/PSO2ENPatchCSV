@@ -1,4 +1,4 @@
-version: 2
+version: 3
 jobs:
   build:
     docker:
@@ -15,7 +15,8 @@ jobs:
         - /.*_Old/
         - JP_Reboot
     steps:
-      - checkout
+      - checkout:
+          method: blobless
       - setup_remote_docker:
           docker_layer_caching: true
       - run:
