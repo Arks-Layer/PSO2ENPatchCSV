@@ -14,7 +14,8 @@ jobs:
         - JP
         - /.*_Old/
     steps:
-      - checkout
+      - checkout:
+          method: blobless
       - setup_remote_docker:
           docker_layer_caching: true
       - run:
