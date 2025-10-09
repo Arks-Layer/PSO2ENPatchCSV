@@ -14,7 +14,8 @@ jobs:
         - JP
         - /.*_Old/
     steps:
-      - checkout
+      - checkout:
+          method: blobless
       - run:
           name: Checking DUP folders
           command: ./_sh/dupfolders.sh
