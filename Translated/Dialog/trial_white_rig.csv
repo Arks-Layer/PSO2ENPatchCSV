@@ -1,0 +1,8 @@
+TrialName#0,"""Mining Rig Defense"""
+TrialAbstract#0,"""Defend the Mining Rig"""
+NpcComOnSuccess#0,"""/voice11_voice_navi003_trial_0001_068 Resource extraction was successful. Thank you for your assistance!"""
+NpcComOnFailure#0,"""The Mining Rig has sustained critical damage! Suspending the extraction, prepare to withdraw!"""
+NpcComOnBegin#0,"""The Mining Rig has been deployed. Defend the equipment until extraction has been completed!"""
+NpcComOnDamage#0,"""The Mining Rig has been severely damaged. If we don't do something soon, it'll be too dangerous to continue..."""
+NpcComOnSpawnCannon1#0,"""/voice11_voice_navi003_trial_0001_027 The Alter Ram has appeared!<br>Please make it your top priority!"""
+NpcComOnSpawnCannon2#0,"""/voice11_voice_navi003_trial_0001_028 Another Alter Ram has appeared!<br>Take care of this one as well!"""

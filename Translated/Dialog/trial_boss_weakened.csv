@@ -1,0 +1,6 @@
+TrialName#0,"""$(0) Subjugation"""
+TrialBeginMsg#0,"""Defeat the $(0) that has appeared!"""
+TrialAbstract#0,"""Defeat the $(0)"""
+NpcComOnForetaste#0,"""A giant rift has appeared!<br>Weaken the enemy before it emerges!"""
+NpcComOnBegin#0,"""A powerful enemy has emerged!<br>Please take care of it!"""
+NpcComOnSuccess#0,"""The powerful enemy has been defeated!<br>Thank you for your assistance!"""
