@@ -12940,7 +12940,7 @@ Message_PassConsumption#1,"""<red>「N-特殊能力移植パス」が必要<c>�
 Message_Confirm1#4,"""This will begin EX Special Ability Transfer. Do you wish to continue?<br><br>※<yellow>All EX Abilities on the Material Item will disappear<c><br>\u3000and will be transferred over to the Base Item."""
 Message_Confirm2#1,"""EX特殊能力の移植を開始します。よろしいですか？<br><br>※<red>「N-特殊能力移植パス」を消費します。<c><br>※<yellow>“素材アイテム”<c>として使用したアイテムの<yellow>EX特殊能力は消滅し、<c><br>\u3000“ベースアイテム”に引き継がれます。"""
 Message_Finish#4,"""EX Special Ability Transfer complete."""
-ring_AvoidBuff#0,"""Versus Boss enemies: Damage $(0)<br>Upon nullifying enemy damage via Step<br>or Weapon Actions: Damage $(1) for $(2)s."""
+ring_AvoidBuff#0,"""Versus Boss enemies: Damage $(0)<br>Upon nullifying enemy damage via Step<br>or Weapon Actions: Damage $(1) for $(2)"""
 ring_AvoidBuffFollow#0,"""When attacks are nullified via Step<br>or Weapon Actions; Recovers: +$(2) HP,<br>+$(3) PP, Recast $(4)<br>Natural PP Recovery $(0) for $(1)"""
 ring_HpKeepBuff#0,"""The higher your HP is,<br>the greater your Damage will be.<br>Max limit: $(2)<br>Recover +$(0) HP every $(1)"""
 ring_HpKeepFollow#0,"""When HP is at $(0) or higher,<br>you take $(1) more damage.<br>You no longer can be launched or<br>be knocked back by enemy attacks<br>while your HP is at $(2) or higher."""
