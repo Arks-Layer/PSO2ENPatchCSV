@@ -12944,7 +12944,7 @@ ring_AvoidBuff#0,"""Versus Boss enemies: Damage $(0)<br>Upon nullifying enemy da
 ring_AvoidBuffFollow#0,"""When attacks are nullified via Step<br>or Weapon Actions; Recovers: $(2) HP,<br>$(3) PP, Recast $(4)<br>Natural PP Recovery $(0) for $(1)"""
 ring_HpKeepBuff#0,"""The higher your HP is,<br>the greater your Damage will be.<br>Max limit: $(2)<br>Recover $(0) HP every $(1)"""
 ring_HpKeepFollow#0,"""When HP is at $(0) or higher,<br>damage received is: $(1).<br>You no longer can be launched or<br>be knocked back by enemy attacks<br>while your HP is at $(2) or higher."""
-ring_PpCostBuff#0,"""Boosts PA/Tech damage by $(1),<br>but in return you consume $(0) PP more.<br>If PP is $(2) or less: Damage $(3)"""
+ring_PpCostBuff#0,"""Test 1<br>Test 2<br>Test 3<br>Boosts PA/Tech damage by $(1),<br>but in return you consume $(0) PP more.<br>If PP is $(2) or less: Damage $(3)"""
 ring_PpCostFollow#0,"""If PP is $(0) or lower, your attacks<br>restores $(1) PP.<br>Restores $(3) PP when you have<br>$(2) PP or lower. Recast is $(4)"""
 ring_ReductionBuff#0,"""Restores $(2) of PP when your HP decreases,<br>Recast $(3)<br>Damage $(0) for $(1)"""
 ring_ReductionFollow#0,"""Restores $(2) HP when your HP is<br>decreased, Recast $(3)<br>Damage received $(0) for $(1)"""
