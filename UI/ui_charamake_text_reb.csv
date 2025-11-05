@@ -265,8 +265,13 @@ Key_Item_ColorEdit#0,"""각 컬러 설정 일괄 관리"""
 Help_Item_ColorEdit#0,"""변경 가능한 모든 컬러를 일괄적으로 설정할 수 있습니다."""
 Key_Item_Toon#0,"""툰 표시 설정"""
 Help_Item_Toon#0,"""캐릭터, 의상 등의 표시를 툰(애니)으로 표현할지 여부를 설정합니다."""
+<<<<<<< HEAD
 Key_Item_ItemPack#0,"""아이템 팩/창고"""
 Help_Item_ItemPack#0,"""아이탬 팩/창고 메뉴을 엽니다."""
+=======
+Key_Item_ItemPack#0,"""Inventory/Storage"""
+Help_Item_ItemPack#0,"""Opens the Inventory/Storage menu."""
+>>>>>>> 5c27aaeaaac6dc64eff2613f62c185407a88a088
 Title_SetAccessoryList#0,"""장비 중인 악세서리"""
 Param_SetAccessoryName#0,"""$(0)"""
 Label_RemoveAll#0,"""전부 없애기"""
@@ -498,7 +503,11 @@ Label_EstheOptionCoordinate#0,"""표시 설정"""
 Label_EstheOptionCoordinateText#0,"""조정 항목의 수치 표시"""
 Label_EstheOptionCameraZoom#0,"""편집 시 카메라 설정"""
 Label_EstheOptionCameraZoomText#0,"""카메라 위치를 자동으로 변경하지 않음"""
+<<<<<<< HEAD
 Label_OpenItemPack#0,"""아이템 팩/창고"""
+=======
+Label_OpenItemPack#0,"""アイテムパック／倉庫"""
+>>>>>>> 5c27aaeaaac6dc64eff2613f62c185407a88a088
 Label_Next#0,"""결정"""
 Label_Back#0,"""돌아가기"""
 Label_EditCheck#0,"""편집 내용 확인"""
@@ -745,9 +754,15 @@ ChangeColorEyebrow#0,"""눈썹 색상을 변경했습니다."""
 ChangeColorEyelash#0,"""속눈썹 색상을 변경했습니다."""
 ChangeColorHair1#0,"""헤어 컬러 1을 변경했습니다."""
 ChangeColorHair2#0,"""헤어 컬러 2를 변경했습니다."""
+<<<<<<< HEAD
 UndoRedo_SkippedSuccess#0,"""아이템이 아이템 팩/캐릭터 창고에 없으므로 장비 가능한 기록까지 되돌아갔습니다."""
 UndoRedo_Failed#0,"""아이템이 아이템 팩/캐릭터 창고에 없어 반영에 실패했습니다."""
 Chat_Public_Failed#0,"""에스테에서는 '주변에 말하기'로 말할 수 없습니다. 발언 대상을 전환해 주세요."""
+=======
+UndoRedo_SkippedSuccess#0,"""アイテムがアイテムパック/キャラ倉庫にないため、装備可能な履歴まで戻りました。"""
+UndoRedo_Failed#0,"""アイテムがアイテムパック/キャラ倉庫にないため、反映に失敗しました。"""
+Chat_Public_Failed#0,"""エステ内では「周囲に発言」へ発言できません。発言先を切り替えてください。"""
+>>>>>>> 5c27aaeaaac6dc64eff2613f62c185407a88a088
 Label_Wait#0,"""대기"""
 Label_Run#0,"""이동"""
 Label_Jump#0,"""점프"""
