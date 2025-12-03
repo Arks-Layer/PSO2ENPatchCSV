@@ -7,3 +7,5 @@ PSEWTrial_PbGaugeBuff#0,"""<yellow>포톤 블래스트 게이지 축작량 증�
 PSEWTrial_DodgeQuickAttackBuff#0,"""<yellow>공격 무효화 성공 시 10초간 공격 속도 상승<c>"""
 PSEWTrial_CriticalBuff#0,"""<yellow>크리티컬 확률 상승/발생 시 추가 데미지<c>"""
 PSEWTrial_RangeDamageBuff#0,"""<yellow>일정 간격마다 자동으로 추가 공격 발생<c>"""
+PSEWTrial_Makai_StepShotBuff#0,"""<yellow>ステップ発動時に追加攻撃発生<c>"""
+PSEWTrial_Makai_StepCounterBuff#0,"""<yellow>ステップ時カウンター発生可能/威力上昇<c>"""
