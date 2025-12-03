@@ -1,0 +1,8 @@
+TrialName_1Enemy#0,"""アークラン妨害域エネミー討伐"""
+TrialBeginMsg_1Enemy#0,"""<yellow>アークラン<c>の攻撃を誘導し、$(0)を撃破せよ！"""
+TrialAbstract_1Enemy#0,"""$(0)を倒す"""
+TrialName_Multi#0,"""アークラン妨害域エネミー討伐"""
+TrialBeginMsg_Multi#0,"""<yellow>アークラン<c>の攻撃を誘導し、エネミーを撃破せよ！"""
+TrialAbstract_Multi#0,"""エネミーを倒す"""
+NpcComOnSpawnLaserTurret1#0,"""なんだアイツ……？\u3000レーザーを打ってくるぞ！<br>エネミーの影に隠れて、攻撃をやりすごすんだ！"""
+NpcComOnSpawnLaserTurret2#0,"""\\新たな誘導砲が出現！<br>攻撃をかいくぐってください！"""
