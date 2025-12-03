@@ -1,0 +1,8 @@
+TrialName_1Enemy#0,"""아크란 방해 영역 에너미 토벌"""
+TrialBeginMsg_1Enemy#0,"""<yellow>아크란<c>의 공격을 유도하여 $(0) 격파하라!"""
+TrialAbstract_1Enemy#0,"""$(0) 쓰러뜨리기"""
+TrialName_Multi#0,"""아크란 방해 영역 에너미 토벌"""
+TrialBeginMsg_Multi#0,"""<yellow>아크란<c>의 공격을 유도하여 에너미를 격파하라!"""
+TrialAbstract_Multi#0,"""에너미 쓰러뜨리기"""
+NpcComOnSpawnLaserTurret1#0,"""뭐야 저 녀석…? 레이저를 쏘고 있어!<br>에너미 뒤에 숨어서 공격을 피해야 해!"""
+NpcComOnSpawnLaserTurret2#0,"""\\새로운 유도 포가 출현!<br>공격을 피해 주십시오!"""
