@@ -23,6 +23,8 @@ BoxGacha_Guide#0,"""決定：<%Decide>\u3000\u3000キャンセル：<%Cancel>\u3
 BoxGacha_Notice1#0,"""すべてのアイテムを入手しました。Step.$(0)に進みます。"""
 BoxGacha_Notice2#0,"""すべてのアイテムを入手しました。次のステップには進まず、現在のステップに再度挑戦できます。"""
 BoxGacha_Notice3#0,"""現在のリワードボックスにあるすべてのアイテムを入手しました。"""
+BoxGacha_CompTitle#0,"""Stepパーフェクト報酬"""
+BoxGacha_CompMessage#0,"""**のコンプリート報酬を<br>獲得できます。"""
 Title#0,"""メッセージ"""
 EmergencyStopClose#0,"""現在、選択した機能に問題が発生しており<br>調査のため使用を制限しています。<br>詳しくはプレイヤーズサイトをご確認ください。"""
 MatchingClose#0,"""マッチング中は実行できません。<br>リワードボックスのウィンドウを閉じます。"""

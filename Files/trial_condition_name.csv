@@ -7,3 +7,5 @@ PSEWTrial_PbGaugeBuff#0,"""<yellow>フォトンブラストゲージ蓄積量増
 PSEWTrial_DodgeQuickAttackBuff#0,"""<yellow>攻撃無効化成功時に10秒間攻撃速度上昇<c>"""
 PSEWTrial_CriticalBuff#0,"""<yellow>クリティカル率上昇/発生時に追加ダメージ<c>"""
 PSEWTrial_RangeDamageBuff#0,"""<yellow>一定間隔ごとに自動的に追加攻撃発生<c>"""
+PSEWTrial_Makai_StepShotBuff#0,"""<yellow>ステップ発動時に追加攻撃発生<c>"""
+PSEWTrial_Makai_StepCounterBuff#0,"""<yellow>ステップ時カウンター発生可能/威力上昇<c>"""
