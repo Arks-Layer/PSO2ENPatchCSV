@@ -23,6 +23,8 @@ BoxGacha_Guide#0,"""Accept:<%Decide>\u3000\u3000Cancel:<%Cancel>\u3000\u3000Swap
 BoxGacha_Notice1#0,"""All items have been acquired. Proceed to Step $(0)."""
 BoxGacha_Notice2#0,"""All items have been acquired. You may try the current step again without advancing."""
 BoxGacha_Notice3#0,"""All rewards in the current box have been acquired."""
+BoxGacha_CompTitle#0,"""Stepパーフェクト報酬"""
+BoxGacha_CompMessage#0,"""**のコンプリート報酬を<br>獲得できます。"""
 Title#0,"""Message"""
 EmergencyStopClose#0,"""The selected function is currently experiencing issues & thus not available. Please check the players website for more information."""
 MatchingClose#0,"""Cannot be used while Matching queue is in progress."""
