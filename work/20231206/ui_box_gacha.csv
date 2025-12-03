@@ -23,6 +23,8 @@ BoxGacha_Guide#0,"""결정: <%Decide>\u3000\u3000취소: <%Cancel>\u3000\u3000�
 BoxGacha_Notice1#0,"""모든 아이템을 획득했습니다.  $(0)스텝으로 넘어갑니다."""
 BoxGacha_Notice2#0,"""모든 아이템을 획득했습니다. 다음 스텝으로 넘어가지 않고 해당 스텝에서 다시 도전할 수 있습니다."""
 BoxGacha_Notice3#0,"""현재 리워드 박스에 있는 모든 아이템을 획득했습니다."""
+BoxGacha_CompTitle#0,"""Stepパーフェクト報酬"""
+BoxGacha_CompMessage#0,"""**のコンプリート報酬を<br>獲得できます。"""
 Title#0,"""메시지"""
 EmergencyStopClose#0,"""현재 선택하신 기능에 문제가 발생하여<br>조사하기 위해 사용을 제한하고 있습니다.<br>자세한 내용은 플레이어즈 사이트를 확인해 주세요."""
 MatchingClose#0,"""매칭 중에는 실행할 수 없습니다.<br>리워드 박스의 윈도우를 닫습니다."""
