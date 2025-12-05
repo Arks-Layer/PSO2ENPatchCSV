@@ -1,0 +1,8 @@
+Lane1#0,"""녹색 레인"""
+Lane2#0,"""적색 레인"""
+Lane3#0,"""황색 레인"""
+QuestProgressWay#0,"""에너미를 격퇴하여 최심부의 에너미를 약화시켜라"""
+QuestProgress#0,"""합계 HP 감소율 $(0)"""
+QuestProgressMax#0,"""<yellow>합계 HP 감소율 $(0)<c>"""
+EnemyNum#0,"""<pict enemy_icon> $(0)"""
+Progress#0,"""HP 감소율 $(0)"""
