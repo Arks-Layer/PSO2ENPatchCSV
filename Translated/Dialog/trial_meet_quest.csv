@@ -1,0 +1,8 @@
+Lane1#0,"""Green Lane"""
+Lane2#0,"""Red Lane"""
+Lane3#0,"""Yellow Lane"""
+QuestProgressWay#0,"""Defeat the enemies and weaken the final target"""
+QuestProgress#0,"""Total HP Reduction $(0)"""
+QuestProgressMax#0,"""<yellow>Total HP Reduction $(0)<c>"""
+EnemyNum#0,"""<pict enemy_icon> $(0)"""
+Progress#0,"""HP Reduction $(0)"""
