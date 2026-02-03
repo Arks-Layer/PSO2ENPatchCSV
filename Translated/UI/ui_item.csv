@@ -821,7 +821,7 @@ Error_Use_Ticket_OutsideCity#0,"""This item can only be used in ARKS Bases, such
 Error_Use_Ticket_NotSolo#0,"""Cannot use because you are in a Party, in Matchmaking, or carrying out a Party-related function."""
 Error_Use_Ticket_Passed#0,"""Cannot use because you have already reached the latest chapter of the Main Story."""
 NoObjectMessage#0,"""No items"""
-RingEquip_Error#0,"""スキルリングは、アークス拠点でのみ変更可能です。"""
+RingEquip_Error#0,"""Skill Rings can only be changed at ARKS bases."""
 Param_Value#0,"""$(0)"""
 Param_Percent#0,"""$(0)%"""
 Param_MaxValue#0,"""(MAX. $(0))"""
