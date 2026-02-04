@@ -1,0 +1,5 @@
+TrialName#0,"""スターラッピーティンクル回収"""
+TrialBeginMsg#0,"""ネオンシティを駆け回り<br>スターラッピーティンクルを回収せよ！"""
+TrialAbstract#0,"""制限時間内に<br>多くのスターラッピーティンクルを回収する"""
+TrialSuccessPersonalMsg#0,"""トライアル“$(0)”成功"""
+TrialSuccessExtendMsg#0,"""トライアル“$(0)”成功"""
