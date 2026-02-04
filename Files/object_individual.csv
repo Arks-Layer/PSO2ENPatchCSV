@@ -33,3 +33,4 @@ DiscoverBonus#0,"""ワンダリングチェストを発見しました。獲得�
 GaugeCharge#0,"""M.A.R.S.バッテリーが一定量回復しました。"""
 LackOfHWPoints#0,"""キャンディーが不足しています。"""
 CandyIcon#0,"""<pict icon_sweets>"""
+LackOfNPoint#0,"""探索ポイントが不足しています。"""
