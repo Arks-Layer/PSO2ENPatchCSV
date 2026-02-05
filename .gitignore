@@ -18,3 +18,6 @@ extract_chars.py
 cleanup_fix.py
 scan_linestrike.py
 cleanup_linestrike.py
+check_encoding.py
+inspect_quest_quotes.py
+remove_bom.py
