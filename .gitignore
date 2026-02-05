@@ -9,3 +9,12 @@ desktop.ini
 .DS_Store
 /.vs
 Glossary.md
+analyze_japanese.py
+scan_japanese.py
+translate_ui_item.py
+cleanup_ellipsis.py
+scan_leftovers.py
+extract_chars.py
+cleanup_fix.py
+scan_linestrike.py
+cleanup_linestrike.py
