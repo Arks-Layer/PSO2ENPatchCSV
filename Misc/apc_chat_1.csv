@@ -1983,16 +1983,16 @@ TechThunder#26,"""<br>      """
 TechWind#26,"""<br>      """      
 TechLight#26,"""<br>      """      
 TechDark#26,"""<br>      """      
-PBFull#63,준비 완료. 언제든 갈 수 있어.
-PBRelease#63,할파에 평화를!
-Avoid#63,간파했어.
-HealSelf#49,무리하면 안 되겠네….
-BuffSelf#49,잠시 준비하게 해줘.
-HealOther#63,지금 회복할게.
-BuffOther#63,이제 괜찮아.
-ItemRare#63,좋은 걸 손에 넣은 모양이네.
-DestroyEnemy1#64,해냈어!
-DestroyEnemy2#64,느낌이 좋은걸.
+PBFull#63,"""준비 완료. 언제든 갈 수 있어."""
+PBRelease#63,"""할파에 평화를!"""
+Avoid#63,"""간파했어."""
+HealSelf#49,"""무리하면 안 되겠네…."""
+BuffSelf#49,"""잠시 준비하게 해줘."""
+HealOther#63,"""지금 회복할게."""
+BuffOther#63,"""이제 괜찮아."""
+ItemRare#63,"""좋은 걸 손에 넣은 모양이네."""
+DestroyEnemy1#64,"""해냈어!"""
+DestroyEnemy2#64,"""느낌이 좋은걸."""
 DestroyEnemy3#64,"""나도 힘내야지!"""
 ThankHeal#64,"""도움이 됐어!"""
 InvokeSkill1#61,"""거기!"""
