@@ -21,3 +21,6 @@ cleanup_linestrike.py
 check_encoding.py
 inspect_quest_quotes.py
 remove_bom.py
+force_fix_apc.py
+inspect_apc_v2.py
+verify_apc_final.py
