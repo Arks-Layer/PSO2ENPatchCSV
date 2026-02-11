@@ -64,7 +64,7 @@ MeetForm_Error_CreativeSpace#0,"""This feature cannot be used to move to a Creat
 Current_Block_Label#0,"""Current Block"""
 Current_Block_BlockName#0,"""$(0)"""
 Current_Section_Label#0,"""Current Location"""
-Current_Section_SectionName#0,"""$(0) """
+Current_Section_SectionName#0,"""$(0)"""
 Current_Section_Rank#0,"""[ Rank $(0) ]"""
 Class#0,"""Class"""
 Main#0,"""Main Class"""
