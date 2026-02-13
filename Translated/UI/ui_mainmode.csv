@@ -9007,7 +9007,7 @@ BlockSectionMsg#0,"""This Sector currently cannot be accessed.<br>Please refer t
 Fast_Travel_CautionMsg#0,"""<light_red>※If you move to another Section,<br>matching will be canceled.<c>"""
 Fast_Travel_DangerSectionMsg#0,"""<yellow>You will take periodic damage in this area.<br>You can reduce this damage by increasing your \""Environmental Resist\"".<c>"""
 Fast_Travel_EntryRequirementMsg#0,"""Order Conditions: Main Task Progress"""
-Fast_Travel_Level_Rank#0,"""[Rank: $(0)] """
+Fast_Travel_Level_Rank#0,""" [Rank: $(0)] """
 Fast_Travel_Level_BattlePower#0,"""Power Level Required: $(0)"""
 Fast_Travel_Level_EnemyLevel#0,"""Enemy Lv.$(0)"""
 Fast_Travel_ControlGuide#0,"""Change Section Rank: <pict mouse_wheel>\u3000\u3000Set Guide Marker: <%Function>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Section Info: <%NextWidget>\u3000\u3000Zoom: <%Exception>"""
