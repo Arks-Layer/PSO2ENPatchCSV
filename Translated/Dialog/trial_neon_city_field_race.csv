@@ -1,0 +1,5 @@
+TrialName#0,"""Star Rappy Twinkle Collection"""
+TrialBeginMsg#0,"""Race around Neon City<br>and collect Star Rappy Twinkle!"""
+TrialAbstract#0,"""Collect as many Star Rappy Twinkles<br>within the time limit"""
+TrialSuccessPersonalMsg#0,"""Trial \""$(0)\"" completed"""
+TrialSuccessExtendMsg#0,"""Trial \""$(0)\"" completed"""
