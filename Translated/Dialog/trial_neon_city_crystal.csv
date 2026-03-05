@@ -1,0 +1,7 @@
+OnGetAllObject#0,"""$(0) Points Earned!"""
+CrystalLimit#0,"""This Rappy Twinkle has already been acquired."""
+BCrystalRelocation#0,"""Rappy Twinkles have been relocated."""
+RCrystalRelocation#0,"""Star Rappy Twinkles have been relocated."""
+NeonBoost#0,"""Exploration Multiplier increased by $(0)%! (Current Multiplier: $(1)%)"""
+NotPoint#0,"""You have insufficient Exploration Points"""
+RGetPoint#0,"""$(0) Points Earned! Exploration Multiplier increased by $(1)%! (Current Multiplier: $(2)%)"""
