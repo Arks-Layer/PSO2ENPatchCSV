@@ -356,7 +356,7 @@ NameNumber#0,"""$(0) x$(1)"""
 BuyTitle#0,"""ยืนยันการชำระ"""
 BuyCheck#0,"""These items will cost $(1) $(0).<br>Continue with purchase?"""
 CPDenomination#0,"""Battle Coins"""
-BuyResultMessage1#0,"""Purchase complete."""
+BuyResultMessage1#0,"""ซื้อสินค้าสำเร็จ"""
 BuyErrorMessage2#0,"""You lack free space in your Inventory,<br> or you have too many of the items you are buying.<br>Purchase could not be completed."""
 CPInsufficient#0,"""Insufficient Battle Coins."""
 BuyResultMessage2#0,"""Unable to complete your purchase."""
@@ -9846,4 +9846,5 @@ LimitItemList_Text2#0,"""There are some items that have expired.<br>Some items c
 LimitItemList_Text3#0,"""It is recommended to use items with expiration dates<br>before they expire."""
 LimitItemList_MainMenuTitle#0,"""Expiring Soon"""
 LimitItemList_NoItem#0,"""No items are expiring soon"""
+
 
