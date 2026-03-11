@@ -6905,7 +6905,7 @@ Condition#0,"""Prerequisite"""
 NoLicense#0,"""You don't have any titles."""
 NoLicense2#0,"""There are no title rewards to claim."""
 Hide#0,"""？？？？？？"""
-Clear#0,"""Remove Title"""
+Clear#0,"""ลบ Title"""
 Category00#0,"""0. With Rewards"""
 Category10#0,"""1. Player"""
 Category20#0,"""2. Items"""
@@ -9846,3 +9846,4 @@ LimitItemList_Text2#0,"""There are some items that have expired.<br>Some items c
 LimitItemList_Text3#0,"""It is recommended to use items with expiration dates<br>before they expire."""
 LimitItemList_MainMenuTitle#0,"""Expiring Soon"""
 LimitItemList_NoItem#0,"""No items are expiring soon"""
+
