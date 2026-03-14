@@ -13064,5 +13064,5 @@ RingGrindResult_Failed#0,"""อัปเกรดไม่สำเร็จเ�
 RingGrindToast_LevelExceed#0,"""ไอเทมนี้ไม่สามารถอัปเกรดได้อีกแล้ว"""
 RingGrindFullSizeGuide_SelectBase#0,"""เลือก Skill Ring ที่ต้องการอัปเกรด"""
 RingGrindFullSizeGuide_SelectMaterial#0,"""เลือก Skill Ring ที่จะใช้เป็นวัตถุดิบ Skill Ring ที่เลือก <scarlet> จะหายไปเมื่อทำการอัปเกรด<c>."""
-RingGrindFullSizeGuide_Confirm#0,"""ยืนยันการอัปเกรด Skill Ring ขั้นสุดท้าย โปรดตรวจสอบรายละเอียดให้เรียบร้อย และเลือก \""""ยืนยัน\"""" หากพร้อมแล้วกดยืนยันได้เลย"""
+RingGrindFullSizeGuide_Confirm#0,"""ยืนยันการอัปเกรด Skill Ring ขั้นสุดท้าย โปรดตรวจสอบรายละเอียดให้เรียบร้อย และเลือก [ยืนยัน] หากพร้อมแล้วกดยืนยันได้เลย"""
 RingGrindBase_NoRing_Message#0,"""ไม่มีแหวนสกิลให้เลือกใช้งาน"""
