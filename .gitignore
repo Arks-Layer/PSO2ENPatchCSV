@@ -10,3 +10,8 @@ Quest/.DS_Store
 .DS_Store
 Glossary.md
 _local/
+_tools/sync_glossary_to_hdd1.sh
+_tools/pso2font_append.py
+_tools/storywidth.py
+_tools/__pycache__/storywidth.cpython-314.pyc
+_tools/__pycache__/pso2font_append.cpython-314.pyc
