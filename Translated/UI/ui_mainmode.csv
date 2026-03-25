@@ -4138,7 +4138,7 @@ RangerGaugeShotGunAutoCharge#1,"""Automatically fills the Spread Shot gauge over
 RangerGrenadeQuickReload#1,"""Reduces the cooldown of Rifle Grenadier when you successfully evade an attack with your Weapon Action.<br><yellow>※Assault Rifle only.<c>"""
 RangerLauncherAttackShortCharge#1,"""Reduces the power of charged Normal Attacks, but also reduces their charge time.<br><yellow>※Launcher only.<c>"""
 FighterLimitBreakShortCycle#1,"""ลดระยะเวลาของ Limit Break และได้รับความเสียหาย<br>มากขึ้นขณะใช้งาน แต่ยังลดคูลดาวน์ลงด้วย.<br><yellow>※Main Class only.<c>"""
-FighterTDHitCountPpGain#1,"""""ฟื้นฟู PP หากโจมตีด้วย PA และ Photon Blast ตามที่กำหนด.<br><yellow>※Twin Daggers only.<c>"""
+FighterTDHitCountPpGain#1,"""ฟื้นฟู PP หากโจมตีด้วย PA และ Photon Blast ตามที่กำหนด.<br><yellow>※Twin Daggers only.<c>"""
 FighterDSAttackExtra#1,"""Increases the number of steps in your Normal Attack combo to 4.<br><yellow>※Double Saber only.<c>"""
 FighterKnucklePARushBonus#1,"""Boosts the PP consumption reduction from Knuckle Art Combo PP Save when you use the first half of a PA.<br><yellow>※Main Class/Knuckles only.<c>"""
 ForcePhotonFlareShortCycle#1,"""Reduces the duration of Photon Flare, but also reduces its cooldown.<br><yellow>※Main Class only.<c>"""
