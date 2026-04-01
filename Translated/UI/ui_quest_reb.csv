@@ -224,6 +224,7 @@ Mes_Matching_MatchingWord_Mes9#0,"""Assist NPCs are a function that allow for NP
 Mes_Matching_MatchingWord_Mes10#0,"""Enable All-Ship Matching"""
 Mes_Matching_MatchingWord_Mes11#0,"""All-Ship Matching matches players who have accepted the same Quest across all Ships."""
 Mes_Matching_MatchingWord_Mes12#0,"""Setting a Matching Password will<br>make this Room a Photography Room.<br>You can change the Photography<br>Room's settings after creating the Room."""
+Mes_LeavePenalty#0,"""マッチング制限中のため、対象クエストを受注できません。"""
 DefenseTerminal_Title#0,"""Mining Rig"""
 DefenseTerminal_Title_BLUEFULL#0,"""Mining Rig [Blue]"""
 DefenseTerminal_Title_WHITILL#0,"""Mining Rig [White]"""
