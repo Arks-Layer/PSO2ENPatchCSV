@@ -224,6 +224,7 @@ Mes_Matching_MatchingWord_Mes9#0,"""어시스트 NPC란<br>퀘스트 참가 인�
 Mes_Matching_MatchingWord_Mes10#0,"""전 쉽 매칭 활성화하기"""
 Mes_Matching_MatchingWord_Mes11#0,"""전 쉽 매칭은 해당 퀘스트를 수주 중인<br>모든 쉽의 플레이어를 매칭 대상으로 하는 기능입니다."""
 Mes_Matching_MatchingWord_Mes12#0,"""매칭 워드 설정 시 룸을<br>촬영 전용 룸으로 설정합니다.<br>생성한 촬영 전용 룸의 일부 설정은<br>나중에 변경할 수 있습니다."""
+Mes_LeavePenalty#0,"""マッチング制限中のため、対象クエストを受注できません。"""
 DefenseTerminal_Title#0,"""자원 채굴 리그"""
 DefenseTerminal_Title_BLUEFULL#0,"""자원 채굴 리그 [블루]"""
 DefenseTerminal_Title_WHITILL#0,"""자원 채굴 리그 [화이트]"""

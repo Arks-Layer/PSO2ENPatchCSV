@@ -249,6 +249,7 @@ CantStartQuestNewNetCafeQuest#0,"""파티 멤버가<br>넷 카페 프리미엄�
 CantStartQuestOutExtraQuest#0,"""이 퀘스트의 캠페인 대상 기간이 만료됐습니다.<br>퀘스트를 다시 수주해 주세요."""
 CantStartQuestInExtraQuest#0,"""이 퀘스트는 캠페인 대상 기간이 되었습니다.<br>퀘스트를 다시 수주해 주세요."""
 CantStartCapacityOverInTraning#0,"""연습 퀘스트를 시작할 수 없었습니다.<br>이동하려 하는 블록이 혼잡한 경우,<br>잠시 시간을 들인 후 재시도해 주십시오.<br><br>※연속 퀘스트는 소속 쉽의<br>\u3000\u3000챌린지 블록에서 실행됩니다."""
+LeavePenalty#0,"""マッチング制限中のため<br>対象クエストを受注できません。<br><br>しばらく時間を空けてから受注してください。"""
 Window_Main_Title#0,"""챌린지 설정"""
 Window_List_Title#0,"""챌린지 항목 리스트"""
 Challenge_Buff_Bonus1#0,"""<c 76d1ff>스코어 배율<c>"""
