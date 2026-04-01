@@ -224,6 +224,7 @@ Mes_Matching_MatchingWord_Mes9#0,"""アシストNPCは、<br>クエスト参加�
 Mes_Matching_MatchingWord_Mes10#0,"""全シップマッチングを有効にする"""
 Mes_Matching_MatchingWord_Mes11#0,"""全シップマッチングは、同クエストを受注中の<br>すべてのシップのプレイヤーを、マッチング対象とする機能です。"""
 Mes_Matching_MatchingWord_Mes12#0,"""マッチングワード設定時のルームを<br>撮影専用ルームにします。<br>作成した撮影専用ルームの<br>一部の設定を後から変更できます。"""
+Mes_LeavePenalty#0,"""マッチング制限中のため、対象クエストを受注できません。"""
 DefenseTerminal_Title#0,"""資源採掘リグ"""
 DefenseTerminal_Title_BLUEFULL#0,"""資源採掘リグ[ブルー]"""
 DefenseTerminal_Title_WHITILL#0,"""資源採掘リグ[ホワイト]"""
