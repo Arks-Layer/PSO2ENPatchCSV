@@ -9,6 +9,6 @@ Growup_EnemyBuff_5#0,"""/atime5 이명「기침」이 부여된 적에게는 다
 SuccessByLifePoint0#0,"""/atime5 트라이얼 종료<br>모든 LP를 소실!"""
 SuccessByTimeOver#0,"""/atime5 트라이얼 종료<br>타임 오버!"""
 SuccessByAnnihilation#0,"""\\보스 에너미 격파로 인해 트라이얼 종료"""
-NpcComOnForetaste#0,"""＊＊予兆"""
+NpcComOnForetaste#0,"""＊＊予告"""
 NpcComOnSuccess#0,"""＊＊成功"""
 NpcComOnFailure#0,"""＊＊失敗"""
