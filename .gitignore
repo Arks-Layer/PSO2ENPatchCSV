@@ -24,3 +24,9 @@ remove_bom.py
 force_fix_apc.py
 inspect_apc_v2.py
 verify_apc_final.py
+/_local
+_tools/__pycache__/pso2font_append.cpython-314.pyc
+_tools/__pycache__/storywidth.cpython-314.pyc
+_tools/pso2font_append.py
+_tools/storywidth.py
+_tools/sync_glossary_to_hdd1.sh
