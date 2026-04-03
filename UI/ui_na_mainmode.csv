@@ -27,7 +27,7 @@ RewardReceiptFormPurchaseMessage#0,"""아래의 아이템을 $(2)$(0)으로 구�
 RewardReceiptFormTierPurchaseMessage#0,"""티어를 $(2)$(0)으로 구매합니다.<br>괜찮으십니까?<br><br>（소지 SG：$(1)）<br><br>구매 전 티어：$(3)<br>구매 후 티어：$(4)"""
 LimitedTimeMessage#0,"""$(0)<br>\u3000<br>판매 기한: <utcymdt>$(1)</utcymdt>"""
 RewardUpTicketFormTitle#0,"""아이템 구매확인"""
-RewardUpTicketFormMessage#0,"""<pict StarGem><c 1dedd7>SG 소비 컨텐츠<c><br>선택한 기능의 이용권을 가지고 있지 않거나<br>이용 기한이 지났습니다.<br><br><yellow>「미션패스 골드 이용권」<c>을 구매해서<br>곧바로 기능을 활성화 할 수 있습니다.<br>구매 확인 화면으로 진행하시겠습니까?<br><br><red>※개별 기능 티켓을 원하시면<br>메인 메뉴「SG 샵」에서 구매해 주세요.<c>"""
+RewardUpTicketFormMessage#0,"""<pict StarGem><c 1dedd7>SG 소비 콘텐츠<c><br>선택한 기능의 이용권을 가지고 있지 않거나<br>이용 기한이 지났습니다.<br><br><yellow>「미션패스 골드 이용권」<c>을 구매해서<br>곧바로 기능을 활성화 할 수 있습니다.<br>구매 확인 화면으로 진행하시겠습니까?<br><br><red>※개별 기능 티켓을 원하시면<br>메인 메뉴「SG 샵」에서 구매해 주세요.<c>"""
 RewardGetEffectTitle#0,"""보수를 받았습니다."""
 ExtraModeStratLineMessage#0,"""티어가 최단계를 달성했습니다.<br>오버 런 모드를 개방합니다."""
 TierUpToastMessage#0,"""미션패스의 티어가 상승했습니다. 메인 메뉴의 \""태스크/퀘스트\""에서 \""미션 패스\""를 열어 보상을 받으세요."""
