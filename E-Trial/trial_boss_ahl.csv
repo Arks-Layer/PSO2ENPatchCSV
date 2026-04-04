@@ -1,5 +1,5 @@
 TrialName_1Enemy#0,"""$(0) 토벌"""
-TrialBeginMsg_1Enemy#0,"""출현한 $(0) 에너미를 쓰려뜨려라!"""
+TrialBeginMsg_1Enemy#0,"""출현한 $(0) 에너미를 쓰러뜨려라!"""
 TrialAbstract_1Enemy#0,"""$(0) 쓰러뜨리기"""
 TrialName_Multi#0,"""에너미 토벌"""
 TrialBeginMsg_Multi#0,"""출현한 에너미를 쓰러뜨려라!"""
