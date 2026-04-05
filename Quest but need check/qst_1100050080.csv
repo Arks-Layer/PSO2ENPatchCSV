@@ -1,8 +1,0 @@
-name010#0,"""구이덴"""
-name020#0,"""브루더"""
-text010#0,"""드디어 최후의 과제 \""포톤 블래스트\""다."""
-text020#0,"""우선 준비를 해줘."""
-Text_SubPallet1#0,"""서브 팔레트 선택: """
-Text_SubPallet2#0,"""서브 팔레트 사용: """
-Button_SubPallet1#0,"""<%SubPaletteLeft><pict 4space><%SubPaletteRight>"""
-Button_SubPallet2#0,"""<%SubPalette>"""

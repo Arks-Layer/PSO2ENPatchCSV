@@ -1,0 +1,7 @@
+Text_NormalAttack#0,"""통상 공격"""
+Button_NormalAttack#0,"""<%NormalAttack>"""
+Text_Avoid#0,"""회피"""
+Button_Avoid_Pad#0,"""<%Avoid>"""
+Button_Avoid_Key#0,"""이동 키를 2번 누르기"""
+name010#0,"""아이나"""
+text010#0,"""높은 턱은 도움닫기를 해서 점프하거나<br>2단 점프를 써봐."""
