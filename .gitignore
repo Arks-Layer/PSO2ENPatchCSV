@@ -32,3 +32,4 @@ _tools/storywidth.py
 _tools/sync_glossary_to_hdd1.sh
 /unzip
 _py/task_spacing.py
+_py/task_ellipsis.py
