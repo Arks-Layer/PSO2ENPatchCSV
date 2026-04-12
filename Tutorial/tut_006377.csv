@@ -1,2 +1,2 @@
 Title#0,"""업 드래프터"""
-text0001#0,"""업 드래프터 : <br> 글라이드 상태에서 진입 시, <br> 크게 날아오를 수 있음<br>글라이드 : <br> 이단 점프 중 <pict 4space><%Jump><br> 혹은 <pict 4space><%Jump><pict 4space>글라이드<br>글라이드 해제 : <br> 글라이드 도중 <pict 4space><%Jump>"""
+text0001#0,"""업 드래프터:<br>\u3000글라이드 상태로 진입하면<br>\u3000크게 날아오를 수 있음<br>글라이드:<br>\u3000이단 점프 중 <pict 4space><%Jump><br>\u3000또는 <pict 4space><%Jump><pict 4space> 길게 누르기<br>글라이드 해제:<br>\u3000글라이드 중 <pict 4space><%Jump>"""
