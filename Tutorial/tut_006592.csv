@@ -1,2 +1,2 @@
 Title#0,"""빌드 파츠 스케일"""
-text0001#0,"""빌드 파츠의 크기를 변경하고 싶을 때, 선택 중에<br><%WeaponAction_2> 버튼을 누른 상태로 <%SubPaletteLeft><%SubPaletteRight>로 <yellow>\""스케일\""<c>을 선택합니다.<br><br>그 이후 <%WeaponAction_2> 버튼을 누른 상태로 <swguidetype T_Moveguide_l> 버튼으로<br>빌드 파츠 스케일(크기)을 확대/축소할 수 있습니다."""
+text0001#0,"""빌드 파츠의 크기를 변경하고 싶을 때는 선택한 상태에서<br><%WeaponAction_2> 버튼을 누른 채 <%SubPaletteLeft><%SubPaletteRight>로<br><yellow>\""스케일\""<c>을 선택합니다.<br><br>그 후 <%WeaponAction_2> 버튼을 누른 채 <swguidetype T_Moveguide_l> 버튼으로<br>빌드 파츠의 크기를 확대/축소할 수 있습니다."""
