@@ -1,8 +1,9 @@
 import os
 import codecs
 import re
+import sys
 
-file_path = r'Quest/ui_quest_reb.csv'
+file_path = sys.argv[1] if len(sys.argv) > 1 else r'Quest/ui_quest_reb.csv'
 
 def validate_csv(path):
     print(f"Validating {path}...")
@@ -67,15 +68,20 @@ def validate_csv(path):
                 # But wait, \\" is valid literal backslash quote?
                 # Let's simple check: " preceded by not-\
                 
-                # Scan
                 idx = 0
                 while idx < len(inner):
                     if inner[idx] == '"':
-                        if idx == 0 or inner[idx-1] != '\\':
+                        # Valid patterns: \", or the second quote of \""
+                        is_escaped = False
+                        if idx > 0 and inner[idx-1] == '\\':
+                            is_escaped = True
+                        elif idx > 1 and inner[idx-2:idx] == '\\"':
+                            is_escaped = True
+                            
+                        if not is_escaped:
                              print(f"  [WARN] Potential Unescaped Quote on line {line_num} at pos {idx}")
                              syntax_errors += 1
                     idx += 1
-                    
         else:
              # Maybe a comment or invalid line?
              # csv usually works line by line but description fields can have newlines?
