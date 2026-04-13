@@ -10,4 +10,4 @@ NpcComOnWave2#0,"""/voice11_voice_navi004_trial_0001_027 에너미 반응이 추
 NpcComOnExWave#0,"""/voice11_voice_navi004_trial_0001_041 에너미 섬멸을 확인… 어?<br>아직 더 오는 것 같아요. 섬멸해 주세요."""
 NpcComOnSuccess#0,"""/voice11_voice_navi004_trial_0001_069 에너미의 섬멸이 다시 확인됐어요.<br>감사합니다!"""
 NpcComOnSuccessNoBonusWave#0,"""/voice11_voice_navi004_trial_0001_069 에너미의 섬멸이 확인됐어요.<br>감사합니다!"""
-NpcComOnFailure#0,"""/voice11_voice_navi004_trial_0001_073 어머……에너미가 철수했어요.<br>포톤 반응도 정상치로 돌아왔어요."""
+NpcComOnFailure#0,"""/voice11_voice_navi004_trial_0001_073 어머…에너미가 철수했어요.<br>포톤 반응도 정상치로 돌아왔어요."""
