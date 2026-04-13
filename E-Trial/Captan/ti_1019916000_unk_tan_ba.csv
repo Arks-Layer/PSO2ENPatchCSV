@@ -1,6 +1,6 @@
 TrialName_1Enemy#0,"""$(0) 토벌"""
 TrialBeginMsg_1Enemy#0,"""나타난 $(0)을 쓰러뜨려라!"""
-TrialAbstract_1Enemy#0,"""$(0)을 쓰러뜨리기"""
+TrialAbstract_1Enemy#0,"""$(0) 쓰러뜨리기"""
 TrialName_Multi#0,"""에너미 토벌"""
 TrialBeginMsg_Multi#0,"""나타난 에너미를 쓰러뜨려라!"""
 TrialAbstract_Multi#0,"""에너미를 쓰러뜨리기"""
