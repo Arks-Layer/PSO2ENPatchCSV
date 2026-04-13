@@ -790,7 +790,7 @@
 793#0,"""Damage+1.0%"""
 794#0,"""HP+5 PP+2<br>Damage+5.0%<br>Damage Variance+3.0%"""
 795#0,"""HP-5 PP+3<br>Damage+6.0%"""
-796#0,"""HP-40<br>Damage+5.5%<br>Down Resist+1.0%<br>Down Resist+5.0%"""
+796#0,"""HP-40<br>Damage+5.5%<br>Damage Resist+1.0%<br>Down Resist+5.0%"""
 797#0,"""PP-4<br>Damage+5.75%"""
 798#0,"""HP+10 PP+1<br>Damage+3.75%<br>Damage Variance+7.0%<br>Damage Resist+1.0%"""
 799#0,"""HP-10 PP+4<br>Damage+5.75%"""
