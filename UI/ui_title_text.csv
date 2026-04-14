@@ -298,106 +298,106 @@ ChargeTitle#0,"""การยืนยันการเติม AC"""
 ChargeMessage#0,"""AC ไม่เพียงพอ<br>คุณต้องการเติม AC เพิ่มหรือไม่?"""
 ChargeMessage_v#0,"""AC ไม่เพียงพอ<br>คุณต้องการเติม AC เพิ่มหรือไม่?<br><br><yellow>※การดำเนินการนี้จะเปิดเว็บเบราว์เซอร์ขึ้นมา<br>เกมจะถูกปิดลงและคุณจะถูกออกจากระบบ (Log out)<c>"""
 TimeOutMessage#0,"""หมดเวลาการเชื่อมต่อกับเซิร์ฟเวอร์<br><br>[No.2302]"""
-ErrorDone#1,คุณได้เปลี่ยนชื่อ Player ID ไปแล้ว<br>คุณสามารถเปลี่ยนได้เพียง 1 ครั้งเท่านั้น
-ErrorOther#1,เกิดข้อผิดพลาดของระบบ กรุณาลองใหม่อีกครั้ง<br><br>[No.2301]
-ErrorHas#0,"ไม่จำเป็นต้องสั่งซื้อ<br>เนื่องจากคุณมี \สิทธิ์ในการเปลี่ยนชื่อ Player ID\"" อยู่แล้ว"""
-BuyFailure#0,การสั่งซื้อล้มเหลว
-ShortageAC#0,AC ไม่เพียงพอ การสั่งซื้อล้มเหลว
-BuySuccess#0,สั่งซื้อสำเร็จแล้ว
-ErrorTime#1,ไม่สามารถสั่งซื้อสิทธิ์ในการเปลี่ยนชื่อ Player ID ได้<br>เนื่องจากยังไม่ผ่านไป $(0) วัน<br>นับตั้งแต่เปลี่ยนชื่อ Player ID ครั้งล่าสุด<br><br>เวลาที่เหลือจนกว่าจะเปลี่ยนได้อีกครั้ง: $(1)
-PlayerIDNameConfirm#0,ตรวจสอบ ID
-PlayerIDNameConfirmMessage1#0,"ป้อนชื่อ Player ID ที่คุณต้องการใช้<br>จากนั้นกดปุ่ม \ตรวจสอบความพร้อม\""<br>※การใช้ปุ่มนี้จะไม่ใช้ AC หรือ<br>\""สิทธิ์ในการเปลี่ยน ID\"" แต่อย่างใด<br><br>คุณสามารถใช้ตัวอักษรได้ทั้งแบบ 1-byte และ<br><yellow>2-byte<c>"""
-PlayerIDNameConfirmButton#0,ตรวจสอบความพร้อม (Check Availability)
-PlayerIDNameConfirmMessage2#0,・สามารถใช้ชื่อ Player ID นี้ได้<br>\u3000คุณสามารถใช้ [สิทธิ์ในการเปลี่ยนชื่อ Player ID] ของคุณ<br>\u3000เพื่อลงทะเบียนชื่อนี้ได้เลย<br><br>・การลงทะเบียนชื่อ Player ID ยังไม่เสร็จสมบูรณ์<br>\u3000หากมีผู้เล่นอื่นลงทะเบียนชื่อนี้ไปในระหว่างกระบวนการนี้<br>\u3000คุณจะไม่สามารถใช้ชื่อ Player ID นี้ได้
-PlayerIDNameConfirmMessage3#0,・ไม่สามารถใช้ชื่อ Player ID นี้ได้<br>\u3000กรุณาป้อนชื่ออื่น<br>
-PlayerIDNameConfirmMessage4#0,・การเปลี่ยนชื่อ Player ID ถูกระงับชั่วคราว<br>\u3000ไม่สามารถเปลี่ยนชื่อได้<br>
-PlayerIDNameConfirmMessage5#0,・เกิดข้อผิดพลาดของระบบ<br>\u3000กรุณารอสักครู่แล้วลองใหม่อีกครั้ง<br>
-SupportMenu_PcAccept#1,เปิดหรือปิดใช้งานการยืนยันตัวตนบน PC หรือเปลี่ยน PC ที่ลงทะเบียนไว้
-SupportMenu_Configuration#1,"เปลี่ยนการตั้งค่ากราฟิก, เสียง, และอื่นๆ"
-SupportMenu_UserInfo#1,เปลี่ยนข้อมูลผู้ใช้
-SupportMenu_OnlineManual#1,แสดงคู่มือออนไลน์ (Online Manual)
-SupportMenu_ChangeIDName#1,เปลี่ยนชื่อ Player ID
-SupportMenu_CordInput#1,-
-SupportMenu_SegaId#1,ตรวจสอบยืนยัน SEGA ID ของคุณ
-SupportMenu_Configuration2#1,เปลี่ยนการตั้งค่าการควบคุม
-CharaSelectMenu_Decide#0,เริ่มเล่น [PSO2: NGS]
-CharaSelectMenu_Decide_Classic#0,เริ่มเล่น [PSO2]
-CharaSelectMenu_Create#0,ใหม่ (New)
-CharaSelectMenu_Delete#0,ลบ Character
-CharaSelectMenu_Setting#0,ตัวเลือกเพิ่มเติม (Additional Options)
-CharaSelectMenu_Send#0,ยืนยัน
-CharaSelectMenu_Cancel#0,ยกเลิก
-CharaSelectMenu_Back#0,กลับ
-CharaSelectMenu_Transport#0,ย้ายไปยัง Ship อื่นทันที<pict 4space><pict Arcscash>
-CharaSelectMenu_ChangeName#0,เปลี่ยนชื่อ Character<pict 4space><pict Arcscash>
-CharaSelectMenu_DeleteRequest#0,<yellow>กำลังลบ Character<c>
-CharaSelectMenu_DeleteConfirm#0,"<yellow>【 ประกาศเกี่ยวกับการลบ Character 】<c><br>การดำเนินการนี้จะเป็นการลบ Character ของคุณ<br>Character ของคุณจะถูกลบออกจากเซิร์ฟเวอร์<br>หลังจากผ่านไป 24 ชั่วโมงนับจากนี้<br>คุณสามารถยกเลิกการลบ Character ได้<br><yellow>ภายใน 24 ชั่วโมง<c> นับจากเวลาที่คุณเริ่มกระบวนการ<br><br><yellow>※อย่างไรก็ตาม ในช่วงปิดปรับปรุงเซิร์ฟเวอร์ (Maintenance)<br>จะไม่สามารถทำการยกเลิกได้<c><br><br>・แม้ว่าคุณจะลบ Character ไปแล้ว แต่คุณก็จะไม่สามารถ<br>สร้าง Character ใหม่ได้หากคุณ<br>มี Character เกิน 3 ตัวขึ้นไป<br>หากคุณต้องการสร้าง Character ใหม่ และ<br>มี Character เกิน 3 ตัวขึ้นไป คุณจะต้อง<br>ใช้ AC<br><br>・Character นั้น, Support Partner, เครื่องประดับ (Accessories) ที่เป็นของ<br>Character นั้น, ไอเทม AC ที่ถูกใช้กับ<br>Character นั้น, และไอเทมจาก AC Scratch ที่ใช้กับ Character นั้น<br>จะ <yellow>สูญหาย<c> ไปทั้งหมด<br><br>・หากคุณกำลังอยู่ในระหว่างรอการย้าย Ship ของ Character นี้<br>ก่อนที่จะส่งคำขอลบ สถานะการย้าย Ship ของคุณจะถูก<br>ยกเลิก<br><br><yellow>หากคุณยอมรับเงื่อนไขข้างต้น ให้กดปุ่ม [Ctrl] ค้างไว้<br>และกด \ใช่ (Yes)\"" เพื่อยืนยันการลบ Character<c>"""
-CharaSelectMenu_DeleteConfirm_v#0,"<yellow>【 ประกาศเกี่ยวกับการลบ Character 】<c><br>การดำเนินการนี้จะเป็นการลบ Character ของคุณ<br>Character ของคุณจะถูกลบออกจากเซิร์ฟเวอร์<br>หลังจากผ่านไป 24 ชั่วโมงนับจากนี้<br>คุณสามารถยกเลิกการลบ Character ได้<br><yellow>ภายใน 24 ชั่วโมง<c> นับจากเวลาที่คุณเริ่มกระบวนการ<br><br><yellow>※อย่างไรก็ตาม ในช่วงปิดปรับปรุงเซิร์ฟเวอร์ (Maintenance)<br>จะไม่สามารถทำการยกเลิกได้<c><br><br>・แม้ว่าคุณจะลบ Character ไปแล้ว แต่คุณก็จะไม่สามารถ<br>สร้าง Character ใหม่ได้หากคุณ<br>มี Character เกิน 3 ตัวขึ้นไป<br>หากคุณต้องการสร้าง Character ใหม่ และ<br>มี Character เกิน 3 ตัวขึ้นไป คุณจะต้อง<br>ใช้ AC<br><br>・Character นั้น, Support Partner, เครื่องประดับ (Accessories) ที่เป็นของ<br>Character นั้น, ไอเทม AC ที่ถูกใช้กับ<br>Character นั้น, และไอเทมจาก AC Scratch ที่ใช้กับ Character นั้น<br>จะ <yellow>สูญหาย<c> ไปทั้งหมด<br><br>・หากคุณกำลังอยู่ในระหว่างรอการย้าย Ship ของ Character นี้<br>ก่อนที่จะส่งคำขอลบ สถานะการย้าย Ship ของคุณจะถูก<br>ยกเลิก<br><br><yellow>หากคุณยอมรับเงื่อนไขข้างต้น ให้กดปุ่ม<br><%TabBack><%TabForward> ค้างไว้ และกด \ใช่ (Yes)\"" เพื่อยืนยันการลบ<br>Character<c>"""
-CharaSelectMenu_Empty#0,สร้าง Character ใหม่
-CharaSelectItem_Name#0,ชื่อ Character
-CharaSelectItem_Class#0,คลาส (Class)
-CharaSelectItem_PlayTime#0,เวลาที่เล่น (Playtime)
-CharaSelectItem_PlayLimit#0,-
-CharaDeleteTitle#0,ลบ Character
-CharaSelectItem_MobileText_Vita#0,Character ที่ถูกเชื่อมโยงจาก [PSO2es]
-CharaSelectItem_MobileText#0,Character ที่ถูกเชื่อมโยงจาก<br>[Phantasy Star Online 2 es]
-CharaDeleteTime#0,เวลาจนกว่าจะถูกลบ
-CharaDeleteCancelTitle#0,ยกเลิกการลบ
-CharaSelectMenu_DeleteCancel#0,"<yellow>[ยกเลิกการลบ Character]<c><br><br>- คุณสามารถยกเลิกกระบวนการลบ<br>Character ของคุณได้จนกว่าจะหมดเวลาด้านล่างนี้<br><br><red>เวลาจนกว่าจะถูกลบ: $(0)<c><br><br><yellow>หากต้องการยกเลิกคำขอลบ ให้กดปุ่ม [Ctrl] ค้างไว้<br>และกด \ใช่ (Yes)\""<c>"""
-CharaSelectMenu_DeleteCancel_v#0,"<yellow>[ยกเลิกการลบ Character]<c><br><br>- คุณสามารถยกเลิกกระบวนการลบ<br>Character ของคุณได้จนกว่าจะหมดเวลาด้านล่างนี้<br><br><red>เวลาจนกว่าจะถูกลบ: $(0)<c><br><br><yellow>หากต้องการยกเลิกคำขอลบ ให้กดปุ่ม<br><%TabBack><%TabForward> ค้างไว้ และกด \ใช่ (Yes)\""<c>"""
-CharaSelectMenu_DeleteCancel_f#0,ไม่สามารถยกเลิกกระบวนการลบได้<br><br>Character ถูกลบไปเรียบร้อยแล้ว
-CharaSelectMenu_EpisodeItem1#0,EP1-3
-CharaSelectMenu_EpisodeItem2#0,EP4-5
-CharaSelectMenu_DecideItem#0,เริ่มเกม ($(0))
-CharaSelectMenu_Transport_Delay#0,ย้ายไปยัง Ship อื่นในช่วง Maintenance ครั้งถัดไป<pict 4space><pict Arcscash>
-CharaSelectMenu_Transport_Delay_Please_Wait_Or_Cancel#0,ยกเลิกคำขอย้ายในช่วง Maintenance ครั้งถัดไป <yellow>(ขอทำการย้ายไปยัง $(0))<c>
-CharaSelectItem_Transport_Delay_Please_Wait#0,<yellow>คำขอย้าย Ship<c>
-CharaSelec_ShipName#0,ชื่อ Ship
-CharaSelec_Num#0,Character ทั้งหมด
-CharaSelec_NotCharacter#0,หา Character ของคุณไม่เจอใช่ไหม?
-CharaSelec_LoginIn#0,เข้าสู่ระบบอยู่ (Logged In)
-CharaCheck_Num#0,$(0)
-CharaCheck_Message#0,ในรายการด้านล่างนี้ คุณจะพบจำนวน<br>Character ที่คุณสร้างไว้และ Ship ที่พวกมันอยู่<br><br>หากคุณต้องการเลือก Ship อื่น ให้กด<br>ปุ่ม <yellow>[ออกจากระบบ (Logout)]<c> และล็อกอินใหม่ใน Ship<br>อื่น
-CharaCheck_Message_VITA#0,ในรายการด้านล่างนี้<br>คุณจะพบตำแหน่งของ Character ที่คุณสร้างไว้และ Ship ที่พวกมันอยู่<br><br>หากคุณต้องการเลือก Ship อื่น<br>ให้กด <yellow>[กลับไปยังหน้าจอไตเติล]<c> และ<br>ล็อกอินใหม่ใน Ship อื่น
-CharaCheck_NoShipInfo#0,ไม่มีข้อมูล Ship
-PlayGo_CharaSelect_Title#0,ข้อความ (Message)
-PlayGo_CharaSelect_Message#0,<yellow>ขณะนี้กำลังติดตั้งไฟล์ที่จำเป็น<c><br><br>จนกว่าการติดตั้งจะเสร็จสมบูรณ์<br>ฟังก์ชันบางอย่าง (เช่น การย้ายไปยังพื้นที่ต่างๆ หรือ<br>การเลือก Character) อาจไม่สามารถใช้งานได้<br><br>กรุณารอจนกว่าการติดตั้งจะ<br>เสร็จสมบูรณ์
-CharaUndeletable_Title#0,ยืนยันการครอบครองไอเทม
-CharaUndeletable_Message#0,Character ที่คุณกำลังจะลบมีไอเทมอยู่<br>ในช่องเก็บของ (Inventory) จึงไม่สามารถลบได้<br><br>กรุณาย้ายหรือนำไอเทมออกจาก<br>ตำแหน่งต่อไปนี้เพื่อทำการลบ<br>Character:<br><br>- ช่องเก็บของตัวละคร (Character Inventory)<br>- คลังเก็บของตัวละคร (Character Storage)<br><br>Character ที่มี Support Partners จะต้องถูกนำออกก่อน<br>ที่คุณจะสามารถลบ Character ได้
-EP1_3_CloseIntroduction#0,ตั้งแต่วันที่ 9 มิถุนายน 2021 เป็นต้นไป:<br><yellow>การผจญภัยครั้งใหม่พร้อมให้เล่นแล้วใน PSO2: NGS<c><br><br>เมื่อคุณดำเนินเนื้อเรื่องใน PSO2: NGS ไปได้ไกลพอ คุณจะสามารถเดินทางไปมาได้อย่างอิสระระหว่างโลกของ NGS และโลกเก่าของ PSO2
-CharaSelectItem_Class_NotStartedNGS#0,ยังไม่ได้เริ่มเล่น [PSO2: NGS]
-CharaCheck_BodyShape_Title#0,ประกาศ (Notice)
-CharaCheck_BodyShape_Message#0,"ภายใต้เงื่อนไขบางประการ รูปลักษณ์ของ Character<br>ที่สร้างขึ้นใน [PSO2] แต่เดิม อาจมีการเปลี่ยนแปลงอย่างเห็นได้ชัด<br>เนื่องจากผลกระทบของการอัปเดตไปใช้<br>เอนจินกราฟิก (graphics engine) ตัวใหม่<br>หากจำเป็น กรุณาแก้ไขรูปลักษณ์ Character ของคุณโดยใช้<br>\สร้าง Character\"" เมื่อเริ่มเกม หรือโดย<br>การใช้ Salon ซึ่งจะสามารถใช้งานได้หลังจาก<br>ผ่านช่วงบทนำ (prologue) ของเนื้อเรื่องหลักไปแล้ว"""
-CharaSelectMenu_Demo_Movie#0,เล่นวิดีโอแนะนำ Character (Character Intro Movie Playback)
-CharaSelectMenu_MovieSkipWindow_Title#0,ข้อความ (Message)
-CharaSelectMenu_MovieSkipWindow_Text#0,การดำเนินการนี้จะเป็นการออกจากโหมดการเล่นวิดีโอ<br><br>คุณแน่ใจหรือไม่?
-CharaSelectMenu_Transport_Daily#0,ย้ายไปยัง Ship อื่นในระหว่างการย้ายประจำวัน (Daily Transfer) ครั้งถัดไป<pict 4space><pict Arcscash>
-CharaSelectMenu_Transport_Daily_Please_Wait_Or_Cancel#0,ยกเลิกคำขอย้ายในการย้ายประจำวัน (Daily Transfer) ครั้งถัดไป <yellow>(ขอทำการย้ายไปยัง $(0))<c>
-CharaSelectMenu_Decide#1,เล่นด้วย Character นี้
-CharaSelectMenu_Create#1,สร้าง Character ใหม่
-CharaSelectMenu_Delete#1,ลบ Character นี้
-CharaSelectMenu_Cancel#1,กลับไปยังเมนูก่อนหน้า
-CharaSelectMenu_ChangeName#1,เปลี่ยนชื่อ Character
-CharaNumMax#0,คุณสร้าง Character ถึงขีดจำกัดสูงสุดแล้ว<br>ในการสร้าง Character ใหม่<br>กรุณาลบ Character ที่มีอยู่ทิ้งก่อน
-SystemError#0,เกิดข้อผิดพลาดของระบบ กรุณาลองใหม่อีกครั้ง<br><br>[No.2301]
-ShipMaxError#0,การสร้าง Character ใน Ship นี้ถูกระงับชั่วคราว<br>กรุณาใช้ Ship อื่น
-ConsumeCheck#1,"<pict Arcscash><pict 4space><c ff4f3f>คอนเทนต์ AC<c><br>ในการสร้าง Character เพิ่ม คุณจำเป็นต้องมี \บัตรเพิ่มช่องตัวละคร (Character Slot Pass)\"" ก่อน<br><br><yellow>- Character จะถูกเก็บไว้ใน \""Ship\""<c><br><br>- หากต้องการเล่น Character ที่คุณเพิ่งสร้าง ตรวจสอบให้แน่ใจว่าคุณอยู่ใน Ship เดียวกับ Character ที่คุณสร้าง <yellow>ช่องตัวละคร (Slots) ที่ซื้อด้วยบัตรนี้สามารถใช้ได้เพียงครั้งเดียวเท่านั้น<c><br><br>คุณต้องการใช้ <pict Arcscash><c ff4f3f>$(0) AC<c> เพื่อสั่งซื้อ \""บัตรเพิ่มช่องตัวละคร (Character Slot Pass)\"" หรือไม่?<br><br><yellow><pict Arcscash>AC คงเหลือ: $(1)<c><br><yellow>ช่องตัวละคร (Character slots) ที่เหลืออยู่: $(2)<c> (จำนวนรวมสูงสุดในทุก Ship คือ $(3))"""
-ChangeNameConfirm#0,"<pict Arcscash><pict 4space><c ff4f3f>คอนเทนต์ AC<c><br>ในการเปลี่ยนชื่อ Character ของคุณ คุณจะต้องสั่งซื้อ \บัตรเปลี่ยนชื่อตัวละคร (Character Rename Pass)\"" ก่อน<br><br><yellow>- เมื่อเปลี่ยนชื่อ Character ของคุณแล้ว คุณจะไม่สามารถเปลี่ยนชื่อ Character ตัวเดิมซ้ำได้อีกเป็นเวลา $(0) วัน<c><br><br><yellow>- \""บัตรเปลี่ยนชื่อตัวละคร\"" นี้ใช้ได้เพียงครั้งเดียว แต่สามารถนำไปใช้กับ Character ตัวใดก็ได้ แม้ว่าคุณจะซื้อมาเพื่อใช้กับ Character อีกตัวก็ตาม<c><br><br>คุณต้องการสั่งซื้อ \""บัตรเปลี่ยนชื่อตัวละคร (Character Rename Pass)\"" ด้วยราคา <pict Arcscash><c ff4f3f>$(1) AC<c> หรือไม่?<br><br><yellow><pict Arcscash>AC คงเหลือ: $(2)<c>"""
-ChargeTitle#1,การยืนยันการเติม AC
-ChargeMessage#1,AC ไม่เพียงพอ<br>คุณต้องการเติม AC เพิ่มหรือไม่?
-ChargeMessage_v#1,AC ไม่เพียงพอ<br>คุณต้องการเติม AC เพิ่มหรือไม่?<br><br><yellow>※การดำเนินการนี้จะเปิดเว็บเบราว์เซอร์ขึ้นมา<br>เกมจะถูกปิดลงและคุณจะถูกออกจากระบบ (Log out)<c>
-TimeOutMessage#1,หมดเวลาการเชื่อมต่อกับเซิร์ฟเวอร์<br><br>[No.2302]
-ShortageAC#1,AC ไม่เพียงพอ การสั่งซื้อล้มเหลว
-ErrorTime1#0,การสั่งซื้อการเปลี่ยนชื่อ Character ล้มเหลว<br>กรุณารอจนกว่าจะผ่านไป $(0) วัน<br>เพื่อเปลี่ยนชื่อ Character ของคุณอีกครั้ง
-ErrorTime2#0,การสั่งซื้อการเปลี่ยนชื่อ Character ล้มเหลว<br>กรุณารอจนกว่าจะผ่านไป $(0) วัน<br>เพื่อเปลี่ยนชื่อ Character ของคุณอีกครั้ง<br><br>เวลาที่เหลือ: $(1)
-BuySuccess#1,สั่งซื้อสำเร็จแล้ว
-ErrorDone#2,การสั่งซื้อล้มเหลว<br>กระบวนการเปลี่ยนชื่อถูกยกเลิกแล้ว
-ErrorOther#2,เกิดข้อผิดพลาดของระบบ กรุณาลองใหม่อีกครั้ง<br><br>[No.2301]
-ErrorHas#1,คุณมีการเปลี่ยนชื่อ Character (Character Rename) อยู่แล้ว<br>การสั่งซื้อถูกยกเลิก
-BuyFailure#1,การสั่งซื้อล้มเหลว
-InfoCaptionPossible#0,จำนวนช่องรวม (Total Slots)
-InfoCaptionAc#0,AC คงเหลือ
-InfoCaptionMax#0,จำนวน Character รวม
+ErrorDone#1,"""คุณได้เปลี่ยนชื่อ Player ID ไปแล้ว<br>คุณสามารถเปลี่ยนได้เพียง 1 ครั้งเท่านั้น"""
+ErrorOther#1,"""เกิดข้อผิดพลาดของระบบ กรุณาลองใหม่อีกครั้ง<br><br>[No.2301]"""
+ErrorHas#0,"""ไม่จำเป็นต้องสั่งซื้อ<br>เนื่องจากคุณมี \""สิทธิ์ในการเปลี่ยนชื่อ Player ID\"" อยู่แล้ว"""
+BuyFailure#0,"""การสั่งซื้อล้มเหลว"""
+ShortageAC#0,"""AC ไม่เพียงพอ การสั่งซื้อล้มเหลว"""
+BuySuccess#0,"""สั่งซื้อสำเร็จแล้ว"""
+ErrorTime#1,"""ไม่สามารถสั่งซื้อสิทธิ์ในการเปลี่ยนชื่อ Player ID ได้<br>เนื่องจากยังไม่ผ่านไป $(0) วัน<br>นับตั้งแต่เปลี่ยนชื่อ Player ID ครั้งล่าสุด<br><br>เวลาที่เหลือจนกว่าจะเปลี่ยนได้อีกครั้ง: $(1)"""
+PlayerIDNameConfirm#0,"""ตรวจสอบ ID"""
+PlayerIDNameConfirmMessage1#0,"""ป้อนชื่อ Player ID ที่คุณต้องการใช้<br>จากนั้นกดปุ่ม \""ตรวจสอบความพร้อม\""<br>※การใช้ปุ่มนี้จะไม่ใช้ AC หรือ<br>\""สิทธิ์ในการเปลี่ยน ID\"" แต่อย่างใด<br><br>คุณสามารถใช้ตัวอักษรได้ทั้งแบบ 1-byte และ<br><yellow>2-byte<c>"""
+PlayerIDNameConfirmButton#0,"""ตรวจสอบความพร้อม (Check Availability)"""
+PlayerIDNameConfirmMessage2#0,"""・สามารถใช้ชื่อ Player ID นี้ได้<br>\u3000คุณสามารถใช้ [สิทธิ์ในการเปลี่ยนชื่อ Player ID] ของคุณ<br>\u3000เพื่อลงทะเบียนชื่อนี้ได้เลย<br><br>・การลงทะเบียนชื่อ Player ID ยังไม่เสร็จสมบูรณ์<br>\u3000หากมีผู้เล่นอื่นลงทะเบียนชื่อนี้ไปในระหว่างกระบวนการนี้<br>\u3000คุณจะไม่สามารถใช้ชื่อ Player ID นี้ได้"""
+PlayerIDNameConfirmMessage3#0,"""・ไม่สามารถใช้ชื่อ Player ID นี้ได้<br>\u3000กรุณาป้อนชื่ออื่น<br>"""
+PlayerIDNameConfirmMessage4#0,"""・การเปลี่ยนชื่อ Player ID ถูกระงับชั่วคราว<br>\u3000ไม่สามารถเปลี่ยนชื่อได้<br>"""
+PlayerIDNameConfirmMessage5#0,"""・เกิดข้อผิดพลาดของระบบ<br>\u3000กรุณารอสักครู่แล้วลองใหม่อีกครั้ง<br>"""
+SupportMenu_PcAccept#1,"""เปิดหรือปิดใช้งานการยืนยันตัวตนบน PC หรือเปลี่ยน PC ที่ลงทะเบียนไว้"""
+SupportMenu_Configuration#1,"""เปลี่ยนการตั้งค่ากราฟิก, เสียง, และอื่นๆ"""
+SupportMenu_UserInfo#1,"""เปลี่ยนข้อมูลผู้ใช้"""
+SupportMenu_OnlineManual#1,"""แสดงคู่มือออนไลน์ (Online Manual)"""
+SupportMenu_ChangeIDName#1,"""เปลี่ยนชื่อ Player ID"""
+SupportMenu_CordInput#1,"""-"""
+SupportMenu_SegaId#1,"""ตรวจสอบยืนยัน SEGA ID ของคุณ"""
+SupportMenu_Configuration2#1,"""เปลี่ยนการตั้งค่าการควบคุม"""
+CharaSelectMenu_Decide#0,"""เริ่มเล่น [PSO2: NGS]"""
+CharaSelectMenu_Decide_Classic#0,"""เริ่มเล่น [PSO2]"""
+CharaSelectMenu_Create#0,"""ใหม่ (New)"""
+CharaSelectMenu_Delete#0,"""ลบ Character"""
+CharaSelectMenu_Setting#0,"""ตัวเลือกเพิ่มเติม (Additional Options)"""
+CharaSelectMenu_Send#0,"""ยืนยัน"""
+CharaSelectMenu_Cancel#0,"""ยกเลิก"""
+CharaSelectMenu_Back#0,"""กลับ"""
+CharaSelectMenu_Transport#0,"""ย้ายไปยัง Ship อื่นทันที<pict 4space><pict Arcscash>"""
+CharaSelectMenu_ChangeName#0,"""เปลี่ยนชื่อ Character<pict 4space><pict Arcscash>"""
+CharaSelectMenu_DeleteRequest#0,"""<yellow>กำลังลบ Character<c>"""
+CharaSelectMenu_DeleteConfirm#0,"""<yellow>【 ประกาศเกี่ยวกับการลบ Character 】<c><br>การดำเนินการนี้จะเป็นการลบ Character ของคุณ<br>Character ของคุณจะถูกลบออกจากเซิร์ฟเวอร์<br>หลังจากผ่านไป 24 ชั่วโมงนับจากนี้<br>คุณสามารถยกเลิกการลบ Character ได้<br><yellow>ภายใน 24 ชั่วโมง<c> นับจากเวลาที่คุณเริ่มกระบวนการ<br><br><yellow>※อย่างไรก็ตาม ในช่วงปิดปรับปรุงเซิร์ฟเวอร์ (Maintenance)<br>จะไม่สามารถทำการยกเลิกได้<c><br><br>・แม้ว่าคุณจะลบ Character ไปแล้ว แต่คุณก็จะไม่สามารถ<br>สร้าง Character ใหม่ได้หากคุณ<br>มี Character เกิน 3 ตัวขึ้นไป<br>หากคุณต้องการสร้าง Character ใหม่ และ<br>มี Character เกิน 3 ตัวขึ้นไป คุณจะต้อง<br>ใช้ AC<br><br>・Character นั้น, Support Partner, เครื่องประดับ (Accessories) ที่เป็นของ<br>Character นั้น, ไอเทม AC ที่ถูกใช้กับ<br>Character นั้น, และไอเทมจาก AC Scratch ที่ใช้กับ Character นั้น<br>จะ <yellow>สูญหาย<c> ไปทั้งหมด<br><br>・หากคุณกำลังอยู่ในระหว่างรอการย้าย Ship ของ Character นี้<br>ก่อนที่จะส่งคำขอลบ สถานะการย้าย Ship ของคุณจะถูก<br>ยกเลิก<br><br><yellow>หากคุณยอมรับเงื่อนไขข้างต้น ให้กดปุ่ม [Ctrl] ค้างไว้<br>และกด \""ใช่ (Yes)\"" เพื่อยืนยันการลบ Character<c>"""
+CharaSelectMenu_DeleteConfirm_v#0,"""<yellow>【 ประกาศเกี่ยวกับการลบ Character 】<c><br>การดำเนินการนี้จะเป็นการลบ Character ของคุณ<br>Character ของคุณจะถูกลบออกจากเซิร์ฟเวอร์<br>หลังจากผ่านไป 24 ชั่วโมงนับจากนี้<br>คุณสามารถยกเลิกการลบ Character ได้<br><yellow>ภายใน 24 ชั่วโมง<c> นับจากเวลาที่คุณเริ่มกระบวนการ<br><br><yellow>※อย่างไรก็ตาม ในช่วงปิดปรับปรุงเซิร์ฟเวอร์ (Maintenance)<br>จะไม่สามารถทำการยกเลิกได้<c><br><br>・แม้ว่าคุณจะลบ Character ไปแล้ว แต่คุณก็จะไม่สามารถ<br>สร้าง Character ใหม่ได้หากคุณ<br>มี Character เกิน 3 ตัวขึ้นไป<br>หากคุณต้องการสร้าง Character ใหม่ และ<br>มี Character เกิน 3 ตัวขึ้นไป คุณจะต้อง<br>ใช้ AC<br><br>・Character นั้น, Support Partner, เครื่องประดับ (Accessories) ที่เป็นของ<br>Character นั้น, ไอเทม AC ที่ถูกใช้กับ<br>Character นั้น, และไอเทมจาก AC Scratch ที่ใช้กับ Character นั้น<br>จะ <yellow>สูญหาย<c> ไปทั้งหมด<br><br>・หากคุณกำลังอยู่ในระหว่างรอการย้าย Ship ของ Character นี้<br>ก่อนที่จะส่งคำขอลบ สถานะการย้าย Ship ของคุณจะถูก<br>ยกเลิก<br><br><yellow>หากคุณยอมรับเงื่อนไขข้างต้น ให้กดปุ่ม<br><%TabBack><%TabForward> ค้างไว้ และกด \""ใช่ (Yes)\"" เพื่อยืนยันการลบ<br>Character<c>"""
+CharaSelectMenu_Empty#0,"""สร้าง Character ใหม่"""
+CharaSelectItem_Name#0,"""ชื่อ Character"""
+CharaSelectItem_Class#0,"""คลาส (Class)"""
+CharaSelectItem_PlayTime#0,"""เวลาที่เล่น (Playtime)"""
+CharaSelectItem_PlayLimit#0,"""-"""
+CharaDeleteTitle#0,"""ลบ Character"""
+CharaSelectItem_MobileText_Vita#0,"""Character ที่ถูกเชื่อมโยงจาก [PSO2es]"""
+CharaSelectItem_MobileText#0,"""Character ที่ถูกเชื่อมโยงจาก<br>[Phantasy Star Online 2 es]"""
+CharaDeleteTime#0,"""เวลาจนกว่าจะถูกลบ"""
+CharaDeleteCancelTitle#0,"""ยกเลิกการลบ"""
+CharaSelectMenu_DeleteCancel#0,"""<yellow>[ยกเลิกการลบ Character]<c><br><br>- คุณสามารถยกเลิกกระบวนการลบ<br>Character ของคุณได้จนกว่าจะหมดเวลาด้านล่างนี้<br><br><red>เวลาจนกว่าจะถูกลบ: $(0)<c><br><br><yellow>หากต้องการยกเลิกคำขอลบ ให้กดปุ่ม [Ctrl] ค้างไว้<br>และกด \""ใช่ (Yes)\""<c>"""
+CharaSelectMenu_DeleteCancel_v#0,"""<yellow>[ยกเลิกการลบ Character]<c><br><br>- คุณสามารถยกเลิกกระบวนการลบ<br>Character ของคุณได้จนกว่าจะหมดเวลาด้านล่างนี้<br><br><red>เวลาจนกว่าจะถูกลบ: $(0)<c><br><br><yellow>หากต้องการยกเลิกคำขอลบ ให้กดปุ่ม<br><%TabBack><%TabForward> ค้างไว้ และกด \""ใช่ (Yes)\""<c>"""
+CharaSelectMenu_DeleteCancel_f#0,"""ไม่สามารถยกเลิกกระบวนการลบได้<br><br>Character ถูกลบไปเรียบร้อยแล้ว"""
+CharaSelectMenu_EpisodeItem1#0,"""EP1-3"""
+CharaSelectMenu_EpisodeItem2#0,"""EP4-5"""
+CharaSelectMenu_DecideItem#0,"""เริ่มเกม ($(0))"""
+CharaSelectMenu_Transport_Delay#0,"""ย้ายไปยัง Ship อื่นในช่วง Maintenance ครั้งถัดไป<pict 4space><pict Arcscash>"""
+CharaSelectMenu_Transport_Delay_Please_Wait_Or_Cancel#0,"""ยกเลิกคำขอย้ายในช่วง Maintenance ครั้งถัดไป <yellow>(ขอทำการย้ายไปยัง $(0))<c>"""
+CharaSelectItem_Transport_Delay_Please_Wait#0,"""<yellow>คำขอย้าย Ship<c>"""
+CharaSelec_ShipName#0,"""ชื่อ Ship"""
+CharaSelec_Num#0,"""Character ทั้งหมด"""
+CharaSelec_NotCharacter#0,"""หา Character ของคุณไม่เจอใช่ไหม?"""
+CharaSelec_LoginIn#0,"""เข้าสู่ระบบอยู่ (Logged In)"""
+CharaCheck_Num#0,"""$(0)"""
+CharaCheck_Message#0,"""ในรายการด้านล่างนี้ คุณจะพบจำนวน<br>Character ที่คุณสร้างไว้และ Ship ที่พวกมันอยู่<br><br>หากคุณต้องการเลือก Ship อื่น ให้กด<br>ปุ่ม <yellow>[ออกจากระบบ (Logout)]<c> และล็อกอินใหม่ใน Ship<br>อื่น"""
+CharaCheck_Message_VITA#0,"""ในรายการด้านล่างนี้<br>คุณจะพบตำแหน่งของ Character ที่คุณสร้างไว้และ Ship ที่พวกมันอยู่<br><br>หากคุณต้องการเลือก Ship อื่น<br>ให้กด <yellow>[กลับไปยังหน้าจอไตเติล]<c> และ<br>ล็อกอินใหม่ใน Ship อื่น"""
+CharaCheck_NoShipInfo#0,"""ไม่มีข้อมูล Ship"""
+PlayGo_CharaSelect_Title#0,"""ข้อความ (Message)"""
+PlayGo_CharaSelect_Message#0,"""<yellow>ขณะนี้กำลังติดตั้งไฟล์ที่จำเป็น<c><br><br>จนกว่าการติดตั้งจะเสร็จสมบูรณ์<br>ฟังก์ชันบางอย่าง (เช่น การย้ายไปยังพื้นที่ต่างๆ หรือ<br>การเลือก Character) อาจไม่สามารถใช้งานได้<br><br>กรุณารอจนกว่าการติดตั้งจะ<br>เสร็จสมบูรณ์"""
+CharaUndeletable_Title#0,"""ยืนยันการครอบครองไอเทม"""
+CharaUndeletable_Message#0,"""Character ที่คุณกำลังจะลบมีไอเทมอยู่<br>ในช่องเก็บของ (Inventory) จึงไม่สามารถลบได้<br><br>กรุณาย้ายหรือนำไอเทมออกจาก<br>ตำแหน่งต่อไปนี้เพื่อทำการลบ<br>Character:<br><br>- ช่องเก็บของตัวละคร (Character Inventory)<br>- คลังเก็บของตัวละคร (Character Storage)<br><br>Character ที่มี Support Partners จะต้องถูกนำออกก่อน<br>ที่คุณจะสามารถลบ Character ได้"""
+EP1_3_CloseIntroduction#0,"""ตั้งแต่วันที่ 9 มิถุนายน 2021 เป็นต้นไป:<br><yellow>การผจญภัยครั้งใหม่พร้อมให้เล่นแล้วใน PSO2: NGS<c><br><br>เมื่อคุณดำเนินเนื้อเรื่องใน PSO2: NGS ไปได้ไกลพอ คุณจะสามารถเดินทางไปมาได้อย่างอิสระระหว่างโลกของ NGS และโลกเก่าของ PSO2"""
+CharaSelectItem_Class_NotStartedNGS#0,"""ยังไม่ได้เริ่มเล่น [PSO2: NGS]"""
+CharaCheck_BodyShape_Title#0,"""ประกาศ (Notice)"""
+CharaCheck_BodyShape_Message#0,"""ภายใต้เงื่อนไขบางประการ รูปลักษณ์ของ Character<br>ที่สร้างขึ้นใน [PSO2] แต่เดิม อาจมีการเปลี่ยนแปลงอย่างเห็นได้ชัด<br>เนื่องจากผลกระทบของการอัปเดตไปใช้<br>เอนจินกราฟิก (graphics engine) ตัวใหม่<br>หากจำเป็น กรุณาแก้ไขรูปลักษณ์ Character ของคุณโดยใช้<br>\""สร้าง Character\"" เมื่อเริ่มเกม หรือโดย<br>การใช้ Salon ซึ่งจะสามารถใช้งานได้หลังจาก<br>ผ่านช่วงบทนำ (prologue) ของเนื้อเรื่องหลักไปแล้ว"""
+CharaSelectMenu_Demo_Movie#0,"""เล่นวิดีโอแนะนำ Character (Character Intro Movie Playback)"""
+CharaSelectMenu_MovieSkipWindow_Title#0,"""ข้อความ (Message)"""
+CharaSelectMenu_MovieSkipWindow_Text#0,"""การดำเนินการนี้จะเป็นการออกจากโหมดการเล่นวิดีโอ<br><br>คุณแน่ใจหรือไม่?"""
+CharaSelectMenu_Transport_Daily#0,"""ย้ายไปยัง Ship อื่นในระหว่างการย้ายประจำวัน (Daily Transfer) ครั้งถัดไป<pict 4space><pict Arcscash>"""
+CharaSelectMenu_Transport_Daily_Please_Wait_Or_Cancel#0,"""ยกเลิกคำขอย้ายในการย้ายประจำวัน (Daily Transfer) ครั้งถัดไป <yellow>(ขอทำการย้ายไปยัง $(0))<c>"""
+CharaSelectMenu_Decide#1,"""เล่นด้วย Character นี้"""
+CharaSelectMenu_Create#1,"""สร้าง Character ใหม่"""
+CharaSelectMenu_Delete#1,"""ลบ Character นี้"""
+CharaSelectMenu_Cancel#1,"""กลับไปยังเมนูก่อนหน้า"""
+CharaSelectMenu_ChangeName#1,"""เปลี่ยนชื่อ Character"""
+CharaNumMax#0,"""คุณสร้าง Character ถึงขีดจำกัดสูงสุดแล้ว<br>ในการสร้าง Character ใหม่<br>กรุณาลบ Character ที่มีอยู่ทิ้งก่อน"""
+SystemError#0,"""เกิดข้อผิดพลาดของระบบ กรุณาลองใหม่อีกครั้ง<br><br>[No.2301]"""
+ShipMaxError#0,"""การสร้าง Character ใน Ship นี้ถูกระงับชั่วคราว<br>กรุณาใช้ Ship อื่น"""
+ConsumeCheck#1,"""<pict Arcscash><pict 4space><c ff4f3f>คอนเทนต์ AC<c><br>ในการสร้าง Character เพิ่ม คุณจำเป็นต้องมี \""บัตรเพิ่มช่องตัวละคร (Character Slot Pass)\"" ก่อน<br><br><yellow>- Character จะถูกเก็บไว้ใน \""Ship\""<c><br><br>- หากต้องการเล่น Character ที่คุณเพิ่งสร้าง ตรวจสอบให้แน่ใจว่าคุณอยู่ใน Ship เดียวกับ Character ที่คุณสร้าง <yellow>ช่องตัวละคร (Slots) ที่ซื้อด้วยบัตรนี้สามารถใช้ได้เพียงครั้งเดียวเท่านั้น<c><br><br>คุณต้องการใช้ <pict Arcscash><c ff4f3f>$(0) AC<c> เพื่อสั่งซื้อ \""บัตรเพิ่มช่องตัวละคร (Character Slot Pass)\"" หรือไม่?<br><br><yellow><pict Arcscash>AC คงเหลือ: $(1)<c><br><yellow>ช่องตัวละคร (Character slots) ที่เหลืออยู่: $(2)<c> (จำนวนรวมสูงสุดในทุก Ship คือ $(3))"""
+ChangeNameConfirm#0,"""<pict Arcscash><pict 4space><c ff4f3f>คอนเทนต์ AC<c><br>ในการเปลี่ยนชื่อ Character ของคุณ คุณจะต้องสั่งซื้อ \""บัตรเปลี่ยนชื่อตัวละคร (Character Rename Pass)\"" ก่อน<br><br><yellow>- เมื่อเปลี่ยนชื่อ Character ของคุณแล้ว คุณจะไม่สามารถเปลี่ยนชื่อ Character ตัวเดิมซ้ำได้อีกเป็นเวลา $(0) วัน<c><br><br><yellow>- \""บัตรเปลี่ยนชื่อตัวละคร\"" นี้ใช้ได้เพียงครั้งเดียว แต่สามารถนำไปใช้กับ Character ตัวใดก็ได้ แม้ว่าคุณจะซื้อมาเพื่อใช้กับ Character อีกตัวก็ตาม<c><br><br>คุณต้องการสั่งซื้อ \""บัตรเปลี่ยนชื่อตัวละคร (Character Rename Pass)\"" ด้วยราคา <pict Arcscash><c ff4f3f>$(1) AC<c> หรือไม่?<br><br><yellow><pict Arcscash>AC คงเหลือ: $(2)<c>"""
+ChargeTitle#1,"""การยืนยันการเติม AC"""
+ChargeMessage#1,"""AC ไม่เพียงพอ<br>คุณต้องการเติม AC เพิ่มหรือไม่?"""
+ChargeMessage_v#1,"""AC ไม่เพียงพอ<br>คุณต้องการเติม AC เพิ่มหรือไม่?<br><br><yellow>※การดำเนินการนี้จะเปิดเว็บเบราว์เซอร์ขึ้นมา<br>เกมจะถูกปิดลงและคุณจะถูกออกจากระบบ (Log out)<c>"""
+TimeOutMessage#1,"""หมดเวลาการเชื่อมต่อกับเซิร์ฟเวอร์<br><br>[No.2302]"""
+ShortageAC#1,"""AC ไม่เพียงพอ การสั่งซื้อล้มเหลว"""
+ErrorTime1#0,"""การสั่งซื้อการเปลี่ยนชื่อ Character ล้มเหลว<br>กรุณารอจนกว่าจะผ่านไป $(0) วัน<br>เพื่อเปลี่ยนชื่อ Character ของคุณอีกครั้ง"""
+ErrorTime2#0,"""การสั่งซื้อการเปลี่ยนชื่อ Character ล้มเหลว<br>กรุณารอจนกว่าจะผ่านไป $(0) วัน<br>เพื่อเปลี่ยนชื่อ Character ของคุณอีกครั้ง<br><br>เวลาที่เหลือ: $(1)"""
+BuySuccess#1,"""สั่งซื้อสำเร็จแล้ว"""
+ErrorDone#2,"""การสั่งซื้อล้มเหลว<br>กระบวนการเปลี่ยนชื่อถูกยกเลิกแล้ว"""
+ErrorOther#2,"""เกิดข้อผิดพลาดของระบบ กรุณาลองใหม่อีกครั้ง<br><br>[No.2301]"""
+ErrorHas#1,"""คุณมีการเปลี่ยนชื่อ Character (Character Rename) อยู่แล้ว<br>การสั่งซื้อถูกยกเลิก"""
+BuyFailure#1,"""การสั่งซื้อล้มเหลว"""
+InfoCaptionPossible#0,"""จำนวนช่องรวม (Total Slots)"""
+InfoCaptionAc#0,"""AC คงเหลือ"""
+InfoCaptionMax#0,"""จำนวน Character รวม"""
 PlayTime_Day#0,"""$(0) วัน, $(1):$(2):$(3)"""
 PlayTime#0,"""$(0):$(1):$(2)"""
 MobileWrongShip#0,"""ขณะนี้ Character จาก <yellow>[Phantasy Star Online 2 es]<c><br>ถูกเชื่อมโยงอยู่บน Ship ต่อไปนี้:<br><br><yellow>- $(0)<c><br><br><yellow>หากคุณต้องการเข้าเล่นโดยใช้<br>Character ตัวนั้น กรุณากลับไปยังหน้าเลือก Ship (Ship Selection)<br>และล็อกอินเข้าสู่ Ship ดังกล่าว<c>"""
