@@ -1,0 +1,4 @@
+406#0,"""Damage+6.25% Damage Variance+2%<br>HP+25 PP+3<br>HP Recovery +10%<br>After recovering HP:<br>Damage+1.5% for 20 seconds."""
+407#0,"""Damage+6.5% Damage Variance+2%<br>HP+25 PP+3<br>Upon dealing damage:<br>30% chance to recover 10 PP.<br>(5 second cooldown),<br>and 10% chance to<br>deal 1 damage to yourself.<br>(10 second cooldown)"""
+408#0,"""Damage+6.5% Damage Variance+2%<br>HP+25 PP+3<br>When 100 PP spent, Burns self.<br>During Burn, PP Regen +30%.<br>Burn no longer reduces damage."""
+409#0,"""Damage+6.5% Damage Variance+2%<br>HP+25 PP+3<br>When your attack hits,<br>If HP is above 50%:<br>Damage self for 10% max HP<br>(0.1 second cooldown)<br>When your attack hits,<br>If HP is below 48%:<br>Recover 1% of max HP<br>(0.5 second cooldown)"""
