@@ -224,6 +224,7 @@ Mes_Matching_MatchingWord_Mes9#0,"""Assist NPC เป็นระบบที่
 Mes_Matching_MatchingWord_Mes10#0,"""เปิดใช้งานการจับคู่ All-Ship"""
 Mes_Matching_MatchingWord_Mes11#0,"""การจับคู่ All-Ship จะทำการจับคู่ผู้เล่นที่รับเควสต์เดียวกันจากทุกยานเข้าด้วยกัน"""
 Mes_Matching_MatchingWord_Mes12#0,"""การตั้งรหัสผ่านการจับคู่จะ<br>ทำให้ห้องนี้กลายเป็นห้องถ่ายรูป<br>คุณสามารถเปลี่ยนการตั้งค่าของ<br>ห้องถ่ายรูปได้หลังจากสร้างห้องแล้ว"""
+Mes_LeavePenalty#0,"""매칭 제한 중이므로 대상 퀘스트를 수주할 수 없습니다."""
 DefenseTerminal_Title#0,"""Mining Rig"""
 DefenseTerminal_Title_BLUEFULL#0,"""Mining Rig [สีฟ้า]"""
 DefenseTerminal_Title_WHITILL#0,"""Mining Rig [สีขาว]"""

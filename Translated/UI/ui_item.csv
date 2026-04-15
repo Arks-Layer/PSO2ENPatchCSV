@@ -644,7 +644,7 @@ SendGuildWarehouseErrorMessage1#0,"""ไม่สามารถฝากไอ�
 SendGuildWarehouseErrorMessage2#0,"""พื้นที่ใน Team Storage ไม่เพียงพอที่จะฝากไอเทม"""
 SendGuildWarehouseErrorMessage7#0,"""คุณไม่สามารถฝากไอเทมที่สวมใส่อยู่ได้"""
 SendGuildWarehouseErrorMessage10#0,"""กำลังประมวลผลคำขอ,<br>ไม่สามารถฝากไอเทมได้"""
-SendGuildWarehouseErrorMessage11#0,"""ไม่สามารถฝากไอเทมได้<br><br>สถานะ Premium อาจหมดอายุ<br>หรือตำแหน่งใน Team ของคุณอาจเป็น \""Visitor\"""
+SendGuildWarehouseErrorMessage11#0,""""""
 SendGuildWarehouseErrorMessage12#0,"""เนื่องจากไอเทมนี้ถูกล็อกอยู่<br>จึงไม่สามารถฝากลงใน Team Storage ได้"""
 SendGuildWarehouseErrorMessage13#0,"""เนื่องจากพื้นที่ว่างใน Team Storage ไม่เพียงพอ<br>หรือไม่สามารถฝาก $(0)<br>ได้<br>จึงทำการยกเลิกขั้นตอนการฝากทั้งหมด"""
 SendGuildWarehouseErrorMessage14#0,"""คุณไม่สามารถถอนไอเทมนี้ได้เนื่องจากกำลังสวมใส่อยู่"""
@@ -655,7 +655,7 @@ TakeGuildWarehouseErrorMessage0#0,"""ไม่สามารถถอนไอ�
 TakeGuildWarehouseErrorMessage1#0,"""ไม่สามารถถอนไอเทมได้<br>เนื่องจากพื้นที่ใน Inventory ไม่เพียงพอ<br>หรือเกินขีดจำกัดการครอบครองไอเทม"""
 TakeGuildWarehouseErrorMessage2#0,"""เกินขีดจำกัดจำนวนของไอเทมนี้แล้ว<br>กรุณาลดจำนวนที่ต้องการถอนลง"""
 TakeGuildWarehouseErrorMessage3#0,"""ไม่สามารถถอนไอเทมได้"""
-TakeGuildWarehouseErrorMessage4#0,"""ไม่สามารถถอนไอเทมได้<br><br>สถานะ Premium อาจหมดอายุ<br>หรือตำแหน่งใน Team ของคุณอาจเป็น \""Visitor\"""
+TakeGuildWarehouseErrorMessage4#0,""""""
 TakeGuildWarehouseNoticeMessage1#0,"""ไอเทมบางชิ้นไม่สามารถถอนได้"""
 MoveGuildWarehouseTitle#0,"""ย้ายไอเทมไปที่ Team Storage"""
 MoveGuildWarehouseMessage#0,"""กำลังย้ายไอเทมไปที่ Team Storage<br>คุณแน่ใจหรือไม่?<br><br><yellow>※โปรดทราบว่าในการใช้ Team Storage<br>ผู้เล่นอื่นในทีมก็สามารถใช้งานได้เช่นกัน<c>"""
@@ -663,7 +663,7 @@ MoveGuildWarehouseErrorTitle#0,"""ย้ายไอเทมไปที่ Tea
 MoveGuildWarehouseErrorMessage0#0,"""ไม่สามารถย้ายไอเทมไปที่ Team Storage ได้"""
 MoveGuildWarehouseErrorMessage1#0,"""ไอเทมนี้ไม่สามารถย้ายไปยัง<br>Team Storage ได้"""
 MoveGuildWarehouseErrorMessage2#0,"""ไม่สามารถย้ายไอเทมได้<br>เนื่องจากพื้นที่ว่างใน Team Storage ไม่เพียงพอ"""
-MoveGuildWarehouseErrorMessage3#0,"""ไม่สามารถย้ายไอเทมได้<br><br>สถานะ Premium อาจหมดอายุ<br>หรือตำแหน่งใน Team ของคุณอาจเป็น \""Visitor\"""
+MoveGuildWarehouseErrorMessage3#0,""""""
 MoveGuildWarehouseErrorMessage4#0,"""คุณไม่สามารถย้ายไอเทมที่ล็อกอยู่ได้"""
 MoveGuildWarehouseErrorMessage13#0,"""พื้นที่ใน Team Storage ไม่เพียงพอ<br>ที่จะฝากไอเทม<br>$(0)<br>กรุณาตรวจสอบให้แน่ใจว่ามีพื้นที่เพียงพอ<br>สำหรับไอเทมและลองใหม่อีกครั้ง"""
 MoveGuildWarehouseNoticeMessage1#0,"""ไอเทมบางชิ้นไม่สามารถย้ายได้"""
@@ -2057,8 +2057,8 @@ SetErrorMessage6#0,"""ไอเทมนี้ถึงขีดจำกัด 
 FusionCodeNumTitle#0,"""Synthesizer ที่มีอยู่"""
 NoMatchItemErrorTitle#2,"""Item Lab"""
 NoMatchItemErrorMessage1#2,"""ไม่มีไอเทมที่สามารถเพิ่มค่าธาตุได้"""
-NoMatchItemErrorMessage2#1,"""ไม่มีอาวุธที่ตรงตามเงื่อนไข<br>อาจเป็นเพราะเปิดการตั้งค่าซ่อนไอเทมที่ล็อกไว้ หรือไม่มีอาวุธที่มี<yellow>ระดับความหายาก (Rarity) เดียวกัน<c>และ<br><yellow>หมวดหมู่เดียวกัน<c>กับอาวุธที่เป็น \""เป้าหมาย\"""
-MaxAttributeMessage1#0,"""เนื่องจากอาวุธมีค่าธาตุสูงสุดแล้ว<br>จึงไม่สามารถเพิ่มค่าธาตุได้อีก<br>※ยังสามารถเปลี่ยนธาตุได้<br><br>และคุณยังไม่มีอาวุธที่ตรงตามเงื่อนไข<br>จำเป็นต้องใช้อาวุธที่มี<yellow>ระดับความหายาก (Rarity) เดียวกัน<c>และ<br><yellow>หมวดหมู่เดียวกัน<c>กับอาวุธที่เป็น \""เป้าหมาย\"""
+NoMatchItemErrorMessage2#1,""""""
+MaxAttributeMessage1#0,""""""
 MaxAttributeMessage2#0,"""เนื่องจากอาวุธมีค่าธาตุสูงสุดแล้ว<br>จึงไม่สามารถเพิ่มค่าธาตุได้อีก<br>※ยังสามารถเปลี่ยนธาตุได้"""
 DifferentKindTitle#0,"""Item Lab"""
 ConfirmMessage#1,"""ไอเทมนี้มีระดับการ Grind +1 ขึ้นไป<br>แน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?"""
@@ -2103,7 +2103,7 @@ PotentialSelectExplanationHead_Vita#0,"""รายละเอียด"""
 ReleasePotentialTitle#0,"""ปลดล็อก Potential ไอเทม"""
 ReleasePotentialMessage#0,"""จะเริ่มทำการปลดล็อก Potential<br>ดำเนินการต่อหรือไม่?<br><br>※โปรดทราบว่าอาวุธที่ได้รับการปลดล็อก Potential<br>\u3000<c ff4f3f>ระดับการ Grind จะกลับไปเป็น 0<c>"""
 CompareTitle#4,"""รายละเอียดการดำเนินการ Potential"""
-PotentialResult#0,"""Potential ของ $(0)<br>ตอนนี้คือ \""$(1)\"""
+PotentialResult#0,""""""
 CompareNum1#1,"""ชื่อ Potential"""
 CompareNum2#1,"""รายละเอียด Potential"""
 CompareNum3#1,"""Lv.$(0)"""
@@ -2314,7 +2314,7 @@ Label_Item_Num#0,"""ที่มีอยู่ในปัจจุบัน"""
 Label_Item_Capacity#0,"""ความจุ Inventory หลังจากซื้อ"""
 Label_Item_Warehouse_Capacity#0,"""ความจุ $(0) หลังจากนี้"""
 Explanation5_v#2,"""<c f0df61>คุณสามารถค้นหาด้วยคีย์เวิร์ดจาก Player ID name, ชื่อตัวละคร และข้อความโฆษณาได้<c>"""
-Explanation6#3,"""กรุณาเลือกร้านค้า หากคุณเลื่อนเมาส์ไปที่ร้านค้า Player ID name และข้อความโฆษณาจะแสดงอยู่ใต้ \""รายละเอียด My Shop\"""
+Explanation6#3,""""""
 Explanation6_v#2,"""<c f0df60>กรุณาเลือกร้านค้า เมื่อเลื่อนเคอร์เซอร์ไปวาง ระบบจะแสดง \""รายละเอียด My Shop\""<c>"""
 Explanation7#2,"""ที่นี่คุณสามารถตรวจสอบสินค้าในร้านค้าของคุณ หรือแก้ไขโฆษณาร้านค้าได้"""
 Explanation8#2,"""เลือก Slot ที่คุณต้องการวางไอเทม จากนั้นเลือกไอเทมที่จะขายและตั้งราคา"""
@@ -2662,7 +2662,7 @@ Basic capsule 1#0,"""เป้าหมาย Capsule Tier I"""
 Basic capsule 2#0,"""เป้าหมาย Capsule Tier II"""
 Trigger/Yellow#0,"""เป้าหมาย B. Trigger/Yellow"""
 Trigger/Purple#0,"""เป้าหมาย B. Trigger/Purple"""
-Target Quartz#0,"""เป้าหมาย Ore \""cite\"""
+Target Quartz#0,""""""
 Target Crystal#0,"""เป้าหมาย Autumn Crystal"""
 Kouklophis Series#0,"""ซีรีส์ Kouklophis"""
 Primlibra Series#0,"""ซีรีส์ Prim Libra"""
@@ -2691,14 +2691,14 @@ Recycle Reward Box Medal#0,"""เป้าหมาย Reward Box Medals"""
 Target N-Class EX-Cubes#0,"""เป้าหมาย N-Class Excubes"""
 Recycle Card#0,"""Cards ที่มีสิทธิ์"""
 Xover Series#0,"""ซีรีส์ Carbo"""
-Basic capsule Triyal#0,"""เป้าหมาย Capsules \""Dryl\"""
+Basic capsule Triyal#0,""""""
 Recycle Kira Card#0,"""เป้าหมาย Foil Card"""
 Recycle Normal Card#0,"""เป้าหมาย Normal Card"""
-Basic capsule Dualble V#0,"""เป้าหมาย Capsules \""Diable V\"""
+Basic capsule Dualble V#0,""""""
 Search_EXElement_HintText#0,"""เมื่อทำการค้นหา EX Special Abilities<br>คุณสามารถค้นหาทุกสายย่อยพร้อมกันได้โดย<br><yellow>เปลี่ยนตัวอักษรตัวสุดท้ายเป็น \""?\""<c><br><yellow>※ตัวอย่าง: EX Risky Stance ?<c>"""
-Target Capsule Domina LC#0,"""เป้าหมาย Capsules \""Domina LC\"""
-Target DP Capsules#0,"""เป้าหมาย Capsules \""DP\"""
-Target Dualble DP Capsules#0,"""เป้าหมาย Capsules \""Diable DP\"""
+Target Capsule Domina LC#0,""""""
+Target DP Capsules#0,""""""
+Target Dualble DP Capsules#0,""""""
 Target N-Weapons Badge#0,"""เป้าหมาย N-Weapons Badge"""
 Search_Series_HintText#0,"""สำหรับ \""Weapons\"" และ \""Armor\"" คุณสามารถค้นหาไอเทมทั้งหมดใน<br>ซีรีส์ที่ตรงกันได้พร้อมกันโดยใช้ <yellow>เครื่องหมายคำถาม \""？\"" ในการค้นหา<c><br><yellow>※ตัวอย่าง: プリムソード？ (Prim Sword?)<c><br>※ไม่สามารถใช้ได้กับบางซีรีส์"""
 Title#16,"""ค้นหาร้านค้า"""
@@ -2714,7 +2714,7 @@ Reload#1,"""รีเฟรช"""
 ExhibitNumber#0,"""จำนวนไอเทม"""
 NextSearch#0,"""ค้นหาถัดไป"""
 PrevSearch#0,"""ค้นหาก่อนหน้า"""
-Blockade_message#0,"""ปลดล็อกโดยการได้รับฉายา \""$(0)\"""
+Blockade_message#0,""""""
 Title#17,"""รายละเอียดร้านค้า"""
 Owner#0,"""ชื่อเจ้าของ"""
 Comment#0,"""โฆษณา"""
@@ -2823,7 +2823,7 @@ CollectTitle#0,"""รับรายได้"""
 CollectMessage#0,"""รับ <pict reb_meseta>$(1) $(0)<br>ที่คุณได้รับจากร้านค้าหรือไม่?"""
 ProceedsTitle#0,"""รายได้รวม"""
 Blockade_name#0,"""-"""
-Closed_owner_info_2#1,"""ไม่สามารถแสดงได้เนื่องจากผู้ขายไม่มีฉายา \""My Shop Master\"" หรือ \""My Shop Buyer\"""
+Closed_owner_info_2#1,""""""
 Cash#3,"""Meseta"""
 Cost#1,"""ราคา"""
 Title#22,"""Item Tekker"""
@@ -2841,7 +2841,7 @@ Explanation2_special#0,"""<c f0df60>กรุณาเลือกอาวุ�
 Explanation3_special#0,"""<c f0df60>นี่คือหน้าจอยืนยันขั้นสุดท้ายสำหรับการประเมินขั้นสูง หลังจากการประเมิน คุณสามารถเพิ่มธาตุหรือ Special Abilities ที่ทรงพลังยิ่งขึ้นได้<c>"""
 Title#23,"""เลือกไอเทมที่จะประเมิน"""
 ConfirmTitle#1,"""ยืนยันไอเทมที่จะประเมิน"""
-ConfirmMessage#3,"""เมื่อใช้บริการนี้ คุณสามารถเพิ่มธาตุและ Ability ที่ต้องการได้หลังจากการประเมินไอเทม<br><br>กรุณาเลือกอย่างละหนึ่งอย่าง<br>จากนั้นกดปุ่ม \""เริ่มประเมิน\"""
+ConfirmMessage#3,""""""
 SelectItem#0,"""ไอเทมที่จะประเมิน"""
 SelectAttribute#0,"""ธาตุที่ต้องการ"""
 SelectElement#0,"""Ability ที่ต้องการ"""
@@ -2859,7 +2859,7 @@ IdentifySelectItemTitle#0,"""เลือกไอเทมที่ยังไ
 identifyConfrimMessage#0,"""จากบริการนี้ คุณสามารถเพิ่มธาตุที่ต้องการให้กับ<br>ไอเทมที่เลือก 1 ชิ้นได้<br>หลังจากเลือกธาตุ 1 อย่างแล้ว<br>กรุณากดปุ่ม \""ประเมิน\""<br>※โปรดทราบว่าธาตุที่เลือกจะถูกเพิ่มให้กับ<br>ไอเทมเป้าหมายทั้งหมด<br>※ไอเทมเป้าหมายจะถูกประเมินทีละ 10 ชิ้น"""
 identifyConfrimSelectAttribute#0,"""ธาตุที่ต้องการเพิ่ม"""
 identifyConfrimSelectResultTtile#0,"""ผลการประเมิน"""
-identifyConfrimSelectResultMessage#0,"""การประเมินไอเทมจำนวน $(1) ชิ้นต่อไปนี้เสร็จสิ้นแล้ว<br>($(1) ชิ้น/$(0) ชิ้น)<br>กรุณากดปุ่ม \""สิ้นสุดการประเมิน\"""
+identifyConfrimSelectResultMessage#0,""""""
 identifyConfrimSelectResultContinue#0,"""ประเมินต่อ"""
 identifyConfrimSelectResultEnd#0,"""สิ้นสุดการประเมิน"""
 IdentifyMessage#0,"""<yellow>Meseta ที่ต้องการ: $(1) (ปัจจุบันมี: $(0))<c><br>กำลังประเมินไอเทมนี้<br>ดำเนินการต่อหรือไม่?"""
@@ -2874,7 +2874,7 @@ NoMatchItemErrorTitle#7,"""Item Tekker"""
 NoMatchItemErrorMessage1#7,"""คุณไม่มีไอเทมที่ยังไม่ได้ประเมิน"""
 SetErrorTitle#4,"""Item Tekker"""
 SetErrorMessage1#4,"""ไม่สามารถประเมินไอเทมนี้ได้<br><br>[No.2108]"""
-ConfirmMessage2#0,"""จากบริการนี้ คุณสามารถเพิ่มธาตุที่ต้องการ<br>ให้กับไอเทมหลังการประเมินได้<br><br>หลังจากเลือกธาตุ 1 อย่างแล้ว<br>กรุณากดปุ่ม \""เริ่มประเมิน\"""
+ConfirmMessage2#0,""""""
 PackReturn#0,"""หยุดการประเมินชั่วคราว"""
 PackNext10#0,"""ประเมินต่อ"""
 PackEnd#0,"""สิ้นสุดการประเมิน"""
@@ -7198,106 +7198,106 @@ item_ReturnBarrier_5#1,"""Damage +24%<br>มอบบาเรียที่ใ
 item_ReturnBarrier_6#1,"""Damage +47%<br>มอบบาเรียที่ให้<br>Damage Resistance +50%<br>บาเรียจะหายไปเมื่อถูกโจมตี<br>ฟื้นฟูหลังจาก 15 วินาที"""
 item_PpReturn_1#1,"""Damage +17%<br>ฟื้นฟู 10 PP เมื่อคุณ<br>โจมตีศัตรูขณะที่มี PP<br>ต่ำกว่า 50% (คูลดาวน์ 15 วินาที)"""
 item_PpReturn_2#1,"""Damage +19%<br>ฟื้นฟู 10 PP เมื่อคุณ<br>โจมตีศัตรูขณะที่มี PP<br>ต่ำกว่า 50% (คูลดาวน์ 15 วินาที)"""
-item_PpReturn_3#1,Damage +22%<br>ฟื้นฟู 10 PP เมื่อคุณ<br>โจมตีศัตรูขณะที่มี PP<br>ต่ำกว่า 50% (คูลดาวน์ 15 วินาที)
-item_PpReturn_4#1,Damage +23%<br>ฟื้นฟู 10 PP เมื่อคุณ<br>โจมตีศัตรูขณะที่มี PP<br>ต่ำกว่า 50% (คูลดาวน์ 15 วินาที)
-item_PpReturn_5#1,Damage +24%<br>ฟื้นฟู 15 PP เมื่อคุณ<br>โจมตีศัตรูขณะที่มี PP<br>ต่ำกว่า 50% (คูลดาวน์ 10 วินาที)
-item_PpReturn_6#1,Damage +47%<br>ฟื้นฟู 50 PP เมื่อคุณ<br>โจมตีศัตรูขณะที่มี PP<br>ต่ำกว่า 50% (คูลดาวน์ 10 วินาที)
-item_ChanceUp_1#1,Damage +15%<br>เพิ่ม Critical Hit Rate<br>สำหรับการโจมตีที่ไม่ติดคริติคอลแต่ละครั้ง<br>สูงสุด +22% รีเซ็ตเมื่อ<br>โจมตีติดคริติคอลสำเร็จ
-item_ChanceUp_2#1,Damage +17%<br>เพิ่ม Critical Hit Rate<br>สำหรับการโจมตีที่ไม่ติดคริติคอลแต่ละครั้ง<br>สูงสุด +22% รีเซ็ตเมื่อ<br>โจมตีติดคริติคอลสำเร็จ
-item_ChanceUp_3#1,Damage +20%<br>เพิ่ม Critical Hit Rate<br>สำหรับการโจมตีที่ไม่ติดคริติคอลแต่ละครั้ง<br>สูงสุด +22% รีเซ็ตเมื่อ<br>โจมตีติดคริติคอลสำเร็จ
-item_ChanceUp_4#1,Damage +21%<br>เพิ่ม Critical Hit Rate<br>สำหรับการโจมตีที่ไม่ติดคริติคอลแต่ละครั้ง<br>สูงสุด +22% รีเซ็ตเมื่อ<br>โจมตีติดคริติคอลสำเร็จ
-item_ChanceUp_5#1,Damage +22%<br>เพิ่ม Critical Hit Rate<br>สำหรับการโจมตีที่ไม่ติดคริติคอลแต่ละครั้ง<br>สูงสุด +30% รีเซ็ตเมื่อ<br>โจมตีติดคริติคอลสำเร็จ
-item_ChanceUp_6#1,Damage +37%<br>เพิ่ม Critical Hit Rate<br>สำหรับการโจมตีที่ไม่ติดคริติคอลแต่ละครั้ง<br>สูงสุด +30% รีเซ็ตเมื่อ<br>โจมตีติดคริติคอลสำเร็จ
-item_ElementPpBonus2_1#1,Damage +8%<br>การโจมตีศัตรู 2 ครั้งใน 10 วินาที<br>จะสร้างการโจมตีพิเศษ<br>ที่ทำให้ศัตรูติดสถานะ Attribute Down ของไอเทมนี้<br>(คูลดาวน์ 20 วินาที)
-item_ElementPpBonus2_2#1,Damage +10%<br>การโจมตีศัตรู 2 ครั้งใน 10 วินาที<br>จะสร้างการโจมตีพิเศษ<br>ที่ทำให้ศัตรูติดสถานะ Attribute Down ของไอเทมนี้<br>(คูลดาวน์ 20 วินาที)
-item_ElementPpBonus2_3#1,Damage +13%<br>การโจมตีศัตรู 2 ครั้งใน 10 วินาที<br>จะสร้างการโจมตีพิเศษ<br>ที่ทำให้ศัตรูติดสถานะ Attribute Down ของไอเทมนี้<br>(คูลดาวน์ 20 วินาที)
-item_ElementPpBonus2_4#1,Damage +14%<br>การโจมตีศัตรู 2 ครั้งใน 10 วินาที<br>จะสร้างการโจมตีพิเศษ<br>ที่ทำให้ศัตรูติดสถานะ Attribute Down ของไอเทมนี้<br>(คูลดาวน์ 20 วินาที)
-item_ElementPpBonus2_5#1,Damage +15%<br>การโจมตีศัตรู 2 ครั้งใน 10 วินาที<br>จะสร้างการโจมตีพิเศษ<br>ที่ทำให้ศัตรูติดสถานะ Attribute Down ของไอเทมนี้<br>(คูลดาวน์ 20 วินาที)
-item_Highlander_1#1,Damage +18%<br>เพิ่มการฟื้นฟู HP ของ Resta Sign<br>& ลด PP Consumption ลง 1% ต่อ<br>ความแตกต่างของ Weapon & Unit Special Abilities<br>สูงสุดไม่เกิน 15%
-item_Highlander_2#1,Damage +20%<br>เพิ่มการฟื้นฟู HP ของ Resta Sign<br>& ลด PP Consumption ลง 1% ต่อ<br>ความแตกต่างของ Weapon & Unit Special Abilities<br>สูงสุดไม่เกิน 15%
-item_Highlander_3#1,Damage +22%<br>เพิ่มการฟื้นฟู HP ของ Resta Sign<br>& ลด PP Consumption ลง 1% ต่อ<br>ความแตกต่างของ Weapon & Unit Special Abilities<br>สูงสุดไม่เกิน 15%
-item_Highlander_4#1,Damage +26%<br>เพิ่มการฟื้นฟู HP ของ Resta Sign<br>& ลด PP Consumption ลง 1% ต่อ<br>ความแตกต่างของ Weapon & Unit Special Abilities<br>สูงสุดไม่เกิน 20%
-item_Highlander_5#1,Damage +27%<br>เพิ่มการฟื้นฟู HP ของ Resta Sign<br>& ลด PP Consumption ลง 2% ต่อ<br>ความแตกต่างของ Weapon & Unit Special Abilities<br>สูงสุดไม่เกิน 20%
-item_Highlander_6#1,Damage +44%<br>เพิ่มการฟื้นฟู HP ของ Resta Sign<br>& ลด PP Consumption ลง 2% ต่อ<br>ความแตกต่างของ Weapon & Unit Special Abilities<br>สูงสุดไม่เกิน 20%
-item_QuestBuster_1#1,Damage +15%<br>Damage Resistance +5%<br>ใน Geometric Labyrinth:<br>Add. Damage +5% &<br>Damage Resistance +50%
-item_QuestBuster_2#1,Damage +18%<br>Damage Resistance +5%<br>ใน Geometric Labyrinth:<br>Add. Damage +5% &<br>Damage Resistance +50%
-item_QuestBuster_3#1,Damage +21%<br>Damage Resistance +5%<br>ใน Geometric Labyrinth:<br>Add. Damage +5% &<br>Damage Resistance +50%
-item_QuestBuster_4#1,Damage +22%<br>Damage Resistance +5%<br>ใน Geometric Labyrinth:<br>Add. Damage +5% &<br>Damage Resistance +50%
-item_QuestBuster_5#1,Damage +23%<br>Damage Resistance +10%<br>ใน Geometric Labyrinth:<br>Add. Damage +10% &<br>Damage Resistance +50%
-item_QuestBuster_6#1,Damage +40%<br>Damage Resistance +10%<br>ใน Geometric Labyrinth:<br>Add. Damage +10% &<br>Damage Resistance +50%
-item_EnemyBuster_1#1,Damage +13%<br>Damage Resistance +5%<br>เมื่อต่อสู้กับ DOLLS จะได้รับ<br>Damage +6% และ<br>Damage Resistance +5% เพิ่มเติม
-item_EnemyBuster_2#1,Damage +15%<br>Damage Resistance +5%<br>เมื่อต่อสู้กับ DOLLS จะได้รับ<br>Damage +6% และ<br>Damage Resistance +5% เพิ่มเติม
-item_EnemyBuster_3#1,Damage +18%<br>Damage Resistance +5%<br>เมื่อต่อสู้กับ DOLLS จะได้รับ<br>Damage +6% และ<br>Damage Resistance +5% เพิ่มเติม
-item_EnemyBuster_4#1,Damage +19%<br>Damage Resistance +5%<br>เมื่อต่อสู้กับ DOLLS จะได้รับ<br>Damage +6% และ<br>Damage Resistance +5% เพิ่มเติม
-item_EnemyBuster_5#1,Damage +21%<br>Damage Resistance +5%<br>เมื่อต่อสู้กับ DOLLS จะได้รับ<br>Damage +6% และ<br>Damage Resistance +5% เพิ่มเติม
-item_EnemyBuster_6#1,Damage +31%<br>Damage Resistance +5%<br>เมื่อต่อสู้กับ DOLLS จะได้รับ<br>Damage +6% และ<br>Damage Resistance +5% เพิ่มเติม
-item_EscapePpConvert_1#1,Damage +16%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 20 วินาที<br>Natural PP<br>Recovery +100%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert_2#1,Damage +18%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 20 วินาที<br>Natural PP<br>Recovery +100%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert_3#1,Damage +21%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 20 วินาที<br>Natural PP<br>Recovery +100%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert_4#1,Damage +22%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 20 วินาที<br>Natural PP<br>Recovery +100%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert_5#1,Damage +23%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 40 วินาที<br>Natural PP<br>Recovery +150%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert_6#1,Damage +48%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 40 วินาที<br>Natural PP<br>Recovery +150%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert2_1#1,Damage +18%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 20 วินาที<br>Natural PP<br>Recovery +100%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert2_2#1,Damage +20%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 20 วินาที<br>Natural PP<br>Recovery +100%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert2_3#1,Damage +23%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 20 วินาที<br>Natural PP<br>Recovery +100%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert2_4#1,Damage +24%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 20 วินาที<br>Natural PP<br>Recovery +100%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert2_5#1,Damage +25%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 40 วินาที<br>Natural PP<br>Recovery +150%<br>(คูลดาวน์ 10 วินาที)
-item_EscapePpConvert2_6#1,Damage +48%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>เป็นเวลา 40 วินาที<br>Natural PP<br>Recovery +150%<br>(คูลดาวน์ 10 วินาที)
-item_AttackKeep_1#1,Damage +18%<br>เมื่อโจมตีโดนเป้าหมาย:<br>เป็นเวลา 5 วินาที<br>Attack PP Recovery +20%<br>การโจมตีโดนอีกครั้ง<br>จะขยายระยะเวลา<br>แสดงผลออกไป (คูลดาวน์ 10 วินาที)
-item_AttackKeep_2#1,Damage +20%<br>เมื่อโจมตีโดนเป้าหมาย:<br>เป็นเวลา 5 วินาที<br>Attack PP Recovery +20%<br>การโจมตีโดนอีกครั้ง<br>จะขยายระยะเวลา<br>แสดงผลออกไป (คูลดาวน์ 10 วินาที)
-item_AttackKeep_3#1,Damage +22%<br>เมื่อโจมตีโดนเป้าหมาย:<br>เป็นเวลา 5 วินาที<br>Attack PP Recovery +20%<br>การโจมตีโดนอีกครั้ง<br>จะขยายระยะเวลา<br>แสดงผลออกไป (คูลดาวน์ 10 วินาที)
-item_AttackKeep_4#1,Damage +23%<br>เมื่อโจมตีโดนเป้าหมาย:<br>เป็นเวลา 5 วินาที<br>Attack PP Recovery +20%<br>การโจมตีโดนอีกครั้ง<br>จะขยายระยะเวลา<br>แสดงผลออกไป (คูลดาวน์ 10 วินาที)
-item_AttackKeep_5#1,Damage +24%<br>เมื่อโจมตีโดนเป้าหมาย:<br>เป็นเวลา 10 วินาที<br>Attack PP Recovery +30%<br>การโจมตีโดนอีกครั้ง<br>จะขยายระยะเวลา<br>แสดงผลออกไป (คูลดาวน์ 10 วินาที)
-item_AttackKeep_6#1,Damage +48%<br>เมื่อโจมตีโดนเป้าหมาย:<br>เป็นเวลา 10 วินาที<br>Attack PP Recovery +30%<br>การโจมตีโดนอีกครั้ง<br>จะขยายระยะเวลา<br>แสดงผลออกไป (คูลดาวน์ 10 วินาที)
-item_PpSlayer_1#1,Damage +12%<br>เพิ่ม Critical Hit Rate<br>30% เมื่อ PP<br>ต่ำกว่า 50%
-item_PpSlayer_2#1,Damage +14%<br>เพิ่ม Critical Hit Rate<br>30% เมื่อ PP<br>ต่ำกว่า 50%
-item_PpSlayer_3#1,Damage +17%<br>เพิ่ม Critical Hit Rate<br>30% เมื่อ PP<br>ต่ำกว่า 50%
-item_PpSlayer_4#1,Damage +18%<br>เพิ่ม Critical Hit Rate<br>30% เมื่อ PP<br>ต่ำกว่า 50%
-item_PpSlayer_5#1,Damage +19%<br>เพิ่ม Critical Hit Rate<br>30% เมื่อ PP<br>ต่ำกว่า 70%
-item_PpSlayer_6#1,Damage +29%<br>เพิ่ม Critical Hit Rate<br>30% เมื่อ PP<br>ต่ำกว่า 70%
-item_DamagePpConvert_1#1,Damage +18%<br>เมื่อได้รับความเสียหาย:<br>PP Recovery +20%<br>(คูลดาวน์ 10 วินาที)
-item_DamagePpConvert_2#1,Damage +20%<br>เมื่อได้รับความเสียหาย:<br>PP Recovery +20%<br>(คูลดาวน์ 10 วินาที)
-item_DamagePpConvert_3#1,Damage +23%<br>เมื่อได้รับความเสียหาย:<br>PP Recovery +20%<br>(คูลดาวน์ 10 วินาที)
-item_DamagePpConvert_4#1,Damage +24%<br>เมื่อได้รับความเสียหาย:<br>PP Recovery +20%<br>(คูลดาวน์ 10 วินาที)
-item_DamagePpConvert_5#1,Damage +25%<br>เมื่อได้รับความเสียหาย:<br>PP Recovery +30%<br>(คูลดาวน์ 10 วินาที)
-item_DamagePpConvert_6#1,Damage +48%<br>เมื่อได้รับความเสียหาย:<br>PP Recovery +30%<br>(คูลดาวน์ 10 วินาที)
-item_OverWhelm_1#1,Damage +15%<br>Damage เพิ่มเติม +6%<br>เมื่อโจมตีศัตรูที่<br>ไม่ใช่บอส (Non-boss)
-item_OverWhelm_2#1,Damage +17%<br>Damage เพิ่มเติม +6%<br>เมื่อโจมตีศัตรูที่<br>ไม่ใช่บอส (Non-boss)
-item_OverWhelm_3#1,Damage +20%<br>Damage เพิ่มเติม +6%<br>เมื่อโจมตีศัตรูที่<br>ไม่ใช่บอส (Non-boss)
-item_OverWhelm_4#1,Damage +22%<br>Damage เพิ่มเติม +6%<br>เมื่อโจมตีศัตรูที่<br>ไม่ใช่บอส (Non-boss)
-item_OverWhelm_5#1,Damage +23%<br>Damage เพิ่มเติม +8%<br>เมื่อโจมตีศัตรูที่<br>ไม่ใช่บอส (Non-boss)
-item_OverWhelm_6#1,Damage +42%<br>Damage เพิ่มเติม +8%<br>เมื่อโจมตีศัตรูที่<br>ไม่ใช่บอส (Non-boss)
-item_ChaseAttack_1#1,Damage +12%<br>เมื่อโจมตีสำเร็จ:<br>ยิงการโจมตีเพิ่มเติม<br>1～3 ครั้ง<br>(คูลดาวน์ 5 วินาที)
-item_ChaseAttack_2#1,Damage +14%<br>เมื่อโจมตีสำเร็จ:<br>ยิงการโจมตีเพิ่มเติม<br>1～3 ครั้ง<br>(คูลดาวน์ 5 วินาที)
-item_ChaseAttack_3#1,Damage +17%<br>เมื่อโจมตีสำเร็จ:<br>ยิงการโจมตีเพิ่มเติม<br>1～3 ครั้ง<br>(คูลดาวน์ 5 วินาที)
-item_ChaseAttack_4#1,Damage +19%<br>เมื่อโจมตีสำเร็จ:<br>ยิงการโจมตีเพิ่มเติม<br>1～3 ครั้ง<br>(คูลดาวน์ 5 วินาที)
-item_ChaseAttack_5#1,Damage +20%<br>เมื่อโจมตีสำเร็จ:<br>ยิงการโจมตีเพิ่มเติม<br>1～3 ครั้ง<br>(คูลดาวน์ 5 วินาที)
-item_ChaseAttack_6#1,Damage +27%<br>เมื่อโจมตีสำเร็จ:<br>ยิงการโจมตีเพิ่มเติม<br>1～3 ครั้ง<br>(คูลดาวน์ 5 วินาที)
-item_KillingBarrier_1#1,Damage +18%<br>สร้างบาเรีย Damage Resistance +40%<br>ได้สูงสุด 3 อัน (คูลดาวน์ 30 วินาที)<br>แต่สามารถลดคูลดาวน์ลงได้<br>ตามจำนวนศัตรูที่สังหาร
-item_KillingBarrier_2#1,Damage +20%<br>สร้างบาเรีย Damage Resistance +40%<br>ได้สูงสุด 3 อัน (คูลดาวน์ 30 วินาที)<br>แต่สามารถลดคูลดาวน์ลงได้<br>ตามจำนวนศัตรูที่สังหาร
-item_KillingBarrier_3#1,Damage +23%<br>สร้างบาเรีย Damage Resistance +40%<br>ได้สูงสุด 3 อัน (คูลดาวน์ 30 วินาที)<br>แต่สามารถลดคูลดาวน์ลงได้<br>ตามจำนวนศัตรูที่สังหาร
-item_KillingBarrier_4#1,Damage +25%<br>สร้างบาเรีย Damage Resistance +40%<br>ได้สูงสุด 3 อัน (คูลดาวน์ 30 วินาที)<br>แต่สามารถลดคูลดาวน์ลงได้<br>ตามจำนวนศัตรูที่สังหาร
-item_KillingBarrier_5#1,Damage +27%<br>สร้างบาเรีย Damage Resistance +40%<br>ได้สูงสุด 3 อัน (คูลดาวน์ 30 วินาที)<br>แต่สามารถลดคูลดาวน์ลงได้<br>ตามจำนวนศัตรูที่สังหาร
-item_KillingBarrier_6#1,Damage +39%<br>สร้างบาเรีย Damage Resistance +40%<br>ได้สูงสุด 3 อัน (คูลดาวน์ 30 วินาที)<br>แต่สามารถลดคูลดาวน์ลงได้<br>ตามจำนวนศัตรูที่สังหาร
-item_OverTime_1#1,Damage +18%<br>เมื่อใช้ PP ครบ 300:<br>ลด PP Consumption ลง 30%<br>(คูลดาวน์ 10 วินาที)
-item_OverTime_2#1,Damage +20%<br>เมื่อใช้ PP ครบ 300:<br>ลด PP Consumption ลง 30%<br>(คูลดาวน์ 10 วินาที)
-item_OverTime_3#1,Damage +23%<br>เมื่อใช้ PP ครบ 300:<br>ลด PP Consumption ลง 30%<br>(คูลดาวน์ 10 วินาที)
-item_OverTime_4#1,Damage +25%<br>เมื่อใช้ PP ครบ 300:<br>ลด PP Consumption ลง 30%<br>(คูลดาวน์ 10 วินาที)
-item_OverTime_5#1,Damage +27%<br>เมื่อใช้ PP ครบ 300:<br>ลด PP Consumption ลง 30%<br>(คูลดาวน์ 10 วินาที)
-item_OverTime_6#1,Damage +39%<br>เมื่อใช้ PP ครบ 300:<br>ลด PP Consumption ลง 30%<br>(คูลดาวน์ 10 วินาที)
-item_EscapeCritical2_1#1,Damage +16%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>Critical Hit Rate +15% เป็นเวลา<br>30 วินาที
-item_EscapeCritical2_2#1,Damage +18%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>Critical Hit Rate +15% เป็นเวลา<br>30 วินาที
-item_EscapeCritical2_3#1,Damage +21%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>Critical Hit Rate +15% เป็นเวลา<br>30 วินาที
-item_EscapeCritical2_4#1,Damage +21%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>Critical Hit Rate +18% เป็นเวลา<br>30 วินาที
-item_EscapeCritical2_5#1,Damage +22%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>Critical Hit Rate +25% เป็นเวลา<br>60 วินาที
-item_EscapeCritical2_6#1,Damage +26%<br>เมื่อหลบหลีกด้วย Step สำเร็จ:<br>Critical Hit Rate +25% เป็นเวลา<br>60 วินาที
-item_BarrierSa_1#1,Damage +19%<br>เมื่อ HP เต็ม:<br>สร้างบาเรียที่ช่วยป้องกัน<br>การลอยตัว/กระเด็น (Knockback)<br>จากการโจมตีของศัตรู และ<br>ลดความเสียหายที่ได้รับลง 60%
-item_BarrierSa_2#1,Damage +21%<br>เมื่อ HP เต็ม:<br>สร้างบาเรียที่ช่วยป้องกัน<br>การลอยตัว/กระเด็น (Knockback)<br>จากการโจมตีของศัตรู และ<br>ลดความเสียหายที่ได้รับลง 60%
-item_BarrierSa_3#1,Damage +24%<br>เมื่อ HP เต็ม:<br>สร้างบาเรียที่ช่วยป้องกัน<br>การลอยตัว/กระเด็น (Knockback)<br>จากการโจมตีของศัตรู และ<br>ลดความเสียหายที่ได้รับลง 60%
-item_BarrierSa_4#1,Damage +25%<br>เมื่อ HP เต็ม:<br>สร้างบาเรียที่ช่วยป้องกัน<br>การลอยตัว/กระเด็น (Knockback)<br>จากการโจมตีของศัตรู และ<br>ลดความเสียหายที่ได้รับลง 60%
-item_BarrierSa_5#1,Damage +26%<br>เมื่อมี HP 90% ขึ้นไป:<br>สร้างบาเรียที่ช่วยป้องกัน<br>การลอยตัว/กระเด็น (Knockback)<br>จากการโจมตีของศัตรู และ<br>ลดความเสียหายที่ได้รับลง 60%
-item_BarrierSa_6#1,Damage +48%<br>เมื่อมี HP 90% ขึ้นไป:<br>สร้างบาเรียที่ช่วยป้องกัน<br>การลอยตัว/กระเด็น (Knockback)<br>จากการโจมตีของศัตรู และ<br>ลดความเสียหายที่ได้รับลง 60%
-item_KillingPpGain_1#1,Damage +19%<br>ฟื้นฟู 6 PP เมื่อ<br>กำจัดศัตรูที่อยู่ใกล้เคียงได้
+item_PpReturn_3#1,""""""
+item_PpReturn_4#1,""""""
+item_PpReturn_5#1,""""""
+item_PpReturn_6#1,""""""
+item_ChanceUp_1#1,""""""
+item_ChanceUp_2#1,""""""
+item_ChanceUp_3#1,""""""
+item_ChanceUp_4#1,""""""
+item_ChanceUp_5#1,""""""
+item_ChanceUp_6#1,""""""
+item_ElementPpBonus2_1#1,""""""
+item_ElementPpBonus2_2#1,""""""
+item_ElementPpBonus2_3#1,""""""
+item_ElementPpBonus2_4#1,""""""
+item_ElementPpBonus2_5#1,""""""
+item_Highlander_1#1,""""""
+item_Highlander_2#1,""""""
+item_Highlander_3#1,""""""
+item_Highlander_4#1,""""""
+item_Highlander_5#1,""""""
+item_Highlander_6#1,""""""
+item_QuestBuster_1#1,""""""
+item_QuestBuster_2#1,""""""
+item_QuestBuster_3#1,""""""
+item_QuestBuster_4#1,""""""
+item_QuestBuster_5#1,""""""
+item_QuestBuster_6#1,""""""
+item_EnemyBuster_1#1,""""""
+item_EnemyBuster_2#1,""""""
+item_EnemyBuster_3#1,""""""
+item_EnemyBuster_4#1,""""""
+item_EnemyBuster_5#1,""""""
+item_EnemyBuster_6#1,""""""
+item_EscapePpConvert_1#1,""""""
+item_EscapePpConvert_2#1,""""""
+item_EscapePpConvert_3#1,""""""
+item_EscapePpConvert_4#1,""""""
+item_EscapePpConvert_5#1,""""""
+item_EscapePpConvert_6#1,""""""
+item_EscapePpConvert2_1#1,""""""
+item_EscapePpConvert2_2#1,""""""
+item_EscapePpConvert2_3#1,""""""
+item_EscapePpConvert2_4#1,""""""
+item_EscapePpConvert2_5#1,""""""
+item_EscapePpConvert2_6#1,""""""
+item_AttackKeep_1#1,""""""
+item_AttackKeep_2#1,""""""
+item_AttackKeep_3#1,""""""
+item_AttackKeep_4#1,""""""
+item_AttackKeep_5#1,""""""
+item_AttackKeep_6#1,""""""
+item_PpSlayer_1#1,""""""
+item_PpSlayer_2#1,""""""
+item_PpSlayer_3#1,""""""
+item_PpSlayer_4#1,""""""
+item_PpSlayer_5#1,""""""
+item_PpSlayer_6#1,""""""
+item_DamagePpConvert_1#1,""""""
+item_DamagePpConvert_2#1,""""""
+item_DamagePpConvert_3#1,""""""
+item_DamagePpConvert_4#1,""""""
+item_DamagePpConvert_5#1,""""""
+item_DamagePpConvert_6#1,""""""
+item_OverWhelm_1#1,""""""
+item_OverWhelm_2#1,""""""
+item_OverWhelm_3#1,""""""
+item_OverWhelm_4#1,""""""
+item_OverWhelm_5#1,""""""
+item_OverWhelm_6#1,""""""
+item_ChaseAttack_1#1,""""""
+item_ChaseAttack_2#1,""""""
+item_ChaseAttack_3#1,""""""
+item_ChaseAttack_4#1,""""""
+item_ChaseAttack_5#1,""""""
+item_ChaseAttack_6#1,""""""
+item_KillingBarrier_1#1,""""""
+item_KillingBarrier_2#1,""""""
+item_KillingBarrier_3#1,""""""
+item_KillingBarrier_4#1,""""""
+item_KillingBarrier_5#1,""""""
+item_KillingBarrier_6#1,""""""
+item_OverTime_1#1,""""""
+item_OverTime_2#1,""""""
+item_OverTime_3#1,""""""
+item_OverTime_4#1,""""""
+item_OverTime_5#1,""""""
+item_OverTime_6#1,""""""
+item_EscapeCritical2_1#1,""""""
+item_EscapeCritical2_2#1,""""""
+item_EscapeCritical2_3#1,""""""
+item_EscapeCritical2_4#1,""""""
+item_EscapeCritical2_5#1,""""""
+item_EscapeCritical2_6#1,""""""
+item_BarrierSa_1#1,""""""
+item_BarrierSa_2#1,""""""
+item_BarrierSa_3#1,""""""
+item_BarrierSa_4#1,""""""
+item_BarrierSa_5#1,""""""
+item_BarrierSa_6#1,""""""
+item_KillingPpGain_1#1,""""""
 item_KillingPpGain_2#1,"""Damage +21%<br>ฟื้นฟู 6 PP เมื่อ<br>กำจัดศัตรูที่อยู่ใกล้เคียงได้"""
 item_KillingPpGain_3#1,"""Damage +24%<br>ฟื้นฟู 6 PP เมื่อ<br>กำจัดศัตรูที่อยู่ใกล้เคียงได้"""
 item_KillingPpGain_4#1,"""Damage +25%<br>ฟื้นฟู 6 PP เมื่อ<br>กำจัดศัตรูที่อยู่ใกล้เคียงได้"""
@@ -10949,16 +10949,16 @@ item_UnionChange1_Su_2#1,"""เพิ่ม Damage 10%<br>ลด PP Consumption 
 item_UnionChange1_Su_3#1,"""เพิ่ม Damage 11%<br>ลด PP Consumption ลง<br>และฟื้นฟู PP 20 หน่วยทุกๆ 10 วินาที"""
 item_UnionChange1_Su_4#1,"""เพิ่ม Damage 12%<br>ลด PP Consumption ลง<br>และฟื้นฟู PP 20 หน่วยทุกๆ 10 วินาที"""
 item_UnionChange1_Su_5#1,"""เพิ่ม Damage 13%<br>ลด PP Consumption ลง<br>และฟื้นฟู PP 20 หน่วยทุกๆ 10 วินาที"""
-item_UnionChange2_1#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Fate""<br>เพิ่ม Damage 16%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_2#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Fate""<br>เพิ่ม Damage 17%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_3#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Fate""<br>เพิ่ม Damage 18%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_4#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Fate""<br>เพิ่ม Damage 19%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_5#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Fate""<br>เพิ่ม Damage 20%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_Su_1#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Destiny""<br>เพิ่ม Damage 13%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_Su_2#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Destiny""<br>เพิ่ม Damage 14%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_Su_3#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Destiny""<br>เพิ่ม Damage 15%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_Su_4#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Destiny""<br>เพิ่ม Damage 16%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
-item_UnionChange2_Su_5#1,"""เมื่อใช้ Normal Attack ครบ 3 ครั้ง<br>สถานะจะเปลี่ยนไปเป็นเวลา 30 วินาทีตามผลของ ""Wheel of Destiny""<br>เพิ่ม Damage 17%<br>เพิ่มสถานะทนทาน (Super Armor) และลด Damage ที่ได้รับลง 30%"""
+item_UnionChange2_1#1,""""""
+item_UnionChange2_2#1,""""""
+item_UnionChange2_3#1,""""""
+item_UnionChange2_4#1,""""""
+item_UnionChange2_5#1,""""""
+item_UnionChange2_Su_1#1,""""""
+item_UnionChange2_Su_2#1,""""""
+item_UnionChange2_Su_3#1,""""""
+item_UnionChange2_Su_4#1,""""""
+item_UnionChange2_Su_5#1,""""""
 item_AddAbnormal_1#1,"""เพิ่ม Damage 8%<br>เพิ่มโอกาสติดสถานะผิดปกติขึ้น 100%<br>และจะทำให้เป้าหมายติดสถานะ<br>ตามธาตุของอาวุธ"""
 item_AddAbnormal_2#1,"""เพิ่ม Damage 9%<br>เพิ่มโอกาสติดสถานะผิดปกติขึ้น 100%<br>และจะทำให้เป้าหมายติดสถานะ<br>ตามธาตุของอาวุธ"""
 item_AddAbnormal_3#1,"""เพิ่ม Damage 10%<br>เพิ่มโอกาสติดสถานะผิดปกติขึ้น 100%<br>และจะทำให้เป้าหมายติดสถานะ<br>ตามธาตุของอาวุธ"""
@@ -11068,13 +11068,13 @@ pet_KillCountBonus#1,"""เพิ่ม Damage ทุกครั้ง<br>ท�
 pet_KillCountBonusPlus#1,"""เพิ่ม Rare Drop Rate และเพิ่ม Damage<br>ทุกครั้งที่คุณกำจัดศัตรูได้"""
 pet_AroundEnemyBonus#1,"""เพิ่ม Damage ขึ้นอยู่กับ<br>จำนวนศัตรูที่อยู่ในระยะที่กำหนด"""
 pet_AroundEnemyBonusPlus#1,"""เพิ่ม Rare Drop Rate และเพิ่ม Damage<br>ขึ้นอยู่กับจำนวนศัตรูที่อยู่ในระยะที่กำหนด"""
-pet_MultiPersonality1#1,"""เพิ่ม Rare Drop Rate และมอบผลของ<br>""Fervent"" กับ ""Enjoys Sun"""
-pet_MultiPersonality2#1,"""เพิ่ม Rare Drop Rate และมอบผลของ<br>""Docile"" กับ ""Diligent"""
-pet_MultiPersonality3#1,"""เพิ่ม Rare Drop Rate และมอบผลของ<br>""Adept"" กับ ""Serene"""
-pet_MultiPersonality4#1,"""เพิ่ม Rare Drop Rate และมอบผลของ<br>""Adverse"" กับ ""Fierce"""
-pet_MultiPersonality5#1,"""เพิ่ม Rare Drop Rate และมอบผลของ<br>""Poser"" กับ ""Soothing"""
-pet_MultiPersonality6#1,"""เพิ่ม Rare Drop Rate และมอบผลของ<br>""Devoted"" กับ ""Cunning"""
-pet_MultiPersonality7#1,"""เพิ่ม Rare Drop Rate และมอบผลของ<br>""Rowdy"" กับ ""Hawkish"""
+pet_MultiPersonality1#1,""""""
+pet_MultiPersonality2#1,""""""
+pet_MultiPersonality3#1,""""""
+pet_MultiPersonality4#1,""""""
+pet_MultiPersonality5#1,""""""
+pet_MultiPersonality6#1,""""""
+pet_MultiPersonality7#1,""""""
 pet_MultiPersonality8#1,"""เพิ่ม Rare Drop Rate, Damage ที่ทำกับบอส,<br>และ PP Recovery ที่ได้จาก Normal Attack"""
 pet_MultiPersonality9#1,"""เพิ่ม Rare Drop Rate และ<br>ลด Damage ที่ Pet ได้รับ<br>เพิ่ม Critical Damage แต่ลด Critical Rate"""
 item_NoAssign#1,"""คำอธิบาย Unset Potential"""
@@ -11395,7 +11395,7 @@ RangeTerm_000#0,"""เวลาใดก็ได้"""
 RangeTerm_001#0,"""ช่วงปีใหม่"""
 RangeTerm_002#0,"""มกราคม"""
 RangeTerm_003#0,"""วันวาเลนไทน์"""
-RangeTerm_004#0,"""ช่วงเปิดให้บริการ \""PS Vita\"""
+RangeTerm_004#0,""""""
 RangeTerm_005#0,"""วันเกิด Hiroshi Suganuma"""
 RangeTerm_006#0,"""White Day"""
 RangeTerm_007#0,"""ฤดูซากุระ"""
@@ -11407,7 +11407,7 @@ RangeTerm_012#0,"""Golden Week"""
 RangeTerm_013#0,"""วันเกิด Sega"""
 RangeTerm_014#0,"""ฤดูฝน"""
 RangeTerm_015#0,"""วันเกิด Tomomasa Chen"""
-RangeTerm_016#0,"""ช่วงเปิดให้บริการ \""PC\"""
+RangeTerm_016#0,""""""
 RangeTerm_017#0,"""วันเกิด Yuya Kimura"""
 RangeTerm_018#0,"""ทานาบาตะ"""
 RangeTerm_019#0,"""ฤดูร้อน"""
@@ -12203,12 +12203,12 @@ ring_VehicleHeal#1,"""Wide Area Heal<br>ขยายขอบเขตผลล�
 ring_VehiclePhotonBlaster#1,"""Quick Blaster<br>สกิล Photon Blaster ของ A.I.S<br>จะใช้งานได้เร็วขึ้น แต่ความเร็วในการหันเหทิศทางจะลดลง"""
 ring_VehicleRespawn#1,"""Early Rise<br>ลดเวลาที่ใช้ในการเกิดใหม่<br>หลังจากที่ A.I.S ตายลง (Incapacitated)"""
 ring_VehicleStep#1,"""Light Armor<br>ลด PP Consumption ของสกิล Boost ของ A.I.S<br>แต่จะเพิ่ม Damage ที่ได้รับขึ้น"""
-ring_ResistBurn#1,"""Burn Guard<br>ได้รับความต้านทาน<br>ต่อ Status Effect ""Burn"""
-ring_ResistFreeze#1,"""Freeze Guard<br>ได้รับความต้านทาน<br>ต่อ Status Effect ""Freeze"""
-ring_ResistShock#1,"""Shock Guard<br>ได้รับความต้านทาน<br>ต่อ Status Effect ""Shock"""
-ring_ResistMirage#1,"""Mirage Guard<br>ได้รับความต้านทาน<br>ต่อ Status Effect ""Mirage"""
-ring_ResistPoison#1,"""Poison Guard<br>ได้รับความต้านทาน<br>ต่อ Status Effect ""Poison"""
-ring_ResistPanic#1,"""Panic Guard<br>ได้รับความต้านทาน<br>ต่อ Status Effect ""Panic"""
+ring_ResistBurn#1,""""""
+ring_ResistFreeze#1,""""""
+ring_ResistShock#1,""""""
+ring_ResistMirage#1,""""""
+ring_ResistPoison#1,""""""
+ring_ResistPanic#1,""""""
 ring_BulletBowHoming#1,"""Bullet Bow Homing<br>การชาร์จ Normal Attack ของ Bullet Bow<br>จะเพิ่มประสิทธิภาพในการติดตามเป้าหมาย"""
 ring_JBElementalKeep#1,"""Jet Boots Elemental Keep<br>แม้จะใช้ Weapon Action ธาตุก็จะไม่ถูกลบล้าง<br>และ Elemental Burst จะไม่ทำงาน"""
 ring_StandingSigne#1,"""Standing Sign<br>เมื่ออยู่นิ่งๆ<br>จะมีเอฟเฟกต์แสดงขึ้นที่เท้า"""
@@ -12264,12 +12264,12 @@ ring_TMachineGunStanceUp#1,"""Twin Machineguns Stance Up<br>ในขณะท�
 ring_Sprint#1,"""****"""
 ring_PartyToughness#1,"""Party of Toughness<br>ลด Damage ที่ได้รับจากศัตรู<br>หากอยู่ในปาร์ตี้ 2 คนขึ้นไป"""
 ring_WeakPPRestraint#1,"""Weak Hit PP Gain<br>เพิ่มปริมาณ PP Recovery เมื่อโจมตีโดน<br>จุดอ่อน (Weak Spot) ปกติ"""
-ring_MultiHu#1,"""Just Guard Counter<br>รวมผลของสกิลเลเวล 20 ของ ""JG Sonic Arrow"",<br>""JG Heavenly Fall"" และ ""JG Rising Flag"""
-ring_MultiFi#1,"""Chase Wind Support<br>รวมผลของสกิลเลเวล 20 ของ ""DS Kamaitachi"",<br>""TD Air Chase"" และ ""Knuckle Chase"""
-ring_MultiGu#1,"""Time & Roll<br>รวมผลของสกิลเลเวล 20 ของ<br>""Front S Roll"" และ ""High Time Keep"""
-ring_MultiTe#1,"""Defense Tech<br>รวมผลของสกิลเลเวล 20 ของ<br>""Tech C Parry"" และ ""Short Mirage"""
-ring_MultiBr#1,"""Brave Power<br>รวมผลของสกิลเลเวล 20 ของ<br>""Katana C Count Up"" และ ""Bullet Bow Homing"""
-ring_MultiBo#1,"""Kick & Snatch<br>รวมผลของสกิลเลเวล 20 ของ<br>""DB Snatch"" และ ""JB Tech Arts SC"""
+ring_MultiHu#1,""""""
+ring_MultiFi#1,""""""
+ring_MultiGu#1,""""""
+ring_MultiTe#1,""""""
+ring_MultiBr#1,""""""
+ring_MultiBo#1,""""""
 ring_WandElementChangeAnother#1,"""Another Wand Element Change<br>เมื่อใช้ท่า Wand Gear จะเปลี่ยนธาตุของเวท<br>เป็นธาตุของ Technique แบบชาร์จที่ใช้ล่าสุด (ยกเว้นเวทสายซัพพอร์ต)"""
 ring_SkillNoHold#1,"""Another Wired Mode<br>การโจมตีแบบจับทุ่ม (Grappling PA) ของ Wired Lance<br>จะโจมตีโดนศัตรูได้โดยไม่ต้องจับศัตรูก่อน"""
 ring_CriticalStrikeStrike#1,"""Critical Strike - Striking<br>เพิ่ม Critical Hit Rate และ<br>Critical Damage แบบ Striking"""
@@ -12426,7 +12426,7 @@ RecommendHelpText#0,"""แสดงไอเทมที่ขายดีที
 Guide_1#1,"""เลือก Base Item เป้าหมายที่จะรับการโอนย้าย"""
 Guide_2#1,"""เลือก Material ไอเทม Special Ability ที่อยู่ใน Material จะ<c><c ff4f3f>หายไป<c><c f0df60>"""
 Guide_3#1,"""เลือก Special Ability ที่จะโอนย้ายไปยัง Base Item"""
-Guide_4#1,"""นี่คือหน้ายืนยันสุดท้ายสำหรับการโอนย้าย Special Ability ตรวจสอบรายละเอียดให้ดี และหากไม่มีปัญหา ให้เลือก \""ใช่\"""
+Guide_4#1,""""""
 ItemError#0,"""ไม่มีไอเทมที่มี Special Ability ที่สามารถโอนย้ายได้"""
 TitleText1#1,"""เลือก Base Item"""
 TitleText2#1,"""เลือก Material Item"""
@@ -12500,7 +12500,7 @@ Operation_ItemPack#0,"""คู่มือเมนู Item Pack เมนูช
 Explanation1#11,"""เลือก Weapon หรือ Unit ที่ต้องการเพิ่ม Special Ability"""
 Explanation2#10,"""เลือก Weapon หรือ Unit เพื่อใช้เป็น Material ไอเทมที่เลือกเป็น Material จะ<red>หายไปหลังการอัปเกรด<c>"""
 Explanation3#8,"""เลือก Special Ability ที่ต้องการเพิ่ม"""
-Explanation4#6,"""นี่คือหน้ายืนยันสุดท้ายสำหรับการเพิ่ม Special Ability ตรวจสอบรายละเอียดให้ดี และหากไม่มีปัญหา ให้เลือก \""ใช่\"""
+Explanation4#6,""""""
 ConfirmationElementTitle#1,"""Special Abilities ที่โอนย้ายได้"""
 ComposeSupportNone#0,"""ไม่มีไอเทม"""
 ComposeSupport#0,"""มีไอเทม"""
@@ -12941,7 +12941,7 @@ Drop_NaturalPbHeal_5#1,"""Fixa Increasa Lv.5"""
 Explanation1#14,"""เลือกไอเทมที่คุณต้องการโอนย้าย Preset Ability ไปให้"""
 Explanation2#13,"""เลือกไอเทมที่มี Preset Ability ที่คุณต้องการโอนย้าย ไอเทมที่เลือกจะ<scarlet>หายไป<c>เมื่อเสร็จสิ้น"""
 Explanation3#10,"""เลือก Preset Ability ที่คุณต้องการ ความสามารถที่ไม่ได้เลือกจะ<scarlet>หายไป<c>เมื่อเสร็จสิ้น"""
-Explanation4#8,"""นี่คือหน้าจอยืนยันขั้นตอนสุดท้ายสำหรับการโอนย้าย Preset Abilities ตรวจสอบรายละเอียดด้านล่าง และเลือก ""ยืนยัน"" หากข้อมูลถูกต้อง"""
+Explanation4#8,""""""
 Large_Title1#0,"""Base Item"""
 Large_Title2#0,"""Material Item"""
 Large_Title3#0,"""Preset Ability"""
@@ -12968,8 +12968,8 @@ Registration_Full#0,"""Wishlist ของคุณเต็มแล้ว<br>�
 ShoppingMemo_Button#0,"""Wishlist"""
 ShoppingMemo_Title#0,"""Wishlist"""
 ShoppingMemo_Comment#0,"""เลือกไอเทมเพื่อคัดลอกชื่อ<br>ลงในหน้าต่างค้นหาสินค้า (Product Search)"""
-ShoppingMemo_MainMenuComment#0,"""คุณสามารถจัดการ Wishlist ของคุณได้<br>ไอเทมที่ลงทะเบียนเป็น ""Favorites""<br>จะแจ้งเตือนเมื่อดรอป"""
-EXElementsMemo_Comment#0,"""คุณสามารถลงทะเบียน EX Abilities ได้จาก<br>แท็บที่สามใน ""รายละเอียดไอเทม"" ของอาวุธ<br>ไอเทมที่มีคอมโบ EX Ability เหล่านั้น<br>จะแจ้งเตือนเมื่อดรอป"""
+ShoppingMemo_MainMenuComment#0,""""""
+EXElementsMemo_Comment#0,""""""
 ShoppingMemo_Index#0,"""รายชื่อไอเทม (ลงทะเบียนได้สูงสุด $(0) ชิ้น)"""
 ShoppingMemo_Search#0,"""ค้นหาไอเทมชิ้นนี้"""
 ShoppingMemo_Delete#0,"""ลบออกจาก Wishlist"""
@@ -12993,7 +12993,7 @@ ExElementsRegistration_Del02#0,"""ลบ EX Ability Set 2 ออกจาก Wis
 ExElementsRegistration_Del03#0,"""ลบ EX Ability Set 3 ออกจาก Wish List ของคุณแล้ว ($(1)/$(0))"""
 Explanation1#15,"""เลือกอาวุธหรือชุดเกราะที่คุณต้องการอัปเกรด Preset Ability หากไม่มี Preset Ability <yellow>ระบบจะสุ่มเพิ่มให้ 1 อย่าง<c>"""
 Explanation2#14,"""เลือกอาวุธหรือชุดเกราะเพื่อใช้เป็นวัตถุดิบ (Material) มันจะ<scarlet>หายไปเมื่อถูกใช้งาน<c>"""
-Explanation3#11,"""นี่คือหน้าจอยืนยันขั้นตอนสุดท้ายสำหรับการอัปเกรด Preset Ability เลือก ""ไม่"" หากคุณไม่ต้องการดำเนินการต่อ"""
+Explanation3#11,""""""
 Large_Title1#1,"""เลือก Base Item"""
 Large_Title2#1,"""เลือก Material Item"""
 Large_Title4#1,"""ยืนยันการอัปเกรด Preset Ability"""
@@ -13022,12 +13022,12 @@ AuxiliaryItem_SequenceConfirm#0,"""คุณมี Support Item ที่ทำ�
 AuxiliaryItem_SequenceCache#0,"""ไม่แสดงผลอีกในวันนี้"""
 AuxiliaryItem_SequenceButton_Yes#0,"""ใช้"""
 AuxiliaryItem_SequenceButton_No#0,"""เลือก Material Item"""
-AuxiliaryItem_SequenceMessage#0,"""เลือก Support Item ภายใต้ \""Item Protection\"""
+AuxiliaryItem_SequenceMessage#0,""""""
 Message_LimitMax#0,"""ไม่สามารถเลือกได้เนื่องจาก Preset Ability ถึงขีดจำกัดเลเวลแล้ว"""
 Message_NoneAbility#0,"""ไม่สามารถเลือกได้เนื่องจากไม่มี Preset Ability"""
 Explanation1#16,"""เลือก weapon หรือ armor ที่คุณต้องการเพิ่ม Preset Ability <yellow>ระบบจะสุ่มเลือก Lv.1 Preset Ability<c>"""
 Explanation2#15,"""เลือก weapon หรือ armor เพื่อใช้เป็น material ไอเทมที่เลือกจะ<scarlet>ถูกทำลาย<c>"""
-Explanation3#12,"""นี่คือหน้าจอยืนยันขั้นตอนสุดท้ายสำหรับการเพิ่ม Preset Ability กรุณาตรวจสอบรายละเอียดอย่างระมัดระวัง และหากไม่มีปัญหา ให้เลือก ""ยืนยัน"""
+Explanation3#12,""""""
 Large_Title1#2,"""เลือก Base Item"""
 Large_Title2#2,"""เลือก Material Item"""
 ConfirmFormTitle#0,"""ยืนยันการเพิ่ม Preset Ability"""
@@ -13058,10 +13058,10 @@ AuxiliaryItem_SequenceConfirm#1,"""คุณมี Support Item ที่ทำ�
 AuxiliaryItem_SequenceCache#1,"""ไม่แสดงผลอีกในวันนี้"""
 AuxiliaryItem_SequenceButton_Yes#1,"""ใช้"""
 AuxiliaryItem_SequenceButton_No#1,"""เลือก Material Item"""
-AuxiliaryItem_SequenceMessage#1,"""เลือก Support Item ภายใต้ \""Item Protection\"""
+AuxiliaryItem_SequenceMessage#1,""""""
 Explanation1#17,"""เลือก Weapon หรือ Armor ที่คุณต้องการโอนย้าย Special Abilities ไปให้"""
 Explanation2#16,"""เลือก Weapon หรือ Armor ที่คุณต้องการโอนย้าย Special Abilities มา หลังจากกระบวนการนี้เสร็จสิ้น <scarlet>Special Abilities ทั้งหมดที่มีอยู่บนไอเทมจะหายไป<c>"""
-Explanation3#13,"""นี่คือหน้าจอยืนยันขั้นตอนสุดท้ายสำหรับการโอนย้าย Special Ability กรุณาตรวจสอบรายละเอียดอย่างระมัดระวัง และหากไม่มีปัญหา ให้เลือก ""ยืนยัน"""
+Explanation3#13,""""""
 Large_Title1#3,"""เลือก Base Item"""
 Large_Title2#3,"""เลือก Material Item"""
 Large_Title3#1,"""รายละเอียดการโอนย้าย Ability"""
@@ -13081,7 +13081,7 @@ Message_PassConsumption#0,"""<red>จำเป็นต้องใช้ \""N-A
 Message_Finish#3,"""โอนย้าย Special Ability เสร็จสิ้น"""
 Explanation1#18,"""เลือก Weapon หรือ Armor ที่คุณต้องการโอนย้าย EX Special Abilities ไปให้"""
 Explanation2#17,"""เลือก Weapon หรือ Armor ที่คุณต้องการโอนย้าย EX Special Abilities มา หลังจากกระบวนการนี้เสร็จสิ้น <scarlet>EX Abilities ทั้งหมดที่มีอยู่บนไอเทมจะหายไป<c>"""
-Explanation3#14,"""นี่คือหน้าจอยืนยันขั้นตอนสุดท้ายสำหรับการโอนย้าย EX Special Ability กรุณาตรวจสอบรายละเอียดอย่างระมัดระวัง และหากไม่มีปัญหา ให้เลือก ""ยืนยัน"""
+Explanation3#14,""""""
 Large_Title1#4,"""เลือก Base Item"""
 Large_Title2#4,"""เลือก Material Item"""
 Large_Title3#2,"""รายละเอียดการโอนย้าย Ability"""
@@ -13148,7 +13148,7 @@ RingGrindResult_Failed#0,"""การ Enhance ล้มเหลวเนื่�
 RingGrindToast_LevelExceed#0,"""ไม่สามารถ Enhance เพิ่มเติมได้อีก"""
 RingGrindFullSizeGuide_SelectBase#0,"""เลือก Skill Ring ที่คุณต้องการ Enhance"""
 RingGrindFullSizeGuide_SelectMaterial#0,"""เลือก Skill Ring เพื่อใช้เป็น Material Skill Ring ที่เลือกจะ<scarlet>หายไปเมื่อถูกใช้งาน<c>"""
-RingGrindFullSizeGuide_Confirm#0,"""นี่คือหน้าจอยืนยันขั้นตอนสุดท้ายสำหรับการ Enhance Skill Ring กรุณาตรวจสอบรายละเอียดอย่างระมัดระวัง และหากไม่มีปัญหา ให้เลือก \""ยืนยัน\"""
+RingGrindFullSizeGuide_Confirm#0,""""""
 RingGrindBase_NoRing_Message#0,"""ไม่มี Skill Rings"""
 Title_Need_MesetaAndItem#0,"""ไอเทมที่ต้องใช้ / Meseta"""
 Title_Need_Item#0,"""ไอเทมที่ต้องใช้"""

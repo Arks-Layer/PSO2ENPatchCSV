@@ -82,7 +82,7 @@ TascSuccessInfo_reward#0,"""รางวัล"""
 TascSuccessInfo_General#0,"""ทำ Task สำเร็จแล้ว!"""
 TascSuccessInfo_Achievement#0,"""ทำ Title Task สำเร็จแล้ว!"""
 TascSuccessInfo_AchievementPt#0,"""Title Points $(0)Pt"""
-TascSuccessInfo_AchievementName#0,"""ชื่อ Title \""$(0)\"""
+TascSuccessInfo_AchievementName#0,""""""
 ShopAccessError#0,"""ไม่สามารถเข้าถึง Shop ได้"""
 MySpace_RegisterText#0,"""ลงทะเบียน Build Parts แล้ว"""
 Mag_RegisterText#0,"""ลงทะเบียนฟอร์มของ Mag แล้ว"""
@@ -1631,7 +1631,7 @@ TSB_MesetaUp#0,"""Meseta +$(0)%"""
 TSB_RareDropUp#0,"""Rare Drop Rate +$(0)%"""
 TSB_MyClassWeaponDropUp#0,"""Class Drop Boost +$(0)%"""
 TSB_ItemLotteriesUp#0,"""เพิ่มโอกาสดรอป Weapon ระดับ ★14 ขึ้นไป"""
-TSB_AddDropItem#0,"""เพิ่มโอกาสดรอป \""Rare-grain Erebos Stone\"""
+TSB_AddDropItem#0,""""""
 TravelBoost_TravelContinuous#0,"""Area 2 Boost"""
 Armada_DropLotteriesUp#0,"""Item Drop Boost Up"""
 SubTitle_WorldTrial#0,"""S. Grace Boost [All]"""
@@ -5398,105 +5398,105 @@ Bg_Chara3#0,"""Crawford"""
 Bg_Chara4#0,"""Bruder"""
 Bg_Chara5#0,"""Ran"""
 Bg_Chara6#0,"""Liu Lin"""
-Bg_Chara7#0,Rossa
-Bg_Chara8#0,Oranje
-Bg_Chara9#0,Nadereh
-Bg_Chara10#0,Hadi
-Bg_Chara11#0,Taivas
-Bg_Chara12#0,Tulli
-Bg_Chara13#0,Ilma
-Bg_Chara14#0,Kukka
-Bg_Chara15#0,Meri
-Bg_Chara16#0,Guren
-Bg_Chara17#0,Kanui
-Bg_Chara18#0,Faria
-Bg_Chara19#0,Zephetto
-Bg_GoldStar#0,Noble Gold
-Bg_PlatinumStar#0,Noble Platinum
-Open_Title#0,ข้อตกลงการใช้งาน (Terms of Use)
-Open_00#0,ใช้งานได้ตั้งแต่เริ่มต้น
-Open_01#0,Title Points รวม: $(0) pt(s)
-Open_02#0,ใช้ Ticket(s)
-Bg_Tab_All#0,แสดงทั้งหมด
-Bg_Tab_TitlePoint#0,Title Point
-Bg_Tab_Ticket#0,Ticket
-PreviewZoom#1,（<c cfcfcf>หมุน<swguidetype CameraTurn>/ซูม<%PaletteReverse><%PaletteForce><c> <%Exception> <yellow>เลื่อน<swguidetype CameraTurn><c>）
-PreviewZoom_mouse#1,（<c cfcfcf>หมุน<swguidetype CameraTurn>/ซูม<%PaletteReverse><%PaletteForce><c> <pict mouse_right> <yellow>เลื่อน<swguidetype CameraTurn><c>）
-PreviewMove#1,（<yellow>หมุน<swguidetype CameraTurn>/ซูม<%PaletteReverse><%PaletteForce><c> <%Exception> <c cfcfcf>เลื่อน<swguidetype CameraTurn><c>）
-PreviewMove_mouse#1,（<yellow>หมุน<swguidetype CameraTurn>/ซูม<%PaletteReverse><%PaletteForce><c> <pict mouse_right> <c cfcfcf>เลื่อน<swguidetype CameraTurn><c>）
-TradingItemTag#0,ไอเทมที่จะเทรด
-TradingMesetaTag#0,Meseta ที่จะเทรด
-CharacterMesetaTag#0,Meseta ปัจจุบัน:
-DecideItemButtonText#0,ยืนยันไอเทม
-DecideTradeButtonText#0,ยืนยันการเทรด
-OpponentTradingItemTag#0,ไอเทมที่คุณจะได้รับ
-OpponentTradingMesetaTag#0,Meseta ที่คุณจะได้รับ
-OfferingMesetaValueTag#0,Meseta ที่เสนอ:
-WaitOpponentDecideItemMessage#0,กำลังรอการยืนยันจากผู้เล่นอีกฝ่าย...
-SelectItemMessage#0,กำลังเลือกไอเทม...
-OfferTradeTitle#0,ส่งคำขอเทรด
-OfferTradeMessage#0,คุณได้ส่งคำขอเทรดแล้ว<br>กำลังรอการตอบรับจากผู้เล่นอีกฝ่าย...
-CantTradeMsg#0,คุณไม่สามารถเทรดกับ $(0) ได้
-CantTradeByRangeMsg#0,คุณไม่สามารถเทรดกับผู้เล่นที่เลือกได้ เนื่องจากพวกเขาอยู่นอกระยะ
-CantTradeByNoRightMsg#0,ในการเทรดไอเทม ผู้เล่นทั้งสองฝ่าย<br>จำเป็นต้องเป็น <yellow>ผู้เล่น Premium<c><br><br>หากคุณไม่มี「Premium Set」<br>กรุณาซื้อจาก AC Shop ใน Main Menu
-CantTradeByBeOfferingMsg#0,ส่งคำขอเทรดล้มเหลว<br>เนื่องจากผู้เล่นอีกฝ่าย<br>ได้ส่งคำขอมาแล้ว
-CantTradeByOppTradingMsg#0,ส่งคำขอเทรดล้มเหลว<br>เนื่องจาก $(0) กำลังเทรดอยู่กับคนอื่น
-CancelOfferMsg#0,ยกเลิกคำขอเทรดแล้ว
-CanceledOfferMsg#0,$(0) ยกเลิกคำขอเทรดกับคุณ
-AnswerTradeOfferError#0,ไม่สามารถเริ่มการเทรดได้<br>เนื่องจากคำเชิญเทรดถูกปฏิเสธ
-AskStartTradeTitle#0,ยืนยันการเทรด
-AskStartTradeMsg#0,คุณต้องการเทรดกับ $(0) หรือไม่?
-RejectOfferMsg#0,$(0) ปฏิเสธการเทรดของคุณ
-Reject2ndPassOfferMsg#0,ไม่สามารถยืนยันรหัสผ่านของคุณได้<br>ขอยกเลิกการเทรดกับ $(0)
-RejectedOfferMsg#0,$(0) ปฏิเสธการเทรดของคุณ
-Rejected2ndPassOfferMsg#0,การเทรดถูกยกเลิก<br>เนื่องจาก $(0) ไม่ได้ใส่รหัสผ่านร้านค้าของพวกเขา
-BreakOfferMsg#0,คำขอเทรดของ $(0) หมดอายุแล้ว
-BrokenOfferMsg#0,คำขอเทรดของคุณถึง $(0) หมดอายุแล้ว
-StartTradeMsg#0,กำลังเริ่มการเทรดกับ $(0)
-CancelOppTradeItemMsg#0,$(0) ปฏิเสธข้อเสนอเทรดนี้
-CompleteTradeMessage#0,การเทรดเสร็จสมบูรณ์แล้ว
-ErrorMessage#1,เกิดข้อผิดพลาด<br><br>[No.1038]
-CancelTradeTitle#0,ยกเลิกการเทรด
-AskCancelTradeMsg#0,คุณต้องการยกเลิกการเทรดหรือไม่?
-AbortTradeByCancel#0,การเทรดถูกยกเลิกแล้ว
-AbortTradeByDisconnection#0,การเทรดถูกยกเลิก<br>เนื่องจากการหลุดการเชื่อมต่อ<br><br>[No.1039]
-AbortTradeByError#0,การเทรดถูกยกเลิก<br>เนื่องจากเกิดข้อผิดพลาดขึ้น<br><br>[No.1040]
-AbortTradeByRange#0,การเทรดถูกยกเลิก<br>เนื่องจากมีผู้เล่นฝ่ายใดฝ่ายหนึ่งไม่ได้อยู่ใน<br>พื้นที่ที่สามารถเทรดได้แล้ว
-AbortByAnyUser#0,การเทรดถูกยกเลิกโดยผู้เล่นฝ่ายใดฝ่ายหนึ่ง
-AbortByOppDisconnection#0,การเทรดถูกยกเลิก<br>เนื่องจาก $(0) หลุดการเชื่อมต่อ<br><br>[No.1041]
-AbortByOppRequest#0,$(0) ยกเลิกการเทรดแล้ว
-FailByFullBackpack#0,การเทรดถูกยกเลิก<br>เนื่องจากพื้นที่ว่างใน Item Pack ไม่เพียงพอ
-FailByFullStackableItem#0,การเทรดถูกยกเลิก<br>เนื่องจากไอเทมจะเกินขีดจำกัดที่พกพาได้
-FailByFullMeseta#0,การเทรดถูกยกเลิก<br>เนื่องจาก Meseta จะเกินขีดจำกัดที่พกพาได้
-FailByOppFullBackpack#0,การเทรดถูกยกเลิก<br>เนื่องจากพื้นที่ว่างใน Item Pack ของ $(0) ไม่เพียงพอ
-FailByOppFullStackableItem#0,การเทรดถูกยกเลิก<br>เนื่องจากไอเทมจะเกินขีดจำกัดที่พกพาได้ของ $(0)
-FailByOppFullMeseta#0,การเทรดถูกยกเลิก<br>เนื่องจาก Meseta จะเกินขีดจำกัดที่พกพาได้ของ $(0)
-UrgeToSelectAndDecideItem#0,"<c f0df60>กรุณาลงทะเบียนไอเทมที่ต้องการเทรด แล้วกดปุ่ม \ยืนยันไอเทม\"" หากต้องการยกเลิกการเทรดให้กดปุ่ม \""ยกเลิก\""<c>"""
-WaitOpponentDecideItemGuide#0,"<c f0df60>กำลังรอการยืนยันไอเทมจากอีกฝ่าย ($(0)) หากต้องการกลับไปขั้นตอนก่อนหน้าให้กดปุ่ม \ยกเลิก\""<c>"""
-UrgeToApproveTradeGuide#0,"<c f0df60>รายละเอียดการเทรดได้รับการยืนยันแล้ว หากไม่มีปัญหาใดๆ ให้กดปุ่ม \ยืนยันการเทรด\"" หากต้องการกลับไปขั้นตอนก่อนหน้าให้กดปุ่ม \""ยกเลิก\""<c>"""
-WaitOpponentApproveTradeGuide#0,"<c f0df60>กำลังรอการยืนยันการเทรดจากอีกฝ่าย ($(0)) หากต้องการกลับไปขั้นตอนก่อนหน้าให้กดปุ่ม \ยกเลิก\""<c>"""
-UrgeToSelectAndDecideItem_v#0,"<c f0df60>กรุณาลงทะเบียนไอเทมที่ต้องการเทรด แล้วกดปุ่ม \ยืนยันไอเทม\""<c>"""
-WaitOpponentDecideItemGuide_v#0,<c f0df60>กำลังรอการยืนยันไอเทมจาก $(0)<c>
-UrgeToApproveTradeGuide_v#0,"<c f0df60>รายละเอียดการเทรดได้รับการยืนยันแล้ว หากไม่มีปัญหาใดๆ ให้กดปุ่ม \ยืนยันการเทรด\""<c>"""
-WaitOpponentApproveTradeGuide_v#0,<c f0df60>กำลังรอการยืนยันการเทรดจากอีกฝ่าย ($(0))<c>
-DropOnInventory#0,ยกเลิก (Cancel)
-MenuObject_Display#0,เพิ่มลงในการเทรด
-MenuObject_Withdraw#0,ถอนออกจากการเทรด
-MenuObject_ChangeNumber#0,เปลี่ยนจำนวน
-InputStackItemNumberTitle#0,ระบุจำนวนที่ต้องการเทรด
-InputStackItemNumberMsg#0,คุณต้องการเทรดจำนวนเท่าไหร่?
-Title#10,Status พื้นฐาน
-TradeTitle#0,เทรด (Trade)
-EditMesetaTitle#0,ระบุ Meseta
-EditMesetaMessage#0,กรุณาใส่จำนวน Meseta ที่คุณต้องการเทรด
-ItemEnableSelect#0,เลือกได้ (Selectable)
-ItemDisableSelect#0,เลือกไม่ได้ (Unselectable)
-PictSignRight#0,เลื่อน <pict Sign_RIGHT>
-PictSignLeft#0,เลื่อน <pict Sign_LEFT>
-WaitDecideItemMessage#0,กำลังรอผู้เล่นอีกฝ่าย...
-VisiphonTitle#0,Visiphone
-VisiphonFullTitle#0,Visiphone
-VisiphonFullTitleHint#0,"<c f0df60>คุณสามารถใช้งานเมนูต่างๆ ได้ เช่น ค้นหาผู้เล่น, ใช้งานร้านค้าส่วนตัว, หรือรับไอเทมจากการกรอก Item Codes เป็นต้น<c>"
+Bg_Chara7#0,""""""
+Bg_Chara8#0,""""""
+Bg_Chara9#0,""""""
+Bg_Chara10#0,""""""
+Bg_Chara11#0,""""""
+Bg_Chara12#0,""""""
+Bg_Chara13#0,""""""
+Bg_Chara14#0,""""""
+Bg_Chara15#0,""""""
+Bg_Chara16#0,""""""
+Bg_Chara17#0,""""""
+Bg_Chara18#0,""""""
+Bg_Chara19#0,""""""
+Bg_GoldStar#0,""""""
+Bg_PlatinumStar#0,""""""
+Open_Title#0,""""""
+Open_00#0,""""""
+Open_01#0,""""""
+Open_02#0,""""""
+Bg_Tab_All#0,""""""
+Bg_Tab_TitlePoint#0,""""""
+Bg_Tab_Ticket#0,""""""
+PreviewZoom#1,""""""
+PreviewZoom_mouse#1,""""""
+PreviewMove#1,""""""
+PreviewMove_mouse#1,""""""
+TradingItemTag#0,""""""
+TradingMesetaTag#0,""""""
+CharacterMesetaTag#0,""""""
+DecideItemButtonText#0,""""""
+DecideTradeButtonText#0,""""""
+OpponentTradingItemTag#0,""""""
+OpponentTradingMesetaTag#0,""""""
+OfferingMesetaValueTag#0,""""""
+WaitOpponentDecideItemMessage#0,""""""
+SelectItemMessage#0,""""""
+OfferTradeTitle#0,""""""
+OfferTradeMessage#0,""""""
+CantTradeMsg#0,""""""
+CantTradeByRangeMsg#0,""""""
+CantTradeByNoRightMsg#0,""""""
+CantTradeByBeOfferingMsg#0,""""""
+CantTradeByOppTradingMsg#0,""""""
+CancelOfferMsg#0,""""""
+CanceledOfferMsg#0,""""""
+AnswerTradeOfferError#0,""""""
+AskStartTradeTitle#0,""""""
+AskStartTradeMsg#0,""""""
+RejectOfferMsg#0,""""""
+Reject2ndPassOfferMsg#0,""""""
+RejectedOfferMsg#0,""""""
+Rejected2ndPassOfferMsg#0,""""""
+BreakOfferMsg#0,""""""
+BrokenOfferMsg#0,""""""
+StartTradeMsg#0,""""""
+CancelOppTradeItemMsg#0,""""""
+CompleteTradeMessage#0,""""""
+ErrorMessage#1,""""""
+CancelTradeTitle#0,""""""
+AskCancelTradeMsg#0,""""""
+AbortTradeByCancel#0,""""""
+AbortTradeByDisconnection#0,""""""
+AbortTradeByError#0,""""""
+AbortTradeByRange#0,""""""
+AbortByAnyUser#0,""""""
+AbortByOppDisconnection#0,""""""
+AbortByOppRequest#0,""""""
+FailByFullBackpack#0,""""""
+FailByFullStackableItem#0,""""""
+FailByFullMeseta#0,""""""
+FailByOppFullBackpack#0,""""""
+FailByOppFullStackableItem#0,""""""
+FailByOppFullMeseta#0,""""""
+UrgeToSelectAndDecideItem#0,""""""
+WaitOpponentDecideItemGuide#0,""""""
+UrgeToApproveTradeGuide#0,""""""
+WaitOpponentApproveTradeGuide#0,""""""
+UrgeToSelectAndDecideItem_v#0,""""""
+WaitOpponentDecideItemGuide_v#0,""""""
+UrgeToApproveTradeGuide_v#0,""""""
+WaitOpponentApproveTradeGuide_v#0,""""""
+DropOnInventory#0,""""""
+MenuObject_Display#0,""""""
+MenuObject_Withdraw#0,""""""
+MenuObject_ChangeNumber#0,""""""
+InputStackItemNumberTitle#0,""""""
+InputStackItemNumberMsg#0,""""""
+Title#10,""""""
+TradeTitle#0,""""""
+EditMesetaTitle#0,""""""
+EditMesetaMessage#0,""""""
+ItemEnableSelect#0,""""""
+ItemDisableSelect#0,""""""
+PictSignRight#0,""""""
+PictSignLeft#0,""""""
+WaitDecideItemMessage#0,""""""
+VisiphonTitle#0,""""""
+VisiphonFullTitle#0,""""""
+VisiphonFullTitleHint#0,""""""
 VisiphonFullTitleHint_v#0,"""<c f0df61>คุณสามารถใช้งานเมนูต่างๆ ได้ เช่น ค้นหาผู้เล่น หรือใช้งานร้านค้าส่วนตัว (Player Shops)<c>"""
 VisiphonMenu_Search#0,"""ARKS Search"""
 VisiphonMenu_Shop#0,"""Player Shops"""
@@ -6299,9 +6299,9 @@ Tu_010#0,"""/ci2 2 โจมตีมันเลย!"""
 Treasure#0,"""Event Items"""
 Treasure_AccountPC#0,"""$(0)"""
 Treasure_Common#0,"""ARKS License"""
-Treasure_Platform#0,"""หลักฐานการล็อกอิน \""PC\"""
-Treasure_PlatformPS4#0,"""หลักฐานการล็อกอิน \""Playstation 4\"""
-Treasure_PlatformSwitch#0,"""หลักฐานการล็อกอิน \""Nintendo Switch\"""
+Treasure_Platform#0,""""""
+Treasure_PlatformPS4#0,""""""
+Treasure_PlatformSwitch#0,""""""
 Treasure_000#0,"""Mag License"""
 Treasure_001#0,"""ใบอนุญาตขยาย Weapon Palette"""
 Treasure_002#0,"""ใบอนุญาตขยาย Subpalette"""
@@ -6353,7 +6353,7 @@ Treasure_047#0,"""Unidentified Weapon"""
 Treasure_048#0,"""Fighter License"""
 Treasure_049#0,"""Gunner License"""
 Treasure_050#0,"""Techter License"""
-Treasure_051#0,"""หลักฐานการล็อกอิน \""PC\"""
+Treasure_051#0,""""""
 Treasure_052#0,"""PC ของ Jozsef"""
 Treasure_053#0,"""PC ของ Barbara"""
 Treasure_054#0,"""PC ของ Revelle"""
@@ -6539,7 +6539,7 @@ Treasure_237#0,"""PC ของ Kireek"""
 Treasure_238#0,"""PC ของ Rico"""
 Treasure_239#0,"""PC ของ Akhtar"""
 Treasure_240#0,"""PC ของ Khorshid"""
-Treasure_Platform#1,"""หลักฐานการล็อกอิน \""PS Vita\"""
+Treasure_Platform#1,""""""
 Detail#1,"""รายละเอียด Event Item"""
 Treasure_AccountPC#1,"""$(0)<br><yellow>สามารถใช้งานได้กับทุก Characters<c>"""
 Treasure_AccountPC_mini#0,"""$(0)<br><yellow>สามารถใช้งานได้กับทุก Characters<c>"""
@@ -6784,7 +6784,7 @@ Treasure_237#1,"""Partner Card ของ Kireek<br>คุณสามารถ�
 Treasure_238#1,"""Partner Card ของ Rico<br>คุณสามารถเรียกเธอได้จากเครื่อง Terminal ใน Campship"""
 Treasure_239#1,"""Partner Card ของ Akhtar<br>คุณสามารถเรียกเธอได้จากเครื่อง Terminal ใน Campship"""
 Treasure_240#1,"""Partner Card ของ Khorshid<br>คุณสามารถเรียกเธอได้จากเครื่อง Terminal ใน Campship"""
-Treasure_Platform#3,"""Platform Pass<br>แสดงหลักฐานว่าคุณเข้าสู่ระบบผ่าน \""PS Vita\"""
+Treasure_Platform#3,""""""
 CommunicationHistory#0,"""ประวัติการสื่อสาร"""
 GoodJob#0,"""ส่ง Good Job พร้อมคอมเมนต์"""
 GoodJobWithoutComment#0,"""ส่ง Good Job โดยไม่ใส่คอมเมนต์"""
@@ -7984,7 +7984,7 @@ ChangeToEP4Mode#0,"""เปลี่ยนเป็นโหมด EPISODE 4 แ
 ChangeToEP5Mode#0,"""เปลี่ยนเป็นโหมด EPISODE 5 แล้ว"""
 ChangeToEP6Mode#0,"""เปลี่ยนเป็นโหมด EPISODE 6 แล้ว"""
 EP5Prologue_EP4StoryBoard_Title#0,"""การเปลี่ยนโหมด Episode"""
-EP5Prologue_EP4StoryBoard_Message#0,"""\""Story Board (EP4)\""<br>สามารถใช้ได้ในโหมด EP4 เท่านั้น<br><br>คุณสามารถสลับเป็นโหมด EP4 ได้<br>โดยการคุยกับ Xiera และเลือก<br>Episode เป็น \""EP4\"""
+EP5Prologue_EP4StoryBoard_Message#0,""""""
 EP5Prologue_ProgressionEP_1-3#0,"""EP1-3"""
 EP5Prologue_ProgressionEP_4#0,"""EP4"""
 EP5Prologue_ProgressionEP_5#0,"""EP5"""
@@ -8060,7 +8060,7 @@ SeasonEventRankingHelp#0,"""Ship Points Ranking (อัปเดตทุกๆ 
 SeasonEventNpcText5a#0,"""Ranking ครึ่งแรก"""
 SeasonEventNpcText5b#0,"""Ranking ครึ่งหลัง"""
 SeasonEventPoint#0,"""$(0)"""
-SeasonEventRewardTitleName#0,"""ได้รับ Title: \""$(0)\"""
+SeasonEventRewardTitleName#0,""""""
 SeasonEventNoRewardTitleName#0,"""ได้รับ Title: ไม่มี"""
 SeasonEventOpenPanel#0,"""พาเนล $(0) เปิดแล้ว!"""
 SeasonEventOpenPanel2#0,"""พาเนลใหม่เปิดแล้ว!"""
@@ -8585,7 +8585,7 @@ Mag_ColorInfo2#0,"""ใช้สีเริ่มต้น"""
 Mag_Color_EsthePalette#0,"""เลือกจากสีใน Salon"""
 Mag_Color_ColorPalette#0,"""เลือกจาก Color Palette"""
 Mag_Color_Unselected#0,"""ไม่ได้เลือก"""
-Mag_ColorChangeError#0,"""ไม่มีการเปลี่ยนแปลงใดๆ<br>ไม่ได้ใช้ \""N-Mag Color Change Device\"""
+Mag_ColorChangeError#0,""""""
 Mag_ColorChangeTitle#0,"""เปลี่ยนสี Mag"""
 Mag_ColorChangeMessage#0,"""คุณกำลังจะใช้ \""N-Mag Color Change Device\""<br>เพื่อเปลี่ยนสีของ Mag<br>ดำเนินการต่อหรือไม่?<br><br><yellow>※การตั้งค่าสีที่เปลี่ยนนี้<br>\u3000จะถูกนำไปใช้กับ Mag Forms ทั้งหมด<c>"""
 Mag_ColorSyncMessage#0,"""คุณกำลังจะใช้ \""N-Mag Color Sync Device\""<br>เพื่อซิงก์สีของ Mag ให้ตรงกับ Costume<br>ดำเนินการต่อหรือไม่?<br><br><yellow>※การตั้งค่าสีที่เปลี่ยนนี้<br>\u3000จะถูกนำไปใช้กับ Mag Forms ทั้งหมด<c>"""
@@ -8890,10 +8890,10 @@ Window_FasttravelTerminal_6_4#0,"""เปิด Chat"""
 Window_FasttravelTerminal_6_5#0,"""<c 00ff00>OK<c>"""
 Window_FasttravelTerminal_6_6#0,"""<light_red>Not OK<c>"""
 Window_FasttravelTerminal_6_7#0,"""ระบบจะส่งคำขอให้สมาชิกรวมกลุ่ม<br>แน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?"""
-Window_FasttravelTerminal_6_8#0,"""$(0) ได้เริ่มส่งคำขอเพื่อ<br>รวบรวมสมาชิก Party แล้ว<br>กรุณาเปิด Main Menu แล้วตรวจสอบที่หัวข้อ <yellow>\""New Party Assembly\""<c> ใน \""New Notifications\"""
+Window_FasttravelTerminal_6_8#0,""""""
 Window_FasttravelTerminal_6_9#0,"""-"""
 Window_FasttravelTerminal_6_10#0,"""เหลือเวลา $(0) วินาที"""
-Window_FasttravelTerminal_6_11#0,"""$(0) ได้ส่งคำขอให้ Party รวมกลุ่มกัน<br>กรุณาตรวจสอบที่หัวข้อ <yellow>\""New Party Assembly\""<c> ใน \""New Notifications\"""
+Window_FasttravelTerminal_6_11#0,""""""
 Window_FasttravelTerminal_6_GuideText#0,"""คุณสามารถส่งคำขอให้สมาชิก Party รวมกลุ่มกันได้"""
 Window_FasttravelTerminal_6_12#0,"""ไม่ได้เข้าใช้งาน Ryuker Device"""
 Window_FasttravelTerminal_6_13#0,"""ฟังก์ชันนี้ใช้งานได้เฉพาะ Party Leader เท่านั้น"""
@@ -9043,7 +9043,7 @@ Window_BattleTrigger_Guide_CodeKey_Blue#0,"""เงื่อนไข: \""B. Tri
 Window_BattleTrigger_Guide_CodeKey_Blue_unavailable#0,"""เงื่อนไข: \""B. Trigger/Spring '22\"" <yellow>(x1)<c><br><yellow>※ไอเทมสามารถอยู่ใน Storage หรือใน Inventory ก็ได้<c><br><gray>ยังไม่ผ่านเงื่อนไข<c>"""
 Window_BattleTrigger_Guide_CodeKey_all#0,"""เงื่อนไข: \""$(0)\"" <yellow>(x$(1))<c><br><yellow>※ไอเทมสามารถอยู่ใน Storage หรือใน Inventory ก็ได้<c>"""
 Window_BattleTrigger_Guide_CodeKey_all_unavailable#0,"""เงื่อนไข: \""$(0)\"" <yellow>(x$(1))<c><br><yellow>※ไอเทมสามารถอยู่ใน Storage หรือใน Inventory ก็ได้<c><br><gray>ยังไม่ผ่านเงื่อนไข<c>"""
-Window_BattleTrigger_Guide_CodeKey_emergency_to_start#0,"""เปิดใช้งาน \""$(0)\"""
+Window_BattleTrigger_Guide_CodeKey_emergency_to_start#0,""""""
 AreaName_with_EnemyIcon#0,"""$(0)<pict 4space><pict enemy_s_icon>"""
 AreaName_with_GathIcon#0,"""$(0)<pict 4space><pict gath_s_icon>"""
 AreaName_with_CautionIcon#0,"""$(0)<pict 4space><pict caution_s_icon>"""
@@ -9084,7 +9084,7 @@ WorldTrial_Result1_1#0,"""$(0)/$(1) (Rare Drop Rate +$(2)% → +$(3)%)"""
 WorldTrial_Result1_2#0,"""Phase.$(0)/$(1) จนกว่าจะถึง Phase ถัดไป"""
 WindowTitle#0,"""Message Pack"""
 DetailWindowTitle#0,"""รายละเอียดข้อความ"""
-Achievements_Acquire_Info#0,"""ทำ Title Task สำเร็จ: \""$(0)\"""
+Achievements_Acquire_Info#0,""""""
 PreviewOption_Switch_TypeA#0,"""<%Exception2><pict 4space>การตั้งค่าขั้นสูง (Advanced Settings)"""
 PreviewOption_Switch_TypeB#0,"""<%Exception2><pict 4space>การตั้งค่าขั้นสูง (Advanced Settings)"""
 PreviewOption_Connect#0,"""$(0) $(1)"""
@@ -9332,12 +9332,12 @@ RemoveObject#0,"""นำ Portable Hologram ออก"""
 BlockCreator#0,"""เพิ่มลงใน Blocklist"""
 ReportCreator#0,"""รายงานผู้เล่นนี้"""
 ContinueToReport#0,"""เพิ่มลงใน Blocklist แล้ว<br>คุณต้องการรายงานผู้เล่นนี้ด้วยหรือไม่?"""
-Guide_GoToListObject#0,"""<%Exception2><pict 4space>เปิด \""Portable Holograms ใกล้เคียง\"""
+Guide_GoToListObject#0,""""""
 Guide_OtherType#0,"""<%MultiSelect><pict 4space>+<pict 4space><%Decide><pict 4space>ระบายสี Objects ใกล้เคียง"""
 Guide_OtherType_None#0,"""<%MultiSelect><pict 4space>+<pict 4space><%Decide><pict 4space><gray>ระบายสี Objects ใกล้เคียง<c>"""
 Guide_HeightChange#0,"""<%Function><pict 4space>เปลี่ยนความสูงในการติดตั้ง"""
 Guide_Favorite#0,"""<%NextTabDetails><pict 4space>เพิ่ม/แก้ไข Favorites"""
-Guide_GoToPlaceObject#0,"""<%Exception2><pict 4space>เปิด \""วาง Portable Holograms\"""
+Guide_GoToPlaceObject#0,""""""
 HiddenNextLogin#0,"""ซ่อน Portable Holograms ของผู้เล่นอื่นจนกว่าจะล็อกอินครั้งถัดไป"""
 HiddenNextLogin_Supplement#0,"""หากต้องการซ่อน Portable Holograms ของผู้เล่นอื่นไว้เสมอ ให้เปิด<br>Main Menu เลือก Options และเปลี่ยนการตั้งค่าในหัวข้อ Graphics"""
 Guide_ChangeCtrWindow#0,"""<%ChangeCtrlWindowForward><pict 4space>สลับหน้าต่าง"""
