@@ -25,7 +25,7 @@ Title_IdSelect#1,"""เลือก \""เริ่มเกม\"" เพื่�
 Title_IdSelect_v#1,"""<c f0df60>ในการเริ่มเกม คุณต้องเข้าสู่ระบบ PlayStation Network จาก \""เริ่มเกม\""<c>"""
 Title_Login#1,"""กรุณาเลือก Ship"""
 Title_StartMenuSelect#1,"""เลือกตัวเลือก"""
-Title_CharacterSelect#1,""""""
+Title_CharacterSelect#1,"""เลือก Character หรือเลือก สร้าง Character ใหม่"""
 Title_CharacterMake#1,"""<c f0df60>เลือกตัวเลือก<c>"""
 Title_BenchmarkMenu#1,"""<c f0df60>เลือกตัวเลือก<c>"""
 Connecting#0,"""กรุณารอสักครู่"""
