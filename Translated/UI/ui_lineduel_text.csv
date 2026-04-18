@@ -7,7 +7,7 @@ LineDuel_Mulligan_Message_NPC#0,"""คุณต้องการเริ่ม
 LineDuel_Mulligan_Text1#0,"""เริ่ม Battle"""
 LineDuel_Mulligan_Text2#0,"""จั่วไพ่ใหม่"""
 LineDuel_Guide_Text1#0,"""ยืนยัน"""
-LineDuel_Guide_Text2#0,"""ย้อนกลับการกระทำล่าสุดทดสอบ"""
+LineDuel_Guide_Text2#0,"""ย้อนกลับการกระทำล่าสุด"""
 LineDuel_Guide_Text3#0,"""ตรวจสอบการ์ดบนมือ"""
 LineDuel_Guide_Text4#0,"""เริ่ม Battle"""
 LineDuel_Guide_Text5#0,"""ยอมแพ้/ออก"""

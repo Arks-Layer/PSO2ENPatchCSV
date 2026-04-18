@@ -7,7 +7,7 @@ MySpace_Notice_Editing#0,"""คุณไม่สามารถแก้ไข�
 MySpace_EditPublicBlueprintMachine#0,"""ไม่สามารถย้ายหรือลบ Blueprint Terminal นี้ได้เนื่องจากกำลังเปิดให้บุคคลทั่วไปเข้าถึงอยู่"""
 MySpaceMenuText_RunOwner#0,"""ไอเทมนี้สามารถใช้ได้เฉพาะเจ้าของพื้นที่ (Owner) เท่านั้น"""
 UnusablePaletteText_BuildParts#0,"""Build Part นี้ไม่สามารถใช้งานได้ใน Creative Space นี้"""
-UnusablePaletteText_BuildParts_Blueprint#0,"""Build Part นี้สามารถใช้ได้เฉพาะเจ้าของพื้นที่ (Owner) เท่านั้นทดสอบ"""
+UnusablePaletteText_BuildParts_Blueprint#0,"""Build Part นี้สามารถใช้ได้เฉพาะเจ้าของพื้นที่ (Owner) เท่านั้น"""
 UnusablePaletteText_BuildParts_CSpaceOnly#0,"""Build Part นี้ไม่สามารถใช้งานได้ใน Team Space"""
 UnusablePaletteText_BuildParts_TeamSpaceOnly#0,"""Build Part นี้สามารถใช้งานได้เฉพาะใน Team Space เท่านั้น"""
 UnusablePaletteText_Blueprint#0,"""Blueprint นี้ไม่สามารถใช้งานได้ใน Creative Space นี้"""
