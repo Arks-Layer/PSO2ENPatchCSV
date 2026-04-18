@@ -7,7 +7,7 @@ TransferMultiStart#0,"""เปิดใช้งานเทเลพอร์�
 TransferMultiStop#0,"""หยุดเทเลพอร์ต"""
 ItemStorage#0,"""เข้าถึงคลัง"""
 Jump#0,"""กระโดด"""
-DivaAccess#0,"""สลับมุมกล้อง"""
+DivaAccess#0,"""สลับมุมกล้องทดสอบ"""
 GazeCamera#0,"""มองเป้าหมาย"""
 ReturnNormalCamera#0,"""กดค้างเพื่อกลับ"""
 Pickup#0,"""เก็บ"""

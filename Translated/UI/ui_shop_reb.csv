@@ -7,7 +7,7 @@ Window_Exchange_Itemselection#0,"""เลือกการแลกเปลี
 Window_Material_Itemselection#0,"""เลือกการแลกเปลี่ยน Material"""
 Window_Target_Itemselection#0,"""เลือกไอเทมเป้าหมาย"""
 Window_Exchange_Quantity#0,"""ยืนยันการแลกเปลี่ยน"""
-Mes_Exchange_Quantity#0,"""คุณกำลังจะแลกเปลี่ยนไอเทมด้านล่างเพื่อรับ<br><yellow>$(0)<c><br>กรุณาเลือกจำนวนที่คุณต้องการแลก<br><br><yellow>※กด <c><%Function><yellow><c> เพื่อกลับไปยังเมนูเวอร์ชันเก่า<c>"""
+Mes_Exchange_Quantity#0,"""คุณกำลังจะแลกเปลี่ยนไอเทมด้านล่างเพื่อรับ<br><yellow>$(0)<c><br>กรุณาเลือกจำนวนที่คุณต้องการแลก<br><br><yellow>※กด <c><%Function><yellow><c> เพื่อกลับไปยังเมนูเวอร์ชันเก่า<c>ทดสอบ"""
 Mes_Exchange_Quantity2#0,"""คุณกำลังจะแลกเปลี่ยนไอเทมด้านล่างเพื่อรับ<br><yellow>$(0) x $(1)<c><br>กรุณาเลือกจำนวนที่คุณต้องการแลก<br><br><yellow>※กด <c><%Function><yellow><c> เพื่อกลับไปยังเมนูเวอร์ชันเก่า<c>"""
 Window_Target_Itemlist#0,"""รายการไอเทมเป้าหมาย"""
 Window_Target_Itemlist_ExchangePattern#0,"""<%MultiSelect> รูปแบบการแลกเปลี่ยน"""
