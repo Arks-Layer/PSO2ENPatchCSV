@@ -55,6 +55,15 @@ def readcsv(path):
 		return list(csv.reader(handle, strict=True))
 
 
+def gettext(rows, index, fallback_rows):
+	if index >= len(rows):
+		return fallback_rows[index][1][1:-1]
+	row = rows[index]
+	if len(row) <= 1:
+		return fallback_rows[index][1][1:-1]
+	return row[1][1:-1]
+
+
 for i in sys.argv[2:]:
 	w = i.replace("JP/", "WC/")
 	e = i.replace("JP/", "EN/")
@@ -90,9 +99,9 @@ for i in sys.argv[2:]:
 		POID = poformat(ID)
 		JP = JPCSV[x][1][1:-1]
 		POJP = poformat(JP)
-		EN = ENCSV[x][1][1:-1]
+		EN = gettext(ENCSV, x, JPCSV)
 		POEN = poformat(EN)
-		WC = WCCSV[x][1][1:-1]
+		WC = gettext(WCCSV, x, JPCSV)
 		POWC = poformat(WC)
 		POWCF = POWC.replace("　", " ")
 		#white-space

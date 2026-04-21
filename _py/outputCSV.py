@@ -8,6 +8,16 @@ import sys
 if len(sys.argv) <= 2:
 	sys.exit(os.EX_NOINPUT)
 
+
+def gettext(rows, index, fallback_rows):
+	if index >= len(rows):
+		return fallback_rows[index][1][1:-1]
+	row = rows[index]
+	if len(row) <= 1:
+		return fallback_rows[index][1][1:-1]
+	return row[1][1:-1]
+
+
 csvout = csv.writer(sys.stdout, quoting=csv.QUOTE_NONNUMERIC)
 for i in sys.argv[2:]:
 	w = i.replace("JP/", "WC/")
@@ -23,8 +33,8 @@ for i in sys.argv[2:]:
 			WCcheck = False
 			ID = row[0]
 			JP = row[1][1:-1]
-			EN = ENCSV[x][1][1:-1]
-			WC = WCCSV[x][1][1:-1]
+			EN = gettext(ENCSV, x, JPCSV)
+			WC = gettext(WCCSV, x, JPCSV)
 			if (JP == EN):
 				JPcheck = True
 			elif EN == WC:

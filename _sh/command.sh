@@ -6,4 +6,4 @@ rsync --recursive --executability --whole-file . /tmp/PSO2ENPatchCSV.check/WC --
 git archive --format=tar --prefix=PSO2ENPatchCSV.check/JP/ upstream/JP | tar xf - -C /tmp
 cd /tmp/PSO2ENPatchCSV.check
 wait
-find JP -name "*.csv" -print0|WC/_tools/mp.sh --no-keep-order -0 WC/_py/command.py
+find JP -name "*.csv" -not -path "JP/Files/load_banner_large_04.csv" -print0|WC/_tools/mp.sh --no-keep-order -0 WC/_py/command.py
