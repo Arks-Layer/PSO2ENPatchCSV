@@ -5376,7 +5376,7 @@ BoostLiveEvent#0,"""지금부터 일정 시간 동안 라이브 부스트 발생
 BoostItemDrop#0,"""지금부터 일정 시간 동안 퀘스트 달성 부스트 발생!"""
 PotalUnit_Title#0,"""이동할 곳 선택"""
 PotalUnit_Menu_MoveShopArea#0,"""샵 에리어로 이동"""
-PotalUnit_Menu_MoveGateArea#0,"""게이트 에리어로 이동"""
+PotalUnit_Menu_MoveGateArea#0,"""게이트 에어리어로 이동"""
 PotalUnit_Menu_MoveAmusement#0,"""카지노 에리어로 이동"""
 PotalUnit_Menu_MoveBridgeArea#0,"""함교로 이동"""
 PotalUnit_Menu_MoveCafe#0,"""프랑카's 카페로 이동"""
