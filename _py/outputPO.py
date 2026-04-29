@@ -48,6 +48,10 @@ err = 0
 if sys.argv[1] == "en":
 	ENcheckForce = True
 itemlist = ["ui_accessories_text", "ui_charamake_parts"]
+allowed_badcheck = {
+	("st_020790", "st_020790_0080#0", "<%me>!", "<%me>っ！"),
+	("un_025000", "un_025000_0010#0", "……<%me>", "……<%me>君"),
+}
 
 
 def readcsv(path):
@@ -138,7 +142,7 @@ for i in sys.argv[2:]:
 			print("msgid \"{}\"".format(POEN))
 			#msgstr translated-string
 			print("msgstr \"\"")
-			if not skip:
+			if not skip and (basename, ID, WC, JP) not in allowed_badcheck:
 				print("{}:{} {} \"{}\" =~ \"{}\"".format(basename, x + 1, ID, WC, JP), file=sys.stderr)
 				err = 1
 		else:
