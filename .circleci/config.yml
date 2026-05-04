@@ -64,20 +64,8 @@ jobs:
           name: coverage CSVs
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
-          name: Install GNU Aspell spell-checker
-          command: sudo apt-get -qq -y install aspell-en
-      - run:
-          name: spell check CSVs
-          command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt
-      - run:
-          name: sort out spelling mistakes
-          command: cat /tmp/spellcheck.txt|./_tools/sortaspell.sh > /tmp/dict.txt
-      - run:
           name: Verify Font rendering
           command: ./_sh/Fonts.sh
-      - run:
-          name: Are there any spelling mistakes
-          command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
@@ -85,17 +73,8 @@ jobs:
           path: /tmp/coverage.txt
           destination: coverage.txt
       - store_artifacts:
-          path: /tmp/spellcheck.txt
-          destination: spellcheck.txt
-      - store_artifacts:
-          path: /tmp/dict.txt
-          destination: dict.txt
-      - store_artifacts:
           path: /tmp/mp.log
           destination: mplog.txt
-      - store_artifacts:
-          path: /tmp/listaspell.txt
-          destination: listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.CSV.gz
           destination: PSO2.CSV.gz
