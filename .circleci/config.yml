@@ -2,7 +2,7 @@ version: 4
 jobs:
   build:
     docker:
-      - image: ghcr.io/synthsy/arks-layer-buildimages:sha256-ded3b7518ef628908bd65e6212f63610204e6d92d8dfade3fc879c7017465846.sig
+      - image: ghcr.io/synthsy/arks-layer-buildimages:main
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
