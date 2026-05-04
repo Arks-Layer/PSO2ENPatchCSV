@@ -64,7 +64,7 @@ BASICINFO_CONTROLGUIDE#0,"""<%Function><pict 4space>ข้อมูลพื้�
 BASICINFO_CONTROLGUIDE_MP#0,"""<%Function><pict 4space>ข้อมูลพื้นฐาน\u3000\u3000<%MultiSelect><pict 4space>Mission Pass"""
 NO_REWARD_ITEM#0,"""ไม่มีไอเทมรางวัล"""
 Task_Detial_Tilte#0,"""รายละเอียด Task"""
-TASK_PROGRESSES_2#0,"""ความคืบหน้า"""
+TASK_PROGRESSES_2#0,"""สำเร็จแล้ว"""
 BASIC_INFO#0,"""ข้อมูลพื้นฐาน"""
 REWARD_INFO#0,"""ข้อมูลรางวัล"""
 REWARD_ITEMNAME#0,"""ชื่อไอเทม"""
