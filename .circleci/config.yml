@@ -16,15 +16,6 @@ jobs:
     steps:
       - setup_remote_docker:
           docker_layer_caching: true
-      - run:
-          name: Update APT listing
-          command: sudo apt-get -qq update
-      - run:
-          name: Install rsync
-          command: sudo apt-get --no-install-recommends -qq -y install rsync
-      - run:
-          name: Install python
-          command: uv python install 3.11
       - checkout:
           method: blobless
       - run:
