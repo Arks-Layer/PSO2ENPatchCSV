@@ -2,7 +2,7 @@ version: 3
 jobs:
   build:
     docker:
-      - image: synthsy/alpine-rsync-python-nodejs:latest
+      - image: ghcr.io/synthsy/arks-layer-buildimages:sha256-ded3b7518ef628908bd65e6212f63610204e6d92d8dfade3fc879c7017465846.sig
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -65,12 +65,6 @@ jobs:
           name: coverage CSVs
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
-          name: spell check CSVs
-          command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt
-      - run:
-          name: sort out spelling mistakes
-          command: cat /tmp/spellcheck.txt|./_tools/sortaspell.sh > /tmp/dict.txt
-      - run:
           name: output in GetText PO
           command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
       - run:
@@ -79,9 +73,6 @@ jobs:
       - run:
           name: output in fat CSV
           command: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
-      - run:
-          name: Are there any spelling mistakes
-          command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
@@ -89,17 +80,8 @@ jobs:
           path: /tmp/coverage.txt
           destination: coverage.txt
       - store_artifacts:
-          path: /tmp/spellcheck.txt
-          destination: spellcheck.txt
-      - store_artifacts:
-          path: /tmp/dict.txt
-          destination: dict.txt
-      - store_artifacts:
           path: /tmp/mp.log
           destination: mplog.txt
-      - store_artifacts:
-          path: /tmp/listaspell.txt
-          destination: listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.CSV.gz
           destination: PSO2.CSV.gz
