@@ -2,7 +2,7 @@ version: 3
 jobs:
   build:
     docker:
-      - image: cimg/python:3.10-node
+      - image: ghcr.io/synthsy/arks-layer-buildimages:debian
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -14,13 +14,19 @@ jobs:
         - JP
         - /.*_Old/
     steps:
+      - setup_remote_docker:
+          docker_layer_caching: true
       - run:
           name: Update APT listing
           command: sudo apt-get -qq update
       - run:
           name: Install rsync
           command: sudo apt-get --no-install-recommends -qq -y install rsync
-      - checkout
+      - run:
+          name: Install python
+          command: uv python install 3.11
+      - checkout:
+          method: blobless
       - run:
           name: Checking DUP folders
           command: ./_sh/dupfolders.sh
