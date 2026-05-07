@@ -1131,6 +1131,8 @@ def setupfont():
 	# Hangul Jamo  | https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block)
 	cmap.update(range(0x3130,0x318F))
 	cmap.remove(0xBDC1)
+	# Thai https://unicode.org/charts/PDF/U0E00.pdf
+	cmap.update(range(0x0E00,0x0E7F))
 	return cmap
 
 
