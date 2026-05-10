@@ -111,7 +111,7 @@ ScratchSearchItem_none#0,"""ไม่มีไอเทมที่เกี่�
 ScratchSearchItem_16#0,"""Build Parts"""
 ScratchSearchItem_17#0,"""Portable Holograms"""
 ScratchError_NotAchieved_Title#0,"""ไม่ผ่านเงื่อนไข"""
-ScratchError_NotAchieved_Mess#0,""""""
+ScratchError_NotAchieved_Mess#0,"""สามารถสุ่ม Scratch นี้ได้ก็ต่อเมื่อ<br>ผ่านเงื่อนไขดังต่อไปนี้<br>\u3000- สำเร็จ Main Task 【To Retem City】"""
 Title#0,"""Scratch Storage"""
 Header_ItemName#0,"""ชื่อไอเทม"""
 Header_SavePeriod#0,"""วันหมดอายุ"""
