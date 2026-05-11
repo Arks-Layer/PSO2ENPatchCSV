@@ -1,4 +1,4 @@
-﻿Title#0,"""Simulation: การกำจัดศัตรูที่ได้รับ Boost"""
+Title#0,"""Simulation: การกำจัดศัตรูที่ได้รับ Boost"""
 text0001#0,"""Ruino Angel ที่ปรากฏในเควสต์นี้จะได้รับการเสริมพลังดังนี้:<br><br><yellow>・อัตราการติด Status effect +500%<br>・เมื่อ HP ต่ำ, HP ผู้เล่น -50%<br>・Bombload Enemy<c>"""
 text0002#0,"""Ruino Gryphon ที่ปรากฏในเควสต์นี้จะได้รับการเสริมพลังดังนี้:<br><br><yellow>・การโจมตีเพิ่มเติมเป็นระยะ<br>・เมื่อ HP ต่ำ, จะมีศัตรูเพิ่มเติมปรากฏออกมา<br>・Enhanced Enemy<c>"""
 text0003#0,"""Ruino Vibras ที่ปรากฏในเควสต์นี้จะได้รับการเสริมพลังดังนี้:<br><br><yellow>・เพิ่ม Fire Attribute ในการโจมตี/Burn rate: HIgh<br>・อัตราการติด Status effect +300%<br>・ลด Damage/Damage Resistance ของผู้เล่นเมื่อโจมตีโดน<c>"""
