@@ -1,2 +1,3 @@
-Title#0,"""Photon Glide"""
-text0001#0,"""Glide:<br>\u3000กด <%Jump> ระหว่างที่ทำ Double-Jump<br>\u3000หรือกด <%Jump> ค้างไว้กลางอากาศ<br>ยกเลิก Glide:<br>\u3000กด <%Jump> ขณะที่กำลัง Glide<br>"""
+Title#0,"""Lock-On/การเปลี่ยนเป้าหมาย Lock-On"""
+text0001_pad#0,"""Lock-On: <%LockOn><br>ยกเลิกการ Lock-On: กด <%LockOn> ในระหว่างที่ Lock-On อยู่<%LockOn><br>เปลี่ยนเป้าหมาย Lock-On: <swguidetype T_Moveguide_r> ในระหว่างที่ Lock-On อยู่<br><br>※ไม่สามารถใช้งานได้เมื่อตั้งค่า 'Switch Lock-On by Using Right Stick' เป็น<br>\u3000'Don't use'<br>\u3000ในกรณีนี้ จะต้องยกเลิกการ Lock-On แล้วทำการ Lock-On เป้าหมาย<br>\u3000อื่นแทน"""
+text0001_key#0,"""Lock-On: <%LockOn><br>ยกเลิกการ Lock-On: กด <%LockOn> ในระหว่างที่ Lock-On อยู่<br>เปลี่ยนเป้าหมาย Lock-On: ใช้ <%LockOn> เพื่อยกเลิกการ Lock-On จากนั้นใช้ <%LockOn> อีกครั้งเพื่อเลือกเป้าหมายอื่น"""
