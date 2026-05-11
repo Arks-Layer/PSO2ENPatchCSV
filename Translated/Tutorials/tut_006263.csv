@@ -1,3 +1,3 @@
-Title#0,"""Equipping Weapons"""
-text0001#0,"""You can equip a weapon by opening the Main Menu with <swguidetype T_MainMenu>, selecting <yellow>\""Equipment/Palette\""<c>, then selecting <yellow>\""Equip Weapon\""<c> and choosing the weapon you want to equip from the list.<br><br>If you want to remove your weapon, press the \""Remove\"" button at the bottom of the list."""
-text0002#0,"""Weapons fall into one of three categories: Striking, Shooting and Tech. You can tell which category a weapon falls into by the color of its icon:<br><br><pict attack_shock>: Striking<br><pict attack_shooting>: Shooting<br><pict attack_magic>: Tech"""
+Title#0,"""การสวมใส่เครื่องช่วย (Equipping Weapons)"""
+text0001#0,"""คุณสามารถสวมใส่อาวุธได้โดยการเปิด Main Menu ด้วย <swguidetype T_MainMenu> เลือก <yellow>【Equipment/Palette】<c> จากนั้นเลือก <yellow>【Equip Weapon】<c> และเลือกอาวุธที่ต้องการจากรายการ<br><br>หากคุณต้องการถอดอาวุธ ให้กดปุ่ม 【Remove】 ที่ด้านล่างของรายการ"""
+text0002#0,"""อาวุธแบ่งออกเป็น 3 ประเภท: Striking, Shooting และ Tech คุณสามารถดูประเภทของอาวุธได้จากสีของไอคอน:<br><br><pict attack_shock>: Striking<br><pict attack_shooting>: Shooting<br><pict attack_magic>: Tech"""

@@ -1,2 +1,2 @@
-Title#0,"""The World Map"""
-text0001#0,"""You can view a map of the whole world by opening the Main Menu with <swguidetype T_MainMenu>, then selecting <yellow>\""World\""<c>.<br><br>Points of interest that you've discovered, such as Cocoons and Ryuker Devices, will have an icon on the map.<br>You can hover the cursor over these icons to view details about them."""
+Title#0,"""World Map"""
+text0001#0,"""คุณสามารถดูแผนที่โลกทั้งหมดได้โดยการเปิด Main Menu ด้วย <swguidetype T_MainMenu> จากนั้นเลือก <yellow>【World】<c><br><br>จุดที่น่าสนใจที่คุณค้นพบ เช่น Cocoons และ Ryuker Devices จะมีไอคอนแสดงบนแผนที่<br>คุณสามารถวางเคอร์เซอร์เหนือไอคอนเหล่านี้เพื่อดูรายละเอียดเกี่ยวกับจุดนั้นๆ ได้"""

@@ -1,4 +1,4 @@
 Title#0,"""Gunner"""
-text0001#0,"""Gunner is a class that has excellent aerial mobility and deals high damage at close and medium ranges."""
-text0002#0,"""<yellow>\""Chain Trigger\""<c> is a skill that counts the number of times you land hits with Normal Attacks & uncharged PAs to deal a massive amount of damage with a Chain Finish.<br><br>A Chain begins when you hit with a charged PA. The Chain Count increases with each hit from your attacks, and your next charged PA becomes a Chain Finish."""
-text0003#0,"""<yellow>Chain Trigger<c> is a very important Class Skill which can be enhanced with a number of other skills.<br>For example, <yellow>\""Chain Boost\""<c> grants you bonus effects, such as increased attack speed, based on your Chain Count when you land a Chain Finish."""
+text0001#0,"""Gunner คือคลาสที่มีความคล่องตัวกลางอากาศที่ยอดเยี่ยม และสร้าง Damage ได้สูงในระยะใกล้และระยะกลาง"""
+text0002#0,"""<yellow>【Chain Trigger】<c> คือสกิลที่จะนับจำนวนครั้งที่คุณโจมตีโดนด้วย Normal Attacks และ PA ที่ไม่ได้ชาร์จ เพื่อสร้าง Damage มหาศาลด้วย Chain Finish<br><br>Chain จะเริ่มขึ้นเมื่อคุณโจมตีโดนด้วย PA ที่ชาร์จ จำนวน Chain Count จะเพิ่มขึ้นทุกครั้งที่คุณโจมตีโดน และ PA ที่ชาร์จครั้งต่อไปจะกลายเป็น Chain Finish"""
+text0003#0,"""<yellow>Chain Trigger<c> เป็น Class Skill ที่สำคัญมากซึ่งสามารถเสริมพลังได้ด้วยสกิลอื่นๆ อีกหลายสกิล<br>ตัวอย่างเช่น <yellow>【Chain Boost】<c> จะมอบโบนัสเอฟเฟกต์ เช่น เพิ่มความเร็วในการโจมตี ตามจำนวน Chain Count ของคุณเมื่อคุณใช้ Chain Finish"""

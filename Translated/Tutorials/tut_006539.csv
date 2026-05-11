@@ -1,4 +1,4 @@
 Title#0,"""Play Report"""
-text0001#0,"""Play Report is a system that summarizes each player's performance during a Quest, and shows which player attained the best result in each category."""
-text0002#0,"""The Best Players tab shows the players with the best result in each category.<br><br>Your name will be displayed in <yellow>yellow<c>.<br><br>From here, you can send Good Jobs or Friend Requests to individual players, or to all players at once."""
-text0003#0,"""The Personal Records tab displays your own results.<br><br>Any category for which you are the Best Player will be displayed in <yellow>yellow<c>."""
+text0001#0,"""Play Report คือระบบที่สรุปผลงานของผู้เล่นแต่ละคนในระหว่างเควสต์ และแสดงให้เห็นว่าผู้เล่นคนใดได้รับผลลัพธ์ที่ดีที่สุดในแต่ละหมวดหมู่"""
+text0002#0,"""แถบ Best Players แสดงผู้เล่นที่มีผลลัพธ์ที่ดีที่สุดในแต่ละหมวดหมู่<br><br>ชื่อของคุณจะแสดงเป็น <yellow>สีเหลือง<c><br><br>จากที่นี่ คุณสามารถส่ง Good Jobs หรือ Friend Requests ให้กับผู้เล่นแต่ละคน หรือให้กับผู้เล่นทุกคนในคราวเดียวได้"""
+text0003#0,"""แถบ Personal Records แสดงผลลัพธ์ของคุณเอง<br><br>หมวดหมู่ใดก็ตามที่คุณเป็น Best Player จะแสดงเป็น <yellow>สีเหลือง<c>"""

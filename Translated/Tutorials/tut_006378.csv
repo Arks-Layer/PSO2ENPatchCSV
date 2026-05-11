@@ -1,3 +1,3 @@
 Title#0,"""Emergency Quests (Matching Passwords)"""
-text0001#0,"""If you have a <yellow>Matching Password<c> set, you can join a Quest alongside other players using the same Matching Password<br><br>To <yellow>set a Matching Password<c>, select <yellow>\""Open Quest Info\""<c>, then <yellow>\""Set Matching Settings & Start\""<c>"""
-text0002#0,"""To change a Matching Password, select <yellow>\""Open Quest Info\""<c>, then <yellow>\""Change Settings\""<c>, then <yellow>\""Matching Password Settings\""<c>.<br><br>You can return to normal matching by deleting your Matching Password."""
+text0001#0,"""หากคุณตั้งค่า <yellow>Matching Password<c> ไว้ คุณจะสามารถเข้าร่วมเควสต์พร้อมกับผู้เล่นคนอื่นๆ ที่ใช้ Matching Password เดียวกันได้<br><br>ในการ <yellow>ตั้งค่า Matching Password<c> ให้เลือก <yellow>【Open Quest Info】<c> จากนั้นเลือก <yellow>【Set Matching Settings & Start】<c>"""
+text0002#0,"""หากต้องการเปลี่ยน Matching Password ให้เลือก <yellow>【Open Quest Info】<c> ตามด้วย <yellow>【Change Settings】<c> และ <yellow>【Matching Password Settings】<c><br><br>คุณสามารถกลับไปใช้การ Matching ปกติได้โดยการลบ Matching Password ของคุณทิ้ง"""

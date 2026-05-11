@@ -1,4 +1,4 @@
 Title#0,"""Fighter"""
-text0001#0,"""Fighter is a class that tailors its moves to whatever situation it finds itself in to deal high damage."""
-text0002#0,"""Each PA can be fluidly connected to another attack action if timed properly, allowing you to respond flexibly to any combat scenario.<br>It may take some getting used to, but once you master switching up your fighting style to counter whatever enemies you face, you will be able to deal top-tier damage."""
-text0003#0,"""<yellow>\""Limit Break\""<c> is an Active Skill that boosts both damage dealt and damage taken for a set time when activated.<br><br>Using it comes with a great deal of risk, but if you use it at the right time, such as when your enemy is Downed, you will be able to reap the rewards."""
+text0001#0,"""Fighter คือคลาสที่ปรับเปลี่ยนท่วงท่าตามสถานการณ์ที่เผชิญเพื่อสร้าง Damage ที่รุนแรง"""
+text0002#0,"""PA แต่ละท่าสามารถเชื่อมต่อกับการโจมตีอื่นได้อย่างลื่นไหลหากกดในจังหวะที่ถูกต้อง ทำให้คุณสามารถตอบสนองต่อทุกสถานการณ์การต่อสู้ได้อย่างยืดหยุ่น<br>มันอาจจะต้องใช้เวลาในการฝึกฝน แต่เมื่อคุณเชี่ยวชาญในการสลับสไตล์การต่อสู้เพื่อรับมือกับศัตรูที่เผชิญหน้า คุณจะสามารถสร้าง Damage ระดับสูงสุดได้"""
+text0003#0,"""<yellow>【Limit Break】<c> คือ Active Skill ที่จะเพิ่มทั้ง Damage ที่ทำได้และ Damage ที่ได้รับเป็นเวลาหนึ่งเมื่อใช้งาน<br><br>การใช้งานมันมาพร้อมกับความเสี่ยงที่สูงมาก แต่ถ้าคุณใช้ในจังหวะที่เหมาะสม เช่น เมื่อศัตรูอยู่ในสถานะ Downed คุณจะได้รับผลตอบแทนที่คุ้มค่า"""

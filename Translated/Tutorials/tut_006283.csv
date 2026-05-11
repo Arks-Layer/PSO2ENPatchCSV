@@ -1,3 +1,3 @@
-Title#0,"""Task Guide Information"""
-text0001#0,"""To check the tasks you have been assigned, open the Main Menu with <swguidetype T_MainMenu>, select <yellow>\""Tasks/Quest\""<c>, then select <yellow>\""Tasks\""<c>.<br><br>After selecting a Task trom the Task List, select \""Display Guide Information\"" to display a guide that shows your destination and any target enemies."""
-text0002#0,"""You do not need to have \""Display Guide Information\"" selected to complete a Task. Completing its listed objectives is enough.<br><br><yellow>※Some tasks have no guide information to display.<c>"""
+Title#0,"""ข้อมูล Task Guide"""
+text0001#0,"""หากต้องการตรวจสอบเควสต์ที่คุณได้รับมอบหมาย ให้เปิด Main Menu ด้วย <swguidetype T_MainMenu> เลือก <yellow>【Tasks/Quest】<c> จากนั้นเลือก <yellow>【Tasks】<c><br><br>หลังจากเลือกเควสต์จาก Task List แล้ว ให้เลือก 【Display Guide Information】 เพื่อแสดงไกด์ที่จะบอกจุดหมายปลายทางและศัตรูเป้าหมายของคุณ"""
+text0002#0,"""คุณไม่จำเป็นต้องเลือก 【Display Guide Information】 เพื่อทำเควสต์ให้สำเร็จ การทำตามเป้าหมายที่ระบุไว้ให้ครบถ้วนก็เพียงพอแล้ว<br><br><yellow>※บางเควสต์ไม่มีข้อมูลไกด์ที่จะแสดง<c>"""

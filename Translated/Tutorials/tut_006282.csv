@@ -1,4 +1,4 @@
-Title#0,"""Other Tasks"""
-text0001#0,"""Daily and Weekly Tasks are now available.<br><br>Daily Tasks update every day at <utc>19:00</utc>, while Weekly Tasks update every week at <utcdow>Wed 3:00</utcdow>"""
-text0002#0,"""Each account can only complete <yellow>each Daily Task once per day and each Weekly Task once per week<c>. Progress cannot be carried over to the next day or next week.<br><br>In addition to regular Tasks, there may be special Tasks that are only available for a limited time."""
-text0003#0,"""Some Daily and Weekly Tasks will award you Stars when completed. When you receive enough Stars, you will advance to the next Tier of your Mission Pass, allowing you to earn rewards from that Tier.<br><br>You can check your progress and Tier rewards by opening the Main Menu, selecting \""Tasks/Quests\"", then selection \""Mission Pass\""."""
+Title#0,"""เควสต์อื่นๆ"""
+text0001#0,"""เควสต์รายวันและเควสต์รายสัปดาห์พร้อมใช้งานแล้ว<br><br>เควสต์รายวันจะอัปเดตทุกวันเวลา <utc>19:00</utc> ในขณะที่เควสต์รายสัปดาห์จะอัปเดตทุกสัปดาห์ใน <utcdow>Wed 3:00</utcdow>"""
+text0002#0,"""แต่ละบัญชีสามารถทำ <yellow>เควสต์รายวันแต่ละเควสต์ได้เพียงครั้งเดียวต่อวัน และเควสต์รายสัปดาห์แต่ละเควสต์ได้เพียงครั้งเดียวต่อสัปดาห์<c> ความคืบหน้าไม่สามารถทบไปยังวันถัดไปหรือสัปดาห์ถัดไปได้<br><br>นอกจากเควสต์ปกติแล้ว อาจมีเควสต์พิเศษที่มีให้ทำในช่วงเวลาจำกัดเท่านั้น"""
+text0003#0,"""เควสต์รายวันและเควสต์รายสัปดาห์บางเควสต์จะมอบ Stars ให้เมื่อทำสำเร็จ เมื่อคุณได้รับ Stars เพียงพอ คุณจะเลื่อนไปยัง Tier ถัดไปของ Mission Pass ของคุณ ซึ่งจะช่วยให้คุณได้รับรางวัลจาก Tier นั้น<br><br>คุณสามารถตรวจสอบความคืบหน้าและรางวัล Tier ได้โดยการเปิด Main Menu เลือก 【Tasks/Quests】 จากนั้นเลือก 【Mission Pass】"""

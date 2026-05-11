@@ -1,3 +1,3 @@
-Title#0,"""About Time Extension Quests"""
-text0001#0,"""In this Quest, your objective is to defeat as many enemies as possible within the time limit.<br><br>The time limit <yellow>increases with each enemy you defeat<c>.<br><br>During this Quest, various Photon Boost Crates will appear., which can be <yellow>accessed to grant the accessing player a temporary boost<c>. The enhancement granted depends on the color of the crate.<br>"""
-text0002#0,"""The Quest is cleared when all target enemies are defeated, or when the time limit expires.<br><br>Your result rank at the end of the Quest will depend on the Quest Points you have earned by defeating enemies."""
+Title#0,"""เกี่ยวกับ Time Extension Quest"""
+text0001#0,"""ในเควสต์นี้ เป้าหมายของคุณคือกำจัดศัตรูให้ได้มากที่สุดภายในเวลาที่กำหนด<br><br>จำกัดเวลาจะ <yellow>เพิ่มขึ้นทุกครั้งที่คุณกำจัดศัตรู<c><br><br>ในระหว่างเควสต์นี้ Photon Boost Crates ต่างๆ จะปรากฏขึ้น ซึ่งสามารถ <yellow>เข้าไปกดใช้เพื่อรับบัฟเสริมพลังชั่วคราวให้แก่ผู้เล่นคนนั้นได้<c> การเสริมพลังที่ได้รับจะขึ้นอยู่กับสีของกล่อง"""
+text0002#0,"""เควสต์จะสำเร็จเมื่อกำจัดศัตรูเป้าหมายได้ทั้งหมด หรือเมื่อหมดเวลา<br><br>Rank ผลลัพธ์ของคุณเมื่อจบเควสต์จะขึ้นอยู่กับ Quest Points ที่คุณได้รับจากการกำจัดศัตรู"""

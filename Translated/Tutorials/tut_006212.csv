@@ -1,2 +1,3 @@
-Title#0,"""Photon Glide"""
-text0001#0,"""Glide:<br>\u3000Press <%Jump> during a Double-Jump<br>\u3000or press and hold <%Jump> in the air<br>End Glide:<br>\u3000Press <%Jump> while Gliding<br>"""
+Title#0,"""PP Recovery from Normal Attacks"""
+text0001#0,"""PAs (Photon Arts) และ Techniques คือการโจมตีที่ทรงพลังซึ่งต้องใช้ PP (Photon Points) ในการใช้งาน"""
+text0002#0,"""PP ของคุณจะฟื้นฟูอย่างช้าๆ เมื่อเวลาผ่านไป แต่คุณยังสามารถฟื้นฟู PP ได้จากการโจมตีศัตรูด้วย Normal Attacks"""

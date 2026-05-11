@@ -1,2 +1,2 @@
 Title#0,"""Control Settings"""
-text0001#0,"""You can edit your controls for both keyboard and <%GamePad> by opening the Main Menu with <swguidetype T_MainMenu>, selecting <yellow>\""System\""<c>, then selecting <yellow>\""Control Settings\""<c>.<br><br>You can also edit other game options, such as graphics, sound and other settings, by selecting <yellow>\""System\""<c>, then selecting <yellow>\""Options\""<c>."""
+text0001#0,"""คุณสามารถแก้ไขการควบคุมสำหรับทั้งคีย์บอร์ดและ <%GamePad> ได้โดยการเปิด Main Menu ด้วย <swguidetype T_MainMenu> เลือก <yellow>【System】<c> จากนั้นเลือก <yellow>【Control Settings】<c><br><br>คุณยังสามารถแก้ไขตัวเลือกเกมอื่นๆ เช่น กราฟิก เสียง และการตั้งค่าอื่นๆ โดยการเลือก <yellow>【System】<c> จากนั้นเลือก <yellow>【Options】<c>"""

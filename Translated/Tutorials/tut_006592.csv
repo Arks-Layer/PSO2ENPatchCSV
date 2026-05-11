@@ -1,2 +1,2 @@
 Title#0,"""Resizing Build Parts"""
-text0001#0,"""If you want to resize a Build Part, hold <%WeaponAction_2> and use <%SubPaletteLeft><%SubPaletteRight> to select <yellow>Resize<c>.<br><br>You can then resize the Build Part with <swguidetype T_Moveguide_l> while holding <%WeaponAction_2>."""
+text0001#0,"""หากคุณต้องการปรับขนาด Build Part ให้กด <%WeaponAction_2> ค้างไว้ และใช้ <%SubPaletteLeft><%SubPaletteRight> เพื่อเลือก <yellow>Resize<c><br><br>จากนั้นคุณสามารถปรับขนาด Build Part ได้ด้วย <swguidetype T_Moveguide_l> ในขณะที่กด <%WeaponAction_2> ค้างไว้"""

@@ -1,4 +1,4 @@
-Title#0,"""Preset Ability Upgrade"""
-text0001#0,"""At the Item Lab, you can use Preset Ability Upgrade to attempt to upgrade the Preset Abilities attached to your equipment.<br><br>To upgrade a Preset Ability, you need compatible weapons or armor and N-Meseta to use as materials."""
-text0002#0,"""The material items you need are <yellow>a weapon from the same series<c>, or <yellow>armor with the same name<c>, which has a Preset Ability of <yellow>the same level as the base item or higher<c>.<br>(The type of Preset Ability does not matter.)"""
-text0003#0,"""You can use the same process to add <yellow>a randomly selected Lv.1 Preset Ability<c> to items that lack a Preset Ability.<br><br>When you do this, you can use items without a Preset Ability as material."""
+Title#0,"""การอัปเกรด Preset Ability"""
+text0001#0,"""ที่ Item Lab คุณสามารถใช้ระบบ Preset Ability Upgrade เพื่อพยายามอัปเกรด Preset Ability ที่ติดอยู่กับอุปกรณ์ของคุณได้<br><br>ในการอัปเกรด Preset Ability คุณต้องใช้อาวุธหรือชุดป้องกันที่เข้ากันได้ และ N-Meseta เป็นวัตถุดิบ"""
+text0002#0,"""ไอเทมวัตถุดิบที่คุณต้องการคือ <yellow>อาวุธจากซีรีส์เดียวกัน<c> หรือ <yellow>ชุดป้องกันที่มีชื่อเดียวกัน<c> ซึ่งมี Preset Ability <yellow>เลเวลเดียวกับไอเทมฐานหรือสูงกว่า<c><br>(ประเภทของ Preset Ability จะเป็นอะไรก็ได้)"""
+text0003#0,"""คุณสามารถใช้วิธีเดียวกันนี้เพื่อเพิ่ม <yellow>Lv.1 Preset Ability แบบสุ่ม<c> ให้กับไอเทมที่ยังไม่มี Preset Ability ได้<br><br>เมื่อคุณทำเช่นนี้ คุณสามารถใช้ไอเทมที่ไม่มี Preset Ability เป็นวัตถุดิบได้"""

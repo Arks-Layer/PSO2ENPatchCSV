@@ -1,2 +1,2 @@
 Title#0,"""Rotating Build Parts"""
-text0001#0,"""If you want to rotate a Build Part, hold <%WeaponAction_2> and use <%SubPaletteLeft><%SubPaletteRight> to select <yellow>Rotate<c>.<br><br>You can then rotate the Build Part with <swguidetype T_Moveguide_l> while holding <%WeaponAction_2>."""
+text0001#0,"""หากคุณต้องการหมุน Build Part ให้กด <%WeaponAction_2> ค้างไว้ และใช้ <%SubPaletteLeft><%SubPaletteRight> เพื่อเลือก <yellow>Rotate<c><br><br>จากนั้นคุณสามารถหมุน Build Part ได้ด้วย <swguidetype T_Moveguide_l> ในขณะที่กด <%WeaponAction_2> ค้างไว้"""

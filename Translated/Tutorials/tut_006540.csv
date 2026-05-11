@@ -1,3 +1,3 @@
 Title#0,"""Optimal Range"""
-text0001#0,"""The following weapons gain a damage boost against targets that are at a particular range:<br><br>・Wired Lance and Assault Rifle deal boosted damage against long-range enemies.<br><br>・Twin Machineguns deal boosted damage against close-range enemies."""
-text0002#0,"""When you're at optimal range from an enemy, your lock-on marker will turn orange.<br><br>In addition, when your attacks hit the enemy, they will have an additional purple visual effect."""
+text0001#0,"""อาวุธต่อไปนี้จะได้รับการเพิ่ม Damage เมื่อโจมตีเป้าหมายที่อยู่ในระยะเฉพาะ:<br><br>・Wired Lance และ Assault Rifle จะทำ Damage เพิ่มขึ้นเมื่อโจมตีศัตรูในระยะไกล<br><br>・Twin Machineguns จะทำ Damage เพิ่มขึ้นเมื่อโจมตีศัตรูในระยะใกล้"""
+text0002#0,"""เมื่อคุณอยู่ในระยะที่เหมาะสม (optimal range) จากศัตรู มาร์กเกอร์ล็อกเป้าของคุณจะเปลี่ยนเป็นสีส้ม<br><br>นอกจากนี้ เมื่อการโจมตีของคุณโดนศัตรู จะมีเอฟเฟกต์ภาพสีม่วงเพิ่มเติมปรากฏขึ้น"""

@@ -1,2 +1,2 @@
-Title#0,"""Undoing and Redoing Actions"""
-text0001#0,"""In Character Creation and the Beauty Salon, you can undo your previous action to return to the state you were in before you made it.<br><br>・Undo<br>\u3000Each time you press <swguidetype Undo>, one action will be undone, in reverse order.<br>・Redo<br>\u3000Each time you press <swguidetype Redo>, an undone action will be redone, in the order you previously did them."""
+Title#0,"""การเลิกทำและการทำซ้ำการกระทำ"""
+text0001#0,"""ใน Character Creation และ Beauty Salon คุณสามารถเลิกทำการกระทำก่อนหน้าเพื่อกลับไปยังสถานะก่อนที่คุณจะทำการเปลี่ยนแปลงนั้นได้<br><br>・Undo<br>\u3000ทุกครั้งที่คุณกด <swguidetype Undo> การกระทำหนึ่งอย่างจะถูกยกเลิกตามลำดับย้อนกลับ<br>・Redo<br>\u3000ทุกครั้งที่คุณกด <swguidetype Redo> การกระทำที่ถูกยกเลิกจะถูกทำซ้ำตามลำดับที่คุณเคยทำไว้"""

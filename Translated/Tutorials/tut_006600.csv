@@ -1,2 +1,2 @@
-Title#0,"""Maximum Installation Distance"""
-text0001#0,"""Build Parts cannot be placed more than a certain distance from you. To change this distance, hold <%WeaponAction_2> and use <%SubPaletteLeft><%SubPaletteRight> to select <yellow>Maximum Installation Distance<c>.<br><br>Increasing the <yellow>Maximum Installation Distance<c> will let you place Build Parts further away from you in the air."""
+Title#0,"""ระยะการติดตั้งสูงสุด"""
+text0001#0,"""Build Parts ไม่สามารถวางในระยะที่ไกลเกินกว่าที่กำหนดจากตัวคุณได้ ในการเปลี่ยนระยะนี้ ให้กด <%WeaponAction_2> ค้างไว้ และใช้ <%SubPaletteLeft><%SubPaletteRight> เพื่อเลือก <yellow>Maximum Installation Distance<c><br><br>การเพิ่ม <yellow>Maximum Installation Distance<c> จะช่วยให้คุณสามารถวาง Build Parts ได้ไกลจากตัวคุณมากขึ้นในอากาศ"""

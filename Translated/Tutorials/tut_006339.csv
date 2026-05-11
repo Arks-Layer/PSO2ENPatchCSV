@@ -1,4 +1,4 @@
 Title#0,"""Multi-Weapon"""
-text0001#0,"""\""Multi-Weapon\"" is a system that lets you combine the abilities of two different weapons, such as a Sword and a Rifle.<br><br>You can register actions from both weapons on the same weapon palette."""
-text0002#0,"""When you use an action, your Multi-Weapon will immediately switch to the appropriate form and perform the action.<br><br>When performing shared actions, such as your Photon Blast, the action that occurs is based on the weapon's current form."""
-text0003#0,"""Multi-Weapons can be created at the Item Lab.<br>You can only combine weapons from the <yellow>same series<c>, such as a Prim Sword and a Prim Rifle."""
+text0001#0,"""【Multi-Weapon】 คือระบบที่ให้คุณรวมความสามารถของอาวุธสองประเภทที่แตกต่างกันเข้าด้วยกัน เช่น Sword และ Rifle<br><br>คุณสามารถลงทะเบียน Actions จากอาวุธทั้งสองชนิดไว้บน Weapon Palette เดียวกันได้"""
+text0002#0,"""เมื่อคุณใช้ Action ระบบ Multi-Weapon จะเปลี่ยนรูปร่างเป็นอาวุธที่เหมาะสมและทำ Action นั้นทันที<br><br>เมื่อทำ Action ร่วมกัน เช่น Photon Blast ท่าที่เกิดขึ้นจะขึ้นอยู่กับรูปร่างปัจจุบันของอาวุธ"""
+text0003#0,"""Multi-Weapons สามารถสร้างได้ที่ Item Lab<br>คุณสามารถรวมอาวุธจาก <yellow>ซีรีส์เดียวกัน<c> ได้เท่านั้น เช่น Prim Sword และ Prim Rifle"""

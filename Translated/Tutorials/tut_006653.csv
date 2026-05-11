@@ -1,4 +1,4 @@
 Title#0,"""Attracting Saucer"""
-text0001#0,"""<yellow>Attracting Saucer<c> is an object that helps player mobility.<br><br>When you pick up and throw this object, you will be rapidly moved towards its new location."""
-text0002#0,"""After using it to move, you can use it up to 4 additional times by using the throw button just as your character flashes with light.<br><br>If you hit an enemy with an <yellow>Attracting Saucer<c>, you will deal damage and move towards it."""
-text0003#0,"""If you hold <%NormalAttack>, you can change the direction that you aim the <yellow>Attracting Saucer<c>.<br><br>You can also aim up and down, if you switch to over-the-shoulder view."""
+text0001#0,"""<yellow>Attracting Saucer<c> คือออบเจ็กต์ที่ช่วยในเรื่องการเคลื่อนที่ของผู้เล่น<br><br>เมื่อคุณเก็บและขว้างออบเจ็กต์นี้ คุณจะเคลื่อนที่ไปยังตำแหน่งใหม่ของมันอย่างรวดเร็ว"""
+text0002#0,"""หลังจากใช้มันเพื่อเคลื่อนที่ คุณสามารถใช้งานเพิ่มเติมได้สูงสุด 4 ครั้ง โดยใช้ปุ่มขว้างในจังหวะที่ตัวละครของคุณกะพริบแสง<br><br>หากคุณขว้าง <yellow>Attracting Saucer<c> ใส่ศัตรู คุณจะสร้าง Damage และเคลื่อนที่เข้าไปหาศัตรูตัวนั้น"""
+text0003#0,"""หากคุณกด <%NormalAttack> ค้างไว้ คุณสามารถเปลี่ยนทิศทางในการเล็ง <yellow>Attracting Saucer<c> ได้<br><br>นอกจากนี้คุณยังสามารถเล็งขึ้นและลงได้ หากคุณเปลี่ยนเป็นมุมมองแบบ Over-the-shoulder"""

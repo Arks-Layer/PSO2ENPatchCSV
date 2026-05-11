@@ -1,3 +1,3 @@
 Title#0,"""Growther Enemies"""
-text0001#0,"""Growther Enemies are enemies which have a special part called a Growther, which can be targeted from the beginning of the battle.<br><br>Growthers strengthen nearby enemies at regular intervals."""
-text0002#0,"""Destroying the Growther will remove the strengthening effect and weaken the enemy for a short period.<br><br>When enough time passes after destroying the Growther, the enemy will return to its normal power level."""
+text0001#0,"""Growther Enemies คือศัตรูที่มีส่วนพิเศษที่เรียกว่า Growther ซึ่งสามารถล็อคเป้าหมายได้ตั้งแต่เริ่มการต่อสู้<br><br>Growther จะเสริมความแข็งแกร่งให้แก่ศัตรูที่อยู่ใกล้เคียงเป็นช่วงเวลา"""
+text0002#0,"""การทำลาย Growther จะเป็นการยกเลิกเอฟเฟกต์เสริมพลัง และทำให้ศัตรูอ่อนแอลงในช่วงเวลาสั้นๆ<br><br>เมื่อเวลาผ่านไปครู่หนึ่งหลังจากทำลาย Growther ศัตรูจะกลับสู่ระดับพลังปกติ"""

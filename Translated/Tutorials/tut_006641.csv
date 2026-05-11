@@ -1,3 +1,3 @@
 Title#0,"""Quest Objective"""
-text0001#0,"""Your objective in this Quest is to defeat as many enemies as possible within the time limit.<br><br>Defeating enough target enemies will increase your time limit.<br><br>You can also increase your time limit by <yellow>defeating enemies with special markers<c>."""
-text0002#0,"""The Quest is cleared when all target enemies are defeated, or when the time limit runs out.<br><br>Your result Rank at the end of the Quest is based on the Quest Points you earned from defeating enemies."""
+text0001#0,"""เป้าหมายของคุณในเควสต์นี้คือกำจัดศัตรูให้ได้มากที่สุดเท่าที่จะทำได้ภายในเวลาที่กำหนด<br><br>การกำจัดศัตรูเป้าหมายได้มากพอจะช่วยเพิ่มเวลาที่กำหนดให้คุณ<br><br>คุณยังสามารถเพิ่มเวลาได้โดยการ <yellow>กำจัดศัตรูที่มีเครื่องหมายพิเศษ<c>"""
+text0002#0,"""เควสต์จะถือว่าเคลียร์เมื่อกำจัดศัตรูเป้าหมายได้ทั้งหมด หรือเมื่อหมดเวลา<br><br>Rank ผลลัพธ์ของคุณเมื่อจบเควสต์จะพิจารณาจาก Quest Points ที่คุณได้รับจากการกำจัดศัตรู"""

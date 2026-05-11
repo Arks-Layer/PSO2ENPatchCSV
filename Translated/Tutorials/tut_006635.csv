@@ -1,3 +1,3 @@
-Title#0,"""Changing the Vital Gauge Design"""
-text0001#0,"""The box in the bottom-left corner of your screen containing your character name, Class level, HP bar, PP bar and so on is called your Vital Gauge. You are able to change its background design.<br><br>Use <swguidetype T_MainMenu> to open the Main Menu, then select <yellow>Personal<c>, then <yellow>Vital Gauge Design<c>."""
-text0002#0,"""You can unlock additional Vital Gauge designs by using special ticket items.<br><br>The Vital Gauge design you select will also be reflected on other Party Members' screens.<br>"""
+Title#0,"""การเปลี่ยนดีไซน์ Vital Gauge"""
+text0001#0,"""กรอบที่มุมซ้ายล่างของหน้าจอซึ่งประกอบด้วยชื่อตัวละคร, เลเวล Class, แถว HP, แถบ PP และอื่นๆ เรียกว่า Vital Gauge ของคุณ คุณสามารถเปลี่ยนดีไซน์พื้นหลังของมันได้<br><br>ใช้ <swguidetype T_MainMenu> เพื่อเปิด Main Menu จากนั้นเลือก <yellow>Personal<c> และเลือก <yellow>Vital Gauge Design<c>"""
+text0002#0,"""คุณสามารถปลดล็อกดีไซน์ Vital Gauge เพิ่มเติมได้โดยการใช้ไอเทมตั๋วพิเศษ<br><br>ดีไซน์ Vital Gauge ที่คุณเลือกจะแสดงให้เห็นบนหน้าจอของสมาชิกปาร์ตี้คนอื่นๆ ด้วย<br>"""

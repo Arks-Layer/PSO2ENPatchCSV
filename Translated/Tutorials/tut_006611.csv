@@ -1,4 +1,4 @@
 Title#0,"""Material Storage"""
-text0001#0,"""Material Storage is a special high-capacity Storage that can hold things like Gathering Materials, N-Grinders and Special Ability Capsules."""
-text0002#0,"""Material Storage can be accessed for a limited time by purchasing and using a rental ticket from the <yellow>SG Shop<c>."""
-text0003#0,"""While you have access to Material Storage, material items you pick up are automatically sent to it.<br><br>※If you do not want to automatically send items to Material Storage, open the Options, select the Gameplay tab, then set \""Auto Material Storage\"" to \""Do not use\"".<br>※Material items are sent to Material Storage by preference, but are sent to Drop Storage if it is full. If both are full, <yellow>material items you pick up are automatically discarded.<c>"""
+text0001#0,"""Material Storage คือคลังเก็บของความจุสูงพิเศษที่สามารถเก็บไอเทมจำพวกวัตถุดิบจากการรวบรวม (Gathering Materials), N-Grinders และ Special Ability Capsules"""
+text0002#0,"""Material Storage สามารถเข้าใช้งานได้ในช่วงเวลาจำกัดโดยการซื้อและใช้งานตั๋วเช่าจาก <yellow>SG Shop<c>"""
+text0003#0,"""ในขณะที่คุณสามารถเข้าใช้งาน Material Storage ได้ ไอเทมวัตถุดิบที่คุณเก็บได้จะถูกส่งไปที่นั่นโดยอัตโนมัติ<br><br>※หากคุณไม่ต้องการส่งไอเทมไปที่ Material Storage โดยอัตโนมัติ ให้เปิด Option เลือกแท็บ Gameplay จากนั้นตั้งค่า 【Auto Material Storage】 เป็น 【Do not use】<br>※ไอเทมวัตถุดิบจะถูกส่งไปที่ Material Storage เป็นอันดับแรก แต่จะถูกส่งไปที่ Drop Storage หากคลังเต็ม หากเต็มทั้งคู่ <yellow>ไอเทมวัตถุดิบที่คุณเก็บได้จะถูกทิ้งโดยอัตโนมัติ<c>"""

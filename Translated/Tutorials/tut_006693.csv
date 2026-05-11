@@ -1,3 +1,3 @@
-Title#0,"""Comfort Lillies"""
-text0001#0,"""When a <yellow>Comfort Lily<c> is in its bud form, dealing enough damage to it will cause it to bloom, releasing <yellow>a shockwave which can damage and inflict Attribute Down on nearby enemies<c>."""
-text0002#0,"""Players nearby a blooming Comfort Lily are <yellow>immune to lava damage, and their HP is continuously restored<c>.<br><br>Once a Comfort Lily's blooming period is over, it will disappear, reappearing as a bud after enough time has passed."""
+﻿Title#0,"""Comfort Lily"""
+text0001#0,"""เมื่อ <yellow>Comfort Lily<c> อยู่ในรูปแบบดอกตูม การสร้าง Damage ใส่ให้มากพอจะทำให้มันบานออก พร้อมปล่อย <yellow>Shockwave ที่สามารถสร้าง Damage และทำให้ศัตรูโดยรอบติด Attribute Down<c>"""
+text0002#0,"""ผู้เล่นที่อยู่ใกล้ <yellow>Comfort Lily<c> ที่บานอยู่ จะ <yellow>ไม่ได้รับ Damage จากลาวา และ HP จะได้รับการฟื้นฟูอย่างต่อเนื่อง<c><br><br>เมื่อหมดเวลาการบาน Comfort Lily จะหายไป และจะกลับมาเป็นดอกตูมอีกครั้งหลังจากเวลาผ่านไปครู่หนึ่ง"""

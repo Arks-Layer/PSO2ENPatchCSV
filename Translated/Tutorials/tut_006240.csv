@@ -1,3 +1,4 @@
-Title#0,"""Ranger"""
-text0001#0,"""Ranger is a class that fights at long range with shooting attacks, while using special bullets to support its allies."""
-text0002#0,"""<yellow>\""Weak Bullet\""<c> is an Active Skill that \""weakens\"" an enemy part, increasing damage dealt to that part by all of your allies.<br><br>It's very important to use against boss enemies."""
+﻿Title#0,"""Hunter"""
+text0001#0,"""Hunter คือคลาสที่ใช้ 【Guard】 และ 【Step】 เพื่อหลบหลีกการโจมตีของศัตรู และสร้าง Damage มหาศาลกลับไปให้พวกมันด้วย 【Counters】"""
+text0002#0,"""<yellow>【Massive Hunter】<c> คือ Active Skill ที่ช่วยลด Damage ที่ได้รับและป้องกันการถูกกระแทกให้กระเด็นในช่วงระยะเวลาหนึ่งเมื่อใช้งาน<br><br>ลงทะเบียนสกิลนี้ใน Subpalette ของคุณเพื่อให้คุณสามารถใช้งานได้เมื่อต่อสู้กับศัตรูที่ทรงพลัง"""
+text0003#0,"""<yellow>【Hunter Art Avenge】<c> จะเพิ่ม Damage ของ PA (Photon Art) หากคุณถูกโจมตีโดยศัตรูในจังหวะที่คุณใช้งานพอดี"""

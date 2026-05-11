@@ -1,4 +1,4 @@
 Title#0,"""The Team Bulletin Board"""
-text0001#0,"""The Team Bulletin Board is a system that lets Team Members leave messages and Stamps to communicate with each other.<br><br>Posts on the Team Bulletin Board are shared with the Team Room in PSO2 Blocks.<br><br><yellow>※Stamps can only be posted and seen in NGS Blocks.<c>"""
-text0002#0,"""You can access the Team Bulletin Board in the following ways:<br><br>・Use <swguidetype T_MainMenu> to open the Main Menu, select <yellow>\""Communication\""<c>, then <yellow>\""Team Commands\""<c>, then \""Team Bulletin Board\"".<br><br>・Go to your <yellow>Team Space<c>, then access the <yellow>Team Bulletin Board<c> Build Part."""
-text0003#0,"""The Team Bulletin Board can hold up to 50 messages. When it gets full, the oldest will be deleted first."""
+text0001#0,"""Team Bulletin Board คือระบบที่ให้สมาชิก Team ทิ้งข้อความและ Stamp เพื่อสื่อสารกัน<br><br>โพสต์บน Team Bulletin Board จะถูกแชร์ร่วมกับ Team Room ใน PSO2 Blocks<br><br><yellow>※Stamp สามารถโพสต์และมองเห็นได้ใน NGS Blocks เท่านั้น<c>"""
+text0002#0,"""คุณสามารถเข้าถึง Team Bulletin Board ได้ด้วยวิธีดังนี้:<br><br>・ใช้ <swguidetype T_MainMenu> เพื่อเปิด Main Menu เลือก <yellow>【Communication】<c> จากนั้นเลือก <yellow>【Team Commands】<c> และเลือก 【Team Bulletin Board】<br><br>・ไปที่ <yellow>Team Space<c> ของคุณ จากนั้นเข้าสำรวจ Build Part ของ <yellow>Team Bulletin Board<c>"""
+text0003#0,"""Team Bulletin Board สามารถเก็บข้อความได้สูงสุด 50 ข้อความ เมื่อเต็มแล้ว ข้อความที่เก่าที่สุดจะถูกลบออกก่อน"""

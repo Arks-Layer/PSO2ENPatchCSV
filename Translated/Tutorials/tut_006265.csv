@@ -1,2 +1,2 @@
-Title#0,"""Switching Subpalettes"""
-text0001#0,"""You have access to multiple Subpalettes that you can switch between whenever you like.<br>To switch Subpalette, open the Main Palette list with <%PaletteReverse>/<%PaletteForce>, then follow the following steps:<br>・Switch to the Subpalette list (<%SubPaletteLeft>/<%SubPaletteRight>)<br>・Cycle through your Subpalettes (<%PaletteReverse>/<%PaletteForce>)<br>・Select a Subpalette to use (<%Decide>)"""
+Title#0,"""การสลับ Subpalettes"""
+text0001#0,"""คุณสามารถเข้าถึง Subpalettes ได้หลายอันซึ่งคุณสามารถสลับเปลี่ยนได้ทุกเมื่อที่ต้องการ<br>ในการสลับ Subpalette ให้เปิดรายการ Main Palette ด้วย <%PaletteReverse>/<%PaletteForce> จากนั้นทำตามขั้นตอนต่อไปนี้:<br>・สลับไปที่รายการ Subpalette (<%SubPaletteLeft>/<%SubPaletteRight>)<br>・สลับเลือกผ่าน Subpalettes ของคุณ (<%PaletteReverse>/<%PaletteForce>)<br>・เลือก Subpalette ที่ต้องการใช้งาน (<%Decide>)"""
