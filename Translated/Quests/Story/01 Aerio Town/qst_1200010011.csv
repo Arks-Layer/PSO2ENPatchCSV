@@ -1,4 +1,4 @@
-name010#0,"""Ral"""
-text010#0,"""First, do you know how to \""Lock-On\""? It's how you take aim at something."""
-Text_Lock#0,"""Lock-On: """
+name010#0,"""รัล (Ral)"""
+text010#0,"""ก่อนอื่นเลย รู้วิธีใช้ 【Lock-On】 ไหมล่ะ? มันคือวิธีการล็อกเป้าหมายไปที่อะไรสักอย่างน่ะ"""
+Text_Lock#0,"""ล็อกเป้าหมาย: """
 Button_Lock#0,"""<%LockOn>"""
