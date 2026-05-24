@@ -1,4 +1,4 @@
 name010#0,"""Faria"""
-text010#0,"""You are special to Manon, so I too have wanted to learn more about you."""
-text020#0,"""...And I think I understand how Manon feels now. Please, come back safely..."""
-Line_HelpEvent#0,"""Battle Support (Faria)<br>Maximum HP Increase<br>Maximum PP Increase<br>Resta Signs Automatically Replenish"""
+text010#0,"""คุณคือคนพิเศษสำหรับมาน่อน ฉันเองก็เลยอยากรู้จักคุณให้มากขึ้นเหมือนกันค่ะ"""
+text020#0,"""...และตอนนี้ฉันคิดว่าฉันเข้าใจความรู้สึกของมาน่อนแล้วล่ะค่ะ ได้โปรดกลับมาอย่างปลอดภัยนะคะ..."""
+Line_HelpEvent#0,"""Battle Support (Pharia)<br>เพิ่ม HP สูงสุด<br>เพิ่ม PP สูงสุด<br>ฟื้นฟู Resta Sign อัตโนมัติ"""

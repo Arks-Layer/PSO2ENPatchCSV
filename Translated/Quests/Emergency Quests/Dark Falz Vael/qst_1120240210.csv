@@ -1,4 +1,4 @@
 name010#0,"""Manon"""
-text010#0,"""I've always been afraid to move forward<br>because I thought there was only death and destruction waiting..."""
-text020#0,"""But I'm not afraid anymore!<br>I want to keep moving forward together with you!"""
-Line_HelpEvent#0,"""Battle Support (Manon)<br>Maximum HP Increase<br>Maximum PP Increase<br>Resta Signs Automatically Replenish"""
+text010#0,"""ฉันเคยกลัวที่จะก้าวไปข้างหน้ามาตลอด<br>เพราะคิดว่ามีเพียงความตายและการทำลายล้างรออยู่..."""
+text020#0,"""แต่ฉันไม่กลัวอีกต่อไปแล้วล่ะ!<br>ฉันอยากจะก้าวไปข้างหน้าพร้อมกับเธอนะ!"""
+Line_HelpEvent#0,"""Battle Support (Manon)<br>เพิ่ม HP สูงสุด<br>เพิ่ม PP สูงสุด<br>ฟื้นฟู Resta Sign อัตโนมัติ"""

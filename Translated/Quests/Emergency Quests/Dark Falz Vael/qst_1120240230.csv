@@ -1,4 +1,4 @@
 name010#0,"""Crawford"""
-text010#0,"""You strike as magnificent a figure in battle as always... Watching you has made me a bit jealous, to be honest."""
-text020#0,"""But it also inspires a feeling even greater within all of us. Now, put an end to this!"""
-Line_HelpEvent#0,"""Battle Support (Crawford)<br>Maximum HP Increase<br>Maximum PP Increase<br>Resta Signs Automatically Replenish"""
+text010#0,"""ท่าทางการต่อสู้ของคุณยังคงสง่างามเหมือนเคยเลยนะ... พูดตามตรง พอได้มองคุณแล้วก็ทำให้ผมแอบอิจฉานิดหน่อยเหมือนกัน"""
+text020#0,"""แต่มันก็สร้างแรงบันดาลใจที่ยิ่งใหญ่ให้กับพวกเราทุกคน เอาล่ะ จบเรื่องนี้กันเถอะ!"""
+Line_HelpEvent#0,"""Battle Support (Crawford)<br>เพิ่ม HP สูงสุด<br>เพิ่ม PP สูงสุด<br>ฟื้นฟู Resta Sign อัตโนมัติ"""
