@@ -1,4 +1,4 @@
-TrialName#0,"""Wide Area Alter Factor Stimulation"""
+TrialName#0,"""กระตุ้น Alter Factor ในพื้นที่วงกว้าง"""
 TrialBeginMsg#0,"""＊＊白色界 ボーナストライアル"""
-TrialAbstract#0,"""Defeat the enemies that spread the Alter Factor"""
-NpcComOnBegin#0,"""There are a bunch of enemies that are spreading the Alter Factor! Now's the best time to reduce the Alter Factor concentration!"""
+TrialAbstract#0,"""กำจัดศัตรูที่ปล่อย Alter Factor"""
+NpcComOnBegin#0,"""มีศัตรูจำนวนมากกำลังปล่อย Alter Factor ออกมา! ตอนนี้เป็นเวลาที่ดีที่สุดในการลดความเข้มข้นของ Alter Factor แล้ว!"""

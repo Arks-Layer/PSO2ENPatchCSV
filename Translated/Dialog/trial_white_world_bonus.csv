@@ -1,4 +1,4 @@
-TrialName#0,"""Wide-area Alter Factor Activation"""
+TrialName#0,"""เปิดใช้งาน Alter Factor ในพื้นที่วงกว้าง"""
 TrialBeginMsg#0,"""White Realm Bonus Trial"""
-TrialAbstract#0,"""Defeat enemies emitting Alter Factor"""
-NpcComOnBegin#0,"""全域で、オルタ因子放出エネミーが発生中！<br>因子濃度を低下させる好機です！"""
+TrialAbstract#0,"""กำจัดศัตรูที่ปล่อย Alter Factor"""
+NpcComOnBegin#0,"""พบศัตรูที่ปล่อย Alter Factor ปรากฏขึ้นทั่วพื้นที่!<br>เป็นโอกาสดีที่จะลดความเข้มข้นของ Factor ลงนะ!"""
