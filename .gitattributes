@@ -3,7 +3,7 @@
 *.py text eol=lf
 /.circleci/config.yml eol=lf
 #native EOL
-*.csv text
+*.csv text eol=lf
 /_aspell/PSO2.dict.BASE text
 /_aspell/*.dict text
 /release.sed text
