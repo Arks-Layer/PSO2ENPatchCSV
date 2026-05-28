@@ -8,5 +8,5 @@ NpcComOnBegin#0,"""ทำลายเป้าหมายที่ปราก�
 NpcComOnBeginWave2#0,"""/voice11_voice_navi001_trial_0001_027 เป้าหมายใหม่ปรากฏขึ้นมาจำนวนมาก!<br>ช่วยทำลายเป้าหมายให้ได้ 300 อันด้วย!"""
 NpcComOnBeginWave3#0,"""/voice11_voice_navi001_trial_0001_043 ดีมาก!<br>เป้าหมายจะโผล่ออกมาอีกนะ!"""
 NpcComOnBeginLastWave#0,"""/voice11_voice_navi001_trial_0001_046 อีกนิดเดียวเท่านั้น!<br>เป้าหมายขนาดใหญ่จะสามารถทำลายได้หากโจมตีหลายๆ ครั้ง!"""
-NpcComOnSuccess#0,"""＊＊成功"""
-NpcComOnFailure#0,"""＊＊失敗"""
+NpcComOnSuccess#0,"""＊＊สำเร็จ"""
+NpcComOnFailure#0,"""＊＊ล้มเหลว"""

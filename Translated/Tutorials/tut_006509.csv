@@ -1,3 +1,3 @@
-Title#0,"""Magnifier Mode"""
+Title#0,"""โหมดแว่นขยาย"""
 text0001#0,"""เมื่อคุณอยู่ในฟิลด์ การกด <swguidetype ShiftTrigger> + <swguidetype EscMenu> จะเปิดใช้งาน Magnifier Mode ซึ่งจะขยายส่วนหนึ่งของหน้าจอเกมเพื่อให้มองเห็นได้ง่ายขึ้น<br><br><yellow>※ก่อนที่คุณจะใช้ฟีเจอร์นี้ คุณต้องเปิดใช้งานจากเมนู Options ภายใต้หัวข้อ Gameplay<c>"""
 text0002#0,"""ใน Magnifier Mode คุณมีตัวเลือกดังต่อไปนี้:<br><br>・<swguidetype CursorMove>: เลื่อนหน้าจอ<br>・<swguidetype Zoom>: ขยายหน้าจอ<br>・<swguidetype ShiftTrigger> + <swguidetype EscMenu>: ออกจาก Magnifier Mode"""

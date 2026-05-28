@@ -1,5 +1,5 @@
 battletrigger_use_check_title#0,"""Yellow Portal"""
-battletrigger_use_check_message#0,"""The [$(0)] ในช่องเก็บของของคุณ<br>กำลังส่องสว่าง คุณต้องการวาง<br>ลงบนแท่นหรือไม่?<br><br>※เปิดใช้งานแท่นและทำ<br>the Task: \""$(0)\""<br>ให้เสร็จสิ้นด้วยการรับเควสต์"""
+battletrigger_use_check_message#0,"""The [$(0)] ในช่องเก็บของของคุณ<br>กำลังส่องสว่าง คุณต้องการวาง<br>ลงบนแท่นหรือไม่?<br><br>※เปิดใช้งานแท่นและทำ<br>the Task: 【"$(0)】"<br>ให้เสร็จสิ้นด้วยการรับเควสต์"""
 battletrigger_used_message#0,"""แท่นบริเวณใกล้เคียงถูกเปิดใช้งานโดย ARKS คนอื่นแล้ว"""
 CodeKey_w1_r1_1#0,"""Purple Portal: Aelio"""
 CodeKey_w1_r1_3#0,"""Yellow Portal: Aelio"""

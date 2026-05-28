@@ -1,4 +1,4 @@
-Title#0,"""Matching Password/Photography Setup"""
+Title#0,"""รหัสผ่านจับคู่/ตั้งค่าการถ่ายภาพ"""
 text0001#0,"""ฟีเจอร์ 【Matching Password/Photography Setup】 ช่วยให้คุณตั้งรหัสผ่านสำหรับ Room ใน Section ของคุณ เพื่อให้ Matching เฉพาะกับผู้เล่นที่ตั้งรหัสผ่านเดียวกันเท่านั้น"""
 text0002#0,"""หากคุณต้องการตั้งรหัสผ่าน Room ให้เปิดเมนูหลักด้วย <swguidetype T_MainMenu> เลือก 【Communication】 จากนั้นเลือก 【Matching Password/Photography Setup】"""
 text0003#0,"""หากคุณเลือก 【Make this Room a Photography Room】 ห้องจะถูกสร้างเป็นห้องถ่ายภาพซึ่งเหมาะสำหรับการถ่ายภาพหน้าจอและบันทึกวิดีโอ"""
