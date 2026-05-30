@@ -3,7 +3,7 @@ TrialBeginMsg#0,"""ทำลาย Cores ของ Giruva ให้หมด แ
 TrialAbstract#0,"""ทำลาย Cores ของ Giruva ให้หมด และ<br>ใช้ Repulse Wedge เพื่อกำจัด Giruva"""
 TrialName2#0,"""Giruva Diversion"""
 TrialBeginMsg2#0,"""ทำลาย Cores ของ Giruva ให้หมด แล้วกำจัด Giruva!<br>หากสำเร็จจะได้รับ '$(0)'"""
-TrialAbstract2#0,"""ใช้ Repulse Wedge เพื่อกำจัด Giruva <br>บัฟที่ได้รับหากทำสำเร็จ:<br>0"""
+TrialAbstract2#0,"""ใช้ Repulse Wedge เพื่อกำจัด Giruva <br>บัฟที่ได้รับหากทำสำเร็จ:<br>$(0)"""
 OnCoreBreak#0,"""'$(0)' ได้ทำลาย Giruva Core แล้ว"""
 NpcComOnBegin#0,"""ตรวจพบสัญญาณของ Giruva มันเริ่มไล่ล่า ARKS ในบริเวณใกล้เคียงแล้ว โปรดระมัดระวังด้วย"""
 NpcComOnBegin2#0,"""การส่งมอบอาวุธต่อต้าน Giruva กำลังถูกรบกวน... โปรดทำลาย Giruva Cores ให้หมด"""
