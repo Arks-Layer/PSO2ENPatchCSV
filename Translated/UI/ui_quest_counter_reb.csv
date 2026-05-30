@@ -162,7 +162,7 @@ WeeklyRanking_Close#0,"""ไม่มีกิจกรรม ARKS Record ที
 WeeklyRanking_Message_Open#0,"""คุณสามารถรับรางวัลเหล่านี้ได้จากการเข้าร่วม<br>※สำหรับรายละเอียดเพิ่มเติม โปรดตรวจสอบ 【 ARKS Records 】."""
 WeeklyRanking_Message_Notice#0,"""กิจกรรมจะเริ่มในอีก $(0)<br>※สำหรับรายละเอียดเพิ่มเติม โปรดตรวจสอบ 【 ARKS Records 】."""
 WeeklyRanking_Message_Notice_Soon#0,"""กิจกรรมจะเริ่มขึ้นในเร็วๆ นี้<br>※สำหรับรายละเอียดเพิ่มเติม โปรดตรวจสอบ 【 ARKS Records 】."""
-SeasonQuest_Detail_Description#0,"""การทำเป้าหมายต่อไปนี้สำเร็จจะทำให้คุณได้รับ Quest Point โบนัส<br>คุณยังจะได้รับรางวัลเพิ่มเติมตามแรงก์ (Rank) ของคุณเมื่อ<br>เคลียร์เควสต์สำเร็จ"""
+SeasonQuest_Detail_Description#0,"""การทำเป้าหมายต่อไปนี้สำเร็จจะทำให้คุณได้รับ Quest Point โบนัส<br>คุณยังจะได้รับรางวัลเพิ่มเติมตามแรงก์ ของคุณเมื่อ<br>เคลียร์เควสต์สำเร็จ"""
 SeasonQuest_Detail_Label1#0,"""รางวัลการจัดอันดับเคลียร์เควสต์"""
 SeasonQuest_Detail_Label2#0,"""โบนัส Quest Point"""
 SeasonQuest_Rank_1_3#0,"""$(0)"""
