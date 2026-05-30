@@ -1,3 +1,3 @@
 Title#0,"""The Skill Tree"""
-text0001#0,"""Skill Tree คือระบบที่คุณใช้ Skill Points เพื่อเรียนรู้ Class Skills<br><br>※Skill Points สามารถปรับเปลี่ยนการใช้ได้ไม่จำกัดจำนวนครั้ง<br>※Class Skills ที่ระบุว่า 【SP 0】 สามารถเรียนรู้ได้โดยไม่ต้องใช้ Skill Points ใดๆ<c>"""
+text0001#0,"""Skill Tree คือระบบที่คุณใช้ Skill Points เพื่อเรียนรู้ Class Skills<br><br>※Skill Points สามารถปรับเปลี่ยนการใช้ได้ไม่จำกัดจำนวนครั้ง<br>※Class Skills ที่ระบุว่า 【 SP 0 】 สามารถเรียนรู้ได้โดยไม่ต้องใช้ Skill Points ใดๆ<c>"""
 text0002#0,"""หากมี Class Skills สองสกิลเชื่อมต่อกันด้วยเส้น คุณจะไม่สามารถเรียนรู้ Class Skill ที่อยู่ด้านล่างสุดของเส้นได้จนกว่าคุณจะเรียนรู้สกิลที่อยู่ด้านบนก่อน"""

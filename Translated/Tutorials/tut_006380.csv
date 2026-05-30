@@ -1,5 +1,5 @@
 Title#0,"""วิธีใช้ Photon Blast"""
-text0001#0,"""【Photon Blast】 เป็นการโจมตีที่รุนแรงซึ่งสามารถติดตั้งและใช้งานได้จาก Subpalette<br><br><br>เกจ Photon Blast จะเพิ่มขึ้นเมื่อคุณดำเนินการต่างๆ ในการต่อสู้ เมื่อเกจเต็ม คุณจะสามารถใช้ Photon Blast ได้"""
-text0002#0,"""คุณสามารถติดตั้ง Photon Blast ลงใน Subpalette ได้โดยเลือก <yellow>【Equipment/Palette】<c> จาก <swguidetype T_MainMenu> เมนูหลัก จากนั้นเลือก <yellow>【Subpalette】<c>"""
-text0003#0,"""เลือกช่องที่ต้องการใช้งาน แล้วรายการตัวเลือกสำหรับช่องนั้นจะปรากฏขึ้น<br>เลือก <yellow>【Photon Blast】<c> เพื่อลงทะเบียน<br><br>เมื่อลงทะเบียนแล้ว ให้ปิดเมนูด้วย <%Cancel> เท่านี้คุณก็พร้อมลุยแล้ว"""
+text0001#0,"""【 Photon Blast 】 เป็นการโจมตีที่รุนแรงซึ่งสามารถติดตั้งและใช้งานได้จาก Subpalette<br><br><br>เกจ Photon Blast จะเพิ่มขึ้นเมื่อคุณดำเนินการต่างๆ ในการต่อสู้ เมื่อเกจเต็ม คุณจะสามารถใช้ Photon Blast ได้"""
+text0002#0,"""คุณสามารถติดตั้ง Photon Blast ลงใน Subpalette ได้โดยเลือก <yellow>【 Equipment/Palette 】<c> จาก <swguidetype T_MainMenu> เมนูหลัก จากนั้นเลือก <yellow>【 Subpalette 】<c>"""
+text0003#0,"""เลือกช่องที่ต้องการใช้งาน แล้วรายการตัวเลือกสำหรับช่องนั้นจะปรากฏขึ้น<br>เลือก <yellow>【 Photon Blast 】<c> เพื่อลงทะเบียน<br><br>เมื่อลงทะเบียนแล้ว ให้ปิดเมนูด้วย <%Cancel> เท่านี้คุณก็พร้อมลุยแล้ว"""
 text0004#0,"""เมื่อเกจ Photon Blast เต็มระหว่างการต่อสู้ ให้ใช้ <%SubPaletteLeft> และ <%SubPaletteRight> เพื่อเลื่อนเคอร์เซอร์บน Subpalette ไปที่ไอคอน Photon Blast จากนั้นใช้ <%SubPalette> เพื่อเปิดใช้งาน<br>หากเล่นด้วยคีย์บอร์ด คุณสามารถใช้ปุ่มตัวเลขเพื่อเปิดใช้งานช่องบน Subpalette ได้โดยตรง"""

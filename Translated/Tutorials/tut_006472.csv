@@ -1,4 +1,4 @@
 Title#0,"""Quick Menu Customization"""
-text0001#0,"""【Quick Menu Customization】 คือฟีเจอร์ที่ช่วยให้คุณเปลี่ยนตัวเลือกที่มีให้ใช้งานใน Quick Menu ได้<br><br>เมื่อเปิด Quick Menu อยู่ ให้ใช้ <%MultiSelect> เพื่อเข้าถึงตัวเลือก 【Edit/Change Pattern】 จากนั้นคุณสามารถใช้เมนู 【Select Pattern】 เพื่อเปลี่ยน Pattern หรือแก้ไขชื่อ Pattern ของคุณได้"""
-text0002#0,"""คุณสามารถใช้เมนู 【Pattern Details】 เพื่อเพิ่ม ลบ และจัดเรียงรายการใน Pattern ของคุณได้"""
+text0001#0,"""【 Quick Menu Customization 】 คือฟีเจอร์ที่ช่วยให้คุณเปลี่ยนตัวเลือกที่มีให้ใช้งานใน Quick Menu ได้<br><br>เมื่อเปิด Quick Menu อยู่ ให้ใช้ <%MultiSelect> เพื่อเข้าถึงตัวเลือก 【 Edit/Change Pattern 】 จากนั้นคุณสามารถใช้เมนู 【 Select Pattern 】 เพื่อเปลี่ยน Pattern หรือแก้ไขชื่อ Pattern ของคุณได้"""
+text0002#0,"""คุณสามารถใช้เมนู 【 Pattern Details 】 เพื่อเพิ่ม ลบ และจัดเรียงรายการใน Pattern ของคุณได้"""
 text0003#0,"""คุณยังสามารถเพิ่มหมวดหมู่ (Categories) เข้าไปในรายการ ซึ่งจะแยกรายการของคุณด้วยแถบสีน้ำเงิน<br><br>ปรับแต่ง Quick Menu ของคุณได้ตามใจชอบ และทำให้เข้าถึงฟังก์ชันที่คุณใช้บ่อยที่สุดได้ง่ายที่สุด"""

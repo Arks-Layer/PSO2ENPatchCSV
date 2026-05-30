@@ -1,3 +1,3 @@
 Title#0,"""Friend List"""
-text0001#0,"""คุณสามารถเข้าถึงรายชื่อผู้เล่นที่กลายมาเป็นเพื่อนของคุณได้โดยการเปิด Main Menu ด้วย <swguidetype T_MainMenu> เลือก <yellow>【Communication】<c> จากนั้นเลือก <yellow>【Friend List】<c> จากที่นี่ คุณสามารถตรวจสอบสถานะการเข้าสู่ระบบของพวกเขาและส่ง Whisper Chat ถึงพวกเขาได้"""
-text0002#0,"""หากต้องการเชิญใครสักคนมาเป็นเพื่อน ให้เลือก 【Communication】 จาก Main Menu จากนั้นเลือก 【Nearby Players】 เลือกผู้เล่นที่คุณต้องการเชิญ แล้วเลือก 【Send Friend Request】"""
+text0001#0,"""คุณสามารถเข้าถึงรายชื่อผู้เล่นที่กลายมาเป็นเพื่อนของคุณได้โดยการเปิด Main Menu ด้วย <swguidetype T_MainMenu> เลือก <yellow>【 Communication 】<c> จากนั้นเลือก <yellow>【 Friend List 】<c> จากที่นี่ คุณสามารถตรวจสอบสถานะการเข้าสู่ระบบของพวกเขาและส่ง Whisper Chat ถึงพวกเขาได้"""
+text0002#0,"""หากต้องการเชิญใครสักคนมาเป็นเพื่อน ให้เลือก 【 Communication 】 จาก Main Menu จากนั้นเลือก 【 Nearby Players 】 เลือกผู้เล่นที่คุณต้องการเชิญ แล้วเลือก 【 Send Friend Request 】"""

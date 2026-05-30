@@ -1,3 +1,3 @@
 Title#0,"""ค้นหา Team ที่รับสมัครสมาชิก"""
-text0001#0,"""หากคุณเปิด Main Menu ด้วย <swguidetype T_MainMenu> เลือก 【Communication】 จากนั้นเลือก 【Search for Teams Seeking Members】 คุณจะสามารถดูรายชื่อ Team ที่กำลังเปิดรับสมาชิกใหม่ได้<br><br>จากรายการนี้ คุณสามารถดูรายละเอียดของแต่ละ Team และส่งใบสมัครเข้าร่วม Team ไปยัง Manager ของพวกเขาได้"""
-text0002#0,"""ในฐานะ Team Master คุณสามารถทำให้ Team ของคุณปรากฏในรายการนี้ได้โดยเปิด Main Menu เลือก 【Communication】 จากนั้นเลือก 【Team Commands】 ตามด้วย 【Team Settings】 และติ๊กที่ช่อง <yellow>Recruiting Team Members<c> box."""
+text0001#0,"""หากคุณเปิด Main Menu ด้วย <swguidetype T_MainMenu> เลือก 【 Communication 】 จากนั้นเลือก 【 Search for Teams Seeking Members 】 คุณจะสามารถดูรายชื่อ Team ที่กำลังเปิดรับสมาชิกใหม่ได้<br><br>จากรายการนี้ คุณสามารถดูรายละเอียดของแต่ละ Team และส่งใบสมัครเข้าร่วม Team ไปยัง Manager ของพวกเขาได้"""
+text0002#0,"""ในฐานะ Team Master คุณสามารถทำให้ Team ของคุณปรากฏในรายการนี้ได้โดยเปิด Main Menu เลือก 【 Communication 】 จากนั้นเลือก 【 Team Commands 】 ตามด้วย 【 Team Settings 】 และติ๊กที่ช่อง <yellow>Recruiting Team Members<c> box."""

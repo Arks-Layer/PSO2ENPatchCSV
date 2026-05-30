@@ -1,5 +1,5 @@
 Title#0,"""Weapon Actions"""
-text0001_hunter#0,"""Sword Guard:<br>กด <%MainPaletteC> ขณะถือ Sword<br>ใช้ดาบเป็นโล่เพื่อลด Damage<br>หากกดถูกจังหวะ จะกลายเป็น 【Just Guard】 (JG) และป้องกัน Damage ทั้งหมดจากการโจมตีได้<br>"""
+text0001_hunter#0,"""Sword Guard:<br>กด <%MainPaletteC> ขณะถือ Sword<br>ใช้ดาบเป็นโล่เพื่อลด Damage<br>หากกดถูกจังหวะ จะกลายเป็น 【 Just Guard 】 (JG) และป้องกัน Damage ทั้งหมดจากการโจมตีได้<br>"""
 text0001_ranger#0,"""Slide Shot:<br>กด <%MainPaletteC> ขณะถือ Rifle<br><br>ย่อตัวลงและเคลื่อนที่ไปรอบๆ พร้อมกับยิงกระสุนรัว<br>"""
 text0001_force#0,"""Rod Shield:<br>กด <%MainPaletteC> ขณะถือ Rod<br><br>สร้างโล่ขึ้นมาเพื่อป้องกันการโจมตีของศัตรู ฟื้นฟู PP เมื่อป้องกันการโจมตีสำเร็จ<br>"""
 text0001_fighter#0,"""Knuckle Sway:<br>กด <%MainPaletteC> ขณะถือ Knuckles<br><br>โยกตัวหลบการโจมตีของศัตรูอยู่กับที่ แล้วโจมตีสวนกลับ<br>"""
