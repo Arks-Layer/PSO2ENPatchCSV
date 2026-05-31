@@ -7,7 +7,6 @@
 
 Current status of tests and checks: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN_Reboot.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN_Reboot)
 
-โปรเจกต์นี้มีวัตถุประสงค์เพื่อแปลเนื้อหาภายในเกมจากภาษาญี่ปุ่น/อังกฤษเป็นภาษาไทย เพื่อให้ผู้เล่นชาวไทยสามารถสนุกกับเนื้อเรื่องและระบบต่างๆ ของเกมในเวอร์ชันญี่ปุ่นได้อย่างเข้าใจและมีความสุขมากที่สุด
 
 ---
 
