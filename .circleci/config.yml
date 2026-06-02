@@ -72,9 +72,6 @@ jobs:
       - run:
           name: output in fat CSV
           command: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
-      - run:
-          name: Are there any spelling mistakes
-          command: ./_sh/listaspell.sh | tee /tmp/listaspell.txt
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
