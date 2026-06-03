@@ -1,0 +1,7 @@
+TrialName#0,"""그림 모노리스 정화"""
+TrialBeginMsg#0,"""출현한 에너미를 쓰러뜨리고 그림 모노리스를 정화하라!"""
+TrialAbstract#0,"""에너미를 쓰러뜨리고<br>모든 그림 모노리스를 정화하기"""
+TrialPollution#0,"""정화 완료까지"""
+NpcComOnForetaste#0,"""/voice11_voice_navi002_trial_0001_019 그림 모노리스가 오염되었습니다.<br>에너미를 쓰러뜨리고 정화를 부탁드립니다."""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_068 모든 그림 모노리스의 정화를 확인했습니다.<br>수고하셨습니다."""
+NpcComOnHalfPollution#0,"""/voice11_voice_navi002_trial_0001_044 그림 모노리스의 정화를 확인했습니다.<br>남은 오염 모노리스로 향해 주세요."""

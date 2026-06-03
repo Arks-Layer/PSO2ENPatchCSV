@@ -1,9 +1,11 @@
 # Unix EOL
+.gitattributes text eol=lf
 *.sh text eol=lf
 *.py text eol=lf
+*.csv text eol=lf
+*.tsv text eol=lf
 /.circleci/config.yml eol=lf
 #native EOL
-*.csv text
 /_aspell/PSO2.dict.BASE text
 /_aspell/*.dict text
 /release.sed text
