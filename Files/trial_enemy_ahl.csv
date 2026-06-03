@@ -19,3 +19,5 @@ NpcComOnSuccess_DryverusTrial#0,"""エネミーへの対応、<br>ありがと�
 NpcComOnForetasteNGS2#1,"""あっ……、特殊なエネミーの出現を確認しました。<br>情報収集のために、討伐をお願いします。"""
 NpcComOnSuccessNGS2#1,"""さすがは<%me>さんです。<br>討伐お疲れ様でした。"""
 NpcComOnFailureNGS2#1,"""エネミーの撤退を確認しました……。<br>気にせず次に行きましょう！"""
+Zsh_Begin#0,"""/voice11_voice_navi002_trial_0001_021 強力なエネミーの発生を確認しました。<br>対処をお願いします。"""
+Zsh_Finish#0,"""/voice11_voice_navi002_trial_0001_067 対象の討伐を確認。<br>引き続き、調査をお願いします。"""

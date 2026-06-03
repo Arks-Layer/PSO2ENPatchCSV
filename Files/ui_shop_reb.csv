@@ -103,6 +103,7 @@ Window_Titletelop_TakeOverExchange2b#0,"""装備アップグレードⅡ（タ�
 Window_Titletelop_TakeOverExchangeFortas#0,"""フォルタス防具強化（能力引継ぎ）"""
 Window_Titletelop_TakeOverExchangeSpradio#0,"""スプラディオ武器強化（能力引継ぎ）"""
 Window_Titletelop_TakeOverExchange3#0,"""レジェンダリー３武器へ強化（能力引継ぎ）"""
+Window_Titletelop_TakeOverExchangeEvalto#0,"""エヴァルト防具強化（能力引継ぎ）"""
 PaidShop_Top_Title#0,"""AC・SGショップ"""
 PaidShop_Top_Help#0,"""AC、SGで便利なアイテムやファッションアイテムを購入できます。"""
 PaidShop_Top_MenuTitle#0,"""ショップメニュー"""

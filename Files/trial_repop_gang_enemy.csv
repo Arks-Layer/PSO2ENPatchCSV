@@ -1,0 +1,6 @@
+TrialName#0,"""レアエネミー大発生"""
+TrialBeginMsg#0,"""＊＊レアエネミー討伐開始"""
+TrialAbstract#0,"""レアエネミーを倒す"""
+NpcComOnBegin#0,"""/voice11_voice_navi002_trial_0001_011 レアエネミーが大量に出現しました！<br>討伐をお願いします。"""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_066 レアエネミーの大量出現が終了したようです。<br>引き続き、調査をお願いします。"""
+NpcComOnFailure#0,"""＊＊失敗"""

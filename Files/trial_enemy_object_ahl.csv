@@ -1,6 +1,8 @@
 TrialName_1Object#0,"""敵性兵器の破壊"""
 TrialBeginMsg_1Object#0,"""出現した敵性兵器を破壊せよ！"""
 TrialAbstract_1Object#0,"""敵性兵器を破壊する"""
+TrialName_chsercore#0,"""ギルーヴァコアの破壊"""
+TrialAbstract_chsercore#0,"""ギルーヴァコアを破壊する"""
 TrialName_Multi#0,"""敵性オブジェクト破壊"""
 TrialBeginMsg_Multi#0,"""出現した敵性オブジェクトを倒せ！"""
 TrialAbstract_Multi#0,"""敵性オブジェクトを破壊する"""
