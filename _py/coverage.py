@@ -25,7 +25,7 @@ for i in sys.argv[1:]:
 		for row in WCCSV:
 			for n, col in enumerate(row):
 				if n == 1:
-					if len(JPlist) < line:
+					if line >= len(JPlist):
 						countt += 0
 					elif col == JPlist[line]:
 						countt -= 1
