@@ -1,6 +1,8 @@
 TrialName_1Object#0,"""ทำลายอาวุธศัตรู"""
 TrialBeginMsg_1Object#0,"""ทำลายอาวุธศัตรูที่ปรากฏตัวออกมา!"""
 TrialAbstract_1Object#0,"""ทำลายอาวุธศัตรู"""
+TrialName_chsercore#0,"""ギルーヴァコアの破壊"""
+TrialAbstract_chsercore#0,"""ギルーヴァコアを破壊する"""
 TrialName_Multi#0,"""ทำลายวัตถุศัตรู"""
 TrialBeginMsg_Multi#0,"""ทำลายวัตถุศัตรูที่ปรากฏตัวออกมา!"""
 TrialAbstract_Multi#0,"""ทำลายวัตถุศัตรู"""

@@ -52,3 +52,5 @@ GaugeCharge#0,"""M.A.R.S. Battery ของคุณได้รับการ�
 LackOfHWPoints#0,"""Candy ของคุณเหลือน้อย"""
 CandyIcon#0,"""<pict icon_sweets>"""
 LackOfNPoint#0,"""Exploration Points ไม่เพียงพอ"""
+co_access_object_TitleContainer#0,"""コンテナ"""
+co_access_object_ItemSearch#0,"""長押しで調べる"""
