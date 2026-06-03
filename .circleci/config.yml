@@ -2,7 +2,7 @@ version: 3
 jobs:
   build:
     docker:
-      - image: cimg/python:3.10-node
+      - image: ghcr.io/synthsy/arks-layer-buildimages:debian
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
@@ -14,13 +14,10 @@ jobs:
         - JP
         - /.*_Old/
     steps:
-      - run:
-          name: Update APT listing
-          command: sudo apt-get -qq update
-      - run:
-          name: Install rsync
-          command: sudo apt-get --no-install-recommends -qq -y install rsync
-      - checkout
+      - setup_remote_docker:
+          docker_layer_caching: true
+      - checkout:
+          method: blobless
       - run:
           name: Checking DUP folders
           command: ./_sh/dupfolders.sh
@@ -66,15 +63,6 @@ jobs:
       - run:
           name: coverage CSVs
           command: ./_sh/coverage.sh>/tmp/coverage.txt
-      - run:
-          name: Install GNU Aspell spell-checker
-          command: sudo apt-get -qq -y install aspell-en
-      - run:
-          name: spell check CSVs
-          command: ./_sh/aspell.sh|tee /tmp/spellcheck.txt
-      - run:
-          name: sort out spelling mistakes
-          command: cat /tmp/spellcheck.txt|./_tools/sortaspell.sh > /tmp/dict.txt
       - run:
           name: output in GetText PO
           command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
