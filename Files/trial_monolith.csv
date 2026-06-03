@@ -1,7 +1,0 @@
-TrialName#0,"""グリムモノリス浄化"""
-TrialBeginMsg#0,"""出現したエネミーを倒し、グリムモノリスを浄化せよ！"""
-TrialAbstract#0,"""エネミーを倒し<br>すべてのグリムモノリスを浄化する"""
-TrialPollution#0,"""浄化完了まで"""
-NpcComOnForetaste#0,"""/voice11_voice_navi002_trial_0001_019 グリムモノリスが汚染されてしまいました。<br>エネミーを倒し、浄化をお願いします。"""
-NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_068 すべてのグリムモノリスの浄化を確認。<br>お疲れ様でした。"""
-NpcComOnHalfPollution#0,"""/voice11_voice_navi002_trial_0001_044 グリムモノリスの浄化を確認。<br>汚染された残りのモノリスに向かってください。"""

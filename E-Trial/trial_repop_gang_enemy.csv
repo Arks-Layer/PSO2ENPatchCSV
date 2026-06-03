@@ -1,0 +1,6 @@
+TrialName#0,"""레어 에너미 대발생"""
+TrialBeginMsg#0,"""＊＊레어 에너미 토벌 시작"""
+TrialAbstract#0,"""레어 에너미를 쓰러뜨리기"""
+NpcComOnBegin#0,"""/voice11_voice_navi002_trial_0001_011 레어 에너미가 대량으로 출현했습니다!<br>토벌을 부탁드립니다."""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_066 레어 에너미의 대량 출현이 종료된 것 같습니다.<br>계속해서 조사를 부탁드립니다."""
+NpcComOnFailure#0,"""＊＊실패"""
