@@ -1,0 +1,7 @@
+TrialName#0,"""ชำระล้าง Grim Monolith"""
+TrialBeginMsg#0,"""กำจัด Enemy ที่ปรากฏตัว แล้วชำระล้าง Grim Monolith ซะ!"""
+TrialAbstract#0,"""กำจัด Enemy<br>และชำระล้าง Grim Monolith ทั้งหมด"""
+TrialPollution#0,"""จนกว่าจะชำระล้างเสร็จสิ้น"""
+NpcComOnForetaste#0,"""/voice11_voice_navi002_trial_0001_019 Grim Monolith เกิดการแปดเปื้อนแล้วค่ะ<br>ช่วยกำจัด Enemy เพื่อทำการชำระล้างด้วยนะคะ"""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_068 ยืนยันการชำระล้าง Grim Monolith ทั้งหมดเรียบร้อยแล้วค่ะ<br>เหนื่อยหน่อยนะคะ"""
+NpcComOnHalfPollution#0,"""/voice11_voice_navi002_trial_0001_044 ยืนยันการชำระล้าง Grim Monolith ค่ะ<br>กรุณามุ่งหน้าไปยัง Monolith ที่ยังแปดเปื้อนอยู่ส่วนที่เหลือด้วยนะคะ"""

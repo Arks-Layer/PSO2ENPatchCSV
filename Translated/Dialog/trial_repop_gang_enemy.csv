@@ -1,0 +1,6 @@
+TrialName#0,"""Rare Enemy ปรากฏตัวจำนวนมาก"""
+TrialBeginMsg#0,"""＊＊เริ่มการกำจัด Rare Enemy"""
+TrialAbstract#0,"""กำจัด Rare Enemy"""
+NpcComOnBegin#0,"""/voice11_voice_navi002_trial_0001_011 Rare Enemy ปรากฏตัวออกมาเป็นจำนวนมากค่ะ!<br>ขอรบกวนให้ช่วยกำจัดด้วยนะคะ"""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_066 ดูเหมือนการปรากฏตัวจำนวนมากของ Rare Enemy จะสิ้นสุดลงแล้วค่ะ<br>ขอรบกวนให้ทำการสำรวจต่อไปด้วยนะคะ"""
+NpcComOnFailure#0,"""＊＊ล้มเหลว"""

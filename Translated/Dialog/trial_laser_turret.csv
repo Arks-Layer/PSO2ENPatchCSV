@@ -1,0 +1,8 @@
+TrialName_1Enemy#0,"""กำจัด Enemy ในพื้นที่รบกวนของ Arkran"""
+TrialBeginMsg_1Enemy#0,"""ล่อการโจมตีของ <yellow>Arkran<c> แล้วกำจัด $(0) ซะ!"""
+TrialAbstract_1Enemy#0,"""กำจัด $(0)"""
+TrialName_Multi#0,"""กำจัด Enemy ในพื้นที่รบกวนของ Arkran"""
+TrialBeginMsg_Multi#0,"""ล่อการโจมตีของ <yellow>Arkran<c> แล้วกำจัด Enemy ซะ!"""
+TrialAbstract_Multi#0,"""กำจัด Enemy"""
+NpcComOnSpawnLaserTurret1#0,"""เจ้านั่นมันอะไรกัน...?\u3000ยิงเลเซอร์มาด้วย!<br>เข้าไปหลบหลัง Enemy เพื่อเอาตัวรอดจากการโจมตีให้ได้!"""
+NpcComOnSpawnLaserTurret2#0,"""\\ป้อมปืนนำวิถีอันใหม่ปรากฏตัวขึ้นแล้ว!<br>กรุณาหลบหลีกการโจมตีด้วยนะคะ!"""
