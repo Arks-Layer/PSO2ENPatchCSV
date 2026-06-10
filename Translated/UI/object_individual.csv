@@ -24,7 +24,7 @@ BuffContainerOpen_Atk_02#0,"""ได้รับผล <yellow>เพิ่ม�
 BuffContainerOpen_Atk_03#0,"""ได้รับผล <yellow>เพิ่มพลัง Dive Attack/การสร้างสถานะ Down<c> เป็นเวลา 90 วินาที"""
 BuffContainerOpen_Atk_04#0,"""ได้รับผล <yellow>โจมตีเพิ่มเติมเป็นระยะ<c> เป็นเวลา 90 วินาที"""
 LackOfLecielPoints#0,"""Energy Points ของคุณมีไม่พอ"""
-SignContainerContent#0,"""Resta Sign x2 Reverser Sign x1<br>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000     3000<pict buffcon_point>"""
+SignContainerContent#0,"""Resta Sign x2 Reverser Sign x1<br>\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000 \u00a0 \u00a0 3000<pict buffcon_point>"""
 SignContainerOpenMessage#0,"""ฟื้นฟูจำนวนการใช้ Sign แล้ว"""
 BuffContainerOpen_RangeDamage#0,"""เอฟเฟกต์ที่เกิดขึ้นระหว่างเควสต์: <yellow>โจมตีเพิ่มเติมเป็นระยะ<c>"""
 BuffContainerUi_RangeDamage#0,"""โจมตีเพิ่มเติมเป็นระยะ"""
