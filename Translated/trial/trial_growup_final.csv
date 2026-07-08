@@ -8,7 +8,7 @@ Growup_EnemyBuff_4#0,"""/atime5 ศัตรูที่มีฉายา 'Alie
 Growup_EnemyBuff_5#0,"""/atime5 ศัตรูที่มีฉายา 'Alien' จะได้รับบัฟดังต่อไปนี้:<br>$(0)<br>$(1)<br>$(2)<br>$(3)<br>$(4)"""
 SuccessByLifePoint0#0,"""/atime5 เคลียร์ Trial<br>LP หมดแล้ว!"""
 SuccessByTimeOver#0,"""/atime5 เคลียร์ Trial<br>หมดเวลา!"""
-SuccessByAnnihilation#0,"""\\ボスエネミーを撃破したためトライアル終了"""
+SuccessByAnnihilation#0,"""จบ Trial เนื่องจากกำจัดบอสเอเนมี่สำเร็จ"""
 NpcComOnForetaste#0,"""＊＊ลางบอกเหตุ"""
 NpcComOnSuccess#0,"""＊＊สำเร็จ"""
 NpcComOnFailure#0,"""＊＊ล้มเหลว"""
