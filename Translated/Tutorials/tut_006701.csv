@@ -1,0 +1,3 @@
+Title#0,"""Malice Crawling in the Iron Prison"""
+text0001#0,"""เป้าหมายของ Quest นี้คือกำจัด<br>Enemy ให้ได้มากที่สุดภายในเวลาที่กำหนด<br><br>เวลาจำกัดจะ<yellow>เพิ่มขึ้นทุกครั้งที่กำจัด Enemy ได้ตามจำนวนที่กำหนด<c>"""
+text0002#0,"""เมื่อกำจัด Target Enemy ทั้งหมด หรือ<br>เวลาจำกัดหมดลงก็จะถือว่า Quest Clear<br><br>Result Rank ตอนเคลียร์ Quest จะเปลี่ยนไป<br>ตามจำนวน Enemy ที่กำจัดได้"""
