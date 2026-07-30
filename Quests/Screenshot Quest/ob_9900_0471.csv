@@ -11,7 +11,7 @@ GotoEstheYesNo_Message#0,"""에스테로 이동하면<br>「파트너 호출 단
 Button_Yes#0,"""예"""
 Button_No#0,"""아니오"""
 QuestClearYesNo_Title#0,"""퀘스트 클리어 확인"""
-QuestClearYesNo_Message#0,"""（仮）クエストをクリアします？<br>※クエストクリアを実行するとキャンプシップに移動します。"""
+QuestClearYesNo_Message#0,"""(임시) 퀘스트를 클리어하시겠습니까?<br>※퀘스트를 클리어하면 캠프 쉽으로 이동합니다."""
 ReturnCampshipYesNo_Title#0,"""메시지"""
 ReturnCampshipYesNo_Message#0,"""캡프쉽으로 돌아가시겠습니까?"""
 Weather_Title#0,"""날씨 선택"""
