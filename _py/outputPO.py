@@ -49,6 +49,8 @@ if sys.argv[1] == "en":
 	ENcheckForce = True
 itemlist = ["ui_accessories_text", "ui_charamake_parts"]
 allowed_badcheck = {
+	# This Korean name call naturally matches EN; JP adds a small tsu for emphasis.
+	("st_065119", "st_065110_0640#0", "<%me>!", "<%me>っ！"),
 	("st_020790", "st_020790_0080#0", "<%me>!", "<%me>っ！"),
 	("un_025000", "un_025000_0010#0", "……<%me>", "……<%me>君"),
 	("ra_031010", "ra_031010_0140#0", "■■■■■■！　■■■■！", r"■■■■■■！\u3000■■■■！"),
