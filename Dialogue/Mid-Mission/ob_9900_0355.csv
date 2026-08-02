@@ -1,0 +1,3 @@
+GetBullet#0,"""포좌용 탄약을 확보했다"""
+GetBulletMiss#0,"""포좌용 탄약을 더 들 수 없습니다"""
+ChargeBullet#0,"""포좌용 탄약을 보급했다"""
