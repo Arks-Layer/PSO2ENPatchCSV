@@ -9,3 +9,6 @@ TrialAbstract_Multi_SM_PSE#0,"""Defeat the enemies<br><yellow>※Upon success, y
 NpcComOnBegin#0,"""A powerful enemy signal has been detected! Please neutralize it at once!"""
 NpcComOnSuccess#0,"""Enemy neutralization confirmed! Thank you for your rapid response."""
 NpcComOnFailure#0,"""The enemy presence has fled the area. The threat has subsided... for now, anyways."""
+NpcComOnBegin#1,"""ルイノ・アンガの出現を確認！<br>注意して討伐にあたってください。"""
+NpcComOnSuccess#1,"""ルイノ・アンガの討伐を確認！<br>引き続き探索を続けてください。"""
+NpcComOnFailure#1,"""ルイノ・アンガの撤退を確認！<br>引き続き探索を続けてください。"""
