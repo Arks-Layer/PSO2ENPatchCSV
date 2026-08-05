@@ -9,3 +9,6 @@ TrialAbstract_Multi_SM_PSE#0,"""エネミーを倒す<br><yellow>※サイドミ
 NpcComOnBegin#0,"""……強力なエネミーが、あらたに出現！<br>至急、討伐をお願いします。"""
 NpcComOnSuccess#0,"""エネミーの殲滅を確認しました！<br>即応、ありがとうございます。"""
 NpcComOnFailure#0,"""エネミーが撤退しました。<br>……ひとまず、脅威は去りましたね。"""
+NpcComOnBegin#1,"""ルイノ・アンガの出現を確認！<br>注意して討伐にあたってください。"""
+NpcComOnSuccess#1,"""ルイノ・アンガの討伐を確認！<br>引き続き探索を続けてください。"""
+NpcComOnFailure#1,"""ルイノ・アンガの撤退を確認！<br>引き続き探索を続けてください。"""
