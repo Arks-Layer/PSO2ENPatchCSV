@@ -9,3 +9,6 @@ TrialAbstract_Multi_SM_PSE#0,"""에너미 쓰러뜨리기<br><yellow>※사이�
 NpcComOnBegin#0,"""…강력한 에너미가 또다시 출현!<br>서둘러 토벌해 주세요."""
 NpcComOnSuccess#0,"""에너미 섬멸을 확인했습니다!<br>즉시 대응해 주셔서 감사합니다."""
 NpcComOnFailure#0,"""에너미가 퇴각했습니다.<br>…일단 위협은 사라졌네요."""
+NpcComOnBegin#1,"""ルイノ・アンガの出現を確認！<br>注意して討伐にあたってください。"""
+NpcComOnSuccess#1,"""ルイノ・アンガの討伐を確認！<br>引き続き探索を続けてください。"""
+NpcComOnFailure#1,"""ルイノ・アンガの撤退を確認！<br>引き続き探索を続けてください。"""
