@@ -7,12 +7,6 @@ jobs:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
           PARALLEL: --block 43K --no-notice
-    branches:
-      ignore:
-        - develop
-        - /feature-.*/
-        - JP
-        - /.*_Old/
     steps:
       - checkout:
           method: blobless
@@ -102,3 +96,8 @@ jobs:
           path: /tmp/PSO2.CSV.gz
           destination: PSO2.CSV.gz
           resource_size: large
+workflows:
+  pso2-en:
+    jobs:
+      - build:
+          filters: pipeline.git.branch == "JP_Reboot"
