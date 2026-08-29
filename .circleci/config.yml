@@ -1,20 +1,16 @@
-version: 3
+version: 2.1
+
 jobs:
   build:
     docker:
-      - image: synthsy/alpine-rsync-python-nodejs:latest
+      - image: ghcr.io/synthsy/arks-layer-buildimages:main
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
           PARALLEL: --block 43K --no-notice
-    branches:
-      ignore:
-        - develop
-        - /feature-.*/
-        - JP
-        - /.*_Old/
     steps:
-      - checkout
+      - checkout:
+          method: blobless
       - run:
           name: Checking DUP folders
           command: ./_sh/dupfolders.sh
@@ -99,3 +95,9 @@ jobs:
       - store_artifacts:
           path: /tmp/PSO2.CSV.gz
           destination: PSO2.CSV.gz
+
+workflows:
+  pso2-en:
+    jobs:
+      - build:
+          filters: pipeline.git.branch == "JP"
