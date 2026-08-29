@@ -99,5 +99,5 @@ jobs:
 workflows:
     pso2-en:
         jobs:
-            - arks-layer-build:
+            - build:
                 filters: pipeline.git.branch == "EN_Reboot"
