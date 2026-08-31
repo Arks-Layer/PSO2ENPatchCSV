@@ -1,89 +1,103 @@
-version: 3
+version: 2.1
+
 jobs:
-  build:
-    docker:
-      - image: ghcr.io/synthsy/arks-layer-buildimages:main
-        environment:
-          PARALLEL_SHELL: /bin/sh
-          SHELL: /bin/sh
-          PARALLEL: --block 43K --no-notice
-    branches:
-      ignore:
-        - develop
-        - /feature-.*/
-        - JP
-        - /.*_Old/
-        - JP_Reboot
-    steps:
-      - checkout:
-          method: blobless
-      - setup_remote_docker:
-          docker_layer_caching: true
-      - run:
-          name: Checking DUP folders
-          command: ./_sh/dupfolders.sh
-      - run:
-          name: Checking DUP files
-          command: ./_sh/dupfiles.sh
-      - run:
-          name: Add upstream repos
-          command: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
-      - run:
-          name: Verify CSVs as UTF-8
-          command: ./_sh/UTF8.sh
-      - run:
-          name: Verify CSVs with an EOL
-          command: ./_sh/EOL.sh
-      - run:
-          name: Verify CSVs without BOM
-          command: ./_sh/BOM.sh
-      - run:
-          name: Verify CSVs
-          command: ./_sh/CSV.sh
-      - run:
-          name: Check ODD strings in NPC names
-          command: ./_sh/ODD.sh
-      - run:
-          name: Verify folder layout
-          command: ./_sh/checkFiles.sh
-      - run:
-          name: Looking for unchanged Files
-          command: ./_sh/MovedFiles.sh
-      - run:
-          name: checking CSVs for quote issues
-          command: ./_sh/quote.sh
-      - run:
-          name: Check for dup lines
-          command: ./_sh/dupCSV.sh
-      - run:
-          name: verifing CSVs for PSO2 format
-          command: ./_sh/check.sh
-      - run:
-          name: verifing command usages
-          command: ./_sh/command.sh
-      - run:
-          name: coverage CSVs
-          command: ./_sh/coverage.sh>/tmp/coverage.txt
-      - run:
-          name: output in GetText PO
-          command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
-      - run:
-          name: Verify Font rendering
-          command: ./_sh/Fonts.sh
-      - run:
-          name: output in fat CSV
-          command: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
-      - store_artifacts:
-          path: /tmp/PSO2.po.gz
-          destination: PSO2.po.gz
-      - store_artifacts:
-          path: /tmp/coverage.txt
-          destination: coverage.txt
-      - store_artifacts:
-          path: /tmp/mp.log
-          destination: mplog.txt
-      - store_artifacts:
-          path: /tmp/PSO2.CSV.gz
-          destination: PSO2.CSV.gz
-          resource_class: large
-resource_class: large
+    build:
+        docker:
+            - image: ghcr.io/synthsy/arks-layer-buildimages:main
+              environment:
+                  PARALLEL_SHELL: /bin/sh
+                  SHELL: /bin/sh
+                  PARALLEL: --block 43K --no-notice
+        steps:
+            - checkout:
+                method: blobless
+
+            - setup_remote_docker:
+                docker_layer_caching: true
+
+            - run:
+                name: Checking duplicate folders
+                command: ./_sh/dupfolders.sh
+
+            - run:
+                name: Checking duplicate files
+                command: ./_sh/dupfiles.sh
+
+            - run:
+                name: Add upstream repos
+                command: git remote add -f --tags upstream https://github.com/Arks-Layer/PSO2ENPatchCSV.git
+
+            - run:
+                name: Verify CSVs are UTF-8 Encoded
+                command: ./_sh/UTF8.sh
+
+            - run:
+                name: Verify CSVs have an EOL
+                command: ./_sh/EOL.sh
+
+            - run:
+                name: Verify CSVs do not have BOM
+                command: ./_sh/BOM.sh
+
+            - run:
+                name: Verify CSVs are formatted properly as CSVs
+                command: ./_sh/CSV.sh
+
+            - run:
+                name: Verify folder layout
+                command: ./_sh/checkFiles.sh
+
+            - run:
+                name: Check for unchanged/unmodified files
+                command: ./_sh/MovedFiles.sh
+
+            - run:
+                name: Check if CSV files have properly escaped quotes
+                command: ./_sh/quote.sh
+
+            - run:
+                name: Check if there are any duplicate lines
+                command: ./_sh/dupCSV.sh
+
+            - run:
+                name: Check if CSVs are formatted for PSO2
+                command: ./_sh/check.sh
+
+            - run:
+                name: Coverage CSVs
+                command: ./_sh/coverage.sh>/tmp/coverage.txt
+
+            - run:
+                name: Output for GetText PO
+                command: ./_sh/outputPO.sh|gzip -c -v --fast>/tmp/PSO2.po.gz
+
+            - run:
+                name: Check if the font renders properly
+                command: ./_sh/Fonts.sh
+
+            - run:
+                name: Output of fat CSV
+                command: ./_sh/outputCSV.sh|gzip -c -v --fast>/tmp/PSO2.CSV.gz
+
+            - store_artifacts:
+                path: /tmp/PSO2.po.gz
+                destination: PSO2.po.gz
+
+            - store_artifacts:
+                path: /tmp/coverage.txt
+                destination: coverage.txt
+
+            - store_artifacts:
+                path: /tmp/mp.log
+                destination: mplog.txt
+
+            - store_artifacts:
+                path: /tmp/PSO2.CSV.gz
+                destination: PSO2.CSV.gz
+                resource_class: large
+
+workflows:
+    pso2-en:
+        jobs:
+            - build:
+                filters: pipeline.git.branch == "TH_Reboot"
