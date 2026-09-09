@@ -1,0 +1,6 @@
+TrialName#0,"""Rare Enemy Outbreak"""
+TrialBeginMsg#0,"""＊＊レアエネミー討伐開始"""
+TrialAbstract#0,"""Defeat Rare Enemies"""
+NpcComOnBegin#0,"""/voice11_voice_navi002_trial_0001_011 A rare enemy outbreak has just begun! Please defeat as many enemies as you can."""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_066 The rare enemy outbreak has now ended. Please continue with your investigations."""
+NpcComOnFailure#0,"""＊＊失敗"""
