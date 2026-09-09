@@ -1,0 +1,7 @@
+TrialName#0,"""Grim Monolith Purification"""
+TrialBeginMsg#0,"""Defeat the enemies that have spawned and purify the Grim Monoliths!"""
+TrialAbstract#0,"""Defeat the enemies<br>Purify all of the Grim Monoliths"""
+TrialPollution#0,"""Until Purified"""
+NpcComOnForetaste#0,"""/voice11_voice_navi002_trial_0001_019 Grim Monoliths have become contaminated. Defeat enemies to purify the Grim Monoliths."""
+NpcComOnSuccess#0,"""/voice11_voice_navi002_trial_0001_068 All Grim Monoliths have been purified. Thank you for your hard work."""
+NpcComOnHalfPollution#0,"""/voice11_voice_navi002_trial_0001_044 Grim Monoliths have been purified. Move on to the remaining contaminated Monoliths."""
