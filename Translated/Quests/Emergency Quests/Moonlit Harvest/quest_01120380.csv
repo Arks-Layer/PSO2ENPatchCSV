@@ -1,0 +1,7 @@
+Area0S#0,"""Moonlit Harvest"""
+Area0L#0,"""Moonlit Harvest"""
+Title#0,"""Moonlit Harvest"""
+Explanation#0,"""We have received an emergency request from Nadereh. Enemy signatures have been detected in Retem, disrupting harvesting operations in preparation for the Harvest Festival. Secure the area and assist with the harvesting operations as required.<br>――――――――――――――――――――――――――――――――――――――――<br>Clear limit: $(0) time(s) <yellow>(shared among all simultaneous Emergency Quests)<c> <yellow>※No assist NPCs<c>"""
+SimpleExplanation#0,"""Collect Harvest Points"""
+s0#0,"""Defeat the target enemy"""
+normalMsg_1120380#0,"""Defeat enemies/harvest resources<br>to gather points then proceed"""
