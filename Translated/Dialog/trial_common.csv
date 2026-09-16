@@ -106,7 +106,7 @@ ExRewardToast_075#0,"""/atime5 Enemy HP: 75% remaining<br><yellow>Rewards increa
 ExRewardToast_025#0,"""/atime5 Enemy HP: 25% remaining<br><yellow>Rewards increased!<c>"""
 ExRewardTitle#0,"""Increased rewards based on total damage dealt"""
 ExRewardTitle_Point#0,"""Increased rewards based on total items collected"""
-ExRewardTitle_Bounty#0,"""Increased rewards based on total objectives achieved."""
+ExRewardTitle_Bounty#0,"""Completing objectives increases reward tier."""
 TrialSuccessByTimeOver#0,"""Enemy retreated!"""
 TrialSuccessByannihilation#0,"""All enemies defeated!"""
 TrialSuccessSideMissionSuccess#0,"""Trial \""$(0)\"" complete<br>Points earned: $(1)<br>Side Mission Clear Bonus: $(2)"""

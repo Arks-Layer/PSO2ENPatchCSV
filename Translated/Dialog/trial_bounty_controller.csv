@@ -1,6 +1,6 @@
 TrialName#0,"""Hunt Rally"""
 TrialBeginMsg#0,"""Complete as many <pict bounty_target> Hunt Objectives within the time limit!"""
-TrialAbstract#0,"""Complete as many <pict bounty_target> Hunt Objectives which are updated<br>for each Objective completion within the time limit."""
+TrialAbstract#0,"""Complete as many <pict bounty_target> Hunt Objectives<br>within the time limit."""
 BountyFinishToast#0,"""Hunt Objective <yellow>$(0)<c> cleared"""
 BountyFinishToastPoint#0,"""Obtained Exploration Points: 1000"""
 Bounty_HighStarless#0,"""＊＊ハイスターレス"""
