@@ -841,7 +841,7 @@ Fire02_Pattern3#0,"""Fire Crest accumulation rate <yellow>$(0)<c><br>Compound Te
 Ice02_Pattern1#0,"""Fires ice projectiles in 3 directions.<br>PP Consumption <yellow>$(0)<c>"""
 Ice02_Pattern2#0,"""Detonating 2nd level Ice Crest engraves 1st level Ice Crest<br>2nd level Ice Crest power <yellow>$(0)<c><br>PP Consumption <yellow>$(1)<c>"""
 Ice02_Pattern3#0,"""Enemies without Ice Crests accumulate<br>Ice Crests twice as fast.<br>PP Consumption <yellow>$(0)<c>"""
-Light02_Pattern2#0,"""Blocks enemy attacks on use<br>PP Consumption <yellow>$(0)<c>"""
+Light02_Pattern2#0,"""Guards against enemy attacks while casting<br>PP Consumption <yellow>$(0)<c>"""
 Light02_Pattern3#0,"""Uncharged deploys a lingering continuous attack.<br>PP Consumption <yellow>$(0)<c>"""
 SwordPA04_Pattern2#0,"""Increased travel distance<br>Increased attack range<br>PP Consumption <yellow>$(0)<c>"""
 TdaggerPA01_Pattern1#0,"""First half gets increased forward momentum, tracks target<br>vertically and increased attack range<br>PP Consumption <yellow>$(0)<c>"""
