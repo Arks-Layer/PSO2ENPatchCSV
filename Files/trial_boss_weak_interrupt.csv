@@ -1,0 +1,6 @@
+TrialName#0,"""$(0)討伐"""
+TrialBeginMsg#0,"""出現した$(0)を倒せ！"""
+TrialAbstract#0,"""$(0)を倒す"""
+NpcComOnBegin#0,"""強力なエネミーが新たに出現！<br>至急、討伐をお願いします！"""
+NpcComOnSuccess#0,"""エネミーの撃破を確認！<br>お疲れ様でした。"""
+NpcComOnForetaste#0,"""何か来ます！<br>警戒してください！"""
