@@ -1,3 +1,5 @@
 HarvestG1_Abstract#0,"""하베스트 포인트를 모아라!"""
 HarvestG1_Title#0,"""목표 포인트"""
 HarvestG_MAX#0,"""목표 포인트 도달! 앞으로 나아가라"""
+relation_Title#0,"""에너미를 떨어뜨려 포인트를 모아라"""
+relation_Next#0,"""목표 포인트 도달! 앞으로 나아가라"""
