@@ -107,6 +107,7 @@ Window_Titletelop_TakeOverExchangeEvalto#0,"""อัปเกรดชุดป�
 Window_Titletelop_TakeOverExchangeGranillusion#0,"""อัปเกรดอาวุธ Kougensei (ถ่ายโอน Ability)"""
 Window_Titletelop_TakeOverExchangeKinz#0,"""อัปเกรดอาวุธ Kaizu (ถ่ายโอน Ability)"""
 Window_Titletelop_TakeOverExchangeLG5#0,"""แลกเปลี่ยนอาวุธ Rearence"""
+Window_Titletelop_TakeOverExchangeLG5b#0,"""レアレンス 무기 강화(능력 인계)"""
 PaidShop_Top_Title#0,"""ร้านค้า AC & SG"""
 PaidShop_Top_Help#0,"""ใช้ AC และ SG เพื่อซื้อไอเทมแฟชั่นและไอเทมที่มีประโยชน์อื่นๆ"""
 PaidShop_Top_MenuTitle#0,"""เมนูร้านค้า"""
