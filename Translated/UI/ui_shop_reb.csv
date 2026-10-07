@@ -107,6 +107,7 @@ Window_Titletelop_TakeOverExchangeEvalto#0,"""Evault Armor Upgrade (Ability Tran
 Window_Titletelop_TakeOverExchangeGranillusion#0,"""Kougensei Weapon Upgrade (Ability Transfer)"""
 Window_Titletelop_TakeOverExchangeKinz#0,"""Kyz Weapon Upgrade (Ability Transfer)"""
 Window_Titletelop_TakeOverExchangeLG5#0,"""Learenz Weapon Exchange"""
+Window_Titletelop_TakeOverExchangeLG5b#0,"""レアレンス武器強化（能力引継ぎ）"""
 PaidShop_Top_Title#0,"""AC & SG Shop"""
 PaidShop_Top_Help#0,"""Use AC and SG to purchase fashion items and other useful items."""
 PaidShop_Top_MenuTitle#0,"""Shop Menu"""

@@ -1,3 +1,6 @@
 Begin_7002036_b#0,"""/ci1 2 Let's fight together for this."""
 Success_7002036_b#0,"""/ci2 1 Hopefully our next fight goes that smoothly."""
 Failure_7002036_b#0,"""/ci1 3 Don't dwell on it. Let's prepare for the next fight."""
+Begin_7002036_v2_b#0,"""/ci1 2 最後は全員で一緒に戦いましょう。"""
+Success_7002036_v2_b#0,"""/ci1 2 どちらのチームも素晴らしかったわ。"""
+Failure_7002036_v2_b#0,"""/ci1 3 大丈夫よ。<br>また次に備えましょう。"""
