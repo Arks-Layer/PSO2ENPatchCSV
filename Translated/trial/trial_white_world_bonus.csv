@@ -1,6 +1,6 @@
 TrialName#0,"""เปิดใช้งาน Alter Factor ในพื้นที่วงกว้าง"""
 TrialBeginMsg#0,"""White Realm Bonus Trial"""
 TrialAbstract#0,"""กำจัดศัตรูที่ปล่อย Alter Factor"""
-TrialAbstractAelio#0,"""M.A.R.S.を活用し<br>オルタ因子放出エネミーを倒す"""
+TrialAbstractAelio#0,"""ใช้ประโยชน์จาก M.A.R.S.<br>กำจัดศัตรูที่ปล่อย Alter Factor"""
 NpcComOnBegin#0,"""พบศัตรูที่ปล่อย Alter Factor ปรากฏขึ้นทั่วพื้นที่!<br>เป็นโอกาสดีที่จะลดความเข้มข้นของ Factor ลงนะ!"""
-NpcComOnBegin2#0,"""オルタ・ドロームからは特殊なチャージャーが出現するようです。<br>M.A.R.S.を活用して因子濃度を低下させてください！"""
+NpcComOnBegin2#0,"""ดูเหมือนว่าจะมีแท่นชาร์จพิเศษปรากฏขึ้นมาจาก Alter Drome ค่ะ<br>โปรดใช้ประโยชน์จาก M.A.R.S. เพื่อลดความเข้มข้นของ Factor ลงนะคะ!"""
