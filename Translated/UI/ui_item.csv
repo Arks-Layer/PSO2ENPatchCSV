@@ -12637,7 +12637,7 @@ Explanation4#7,"""This is the final confirmation for adding Special Abilities. C
 Title#26,"""Select Item to Limit Break"""
 Explanation1#13,"""Select a weapon or armor to Limit Break. <c fodf60>Items that have reached their final Grind Limit cannot be selected.<c>"""
 Explanation2#12,"""This is the final confirmation for Limit Breaking. Check the details carefully, and select \""Yes\"" if there are no problems."""
-LimitMax#0,"""You cannot select this option because the maximum limit has been reached."""
+LimitMax#0,"""Cannot select: Maximum limit has been reached."""
 CompareTitle#5,"""Limit Break Details"""
 SupportTitle#1,"""Limit Break Support Item"""
 MaterialTitle#3,"""Item Information"""
