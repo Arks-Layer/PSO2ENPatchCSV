@@ -9074,7 +9074,7 @@ Window_KeepOut_Title#0,"""ไม่อนุญาตให้เข้าถึ
 Quest_NG#0,"""<c 76d1ff>เป้าหมายเควสต์<c>: $(0)<br><gray>ไม่สามารถเลือกได้ระหว่างทำเควสต์<c>"""
 BlockSectionMsg#0,"""ไม่สามารถเข้าถึงพื้นที่นี้ได้ในขณะนี้<br>โปรดดูรายละเอียดที่ Players Site"""
 Fast_Travel_CautionMsg#0,"""<light_red>※หากคุณย้ายไปพื้นที่อื่น<br>การจับคู่จะถูกยกเลิก<c>"""
-Fast_Travel_DangerSectionMsg#0,"""<yellow>คุณจะได้รับดาเมจเป็นระยะในพื้นที่นี้<br>สามารถลดความเสียหายได้โดยเพิ่ม 【 Environmental Resist 】<c>"""
+Fast_Travel_DangerSectionMsg#0,"""<yellow>คุณจะได้รับดาเมจเป็นระยะในพื้นที่นี้<br>สามารถลดความเสียหายได้โดยเพิ่ม 【 ต้านทานสภาพแวดล้อม 】<c>"""
 Fast_Travel_EntryRequirementMsg#0,"""เงื่อนไขคำสั่ง: ความคืบหน้า Main Task"""
 Fast_Travel_Level_Rank#0,""" [Rank: $(0)] """
 Fast_Travel_Level_BattlePower#0,"""พลังรบที่ต้องการ: $(0)"""
