@@ -1,0 +1,4 @@
+Title#0,"""EX Style"""
+text0001#0,"""<yellow>“EX Style”<c> คือระบบที่ให้คุณเลือกติดตั้ง 1 รูปแบบ<br>จาก <yellow>“Style”<c> ที่มีอยู่หลากหลาย เพื่อเสริมความแข็งแกร่งให้แก่ตัวละคร<br><br>สามารถติดตั้ง Style ได้ที่ Class Counter"""
+text0002#0,"""ค่า EXP ที่ Main Class ได้รับ<br>จะถูกนำไปเพิ่มให้กับ Style ที่ติดตั้งอยู่ด้วยเช่นกัน<br>เมื่อค่า EXP สะสมถึงปริมาณที่กำหนด เลเวลของ Style จะเพิ่มขึ้น<br>และจะได้รับ <yellow>“Style Skill Point”<c><br><br>คุณสามารถใช้ Skill Point เพื่อเรียนรู้ <yellow>“Style Skill”<c><br>ได้ที่หัวข้อ <yellow>“เรียนรู้ Style Skill”<c> ของ Class Counter<br>※สามารถรีเซ็ตและจัดสรร Skill Point ใหม่ได้ไม่จำกัดจำนวนครั้ง"""
+text0003#0,"""เมื่อเรียนรู้ Style Skill บางสกิลที่กำหนด<br>จะปลดล็อกแอ็กชันพิเศษ <yellow>“After Blast”<c><br><br>“After Blast” สามารถเปิดใช้งานได้โดยกดเลือก Photon Blast จาก Palette อีกครั้ง<br>หลังจากที่ใช้งาน Photon Blast ไปแล้ว<br>ในระหว่างที่สามารถใช้งาน After Blast ได้ ไอคอนของ Photon Blast จะเปลี่ยนเป็นไอคอนเฉพาะ"""
