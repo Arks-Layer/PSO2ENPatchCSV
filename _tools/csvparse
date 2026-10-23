@@ -1,0 +1,229 @@
+#!/usr/bin/env -S uv run --script
+#
+# Requires uv from https://docs.astral.sh/uv/getting-started/installation/
+# Edit the fields in "EDIT FIELDS BELOW"
+#
+#
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "simplejson",
+#     "requests",
+#     "pandas"
+# ]
+# ///
+
+import os
+import sys
+import argparse
+import getpass
+import re
+import requests
+import csv
+import simplejson as json
+import pandas as pd
+from pathlib import Path
+
+# =======================
+# EDIT BELOW ONLY
+# =======================
+
+PSO2ESJSON_ROOT = './esbreaker/json/' # where the PSO2esTranslation json folder is located at
+PSO2CSV_ROOT = './PSO2ENPatchCSV/UI/' # PSO2 Classic repo (not NGS/Reboot) location
+REBOOT_COMMON_CSV = './NGSENPatchCSV/Translated/UI/common.csv' # NGS (Reboot) common.csv location
+
+# =======================
+# DO NOT EDIT/CHANGE
+# =======================
+
+# Salon export files
+ES_SOURCE_FILES = [
+	PSO2ESJSON_ROOT + 'Item_BaseWear_Female.txt',
+	PSO2ESJSON_ROOT + 'Item_BaseWear_Male.txt',
+	PSO2ESJSON_ROOT + 'Item_FacePattern.txt',
+	PSO2ESJSON_ROOT + 'Item_InnerWear_Female.txt',
+	PSO2ESJSON_ROOT + 'Item_InnerWear_Male.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Arkscard_BG.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_BodyPartsF.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_BodyPartsM.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Skin.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Ear.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Horn.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Tooth.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_OuterWearF.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_OuterWearM.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_ArmPartsF.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_ArmPartsM.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_LegPartsF.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_LegPartsM.txt',
+	PSO2ESJSON_ROOT + 'Item_Outer_Female.txt',
+	PSO2ESJSON_ROOT + 'Item_Outer_Male.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Accessory.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_EyeBrow.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_EyeLash.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Eye.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_FacePaint.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Hairstyle.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Headparts.txt',
+	PSO2ESJSON_ROOT + 'Item_Stack_Voice.txt'
+	]
+
+PSO2_SALON = [
+	PSO2CSV_ROOT + 'ui_accessories_text.csv',
+	PSO2CSV_ROOT + 'ui_charamake_parts.csv',
+	]
+
+MOTION_SOURCES = [
+	(PSO2ESJSON_ROOT + 'Item_Stack_LobbyAction.txt', False),
+	(PSO2ESJSON_ROOT + 'Item_Stack_MotionChange.txt', True)
+	]
+
+MOTION_PREFIXES = (
+	'LobbyAction_',
+	'Substitute_Idle_',
+	'Substitute_Jump_',
+	'Substitute_Landing_',
+	'Substitute_Move_',
+	'Substitute_Sprint_',
+	'Substitute_Glide_',
+	'Substitute_Swim_',
+	)
+
+class prettyHelp(argparse.ArgumentDefaultsHelpFormatter):
+	def _format_action_invocation(self, action):
+		if action.option_strings:
+			return ', '.join(action.option_strings)
+		return super()._format_action_invocation(action)
+
+class CSVJsonConvert:
+	def __init__(self):
+		self.parser = argparse.ArgumentParser(
+			prog="csvparse",
+			description="A glorified needle in a haystack",
+			formatter_class=lambda prog: prettyHelp(prog, width=100)
+		)
+		self._configArgs()
+
+	def mapping(self, replacements):
+		with open(replacements, "r", encoding="utf-8") as json_File:
+			return json.load(json_File)
+
+	def tlmapping(self):
+		mapping = {}
+
+		for source in ES_SOURCE_FILES:
+			with open (source, "r", encoding="utf-8") as json_File:
+				jsonData = json.load(json_File)
+
+			for entry in jsonData:
+				key = entry.get("jp_text")
+				value = entry.get("tr_text")
+
+				if not key or not value:
+					continue
+
+				if key.startswith('\uffe5'):
+					continue
+
+				mapping[key.replace('\u3000', ' ')] = value
+
+		return mapping
+
+	def momapping(self):
+		jpPattern = re.compile(r'\u300c(.*)\u300d')
+		trPattern = re.compile(r'"(.*)"')
+		mapping = {}
+
+		for source, split_category in MOTION_SOURCES:
+			with open(source, "r", encoding="utf-8") as json_File:
+				jsonData = json.load(json_File)
+
+			for entry in jsonData:
+				key = entry.get("jp_text")
+				value = entry.get("tr_text")
+
+				if not key or not value:
+					continue
+
+				if key.startswith('\uffe5'):
+					continue
+
+				jpMatch = jpPattern.search(key)
+				trMatch = trPattern.search(value)
+
+				if jpMatch:
+					key = jpMatch.group(1)
+
+				if trMatch:
+					value = trMatch.group(1)
+
+				if split_category:
+					key = key.split('\uff1a', 1)[-1]
+					value = value.split(': ', 1)[-1]
+
+				mapping[key] = value
+
+		return mapping
+
+	def replacer(self, input_file, output_path, replacements, exact=False, prefixes=None):
+		df = pd.read_csv(input_file, dtype=str, header=None, encoding='utf-8')
+		quote_pattern = re.compile(r'"(.*?)"')
+		file_name = os.path.basename(input_file)
+
+		def replace_text(cell):
+			match = quote_pattern.search(str(cell))
+			if match:
+				inner_text = match.group(1)
+
+				if inner_text.startswith('\uffe5'):
+					return cell
+
+				if exact:
+					modified_text = replacements.get(inner_text)
+
+					if modified_text is None:
+						return cell
+				else:
+					modified_text = inner_text
+
+					for key, value in replacements.items():
+						if key in modified_text:
+							modified_text = modified_text.replace(key, value)
+
+					if modified_text == inner_text:
+						return cell
+
+				return cell.replace(inner_text, modified_text)
+			return cell
+
+		if prefixes is None:
+			df = df.apply(lambda col: col.map(replace_text))
+		else:
+			rows = df[0].fillna('').str.startswith(prefixes)
+			df.loc[rows, 1] = df.loc[rows, 1].map(replace_text)
+
+		df.to_csv(f'{output_path}/{file_name}', index=False, header=False, encoding='utf-8')
+
+	def _configArgs(self): # define commands
+		group = self.parser.add_mutually_exclusive_group(required=True)
+
+		group.add_argument("-r", "--replace", nargs=3, metavar=("<input file>", "<output path>", "<json dictionary>"), help="Fill in lines from dictionary.")
+		group.add_argument("-t", "--translate", nargs=1, metavar=("<output path>"), help="Fill in lines from a list-style dictionary using jp_text/tr_text pairs.")
+		group.add_argument("-m", "--motion", nargs=1, metavar=("<output path>",), help="Translate lobby actions and motions in common.csv.")
+
+	def parseArgs(self): # parse commands
+		args = self.parser.parse_args()
+
+		if args.replace:
+			self.replacer(args.replace[0], args.replace[1], args.replace[2])
+
+		if args.translate:
+			for source in PSO2_SALON:
+				self.replacer(source, args.translate[0], self.tlmapping(), exact=True)
+
+		if args.motion:
+			self.replacer(REBOOT_COMMON_CSV, args.motion[0], self.momapping(), exact=True, prefixes=MOTION_PREFIXES)
+
+if __name__ == "__main__":
+	app = CSVJsonConvert()
+	app.parseArgs()
