@@ -1,23 +1,16 @@
-version: 3
+version: 2.1
 jobs:
   build:
+    shell: /bin/bash -eo pipefail
     docker:
-      - image: ghcr.io/synthsy/arks-layer-buildimages:debian
+      - image: ghcr.io/synthsy/arks-layer-buildimages:main
         environment:
           PARALLEL_SHELL: /bin/sh
           SHELL: /bin/sh
           PARALLEL: --block 43K --no-notice
-    branches:
-      ignore:
-        - develop
-        - /feature-.*/
-        - JP
-        - /.*_Old/
     steps:
-      - setup_remote_docker:
-          docker_layer_caching: true
       - checkout:
-          method: blobless
+          method: full
       - run:
           name: Checking DUP folders
           command: ./_sh/dupfolders.sh
@@ -64,8 +57,14 @@ jobs:
           name: coverage CSVs
           command: ./_sh/coverage.sh>/tmp/coverage.txt
       - run:
+          name: Output for GetText PO
+          command: ./_sh/outputPO.sh | gzip -c -v --fast > /tmp/PSO2.po.gz
+      - run:
           name: Verify Font rendering
           command: ./_sh/Fonts.sh
+      - run:
+          name: Output of fat CSV
+          command: ./_sh/outputCSV.sh | gzip -c -v --fast > /tmp/PSO2.CSV.gz
       - store_artifacts:
           path: /tmp/PSO2.po.gz
           destination: PSO2.po.gz
@@ -78,3 +77,14 @@ jobs:
       - store_artifacts:
           path: /tmp/PSO2.CSV.gz
           destination: PSO2.CSV.gz
+
+workflows:
+  pso2-ko-reboot:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - KO_Reboot
+            tags:
+              ignore: /.*/
