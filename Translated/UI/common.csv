@@ -2489,7 +2489,7 @@ Guide_MySpace_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u300
 Guide_Event_01#0,"""Camera Control: <swguidetype EventCamera>"""
 Guide_CoordCatalog_01#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Switch Window: <%ChangeCtrlWindowForward>\u3000\u3000Submenu: <%Function>"""
 Guid_LaboItemDetail#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000Switch Window: <%ChangeCtrlWindowForward>\u3000\u3000Cycle through Item Details tabs: <%NextTabDetails>"""
-Guid_ActionCustomizeSettings#0,"""決定：<%Decide>\u3000\u3000キャンセル：<%Cancel>\u3000\u3000操作項目の移動：<%NextWidget>\u3000\u3000 すべて外す：<%Exception>"""
+Guid_ActionCustomizeSettings#0,"""Confirm: <%Decide>\u3000\u3000Cancel: <%Cancel>\u3000\u3000Switch Pane: <%NextWidget>\u3000\u3000 Remove All: <%Exception>"""
 Substitute_Idle_0#0,"""Standard"""
 Substitute_Idle_1#0,"""Simple"""
 Substitute_Idle_2#0,"""Simple 2"""
