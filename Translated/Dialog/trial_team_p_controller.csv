@@ -1,0 +1,8 @@
+GaugeTitle#0,"""Collect Points to summon the Boss Enemy"""
+Lane1#0,"""Red Team"""
+Lane2#0,"""Green Team"""
+AffiliatedLane1#0,"""Assigned > Red Team"""
+AffiliatedLane2#0,"""Assigned > Green Team"""
+TeamPoint#0,"""$(0) Pt"""
+OnSwitch1#0,"""＊スイッチ押されました\u3000$(0) ＊ $(1) """
+OnSwitch2#0,"""＊スイッチ押されました\u3000$(0) ＊ $(1) ＊ $(2) ＊ $(3)"""

@@ -1,0 +1,5 @@
+TrialName#0,"""Super Alter Factor Activation"""
+TrialBeginMsg#0,"""Defeat the enemy emitting excess Alter Factor"""
+TrialAbstract#0,"""Utilizing M.A.R.S.<br>Defeat the enemy emitting excess Alter Factor"""
+NpcComOnBegin#0,"""オルタ因子を大量に放出しているエネミーが現れました！<br>因子濃度を大きく低下させるチャンスです！"""
+NpcComOnBegin2#0,"""オルタ・ドロームからは特殊なチャージャーが出現するようです。<br>M.A.R.S.を活用して因子濃度を低下させてください！"""
