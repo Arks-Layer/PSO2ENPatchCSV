@@ -1,0 +1,6 @@
+NpcComOnDefeated#0,"""$(0) has defeated the specified enemy."""
+TrialName#0,"""Targetted Enemy Hunt"""
+TrialBeginMsg#0,"""Hunt and defeat the $(0)"""
+TrialAbstract#0,"""Hunt and defeat the $(0)"""
+NpcComOnBegin#0,"""あら？\u3000どこかに$(0)がいるようです。<br>探し出して討伐してください！"""
+NpcComOnFailure#0,"""$(0)は去ってしまったようです。<br>通常の探索に戻ってください。"""
