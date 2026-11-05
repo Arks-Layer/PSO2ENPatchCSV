@@ -68,6 +68,12 @@ ES_SOURCE_FILES = [
 	PSO2ESJSON_ROOT + 'Item_Stack_Voice.txt'
 	]
 
+PSO2_VOICE = PSO2ESJSON_ROOT + 'Item_Stack_Voice.txt'
+
+VOICE_PREFIXES = (
+	'11_voice_',
+)
+
 PSO2_SALON = [
 	PSO2CSV_ROOT + 'ui_accessories_text.csv',
 	PSO2CSV_ROOT + 'ui_charamake_parts.csv',
@@ -112,7 +118,7 @@ class CSVJsonConvert:
 		mapping = {}
 
 		for source in ES_SOURCE_FILES:
-			with open (source, "r", encoding="utf-8") as json_File:
+			with open(source, "r", encoding="utf-8") as json_File:
 				jsonData = json.load(json_File)
 
 			for entry in jsonData:
@@ -127,6 +133,46 @@ class CSVJsonConvert:
 
 				mapping[key.replace('\u3000', ' ')] = value
 
+		return mapping
+
+	def cvLine(self, text, prefix):
+		for line in (text or "").split('\n'):
+			if line.startswith(prefix):
+				return line[len(prefix):].strip()
+
+		return None
+
+	def voicesInMyHead(self):
+		mapping = {}
+		with open(PSO2_VOICE, "r", encoding="utf-8") as jsonFile:
+			jsonData = json.load(jsonFile)
+
+		for entry in jsonData:
+			key = entry.get("jp_text")
+			value = entry.get("tr_text")
+
+			if not key or not value:
+				continue
+
+			if key.startswith('\uffe5'):
+				continue
+
+			jpCV = self.cvLine(entry.get("jp_explain"), '\uff23\uff36')
+			trCV = self.cvLine(entry.get("tr_explain"), 'CV: ')
+
+			if not trCV:
+				continue
+
+			key = re.sub(r'^T\d', '', key).replace('\u30dc\u30a4\u30b9', '').strip()
+			value = re.sub(r'\s*Voice\b', '', re.sub(r'^T\d\s*', '', value)).strip()
+
+			if not key or not value:
+				continue
+
+			mapping[key] = f'{value}/{trCV}'
+
+			if jpCV:
+				mapping[f'{key}/{jpCV}'] = f'{value}/{trCV}'
 		return mapping
 
 	def momapping(self):
@@ -165,10 +211,9 @@ class CSVJsonConvert:
 
 		return mapping
 
-	def replacer(self, input_file, output_path, replacements, exact=False, prefixes=None):
+	def replacer(self, input_file, replacements, exact=False, prefixes=None):
 		df = pd.read_csv(input_file, dtype=str, header=None, encoding='utf-8')
 		quote_pattern = re.compile(r'"(.*?)"')
-		file_name = os.path.basename(input_file)
 
 		def replace_text(cell):
 			match = quote_pattern.search(str(cell))
@@ -202,27 +247,32 @@ class CSVJsonConvert:
 			rows = df[0].fillna('').str.startswith(prefixes)
 			df.loc[rows, 1] = df.loc[rows, 1].map(replace_text)
 
-		df.to_csv(f'{output_path}/{file_name}', index=False, header=False, encoding='utf-8')
+		df.to_csv(input_file, index=False, header=False, encoding='utf-8')
 
 	def _configArgs(self): # define commands
 		group = self.parser.add_mutually_exclusive_group(required=True)
 
-		group.add_argument("-r", "--replace", nargs=3, metavar=("<input file>", "<output path>", "<json dictionary>"), help="Fill in lines from dictionary.")
-		group.add_argument("-t", "--translate", nargs=1, metavar=("<output path>"), help="Fill in lines from a list-style dictionary using jp_text/tr_text pairs.")
-		group.add_argument("-m", "--motion", nargs=1, metavar=("<output path>",), help="Translate lobby actions and motions in common.csv.")
+		group.add_argument("-r", "--replace", nargs=2, metavar=("<input file>", "<json dictionary>"), help="Fill in lines from dictionary.")
+		group.add_argument("-t", "--translate", action='store_true', help="Fill in lines from a list-style dictionary using jp_text/tr_text pairs.")
+		group.add_argument("-m", "--motion", action='store_true', help="Translate lobby actions and motions in common.csv.")
+		group.add_argument("-v", "--voice", action='store_true', help="Translate character voices.")
 
 	def parseArgs(self): # parse commands
 		args = self.parser.parse_args()
 
 		if args.replace:
-			self.replacer(args.replace[0], args.replace[1], args.replace[2])
+			self.replacer(args.replace[0], self.mapping(args.replace[1]))
 
 		if args.translate:
+			replacements = self.tlmapping()
 			for source in PSO2_SALON:
-				self.replacer(source, args.translate[0], self.tlmapping(), exact=True)
+				self.replacer(source, replacements, exact=True)
 
 		if args.motion:
-			self.replacer(REBOOT_COMMON_CSV, args.motion[0], self.momapping(), exact=True, prefixes=MOTION_PREFIXES)
+			self.replacer(REBOOT_COMMON_CSV, self.momapping(), exact=True, prefixes=MOTION_PREFIXES)
+
+		if args.voice:
+			self.replacer(PSO2_VOICE, self.voicesInMyHead(), exact=True, prefixes=VOICE_PREFIXES)
 
 if __name__ == "__main__":
 	app = CSVJsonConvert()
